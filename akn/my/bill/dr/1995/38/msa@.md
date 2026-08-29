@@ -1542,7 +1542,7 @@ Pindaan
 
 (a) dengan menggantikan nota birai dengan nota birai yang berikut:
 
-"Kewajipan orang yang relevan atau pengarah atau pegawainya u n t uk memberikan maklumat."; dan
+"Kewajipan orang yang relevan atau pengarah atau pegawainya untuk memberikan maklumat."; dan
 
 (b) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
@@ -2540,7 +2540,7 @@ Seksyen 15B menjadikan pelanggaran seksyen 12, 13, 14, 15, 15A atau 15B suatu ke
 
 27. Fasal 34 bertujuan untuk meminda seksyen 39 Akta untuk memperluas tugas untuk menzahirkan kepentingan tertentu .dalam sekuriti kepada pengurus kumpulan wang dan wakil pengurus kumpulan wang.
 
-28. Fasal 35 bertujuan meminda seksyen 40 Akta u n t uk membolehkan seseorang klien membatalkan sesuatu kontrak dalam masa empat belas hari selepas menyedari tentang pelanggaran subseksyen 40(1) atau (3) oleh peniaga.
+28. Fasal 35 bertujuan meminda seksyen 40 Akta untuk membolehkan seseorang klien membatalkan sesuatu kontrak dalam masa empat belas hari selepas menyedari tentang pelanggaran subseksyen 40(1) atau (3) oleh peniaga.
 
 29. Fasal 36 bertujuan memasukkan seksyen baru 40A, 40B dan
 
@@ -2566,7 +2566,7 @@ Seksyen 40C membenarkan Suruhanjaya untuk menetapkan atau mengenakan ke atas ora
 
 36. Fasal 44 bertujuan memasukkan seksyen baru 45A untuk mengenakan ke atas seseorang peniaga obligasi untuk membekali, atas permintaan, kliennya atau mana-mana orang yang diberikuasa oleh klien itu, salinan segala catatan yang berhubungan dengan apa- apa tranksaksi yang dijalankan bagi pihak klien itu.
 
-37. Fasal 46 bertujuan meminda Bahagian VII Akta u n t uk mewujudkan Penggal baru 2 (seksyen 47A hingga 47E) untuk memperkatakan secara khusus kehendak perakaunan pengurus kumpulan wang.
+37. Fasal 46 bertujuan meminda Bahagian VII Akta untuk mewujudkan Penggal baru 2 (seksyen 47A hingga 47E) untuk memperkatakan secara khusus kehendak perakaunan pengurus kumpulan wang.
 
 Seksyen 47A menjelaskan pemakaian Penggal ini bagi pengurus kumpulan wang.
 

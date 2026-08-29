@@ -1092,7 +1092,7 @@ to the person who suffered, or is likely to suffer, the loss or damage, as the c
 
 33. (1) Subject to subsection (2), the following guarantees shall be implied where goods are supplied to a consumer:
 
-(a) that the goods are reasonably fit for any particular purpose that the consumer makes k n o w n, expressly or by implication, to the supplier as the purpose for which the goods are being acquired by the consumer; and
+(a) that the goods are reasonably fit for any particular purpose that the consumer makes known, expressly or by implication, to the supplier as the purpose for which the goods are being acquired by the consumer; and
 
 (b) that the goods are reasonably fit for any particular purpose for which the supplier represents that they are or will be fit.
 

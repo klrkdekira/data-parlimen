@@ -428,7 +428,7 @@ harta pusakanya telah dilantik, atau menjadi tidak upaya, oleh sebab kelemahan a
 
 (i) jika wang polisi ialah sepuluh ribu ringgit atau kurang atau apa-apa amaun
 
-<!-- marginal: l a i n -->
+<!-- marginal: lain -->
 
 sebagaimana yang ditetapkan, boleh membayar kepada seseorang yang memuaskan hati penanggung insurans luar pesisir bahawa dia akan menggunakan wang polisi itu bagi saraan dan faedah penama di bawah subseksyen 25E(1), atau seseorang yang kepadanya wang polisi kena dibayar di bawah subseksyen 25H(2) atau (6), tertakluk kepada peiaksanaan aku janji oleh orang itu bahawa wang polisi itu akan digunakan semata-mata bagi saraan dan faedah penama itu; dan
 

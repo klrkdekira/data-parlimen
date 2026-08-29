@@ -348,7 +348,7 @@ sekiranya mesyuarat pertama itu kemudiannya tidak sah, peruntukan subseksyen 6(1
 
 (3) Badan hendaklah disifatkan —
 
-(a) bagi maksud mengambil apa-apa insurans di bawah perenggan (l)(c), mempunyai kepentingan boleh insurans dalam bangunan itu yang sama dengan nilai gantiannya atau apa-apa nilai sebagaimana yang ditentukan oleh Badan; dan
+(a) bagi maksud mengambil apa-apa insurans di bawah perenggan ( l ) ( c ) , mempunyai kepentingan boleh insurans dalam bangunan itu yang sama dengan nilai gantiannya atau apa-apa nilai sebagaimana yang ditentukan oleh Badan; dan
 
 (b) bagi maksud mengambil apa-apa insurans di bawah perenggan (l)(d), mempunyai kepentingan boleh insurans dalam hal perkara insurans itu.
 

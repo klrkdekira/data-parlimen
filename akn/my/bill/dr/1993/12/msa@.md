@@ -176,7 +176,7 @@ Pmdaan
 
 Pindaan
 
-13. Seksyen 77 Akta ibu adalah d i p i n d a- seksyen 77.
+13. Seksyen 77 Akta ibu adalah dipinda- seksyen 77.
 
 (a) dengan memasukkan selepas perkataan "betung" dalam nota birai perkataan "awam,"; dan
 

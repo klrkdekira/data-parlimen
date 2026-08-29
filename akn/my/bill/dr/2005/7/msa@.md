@@ -4,7 +4,7 @@
 
 ## RANG UNDANG-UNDANG
 
-### bernama
+### b e rn am a
 
 Suatu Akta bagi menggunakan sejumlah wang daripada Kumpulan Wang Disatukan untuk perbelanjaan tambahan bagi perkhidmatan tahun 2004 dan bagi memperuntukkan jumlah wang itu untuk maksud-maksud yang tertentu bagi tahun itu.
 

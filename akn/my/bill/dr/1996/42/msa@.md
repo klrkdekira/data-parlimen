@@ -34,7 +34,7 @@
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN) 1967
 
-25. Mula berkuatkuasanya pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967. 26. Pindaan seksyen 2. 27. Pindaan seksyen 16. 28. Pindaan seksyen 22. 29. Pindaan seksyen 69. 30. Pindaan seksyen 70. 31. Pindaanseksyen71.
+25. Mula berkuatkuasanya pindaan kepada Akta Petroleum (Cukai Pendapatan) 1967. 26. Pindaan seksyen 2. 27. Pindaan seksyen 16. 28. Pindaan seksyen 22. 29. Pindaan seksyen 69. 30. Pindaan seksyen 70. 3 1 . Pindaan seksyen 71.
 
 ## BAB IV
 
@@ -530,7 +530,7 @@ subperenggan 42A(1) dengan menggantikan perkataan "business of manufacturing" de
 
 ## Jadual 6.
 
-(a) dalam subperenggan 12(1)(b)
+(a) dalam subperenggan 1 2 ( 1 )( b)
 
 <!-- marginal: dengan -->
 

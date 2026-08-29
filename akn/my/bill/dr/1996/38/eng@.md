@@ -162,7 +162,7 @@ Amendment
 
 <!-- marginal: seksyen 59E. -->
 
-menggantikan perkataan "(2)(d) dan (2)(e)" dengan perkataan "(2)(a), (2)(d), (2)(e) dan (2)(f)".
+menggantikan perkataan "(2)(d) dan (2)(e)" dengan perkataan "(2)(a), (2)(d), (2)(e) dan ( 2 )( f )".
 
 <!-- marginal: Pindaan -->
 

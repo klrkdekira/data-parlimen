@@ -22,9 +22,9 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## EXPLANATORY STATEMENT
 
-This B i l l seeks to amend the Exclusive Economic Zone Act 1984 ("Act 311").
+This Bill seeks to amend the Exclusive Economic Zone Act 1984 ("Act 311").
 
-2. Clause I contains the short t i t l e and the provision on the commencement date of the proposed Act.
+2. Clause I contains the short title and the provision on the commencement date of the proposed Act.
 
 3. Clause 2 seeks to delete subsection 3(3) of Act 311 in consequence of the enactment of the Baselines of Maritime Zones Act 2006.
 

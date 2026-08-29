@@ -200,17 +200,17 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pemegang Amanah (Pemerbadana
 
 6. Fasal 8 bertujuan untuk meminda seksyen 7 Akta 258 supaya perakuan Pemerbadanan menjadi keterangan konklusif tentang Pemerbadanan scsuatu pertubuhan perbadanan selagi perakuan itu tidak dibatalkan.
 
-7. Fasal 9 bertujuan untuk meminda seksyen 10 Akta 258 untuk menaikkan duti setem yang kena dibayar bagi sesuatu permohonan bagi perakuan Pemerbadanan dan perakuan i t u daripada RM10.00 kepada RM30.00.
+7. Fasal 9 bertujuan untuk meminda seksyen 10 Akta 258 untuk menaikkan duti setem yang kena dibayar bagi sesuatu permohonan bagi perakuan Pemerbadanan dan perakuan itu daripada RM10.00 kepada RM30.00.
 
 8. Fasal 10 bertujuan untuk meminda seksyen 15 Akta 258 bagi menghendaki akaun tahunan sesuatu pertubuhan perbadanan dikemukakan kepada Menteri, dan tidak kepada Peguam Negara. Akaun itu hendaklah dikemukakan scbclum 30 Jun dan tidak 25 Mac setiap tahun.
 
-9. Fasal 11 bertujuan untuk memasukkan seksyen baru 17,18 dan 19 ke dalam Akta 258. Peruntukan ini mengandungi perkara-perkara mengenai pembatalan perakuan Pemerbadanan sesuatu pertubuhan perbadanan, pembubaran sukarela sesuatu pertubuhan perbadanan dan akibat daripada pembatalan dan pembubaran i t u . Fasal ini juga bertujuan untuk memasukkan seksyen baru 20 untuk membolehkan Menteri melantik Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar bagi maksud membantunya dalam melaksanakan peruntukan Akta itu dan seksyen baru 21 yang bertujuan untuk memberi Menteri kuasa untuk membuat peraturan-peraturan bagi maksud memberi kuat kuasa penuh kepada peruntukan Akta itu.
+9. Fasal 11 bertujuan untuk memasukkan seksyen baru 17,18 dan 19 ke dalam Akta 258. Peruntukan ini mengandungi perkara-perkara mengenai pembatalan perakuan Pemerbadanan sesuatu pertubuhan perbadanan, pembubaran sukarela sesuatu pertubuhan perbadanan dan akibat daripada pembatalan dan pembubaran itu. Fasal ini juga bertujuan untuk memasukkan seksyen baru 20 untuk membolehkan Menteri melantik Pendaftar, Timbalan Pendaftar dan Penolong Pendaftar bagi maksud membantunya dalam melaksanakan peruntukan Akta itu dan seksyen baru 21 yang bertujuan untuk memberi Menteri kuasa untuk membuat peraturan-peraturan bagi maksud memberi kuat kuasa penuh kepada peruntukan Akta itu.
 
 10. Pindaan-pindaan lain yang tidak disebut secara khusus dalam Huraian ini merupakan pindaan yang kecil atau berbangkit.
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang i n i akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
 <!-- marginal: [PN(U2)2324] -->
 

@@ -68,7 +68,7 @@ IV
 
 22. Kuasa untuk menyebabkan tangki septik persendirian dibersihkan, dsb.
 
-23. Kuasa Ketua Pengarah u n t uk menghendaki
+23. Kuasa Ketua Pengarah untuk menghendaki
 
 <!-- marginal: sistem -->
 
@@ -1374,7 +1374,7 @@ Fasal 27 dan 28 bertujuan memberi Ketua Pengarah dan mana- mana orang yang diber
 
 Fasal 29 mengadakan peruntukan bagi pembayaran pampasan kerana kerosakan yang disebabkan oleh apa-apa kemasukan yang dibuat di bawah fasal 27 atau 28.
 
-8. Bahagian VII bertujuan memberi Menteri kuasa u n t uk menetapkan caj bagi perkhidmatan pembetungan dan untuk memberikuasa mana-mana orang yang dengannya perjanjian penswastaan sudah dibuat untuk memungut caj itu.
+8. Bahagian VII bertujuan memberi Menteri kuasa untuk menetapkan caj bagi perkhidmatan pembetungan dan untuk memberikuasa mana-mana orang yang dengannya perjanjian penswastaan sudah dibuat untuk memungut caj itu.
 
 9. Bahagian VIII bertujuan melarang mana-mana orang mendirikan apa-apa sistem pembetungan melainkan jika pelan dan spesifikasi bagi sistem itu sudah diluluskan oleh Ketua Pengarah.
 

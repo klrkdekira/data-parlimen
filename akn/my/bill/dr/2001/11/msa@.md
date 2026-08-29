@@ -70,7 +70,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) boleh menghendaki—
 
-(i) orang yang pegawai cukai jualan itu mempunyai sebab yang munasabah u n t uk mengesyaki menggunakan atau telah menggunakan komputer itu atau yang bagi pihaknya komputer itu digunakan atau telah digunakan sedemikian; atau
+(i) orang yang pegawai cukai jualan itu mempunyai sebab yang munasabah untuk mengesyaki menggunakan atau telah menggunakan komputer itu atau yang bagi pihaknya komputer itu digunakan atau telah digunakan sedemikian; atau
 
 (ii) orang yang menjaga, atau selainnya terlibat dalam, pengendalian komputer, perkakas atau bahan itu,
 

@@ -40,7 +40,7 @@ Provided that the total amount of securities so issued shall not at any time exc
 
 <!-- marginal: to -->
 
-subparagraph (bbb)(i) for the purpose of conducting monetary p o l i c y operations;".
+subparagraph (bbb)(i) for the purpose of conducting monetary policy operations;".
 
 ### Amendment of section 30A
 

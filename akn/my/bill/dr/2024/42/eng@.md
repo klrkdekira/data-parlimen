@@ -1008,7 +1008,7 @@ Provided that he shall not accommodate therein such dependants in excess of the 
 
 (b) of good quality.
 
-(4) Any employer who contravenes the provisions of this section commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.
+(4 ) A ny employe r wh o c ontr av e ne s the provisions of this section commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.
 
 Allotment of 121j. (1) Where there are employees residing land. on the place of employment, the employer of such employees shall set aside land which has been cleared, for allotment to such employees for cultivation, grazing or partly cultivation and partly grazing:
 

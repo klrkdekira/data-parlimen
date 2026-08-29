@@ -76,7 +76,7 @@ Bil Pertukaran (Pindaan)
 
 "(2) Sections 74A and 74B shall, so far as applicable, have effect in relation to instruments referred to in paragraph 85(2)(b) as they have effect in relation to cheques.
 
-(3) Section 74A s h a l l , so far as applicable, have effect in relation to instruments referred to in paragraph 85(2)(c) as they have effect in relation to cheques.".
+(3) Section 74A shall, so far as applicable, have effect in relation to instruments referred to in paragraph 85(2)(c) as they have effect in relation to cheques.".
 
 <!-- page 4 -->
 
@@ -88,7 +88,7 @@ Rang Undang-Undang ini bertujuan untuk mcminda Akta Bil Pertukaran 1949 ("Akta 2
 
 3. Fasal 2 bertujuan untuk menggantikan seksyen 74A untuk membuka laluan bagi pelaksanaan sistem pemangkasan cek.
 
-Seksyen baru 74A membenarkan bank pemungut untuk mengemukakan cek bagi pembayaran kepada bank pembayar dengan menghantar melalui kaedah elektonik, imej dan maklumat pembayaran elektronik cek itu sebagai ganti cek i t u sendiri, tetapi mengekalkan hak bank pembayar untuk meminta supaya cek itu sendiri dikemukakan.
+Seksyen baru 74A membenarkan bank pemungut untuk mengemukakan cek bagi pembayaran kepada bank pembayar dengan menghantar melalui kaedah elektonik, imej dan maklumat pembayaran elektronik cek itu sebagai ganti cek itu sendiri, tetapi mengekalkan hak bank pembayar untuk meminta supaya cek itu sendiri dikemukakan.
 
 4. Fasal 3 bertujuan untuk memasukkan seksyen baru 74B dan 74c ke dalam Akta 204 yang berhubungan dengan sistem pemangkasan cek.
 

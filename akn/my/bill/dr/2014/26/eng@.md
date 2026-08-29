@@ -28,7 +28,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Court
 
-23a. A person is qualified for appointment as President under paragraph 21(1) (a) an d a s Ch air ma n und er subsection 23(2) if, for the seven years preceding his appointment, he has been—
+23a. A person is qualified for appointment as President under paragraph 21(1)(a) and as Chairman under subsection 23(2) if, for the seven years preceding his appointment, he has been—
 
 (a) an advocate and solicitor within the meaning of the Legal Profession Act 1976 [Act 166];
 

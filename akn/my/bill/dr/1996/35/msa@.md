@@ -48,7 +48,7 @@ Pindaan
 
 ' "stesen penyiaran" ertinya suatu stesen yang memancarkan bahan penyiaran—
 
-(a) melalui gelombang radio atau gelombang b u n yi atau apa-apa gelombang elektromagnetik lain, melalui eter, kawat, kabel atau satelit; dan
+(a) melalui gelombang radio atau gelombang bunyi atau apa-apa gelombang elektromagnetik lain, melalui eter, kawat, kabel atau satelit; dan
 
 <!-- page 3 -->
 

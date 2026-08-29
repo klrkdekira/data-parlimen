@@ -46,7 +46,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Penghutang 1957 ("Akta").
 
 1. Fasal I memberikan tajuk ringkas Rang Undang-Undang.
 
-2. Fasal 2 berlujuan meminda perenggan (f) proviso kepada subseksyen 3(1) Akta supaya seseorang pemiutang penghakiman tidak lagi dikehendaki untuk memperolehi persetujuan Menteri Kewangan atau Ketua Menteri, m e n g i k ut mana-mana yang berkenaan, sebelum pemiutang penghakiman itu membuat suatu permohonan kepada mahkamah bagi pelaksanaan berkenaan dengan hutang penghakiman.
+2. Fasal 2 berlujuan meminda perenggan (f) proviso kepada subseksyen 3(1) Akta supaya seseorang pemiutang penghakiman tidak lagi dikehendaki untuk memperolehi persetujuan Menteri Kewangan atau Ketua Menteri, mengikut mana-mana yang berkenaan, sebelum pemiutang penghakiman itu membuat suatu permohonan kepada mahkamah bagi pelaksanaan berkenaan dengan hutang penghakiman.
 
 ## IMPLIKAS/ KEWANGAN
 

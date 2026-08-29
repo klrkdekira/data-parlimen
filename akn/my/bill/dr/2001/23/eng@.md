@@ -640,7 +640,7 @@ contravene the provision of paragraph (2)(aa),"; and
 
 ### Amendment of section 28
 
-28. Subsections 28(6) and (9) of the p r i n c i p al Act are amended—
+28. Subsections 28(6) and (9) of the principal Act are amended—
 
 (a) by substituting for the words "fifty thousand ringgit" wherever they appear the words "one hundred thousand ringgit or to imprisonment for a term not exceeding six months or to both"; and
 

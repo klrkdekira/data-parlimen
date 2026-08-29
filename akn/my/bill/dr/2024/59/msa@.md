@@ -1392,7 +1392,7 @@ kesalahan itu dan boleh dikenakan hukuman atau penalti yang sama sebagaimana seo
 
 <!-- page 62 -->
 
-(5) Jika s uatu kesalahan telah d ik o mp aun d i b aw ah seksyen ini—
+(5) Jika suatu kesalahan telah dikompaun di bawah seksyen ini—
 
 (a) tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat; dan
 

@@ -738,7 +738,7 @@ oleh orang yang menghendaki bekalan gas setakat yang munasabah dengan mengambil 
 
 (2) Perbelanjaan yang semunasabahnya dilakukan dalam mengadakan apa-apa talian paip atau pepasangan di bawah subseksyen (1) termasuklah
 
-<!-- marginal: n i l ai -->
+<!-- marginal: nilai -->
 
 dipermodalkan bagi apa-apa perbelanjaan yang mungkin dilakukan sedemikian dalam menyenggarakannya, jika perbelanjaan itu tidak boleh didapatkan kembali oleh pemegang lesen sebagai sebahagian daripada tarif yang dikenakan olehnya bagi bekalan itu.
 
@@ -760,7 +760,7 @@ menurut subseksyen 14(1) supaya memberinya cagaran
 
 <!-- marginal: cagaran. -->
 
-yang munasabah bagi segala wang yang m u n g k in menjadi kena dibayar kepadanya—
+yang munasabah bagi segala wang yang mungkin menjadi kena dibayar kepadanya—
 
 (a) berkenaan dengan pembekalan gas; dan
 
@@ -1080,7 +1080,7 @@ hendaklah diputuskan mengikut mana-mana peruntukan bagi pemutusan pertikaian di 
 
 (3) Jawatankuasa penyiasatan yang disebut dalam perenggan (2)(b) hendaklah terdiri daripada tiga orang anggota dengan Ketua Pengarah sebagai Pengerusi.
 
-(4) Bagi maksud-maksud siasatan sedemikian, jawatankuasa itu boleh memanggil mana-mana orang supaya menghadiri mana-mana mesyuarat jawatankuasa tersebut u n t uk memberikan keterangan dengan bersumpah atau mengemukakan apa-apa dokumen atau benda lain dalam miliknya yang berhubungan dengan perkara-perkara yang menjadi hal perkara siasatan sedemikian dan menyiasat-periksanya sebagai saksi.
+(4) Bagi maksud-maksud siasatan sedemikian, jawatankuasa itu boleh memanggil mana-mana orang supaya menghadiri mana-mana mesyuarat jawatankuasa tersebut untuk memberikan keterangan dengan bersumpah atau mengemukakan apa-apa dokumen atau benda lain dalam miliknya yang berhubungan dengan perkara-perkara yang menjadi hal perkara siasatan sedemikian dan menyiasat-periksanya sebagai saksi.
 
 <!-- page 36 -->
 
@@ -1396,7 +1396,7 @@ orang yang, sebelum sahaja tarikh mula berkuatkuasanya
 
 <!-- marginal: kecuahan. -->
 
-Akta ini, telah membekalkan gas melalui talian paip di mana-mana premis bolehlah terus berbuat demikian dalam tempoh enam b u l an dari
+Akta ini, telah membekalkan gas melalui talian paip di mana-mana premis bolehlah terus berbuat demikian dalam tempoh enam bulan dari
 
 <!-- marginal: tarikh mula -->
 
@@ -1534,7 +1534,7 @@ IV
 
 9. Fasal 7mengadakan peruntukan bagi kuasa pegawai diberikuasa untuk menghendaki kehadiran mana-mana orang yang mengetahui hal untuk membantunya dalam penyiasatan.
 
-10. Fasal 8 mengadakan peruntukan bagi k u a sa pegawai diberikuasa untuk menyoal-periksa mana-mana orang yang mengetahui fakta-fakta dan hal keadaan sesuatu kes untuk mendapatkan maklumat.
+10. Fasal 8 mengadakan peruntukan bagi kuasa pegawai diberikuasa untuk menyoal-periksa mana-mana orang yang mengetahui fakta-fakta dan hal keadaan sesuatu kes untuk mendapatkan maklumat.
 
 11. Fasal 9 mengadakan peruntukan bagi Ketua Pengarah atau pegawai-pegawai diberikuasanya menjalankan pendakwaan.
 

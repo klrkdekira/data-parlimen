@@ -518,7 +518,7 @@ pentauliahannya dan apa-apa permohonan itu hendaklah disertakan dengan apa-apa d
 
 ### Kuasa untuk mengenakan syarat
 
-28. Ketua Pengarah boleh, pada masa i t u atau selepas penganugerahan suatu sijil pentauliahan di bawah seksyen 25 atau 27, mengenakan apa-apa syarat jika difikirkan perlu atau suai manfaat dan boleh mengubah, meminda atau membatalkan mana- mana syarat atau mengenakan syarat-syarat baru atau tambahan dari semasa ke semasa.
+28. Ketua Pengarah boleh, pada masa itu atau selepas penganugerahan suatu sijil pentauliahan di bawah seksyen 25 atau 27, mengenakan apa-apa syarat jika difikirkan perlu atau suai manfaat dan boleh mengubah, meminda atau membatalkan mana- mana syarat atau mengenakan syarat-syarat baru atau tambahan dari semasa ke semasa.
 
 ### Penggantungan atau pembatalan sijil pentauliahan
 

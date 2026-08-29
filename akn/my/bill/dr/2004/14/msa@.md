@@ -30,7 +30,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2 Rang Undang-Undang
 
-(d) dengan memasukkan selepas subperenggan ( i i i ) subperenggan yang berikut:
+(d) dengan memasukkan selepas subperenggan (iii) subperenggan yang berikut:
 
 "(iv) by any person against a citizen of Malaysia;
 
@@ -38,7 +38,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (vi) by any person to compel the Government of Malaysia or the Government of any State in Malaysia to do or refrain from doing any act;
 
-( v i i ) by any stateless person who has his habitual residence in Malaysia;
+(vii) by any stateless person who has his habitual residence in Malaysia;
 
 (viii) by any person against or on board a fixed platform while it is located on the continental shelf of Malaysia; or
 
@@ -94,7 +94,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Amendment of section 22
 
-2. The Courts of Judicature Act 1964 [Act 91], which is referred to as the ''principal Act" in this Act, is amended in paragraph 22(1)(b)—
+2. The Courts of Judicature Act 1964 [Act 91], which is referred to as the ''principal Act" in this Act, is amended in paragraph 2 2 ( 1 ) ( b ) —
 
 (a) by substituting for the words "Chapter VI" the words "Chapters VI and VIA";
 

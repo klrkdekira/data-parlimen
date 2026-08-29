@@ -5770,7 +5770,7 @@ IX
 
 37. Bahagian XV memperkatakan pendengaran prosiding.
 
-38. Fasal 119 menyatakan bila presiding hendaklah didengar di dalam Mahkamah terbuka atau di dalam Kamar. Fasal 120 menyatakan oleh siapa kehadiran boleh dibuat sementara fasal 121 menyatakan kuasa Mahkamah jika pihak-pihak tidak hadir. Fasal 122 mengadakan peruntukan mengenai kesan penggantungan, penarikan, dsb. dalam hal t u n t u t an balas. Fasal 124 dan 125 masing-masingnya memperkatakan nota keterangan dan dokumen dan eksibit yang dikemukakan sebagai keterangan.
+38. Fasal 119 menyatakan bila presiding hendaklah didengar di dalam Mahkamah terbuka atau di dalam Kamar. Fasal 120 menyatakan oleh siapa kehadiran boleh dibuat sementara fasal 121 menyatakan kuasa Mahkamah jika pihak-pihak tidak hadir. Fasal 122 mengadakan peruntukan mengenai kesan penggantungan, penarikan, dsb. dalam hal tuntutan balas. Fasal 124 dan 125 masing-masingnya memperkatakan nota keterangan dan dokumen dan eksibit yang dikemukakan sebagai keterangan.
 
 39. Fasal 126 mengadakan peruntukan mengenai susunan ucapan oleh pihak-pihak. Fasal 127 memberi Mahkamah kuasa untuk memanggil mana-mana pihak untuk mengemukakan keterangan.
 

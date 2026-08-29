@@ -80,7 +80,7 @@ This Bill seeks to amend the Federal Constitution.
 
 3. Clause 3 seeks to amend Clause ( 1) of Article 54 so as to enable the President of the Senate to establish that there is a vacancy in the Senate. In addition clause (3) also seeks to substitute the second proviso to Clause ( I) by providing that in a case where a casual vacancy in the House of Representatives is established on a date which is within the two years of the date that Parliament shall, in accordance with Clause (3) of Article 55, stand dissolved the vacancy is not to be filled unless the Speaker of the House of Representatives notifies the Election Commission that the casual vacancy is affecting the numerical strength of the party that constitutes a majority of all the members of the House of Representatives, in which case the vacancy is to be filled within sixty days of the receipt of that notification.
 
-4. Clause 4 seeks to amend section 9 of the Eighth Schedule so as to provide a proviso to subsection (5) which corresponds to the second proviso in Clause ( 1) of Article 54. This is to ensure that the Constitution of States w i ll be consistent with the provision of the Federal Constitution concerning the f i l l i ng up of casual vacancies.
+4. Clause 4 seeks to amend section 9 of the Eighth Schedule so as to provide a proviso to subsection (5) which corresponds to the second proviso in Clause ( 1) of Article 54. This is to ensure that the Constitution of States w i ll be consistent with the provision of the Federal Constitution concerning the filling up of casual vacancies.
 
 5. Clause 5 seeks to amend the Eleventh Schedule to the Federal Constitution to incorporate section 39 of the Interpretation and General Clauses Ordinance 1948, so that the provision of that section would also apply for purposes of interpreting the Federal Constitution.
 
@@ -88,4 +88,4 @@ This Bill seeks to amend the Federal Constitution.
 
 ## IMPLICATIONS
 
-This Bill will involve the Government in extra financial expenditure, the amount of which cannot at present be ascertained. [PN. (IP) 1765.]
+This B i ll w i ll involve the Government in extra financial expenditure, the amount of which cannot at present be ascertained. [PN. (IP) 1765.]

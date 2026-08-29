@@ -98,6 +98,6 @@ The new section 74c empowers the Minister to make regulations in respect of any 
 
 ## FINANCIAL IMPLICATIONS
 
-This B i l l w i l l not involve the Government in any extra financial expenditure.
+This Bill will not involve the Government in any extra financial expenditure.
 
 <!-- marginal: [PN(U2)2571] -->

@@ -310,7 +310,7 @@ Deletion of
 
 21 the following sections:
 
-<!-- marginal: 2lA,2lB -->
+<!-- marginal: 2 l A, 2 lB -->
 
 <!-- marginal: and 21c -->
 

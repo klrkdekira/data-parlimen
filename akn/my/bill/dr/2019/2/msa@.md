@@ -2452,7 +2452,7 @@ In this Part, unless the context otherwise requires—
 
 (d) export duty shall be payable upon all dutiable goods transported from the principal customs area to Pangkor as if such transportation from the principal customs area were exportation from Malaysia; and
 
-(e) the Minister may by order, prescribe the meaning of the w ord “ va lue ” i n r ela tion to g ood s transported from Pangkor to the principal customs area.
+(e) the Minister may by order, prescribe the meaning of the word “value” in relation to goods transported from Pangkor to the principal customs area.
 
 (2) Subsections 11(2), (3), (4) and (5) shall apply to any order made by the Minister under paragraph (1)(a) or (b).
 

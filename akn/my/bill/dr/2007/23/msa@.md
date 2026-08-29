@@ -704,7 +704,7 @@ Perkara 10
 
 (2) Pengirim konsain hendaklah menanggung rugi kepada pengangkut terhadap semua kerosakan yang ditanggung olehnya, atau oleh mana-mana orang lain yang kepadanya pengangkut itu bertanggungan, atas alasan ketidaksetaraan, ketidaktepatan atau ketidaklengkapan butir-butir dan pernyataan yang diberikan oleh pengirim konsain atau bagi pihaknya.
 
-(3) Tertakluk kepada peruntukan perenggan (1) dan (2) Perkara i n i , pengangkut hendaklah menanggung rugi kepada pengirim konsain terhadap semua kerosakan yang ditanggungnya, atau oleh mana-mana orang lain yang kepadanya pengirim konsain bertanggungan, atas alasan ketidaksetaraan, ketidaktepatan atau ketidaklengkapan butir-butir dan pernyataan yang dimasukkan oleh pengangkut atau bagi pihaknya dalam resit bagi kargo atau dalam rekod yang dipelihara dengan cara lain yang disebut dalam perenggan (2) Perkara 5.
+(3) Tertakluk kepada peruntukan perenggan (1) dan (2) Perkara ini, pengangkut hendaklah menanggung rugi kepada pengirim konsain terhadap semua kerosakan yang ditanggungnya, atau oleh mana-mana orang lain yang kepadanya pengirim konsain bertanggungan, atas alasan ketidaksetaraan, ketidaktepatan atau ketidaklengkapan butir-butir dan pernyataan yang dimasukkan oleh pengangkut atau bagi pihaknya dalam resit bagi kargo atau dalam rekod yang dipelihara dengan cara lain yang disebut dalam perenggan (2) Perkara 5.
 
 Perkara 11
 

@@ -102,7 +102,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 <!-- marginal: t o -->
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 Yang di-Pertuan Agong.”; and
 

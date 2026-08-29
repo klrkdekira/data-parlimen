@@ -424,7 +424,7 @@ menjalankan perniagaannya mengikut cara yang memudaratkan kepentingan orang awam
 
 (i) pengusahaan pelancongan berlesen itu atau pengarah, pengurus atau pengawalnya telah disabitkan atas mana-mana kesalahan di bawah Akta ini.
 
-(2) Sebelum membatalkan sesuatu lesen, Pesuruhjaya hendaklah memberi kepada pengusahaan pelancongan berlesen itu notis bertulis mengenai niatnya u n t uk berbuat sedemikian dan menghendaki
+(2) Sebelum membatalkan sesuatu lesen, Pesuruhjaya hendaklah memberi kepada pengusahaan pelancongan berlesen itu notis bertulis mengenai niatnya untuk berbuat sedemikian dan menghendaki
 
 <!-- page 14 -->
 
@@ -446,7 +446,7 @@ pengusahaan pelancongan berlesen itu menunjukkan sebab dalam tempoh yang dinyata
 
 (7) Jika pembatalan sesuatu lesen telah mula berkuatkuasa, Pesuruhjaya hendaklah, dengan seberapa segera yang praktik, menyebabkan pembatalan sedemikian diiklankan dalam sekurang-kurangnya satu akhbar harian kebangsaan Bahasa Malaysia dan Inggeris selama sekurang-kurangnya tiga hari berturut-turut.
 
-(8) Apa-apa kelewatan atau kegagalan u n t uk mengiklankan notis pembatalan sedemikian tidaklah dengan apa-apa jua cara menyentuh keesahan pembatalan itu.
+(8) Apa-apa kelewatan atau kegagalan untuk mengiklankan notis pembatalan sedemikian tidaklah dengan apa-apa jua cara menyentuh keesahan pembatalan itu.
 
 <!-- page 15 -->
 
@@ -684,7 +684,7 @@ dilesenkan di bawah Akta ini atau yang lesennya telah digantung atau dibatalkan.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
-Penggunaan 20. (1) Tiada pengusahaan pelancongan berlesen kenderaan- boleh menggunakan atau membenarkan penggunaan kenderaan persiaran. apa-apa kenderaan u n t uk mengangkut pelancong- pelancong apabila melancong kecuali kenderaan- kenderaan persiaran yang telah dilesenkan dengan sempurna oleh pihak-pihak berkuasa yang sewajarnya bagi maksud-maksud sedemikian.
+Penggunaan 20. (1) Tiada pengusahaan pelancongan berlesen kenderaan- boleh menggunakan atau membenarkan penggunaan kenderaan persiaran. apa-apa kenderaan untuk mengangkut pelancong- pelancong apabila melancong kecuali kenderaan- kenderaan persiaran yang telah dilesenkan dengan sempurna oleh pihak-pihak berkuasa yang sewajarnya bagi maksud-maksud sedemikian.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
 
@@ -884,7 +884,7 @@ Pembaharuan 32. (1) Tiap-tiap pengusahaan pelancongan berlesen lesen. atau peman
 
 (2) Fee yang ditetapkan hendaklah dibayar apabila perraohonan itu diluluskan,
 
-(3) Jika mana-mana pengusahaan pelancongan berlesen atau pemandu pelancong berlesen tidak mempunyai niat u n t uk memperbaharui
+(3) Jika mana-mana pengusahaan pelancongan berlesen atau pemandu pelancong berlesen tidak mempunyai niat untuk memperbaharui
 
 <!-- marginal: lesennya, -->
 
@@ -978,7 +978,7 @@ dilakukan oleh suatu syarikat, mana-mana orang yang |
 
 pada masa berlakunya kesalahan itu adalah seorang pengarah, setiausaha, pengurus atau pegawai lain syarikat itu atau yang berupa bertindak atas sifat sedemikian, adalah melakukan suatu kesalahan dan boleh dihukum dengan sewajarnya melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuannya atau pembiarannya dan bahawa dia telah menjalankan segala usaha untuk menghalang perlakuan kesalahan itu sebagaimana yang patut dijalankan olehnya memandangkan kepada jenis fungsi- fungsinya atas sifat itu dan kepada segala hal keadaan.
 
-(2) Mana-mana orang yang berkemungkinan akan didapati bersalah atas sesuatu kesalahan sekiranya dia sendiri yang telah melakukan atau tidak melakukan sesuatu perkara adalah melakukan suatu kesalahan dan boleh dikenakan penalti yang sama jika perkara itu telah dilakukan atau tidak dilakukan oleh pegawai, ejen atau pengkhidmatnya dalam penjalanan perniagaannya melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuan atau persetujuannya dan bahawa dia telah mengambil segala langkah munasabah u n t uk menghalang perlakuan
+(2) Mana-mana orang yang berkemungkinan akan didapati bersalah atas sesuatu kesalahan sekiranya dia sendiri yang telah melakukan atau tidak melakukan sesuatu perkara adalah melakukan suatu kesalahan dan boleh dikenakan penalti yang sama jika perkara itu telah dilakukan atau tidak dilakukan oleh pegawai, ejen atau pengkhidmatnya dalam penjalanan perniagaannya melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuan atau persetujuannya dan bahawa dia telah mengambil segala langkah munasabah untuk menghalang perlakuan
 
 <!-- marginal: atau -->
 
@@ -1196,7 +1196,7 @@ Fasal 21 bertujuan menghendaki mana-mana orang yang memberi perkhidmatan sebagai
 
 6. Bahagian V memperkatakan perkara-perkara am.
 
-Fasal 32 dan 33 mengandungi peruntukan-peruntukan yang berhubungan dengan pembaharuan dan penggantian lesen atau kad pemberian kuasa. Fasal 34 memberi kuasa kepada Menteri membuat peraturan-peraturan. Fasal 35 bertujuan melarang mana- mana orang menzahirkan apa-apa maklumat yang didapatinya menurut peruntukan-peruntukan Akta dicadangkan. Fasal 36 memperkatakan kesalahan yang wujud akibat pengemukaan perisytiharan, dokumen dan maklumat tak tepat, palsu atau mengelirukan. Fasal 37 mengadakan peruntukan mengenai penalti am dikenakan jika tiada penalti nyata disebutkan. Fasal 38 bertujuan menjadikan pengarah atau pengurus suatu pertubuhan perbadanan juga bersalah atas suatu kesalahan yang dilakukan oleh pertubuhan perbadanan itu melainkan jika dibuktikan kesalahan itu dilakukan tanpa pengetahuannya. Fasal 39 membeh kuasa kepada Pesuruhjaya untuk mengkompaun kesalahan-kesalahan. Fasal 40 bertujuan memberi kuasa kepada Menteri untuk memberikuasa mana-mana pegawai awam atau pegawai Lembaga Penggalakan Pelancongan Malaysia untuk menjalankan kuasa-kuasa penguatkuasaan di bawah Akta dicadangkan. Fasal 41, 42, 43 dan 44 bertujuan memberi pegawai-pegawai diberikuasa kuasa-kuasa penyiasatan, memeriksa saksi dan penggeledahan. Fasal 45 memperuntukkan kebolehterimaan pernyataan. Fasal 46 menyatakan bahawa suatu senarai benda-benda yang disita di bawah Akta dicadangkan hendaklah disediakan oleh pegawai diberikuasa dan dihantarkan kepada penghuni, aiau ejen atau pengkhidmat penghuni, premis atau tempat di mana penyitaan itu dibuat. Fasal 47 memberikan pegawai-pegawai diberikuasa kuasa- kuasa tambahan sementara fasal 48 bertujuan membenarkan pegawai-pegawai diberikuasa melaksanakan kewajipan mereka tanpa galangan atau halangan daripada mana-mana orang dengan menjadikan suatu kesalahan bagi mana-mana orang u n t uk menyerang, menghalang, menggalang atau melengahkan pegawai diberikuasa dalam melaksanakan kewajipannya. Peruntukan tersebut juga memperuntukkan bahawa mana-mana orang yang memecahkan apa-apa lak yang telah dipasang oleh mana-mana pegawai diberikuasa atau yang tidak mematuhi apa-apa tuntutan sah pegawai-pegawai diberikuasa adalah melakukan suatu kesalahan. Fasal 49 memberi kuasa mana-rnana pegawai
+Fasal 32 dan 33 mengandungi peruntukan-peruntukan yang berhubungan dengan pembaharuan dan penggantian lesen atau kad pemberian kuasa. Fasal 34 memberi kuasa kepada Menteri membuat peraturan-peraturan. Fasal 35 bertujuan melarang mana- mana orang menzahirkan apa-apa maklumat yang didapatinya menurut peruntukan-peruntukan Akta dicadangkan. Fasal 36 memperkatakan kesalahan yang wujud akibat pengemukaan perisytiharan, dokumen dan maklumat tak tepat, palsu atau mengelirukan. Fasal 37 mengadakan peruntukan mengenai penalti am dikenakan jika tiada penalti nyata disebutkan. Fasal 38 bertujuan menjadikan pengarah atau pengurus suatu pertubuhan perbadanan juga bersalah atas suatu kesalahan yang dilakukan oleh pertubuhan perbadanan itu melainkan jika dibuktikan kesalahan itu dilakukan tanpa pengetahuannya. Fasal 39 membeh kuasa kepada Pesuruhjaya untuk mengkompaun kesalahan-kesalahan. Fasal 40 bertujuan memberi kuasa kepada Menteri untuk memberikuasa mana-mana pegawai awam atau pegawai Lembaga Penggalakan Pelancongan Malaysia untuk menjalankan kuasa-kuasa penguatkuasaan di bawah Akta dicadangkan. Fasal 41, 42, 43 dan 44 bertujuan memberi pegawai-pegawai diberikuasa kuasa-kuasa penyiasatan, memeriksa saksi dan penggeledahan. Fasal 45 memperuntukkan kebolehterimaan pernyataan. Fasal 46 menyatakan bahawa suatu senarai benda-benda yang disita di bawah Akta dicadangkan hendaklah disediakan oleh pegawai diberikuasa dan dihantarkan kepada penghuni, aiau ejen atau pengkhidmat penghuni, premis atau tempat di mana penyitaan itu dibuat. Fasal 47 memberikan pegawai-pegawai diberikuasa kuasa- kuasa tambahan sementara fasal 48 bertujuan membenarkan pegawai-pegawai diberikuasa melaksanakan kewajipan mereka tanpa galangan atau halangan daripada mana-mana orang dengan menjadikan suatu kesalahan bagi mana-mana orang untuk menyerang, menghalang, menggalang atau melengahkan pegawai diberikuasa dalam melaksanakan kewajipannya. Peruntukan tersebut juga memperuntukkan bahawa mana-mana orang yang memecahkan apa-apa lak yang telah dipasang oleh mana-mana pegawai diberikuasa atau yang tidak mematuhi apa-apa tuntutan sah pegawai-pegawai diberikuasa adalah melakukan suatu kesalahan. Fasal 49 memberi kuasa mana-rnana pegawai
 
 <!-- page 39 -->
 

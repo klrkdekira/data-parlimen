@@ -2470,7 +2470,7 @@ B is the Substance-based Income Exclusion as determined under section 180 for th
 
 177. (1) For the purposes of a Multinational Top-up Tax, the Jurisdictional Top-up Tax for a jurisdiction for a Financial Year is equal to the positive amount, if any, computed in accordance with the following formula:
 
-(AxB)+C–D
+(A x B) + C – D
 
 where A is the Top-up Tax Percentage, being percentage point difference determined in accordance with section 175 for the jurisdiction for the Financial Year;
 
@@ -2486,7 +2486,7 @@ D is the Domestic Top-up Tax, being the amount payable under a Qualified Domesti
 
 (2) Notwithstanding subsection (1), for the purposes of a Domestic Top-up Tax, the Jurisdictional Top-up Tax for a jurisdiction for a Financial Year is equal to the positive amount, if any, computed in accordance with the following formula:
 
-(AxB)+C
+(A x B) + C
 
 where A is the Top up Tax Percentage, being percentage point difference determined in accordance with section 175 for the jurisdiction for the Financial Year;
 
@@ -2584,7 +2584,7 @@ C is the aggregate GloBE Income of all Constituent Entities that have GloBE Inco
 
 (5) The allocation shall be made pro rata based upon an amount determined for each of those Constituent Entities according to the following formula:
 
-(AxB)–C
+(A x B) – C
 
 where A is the GloBE Income or Loss;
 
@@ -3038,7 +3038,7 @@ B is the Net Income of the Jurisdiction as determined in accordance with subsect
 
 (8) The Multinational Top-up Tax of a Constituent Entity that is an Investment Entity shall be an amount determined in accordance with the following formula:
 
-Ax(B–C)
+A x (B – C)
 
 where A is the Multinational Top-up Tax Percentage for the Investment Entity;
 
@@ -3310,7 +3310,7 @@ Companies Act 2016 who is a citizen or permanent resident of Malaysia and ordina
 
 (a) a n information return concerning
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 Multinational Enterprise Group for a Reporting Financial Year shall contain—
 

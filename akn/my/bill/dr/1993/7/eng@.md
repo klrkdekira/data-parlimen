@@ -226,7 +226,7 @@ The principal amendment is made under paragraph (b) of this clause whereby the d
 
 (a), (b), (c) and (d) of the definition.
 
-The illustrations to the definition have been amended so as to include w i t h in the meaning of "document" certain forms of documents which are within the scope of the new definition, such as tape recordings of telephonic communications, photographic or other visual recordings, and matters recorded, stored, processed, retrieved or produced by a computer.
+The illustrations to the definition have been amended so as to include within the meaning of "document" certain forms of documents which are within the scope of the new definition, such as tape recordings of telephonic communications, photographic or other visual recordings, and matters recorded, stored, processed, retrieved or produced by a computer.
 
 Under paragraph (a) of clause 2 a definition of "computer" is introduced as new provisions relating to evidence produced by computers are introduced into the Act by subsequent clauses of this Bill.
 

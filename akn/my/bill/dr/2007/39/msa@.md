@@ -26,7 +26,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 2. (1) Apabifa terdapat pertambahan dalam hasil Persekutuan dalam mana-mana tahun kewangan berbandiiig dengan tahun kewangan yang sebelumnya, Menteri hendaklah bagi tahun kewangan yang berikutnya memperuntukkan bagi maksud membuat pemberian di bawah seksyen 4, 4A dan 4B suatu amaun yang tidak melebihi dua ratus lima puluh juta ringgit yang hendaklah dibahagi-bahagikan seperti yang berikut:
 
-(a) suatu bahagian daripada amaun i t u yang tidak melebihi lima puluh juta ringgit bagi maksud seksyen 4;
+(a) suatu bahagian daripada amaun itu yang tidak melebihi lima puluh juta ringgit bagi maksud seksyen 4;
 
 <!-- page 2 -->
 
@@ -68,11 +68,11 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pemberian Pcriambahan Hasil 
 
 2. Fasal 1 mcngandungi tajuk ringkas.
 
-3. Fasal 2 bertujuan untuk meminda seksyen 2 Akta 1 8 1 untuk menambah jumlah amaun pemberian pertambahan hasil kepada Negeri daripada satu ratus lima pulith juta ringgit kepada dua ratus lima puluh juta ringgit. la juga bertujuan untuk membcri Mentcri kuasa mengkaji semula dan mengubah amaun pemberian i t u berdasarkan pertambahan hasil Persekutuan.
+3. Fasal 2 bertujuan untuk meminda seksyen 2 Akta 1 8 1 untuk menambah jumlah amaun pemberian pertambahan hasil kepada Negeri daripada satu ratus lima pulith juta ringgit kepada dua ratus lima puluh juta ringgit. la juga bertujuan untuk membcri Mentcri kuasa mengkaji semula dan mengubah amaun pemberian itu berdasarkan pertambahan hasil Persekutuan.
 
 4. Fasal 3 bertujuan untuk memasukkan seksyen baru 4B ke dalam Akta 181 untuk memperuntukkan bantuan kewangan tambahan sebanyak satu ratus juta ringgit kepada Negeri mengikut peratusan keluaran kasar dalam negeri bagi setiap Negeri.
 
-5. Pindaan l a i n yang lidak diperkalakan secara khusus dalam Huraian ini merupakan pindaan yang kecil atau berbangkit.
+5. Pindaan lain yang lidak diperkalakan secara khusus dalam Huraian ini merupakan pindaan yang kecil atau berbangkit.
 
 ## IMPLIKASI KEWANGAN
 

@@ -1032,7 +1032,7 @@ Kekosongan
 
 (3) Menteri hendaklah melantik seseorang mengikut seksyen 17 untuk bertindak sebagai Pengerusi, atau mana- mana anggota lain—
 
-(a) dalam apa-apa tempoh apabila Pengerusi atau mana-mana anggota lain tidak ada u n t uk menjalankan apa-apa tugas atau tidak ada di Malaysia; atau
+(a) dalam apa-apa tempoh apabila Pengerusi atau mana-mana anggota lain tidak ada untuk menjalankan apa-apa tugas atau tidak ada di Malaysia; atau
 
 (b) jika Pengerusi atau mana-mana anggota lain, kerana apa-apa sebab, tidak berupaya untuk melaksanakan tugas jawatan itu.
 
@@ -2896,7 +2896,7 @@ Suruhanjaya
 
 (e) kesan tingkah laku itu terhadap
 
-<!-- marginal: j u l at -->
+<!-- marginal: julat -->
 
 perkhidmatan dalam pasaran itu;
 
@@ -4602,7 +4602,7 @@ perkhidmatan aplikasi kandungan berlesen; atau
 
 <!-- page 121 -->
 
-(b) secara tidak jujur menerima perkhidmatan aplikasi kandungan dari suatu tempat di dalam Malaysia yang tidak dimaksudkan u n t uk penerimaan umum,
+(b) secara tidak jujur menerima perkhidmatan aplikasi kandungan dari suatu tempat di dalam Malaysia yang tidak dimaksudkan untuk penerimaan umum,
 
 dengan niat untuk mengelakkan pembayaran apa-apa kadar atau fi yang dikenakan bagi pemberian kemudahan atau perkhidmatan itu adalah melakukan suatu kesalahan.
 
@@ -5850,7 +5850,7 @@ mengisytiharkan syarat-syarat lesen dan boleh mengubah atau membatalkan syarat-s
 
 Peraturan-Peraturan: Akta memberikan kuasa kepada Menteri untuk membuat apa-apa peraturan yang mungkin perlu untuk memberikan kuat kuasa penuh kepada Akta.
 
-22. Peruntukan yang luas dan teguh berkenaan dengan kuasa dan tatacara di bawah Akta adalah penting kerana sebab-sebab yang berikut: — pertamanya, rangka kerja pengawalseliaan meletakkan pergantungan yang kuat pada surat cara u n t uk mengadakan peruntukan pengawalseliaan khusus yang dijangkakan, dan perlu, berubah mengikut masa; — keduanya, adalah penting diwujudkan dan dibolehkan suatu rangka kerja yang bersifat pandang ke hadapan dan tidak begitu mudah ditinggalkan oleh kadar perubahan industri; — ketiganya, perlu ada rangka kerja yang jelas dan telus untuk meningkatkan keyakinan pelabur dalam pendekatan mengenai pengurusan dan pentadbiran dasar dan untuk mengurangkan sumber ketakpastian.
+22. Peruntukan yang luas dan teguh berkenaan dengan kuasa dan tatacara di bawah Akta adalah penting kerana sebab-sebab yang berikut: — pertamanya, rangka kerja pengawalseliaan meletakkan pergantungan yang kuat pada surat cara untuk mengadakan peruntukan pengawalseliaan khusus yang dijangkakan, dan perlu, berubah mengikut masa; — keduanya, adalah penting diwujudkan dan dibolehkan suatu rangka kerja yang bersifat pandang ke hadapan dan tidak begitu mudah ditinggalkan oleh kadar perubahan industri; — ketiganya, perlu ada rangka kerja yang jelas dan telus untuk meningkatkan keyakinan pelabur dalam pendekatan mengenai pengurusan dan pentadbiran dasar dan untuk mengurangkan sumber ketakpastian.
 
 <!-- page 167 -->
 
@@ -5894,7 +5894,7 @@ penyerahan atau pembatalan, kepada Suruhanjaya. Suruhanjaya mesti menyenggarakan
 
 Kuasa dan tatacara Suruhanjaya Komunikasi dan Multimedia Malaysia:
 
-36. Bahagian V Akta bertujuan u n t uk mewujudkan kuasa Suruhanjaya dan menyatakan tatacara yang mesti diikuti oleh Suruhanjaya dalam mengeluarkan surat cara tertentu dan menjalankan kuasa sedemikian, Semua surat cara yang dikeluarkan oleh Suruhanjaya mesti selaras dengan matlamat dan peruntukan Akta. Surat cara mesti diumumkan, dan disenggarakan dalam daftar awam yang berkaitan oleh Suruhanjaya, bagi menggalakkan ketelusan kaedah pengawalseliaan. Akta mengandungi tatacara bagi perubahan atau pemansuhan mana-mana surat cara.
+36. Bahagian V Akta bertujuan untuk mewujudkan kuasa Suruhanjaya dan menyatakan tatacara yang mesti diikuti oleh Suruhanjaya dalam mengeluarkan surat cara tertentu dan menjalankan kuasa sedemikian, Semua surat cara yang dikeluarkan oleh Suruhanjaya mesti selaras dengan matlamat dan peruntukan Akta. Surat cara mesti diumumkan, dan disenggarakan dalam daftar awam yang berkaitan oleh Suruhanjaya, bagi menggalakkan ketelusan kaedah pengawalseliaan. Akta mengandungi tatacara bagi perubahan atau pemansuhan mana-mana surat cara.
 
 Surat cara, kuasa dan tatacara:
 

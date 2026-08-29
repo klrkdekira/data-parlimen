@@ -12,7 +12,7 @@ Suatu Akta untuk meminda Akta Profesion Undang- Undang 1976. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
-oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan R a k y at yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
+oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
 <!-- marginal: Tajuk ringkas -->
 
@@ -74,7 +74,7 @@ Pindaan
 
 <!-- page 3 -->
 
-(5) Pada masa penubuhan Bar Kuala Lumpur mana-mana ahli yang telah membayar yuran tahunan bagi t a h un kalendar iiu kepada Jawatankuasa Bar Negeri Selangor tidaklah dikehendaki membayar satu lagi yuran tahunan bagi tahun yang sama kepada Jawatankuasa Bar Kuala Lumpur.
+(5) Pada masa penubuhan Bar Kuala Lumpur mana-mana ahli yang telah membayar yuran tahunan bagi tahun kalendar iiu kepada Jawatankuasa Bar Negeri Selangor tidaklah dikehendaki membayar satu lagi yuran tahunan bagi tahun yang sama kepada Jawatankuasa Bar Kuala Lumpur.
 
 (6) Aset Bar Negeri Selangor, yang lazim dikenali sebagai Bar Selangor dan Wilayah Persekutuan, hendaklah, apabila tertubuhnya Bar Kuala Lumpur, dibahagikan di antara Bar Negeri Selangor dengan Bar Kuala Lumpur menurut kadar keahlian masing-masing dalam keahlian Bar gabungan terdahulu.".
 
@@ -146,7 +146,7 @@ mendapatkan premium-premium yang berkenaan;
 
 (g) menetapkan bahawa seseorang peguam- bela dan peguamcara tidaklah berhak mendapat Sijil Tahunan melainkan jika dia telah mengambil insurans sebagaimana yang dikehendaki oleh kaedah-kaedah itu bagi tempoh yang berhubungan dengan Sijil Tahunan itu;
 
-(h) memberikan kuasa kepada Majlis Peguam u n t uk mengambil apa-apa langkah sebagaimana yang difikirkan- nya perlu atau suaimanfaat untuk menentukan dan memastikan bahawa kaedah-kaedah itu dipatuhi; dan
+(h) memberikan kuasa kepada Majlis Peguam untuk mengambil apa-apa langkah sebagaimana yang difikirkan- nya perlu atau suaimanfaat untuk menentukan dan memastikan bahawa kaedah-kaedah itu dipatuhi; dan
 
 (i) mengandungi apa-apa peruntukan yang bersifat prosedur, yang bersampingan atau yang lainnya sebagaimana yang difikirkan perlu atau suaimanfaat bagi maksud-maksud kaedah-kaedah itu.
 
@@ -322,7 +322,7 @@ Penyiasatan. 101. (1) Sesuatu Tribunal Penyiasatan hendaklah, dalam masa dua min
 
 menghendaki mana-mana orang mem- berikan maklumat berhubungan dengan buku, dokumen atau kcrtas itu; dan
 
-(c) menghendaki orang yang berkenaan memberikan segala maklumat ber- hubungan dengan mana-mana buku, dokumen atau kertas sedemikian yang mungkin semunasabahnya dikehendaki oleh Tribunal Penyiasatan atau oleh orang yang d i a m b il kcrja di bawah perenggan (a).
+(c) menghendaki orang yang berkenaan memberikan segala maklumat ber- hubungan dengan mana-mana buku, dokumen atau kertas sedemikian yang mungkin semunasabahnya dikehendaki oleh Tribunal Penyiasatan atau oleh orang yang diambil kcrja di bawah perenggan (a).
 
 (3) Mana-mana peguambela dan peguam- cara dan mana-mana orang lain yang tanpa alasan y a ng sah enggan atau
 
@@ -450,7 +450,7 @@ Rayuan 103E. (1) Mana-mana pihak yang terkilan danpada dengan apa-apa keputusan 
 
 (4) Majlis Peguam boleh atas budi bicaranya mencelah pada mana-mana peringkat apa-apa rayuan di bawah seksyen ini.
 
-Kuasa 103F. (1) Lembaga Tatatertib hendaklah, dari untuk semasa ke semasa, membuat kaedah-kaedah membuat kaedah- u n t uk mengawalselia prosedur berkenaan kaedah. dengan prosiding tatatertib.
+Kuasa 103F. (1) Lembaga Tatatertib hendaklah, dari untuk semasa ke semasa, membuat kaedah-kaedah membuat kaedah- untuk mengawalselia prosedur berkenaan kaedah. dengan prosiding tatatertib.
 
 (2) Apa-apa kaedah yang dibuat di bawah Bahagian ini tidak boleh berkuatkuasa sehingga ia telah disiarkan dalam Warta.
 

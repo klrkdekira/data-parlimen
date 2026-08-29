@@ -226,7 +226,7 @@ establishment of the applicant;
 
 <!-- marginal: related -->
 
-corporations, and of the substantial share-holders, w i t h in the meaning of section 69D of the Companies Act 1965, of the applicant and its
+corporations, and of the substantial share-holders, within the meaning of section 69D of the Companies Act 1965, of the applicant and its
 
 <!-- marginal: related -->
 
@@ -240,7 +240,7 @@ corporations; and
 
 suitability of the applicant for the licence.
 
-(2) For the purposes of subparagraph (1)(c)(iv), references to a company under section 69D of the Companies Act 1965 shall be so construed as to include a private company.
+(2) For the purposes of subparagraph ( 1 ) ( c ) ( i v ), references to a company under section 69D of the Companies Act 1965 shall be so construed as to include a private company.
 
 (3) At any time after receiving an application and before it is determined, the Controller may, by written notice, require the applicant or any person who is or is to be a director or manager of the applicant to provide additional information or documents.
 
@@ -252,7 +252,7 @@ suitability of the applicant for the licence.
 
 (5) An application under this section may be withdrawn at any time before it is granted or refused.
 
-(6) Where any additional information or document required under subsection (3) is not provided by the applicant or its director or manager, as the case may be, within the time specified in the requirement or any extension thereof granted by the Controller, the application shall be deemed to have been withdrawn and shall not be f u r t h er proceeded with, but without prejudice to a fresh application being made by the applicant.
+(6) Where any additional information or document required under subsection (3) is not provided by the applicant or its director or manager, as the case may be, within the time specified in the requirement or any extension thereof granted by the Controller, the application shall be deemed to have been withdrawn and shall not be further proceeded with, but without prejudice to a fresh application being made by the applicant.
 
 (7) Any person who provides false or misleading information or documents under this section shall be guilty of an offence.
 
@@ -642,7 +642,7 @@ warrant any person whom he has reason to believe has committed an offence agains
 
 (2) Any person arrested under subsection (1) shall thereafter be dealt with as provided by the Criminal
 
-<!-- marginal: F M S -->
+<!-- marginal: FMS -->
 
 <!-- marginal: Cap 6. -->
 
@@ -750,7 +750,7 @@ Certain 37. ( 1) A contract to which this Act applies shall not contractual cont
 
 Offences hy
 
-38. ( 1) Where any offence against any provision of hody this Act or the regulations has been committed by a corporate and by body corporate, any pcrson who at the time of the employees commission of the offence was a director, manager, and agents. sccretary or other similar officer of the body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the m a n a g c m c nt of any of the affairs of such body corporate, or was assisting in such management, shall be g u i l ty of that offence unless he proves that the offence was committed w i t h o ut his consent or connivancc and that he exercised all such diligence to prevent thc commission of the offence as he ought to have exercised, having regard to the nature of his funclions in that capacity and to all the circumstances.
+38. ( 1) Where any offence against any provision of hody this Act or the regulations has been committed by a corporate and by body corporate, any pcrson who at the time of the employees commission of the offence was a director, manager, and agents. sccretary or other similar officer of the body corporate or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the managcmcnt of any of the affairs of such body corporate, or was assisting in such management, shall be guilty of that offence unless he proves that the offence was committed without his consent or connivancc and that he exercised all such diligence to prevent thc commission of the offence as he ought to have exercised, having regard to the nature of his funclions in that capacity and to all the circumstances.
 
 (2) Wherc any pcrson (in this subsection referred to as "the principal") would be liable under this Act to any punishmcnt or penalty for any act, omission, neglect or default, he shall be liable to the same punishment or pcnaity for cvery such act, omission, neglect or default of any employee or agent of his, or of the employee of
 

@@ -52,7 +52,7 @@ Pindaan
 
 (a) dengan memasukkan, selepas koma bernoktah dalam perenggan (3)(a), perkataan "atau";
 
-(b) dengan menggantikan perkataan "; atau" yang terdapat di akhir subperenggan (3)(b)(ii) dengan noktah ; dan
+(b) dengan menggantikan perkataan "; atau" yang terdapat di akhir subperenggan ( 3 ) ( b ) ( i i) dengan noktah ; dan
 
 (c) dengan memotong perenggan (3)(c)
 

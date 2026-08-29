@@ -128,7 +128,7 @@ Syarat yang Dikehendaki bagi Memulakan Prosiding
 
 ## BAB 2
 
-## DARIHAL ADUAN KEPADA H A K IM
+## DARIHAL ADUAN KEPADA HAKIM
 
 74. Pemeriksaan pengadu. 75. Penangguhan pengeluaran proses. 76. Menolak aduan. 77. Pengeluaran proses.
 
@@ -152,7 +152,7 @@ Syarat yang Dikehendaki bagi Memulakan Prosiding
 
 ## PERUNTUKAN AM TENTANG PERBICARAAN
 
-102. Prosedur jika terdapat sabitan terdahulu. 103. Pendakwa bolehlah berhenti daripada mendakwa selanjutnya pada mana-mana peringkat. 104. Hak tertuduh u n t uk dibela. 105. Mahkamah boleh mengemukakan soalan kepada tertuduh. 106. Kes bagi pihak pendakwa hendaklah diterangkan oleh Mahkamah kepada tertuduh yang tak dibela. 107. Kuasa menangguhkan atau menunda perbicaraan. 108. Bertukar Hakim semasa pendengaran. 109. Menahan pesalah yang hadir di Mahkamah. 110. Hari kelepasan mingguan atau am.
+102. Prosedur jika terdapat sabitan terdahulu. 103. Pendakwa bolehlah berhenti daripada mendakwa selanjutnya pada mana-mana peringkat. 104. Hak tertuduh untuk dibela. 105. Mahkamah boleh mengemukakan soalan kepada tertuduh. 106. Kes bagi pihak pendakwa hendaklah diterangkan oleh Mahkamah kepada tertuduh yang tak dibela. 107. Kuasa menangguhkan atau menunda perbicaraan. 108. Bertukar Hakim semasa pendengaran. 109. Menahan pesalah yang hadir di Mahkamah. 110. Hari kelepasan mingguan atau am.
 
 <!-- page 7 -->
 
@@ -472,7 +472,7 @@ mengambil perhatian dan mempunyai kuasa untuk—
 
 (e) melakukan segala perkara dan benda lain yang seseorang Hakim diberi kuasa
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 melakukannya oleh mana-mana undang-undang bertulis.
 
@@ -486,11 +486,11 @@ III
 
 ## BAB 1
 
-## DARIHAL MAKLUMAT KEPADA H A K IM DAN PEGAWAI
+## DARIHAL MAKLUMAT KEPADA HAKIM DAN PEGAWAI
 
 ## PENGUATKUASA AGAMA
 
-8. Tiap-tiap orang adalah terikat u n t uk membantu Bila orang awam seseorang Hakjm, Pegawai Penguatkuasa Agama atau hendaklah pegawai polis, yang semunasabahnya menghendaki membantu Hakim, dll bantuannya—
+8. Tiap-tiap orang adalah terikat untuk membantu Bila orang awam seseorang Hakjm, Pegawai Penguatkuasa Agama atau hendaklah pegawai polis, yang semunasabahnya menghendaki membantu Hakim, dll bantuannya—
 
 (a) dalam menangkap atau mencegah terlepasnya mana-mana orang lain yang Hakim, Pegawai Penguatkuasa Agama atau pegawai polis itu diberikuasa untuk menangkapnya; atau
 
@@ -520,13 +520,13 @@ III
 
 <!-- marginal: i t u, -->
 
-membenarkannya bebas masuk ke dalamnya dan memberikan segala kemudahan yang munasabah u n t uk penggeledahan dijalankan di dalamnya.
+membenarkannya bebas masuk ke dalamnya dan memberikan segala kemudahan yang munasabah untuk penggeledahan dijalankan di dalamnya.
 
-(2) Jika kemasukan ke dalam teinpat itu lidak dapat dibuat di bawah subseksyen ( 1 ), maka adalah suh. dalam apa-apa hal bagi seseorang yang bertindak menurut suatu waran dan dalam apa-apa hal yang waran boleh dikeluarkan tetapi tidak boleh diperolehi tanpa memberi orang yang hendak ditangkap itu peluang untuk melarikan diri, bagi Pegawai Penguatkuasa Agama atau pegawai polis itu untuk memasuki tempat itu dan menggeledah di dalamnya, dan. u n t uk mendapatkan jalan masuk ke tempat itu, memecah buka mana-mana pintu atau tingkap luar atau dalam mana- mana tempat sama ada tempat itu dipunyai oleh orang yang hendak ditangkap itu atau oleh mana-mana orang lain jika, setelah memberitahu kuasa dan maksudnya dan setelah permintaan hendak masuk dibuat dcngan sewajarnya, dia tiada jalan lain lagi u n t uk masuk.
+(2) Jika kemasukan ke dalam teinpat itu lidak dapat dibuat di bawah subseksyen ( 1 ), maka adalah suh. dalam apa-apa hal bagi seseorang yang bertindak menurut suatu waran dan dalam apa-apa hal yang waran boleh dikeluarkan tetapi tidak boleh diperolehi tanpa memberi orang yang hendak ditangkap itu peluang untuk melarikan diri, bagi Pegawai Penguatkuasa Agama atau pegawai polis itu untuk memasuki tempat itu dan menggeledah di dalamnya, dan. untuk mendapatkan jalan masuk ke tempat itu, memecah buka mana-mana pintu atau tingkap luar atau dalam mana- mana tempat sama ada tempat itu dipunyai oleh orang yang hendak ditangkap itu atau oleh mana-mana orang lain jika, setelah memberitahu kuasa dan maksudnya dan setelah permintaan hendak masuk dibuat dcngan sewajarnya, dia tiada jalan lain lagi untuk masuk.
 
 <!-- marginal: Memeriksa -->
 
-12. Bilamana penggeledahan u n t uk mencari apa-apa benda dibuat atau akan dibuat dengan sah di mana-mana tempat berkenaan dengan apa-apa kesalahan. Semua orang yang dijumpai di dalam tempat itu boleh ditahan dengan sah sehingga penggeledahan itu selesai. dan, jika benda yang dicari itu adalah daripada jenis y a ng bolch disembunyikan pada tubuh badan seseorang. mercka bolch diperiksa untuk mencari benda itu oleh atau di hadapan seorang Pegawai Penguatkuasa Agama atau pegawai polis yang berpangkat tidak rendah daripada Inspektor.
+12. Bilamana penggeledahan untuk mencari apa-apa benda dibuat atau akan dibuat dengan sah di mana-mana tempat berkenaan dengan apa-apa kesalahan. Semua orang yang dijumpai di dalam tempat itu boleh ditahan dengan sah sehingga penggeledahan itu selesai. dan, jika benda yang dicari itu adalah daripada jenis y a ng bolch disembunyikan pada tubuh badan seseorang. mercka bolch diperiksa untuk mencari benda itu oleh atau di hadapan seorang Pegawai Penguatkuasa Agama atau pegawai polis yang berpangkat tidak rendah daripada Inspektor.
 
 <!-- page 20 -->
 
@@ -608,11 +608,11 @@ undang bertulis lain, mana-mana Pegawai Penguatkuasa Agama, pegawai polis atau P
 
 22 Rang Undang-Undang
 
-19. ( 1) Apabila mana-mana orang melakukan atau d i t u d uh melakukan suatu kesalahan tak boleh tangkap di hadapan seseorang Pegawai Penguatkuasa Agama atau pegawai polis dan enggan, apabila dikehendaki oleh pcgawai itu, u n t uk memberikan nama dan kediamannya atau memberikan nama atau kediaman yang pegawai itu ada sebab u n t uk mempercayai adalah palsu, dia boleh ditangkap oleh pegawai itu untuk membolehkan nama dan kcdiamannya ditentukan, dan dia hendaklah, dalam masa dua p u l uh empat jam dari waktu dta ditangkap, tidak termasuk masa yang diperlukan bagi perjalanan dari tcmpat penangkapan itu, dibawa ke hadapan Hakim Mahkamah Rendah Syariah yang terdekat melainkan jika sebclum itu nama dan kediamannya yang sebenar telah ditemukan dan dalam hal sedemikian orang itu hendaklah dilepaskan dengan serta-merta apabila
+19. ( 1) Apabila mana-mana orang melakukan atau dituduh melakukan suatu kesalahan tak boleh tangkap di hadapan seseorang Pegawai Penguatkuasa Agama atau pegawai polis dan enggan, apabila dikehendaki oleh pcgawai itu, untuk memberikan nama dan kediamannya atau memberikan nama atau kediaman yang pegawai itu ada sebab untuk mempercayai adalah palsu, dia boleh ditangkap oleh pegawai itu untuk membolehkan nama dan kcdiamannya ditentukan, dan dia hendaklah, dalam masa dua puluh empat jam dari waktu dta ditangkap, tidak termasuk masa yang diperlukan bagi perjalanan dari tcmpat penangkapan itu, dibawa ke hadapan Hakim Mahkamah Rendah Syariah yang terdekat melainkan jika sebclum itu nama dan kediamannya yang sebenar telah ditemukan dan dalam hal sedemikian orang itu hendaklah dilepaskan dengan serta-merta apabila
 
 <!-- marginal: dia -->
 
-menyempurnakan suatu bon u n t uk hadir di hadapan seorang Hakitn jika dikehendaki sedemikian.
+menyempurnakan suatu bon untuk hadir di hadapan seorang Hakitn jika dikehendaki sedemikian.
 
 (2) Apabila mana-mana orang dibawa ke hadapan seorang Hakim Mahkamah Syariah di bawah subseksyen ( 1 ), Hakim itu boleh sama ada menghendaki dia menyempurnakan suatu bon, dengan penjamin, untuk hadir di hadapan seorang Hakim jika dikehendaki sedemikian, atau boleh memerintahkan supaya dia ditahan dalam jagaan sehingga dia boleh dibicarakan.
 
@@ -888,7 +888,7 @@ Pengeluaran
 
 Mahkamah mempunyai sebab
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 mempercayai bahawa dia telah melarikan diri atau tidak akan mematuhi saman itu; atau
 
@@ -978,7 +978,7 @@ Saman untuk
 
 42. (1) Bilamana mana-mana Mahkamah atau Pegawai mengemuka- Penguatkuasa Agama atau pegawai polis yang membuat kan dokumen atau benda penyiasatan di bawah Akta ini berpendapat bahawa lain pengemukaan mana-mana harta atau dokumen adalah perlu atau wajar bagi maksud apa-apa penyiasatan, siasatan, perbicaraan atau prosiding lain di bawah Akta ini oleh atau di hadapan Mahkamah atau pegawai itu, maka Mahkamah itu boleh mengeluarkan suatu saman atau pegawai itu boleh mengeluarkan suatu perintah bertulis kepada orang yang dalam milikan atau kuasanya harta atau dokumen itu dipercayai berada, menghendaki orang itu hadir dan mengemukakannya atau mengemukakannya pada masa dan di tempat yang dinyatakan dalam saman atau perintah itu.
 
-(2) Mana-mana orang yang dikehendaki di bawah seksyen ini hanya untuk mengemukakan apa-apa harta atau dokumen hendaklah disifatkan telah mematuhi permintaan itu jika dia menyebabkan harta atau dokumen itu dikemukakan dan dia tidak hadir sendiri u n t uk mengemukakannya.
+(2) Mana-mana orang yang dikehendaki di bawah seksyen ini hanya untuk mengemukakan apa-apa harta atau dokumen hendaklah disifatkan telah mematuhi permintaan itu jika dia menyebabkan harta atau dokumen itu dikemukakan dan dia tidak hadir sendiri untuk mengemukakannya.
 
 (3) Tiada apa-apa jua dalam seksyen i ni boleh disifatkan sebagai menyentuh peruntukan mana-mana undang-undang yang berhubungan dengan keterangan yang sedang berkuatkuasa atau terpakai bagi apa-apa barang pos, telegram atau dokumen lain dalam jagaan pihak berkuasa pos atau telegraf,
 
@@ -1008,7 +1008,7 @@ mempercayai bahawa seseorang yang kepadanya suatu saman di bawah seksyen 42 tela
 
 (c) Mahkamah berpendapat bahawa maksud keadilan atau maksud mana-mana siasatan, perbicaraan atau prosiding lain di bawah Akta ini akan tercapai melalui suatu penggeledahan atau pemeriksaan am; atau
 
-(d) Mahkamah, atas maklumat dan selepas apa-apa siasatan yang difikirkannya perlu, mempunyai sebab u n t uk mempercayai bahawa suatu kesalahan telah dilakukan di mana-mana tempat,
+(d) Mahkamah, atas maklumat dan selepas apa-apa siasatan yang difikirkannya perlu, mempunyai sebab untuk mempercayai bahawa suatu kesalahan telah dilakukan di mana-mana tempat,
 
 Mahkamah boleh mengeluarkan suatu waran geledah dan orang yang kepadanya waran itu diarahkan boleh menggeledah dan memeriksa mengikut waran geledah itu dan mengikut peruntukan Akta ini.
 
@@ -1064,7 +1064,7 @@ pegawai atau orang lain yang melaksanakan waran itu
 
 <!-- marginal: dahan -->
 
-dan apabila waran itu dikemukakan, membenarkannya bebas masuk ke dalamnya dan memberikan segala kemudahan yang munasabah u n t uk menggeledah di dalamnya.
+dan apabila waran itu dikemukakan, membenarkannya bebas masuk ke dalamnya dan memberikan segala kemudahan yang munasabah untuk menggeledah di dalamnya.
 
 (2) Jika tempat itu tidak dapat dimasuki sedemikian, pegawai atau orang lain yang melaksanakan waran itu boleh bertindak mengikut cara yang dipcruntukkan oleh subseksyen 11(2).
 
@@ -1202,7 +1202,7 @@ kesalahan boleh tangkap maka dia hendaklah, melainkan jika kesalahan itu adalah 
 
 Dengan syarat bahawa—
 
-(a) apabila apa-apa maklumat tentang pelakuan mana-mana kesalahan sedemikian diberikan terhadap mana-mana orang yang disebut namanya dan jenis kes itu tidak berat, Pegawai Penguatkuasa Agama yang menerima maklumat itu t i d ak p e r lu pergi sendiri
+(a) apabila apa-apa maklumat tentang pelakuan mana-mana kesalahan sedemikian diberikan terhadap mana-mana orang yang disebut namanya dan jenis kes itu tidak berat, Pegawai Penguatkuasa Agama yang menerima maklumat itu tidak perlu pergi sendiri
 
 <!-- marginal: atau -->
 
@@ -1228,7 +1228,7 @@ Pemeriksaan
 
 (3) Seseorang yang membuat pernyataan di bawah seksyen ini adalah terikat di sisi undang-undang untuk menyatakan yang benar, sama ada atau tidak pernyataan itu dibuat pada keseluruhannya atau sebahagiannya sebagai jawapan kepada soalan-soalan.
 
-(4) Seseorang Pegawai Penguatkuasa Agama yang memeriksa seseorang di bawah subseksyen (1) hendaklah terlebih d a h u lu memberitahu orang itu peruntukan subseksyen (2) dan (3).
+(4) Seseorang Pegawai Penguatkuasa Agama yang memeriksa seseorang di bawah subseksyen (1) hendaklah terlebih dahulu memberitahu orang itu peruntukan subseksyen (2) dan (3).
 
 <!-- page 37 -->
 
@@ -1282,7 +1282,7 @@ yang dipertuduh atas sesuatu kesalahan untuk mendorong orang itu membuat apa-apa
 
 38 Rang Undang-Undang
 
-(2) Tiada Pegawai Penguatkuasa Agama atau orang lain boleh mencegah atau tidak menggalakkan mana-mana orang, dengan apa-apa amaran atau selainnya, dalam perjalanan sesuatu penyiasatan di bawah Bab ini, membuat apa-apa pernyataan yang dia m u n g k in bersedia membuatnya atas kemahuannya sendiri.
+(2) Tiada Pegawai Penguatkuasa Agama atau orang lain boleh mencegah atau tidak menggalakkan mana-mana orang, dengan apa-apa amaran atau selainnya, dalam perjalanan sesuatu penyiasatan di bawah Bab ini, membuat apa-apa pernyataan yang dia mungkin bersedia membuatnya atas kemahuannya sendiri.
 
 Kuasa untuk
 
@@ -1460,7 +1460,7 @@ Hakim
 
 (c) apabila mana-rnana orang dibawa ke hadapannya dalam jagaan tanpa proses dan dituduh melakukan suatu kesalahan yang Hakim itu mempunyai bidang kuasa
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 membicarakannya.
 
@@ -1474,7 +1474,7 @@ membicarakannya.
 
 73. Tiada pendakwaan bagi mana-mana kesalahan di
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 bawah seksyen 4, 8, 9, 12 atau 13 Akta Kesalahan Jenayah
 
@@ -1586,7 +1586,7 @@ perkara yang mengenainya dia dipertuduh, pertuduhan itu hendaklah juga mengandun
 
 <!-- marginal: perkataan -->
 
-u n t uk memperihalkan sesuatu kesalahan hendaklah
+untuk memperihalkan sesuatu kesalahan hendaklah
 
 <!-- marginal: yang -->
 
@@ -1866,11 +1866,11 @@ Dengan syarat bahawa sebelum suatu akuan bersalah direkodkan, Mahkamah hendaklah
 
 (e) tertuduh itu atau Peguam Syarienya hendaklah dihenarkan memeriksa balas semua saksi bagi pihak pendakwaan melalui Hakim;
 
-(f) jika, selepas mengambil segala keterangan yang disebut dalam perenggan (c), (d) dan ( e ), Mahkamah mendapati bahawa tiada kes terhadap t e r t u d uh itu telah diwujudkan yang jika tak dipatahkan akan mewajarkan sabitannya, maka Mahkamah hendaklah merekodkan perintah pembebasan;
+(f) jika, selepas mengambil segala keterangan yang disebut dalam perenggan (c), (d) dan ( e ), Mahkamah mendapati bahawa tiada kes terhadap tertuduh itu telah diwujudkan yang jika tak dipatahkan akan mewajarkan sabitannya, maka Mahkamah hendaklah merekodkan perintah pembebasan;
 
 (g) tiada apa-apa jua dalam perenggan (f) boleh disifatkan sebagai menghalang Mahkamah daripada melepaskan tertuduh itu pada mana- mana peringkat terdahulu dalam kes itu jika bagi sebab-sebab yang hendaklah direkodkan oleh Mahkamah ia berpendapat pertuduhan itu tidak berasas;
 
-(h) jika, apabila keterangan itu telah diambil, Mahkamah berpendapat bahawa ada alasan untuk menganggap bahawa tertuduh .telah melakukan kesalahan yang dipertuduh itu atau kesalahan lain yang Mahkamah itu kompeten untuk membicarakannya dan yang pada pendapatnya p a t ut dibicarakannya. ia
+(h) jika, apabila keterangan itu telah diambil, Mahkamah berpendapat bahawa ada alasan untuk menganggap bahawa tertuduh .telah melakukan kesalahan yang dipertuduh itu atau kesalahan lain yang Mahkamah itu kompeten untuk membicarakannya dan yang pada pendapatnya patut dibicarakannya. ia
 
 <!-- marginal: hendaklah -->
 
@@ -1878,13 +1878,13 @@ menimbangkan pertuduhan yang direkodkan terhadap tertuduh dan memutuskan sama ad
 
 (i) pertuduhan itu jika dipinda hendaklah dibacakan kepada tertuduh sebagaimana yang dipinda dan dia hendakluh ditanya semula sama ada dia bersalah atau ada apa-apa pembelaan yang hendak dibuat;
 
-(j) jika tertuduh tidak mengaku salah kepada pertuduhan i tu sebagaimana yang dipinda atau j i ka liada pindaan dibuat, tertuduh hendaklah dipanggil u n t uk membuat pembelaannya dan
+(j) jika tertuduh tidak mengaku salah kepada pertuduhan i tu sebagaimana yang dipinda atau j i ka liada pindaan dibuat, tertuduh hendaklah dipanggil untuk membuat pembelaannya dan
 
 <!-- page 51 -->
 
 (Wilayah-Wilayah Persekutuan)
 
-mengemukakan keterangannya, dan hendaklah pada bila-bila masa apabila dia m e m b u at pembelaannya dibenarkan untuk memanggil semula dan memeriksa balas mana-mana saksi melalui Hakim;
+mengemukakan keterangannya, dan hendaklah pada bila-bila masa apabila dia membuat pembelaannya dibenarkan untuk memanggil semula dan memeriksa balas mana-mana saksi melalui Hakim;
 
 (k) jika tertuduh mengemukakan apa-apa pernyataan bertulis, Mahkamah hendaklah menfailkannya bersama-sama dengan rekod;
 
@@ -1936,7 +1936,7 @@ mengeluarkan suatu waran bagi pemberkasan pesalah itu.
 
 (a) pegawai yang menjalankan pendakwaan tidaklah perlu membuka kes itu tetapi bolehlah terus mengemukakan keterangannya;
 
-(b) apabila tertuduh dipanggil u n t uk membuat pembelaannya, maka dia atau Peguam Syarienya boleh, sebelum mengemukakan keterangannya, membuka kesnya dengan menyatakan fakta-fakta atau undang-undang yang mahu digunakan
+(b) apabila tertuduh dipanggil untuk membuat pembelaannya, maka dia atau Peguam Syarienya boleh, sebelum mengemukakan keterangannya, membuka kesnya dengan menyatakan fakta-fakta atau undang-undang yang mahu digunakan
 
 <!-- page 54 -->
 
@@ -2154,13 +2154,13 @@ tentang haknya untuk memberikan keterangan bagi pihak
 
 <!-- marginal: tak dibela -->
 
-dirinya sendiri, dan jika dia memilih untuk memberikan keterangan bagi pihak dirinya sendiri, hendaklah menarik perhatiannya kepada perkara-perkara u t a ma dalam keterangan bagi pihak pendakwa terhadapnya supaya dia berpeluang untuk menjelaskannya.
+dirinya sendiri, dan jika dia memilih untuk memberikan keterangan bagi pihak dirinya sendiri, hendaklah menarik perhatiannya kepada perkara-perkara utama dalam keterangan bagi pihak pendakwa terhadapnya supaya dia berpeluang untuk menjelaskannya.
 
 (2) Kegagalan mana-mana tertuduh pada mana-mana perbicaraan untuk memberikan keterangan tidak boleh dijadikan oleh pihak pendakwa perkara kritikan yang memburuk-burukkan tertuduh itu.
 
 <!-- marginal: Kuasa -->
 
-107. (1) J i ka menjadi perlu atau patut u n t uk
+107. (1) Jika menjadi perlu atau patut untuk
 
 <!-- marginal: menangguh- -->
 
@@ -2286,7 +2286,7 @@ soalan dan jawapan, tetapi dalam bentuk cerita.
 
 Menter-
 
-115. (1) Bilamana apa-apa keterangan diberikan dalam jemahkan bahasa atau isyarat yang tidak difahami oleh tertuduh, keterangan kepada dan dia h a d ir sendiri, keterangan
+115. (1) Bilamana apa-apa keterangan diberikan dalam jemahkan bahasa atau isyarat yang tidak difahami oleh tertuduh, keterangan kepada dan dia hadir sendiri, keterangan
 
 <!-- marginal: itu hendaklah -->
 
@@ -2300,7 +2300,7 @@ Pemerhatian
 
 Orang lain
 
-117. Tiada apa-apa jua dalam Bab ini boleh menghalang boleh seorang Hakim dalam sesuatu perbicaraan u n t uk diberikuasa mengambil menyebabkan diambil nota kata demi kata oleh seorang nota lain mengenai apa yang dideposkan oleh setiap saksi keterangan. sebagai tambahan kepada apa-apa nota mengenai isinya yang dibuat atau dicatatkan oleh Hakim itu sendiri, dan nota itu hendaklah menjadi sebahagian daripada rekod.
+117. Tiada apa-apa jua dalam Bab ini boleh menghalang boleh seorang Hakim dalam sesuatu perbicaraan untuk diberikuasa mengambil menyebabkan diambil nota kata demi kata oleh seorang nota lain mengenai apa yang dideposkan oleh setiap saksi keterangan. sebagai tambahan kepada apa-apa nota mengenai isinya yang dibuat atau dicatatkan oleh Hakim itu sendiri, dan nota itu hendaklah menjadi sebahagian daripada rekod.
 
 ## BAB 7
 
@@ -2420,7 +2420,7 @@ melebihi dua dua bulan ratus ringgit tetapi tidak melebihi lima ratus ringgit
 
 melebihi enam bulan; lima ratus ringgit
 
-(c) hukuman pemenjaraan yang dikenakan kerana keingkaran membayar denda hendaklah tamat b i l a m a na denda itu sama ada dibayar atau dilevikan melalui proses undang-undang;
+(c) hukuman pemenjaraan yang dikenakan kerana keingkaran membayar denda hendaklah tamat bilamana denda itu sama ada dibayar atau dilevikan melalui proses undang-undang;
 
 <!-- page 66 -->
 
@@ -2428,7 +2428,7 @@ melebihi enam bulan; lima ratus ringgit
 
 (e) denda itu, atau mana-mana bahagiannya yang masih tidak dibayar, bolehlah dilevikan pada bila-bila masa dalam masa enam tahun selepas hukuman itu dijatuhkan, dan kematian pesalah itu hendaklah melepaskannya daripada denda itu.
 
-(2) Waran u n t uk melevikan sesuatu denda boleh dilaksanakan di mana-mana tempat di Malaysia, tetapi jika ia dikehendaki dilaksanakan di luar Wilayah-Wilayah Persekutuan, ia hendaklah diendorskan bagi maksud itu oleh seorang Hakim Mahkamah Tinggi Syariah atau Hakim Mahkamah Rendah Syariah.
+(2) Waran untuk melevikan sesuatu denda boleh dilaksanakan di mana-mana tempat di Malaysia, tetapi jika ia dikehendaki dilaksanakan di luar Wilayah-Wilayah Persekutuan, ia hendaklah diendorskan bagi maksud itu oleh seorang Hakim Mahkamah Tinggi Syariah atau Hakim Mahkamah Rendah Syariah.
 
 Penggan-
 
@@ -2574,9 +2574,9 @@ Pesalah
 
 (Wilayah-Wilayah Persekutuan)
 
-(2) Jika Mahkamah yang mernpunyai kuasa u n t uk memperlakukan pesalah itu herkenaan dengan kesalahan asalnya berpuas hati bahawa pesalah itu telah tidak mematuhi mana-mana syarat bonnya, ia bolehlah mengeluarkan suatu waran bagi pemberkasannya.
+(2) Jika Mahkamah yang mernpunyai kuasa untuk memperlakukan pesalah itu herkenaan dengan kesalahan asalnya berpuas hati bahawa pesalah itu telah tidak mematuhi mana-mana syarat bonnya, ia bolehlah mengeluarkan suatu waran bagi pemberkasannya.
 
-(3) Mana-mana pesalah apabila diberkas dengan mana- mana waran sedernikian hendaklah, jika tidak dibawa dengan serta-merta ke hadapan Mahkamah yang mempunyai kuasa untuk menghukumnya, dibawa ke hadapan seorang Hakim, dan Hakim itu boleh sama ada menahannya melalui waran sehingga masa dia dikehendaki oleh bonnya untuk hadir bagi penghakiman atau sehingga bersidangnya Mahkamah yang mempunyai kuasa u n t uk menguruskan kesalahan asalnya, atau boleh membenarkan dia mengikat j a m in dengan penjamin yang mencukupi dengan syarat dia hadir bagi penghakiman.
+(3) Mana-mana pesalah apabila diberkas dengan mana- mana waran sedernikian hendaklah, jika tidak dibawa dengan serta-merta ke hadapan Mahkamah yang mempunyai kuasa untuk menghukumnya, dibawa ke hadapan seorang Hakim, dan Hakim itu boleh sama ada menahannya melalui waran sehingga masa dia dikehendaki oleh bonnya untuk hadir bagi penghakiman atau sehingga bersidangnya Mahkamah yang mempunyai kuasa untuk menguruskan kesalahan asalnya, atau boleh membenarkan dia mengikat jamin dengan penjamin yang mencukupi dengan syarat dia hadir bagi penghakiman.
 
 (4) Pesalah itu, apabila ditahan sedemikian, boleh dipenjarakan dan waran tahanannya hendaklah memerintahkan supaya dia dibawa ke hadapan Mahkamah yang di hadapannya dia terikat untuk hadir bagi penghakiman atau untuk memberikan jawapan tentang kelukuannya sejak dia dilepaskan.
 
@@ -2594,7 +2594,7 @@ Pesalah
 
 Pengembalian
 
-131. Apabila sesuatu h u k u m an telah dilaksanakan waran sepenuhnya, pegawai yang melaksanakannya hendaklah mengembalikan waran itu kepada Mahkamah yang mengeluarkannya dengan suatu pengendorsan di bawah tandatangannya yang memperakui cara bagaimana hukurnan itu telah dilaksanakan.
+131. Apabila sesuatu hukuman telah dilaksanakan waran sepenuhnya, pegawai yang melaksanakannya hendaklah mengembalikan waran itu kepada Mahkamah yang mengeluarkannya dengan suatu pengendorsan di bawah tandatangannya yang memperakui cara bagaimana hukurnan itu telah dilaksanakan.
 
 ## BAB 9
 
@@ -2740,7 +2740,7 @@ mana orang yang tidak berpuas hati dengan mana-mana penghakiman, hukuman atau pe
 
 <!-- page 76 -->
 
-(3) Apabila sesuatu notis rayuan telah dimasukkan, Mahkamah yang terhadap keputusannya rayuan itu dibuat hendaklah membuat suatu salinan bertandatangan bagi alasan keputusan dalam kes itu dan menyebabkan alasan keputusan itu disampaikan kepada perayu atau Peguam Syarienya dengan meninggalkan salinan itu di alamat yang disebut dalam n o t is rayuan itu atau dengan menghantarnya melalui pos berdaftar yang dialamatkan kepada perayu di alamat itu.
+(3) Apabila sesuatu notis rayuan telah dimasukkan, Mahkamah yang terhadap keputusannya rayuan itu dibuat hendaklah membuat suatu salinan bertandatangan bagi alasan keputusan dalam kes itu dan menyebabkan alasan keputusan itu disampaikan kepada perayu atau Peguam Syarienya dengan meninggalkan salinan itu di alamat yang disebut dalam notis rayuan itu atau dengan menghantarnya melalui pos berdaftar yang dialamatkan kepada perayu di alamat itu.
 
 (4) Dalam masa sepuluh hari selepas salinan alasan keputusan itu disampaikan menurut subseksyen (3), perayu hendaklah mengemukakan kepada Penolong Pendaftar Mahkamah Rendah Syariah di mana perbicaraan itu telah diadakan suatu petisyen rayuan dalam lima salinan yang dialamatkan kepada Mahkamah Tinggi Syariah.
 
@@ -2752,7 +2752,7 @@ sebagaimana yang diperuntukkan dalam subseksyen (4)—
 
 (a) dalam tempoh masa yang diperuntukkan oleh subseksyen itu; atau
 
-(b) dalam masa sepuluh hari dari t a r i kh notis ditinggalkan di alamatnya bagi penyampaian yang dinyatakan dalam subseksyen (2) bahawa suatu salinan nota-nota keterangan boleh didapati dengan percuma,
+(b) dalam masa sepuluh hari dari tarikh notis ditinggalkan di alamatnya bagi penyampaian yang dinyatakan dalam subseksyen (2) bahawa suatu salinan nota-nota keterangan boleh didapati dengan percuma,
 
 mengikut mana-mana tempoh yang lebih panjang.
 
@@ -2798,7 +2798,7 @@ mematuhi formaliti atau sesuatu kehendak Akta ini, membenarkan rayuan atas apa-a
 
 Penggantungan
 
-141. Kecuali dalam hal hukuman sebat, yang pelaksanaan pelaksanaannya hendaklah ditangguhkan sementara sementara menanti menanti rayuan, tiada rayuan boleh berkuatkuasa sebagai rayuan penggantungan pelaksanaan, tetapi Mahkamah yang terhadap keputusannya rayuan itu dibuat atau Mahkamah Tinggi Syariah boleh menggantung pelaksanaan mana- mana penghakiman, perintah, sabitan atau hukuman sementara menanti rayuan, atas apa-apa terma tentang jaminan bagi pembayaran apa-apa wang atau pelaksanaan atau ketaklaksanaan mana-mana perbuatan atau penjalanan mana-mana hukuman yang diperintahkan oleh atau dalam penghakiman, perintah, sabitan atau h u k u m an itu sebagaimana yang difikirkan munasabah oleh Mahkamah yang terhadap keputusannya rayuan itu dibuat atau oleh Mahkamah Tinggi Syariah.
+141. Kecuali dalam hal hukuman sebat, yang pelaksanaan pelaksanaannya hendaklah ditangguhkan sementara sementara menanti menanti rayuan, tiada rayuan boleh berkuatkuasa sebagai rayuan penggantungan pelaksanaan, tetapi Mahkamah yang terhadap keputusannya rayuan itu dibuat atau Mahkamah Tinggi Syariah boleh menggantung pelaksanaan mana- mana penghakiman, perintah, sabitan atau hukuman sementara menanti rayuan, atas apa-apa terma tentang jaminan bagi pembayaran apa-apa wang atau pelaksanaan atau ketaklaksanaan mana-mana perbuatan atau penjalanan mana-mana hukuman yang diperintahkan oleh atau dalam penghakiman, perintah, sabitan atau hukuman itu sebagaimana yang difikirkan munasabah oleh Mahkamah yang terhadap keputusannya rayuan itu dibuat atau oleh Mahkamah Tinggi Syariah.
 
 Menetapkan
 
@@ -2814,7 +2814,7 @@ mempercepat atau menangguhkan pendengaran sesuatu rayuan.
 
 Prosedur
 
-143. (1) Apabila tiba masa untuk mendengar rayuan, pada perayu hendaklah didengar terlebih dahulu u n t uk pendengaran menyokong rayiian itu, kemudian responden hendaklah didengar untuk menentangnya, dan perayu hendaklah berhak untuk menjawab.
+143. (1) Apabila tiba masa untuk mendengar rayuan, pada perayu hendaklah didengar terlebih dahulu untuk pendengaran menyokong rayiian itu, kemudian responden hendaklah didengar untuk menentangnya, dan perayu hendaklah berhak untuk menjawab.
 
 (2) Jika perayu tidak hadir untuk menyokong rayuannya, Mahkamah boleh menimbangkan rayuannya dan boleh
 
@@ -3496,7 +3496,7 @@ dalam subseksyen (1) dan bahawa deposisi itu telah diambil dengan sewajarnya di 
 
 Jika orang
 
-193. Bilamana dibuktikan sehingga Hakim berpuas hati yang terikat bahawa mana-mana saksi yang terikat untuk memberikan untuk memberikan keterangan dalam perbicaraan mana-mana kesalahan boleh keterangan tangkap berniat untuk meninggalkan Malaysia dan bahawa berniat untuk meninggalkan matlamat keadilan akan barangkali terjejas jika orang Malaysia itu tidak hadir pada perbicaraan itu untuk memberikan keterangan, Hakim boleh, atas permohonan Ketua Pendakwa Syarie atau tertuduh dan selepas peruntukan wajar dibuat bagi saraannya dan bagi memampasinya kerana penahanannya dan masanya yang terbuang, memenjarakan orang itu di penjara s i v il sehingga perbicaraan atau sehingga dia memberikan jaminan yang memuaskan hati bahawa dia akan memberikan keterangan pada perbicaraan itu.
+193. Bilamana dibuktikan sehingga Hakim berpuas hati yang terikat bahawa mana-mana saksi yang terikat untuk memberikan untuk memberikan keterangan dalam perbicaraan mana-mana kesalahan boleh keterangan tangkap berniat untuk meninggalkan Malaysia dan bahawa berniat untuk meninggalkan matlamat keadilan akan barangkali terjejas jika orang Malaysia itu tidak hadir pada perbicaraan itu untuk memberikan keterangan, Hakim boleh, atas permohonan Ketua Pendakwa Syarie atau tertuduh dan selepas peruntukan wajar dibuat bagi saraannya dan bagi memampasinya kerana penahanannya dan masanya yang terbuang, memenjarakan orang itu di penjara sivil sehingga perbicaraan atau sehingga dia memberikan jaminan yang memuaskan hati bahawa dia akan memberikan keterangan pada perbicaraan itu.
 
 Laporan
 
@@ -3804,7 +3804,7 @@ sebelum atau semasa perbicaraan di bawah Akta ini;
 
 (c) penerimaan atau penolakan tak wajar apa-apa keterangan,
 
-melainkan jika kesilapan, peninggalan, penerimaan atau penolakan tak wajar keterangan, ketakteraturan, ketiadaan k e i z i n an atau salah arahan itu telah menyebabkan kegagalan peradilan.
+melainkan jika kesilapan, peninggalan, penerimaan atau penolakan tak wajar keterangan, ketakteraturan, ketiadaan keizinan atau salah arahan itu telah menyebabkan kegagalan peradilan.
 
 ## BAHAGIAN VIII
 
@@ -3888,7 +3888,7 @@ menandatangani pernyataan itu oleh seorang pegawai agama yang kompeten di sisi u
 
 <!-- marginal: Dengan -->
 
-217. Barang siapa dengan sengaja m e n g h i na atau
+217. Barang siapa dengan sengaja menghina atau
 
 <!-- marginal: sengaja meng- -->
 
@@ -4036,7 +4036,7 @@ dalam Warta, membuat kaedah-kaedah bagi menjalankan peruntukan Akta ini dan khus
 
 (c) perjalanan Mahkamah, bentuk dan kaedah pelaksanaan suratcara dan pelantikan mana-mana pegawai atau ejen Mahkamah.
 
-<!-- marginal: H u k um -->
+<!-- marginal: Hukum -->
 
 230. ( I) Mana-mana peruntukan atau tafsiran peruntukan
 
@@ -4076,7 +4076,7 @@ prosiding jenayah adalah dengan i ni terhenti terpakai bagi Wilayah-Wilayah Pers
 
 (Subseksyen 22(5))
 
-DI DALAM M A H K A M AH ............................... DI..........................
+DI DALAM MAHKAMAH ............................... DI..........................
 
 ## WARAN PENAHANAN
 
@@ -4084,13 +4084,13 @@ NO
 
 Kepada Pegawai Yang Menjaga Penjara/Balai Polis di ...............
 
-Kes Jenayah No. ........................................... t a h un 19...........
+Kes Jenayah No. ........................................... tahun 19...........
 
 ## BAHAWASANYA
 
-................................ (kemudian daripada ini disebut "tertuduh") telah pada hari ini dibawa ke hadapan Mahkamah ini dan dipertuduh m e l a k u k an kesalahan.....................................dan adalah perlu tertuduh ditahan.
+................................ (kemudian daripada ini disebut "tertuduh") telah pada hari ini dibawa ke hadapan Mahkamah ini dan dipertuduh melakukan kesalahan.....................................dan adalah perlu tertuduh ditahan.
 
-Waran i ni memberikuasa dan menghendaki anda menerima tertuduh ke dalam jayaan tuan bersama dengan waran i ni dan menahannya dengan selamat dalam Penjara/Lokap Polis sehingga ......... h a r i b u l an .................. apabila anda hendaklah menyebabkannya dibawa ke hadapan Mahkamah i ni pada jam .......................... pagi pada hari itu melainkan jika sementara itu anda diperintahkan selainnya.
+Waran i ni memberikuasa dan menghendaki anda menerima tertuduh ke dalam jayaan tuan bersama dengan waran i ni dan menahannya dengan selamat dalam Penjara/Lokap Polis sehingga ......... haribulan .................. apabila anda hendaklah menyebabkannya dibawa ke hadapan Mahkamah i ni pada jam .......................... pagi pada hari itu melainkan jika sementara itu anda diperintahkan selainnya.
 
 Diberikan di bawah tandatangan saya dan meterai Mahkamah pada hari i ni ........... haribulan ................. 19.......
 
@@ -4116,9 +4116,9 @@ Kepada ................................... beralamat di.........................
 
 ## BAHAWASANYA
 
-kehadiran kamu adalah p e r lu
+kehadiran kamu adalah perlu
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 menjawab pertuduhan .................................................................... dan dengan ini kamu dikehendaki hadir sendiri pada ........... haribulan ..................... jam .............................. pagi di hadapan Mahkamah Tinggi Syariah/Mahkamah Rendah Syariah di .....................................................................................................
 
@@ -4154,7 +4154,7 @@ Waran ini bolehlah diendorskan seperti yang berikut: Jika.......................
 
 <!-- marginal: tersebut -->
 
-membayar sendiri jaminan sejumlah ........................... ringgit dengan seorang atau dua orang penjamin setiap seorang s e j u m l ah ......................... ringgit untuk hadir di hadapan Mahkamah Tinggi Syariah/Mahkamah Rendah Syariah pada ................ haribulan ................ 19.................. dan untuk terus hadir sehingga sayass mengarahkan selainnya, dia bolehlah dilepaskan.
+membayar sendiri jaminan sejumlah ........................... ringgit dengan seorang atau dua orang penjamin setiap seorang sejumlah ......................... ringgit untuk hadir di hadapan Mahkamah Tinggi Syariah/Mahkamah Rendah Syariah pada ................ haribulan ................ 19.................. dan untuk terus hadir sehingga sayass mengarahkan selainnya, dia bolehlah dilepaskan.
 
 Bertarikh pada ................ haribulan .............. 19..............
 
@@ -4180,7 +4180,7 @@ Kepada:
 
 BAHAWASANYA maklumat bertulis telah dibentangkan di hadapan saya mengenai pelakuan (atau pelakuan yang disyaki) kesalahan .................................... di bawah seksyen .......................... dalam ..........................................
 
-Maka waran ini memberikuasa dan menghendaki anda memasuki dalam tempoh tidak lebih daripada 7 hari dari t a r i kh waran i ni r u m ah ( a t au tempat atau premis) yang beralamat di ................................................................. dengan apa-apa bantuan yang diperlukan, dan menggeledah tiap-tiap bahagian rumah (atau tempat atau premis) ilu dan menangkap mana-mana orang yang didapati melakukan kesalahan yang disebul terdahulu. dan dengan segera membawa mereka ke hadapan saya atau Mahkamah.
+Maka waran ini memberikuasa dan menghendaki anda memasuki dalam tempoh tidak lebih daripada 7 hari dari tarikh waran i ni rumah ( a t au tempat atau premis) yang beralamat di ................................................................. dengan apa-apa bantuan yang diperlukan, dan menggeledah tiap-tiap bahagian rumah (atau tempat atau premis) ilu dan menangkap mana-mana orang yang didapati melakukan kesalahan yang disebul terdahulu. dan dengan segera membawa mereka ke hadapan saya atau Mahkamah.
 
 Dibenkan di bawah tandatangan saya dan meterai Mahkamah pada ................. haribulan ................... 19.....
 
@@ -4284,9 +4284,9 @@ III
 
 6. Bahagian III mengandungi peruntukan am lain yang berhubungan dengan prosedur jenayah di Mahkamah.
 
-7." Bab 1 memperkatakan maklumat kepada seorang Hakim dan Pegawai Penguatkuasa Agama. Fasal 8 dan 9 menghendaki orang ramal memberikan bantuan kepada Hakim, dll. untuk mencegah mana-mana orang yang ditangkap melarikan diri dan u n t uk memberikan maklumat tentang pelakuan apa-apa kesalahan kepada Pegawai Penguatkuasa Agama dan pegawai polis.
+7." Bab 1 memperkatakan maklumat kepada seorang Hakim dan Pegawai Penguatkuasa Agama. Fasal 8 dan 9 menghendaki orang ramal memberikan bantuan kepada Hakim, dll. untuk mencegah mana-mana orang yang ditangkap melarikan diri dan untuk memberikan maklumat tentang pelakuan apa-apa kesalahan kepada Pegawai Penguatkuasa Agama dan pegawai polis.
 
-8. Bab 2 memperkatakan penangkapan, perbuatan melarikan diri dan penangkapan semula. Fasal 10 mengadakan peruntukan mengenai cara membual sesuatu tangkapan. Fasal 11 dan 12 masingTtnasing mengadakan peruntukan mengenai kuasa menggeledah sesuatu tempat dan memenksa seseorang. Fasal 13 memberi orang diberikuasa kuasa u n t uk memecah buka mana-rnana tempat bagi maksud melepaskan diri. Fasal 14 melarang sekatan tak perlu ke atas seseorang yang ditangkap dan fasal 15 mengadakan peruntukan mengenai prosedur
+8. Bab 2 memperkatakan penangkapan, perbuatan melarikan diri dan penangkapan semula. Fasal 10 mengadakan peruntukan mengenai cara membual sesuatu tangkapan. Fasal 11 dan 12 masingTtnasing mengadakan peruntukan mengenai kuasa menggeledah sesuatu tempat dan memenksa seseorang. Fasal 13 memberi orang diberikuasa kuasa untuk memecah buka mana-rnana tempat bagi maksud melepaskan diri. Fasal 14 melarang sekatan tak perlu ke atas seseorang yang ditangkap dan fasal 15 mengadakan peruntukan mengenai prosedur
 
 <!-- page 123 -->
 
@@ -4296,7 +4296,7 @@ apabila membuat sesuatu penangkapan. Fasal 16 memperuntukkan kuasa untuk menyita
 
 ditangkap atas bon atau jaminan. Fasal 24 dan fasal 25 memperkatakan kuasa seseorang Hakim untuk membuat penangkapan.
 
-9. Bab 3 mengandungi peruntukan yang berhubungan dengan proses u n t uk memaksa kehadiran. Fasal 28, 29, 30 dan 31 mengadakan peruntukan mengenai penyampaian saman dan prosedur apabiia penyampaian diri tidak dapat dilaksanakan, Fasal 32 mengadakan peruntukan mengenai bentuk waran tangkap dan fasal 33 memberi Mahkamah kuasa untuk mengarahkan pengambilan jaminan bagi pelepasan orang yang dimaksudkan dalam waran itu. Fasal 35 menghendaki pegawai polis atau orang lain yang melaksanakan waran tangkap supaya memberitahukan isi waran itu kepada orang yang ditangkap itu. Fasal 36 menghendaki supaya orang yang ditangkap dibawa ke hadapan Mahkamah tanpa kelengahan. Fasal 37 memperkatakan prosedur mengenai penangkapan orang yang terhadapnya waran dikeluarkan. Kaedah-kaedah lain mengenai saman kehadiran dan waran tangkap diperuntukkan dalam fasal 38, 39, 40 dan 41.
+9. Bab 3 mengandungi peruntukan yang berhubungan dengan proses untuk memaksa kehadiran. Fasal 28, 29, 30 dan 31 mengadakan peruntukan mengenai penyampaian saman dan prosedur apabiia penyampaian diri tidak dapat dilaksanakan, Fasal 32 mengadakan peruntukan mengenai bentuk waran tangkap dan fasal 33 memberi Mahkamah kuasa untuk mengarahkan pengambilan jaminan bagi pelepasan orang yang dimaksudkan dalam waran itu. Fasal 35 menghendaki pegawai polis atau orang lain yang melaksanakan waran tangkap supaya memberitahukan isi waran itu kepada orang yang ditangkap itu. Fasal 36 menghendaki supaya orang yang ditangkap dibawa ke hadapan Mahkamah tanpa kelengahan. Fasal 37 memperkatakan prosedur mengenai penangkapan orang yang terhadapnya waran dikeluarkan. Kaedah-kaedah lain mengenai saman kehadiran dan waran tangkap diperuntukkan dalam fasal 38, 39, 40 dan 41.
 
 10. Bab 4 memperkatakan proses untuk memaksa pengemukaan dokumen dan harta alih lain dan bagi menemukan orang yang dikurung dengan salah. Fasal 44 menyatakan bilakah waran geledah boleh dikeluarkan dan fasal 45 memperkatakan kuasa untuk mengenakan sekatan ke atas waran geledah. Fasal 46 memberi Hakim kuasa untuk mengeluarkan waran yang membenarkan penggeledahan untuk mencari keterangan mengenai sesuatu kesalahan. Fasal 47 menetapkan bentuk waran geledah. Fasal48 memperkatakan penggeledahan untuk mencari orang yang dikurung dengan salah. Fasal 49 menghendaki orang yang menjaga tempat tertutup supaya membenarkan penggeledahan dibuat. Fasal 50 dan 51 memberi Hakim kuasa untuk hadir ketika waran geledah dilaksanakan dan untuk mengarahkan supaya penggeledahan dibuat di hadapannya, Fasal 52 menghendaki suatu senarai segala benda yang disita dibuat dan ditandatangani oleh pegawai atau orang lain yang membuat penggeledahan itu.
 
@@ -4312,7 +4312,7 @@ IV
 
 salinan maklumat yang diperakui. Fasal 57 menyatakan prosedur jika kesalahan boleh tangkap adalah disyaki. Fasal 58 dan 59 masing- masingnya mengadakan peruntukan mengenai kuasa seseorang Pegawai Penguatkuasa Agama untuk menghendaki kehadiran saksi dan untuk memeriksa saksi. Fasal 60 menyatakan bilakah pernyataan kepada seorang Pegawai Penguatkuasa Agama tidak boleh diterima sebagai keterangan. Fasal 61 melarang seseorang Pegawai Penguatkuasa Agama membual apa-apa dorongan, ancaman atau janji kepada mana-mana orang yang dipertuduh atas sesuatu kesalahan.
 
-pengakuan salah. Fasal 63 mengadakan peruntukan mengenai penggeledahan oleh Pegawai Penguatkuasa Agama. Fasal 64 memperkatakan kuasa Pegawai Penguatkuasa Agama u n t uk menghendaki bon bagi kehadiran pengadu dan saksi, Fasal 66 "menghendaki Pegawai Penguatkuasa Agama menghantar laporan penyiasatan kepada Ketua Pendakwa Syarie.
+pengakuan salah. Fasal 63 mengadakan peruntukan mengenai penggeledahan oleh Pegawai Penguatkuasa Agama. Fasal 64 memperkatakan kuasa Pegawai Penguatkuasa Agama untuk menghendaki bon bagi kehadiran pengadu dan saksi, Fasal 66 "menghendaki Pegawai Penguatkuasa Agama menghantar laporan penyiasatan kepada Ketua Pendakwa Syarie.
 
 ## BAHAGIAN V
 
@@ -4384,7 +4384,7 @@ penangkapannya dalam kes tertentu. Keputusan dalam sesuatu rayuan, penghakiman d
 
 31. Bab 3 memperkatakan jaminan. Fasal 185 menyatakan bilakah seseorang boleh dilepaskan atas jaminan. Fasal 186, 187 dan 188 masing-masingnya memperkatakan amaun bon, penyempurnaan bon dan pelepasan orang selepas penyempurnaannya. Fasal 189 menyatakan bahawa waran tangkap boleh dikeluarkan terhadap orang yang dilepaskan atas jaminan.
 
-32. Bab 4 mengandungi peruntukan khas berhubungan dengan keterangan. Fasal 192 menyatakan prosedur jika seseorang saksi sakit tenat dan fasal 193 adalah berhubungan dengan keterangan orang yang berniat u n t uk meninggalkan Malaysia. Fasal 194 mengadakan peruntukan mengenai penerimaan laporan yang disediakan oleh orang yang dinyatakan dalam fasal itu. Fasal 195 adalah berhubungan dengan pembuktian sabitan atau pembebasan terdahulu. Fasal 197 menghendaki notis diberikan jika pembelaan alibi hendak dikemukakan.
+32. Bab 4 mengandungi peruntukan khas berhubungan dengan keterangan. Fasal 192 menyatakan prosedur jika seseorang saksi sakit tenat dan fasal 193 adalah berhubungan dengan keterangan orang yang berniat untuk meninggalkan Malaysia. Fasal 194 mengadakan peruntukan mengenai penerimaan laporan yang disediakan oleh orang yang dinyatakan dalam fasal itu. Fasal 195 adalah berhubungan dengan pembuktian sabitan atau pembebasan terdahulu. Fasal 197 menghendaki notis diberikan jika pembelaan alibi hendak dikemukakan.
 
 33. Bab 5 mengandungi peruntukan tentang bon. Fasal 198 menyatakan bahawa sejur.ilah wang boleh didepositkan sebagai ganti bon. Prosedur mengenai pelucuthakan bon dan rayuan berkenaan derigannya diperuntukkan masing-masingnya dalam fasal 199 dan 200.
 

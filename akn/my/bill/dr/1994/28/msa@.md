@@ -728,7 +728,7 @@ Dengan syarat bahawa kerja menyelamat atau apa-apa kerja yang perlu bagi keselam
 
 <!-- marginal: Prosedur -->
 
-22. (1) Jika Ketua Pengarah memutuskan u n t uk
+22. (1) Jika Ketua Pengarah memutuskan untuk
 
 <!-- marginal: bagi -->
 
@@ -744,7 +744,7 @@ seorang pegawai galian dan jika perlu mana-mana orang yang mempunyai pengetahuan
 
 (3) Dalam menjalankan siasatan, pegawai galian itu hendaklah mempunyai kuasa-kuasa berikut:
 
-(a) u n t uk memperolehi dan menerima segala keterangan, bertulis atau lisan, dan untuk memeriksa mana-mana orang sebagai saksi sebagaimana yang difikirkan perlu atau wajar oleh pegawai galian itu untuk diperolehi atau diperiksa;
+(a) untuk memperolehi dan menerima segala keterangan, bertulis atau lisan, dan untuk memeriksa mana-mana orang sebagai saksi sebagaimana yang difikirkan perlu atau wajar oleh pegawai galian itu untuk diperolehi atau diperiksa;
 
 (b) untuk menghendaki keterangan, bertulis atau lisan, mana-mana saksi dibuat atas sumpah atau ikrar (apa-apa sumpah atau ikrar itu hendaklah yang boleh dikehendaki daripada saksi itu jika dia memberi keterangan di Mahkamah Tinggi) atau melalui pengakuan berkanun; dan
 
@@ -818,7 +818,7 @@ perlombongan, penyimpanan
 
 <!-- marginal: atau -->
 
-pemprosesan mineral dijalankan u n t uk menyatakan identiti dan maksudnya, dan memberi apa-apa maklumat yang dikehendaki oleh Akta ini dan dalam kuasa orang itu untuk memberi; dan
+pemprosesan mineral dijalankan untuk menyatakan identiti dan maksudnya, dan memberi apa-apa maklumat yang dikehendaki oleh Akta ini dan dalam kuasa orang itu untuk memberi; dan
 
 (f) mengambil sampel apa-apa bahan sama ada pepejal, cecair atau gas dalam atau sedang dilepaskan ke dalam atau dari mana-mana kawasan pemfosikan, pendulangan, pen- jelajahan atau kemudahan penyimpanan atau lombong atau loji pemprosesan mineral.
 
@@ -914,7 +914,7 @@ difikirkannya perlu, bahawa ada sebab yang munasabah bagi mengesyaki bahawa dala
 
 <!-- page 32 -->
 
-mineral, kotak, peti, bekas, bungkusan, alat pengangkutan atau benda yang berkenaan dengannya suatu kesalahan telah atau disyaki telah dilakukan dan apa-apa jentera, buku, dokumen atau benda-benda lain yang semunasabahnya dipercayai memberi b u k ti pelakuan kesalahan itu.
+mineral, kotak, peti, bekas, bungkusan, alat pengangkutan atau benda yang berkenaan dengannya suatu kesalahan telah atau disyaki telah dilakukan dan apa-apa jentera, buku, dokumen atau benda-benda lain yang semunasabahnya dipercayai memberi bukti pelakuan kesalahan itu.
 
 (2) Mana-mana pegawai galian yang bertindak di bawah subseksyen (1) boleh jika perlu berbuat demikian—
 
@@ -1186,7 +1186,7 @@ yang disediakan dalam atau dekat dengannya atau
 
 <!-- marginal: dsb. -->
 
-memindahkan mana-mana bahagian timbunan atau lambakan di m u l ut mana-mana lubong lombong sehingga mengurangkan atau memusnahkan kegunaannya bagi melindungi orang atau haiwan daripada terjatuh ke dalam lubong lombong itu adalah melakukan suatu kesalahan.
+memindahkan mana-mana bahagian timbunan atau lambakan di mulut mana-mana lubong lombong sehingga mengurangkan atau memusnahkan kegunaannya bagi melindungi orang atau haiwan daripada terjatuh ke dalam lubong lombong itu adalah melakukan suatu kesalahan.
 
 <!-- page 40 -->
 
@@ -1240,13 +1240,13 @@ adalah melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak me
 
 <!-- page 42 -->
 
-(2) Dalam mana-mana pendakwaan di bawah seksyen ini, apabila telah dibuktikan bahawa apa-apa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara adalah palsu, tak betul, mengelirukan atau dilancungkan keseluruhannya atau sebahagiannya tentang apa-apa butir material, maka hendaklah dianggap, sehingga dibuktikan sebaliknya, bahawa permohonan, maklumat, pernyataan, b u k u, dokumen atau suratcara itu adalah palsu, tak betul, mengelirukan atau dilancungkan tentang sesuatu butir material, mengikut kehendak keadaan, kepada pengetahuan orang yang membekalnya:
+(2) Dalam mana-mana pendakwaan di bawah seksyen ini, apabila telah dibuktikan bahawa apa-apa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara adalah palsu, tak betul, mengelirukan atau dilancungkan keseluruhannya atau sebahagiannya tentang apa-apa butir material, maka hendaklah dianggap, sehingga dibuktikan sebaliknya, bahawa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara itu adalah palsu, tak betul, mengelirukan atau dilancungkan tentang sesuatu butir material, mengikut kehendak keadaan, kepada pengetahuan orang yang membekalnya:
 
-Dengan syarat bahawa orang itu tidaklah boleh didapati melakukan suatu kesalahan j i ka dia membuktikan bahawa dia telah bertindak dengan suci hati dan tidak ada alasan yang munasabah u n t uk menyangka bahawa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara itu adalah palsu, tak betul, mengelirukan atau dilancungkan.
+Dengan syarat bahawa orang itu tidaklah boleh didapati melakukan suatu kesalahan j i ka dia membuktikan bahawa dia telah bertindak dengan suci hati dan tidak ada alasan yang munasabah untuk menyangka bahawa permohonan, maklumat, pernyataan, buku, dokumen atau suratcara itu adalah palsu, tak betul, mengelirukan atau dilancungkan.
 
 Kehilangan
 
-45. Mana-mana orang yang menyebabkan kehilangan atau atau kebinasaan apa-apa benda yang hendak disita di kebinasaan apa-apa bawah Akta ini dengan niat untuk mencegah benda yang penyitaannya adalah melakukan suatu kesalahan dan disita. boleh, apabila disabitkan, didenda tidak melebihi lima p u l uh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+45. Mana-mana orang yang menyebabkan kehilangan atau atau kebinasaan apa-apa benda yang hendak disita di kebinasaan apa-apa bawah Akta ini dengan niat untuk mencegah benda yang penyitaannya adalah melakukan suatu kesalahan dan disita. boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
 Perbuatan
 
@@ -1600,7 +1600,7 @@ III
 
 melombong yang diluluskan boleh dibuat dan menghendaki kelulusan Pengarah. Pengarah hendaklah meluluskan skim pengendalian melombong itu atau apa-apa ubahsuaiannya jika skim itu menyediakan tempat kerja yang semunasabahnya selamat dan tidak membahayakan komuniti bersebelahan. Mana-mana pemegang lesen melombong tuan punya atau pajakan melombong yang terkilan dengan keputusan Pengarah boleh merayu secara bertulis kepada Ketua Pengarah dalam masa tiga puluh hari dari tarikh dia diberitahu tentang keputusan itu oleh Pengarah.
 
-9. Fasal 11 menghendaki pemegang lesen mencarigali, lesen penjelajahan, lesen melombong tuan p u n ya atau pajakan melombong untuk memberitahu Pengarah dan Ketua Pengarah Penyiasatan Kajibumi sebelum memulakan penjelajahan atau kerja pembangunan, mengikut mana-mana yang berkenaan.
+9. Fasal 11 menghendaki pemegang lesen mencarigali, lesen penjelajahan, lesen melombong tuan punya atau pajakan melombong untuk memberitahu Pengarah dan Ketua Pengarah Penyiasatan Kajibumi sebelum memulakan penjelajahan atau kerja pembangunan, mengikut mana-mana yang berkenaan.
 
 10. Fasal 12 memberi kuasa kepada Pengarah untuk menyiasat perkara itu dan mengambil tindakan yang perlu apabila terdapat ketakpatuhan skim pengendalian melombong yang diluluskan.
 

@@ -916,7 +916,7 @@ Rang Undang-Undang
 
 16. Tiada seorang pun boleh menuntut atau menyetujui terima, apa-apa bayaran atau balasan lain bagi barang atau perkhidmatan, j i ka pada masa tuntutan atau penyetujuterimaan itu orang itu—
 
-(a) tidak berniat u n t uk membekalkan barang atau perkhidmatan itu;
+(a) tidak berniat untuk membekalkan barang atau perkhidmatan itu;
 
 (b) berniat untuk membekalkan barang atau perkhidmatan yang berbeza secara matan daripada barang atau perkhidmatan yang berkenaan dengannya bayaran atau balasan lain itu dituntut atau diterima; atau
 
@@ -924,7 +924,7 @@ Rang Undang-Undang
 
 Pelindungan Pengguna
 
-(c) tidak mempunyai alasan yang munasabah u n t uk mempercayai bahawa dia dapat membekalkan barang atau perkhidmatan itu dalam apa-apa tempoh yang dinyatakan, atau jika tiada tempoh dinyatakan, dalam masa yang munasabah.
+(c) tidak mempunyai alasan yang munasabah untuk mempercayai bahawa dia dapat membekalkan barang atau perkhidmatan itu dalam apa-apa tempoh yang dinyatakan, atau jika tiada tempoh dinyatakan, dalam masa yang munasabah.
 
 ### Kontrak perkhidmatan hadapan
 
@@ -1282,7 +1282,7 @@ Rang Undang-Undang
 
 (b) tidak diwujudkan oleh atau dengan izinnya yang nyata;
 
-"hak u n t uk menjual" ertinya hak untuk melupuskan pemunyaan barang kepada pengguna pada masa pemunyaan itu berpindah.
+"hak untuk menjual" ertinya hak untuk melupuskan pemunyaan barang kepada pengguna pada masa pemunyaan itu berpindah.
 
 ### Gerenti tersirat mengenai kualiti boleh terima
 
@@ -2836,7 +2836,7 @@ tempoh satu bulan kalendar dari tarikh penyampaian notis di alamat yang terakhir
 
 Pelindungan Pengguna
 
-(8) Jika apa-apa barang, benda, buku, dokumen, rekod atau benda lain yang disita pada menjalankan kuasa yang diberikan di bawah Akta ini adalah daripada jenis yang mudah musnah atau mengikut tabiinya lekas rosak atau jika penjagaan barang, benda, buku, dokumen, rekod atau benda lain itu melibatkan belanja dan kesulitan yang tak munasabah, atau dipercayai menyebabkan gangguan dan merbahaya kepada u m u m, Pengawal boleh mengarahkan supaya barang, benda, buku, dokumen, rekod atau benda lain itu dijual pada bila-bila masa dan hasil jualan itu dipegang sementara menanti keputusan apa-apa pendakwaan di bawah Akta ini.
+(8) Jika apa-apa barang, benda, buku, dokumen, rekod atau benda lain yang disita pada menjalankan kuasa yang diberikan di bawah Akta ini adalah daripada jenis yang mudah musnah atau mengikut tabiinya lekas rosak atau jika penjagaan barang, benda, buku, dokumen, rekod atau benda lain itu melibatkan belanja dan kesulitan yang tak munasabah, atau dipercayai menyebabkan gangguan dan merbahaya kepada umum, Pengawal boleh mengarahkan supaya barang, benda, buku, dokumen, rekod atau benda lain itu dijual pada bila-bila masa dan hasil jualan itu dipegang sementara menanti keputusan apa-apa pendakwaan di bawah Akta ini.
 
 ### Kos memegang barang, dsb., yang disita
 

@@ -756,7 +756,7 @@ Mesyu a- rat
 
 <!-- page 21 -->
 
-(2) Pada tiap-tiap mesyuarat Lembaga, empat orang anggota akan membentuk k o r u m.
+(2) Pada tiap-tiap mesyuarat Lembaga, empat orang anggota akan membentuk korum.
 
 (3) Sesuatu keputusan mesyuarat Lembaga hendaklah diterima- pakai dengan majoriti biasa anggota yang hadir dan mengundi kecuali dalam hal persamaan undi, Pengerusi hendaklah memberi undi pemutus sebagai tambahan kepada undi asalnya.
 
@@ -906,7 +906,7 @@ II
 
 <!-- page 24 -->
 
-6. Fasal 4 mengandungi peruntukan mengenai peletakhakan semua hak, harta atau l i a b i l i ti Kerajaan kepada Lembaga pada tarikh yang ditetapkan oleh Menteri.
+6. Fasal 4 mengandungi peruntukan mengenai peletakhakan semua hak, harta atau liabiliti Kerajaan kepada Lembaga pada tarikh yang ditetapkan oleh Menteri.
 
 7. Fasal 5 mengadakan peruntukan bagi meterai biasa Lembaga dan fasal 6, 7, 8 dan 9 masing-masingnya menggariskan keanggotaan Lembaga, terma jawatan mereka, hilang kelayakan anggota Lembaga dan penarikan balik perlantikan dan perletakan jawatan anggota Lembaga.
 
@@ -926,11 +926,11 @@ III
 
 IV 12. Bahagian IV Akta mengandungi peruntukan-peruntukan mengenai kakitangan yang digunakhidmat oleh Lembaga. Fasal 15 menghendaki Lembaga pada hari penetapan, menerima ke dalam gunakhidmatnya semua pekerja yang dahulunya berada dalam gunakhidmat Jabatan Hasil Dalam Negeri Malaysia yang telah mengambil opsyen untuk berkhidmat sebagai pekerja Lembaga.
 
-13 Fasal 16 bertujuan memberi perlindungan kepada hak pencen pekerja yang dahulunya berada dalam gunakhidmat Kerajaan dan l i a b i l i ti Kerajaan membayar apa-apa ganjaran atau apa-apa elaun kepada Lembaga berkenaan dengan pekerja itu.
+13 Fasal 16 bertujuan memberi perlindungan kepada hak pencen pekerja yang dahulunya berada dalam gunakhidmat Kerajaan dan liabiliti Kerajaan membayar apa-apa ganjaran atau apa-apa elaun kepada Lembaga berkenaan dengan pekerja itu.
 
 14. Fasal 17 memberi kuasa kepada Lembaga untuk menggunakhidmat pekerja serta perunding dan ejen lain yang diperlukan bagi menjalankan fungsi Lembaga di bawah Akta.
 
-15. Fasal 18 memberi k u a sa kepada Lembaga membuat peraturan-peraturan mengenai tatatertib pekerjanya.
+15. Fasal 18 memberi kuasa kepada Lembaga membuat peraturan-peraturan mengenai tatatertib pekerjanya.
 
 <!-- page 25 -->
 

@@ -12,23 +12,23 @@ Suatu Akta untuk meminda Akta Saraan Hakim 1971. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
-oleh Sen Paduka Baginda Yang di-Pertuan Agong dengan n a s i h at dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen. dan dengan kuasa danpadanya. seperti berikut:
+oleh Sen Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen. dan dengan kuasa danpadanya. seperti berikut:
 
 <!-- marginal: Tajuk -->
 
-1. Akta ini bolehlah dinamakan Akta Saraan Hakim ' P m d a a ni 1994 dan hendaklah disifatkan telah mula
+1. Akta ini bolehlah dinamakan Akta Saraan Hakim 'Pmdaani 1994 dan hendaklah disifatkan telah mula
 
 <!-- marginal: dan m u la -->
 
 <!-- marginal: berkuatkuasa -->
 
-berkuatkuaaa pada I hb J u l ai 1994.
+berkuatkuaaa pada Ihb Julai 1994.
 
 <!-- marginal: Pindaan -->
 
-2. Akta Saraan H a k im 1 9 7 1. yang disebut "Akta ibu" dalam Akta mi. adalah dipinda dalam seksyen 1 A dengan mengganukan takrif "Hakim" dengan takrif yang berikut:
+2. Akta Saraan Hakim 1971. yang disebut "Akta ibu" dalam Akta mi. adalah dipinda dalam seksyen 1 A dengan mengganukan takrif "Hakim" dengan takrif yang berikut:
 
-' "Hakim" ertirna H a k im Mahkamah Persekutuan. Mahkamah Rayuan atau Mahkamah Tinggi dan termasuklah Ketua Hakim Negara. Presiden dan Hakim Besar:'.
+' "Hakim" ertirna Hakim Mahkamah Persekutuan. Mahkamah Rayuan atau Mahkamah Tinggi dan termasuklah Ketua Hakim Negara. Presiden dan Hakim Besar:'.
 
 <!-- marginal: Pindaan -->
 

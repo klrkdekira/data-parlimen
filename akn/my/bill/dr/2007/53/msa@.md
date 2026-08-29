@@ -874,7 +874,7 @@ hendaklah terlebih dahulu merujukkan cadangan pembangunan itu kepada Pihak Berku
 
 (b) memberikan perkhidmatan pentadbiran dan bantuan kepada setiap Pihak Berkuasa Negeri berhubung dengan perkara- perkara yang berkaitan dengan tanah di dalam Wilayah Ekonomi Koridor Utara.
 
-(2) Pihak Berkuasa boleh, dalam menjalankan peranan yang dinyatakandalamperenggan(\)(a) —
+(2) Pihak Berkuasa boleh, dalam menjalankan peranan yang dinyatakan dalam perenggan ( \ ) ( a ) —
 
 (a) mengenakan ke atas pemohon apa-apa fi, kos atau apa-apa caj lain sebagaimana yang ditetapkan berkenaan dengan perkhidmatan yang diberikan oleh Pihak Berkuasa; dan
 

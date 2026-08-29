@@ -494,7 +494,7 @@ Bidang kuasa
 
 (b) Thailand dalam Kawasan Pembangunan Bersama hendaklah meliputi kawasan yang disempadani oleh garis-garis lurus yang menyambungkan titik-titik koordinat yang berikut:
 
-(A)U6° 50'.0 T 102°21'.2 ( B ) U 7° 10'.25T 102°29'.0 (C)U7°49'.0 T 103°02'.5 (X)U7°35'.0 T 103°23'.0
+( A ) U 6° 50'.0 T 102°21'.2 ( B ) U 7° 10'.25T 102°29'.0 (C)U7°49'.0 T 103°02'.5 ( X ) U 7 ° 3 5 ' .0 T 103°23'.0
 
 (3) Tiada apa-apa jua dalam Akta ini boleh dengan apa-apa jua cara menyentuh hak-hak kedaulatan Malaysia ke atas Kawasan Pembangunan Bersama, dan apa-apa penepian bidang kuasa di bawah seksyen ini tidaklah mempunyai apa-apa kuatkuasa dan kesan melampaui tempoh keesahan Perjanjian.
 

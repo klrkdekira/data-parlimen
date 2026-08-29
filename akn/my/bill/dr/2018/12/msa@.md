@@ -346,7 +346,7 @@ Subseksyen 141j(6) yang dicadangkan bertujuan untuk memperuntukkan keputusan Tri
 
 Subseksyen 141j(7) yang dicadangkan bertujuan untuk memperuntukkan bahawa prosiding rayuan hendaklah didengar semula
 
-<!-- marginal: j i k a -->
+<!-- marginal: jika -->
 
 orang yang mempengerusikan prosiding meninggal dunia atau menjadi tidak berupaya, atau atas apa-apa sebab lain tidak dapat menyelesaikan atau membereskan prosiding itu.
 

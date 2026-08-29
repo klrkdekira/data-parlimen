@@ -898,7 +898,7 @@ melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi sa
 
 (c) tidak mematuhi apa-apa permintaan sah rnana-mana pegawai penyiasat dalam melaksanakan kewajipannnya di bawah Bahagian ini;
 
-(d) enggan memberi seseorang pegawai penyiasat apa-apa harta, dokumen atau maklumat yang m u n g k in semunasabahnya dikehendaki daripadanya dan yang dia mempunyai kuasa untuk memberikannya;
+(d) enggan memberi seseorang pegawai penyiasat apa-apa harta, dokumen atau maklumat yang mungkin semunasabahnya dikehendaki daripadanya dan yang dia mempunyai kuasa untuk memberikannya;
 
 (e) tidak mengemukakan kepada, atau menyembunyikan atau cuba untuk menyembunyikan daripada, seseorang pegawai penyiasat, apa-apa harta, rekod, laporan atau dokumen yang dikehendaki oleh seseorang pegawai penyiasat;
 
@@ -1094,9 +1094,7 @@ atau bagi kos prosiding yang diambil untuk membuktikan suatu tuntutan ke atas ha
 
 (b) orang itu melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada dua kali ganda jumlah jaminan yang diberikan olehnya atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya, dan, dalam hal kesalahan yang berterusan boleh didenda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari kesalahan itu berterusan selepas pensabitan.
 
-(5) Jika suatu perintah pelucuthakan dibuat oleh mahkamah berkenaan dengan harta alih yang dipulangkan di bawah perenggan
-
-(3)(b), pelucuthakan itu hendaklah dilaksanakan dengan melucuthakkan jaminan yang diberikan oleh orang yang kepadanya harta itu telah dipulangkan.
+(5) Jika suatu perintah pelucuthakan dibuat oleh mahkamah berkenaan dengan harta alih yang dipulangkan di bawah perenggan ( 3 )( b ), pelucuthakan itu hendaklah dilaksanakan dengan melucuthakkan jaminan yang diberikan oleh orang yang kepadanya harta itu telah dipulangkan.
 
 (6) Apabila apa-apa harta alih yang disita di bawah Akta ini terdiri daripada wang, syer, sekuriti, saham, debentur atau apa-apa hak dalam tindakan yang berada dalam milikan atau di bawah jagaan atau kawalan mana-mana orang selain orang terhadapnya pendakwaan akan dibuat, penyitaan itu hendaklah dilaksanakan oleh seorang pegawai penyiasat yang menyampaikan pada orang itu suatu perintah—
 

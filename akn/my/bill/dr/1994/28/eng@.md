@@ -1054,7 +1054,7 @@ in addition to any fine provided under this Act, to a further fine of two hundre
 
 <!-- marginal: penalty -->
 
-Act for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding f i f ty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
+Act for which no penalty is expressly provided shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.
 
 <!-- marginal: Compounding -->
 
@@ -1210,7 +1210,7 @@ Provided t h at such prescribed measures, standards or means shall not conflict 
 
 (f) prescribe the submission by any owner or manager of any mine of statistical returns and the keeping and production by them of books and plans;
 
-(g) prescribe the required content of any operational m i n i ng scheme, plan, report or record book as may be required under this Act;
+(g) prescribe the required content of any operational mining scheme, plan, report or record book as may be required under this Act;
 
 (h) prescribe the procedure of any proceedings for the conduct of any inquiry under this Act;
 
@@ -1286,7 +1286,7 @@ The proposed Mineral Development Act 1994 ("the Act") seeks to provide for the i
 
 10. Clause 12 empowers the Director to inquire into the matter and take necessary action when there is non-compliance with the approved operational mining scheme.
 
-11. Clause 13 r e q u i r es that good and safe practices and environmental standards be observed in relation to fossicking, panning, exploration, mining and other activities.
+11. Clause 13 requires that good and safe practices and environmental standards be observed in relation to fossicking, panning, exploration, mining and other activities.
 
 12. Clause 14 provides the circumstances for the appointment of a manager of a mine and his functions and duties.
 

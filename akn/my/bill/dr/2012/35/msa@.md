@@ -1114,7 +1114,7 @@ hendaklah dimasukkan ke dalam taksiran itu yang dibuat berkenaan dengan orang ya
 
 (a) dengan menggantikan perkataan “yang bukannya atau telah menjadi sebahagian daripada aset yang lebih besar yang boleh dikenakan cukai pada masa pelupusan itu:” dengan perkataan “atau jika aset yang boleh dikenakan cukai itu secara sebahagian dilupuskan, amaun yang akan dibenarkan berkenaan dengan pelupusan itu hendaklah ditentukan menurut formula yang berikut:
 
-A x C B
+AxC B
 
 iaitu A ialah bahagian aset yang boleh dikenakan cukai yang dilupuskan;
 

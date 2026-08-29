@@ -234,7 +234,7 @@ Arbitration agreement
 
 (4) An arbitration agreement is in writing where it is contained
 
-### 111"~~~~
+### 1 1 1 " ~ ~ ~ ~
 
 (a) a document signed by the parties;
 

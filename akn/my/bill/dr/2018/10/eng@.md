@@ -1128,7 +1128,7 @@ where A is the payment received in respect of the sale of such taxable goods; B 
 
 and any payment in respect of the sale of taxable goods for which the sales tax is payable is subsequently received by the person, the person shall repay to the Director General an amount calculated in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the payment received in respect of the sale of such taxable goods; B is the sale value of such taxable goods plus sales tax payable on such taxable goods; and C is the sales tax payable on such taxable goods.
 

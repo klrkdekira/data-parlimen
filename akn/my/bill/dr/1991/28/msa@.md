@@ -1096,11 +1096,11 @@ undang lain yang sedang berkuatkuasa berkenaan dengan apa-apa bencana kerja yang
 
 23. Fasal 26 bertujuan memasukkan seksyen baru 59Q. 59R, 59s, 59T 59u, 59v dan 59w. Seksyen 59Q, 59R dan 59T mengadakan peruntukan bagi penubuhan suatu Jawatankuasa Tatatertib dan peruntukan-peruntukan lain berhubungan dengan perkara-perkara tatatertib. Seksyen 59s mengadakan peruntukan bagi penubuhan Lembaga Rayuan Tatatertib. Seksyen 59u memasukkan peruntukan mengenai surcaj. Seksyen 59v dan 59w masing-masingnya mengadakan peruntukan bagi penubuhan Lembaga Kenaikan Pangkat dan Lembaga Rayuan Kenaikan Pangkat, dan fungsi-fungsi dan bidang kuasa Lembaga yang relevan.
 
-24. Fasal 27 bertujuan meminda seksyen 68 Akta u n t uk mengadakan peruntukan bagi penggabungan kumpulan wang Pertubuhan yang sedia ada. Penggabungan ini adalah perlu untuk memastikan kelenturan dalam perbelanjaan dan dalam pengurusan Kumpulan Wang.
+24. Fasal 27 bertujuan meminda seksyen 68 Akta untuk mengadakan peruntukan bagi penggabungan kumpulan wang Pertubuhan yang sedia ada. Penggabungan ini adalah perlu untuk memastikan kelenturan dalam perbelanjaan dan dalam pengurusan Kumpulan Wang.
 
 25. Fasal 24, 28 dan 29 ialah pindaan-pindaan berbangkit yang diperlukan akibat penggabungan kumpulan wang Pertubuhan.
 
-26. Fasal 30 bertujuan meminda seksyen 72 Akta u n t uk menjadikan sah bagi Kumpulan Wang Pertubuhan dibelanjakan bagi maksud-maksud kebajikan dan rekreasi pegawai-pegawai dan pengkhidmat-pengkhidmat Pertubuhan.
+26. Fasal 30 bertujuan meminda seksyen 72 Akta untuk menjadikan sah bagi Kumpulan Wang Pertubuhan dibelanjakan bagi maksud-maksud kebajikan dan rekreasi pegawai-pegawai dan pengkhidmat-pengkhidmat Pertubuhan.
 
 27. Fasal 31 bertujuan memasukkan seksyen baru 72A untuk membolehkan Kumpulan Wang Pertubuhan dibelanjakan bagi maksud memberikan pinjaman kepada pegawai-pegawai dan pengkhidmat-pengkhidmat Pertubuhan.
 
@@ -1120,7 +1120,7 @@ undang lain yang sedang berkuatkuasa berkenaan dengan apa-apa bencana kerja yang
 
 34. Fasal 38 bertujuan meminda seksyen 96A Akta untuk membolehkan orang tanggungan yang berhak mendapat faedah- faedah di bawah Akta diberi pampasan di bawah Akta Pampasan Pekerja 1952 jika kematian orang berinsurans disebabkan oleh bencana kerja yang dialami sebagai pekerja.
 
-35. Fasal 39 bertujuan meminda seksyen 100 Akta u n t uk memberi Menteri kuasa u n t uk mengecualikan mana-mana perindustrian atau golongan perindustrian kepunyaan mana-mana badan berkanun daripada kuatkuasa Akta.
+35. Fasal 39 bertujuan meminda seksyen 100 Akta untuk memberi Menteri kuasa untuk mengecualikan mana-mana perindustrian atau golongan perindustrian kepunyaan mana-mana badan berkanun daripada kuatkuasa Akta.
 
 36. Fasal 40 bertujuan membuat pindaan berbangkit kepada seksyen 105 Akta. Ini adalah perlu akibat penggabungan kumpulan wang Pertubuhan.
 

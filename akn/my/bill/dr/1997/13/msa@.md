@@ -252,9 +252,9 @@ Misalan
 
 2. Jika kadar tahunan yang kena dibayar bagi tahun itu ialah RM108 dan peratusan kadar tahunan ialah 6 peratus setahun,
 
-makaM = 1/12x(108/6%) = 1/12 x 1,800 = RM150
+maka M = 1/12 x (108/6%) = 1/12 x 1,800 = RM150
 
-3. OlehituM-R=RM(150-50)=RMIOO
+3. Oleh itu M - R = RM(150 - 50) = RMIOO
 
 4. Sewa bulanan yang kena dibayar oleh penyewa kepada tuan rumah atas kenaikan berperingkat berdasarkan pada perenggan 1, 2 dan 3 ialah—
 

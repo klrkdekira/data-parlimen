@@ -44,4 +44,4 @@ This Bill seeks to amend the Emergency (Essential Powers) Ordinance, No. 7 1969 
 
 ## FINANCIAL IMPLICATIONS
 
-This B i l l w i l l not involve the Government in any extra financial expenditure. [PN(IF) 2495]
+This Bill will not involve the Government in any extra financial expenditure. [PN(IF) 2495]

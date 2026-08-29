@@ -132,7 +132,7 @@ Pindaan
 
 4. Seksyen 34 Akta Cukai Pendapatan 1967, yang seksyen 34. discbut "Akta ibu" dalam Bab ini, adalah dipinda, dalam subseksyen (6)—
 
-(a) dengan memotong perkataan "and" di h u j u ng perenggan (d);
+(a) dengan memotong perkataan "and" di hujung perenggan (d);
 
 (h) dengan menggantikan noktah di hujung perenggan (e) dengan tanda baca dan perkataan "; and"; dan
 
@@ -142,9 +142,9 @@ Pindaan
 
 5. Akta ibu adalah dipinda dengan memasukkan, baru 60E selepas seksyen 60E, seksyen yang bcrikut:
 
-"Inves- 60F. ( 1) Where an investment holding ment company is residcnt for the hasis year for a holding company. year of assessmcnt there shall be deducted in arriving at t he t o t al income before any deduction falling to be made under section 44(1 )(c) an amount in respcct of expenses incurred by that company in the basis pcriod for that year of assessment, which amount shall be determincd in accordance with the formula—
+"Inves- 60F. ( 1) Where an investment holding ment company is residcnt for the hasis year for a holding company. year of assessmcnt there shall be deducted in arriving at t he total income before any deduction falling to be made under section 44(1 )(c) an amount in respcct of expenses incurred by that company in the basis pcriod for that year of assessment, which amount shall be determincd in accordance with the formula—
 
-A x B 4C
+AxB 4C
 
 <!-- page 5 -->
 
@@ -440,7 +440,7 @@ dengan menggantikan peruntukan-peruntukan dalam Pertama. rua.ng ketiga bagi Buti
 
 (iii) $3.00 on any amount in excess of $500,000 but not exceeding $2,000,000;
 
-(iv) $4.00 on any a m o u nt
+(iv) $4.00 on any amount
 
 <!-- marginal: in excess of -->
 
@@ -520,7 +520,7 @@ PINDAAN KEPADA AKTA CUKAl PENDAPATAN 1967
 
 selanjutnya bertujuan mengurangkan kadar cukai bagi koperasi dalam Bahagian IV Jadual 1. Pindaan-pindaan ini berkuatkuasa mulai dari tahun taksiran 1993.
 
-8. Fasal 10 bertujuan meminda perenggan 25A Jadual 6. Dengan pindaan ini, bayaran wang tunai sebagai ganti cuti rehat yang dibayar daripada wang awam semasa persaraan akan terkecuali daripada cukai. Fasal ini juga bertujuan meminda perenggan 35(c) Jadual 6 untuk mengecualikan i n d i v i du daripada cukai atas bunga yang diterima daripada bon, selain daripada saham pinjaman boleh tukar, yang dikeluarkan oleh mana-mana syarikat yang ditarafkan oleh Rating Agency Malaysia Berhad. Pindaan-pindaan ini berkualkuasa mulai dari tahun taksiran 1993.
+8. Fasal 10 bertujuan meminda perenggan 25A Jadual 6. Dengan pindaan ini, bayaran wang tunai sebagai ganti cuti rehat yang dibayar daripada wang awam semasa persaraan akan terkecuali daripada cukai. Fasal ini juga bertujuan meminda perenggan 35(c) Jadual 6 untuk mengecualikan individu daripada cukai atas bunga yang diterima daripada bon, selain daripada saham pinjaman boleh tukar, yang dikeluarkan oleh mana-mana syarikat yang ditarafkan oleh Rating Agency Malaysia Berhad. Pindaan-pindaan ini berkualkuasa mulai dari tahun taksiran 1993.
 
 9. Semua pindaan lain dalam Bab ini adalah kecil atau berbangkit.
 
@@ -528,7 +528,7 @@ selanjutnya bertujuan mengurangkan kadar cukai bagi koperasi dalam Bahagian IV J
 
 ## PINDAAN KEPADA AKTA SETEM 1949
 
-10. Fasal 12 bertujuan meminda peruntukan yang sedia ada di bawah seksyen 9 untuk memastikan pematuhan yang lebih baik berkenaan dengan tempoh untuk menyelesaikan amaun yang kena dibayar kepada Pemungut oleh j u r u b a n k, broker saham atau penanggung insurans yang diberikuasa. Pindaan ini akan disifatkan telah mula berkuatkuasa pada 1hb-Januari 1993.
+10. Fasal 12 bertujuan meminda peruntukan yang sedia ada di bawah seksyen 9 untuk memastikan pematuhan yang lebih baik berkenaan dengan tempoh untuk menyelesaikan amaun yang kena dibayar kepada Pemungut oleh jurubank, broker saham atau penanggung insurans yang diberikuasa. Pindaan ini akan disifatkan telah mula berkuatkuasa pada 1hb-Januari 1993.
 
 <!-- page 15 -->
 

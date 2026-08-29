@@ -464,7 +464,7 @@ Officer, police officer or other person making the arrest shall actually touch o
 
 (2) If ingress to such place cannot be obtained under subsection (1), it shall be lawful, in any case for a person acting under a warrant and in any case in which a warrant may be issued but cannot be obtained without affording the person to be arrested an opportunity to escape, for such Religious Enforcement Officer or police officer to enter such place and search therein, and, in order to effect an entrance into such place, to break open any outer or inner door or window of any place whether that of the person to be arrested or of any other person if, after notification of his authority and purpose and demand of admittance duly made, he cannot otherwise obtain admittance.
 
-12. Whenever a search for any thing is or is about to Search of persons in be l a w f u l ly made in any place in respect of any offence, place searched all persons found therein may be lawfully detained until under the search is completed, and they may, if the thing sought warrant is in its nature capable of being concealed upon the person, be searched for it by or in the presence of a Religious Enforcement Officer or a police officer not below the rank of Inspector.
+12. Whenever a search for any thing is or is about to Search of persons in be lawfully made in any place in respect of any offence, place searched all persons found therein may be lawfully detained until under the search is completed, and they may, if the thing sought warrant is in its nature capable of being concealed upon the person, be searched for it by or in the presence of a Religious Enforcement Officer or a police officer not below the rank of Inspector.
 
 <!-- page 18 -->
 
@@ -600,7 +600,7 @@ Syariah Criminal Procedure
 
 (Federal Territories)
 
-(2) When any person is taken before a Judge of a Syariah Subordinate Court under subsection ( 1 ), such Judge may either require him to execute a bond, w i th a surety, for his appearance before a Judge if so required, or may order him to be detained in custody u n t il he can be tried.
+(2) When any person is taken before a Judge of a Syariah Subordinate Court under subsection ( 1 ), such Judge may either require him to execute a bond, w i th a surety, for his appearance before a Judge if so required, or may order him to be detained in custody until he can be tried.
 
 (3) When any person in the presence of a Religious Enforcement Officer or police officer commits or is accused of committing a non-seizable offence and on the demand of such officer to give his name and residence gives as his residence a place outside the Federal Territories, he may be arrested by such officer and shall be taken forthwith before the nearest Judge of a Syariah Subordinate Court who may require him to execute a bond, with a surety, for his appearance before a Judge if so required, or may order him to be detained in custody until he can be tried.
 
@@ -858,7 +858,7 @@ Judge of a Syariah Subordinate Court.
 
 (2) The Judge shall, if the person arrested appears to be the person intended by the Court which issued the warrant, direct his removal in custody to the Court named in the warrant.
 
-(3) Notwithstanding subsection (2), if the offence is bailable and the person arrested is ready and willing to give bail to the satisfaction of the Court before which he is brought, or a direction has been indorsed under section 33 on the warrant and such person is ready and w i l l i ng to give the security required by such direction, the Judge shall take such bond or security, as the case may be, and forward the bond to the Court named in the warrant.
+(3) Notwithstanding subsection (2), if the offence is bailable and the person arrested is ready and willing to give bail to the satisfaction of the Court before which he is brought, or a direction has been indorsed under section 33 on the warrant and such person is ready and willing to give the security required by such direction, the Judge shall take such bond or security, as the case may be, and forward the bond to the Court named in the warrant.
 
 (4) Nothing in this section shall be deemed to prevent a Religious Enforcement Officer or police officer from taking security under section 33.
 
@@ -1878,7 +1878,7 @@ the following procedure shall be observed:
 
 <!-- marginal: may decline -->
 
-of judgment, the Prosecutor may, if he t h i n ks fit, inform
+ofjudgment, the Prosecutor may, if he thinks fit, inform
 
 <!-- marginal: to prosecute -->
 
@@ -1964,7 +1964,7 @@ postpone the commencement of or adjourn any trial, the Court may, from time to t
 
 Provided that no Judge shall remand an accused person to custody under this section for a term exceeding eight days at a time:
 
-Provided further that where a Government Medical Officer has certified that the complainant w i ll not be able to give evidence before a certain date, the accused may be remanded u n t il such date notwithstanding that the term of remand may exceed eight days.
+Provided further that where a Government Medical Officer has certified that the complainant w i ll not be able to give evidence before a certain date, the accused may be remanded until such date notwithstanding that the term of remand may exceed eight days.
 
 (2) Every order made under this section by the Court shall be in writing, signed by the presiding Judge, and shall state the reasons therefor.
 
@@ -2182,7 +2182,7 @@ exceeds five six months; hundred ringgit
 
 (c) the imprisonment which is imposed in default of payment of a fine shall terminate whenever that fine is either paid or levied by process of law;
 
-(d) if, before the expiration of the time of imprisonment fixed in default of payment of a fine, such a proportion of the fine be paid or levied that the time of imprisonment suffered in default of payment is not less than proportional to the part of the fine still u n p a i d,
+(d) if, before the expiration of the time of imprisonment fixed in default of payment of a fine, such a proportion of the fine be paid or levied that the time of imprisonment suffered in default of payment is not less than proportional to the part of the fine still unpaid,
 
 <!-- marginal: the -->
 
@@ -2488,9 +2488,9 @@ notice of appeal or by posting it by registered post addressed to the appellant 
 
 (4) Within ten days after the copy of the grounds of decision has been served pursuant to subsection (3), the appellant shall lodge with the Assistant Registrar of the Syariah Subordinate Court at which the trial was held a petition of appeal in five copies addressed to the Syariah High Court.
 
-(5) If the appellant w i t h in the period provided in subsection (1) for lodging his notice of appeal has applied for a copy of the notes of the evidence recorded by the Judge at his trial, he shall lodge his petition of appeal as provided in subsection (4)—
+(5) If the appellant within the period provided in subsection (1) for lodging his notice of appeal has applied for a copy of the notes of the evidence recorded by the Judge at his trial, he shall lodge his petition of appeal as provided in subsection (4)—
 
-(a) w i t h in the period provided by such subsection; or
+(a) within the period provided by such subsection; or
 
 (b) within a period of ten days from the date when a notice is left at his address for service specified in subsection (2) that a copy of the notes of evidence can be had free of charge,
 
@@ -2498,7 +2498,7 @@ whichever period shall be the longer.
 
 (6) Every petition of appeal shall state shortly the substance of the judgment appealed against, and shall contain definite particulars of the points of law or of fact in regard to which the Court appealed from is alleged to have erred.
 
-(7) If the appellant is in prison, he shall be deemed to have complied with the requirements of this section if he gives to the officer in charge of the prison either orally or in writing notice of appeal and the particulars required to be included in the petition of appeal w i t h in the time prescribed by this section and pays the prescribed appeal fee.
+(7) If the appellant is in prison, he shall be deemed to have complied with the requirements of this section if he gives to the officer in charge of the prison either orally or in writing notice of appeal and the particulars required to be included in the petition of appeal within the time prescribed by this section and pays the prescribed appeal fee.
 
 (8) The officer in charge of the prison shall forthwith forward such notice and petition or the purport thereof to the Assistant Registrar of the Syariah Subordinate Court at which the trial was held.
 
@@ -2826,7 +2826,7 @@ Judgment or
 
 Point
 
-166. (1) When any person has in a trial before the Syariah reserved on High Court in the exercise of its original c r i m i n al trial for Syariah jurisdiction, been convicted of an offence, the Judge may, Appeal if he thinks fit, reserve for the decision of the Syariah Court Appeal Court any question of law which has arisen in the course of the trial of that person and the determination of which would affect the event of the trial.
+166. (1) When any person has in a trial before the Syariah reserved on High Court in the exercise of its original criminal trial for Syariah jurisdiction, been convicted of an offence, the Judge may, Appeal if he thinks fit, reserve for the decision of the Syariah Court Appeal Court any question of law which has arisen in the course of the trial of that person and the determination of which would affect the event of the trial.
 
 (2) The person so convicted shall thereupon be remanded to prison or, if the Judge thinks fit, be admitted to bail.
 
@@ -2978,7 +2978,7 @@ Appeal
 
 178. (1) All sentences passed under this Chapter shall be appealable to the Syariah High Court, in the case of sentences passed by the Syariah Subordinate Court, and to the Syariah Appeal Court, in the case of sentences passed by the Syariah High Court.
 
-(2) Chapter 1 shall, so far as they are applicable, apply to appeals under this section and the appellate Court may alter or reverse the f i n d i ng or reduce, alter or reverse the sentence appealed against.
+(2) Chapter 1 shall, so far as they are applicable, apply to appeals under this section and the appellate Court may alter or reverse the finding or reduce, alter or reverse the sentence appealed against.
 
 <!-- page 79 -->
 
@@ -3154,7 +3154,7 @@ Amount of
 
 Bond to be
 
-187. Before any person is released on bail, a bond for executed such sum of money as the Religious Enforcement Officer or police officer or Court, as the case may be, thinks sufficient shall be executed by one or more sufficient sureties, conditioned that such person shall attend at the time and place mentioned in the bond, and shall continue so to attend u n t il otherwise directed by the Religious Enforcement Officer or police officer or Court, as the case may be.
+187. Before any person is released on bail, a bond for executed such sum of money as the Religious Enforcement Officer or police officer or Court, as the case may be, thinks sufficient shall be executed by one or more sufficient sureties, conditioned that such person shall attend at the time and place mentioned in the bond, and shall continue so to attend until otherwise directed by the Religious Enforcement Officer or police officer or Court, as the case may be.
 
 When person
 
@@ -3272,7 +3272,7 @@ Provided that in any case in which a Syariah Prosecutor intends to give in evide
 
 (c) chemists in the employment of the Government of Malaysia;
 
-(d) any person appointed by the M i n i s t er by notification in the Gazelle to be a Document Examiner;
+(d) any person appointed by the Minister by notification in the Gazelle to be a Document Examiner;
 
 (e) Inspector of Weights and Measures appointed as such under any written law relating to weights and measures in force in Malaysia; and
 
@@ -3756,7 +3756,7 @@ under this Act which is inconsistent with the Islamic Law shall, to the extent o
 
 <!-- marginal: application -->
 
-other provisions thereof which relate to c r i m i n al
+other provisions thereof which relate to criminal
 
 <!-- marginal: of the -->
 
@@ -3806,7 +3806,7 @@ Given under my hand and the seal of the Court this ................ day of .....
 
 ## (FEDERAL TERRITORIES) ACT 1996
 
-(Subsection 28(1))
+(Subsection 2 8 ( 1 ))
 
 ## SUMMONS TO AN ACCUSED PERSON
 
@@ -3842,7 +3842,7 @@ Dated this .................... day of ...................... 19..........
 
 This warrant may be indorsed as follows:
 
-If the said ................................ . shall give bail himself in the sum of ........................... ringgit with one surety or two sureties each in the sum of ................................... ringgit to attend before the Syariah High Court/Syariah Subordinate Court at................................ on the ................ day of .............. 19......... and to continue so to attend u n t il otherwise directed by me, he may be released.
+If the said ................................ . shall give bail himself in the sum of ........................... ringgit with one surety or two sureties each in the sum of ................................... ringgit to attend before the Syariah High Court/Syariah Subordinate Court at................................ on the ................ day of .............. 19......... and to continue so to attend until otherwise directed by me, he may be released.
 
 Dated this .................... day of ...................... 19..........
 
@@ -3870,9 +3870,9 @@ To:
 
 WHEREAS written information has been laid before me of the commission (or suspected commission) of the offence of ........................................ under section ......................................... of the ..............................................
 
-This is to authorize and require you w i t h in a period of not more than 7 days from the date hereof to enter the house (or place or premises) situated at......................................... with such assistance as shall be required, and to search every part of that house (or place or premises) and to arrest the persons found committing the offence aforesaid, and forthwith to bring them before me or the Court.
+This is to authorize and require you within a period of not more than 7 days from the date hereof to enter the house (or place or premises) situated at......................................... with such assistance as shall be required, and to search every part of that house (or place or premises) and to arrest the persons found committing the offence aforesaid, and forthwith to bring them before me or the Court.
 
-Given u n d er my hand and the seal of the C o u r t,
+Given under my hand and the seal of the Court,
 
 <!-- marginal: t h is -->
 

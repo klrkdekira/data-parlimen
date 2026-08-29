@@ -24,7 +24,7 @@ II
 
 ## MENJALANKAN PERNIAGAAN JUALAN LANGSUNG
 
-4. Perniagaan jualan langsung hendaklah dijalankan hanya dengan lesen. 5. Pengemukaan permohonan untuk mendapatkan lesen. 6. Pemberian atau keengganan memberikan lesen. 7. Perniagaan jualan langsung yang berkenaan dengannya lesen tidak boleh diberikan. 8. Pembatalan lesen. 9. Pengenaan had sebagai ganti pembatalan lesen. 30. Kuasa untuk mengenakan syarat-syarat baru dan u n t uk mengubah atau membatalkan syarat-syarat. 11. Notis pembatalan lesen, pengenaan had atau pengubahan, pembatalan atau pengenaan syarat-syarat baru. 12. Penyerahan balik lesen. 13. Larangan ke atas penjalanan perniagaan jualan langsung apabila lesen dibatalkan, habis tempoh, atau diserahkan balik. 14. Pemberikuasaan untuk menjalankan aktiviti
+4. Perniagaan jualan langsung hendaklah dijalankan hanya dengan lesen. 5. Pengemukaan permohonan untuk mendapatkan lesen. 6. Pemberian atau keengganan memberikan lesen. 7. Perniagaan jualan langsung yang berkenaan dengannya lesen tidak boleh diberikan. 8. Pembatalan lesen. 9. Pengenaan had sebagai ganti pembatalan lesen. 30. Kuasa untuk mengenakan syarat-syarat baru dan untuk mengubah atau membatalkan syarat-syarat. 11. Notis pembatalan lesen, pengenaan had atau pengubahan, pembatalan atau pengenaan syarat-syarat baru. 12. Penyerahan balik lesen. 13. Larangan ke atas penjalanan perniagaan jualan langsung apabila lesen dibatalkan, habis tempoh, atau diserahkan balik. 14. Pemberikuasaan untuk menjalankan aktiviti
 
 <!-- marginal: selepas -->
 
@@ -96,7 +96,7 @@ I
 
 <!-- marginal: Tajuk ringkas, -->
 
-1. (1) A k ta ini bolehlah dinamakan Akta J u a l an
+1. (1) Akta ini bolehlah dinamakan Akta Jualan
 
 <!-- marginal: mula berkuat- -->
 
@@ -164,9 +164,9 @@ Tafsiran.
 
 ( i i) membuat panggilan telefon,
 
-mencari orang yang bersedia u n t uk membuat kontrak sebagai pembeli bagi penjualan barang atau perkhidmatan; dan
+mencari orang yang bersedia untuk membuat kontrak sebagai pembeli bagi penjualan barang atau perkhidmatan; dan
 
-(h) orang yang mula-mula disebut itu atau mana- mana orang lain selepas itu atau kemudiannya membuat perundingan dengan bakal pembeli dengan t u j u an mewujudkan kontrak itu:
+(h) orang yang mula-mula disebut itu atau mana- mana orang lain selepas itu atau kemudiannya membuat perundingan dengan bakal pembeli dengan tujuan mewujudkan kontrak itu:
 
 "Menteri" ertinya Menteri yang bertanggungjawab bagi perdagangan dalam negeri dan hal-ehwal pcngguna;
 
@@ -174,7 +174,7 @@ mencari orang yang bersedia u n t uk membuat kontrak sebagai pembeli bagi penjua
 
 "Pengawal", "Timbalan Pengawal" dan "Penolong Pengawal" masing-masing ertinya Pengawal Jualan Langsung, Timbalan Pengawal Jualan Langsung dan Penolong Pengawal Jualan Langsung yang dilantik di bawah seksyen 3;
 
-"penjual" e r t i n ya orang yang membekalkan atau bcrsetuju untuk membekalkan barang atau perkhidmatan di bawah sesuatu kontrak dan, jika hak-hak orang itu
+"penjual" ertinya orang yang membekalkan atau bcrsetuju untuk membekalkan barang atau perkhidmatan di bawah sesuatu kontrak dan, jika hak-hak orang itu
 
 <!-- page 8 -->
 
@@ -188,7 +188,7 @@ berpindah melalui kuatkuasa undang-undang, termasuklah orang yang sekarang ini b
 
 "tempat perniagaan tetap" ertinya—
 
-(a) berhubungan dengan penjualan barang, tempat di mana penjual biasanya menjalankan perniagaan atau tempat di mana barang-barang daripada perihal yang dengannya jualan itu berhubungan, atau barang-barang yang serupa perihalnya, biasanya ditawarkan atau dipamerkan untuk j u a l an dalam perjalanan perniagaan yang dijalankan di tempat itu;
+(a) berhubungan dengan penjualan barang, tempat di mana penjual biasanya menjalankan perniagaan atau tempat di mana barang-barang daripada perihal yang dengannya jualan itu berhubungan, atau barang-barang yang serupa perihalnya, biasanya ditawarkan atau dipamerkan untuk jualan dalam perjalanan perniagaan yang dijalankan di tempat itu;
 
 (b) berhubungan dengan penjualan perkhidmatan, tempat di mana penjual menjalankan perniagaan;
 
@@ -228,7 +228,7 @@ II
 
 <!-- marginal: jualan -->
 
-pun boieh menjalankan apa-apa perniagaan j u a l an
+pun boieh menjalankan apa-apa perniagaan jualan
 
 <!-- marginal: hendaklah -->
 
@@ -242,11 +242,11 @@ diperbadankan di bawah Akta Syarikat 1965 dan
 
 memegang lesen yang sah yang diberikan di bawah
 
-<!-- marginal: l e s en -->
+<!-- marginal: lesen -->
 
 seksyen 6.
 
-(2) Mana-mana orang yang melanggar subseksyen ( 1) adalah melakukan suatu kesalahan dan, a p a b i la disabitkan, boleh—
+(2) Mana-mana orang yang melanggar subseksyen ( 1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh—
 
 (a) jika orang itu ialah suatu pertubuhan perbadanan, didenda tidak melebihi dua ratus lima puluh ribu ringgit dan, bagi kesalahan kali yang kedua atau yang berikutnya, didenda tidak melebihi lima ratus ribu ringgit;
 
@@ -260,7 +260,7 @@ seksyen 6.
 
 Pengemukan
 
-5. (1) Sesuatu permohonan untuk mendapatkan lesen permohonan bagi rnenjalankan perniagaan j u a l an langsung yang untuk men- dapatkan disebutkan dalam seksyen 4 hendaklah dibuat dengan lesen. mengemukakan permohonan secara bertulis kepada Pengawal berserta dengan—
+5. (1) Sesuatu permohonan untuk mendapatkan lesen permohonan bagi rnenjalankan perniagaan jualan langsung yang untuk men- dapatkan disebutkan dalam seksyen 4 hendaklah dibuat dengan lesen. mengemukakan permohonan secara bertulis kepada Pengawal berserta dengan—
 
 (a) satu salinan memorandum dan perkara-perkara persatuan atau dokumen-dokumen konstituen lain yang di bawahnya pemohon telah ditubuhkan, yang ditentusahkan dengan sewajarnya melalui akuan berkanun yang dibuat oleh seorang pengarah pemohon itu;
 
@@ -1148,7 +1148,7 @@ Fasal 27 menyatakan efek penamatan sesuatu kontrak.
 
 Fasal 28 bertujuan menghendaki tiap-tiap pegawai yang menguatkuasakan peruntukan-peruntukan Akta yang dicadangkan terhadap m:ma-mana orang unruk menyatakan jawatannya dan supaya menunjukkan kad kuasanya kepada orang itu apabila diminta untuk berbuat demikian.
 
-Fasal 29 memperkatakan kuasa seseorang pegawai yang dilantik di bawah Akta yang dicadangkan u n t uk memasuki premis dan memeriksa dan menyita barang-barang dan dokumen-dokumen. Bagaimanapun dia mestilah terlebih dahulu mendapatkan waran daripada Majistret sebelum dia boleh memasuki mana-mana premis.
+Fasal 29 memperkatakan kuasa seseorang pegawai yang dilantik di bawah Akta yang dicadangkan untuk memasuki premis dan memeriksa dan menyita barang-barang dan dokumen-dokumen. Bagaimanapun dia mestilah terlebih dahulu mendapatkan waran daripada Majistret sebelum dia boleh memasuki mana-mana premis.
 
 Fasal 30 bertujuan memberi seseorang Penolong Pengawal kuasa untuk menangkap, tanpa waran, mana-mana orang yang dia ada sebab untuk percaya telah melakukan suatu kesalahan terhadap Akta yang
 
@@ -1156,7 +1156,7 @@ Fasal 30 bertujuan memberi seseorang Penolong Pengawal kuasa untuk menangkap, ta
 
 ## JUALAN LANGSUNG
 
-dicadangkan yang enggan memberikan nama dan alamatnya atau yang dia ada sebab munasabah u n t uk percaya telah memberikan nama atau alamat yang palsu.
+dicadangkan yang enggan memberikan nama dan alamatnya atau yang dia ada sebab munasabah untuk percaya telah memberikan nama atau alamat yang palsu.
 
 Fasal 31 bertujuan menjadikannya suatu kesalahan bagi mana- mana orang menghalang mana-mana orang yang dilantik di bawah Akta yang dicadangkan dalam pelaksanaan fungsi-fungsinya.
 

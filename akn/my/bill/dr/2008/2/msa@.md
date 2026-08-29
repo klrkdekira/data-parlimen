@@ -170,9 +170,9 @@ yang terbentuk oleh atau tertakluk kepada suatu proses geologi, tetapi tidak ter
 
 "Pendaftar" ertinya Pendaftar Ahli Geologi yang dilantik di bawah seksyen 29;
 
-"pengamal" ertinya o r a ng y a ng disebut
+"pengamal" ertinya orang y a ng disebut
 
-<!-- marginal: d a l am -->
+<!-- marginal: dalam -->
 
 subseksyen 21(1);
 
@@ -428,11 +428,11 @@ segera yang dapat dilaksanakan, melantik seorang anggota baru untuk menggantikan
 
 <!-- marginal: di -->
 
-<!-- marginal: b a w ah -->
+<!-- marginal: bawah -->
 
 subseksyen ( 1) a t au anggota y a ng disebut
 
-<!-- marginal: d a l am -->
+<!-- marginal: dalam -->
 
 subseksyen (2), mengikut mana-mana yang berkenaan, hendaklah, sepanjang tempoh dia melaksanakan fungsi Pengerusi di bawah seksyen ini disifatkan sebagai Pengerusi.
 
@@ -624,7 +624,7 @@ Rang Undang-Undang 22
 
 (6) Pengerusi hendaklah memberitahu ahli geologi asing itu tentang keputusan Lembaga dalam tempoh sembilan puluh hari dari tarikh permohonan diterima.
 
-(7) Tanpa menjejaskan seksyen 33, Pengerusi boleh, dengan persetujuan secara bertulis dua pertiga anggota L e m b a g a, membatalkan pendaftaran seseorang ahli geologi asing berdaftar dengan menyampaikan suatu notis bertulis kepada ahli geologi itu tanpa memberikan apa-apa sebab bagi pembatalan itu.
+(7) Tanpa menjejaskan seksyen 33, Pengerusi boleh, dengan persetujuan secara bertulis dua pertiga anggota Lembaga, membatalkan pendaftaran seseorang ahli geologi asing berdaftar dengan menyampaikan suatu notis bertulis kepada ahli geologi itu tanpa memberikan apa-apa sebab bagi pembatalan itu.
 
 (8) Apabila pendaftaran seorang ahli geologi asing berdaftar dibatalkan di bawah subseksyen (7), ahli geologi asing yang berkenaan hendaklah berhenti menjalankan apa-apa hak atau keistimewaan yang diberikan kepadanya di bawah Akta ini tetapi dia berhak mendapatkan di mana-mana mahkamah apa-apa fi, caj, saraan atau balasan dalam apa-apa bentuk lain bagi perkhidmatan yang diberikannya sebelum tarikh penerimaan notis daripada Pengerusi membatalkan pendaftarannya.
 

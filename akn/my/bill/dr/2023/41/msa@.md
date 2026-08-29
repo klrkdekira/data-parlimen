@@ -282,7 +282,7 @@ terlibat dalam suatu prosiding yang berhubungan dengan transaksi komersial yang 
 
 (b) pekerja itu merupakan—
 
-(i) ag en dip lomatik a ta u peg a wa i k o n su lar masing-masing sebagaimana yang ditakrifkan dalam Akta Keistimewaan Diplomatik (Konvensyen Vienna) 1966 [Akta 636] dan Akta Hubungan Konsular (Konvensyen Vienna) 1999 [Akta 595];
+(i) agen diplomatik atau pegawai konsular masing-masing sebagaimana yang ditakrifkan dalam Akta Keistimewaan Diplomatik (Konvensyen Vienna) 1966 [Akta 636] dan Akta Hubungan Konsular (Konvensyen Vienna) 1999 [Akta 595];
 
 <!-- page 11 -->
 

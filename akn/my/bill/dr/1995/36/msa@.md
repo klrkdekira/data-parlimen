@@ -466,7 +466,7 @@ adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak me
 
 (b) dalam subseksyen ( 1) dan (2) dengan menggantikan perkataan "Pendaftar boleh menghendaki sesuatu depositori pusat atau ejen depositori diberikuasanya untuk mendedahkan kepadanya" dengan perkataan "Suruhanjaya boleh menghendaki sesuatu depositori pusat atau ejen depositori diberikuasanya
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 mendedahkan kepada Suruhanjaya"; dan
 

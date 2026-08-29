@@ -2474,7 +2474,7 @@ Mahkamah
 
 (a) soalan itu adalah wajar jika ia sedemikian rupa sehingga kebenaran tohmahan yang dibayangkan olehnya itu akan menyentuh dengan serius pendapat Mahkamah tentang kebolehpercayaan saksi itu atas perkara yang dinyatakan;
 
-(b) soalan itu adalah tak wajar jika tohmahan yang dibayangkan olehnya itu adalah berhubungan dengan perkara-perkara yang telah berlaku sebegitu lama d a h u lu atau yang bersifat sedemikian sehingga kebenaran tohmahan itu tidak akan menyentuh atau akan menyentuh sedikit sahaja pendapat Mahkamah tentang kebolehpercayaan saksi itu atas perkara yang dinyatakannya;
+(b) soalan itu adalah tak wajar jika tohmahan yang dibayangkan olehnya itu adalah berhubungan dengan perkara-perkara yang telah berlaku sebegitu lama dahulu atau yang bersifat sedemikian sehingga kebenaran tohmahan itu tidak akan menyentuh atau akan menyentuh sedikit sahaja pendapat Mahkamah tentang kebolehpercayaan saksi itu atas perkara yang dinyatakannya;
 
 (c) soalan itu adalah tak wajar jika terdapat ketakseimbangan besar antara kepentingan tohmahan yang dibuat terhadap watak saksi itu dengan kepentingan keterangannya;
 
@@ -3044,7 +3044,7 @@ III
 
 16. Bahagian III adalah berhubungan dengan pengemukaan dan kesan keterangan.
 
-17. Bab 1 mengandungi peruntukan-peruntukan mengenai beban membuktikan. Fasal 72 mengadakan peruntukan bagi beban untuk mengemukakan keterangan dalam kes mal. Fasal 73 menerangkan beban membuktikan. Fasal 74 menetapkan pada siapa beban membukti terletak. Fasal 75 memperkatakan beban membuktikan tentang fakta tertentu. Fasal 76 memperkatakan beban membuktikan fakta yang perlu dibuktikan u n t uk menjadikan keterangan boleh ditenma. Fasal 77 memperkatakan beban membuktikan bahawa kes orang tertuduh termasuk dalam kecualian yang diperuntukkan dalam Akta Kesalahan Jenayah Syariah (Wilayah- Wilayah Persekutuan) 1996. Fasal 78 adalah berhubungan dengan beban membuktikan fakta yang diketahui secara khusus. Fasal 79 mengadakan peruntukan bagi beban membuktikan kematian orang yang diketahui masih hidup dalam masa 30 tahun. Fasal 80 mengadakan peruntukan bagi beban membuktikan bahawa seseorang yang tidak didengar khabar mengenainya selama empat tahun masih hidup. Fasal 81 memperkatakan beban membuktikan tentang pemunyaan. Fasal 82 memberi kepada Mahkamah budi bicara untuk menganggap kewujudan fakta tertentu.
+17. Bab 1 mengandungi peruntukan-peruntukan mengenai beban membuktikan. Fasal 72 mengadakan peruntukan bagi beban untuk mengemukakan keterangan dalam kes mal. Fasal 73 menerangkan beban membuktikan. Fasal 74 menetapkan pada siapa beban membukti terletak. Fasal 75 memperkatakan beban membuktikan tentang fakta tertentu. Fasal 76 memperkatakan beban membuktikan fakta yang perlu dibuktikan untuk menjadikan keterangan boleh ditenma. Fasal 77 memperkatakan beban membuktikan bahawa kes orang tertuduh termasuk dalam kecualian yang diperuntukkan dalam Akta Kesalahan Jenayah Syariah (Wilayah- Wilayah Persekutuan) 1996. Fasal 78 adalah berhubungan dengan beban membuktikan fakta yang diketahui secara khusus. Fasal 79 mengadakan peruntukan bagi beban membuktikan kematian orang yang diketahui masih hidup dalam masa 30 tahun. Fasal 80 mengadakan peruntukan bagi beban membuktikan bahawa seseorang yang tidak didengar khabar mengenainya selama empat tahun masih hidup. Fasal 81 memperkatakan beban membuktikan tentang pemunyaan. Fasal 82 memberi kepada Mahkamah budi bicara untuk menganggap kewujudan fakta tertentu.
 
 <!-- page 74 -->
 
@@ -3056,7 +3056,7 @@ III
 
 (Wilayah-Wilayah Persekutuan)
 
-Fasal 116 memperkatakan pemberian sebagai keterangan dokumen yang diminta dan dikemukakan setelah notis diberikan. Fasal 117 adalah berhubungan dengan penggunaan sebagai keterangan dokumen yang enggan dikemukakan setelah notis diberikan. Fasal 118 memberi Hakim kuasa u n t uk mengemukakan soalan atau memerintahkan pengemukaan apa-apa dokumen atau benda.
+Fasal 116 memperkatakan pemberian sebagai keterangan dokumen yang diminta dan dikemukakan setelah notis diberikan. Fasal 117 adalah berhubungan dengan penggunaan sebagai keterangan dokumen yang enggan dikemukakan setelah notis diberikan. Fasal 118 memberi Hakim kuasa untuk mengemukakan soalan atau memerintahkan pengemukaan apa-apa dokumen atau benda.
 
 20. Bab 4 mengadakan peruntukan khas berhubungan dengan testimoni saksi. Fasal 119 memberi Hakim kuasa untuk memerintahkan pemeriksaan saksi yang telah memberikan keterangan secara syahadah. Fasal 120 menetapkan orang yang boleh memeriksa saksi sedemikian. Fasal 121 menetapkan prosedur bagi pemeriksaan rahsia. Fasal 122 menetapkan bilangan pemeriksa rahsia yang dikehendaki bagi pemeriksaan rahsia itu. Fasal 123 memberi Hakim kuasa untuk memerintahkan pemeriksaan secara terbuka akan saksi yang tertakluk kepada pemeriksaan rahsia. Fasal 124 memperkatakan testimoni dalam pemeriksaan terbuka menjadi sebahagian daripada syahadah. Fasal 125 mengadakan peruntukan bagi hal keadaan bila saksi tidak perlu diperiksa. Fasal 126 memperkatakan penafian (ta'in) terhadap saksi. Fasal 127 memperkatakan kes apabila pendapat pemeriksa saksi berbeza. Fasal 128 mengadakan peruntukan bagi saksi yang mati atau hilang dalam kes mu'amalat. Fasal 129 mengadakan peruntukan bagi hal keadaan bila saksi dikehendaki mengangkat sumpah.
 

@@ -836,7 +836,7 @@ Corporation
 
 37. Clause 34 requires the Corporation to seek approval of the Minister and the Minister of Finance before it enters into a contract under which the Corporation is to pay or receive an amount exceeding ten million ringgit.
 
-38. Clause 35 allows the Corporation to determine i t s own financial procedure.
+38. Clause 35 allows the Corporation to determine its own financial procedure.
 
 39. Clause 36 states that the financial year of the Corporation shall begin on 1 January and end on 31 December of each year.
 

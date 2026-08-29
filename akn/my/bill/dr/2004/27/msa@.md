@@ -4,7 +4,7 @@
 
 ## RANG UNDANG-UNDANG
 
-b e r nama
+bernama
 
 Suatu Akta untuk meminda Akta Laporan Kewangan 1997.
 

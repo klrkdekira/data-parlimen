@@ -1188,7 +1188,7 @@ Article 62 — Depositary and its functions
 
 (ii) the date of entry into force of this Convention;
 
-( i i i ) each declaration made in accordance with this Convention, together with the date thereof;
+(iii) each declaration made in accordance with this Convention, together with the date thereof;
 
 (iv) the withdrawal or amendment of any declaration, together with the date thereof; and
 

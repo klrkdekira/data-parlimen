@@ -526,7 +526,7 @@ Provided that in respect of portion of the building or extension of the building
 
 (2) Bagi maksud subseksyen (1), jika baki elaun yang disebut dalam subseksyen itu adalah berkenaan dengan lebih daripada satu kapal Malaysia, baki elaun itu hendaklah dibahagikan kepada setiap kapal itu mengikut formula yang berikut:
 
-A x C B iaitu A ialah pendapatan kasar seseorang berkenaan dengan suatu kapal Malaysia bagi tahun taksiran 2011;
+AxC B iaitu A ialah pendapatan kasar seseorang berkenaan dengan suatu kapal Malaysia bagi tahun taksiran 2011;
 
 B ialah jumlah pendapatan kasar seseorang berkenaan dengan semua kapal Malaysia bagi tahun taksiran 2011; dan
 
@@ -542,7 +542,7 @@ bagi tahun taksiran 2012, dan jika dengan sebab ketidakcukupan atau ketiadaan pe
 
 (4) Bagi maksud subseksyen (3), jika baki kerugian larasan yang disebut dalam subseksyen itu adalah berkenaan dengan lebih daripada satu kapal Malaysia, baki kerugian larasan hendaklah dibahagikan kepada setiap kapal itu mengikut formula yang berikut:
 
-A x C B
+AxC B
 
 iaitu A ialah pendapatan kasar seseorang berkenaan dengan suatu kapal Malaysia bagi tahun taksiran 2011;
 

@@ -624,7 +624,7 @@ adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak mele
 
 Kesalahan
 
-19. Jika suatu kesalahan terhadap Akta ini telah dilakukan yang oleh suatu pertubuhan perbadanan, mana-mana orang yang dilakukan oleh pada masa kesalahan itu dilakukan ialah seorang pengarah, pertubuhan pengurus, setiausaha atau pegawai lain yang seumpamanya perbadanan. dalam pertubuhan perbadanan itu, atau yang berupa sebagai bertindak atas sifat sedemikian, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha wajar untuk mencegah pelakuan kesalahan itu sebagaimana yang sepatutnya telah dijalankan olehnya memandangkan jenis fungsinya atas s i f at itu dan memandangkan segala hal keadaan.
+19. Jika suatu kesalahan terhadap Akta ini telah dilakukan yang oleh suatu pertubuhan perbadanan, mana-mana orang yang dilakukan oleh pada masa kesalahan itu dilakukan ialah seorang pengarah, pertubuhan pengurus, setiausaha atau pegawai lain yang seumpamanya perbadanan. dalam pertubuhan perbadanan itu, atau yang berupa sebagai bertindak atas sifat sedemikian, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah menjalankan segala usaha wajar untuk mencegah pelakuan kesalahan itu sebagaimana yang sepatutnya telah dijalankan olehnya memandangkan jenis fungsinya atas sifat itu dan memandangkan segala hal keadaan.
 
 <!-- page 23 -->
 

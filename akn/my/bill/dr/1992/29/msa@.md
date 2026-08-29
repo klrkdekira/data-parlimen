@@ -34,7 +34,7 @@ belas ribu dan enam puluh ringgit ($21,737,014,060)
 
 daripada Kumpulan Wang Disatukan
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 <!-- marginal: 1995. -->
 

@@ -114,7 +114,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Pendidikan 1996 ("Akta 550")
 
 3. Fasal 2 bertujuan untuk meminda Akta 550 untuk menggantikan perkataan tertentu iaitu "Ketua Pendaftar Sekolah dan Guru" dengan "Ketua Pendaftar Institusi Pendidikan dan Guru", "maktab pendidikan guru" dengan "institusi pendidikan guru", "Pendaftar Sekolah dan Guru" dengan "Pendaftar Institusi Pendidikan dan Guru", "Penolong Pendaftar Sekolah" dengan "Penolong Pendaftar Institusi Pendidikan" dan "Timbalan Ketua Pendaftar Sekolah dan Guru" dengan "Timbalan Ketua Pendaftar Institusi Pendidikan dan Guru".
 
-4. Fasal 3 bertujuan meminda dan memasukkan ungkapan tertentu dalam seksyen 2 Akta 550, antara I a i n- ( a ) berhubung dengan takrif "pendidikan khas", bagi memperjelas maksud perkataan "pendidikan khas"; dan
+4. Fasal 3 bertujuan meminda dan memasukkan ungkapan tertentu dalam seksyen 2 Akta 550, antara Iain- ( a ) berhubung dengan takrif "pendidikan khas", bagi memperjelas maksud perkataan "pendidikan khas"; dan
 
 (b) kemasukan takrif "institusi pendidikan guru", selaras dengan kenaikan taraf maktab pendidikan guru kepada institusi pendidikan guru.
 

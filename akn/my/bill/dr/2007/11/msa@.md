@@ -1438,7 +1438,7 @@ perkara itu.
 
 (4) Bagi maksud percnggan (3)(c), seseorang mlah sekutu seorang lain, jika orang yang pertama disebut itu ialah —
 
-(a) suatu perbadanan yang, menurut kuasa seksyen 6 Akta Syarikat 1965 disifatkan mempunyai hubungan dengan seorang yang lain itu;
+(a) suatu perbadanan yang, menurut kuasa seksyen 6 Akta Syarikat 1965 disifatkan mempunyai hubungan dengan seorang yanglain itu;
 
 (b) seseorang yang mengikut arahan, petunjuk atau kemahuannya seorang yang Iain itu sudah biasa atau berkewajipan, sama ada secara formal atau tidak formal, bertindak berhubung dengan sekuriti yang disebut dalam subseksyen (3);
 
@@ -5550,7 +5550,7 @@ Tabung kesetiaan
 
 <!-- page 214 -->
 
-wang atau harta l a i n secara fraud, oleh seorang pengarah, pegawai, pekerja atau wakil pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berdagang dalam kontrak niaga hadapan yang pada masa itu merupakan gabungan sesuatu bursa niaga hadapan yang berkaitan atau dalam mana-mana hal keadaan lain sebagaimana yang ditetapkan di bawah perenggan 159(3)(c); dan
+wangatauhartalainsecarafraud,olehseorangpengarah, pegawai, pekerja atau wakil pemegang Lesen Perkhidmatan Pasaran Modal yang menjalankan urusan berdagang dalam kontrak niaga hadapan yang pada masa itu merupakan gabungan sesuatu bursa niaga hadapan yang berkaitan atau dalam mana-mana hal keadaan lain sebagaimana yang ditetapkan di bawah perenggan 159(3)(c); dan
 
 (b) kerugian itu ditanggung berkenaan dengan wang atau harta lain yang, berkaitan dengan berdagang dalam kontrak niaga hadapan pemegang itu, yang diamanahkan kepada atau diterima oleh pemegang itu atau pengarah, pegawai atau pekerja pemegang itu sama ada sebelum atau selepas permulaan kuat kuasa seksyen ini —
 
@@ -7122,7 +7122,7 @@ sebelum tarikh penerbitan prospektus itu.
 
 (b) hendaklah menyatakan bahawa—
 
-• (i) prospektus i t u telah didaftarkan oleh Suruhanjaya;
+•(i)prospektusitutelahdidaftarkanoleh Suruhanjaya;
 
 (ii) berkenaan dengan sekuriti selain skim unit amanah atau skim pelaburan ditetapkan, suatu salinan prospektus itu telah diserah simpan dengan Pendaftar dan berkenaan dengan skim unit amanah atau skim pelaburan ditetapkan, suatu salinan prospektus itu telah diserah simpan dengan Suruhanjaya; dan
 
@@ -8184,7 +8184,7 @@ dan memberi orang yang menjalankan pemeriksaan itu apa-apa maklumat, penerangan 
 
 (3) Seseorang peminjam yang melanggar perenggan (l)(b) atau (c) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.
 
-(4) Seorang peminjam yang melanggar perenggan (l)(d) melakukan suatu kesalahan.
+(4) Seorang peminjam yang melanggar perenggan ( l ) ( d ) melakukan suatu kesalahan.
 
 (5) Jika seseorang peminjam melanggar perenggan (\)(b) atau (c), Suruhanjaya boleh mengarahkan peminjam itu supaya mematuhi peruntukan perenggan itu.
 
@@ -8472,11 +8472,11 @@ diperlukan oleh orang itu;
 
 <!-- page 331 -->
 
-(3) Seseorang penjamin yang melanggar perenggan (l)(b) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.
+(3) Seseorang penjamin yang melanggar perenggan ( l ) ( b ) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.
 
 (4) Seseorang penjamin yang melanggar perenggan (l)(c) atau (d) melakukan suatu kesalahan.
 
-(5) Jika seseorang penjamin melanggar perenggan (\)(b), Suruhanjaya boleh mengarahkan supaya penjamin mematuhi peruntukan perenggan itu.
+(5) Jika seseorang penjamin melanggar perenggan ( \ ) ( b ) , Suruhanjaya boleh mengarahkan supaya penjamin mematuhi peruntukan perenggan itu.
 
 (6) Seseorang penjamin yang melanggar arahan Suruhanjaya yang dikeluarkan menurut subseksyen (5) melakukan suatu kesalahan.
 
@@ -9014,7 +9014,7 @@ melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi 
 
 (iv) pemegang amanah itu sedang disiasat bagi kelakuan yang melanggar Akta Syarikat Amanah 1949, Akta Pemegang Amanah 1949, Akta Syarikat 1965 atau mana-mana undang-undang sekuriti.
 
-(3) Kecuali bagi subperenggan 2(a)(ii),
+(3) Kecuali bagi subperenggan 2 ( a ) ( i i ) ,
 
 <!-- marginal: seseorang -->
 
@@ -9670,7 +9670,7 @@ dan Suruhanjaya boleh menentukan tempoh yang apa-apa kehendak itu hendaklah dipa
 
 <!-- page 380 -->
 
-(6) Perbadanan tersenarai i t u hendaklah menyediakan apa-apa maklumat dan memberikan akses kepada apa-apa maklumat sebagaimana yang dikehendaki oleh juruaudit berkenaan dengan penunaian olehnya akan semua atau mana-mana kewajipan tambahan di bawah seksyen ini.
+(6) Perbadanan tersenarai itu hendaklah menyediakan apa-apa maklumat dan memberikan akses kepada apa-apa maklumat sebagaimana yang dikehendaki oleh juruaudit berkenaan dengan penunaian olehnya akan semua atau mana-mana kewajipan tambahan di bawah seksyen ini.
 
 ### Perlindungan bagi orang terhadap tindak balas kerana membuat
 

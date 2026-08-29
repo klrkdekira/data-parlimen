@@ -2,7 +2,7 @@
 
 ## A BILL
 
-intituled
+int i t ule d
 
 An Act to amend the Federal Constitution.
 

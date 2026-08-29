@@ -218,7 +218,7 @@ manufacturing and other trade and higher value- added activities and new industr
 
 development of public education and educational facilities including the development of vocational and technical institutions and centres of excellence for research, teaching and training; and
 
-(v) infrastructural development such as the development of investment and l o gi s t i cs centre, duty free area, residential area and public amenities, and property development;
+(v) infrastructural development such as the development of investment and logistics centre, duty free area, residential area and public amenities, and property development;
 
 (c) to plan, phase, coordinate, evaluate and review the activities carried out by any Government entity, or any body or person, in the East Coast Economic Region which the Council thinks are of strategic national importance or are in the national interest in furtherance of the objectives of the Council;
 

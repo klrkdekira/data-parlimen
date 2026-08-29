@@ -36,7 +36,7 @@ the "principal Act", is amended in section 2 by substituting for subsection (1) 
 
 New sections
 
-2. The principal Act is amended by inserting after section 11B, 11C, 11A the following sections: 11D, 11E, 1 1F, 1 1G, 11H,11I,11J Establish-
+2. The principal Act is amended by inserting after section 11B, 11C, 11A the following sections: 11D, 11E, 1 1F, 1 1G, 1 1H, 1 1I, 1 1J Establish-
 
 11B. (1) There shall be established a Personnel and 11K. ment of Committee which shall consist of the following Personnel Committee. members:
 

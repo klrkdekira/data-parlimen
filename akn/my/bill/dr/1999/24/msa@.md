@@ -480,7 +480,7 @@ Kanak-Kanak
 
 Rang Undang-Undang
 
-(d) semua kesalahan di bawah Akta Dadah Berbahaya 1952 [Akta 234] yang boleh dihukum dengan h u k u m an pemenjaraan selama lebih daripada lima tahun atau dengan hukuman mati; dan
+(d) semua kesalahan di bawah Akta Dadah Berbahaya 1952 [Akta 234] yang boleh dihukum dengan hukuman pemenjaraan selama lebih daripada lima tahun atau dengan hukuman mati; dan
 
 (e) semua kesalahan di bawah Akta Penculikan 1961 [Akta 365];
 
@@ -3860,7 +3860,7 @@ dan 10.
 
 78. Fasal 88 memberi Mahkamah Bagi Kanak-Kanak kuasa untuk menghendaki kehadiran ibu atau bapa atau penjaga seseorang kanak-kanak di Mahkamah. Subfasal (2) menjadikan suatu kesalahan bagi mana-mana ibu dan bapa atau penjaga itu yang tidak mematuhi kehendak sedemikian. Walau bagaimanapun, melalui fasal 89 Mahkamah boleh menghendaki ibu dan bapa atau penjaga seseorang kanak-kanak supaya keluar dari Mahkamah itu jika difikirkan perlu oleh Mahkamah itu demi kepentingan kanak-kanak itu.
 
-7 9. F a s al 90 menyatakan tatacara di Mahkamah Bagi Kanak-Kanak apabila seseorang kanak-kanak dibawa ke hadapannya bagi apa-apa kesalahan. Subfasal
+79.Fasal 90 menyatakan tatacara di Mahkamah Bagi Kanak-Kanak apabila seseorang kanak-kanak dibawa ke hadapannya bagi apa-apa kesalahan. Subfasal
 
 (12) menghendaki Mahkamah menimbangkan laporan akhlak sebelum memutuskan bagaimana kanak-kanak itu hendak diperlakukan. Subfasal (17) menghendaki Mahkamah memastikan daripada setiap penasihat pendapatnya sebelum memutuskan tentang perintah yang hendak dikenakan dan semua pendapat itu hendaklah direkodkan. Subfasal (18) memperuntukkan bahawa Mahkamah tidak terikat untuk mengikut pendapat penasihat-penasihat itu atau pendapat mana- mana satu daripada mereka.
 

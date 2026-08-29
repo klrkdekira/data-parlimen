@@ -460,7 +460,7 @@ but does not include the person or class of persons to whom the minimum wages or
 
 (2) The Government may, after considering
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 recommendation—
 

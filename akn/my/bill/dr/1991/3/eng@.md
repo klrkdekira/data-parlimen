@@ -1078,7 +1078,7 @@ Act 1965, a depositor of any deposited security whose name '
 
 <!-- marginal: a member. -->
 
-appears in the record of depositors shall be entitled to all , rights, benefits, powers and privileges and be subject to all liabilities, duties and obligations in respect of, or arising from, such security (whether conferred i m p o s ed by the Companies Act 1965, or the memorandum or articles of association of the issuer, or otherwise) as if he were a member registered in the register of members maintained by the issuer of such security pursuant to the said Act, instead of the central depository, or its nominee company, in whose name the deposited security is registered.
+appears in the record of depositors shall be entitled to all , rights, benefits, powers and privileges and be subject to all liabilities, duties and obligations in respect of, or arising from, suchsecurity(whetherconferredimposedbytheCompanies Act 1965, or the memorandum or articles of association of the issuer, or otherwise) as if he were a member registered in the register of members maintained by the issuer of such security pursuant to the said Act, instead of the central depository, or its nominee company, in whose name the deposited security is registered.
 
 (2) Notwithstanding the provisions of subsection (1), nothing in this section shall be construed so as to deem a record of depositors to be a register of members kept pursuant to section 158 of the Companies Act 1965.
 

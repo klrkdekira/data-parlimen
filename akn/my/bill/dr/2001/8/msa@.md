@@ -132,6 +132,6 @@ B. 18 Kementerian Perusahaan Utama
 
 ## HURAIAN
 
-Rang Undang-Undang ini bertujuan u n t uk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak lima bilion tujuh ratus enam puluh juta tujuh ratus dua belas ribu lapan ratus dua puluh satu ringgit (RM5,760,712,821) iaitu sebanyak lima bilion empat ratus enam puluh juta tujuh ratus dua belas ribu lapan ratus dua puluh satu ringgit (RM5,460,712,821) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual Pertama bagi tahun 2000 dan sebanyak tiga ratus juta ringgit (RM300,000,000) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual Kedua bagi tahun 2001.
+Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak lima bilion tujuh ratus enam puluh juta tujuh ratus dua belas ribu lapan ratus dua puluh satu ringgit (RM5,760,712,821) iaitu sebanyak lima bilion empat ratus enam puluh juta tujuh ratus dua belas ribu lapan ratus dua puluh satu ringgit (RM5,460,712,821) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual Pertama bagi tahun 2000 dan sebanyak tiga ratus juta ringgit (RM300,000,000) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual Kedua bagi tahun 2001.
 
 <!-- marginal: [PN(U2)2206] -->

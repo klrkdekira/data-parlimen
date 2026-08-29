@@ -40,7 +40,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Suruhanjaya Pelabuhan Pulau 
 
 ## IMPL1KAS1 KEWANGAN
 
-Rang Undang-Undang i n i tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan.
 
 <!-- marginal: [PN(U2)2443] -->
 

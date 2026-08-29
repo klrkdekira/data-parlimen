@@ -64,7 +64,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Majlis Peperiksaan Malaysia 
 
 3. Fasal 2 bertujuan untuk memasukkan subseksyen baru 7(5) dan (6) ke dalam Akta 225. Subseksyen (5) yang dicadangkan bertujuan untuk membenarkan Majlis, dengan kelulusan Menteri, mengelolakan peperiksaan lain sebagai tambahan kepada peperiksaan tertentu manakala subseksyen (6) yang dicadangkan memperuntukkan bahawa kelulusan Pengarah Peperiksaan hendakiah diperoleh jika Majlis mengelolakan peperiksaan lain sebagai tambahan kepada peperiksaan tertentu yang berhubungan dengan perkara akademik.
 
-4. Fasal 6 bertujuan untuk memotong seksyen 30 Akta 225. Seksyen i t u tidak lagi diperlukan kerana Mahkamah Sesyen sekarang mempunyai bidang kuasa penuh terhadap kesalahan di bawah Akta 225.
+4. Fasal 6 bertujuan untuk memotong seksyen 30 Akta 225. Seksyen itu tidak lagi diperlukan kerana Mahkamah Sesyen sekarang mempunyai bidang kuasa penuh terhadap kesalahan di bawah Akta 225.
 
 5. Fasal 7 bertujuan untuk meminda perenggan 3\(d) Akta 225 untuk membenarkan Majlis menetapkan fi atau caj berkenaan dengan peperiksaan yang dikelolakan oleh Majlis.
 

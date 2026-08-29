@@ -292,7 +292,7 @@ untuk memberikannya bantuan yang munasabah sebagaimana yang dikehendaki bagi mak
 
 (b) tidak mematuhi apa-apa permintaan sah daripada seseorang pegawai polis yang bertindak pada melaksanakan tugasnya di bawah Akta ini.
 
-(2) Seseorang yang melakukan kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi dua p u l uh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
+(2) Seseorang yang melakukan kesalahan di bawah seksyen ini hendaklah apabila disabitkan boleh didenda tidak melebihi dua puluh lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
 12. Suatu pendakwaan di bawah Akta ini tidak boleh dimulakan kecuali oleh atau dengan keizinan Pendakwa Raya secara bertulis.
 
@@ -326,9 +326,9 @@ Fasal 9 memperkatakan skop wilayah kesalahan di bawah Akta.
 
 Fasal 10 bertujuan mengadakan peruntukan bagi kuasa polis berkenaan penggeledahan, penyitaan dan penangkapan bagi tujuan penyiasatan.
 
-Fasal 11 bertujuan mengadakan peruntukan bagi kesalahan dan h u k u m an bagi menghalang seorang pegawai polis daripada menjalankan tugasnya.
+Fasal 11 bertujuan mengadakan peruntukan bagi kesalahan dan hukuman bagi menghalang seorang pegawai polis daripada menjalankan tugasnya.
 
-Fasal 12 memperkatakan keperluan untuk mendapatkan keizinan secara bertulis daripada Pendakwa Raya u n t uk memulakan pendakwaan.
+Fasal 12 memperkatakan keperluan untuk mendapatkan keizinan secara bertulis daripada Pendakwa Raya untuk memulakan pendakwaan.
 
 ## IMPLIKASI KEWANGAN
 

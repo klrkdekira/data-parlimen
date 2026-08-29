@@ -694,7 +694,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (e) memerintahkan pemuliharaan dan jagaan interim apa-apa keterangan bagi maksud pendengaran; dan
 
-(f) mema ngg il pih ak-pih ak k e pa d a p r osi di n g a t au mana-mana orang lain supaya hadir di hadapan Tribunal untuk memberikan keterangan atau mengemukakan apa-apa dokumen, rekod atau benda lain dalam milikannya atau selainnya untuk membantu Tribunal dalam pertimbangtelitiannya.
+(f) memanggil pihak-pihak kepada prosiding atau mana-mana orang lain supaya hadir di hadapan Tribunal untuk memberikan keterangan atau mengemukakan apa-apa dokumen, rekod atau benda lain dalam milikannya atau selainnya untuk membantu Tribunal dalam pertimbangtelitiannya.
 
 (7) Suatu saman yang dikeluarkan oleh Tribunal di bawah seksyen ini hendaklah disampaikan dan dikuatkuasakan seolah-olah saman itu merupakan suatu saman yang dikeluarkan oleh mahkamah.
 

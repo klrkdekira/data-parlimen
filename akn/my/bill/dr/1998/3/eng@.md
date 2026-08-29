@@ -274,7 +274,7 @@ New section 14. The principal Act is amended by inserting after section 20 the f
 
 "Applica- 20A. (1) If the holder of a licence that is a tion for company or a partnership or a firm intends to to parti- participate in any business or agreement that cipate in
 
-### business or Would C a u s e ——
+### business or Would Cause——
 
 agreement.
 
@@ -398,7 +398,7 @@ Amendment 26. Section 42 of the principal Act is amended— of section 42.
 
 (b) in subsection (3) by substituting for the words "not exceeding five" the words "of not less than one thousand ringgit but not more than ten".
 
-Amendment 27. Subsection 44A(2) of the principal Act is amended of s e c t i on by substituting for the words "not exceeding five" the 44A words "of not less than one thousand ringgit but not more than ten".
+Amendment 27. Subsection 44A(2) of the principal Act is amended of section by substituting for the words "not exceeding five" the 44A words "of not less than one thousand ringgit but not more than ten".
 
 <!-- page 13 -->
 

@@ -544,9 +544,7 @@ Perbadanan boleh disurcaj sekiranya ternyata kepada Perbadanan bahawa orang ters
 
 (a) di dalam hal perenggan ( l )( a ), (b) dan (c), mensurcajkan sejumlah wang terhadap orang tersebut yang tidak melebihi amaun yang tidak dikutip, atau bayaran yang tidak sepatutnya dibuat atau kekurangan dalam, atau kerugian kepada harta yang musnah; dan
 
-(b) di dalam hal perenggan
-
-(1)(d) dan (e), mensurcajkan apa-apa jumlah wang terhadap orang tersebut sebagaimana yang difikirkan patut oleh Perbadanan.
+(b) di dalam hal perenggan ( 1 )( d) dan ( e ), mensurcajkan apa-apa jumlah wang terhadap orang tersebut sebagaimana yang difikirkan patut oleh Perbadanan.
 
 <!-- page 15 -->
 

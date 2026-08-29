@@ -600,7 +600,7 @@ in order to determine the transfer pricing methodology to be used in any future 
 
 “(2) The amount of qualifying exploration expenditure incurred by the first-mentioned chargeable person to be allowed as deduction against the gross income of the second-mentioned chargeable person shall be determined in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the gross income of the second-mentioned chargeable person from a petroleum operation;
 

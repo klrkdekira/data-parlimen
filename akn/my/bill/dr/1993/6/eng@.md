@@ -308,7 +308,7 @@ Initiation of 4. (1) A written petition requesting that a countervailing investi
 
 (2) A petition shall include evidence of each of the elements specified in subsection 3(1).
 
-(3) The Government shall, w i t h in
+(3) The Government shall, within
 
 <!-- marginal: the period -->
 
@@ -1530,7 +1530,7 @@ The provisions in this Bill authorise the imposition and collection of anti-dump
 
 4. Administrative matters are dealt with in Part IV. This Part provides, inter alia, for the administrative set up where complaints in the form of petition can be directed, the relevant authorities that would be conducting the investigations, making the preliminary and final determinations and collecting the duties, the establishment of the Tribunal and the protection of officers in the performance of their duties. In addition, clause 33 provides that the Minister of Finance may make special provisions in relation to specified areas, such as Free Zones, which due to the purpose for which they are set up, may require to be dealt with by way of special provisions in the form of regulations. Clause 34 provides for the proposed Act to be construed as one with the Customs Act 1967. With this, an officer of customs shall have all the powers conferred by the Customs Act 1967 in relation to the collection and enforcement of customs duties for the purpose of the collection of the countervailing and dumping duties imposed under this Bill.
 
-5. Part V deals with general provisions, and enunciates the principles which the Government will adopt in dealing, inter alia, with merchandise imported into Malaysia from more than one country which are subject to both an anti-dumping and subsidy investigation (clause 35), false statements (clause 36), protection of confidential information (clause 39) and the use of facts available if faced with an uncooperative interested party (clause 41}, as well as other practices discovered in the course of an investigation (clause 42). Under clause 37, anti-circumvention measures are also contemplated to be regulated by way of regulations made by the Minister. Another important provision is the principle that the m i n i m um treatment accorded in the Bill will not extend to interested
+5. Part V deals with general provisions, and enunciates the principles which the Government will adopt in dealing, inter alia, with merchandise imported into Malaysia from more than one country which are subject to both an anti-dumping and subsidy investigation (clause 35), false statements (clause 36), protection of confidential information (clause 39) and the use of facts available if faced with an uncooperative interested party (clause 41}, as well as other practices discovered in the course of an investigation (clause 42). Under clause 37, anti-circumvention measures are also contemplated to be regulated by way of regulations made by the Minister. Another important provision is the principle that the minimum treatment accorded in the Bill will not extend to interested
 
 <!-- page 39 -->
 

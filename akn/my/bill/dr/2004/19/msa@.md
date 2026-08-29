@@ -554,7 +554,7 @@ Notwithstanding Part I, income tax shall be charged on the income of a non- resi
 
 <!-- page 18 -->
 
-### PindaanJadimI4c
+### Pindaan J a dim I 4c
 
 32. Jadual 4c Akta ibu dipinda dalam perenggan 2(a) dengan menggantikan perkataan "2005" dengan perkataan "2010".
 
@@ -780,7 +780,7 @@ Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan
 
 "(g) the disposal of any chargeable asset pursuant to a scheme of financing approved by the Central Bank or the Securities Commission as a scheme which is accordance with the principles of Syariah, where such disposal is strictly required for the purpose of compliance with those principles but which will not be required for any other schemes of financing.".
 
-## B A B V PINDAAN KEPADA AKTA
+## BAB V PINDAAN KEPADA AKTA
 
 ## SETEM 1949
 
@@ -1006,7 +1006,7 @@ Provided that the expenditure incurred in the relevant period shall be deemed to
 
 23. New section 109D
 
-24. New section I l l s
+24. New section Ills
 
 25. New section 111c
 
@@ -1164,7 +1164,7 @@ Provided that—
 
 (2) Where in the year of assessment, income of a unit trust consists of a rent from the letting of real property, the amount of the rent shall be treated as gross income of a unit trust from a source or sources consisting of a business for that year of assessment.
 
-(3) In ascertaining, for a year of assessment, the adjusted income of a unit trust from a source referred to in subsection (2) any outgoings and expenses incurred by that unit trust in the basis period for that year of assessment in respect of that source shall only be allowed as a deduction under section 33 against the gross income from that source b u f fo) where the amount of the deduction exceeds the gross income from that source for that year of assessment, the excess shall be disregarded for the purposes of this Act; and
+(3) In ascertaining, for a year of assessment, the adjusted income of a unit trust from a source referred to in subsection (2) any outgoings and expenses incurred by that unit trust in the basis period for that year of assessment in respect of that source shall only be allowed as a deduction under section 33 against the gross income from that source buf fo) where the amount of the deduction exceeds the gross income from that source for that year of assessment, the excess shall be disregarded for the purposes of this Act; and
 
 (b) where that source does not produce any income, the deduction from the gross income of that unit trust from that source and other sources of income shall not be allowed.
 

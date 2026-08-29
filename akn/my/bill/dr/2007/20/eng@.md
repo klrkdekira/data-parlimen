@@ -292,7 +292,7 @@ Bill
 
 "Director General" means the Director General of Health, Malaysia;
 
-"private dental clinic" means a private dental c l i n i c registered under the Private Healthcare Facilities and Services Act 1998 [Act 586];
+"private dental clinic" means a private dental clinic registered under the Private Healthcare Facilities and Services Act 1998 [Act 586];
 
 "private medical clinic" means a private medical clinic registered under the Private Healthcare Facilities and Services Act 1998;
 
@@ -904,7 +904,7 @@ Pathology Laboratory
 
 ### Effect of revocation
 
-34. (1) Where a revocation order is issued under subsection 32(5) or (6)-
+34. (1) Where a revocation order is issued under subsection 32(5) o r ( 6 ) -
 
 (a) to the holder of an approval, he shall immediately cease to establish or maintain the pathology laboratory; or
 

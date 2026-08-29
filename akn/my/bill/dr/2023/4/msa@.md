@@ -152,9 +152,9 @@ Provided that—
 
 <!-- marginal: practitioner -->
 
-<!-- marginal: t h a t -->
+<!-- marginal: that -->
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 <!-- marginal: assessment for the purpose -->
 

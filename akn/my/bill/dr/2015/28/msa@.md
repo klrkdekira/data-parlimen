@@ -1588,7 +1588,7 @@ memohon secara bertulis kepada Perbadanan untuk meminta suatu kajian semula oleh
 
 (2) Dalam mengkaji semula kemunasabahan balasan atau pampasan, Jawatankuasa Pentaksir hendaklah mengambil kira—
 
-(a) ap a-a pa p erk ar a y a ng d ia ngg ap ole h Jawatankuasa Pentaksir sebagai berkaitan termasuk hakikat bahawa perintah pindah milik telah dikeluarkan; dan
+(a) apa-apa perkara yang dianggap oleh Jawatankuasa Pentaksir sebagai berkaitan termasuk hakikat bahawa perintah pindah milik telah dikeluarkan; dan
 
 (b) keadaan pasaran yang terpakai bagi jualan atau pelupusan syer seumpama itu yang dikeluarkan oleh institusi anggota,
 

@@ -2906,7 +2906,7 @@ melakukan suatu kesalahan dan boleh dikenakan penalti bagi kesalahan itu.
 
 (5) Semua jumlah wang yang diterima di bawah subseksyen (2) hendaklah dibayar ke dalam dan menjadi sebahagian—
 
-(a) kumpu lan wan g op erasi Su r uh a nj a ya K o pe r a s i Malaysia jika penawaran kompaun itu dibuat oleh Suruhanjaya Koperasi Malaysia;
+(a) kumpulan wang operasi Suruhanjaya Koperasi Malaysia jika penawaran kompaun itu dibuat oleh Suruhanjaya Koperasi Malaysia;
 
 <!-- page 121 -->
 

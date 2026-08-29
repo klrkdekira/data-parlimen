@@ -406,7 +406,7 @@ I I. Fasal 14 bertujuan meminda seksyen 49A Akta untuk memotong kehendak berat t
 
 13. Fasal 16 bertujuan memasukkan seksyen baru 55A, 55a, 55c dan 55D. Seksyen 55A memperkatakan kesalahan membawa masuk ke dalam Malaysia, secara langsung atau secara tak langsung, di dalam sesuatu kenderaan, vesel atau pesawat udara, mana-mana orang dengan cara yang berlawanan dengan Akta. Jika sesuatu pertubuhan perbadanan yang terlibat, mana-mana orang yang pada masa kesalahan itu dilakukan ialah seorang anggota lembaga pengarah, seorang pengurus, seorang setiausaha atau seseorang yang memegang jawatan atau kedudukan yang serupa dengan pengurus atau setiausaha dalam pertubuhan perbadanan itu adalah melakukan kesalahan itu. Seksyen 55s memperkatakan kesalahan bagi pengambilan kerja mana-mana orang yang tidak memiliki Pas yang sah. Seksyen 55c memperkatakan pembelaan yang ada bagi pengarah, dll. yang didakwa atas kesalahan di bawah subseksyen 55A(3) atau 55B(5). Seksyen 55o memperkatakan kesalahan memalsukan atau mengubah sesuatu pengendorsan atau dokumen yang digunakan sebagai visa, Permit, Pas atau Sijil.
 
-14. Fasal 18 bertujuan m e m i n da seksyen 59 Akta u n t uk memperuntukkan bahawa hak untuk didengar yang tidak diberikan juga meliputi apa-apa perintah yang dibuat oleh Pihak Berkuasa Negeri, dalam hal suatu Negeri Malaysia Timur.
+14. Fasal 18 bertujuan meminda seksyen 59 Akta untuk memperuntukkan bahawa hak untuk didengar yang tidak diberikan juga meliputi apa-apa perintah yang dibuat oleh Pihak Berkuasa Negeri, dalam hal suatu Negeri Malaysia Timur.
 
 15. Fasal 19 bertujuan menggantikan seksyen 59A Akta dan mengadakan peruntukan yang tidak membolehkan dibuat kajian semula kehakiman di dalam mana-mana mahkamah bagi apa-apa
 

@@ -232,7 +232,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (b) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
-“(1 A) An incentive scheme referred to in paragraphs (1)(m) and (n) shall be the incentive scheme for a qualifying activity prescribed by the Minister which includes—
+“(1A) An incentive scheme referred to in paragraphs (1)(m) and (n) shall be the incentive scheme for a qualifying activity prescribed by the Minister which includes—
 
 (a) any high technology activity in manufacturing and services sector; and
 

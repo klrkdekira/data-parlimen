@@ -34,7 +34,7 @@ B. 3 Jabatan Audit 994,900 B. 5 Suruhanjaya Perkhidmatan Awam 3.100,000 B. 7 Jab
 
 ## HURAIAN
 
-Rang Undang-Undang i n i bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak lapan belas bilion sembilan ratus lapan puluh lapan juta empat ratus tiga ribu empat ratus sembilan puluh tujuh ringgit (RM1 8,988,403,497) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual kepada Rang Undang-Undang ini bagi tahun
+Rang Undang-Undang ini bertujuan untuk mengadakan peruntukan bagi pengeluaran wang daripada Kumpulan Wang Disatukan sebanyak lapan belas bilion sembilan ratus lapan puluh lapan juta empat ratus tiga ribu empat ratus sembilan puluh tujuh ringgit (RM1 8,988,403,497) untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual kepada Rang Undang-Undang ini bagi tahun
 
 2003. [PN(U2)2206]
 

@@ -42,7 +42,7 @@ perenggan 4(1)(cc) dengan memasukkan selepas perkataan
 
 ## HURAIAN
 
-Rang Undang-Undang mi bertujuan meminda perenggan 4(l)(cc) Ordinan Peguambela Sabah u n t uk membolehkan seseorang yang telah dianugerahi ijazah Sarjana Muda Undang-Undang (Kepujian) oleh Institut Teknologi MARA diterima masuk sebagai seorang peguambela di Sabah.
+Rang Undang-Undang mi bertujuan meminda perenggan 4(l)(cc) Ordinan Peguambela Sabah untuk membolehkan seseorang yang telah dianugerahi ijazah Sarjana Muda Undang-Undang (Kepujian) oleh Institut Teknologi MARA diterima masuk sebagai seorang peguambela di Sabah.
 
 <!-- page 2 -->
 

@@ -922,7 +922,7 @@ in respect of conventional deposits.
 
 <!-- page 30 -->
 
-(2) The Corporation may, solely for the purpose of hedging any exposure arising from paragraph (l)(i), (ii) or ( i i i ) , enter into financial derivative transactions, whether exchange traded or over the counter including swaps, futures, options and forward contracts.
+(2) The Corporation may, solely for the purpose of hedging any exposure arising from paragraph (l)(i), (ii) or (iii), enter into financial derivative transactions, whether exchange traded or over the counter including swaps, futures, options and forward contracts.
 
 (3) Any investment made by the Corporation under subsection ( 1) from the Islamic fund shall be in accordance with Syariah principles.
 
@@ -1016,7 +1016,7 @@ convene a meeting to determine whether the membership of the member institution 
 
 (4) Where the Board has confirmed its proposal to terminate the membership of the member institution, it shall inform the Minister of its determination in writing.
 
-(5) Where the Minister disagrees with the determination of the Board, the Minister shall within fifteen days from the date of receipt of the notice inform the Board in writing of i t s decision relating to such determination, and such directive shall become binding on the Board.
+(5) Where the Minister disagrees with the determination of the Board, the Minister shall within fifteen days from the date of receipt of the notice inform the Board in writing of its decision relating to such determination, and such directive shall become binding on the Board.
 
 (6) Where the Minister has not informed the Board of his decision within the period stipulated under subsection (5), the Minister shall be deemed to have approved the proposal of the Board to terminate the membership and the Corporation shall -
 
@@ -1052,7 +1052,7 @@ convene a meeting to determine whether the membership of the member institution 
 
 (4) The Corporation may, in such manner and uirough such media as it deems expedient, give public notice of the cancellation or termination of any membership of a member institution if in the opinion of the Corporation, the public interest requires that such notice be given.
 
-(5) Where a member institution is obligated to repay to a person any monies that are received or held by the member institution, such monies shall be deemed not to constitute part of a deposit for the purposes of deposit insurance with the Corporation if the date on which the person acquires h i s interest in the monies is a date subsequent to the date on which the membership of the member institution is cancelled or terminated by the Corporation.
+(5) Where a member institution is obligated to repay to a person any monies that are received or held by the member institution, such monies shall be deemed not to constitute part of a deposit for the purposes of deposit insurance with the Corporation if the date on which the person acquires his interest in the monies is a date subsequent to the date on which the membership of the member institution is cancelled or terminated by the Corporation.
 
 (6) Any member institution which contravenes paragraph (l)(a),
 
@@ -1266,7 +1266,7 @@ that has been disclosed as such on the records of the member institution, a depo
 
 (a) in relation to depositors, the member institution shall—
 
-(i) obtain written consent of at least seventy five per cent of a l l the depositors or their personal representatives to transfer deposits;
+(i) obtain written consent of at least seventy five per cent of all the depositors or their personal representatives to transfer deposits;
 
 (ii) obtain written acknowledgement of each depositor that the depositor is aware that deposits transferred to the non-member institution will be insured for the remainder of the assessment year, or upon maturity or until withdrawal, whichever is earlier, the deposits placed with the amalgamated non- member institution shall no longer be insured in whole or in part by the Corporation;
 
@@ -1628,7 +1628,7 @@ as from the date of the assumption of control of the member institution by the C
 
 (3) Notwithstanding any action instituted pursuant to subsection
 
-(2), the Corporation or the appointed person shall continue to exercise any or all of i t s powers under this Act.
+(2), the Corporation or the appointed person shall continue to exercise any or all of its powers under this Act.
 
 ### Extension of time
 
@@ -1676,7 +1676,7 @@ l\(l)(c) or the appointment of a receiver, manager or receiver and manager under
 
 the redemption of debt instruments;
 
-( i i i ) services related to the issuance of letters of credit or guarantees;
+(iii) services related to the issuance of letters of credit or guarantees;
 
 (iv) cheque certification services; (v)
 
@@ -1726,7 +1726,7 @@ currency supply services;
 
 ### and (d)
 
-81. (1) In respect of a member institution which the Corporation or any appointed person, as the case may be, has assumed control ofunderparagraphll(\)(c)orareceiver,managerorreceiverand manager has been appointed under paragraph 7 \ ( \ ) ( d ) , the Corporation, the appointed person or the receiver, manager or receiver and manager, as the case may be, shall have the power—
+81. (1) In respect of a member institution which the Corporation or any appointed person, as the case may be, has assumed control of under paragraph l l ( \ ) ( c ) or a receiver, manager or receiver and manager has been appointed under paragraph 7 \ ( \ ) ( d ) , the Corporation, the appointed person or the receiver, manager or receiver and manager, as the case may be, shall have the power—
 
 (a) (i) to enter into any premises of a member institution and take possession and control of the assets and require any person in the premises to account for and deliver up to the Corporation, the appointed person, the receiver, manager or receiver and manager, as the case may be, possession and control of the assets;
 
@@ -1980,7 +1980,7 @@ as may be necessary or expedient for giving full effect to the provisions of thi
 
 (h) anything under this Act required to be made as regulations, rules, orders, by-laws, directives, guidelines, circulars or notes.
 
-(4) Any regulations or orders made under this section shall be published in the Gazette and shall be laid before the Dewan Rakyat as soon as practicable after i t s publication.
+(4) Any regulations or orders made under this section shall be published in the Gazette and shall be laid before the Dewan Rakyat as soon as practicable after its publication.
 
 ## FIRST SCHEDULE
 
@@ -2032,7 +2032,7 @@ as may be necessary or expedient for giving full effect to the provisions of thi
 
 (b) prevailing market conditions for sale or disposal of similar assets or business under a receivership or liquidation,
 
-and in a l l cases it shall deduct the benefit derived from any special financial assistance provided, directly or indirectly, to the member institution by the Corporation or Bank Negara Malaysia.
+and in all cases it shall deduct the benefit derived from any special financial assistance provided, directly or indirectly, to the member institution by the Corporation or Bank Negara Malaysia.
 
 (3) Notwithstanding subparagraph (2), where a member institution is insolvent, a consideration of one ringgit is deemed reasonable.
 
@@ -2084,7 +2084,7 @@ of Sarawak:
 
 (c) any other rights and entitlements relating to land;
 
-"disclosed obligation" means an obligation or i i a b i l i t y owed to the obligor by the seller under or with respect to the asset and which obligation or liability is disclosed by the seller to the purchaser in writing prior to the vesting date;
+"disclosed obligation" means an obligation or iiability owed to the obligor by the seller under or with respect to the asset and which obligation or liability is disclosed by the seller to the purchaser in writing prior to the vesting date;
 
 "purchaser1" used in reference toff^) an acquisition under subparagraph 25(2)(aJ(i) or pursuant to paragraph 4 of the Fourlh Schedule means the Corporation or its subsidiary where such subsidiary has been prescribed under subsection 10(2); and
 
@@ -2102,11 +2102,11 @@ of Sarawak:
 
 "vesting date" means the date stated on a vesting certificate as the date on which an asset vests in the purchaser:
 
-''disclosed claim" means any specific c l a i m disclosed to the purchaser by the seller in writing prior to the vesting date.
+''disclosed claim" means any specific claim disclosed to the purchaser by the seller in writing prior to the vesting date.
 
 (2) A vesting certificate may be in such form as determined by the Corporation from time to time.
 
-(3) Where the Corporation wishes to acquire or dispose of an asset pursuant to the statutory vesting provisions set out in t h i s Schedule, the Corpoiation shall issue a vesting certificate in accordance- with this Schedule.
+(3) Where the Corporation wishes to acquire or dispose of an asset pursuant to the statutory vesting provisions set out in this Schedule, the Corpoiation shall issue a vesting certificate in accordance- with this Schedule.
 
 (4) A vesting certificate shall be issued under the common si
 
@@ -2122,11 +2122,11 @@ seal of the Corporation.
 
 (a) in the case where the asset is held by the seller alone, the assel shall on and from the vesting (-late vest in thi ;er; and
 
-(b) in the case where the asset is held j o i n ! , Lher person, the assel shall on and from i the pur chaser jointly with that other person.
+(b) in the case where the asset is held join!, Lher person, the assel shall on and from i the pur chaser jointly with that other person.
 
 (7) A vesting certificate stating i in the pun shall be conclusive evidence of such vesting as or the vesting date.
 
-(8) No provision in any law including subsection 4(3) of the Civil Law Act 1956 \Act 67], rule of law or agreement l i m i t i n g oi prohibiting the right oi the seller or requiring any consent to assign, sell, dispose of or transfer such shall have any application or effect in respect of any acquisition by the purchaser or disposal by the seller, except that a disposal of such asset by the be subject to the approval of the relevant regulatory body or relevant State Authority having jurisdiction over such disposal.
+(8) No provision in any law including subsection 4(3) of the Civil Law Act 1956 \Act 67], rule of law or agreement limiting oi prohibiting the right oi the seller or requiring any consent to assign, sell, dispose of or transfer such shall have any application or effect in respect of any acquisition by the purchaser or disposal by the seller, except that a disposal of such asset by the be subject to the approval of the relevant regulatory body or relevant State Authority having jurisdiction over such disposal.
 
 (9) Where the asset that a purchaser acquires in accordance with this Schedule is an Islamic financing facility or conventional credit facility, the purch. deemed to have given the financing, advance, loan or other facility or issued the guarantee, as the case may be, notwithstanding that the financing, ad loan or other facility or guarantee hid been draw i
 
@@ -2152,9 +2152,9 @@ ich obligor and each other person having any right, title or interest in such as
 
 (Vj an existing instrument, whether in the form of a deed, will or otherwise, or order of any court, under or by virtue of which, the seller has title or ownership of or rights to such asset, shall be construed and shail have effect as if for any reference in it to the seller there were substituted a reference to the purchaser; (di an existing instrument in relation to such asset to which the seller was a party shall have effect insofar as it is applicable to the disclosed obligations, disclosed claims and registered interests as if the purchaser had been a party to it instead of the seller;
 
-(c) an existing mandate, power of attorney, authority, undertaking or consent in relation in such asset wiiich was given to the seller, either alone or jointly with another person, shall be deemed to have effect, as if given to the purchaser either aione or jointly with the other person, as the case may be: (j'i if such asset is security held immediately before the vesting date by the seller, or by a nominee of or trustee for the seller, as security for the payment or discharge of any liability, including any l i a b i l i t y arising from future advances, of any person, such security shall be held by the purchaser, thai, nominee or trustee as the nominee of, or trustee for, the purchaser, as the case may be, with the same priority as the seller, and to the extent of that l i a b i l i t y , shall be available to the purchaser as security for the payment or discharge of that liability;
+(c) an existing mandate, power of attorney, authority, undertaking or consent in relation in such asset wiiich was given to the seller, either alone or jointly with another person, shall be deemed to have effect, as if given to the purchaser either aione or jointly with the other person, as the case may be: (j'i if such asset is security held immediately before the vesting date by the seller, or by a nominee of or trustee for the seller, as security for the payment or discharge of any liability, including any liability arising from future advances, of any person, such security shall be held by the purchaser, thai, nominee or trustee as the nominee of, or trustee for, the purchaser, as the case may be, with the same priority as the seller, and to the extent of that liability, shall be available to the purchaser as security for the payment or discharge of that liability;
 
-(g) in addition to any other right, power or remedy granted to the purchaser in t h i s Schedule, the purchaser shall have the rights, powers and remedies (and in particular the rights and powers as to taking or resisting iegal or otiK i proceedings or making or resisting applications to any authority) for ascertaining, protecting or enforcing the rights, titles, interests or disclosed obligations vested in the purchaser including those rights, titles, interests or obligations in respect of any legal or other proceedings or applications to any authority pending immediately before the vesting dale by or against the seller, and resisting any disclosed claims or registered interests as if they had at all times been the rights, t i t l e s , interests or obligations of the purchaser; (hi a judgment or award obi the seller in relation to such asset and not fully satisfies .ting date shall be enforceable by the purchaser;
+(g) in addition to any other right, power or remedy granted to the purchaser in this Schedule, the purchaser shall have the rights, powers and remedies (and in particular the rights and powers as to taking or resisting iegal or otiK i proceedings or making or resisting applications to any authority) for ascertaining, protecting or enforcing the rights, titles, interests or disclosed obligations vested in the purchaser including those rights, titles, interests or obligations in respect of any legal or other proceedings or applications to any authority pending immediately before the vesting dale by or against the seller, and resisting any disclosed claims or registered interests as if they had at all times been the rights, titles, interests or obligations of the purchaser; (hi a judgment or award obi the seller in relation to such asset and not fully satisfies .ting date shall be enforceable by the purchaser;
 
 (i) no acquisition by the purchaser, or disposal by the seller, of such asset shall be void or voidable by reason of the application of any law: or
 
@@ -2168,11 +2168,11 @@ payable under any agreement in respect of the asset is no longer (interminable a
 
 (12), a vesting of any asset in Lhe purchaser shall not —
 
-(a) be regarded as placing — (i) the purchaser: (ii) the seller; (iii) any person deriving t i t l e from the purchaser; or (iv) any other person;
+(a) be regarded as placing — (i) the purchaser: (ii) the seller; (iii) any person deriving title from the purchaser; or (iv) any other person;
 
 in breach of or default under, any contract or in breach oi ct
 
-(b) be regarded as giving rise to a right or duly for any pers< ( i ) terminate, cancel or modify an agreement: (iij enforce or accelerate the performance of an obligation ( i i i ) require the performance of an obligation not otherwise arising for performance;
+(b) be regarded as giving rise to a right or duly for any pers< ( i ) terminate, cancel or modify an agreement: (iij enforce or accelerate the performance of an obligation (iii) require the performance of an obligation not otherwise arising for performance;
 
 (c) be regarded as placing the seller, the purchaser or any other person in breach of any law, rule of law or agreement prohibiting, restricting or regulating the assignment, sale, disposal or transfer of any asset or disclosure of information;
 
@@ -2202,9 +2202,9 @@ asset;
 
 was a mistal
 
-(e) any agreement to which the asset relates was in furtherance of an illegal purpose or that any consideration given or received there under was unlawful, or that the object of the agreement which constitutes or is one of the constituents of the asset is unlawful; tf) there was a total failure of or no consideration or there was any partial failure of consideration: (\r) the person who executed, is deemed to have executed or who is a party to, any document of ti t l e tor the asset or written contract which evidences, gives rise to or secures the asset, did not understand the document;
+(e) any agreement to which the asset relates was in furtherance of an illegal purpose or that any consideration given or received there under was unlawful, or that the object of the agreement which constitutes or is one of the constituents of the asset is unlawful; tf) there was a total failure of or no consideration or there was any partial failure of consideration: (\r) the person who executed, is deemed to have executed or who is a partyto,anydocumentoftitletortheassetorwrittencontractwhich evidences, gives rise to or secures the asset, did not understand the document;
 
-(h) the person who executed, is deemed to have executed or who is a parly to. any document of titie for the asset or written contract which evidences, gives r i s e to or secures the asset, did not have the capacity or the authority to do the same; and i i ' j theie is an error in any statement of account issued by the seller or any other person in respect of any debt to which the asset relates.
+(h) the person who executed, is deemed to have executed or who is a parly to. any document of titie for the asset or written contract which evidences, gives rise to or secures the asset, did not have the capacity or the authority to do the same; and i i ' j theie is an error in any statement of account issued by the seller or any other person in respect of any debt to which the asset relates.
 
 ### Preseivation of rights
 
@@ -2212,7 +2212,7 @@ was a mistal
 
 (2) Where the Court is satisfied that the person referred to in subparagraph
 
-(I) ha:, a claim against the s e l l e r including any prior equitable interest in [he asset which that person could have raised or claimed but is precluded by subparagraph 1(14) that person shall be entitled to such compensation from the seller in respect of such claim as the Court considers fair and reasonable.
+(I) ha:, a claim against the seller including any prior equitable interest in [he asset which that person could have raised or claimed but is precluded by subparagraph 1(14) that person shall be entitled to such compensation from the seller in respect of such claim as the Court considers fair and reasonable.
 
 ### Replacement vesting certificate
 
@@ -2220,7 +2220,7 @@ was a mistal
 
 (2) Any leplacenn. ;d under subparagraph (1) executed under the common seal or a facsimile seal of the Corporation stating that an asset has been vested in the purchaser shall be conclusive evidence of such vesting as of the vesting date stipulated in the replacement vesting certificate.
 
-(3) If' any law stipulates ;. rime period within which a transfer of any of the assets slated lo be the subjeci of a replacement vesting certificate issued under subparagraph ( 1 ) shall be registered or filed, that period shall commence from the d a i e the replacement vesting certificate is issued.
+(3) If' any law stipulates ;. rime period within which a transfer of any of the assets slated lo be the subjeci of a replacement vesting certificate issued under subparagraph ( 1 ) shall be registered or filed, that period shall commence from the daie the replacement vesting certificate is issued.
 
 <!-- page 79 -->
 
@@ -2230,7 +2230,7 @@ was a mistal
 
 ### Additional provisions on land
 
-4. ( 1 ) Notwithstanding the provisions of tht National Land Code, the Land Ordinance of Sabah, the Land Code of Sarawak or any other law, any caveat or prohibitory order which was entered, registered or lodged, prior to, on or after, or presented for entry, registration or lodgement on or after, the vesting date shall not prevent a transfer of any interest in land of the s e l l e r to the purchaser.
+4. ( 1 ) Notwithstanding the provisions of tht National Land Code, the Land Ordinance of Sabah, the Land Code of Sarawak or any other law, any caveat or prohibitory order which was entered, registered or lodged, prior to, on or after, or presented for entry, registration or lodgement on or after, the vesting date shall not prevent a transfer of any interest in land of the seller to the purchaser.
 
 (2) Where a vesting certificate vests in the purchaser, any interest in land —
 
@@ -2238,27 +2238,27 @@ was a mistal
 
 ( i ) payment of the prescribed fee: and ( i i ) the vesting certificate.
 
-the Registrar under the National Laud Code s h a l l , without the need for any further application or filing of any further document, make a memorial on the register document of title and make Mich other entries and generally do a l l things as may be necessary to give effect to the vesting:
+the Registrar under the National Laud Code shall, without the need for any further application or filing of any further document, make a memorial on the register document of title and make Mich other entries and generally do all things as may be necessary to give effect to the vesting:
 
 (b) in Sabah, on receipt of— ( i ) payment of the prescribed fee; and (ii) the vesting certificate,
 
-the Registrar under the Land Ordinance of Sabah s h a l l , without the need for any further application or filing of any furl- ient. make a memorial on the register document of t i t l e and i i i a k e such other entries and generally do all things as may be net. give effect to the vesting; or
+the Registrar under the Land Ordinance of Sabah shall, without the need for any further application or filing of any furl- ient. make a memorial on the register document of title and iiiake such other entries and generally do all things as may be net. give effect to the vesting; or
 
 (c) in Sarawak, on receipt ot -
 
 (i) payment of the prescribed tot: and ( i i ) the vesting certificate,
 
-the Registrar under the Land Code of Sarawak shall, withoui tht for any further application or filing of any further document, i a memorial on the :egister document of title and make such i entries and generally do a l l things a-, may he necessary to ; to the vesting.
+the Registrar under the Land Code of Sarawak shall, withoui tht for any further application or filing of any further document, i a memorial on the :egister document of title and make such i entries and generally do all things a-, may he necessary to ; to the vesting.
 
 <!-- page 80 -->
 
-(3) urposes of t h e National Land Code, the Land Ordinance of Sabah, the Land Code of Sarawak or any other Saw. a vesting certificate shall be conclusive evidence of a vesting of an interest in land in the purchaser.
+(3) urposes of the National Land Code, the Land Ordinance of Sabah, the Land Code of Sarawak or any other Saw. a vesting certificate shall be conclusive evidence of a vesting of an interest in land in the purchaser.
 
 Other Registrars to give effect to vesting certificate
 
-5 . ( 1 ) Notwithstanding the provisions of any other law, the Registrar of Companies, the registrar of Malaysian ships, a central depository, an authorised depository agent and any person maintaining a register or record of ownership, interest or sccuriiy. as Ihe case may be, ( i n t h i s paragraph referred to as "Registrar") shall, on receipt of— l u ) payment of the prescribed fee; and (b) the vesting certificate,
+5 . ( 1 ) Notwithstanding the provisions of any other law, the Registrar of Companies, the registrar of Malaysian ships, a central depository, an authorised depository agent and any person maintaining a register or record of ownership, interest or sccuriiy. as Ihe case may be, (in this paragraph referred to as "Registrar") shall, on receipt of— l u ) payment of the prescribed fee; and (b) the vesting certificate,
 
-without the need for any fi l i o n or filing of any further documents, do all things and make a l l entries or memorials in any register or record kept by the Registrar as may be necessary to give effect to the vesting of the asset to which the vesting certificate relai
+without the need for any fi lion or filing of any further documents, do all things and make all entries or memorials in any register or record kept by the Registrar as may be necessary to give effect to the vesting of the asset to which the vesting certificate relai
 
 (2) For the purpose of this paragraph, subsection 1 12A(1 ) of the Companies Act 1965 shall be deemed to apply to the purchaser as if for the word "thirty" in that subsection the words "one hundred and eighty" had been substituted.
 
@@ -2270,7 +2270,7 @@ without the need for any fi l i o n or filing of any further documents, do all t
 
 7. Notwithstanding the provisions of any other law, every registrar of courts shall automatically upon receipt of a copy of the vesting certificate do all things and make all entries in any iVgister or record kept by such registrar as may be neces>ary to give effect to the substitution of the purchaser in place of the seller edings.
 
-### ;■].[■.
+### ; ■ ] . [ ■ .
 
 [Section 27\
 
@@ -2290,11 +2290,11 @@ I. ( 1 ) In this Schedule, im ontext otherwise requires — "Bursa Malaysia" mea
 
 (b) a fixed or floating charge on the undertaking or asset of the affected person and which, if required by subsection 108(3) of the Companies Act 1965. is duly registered in accordant the Companies Act 1965;
 
-(c) an assignment by an affected person of i t s rights under an agreement to purchase land or a parcel of a building where the issue document of title to the land or the strata title to the parcel of a b u i l d i n g has not been issued at the time of the assignment; Id) the issue document of t i l l e to any land or duplicate lease belonging to the affected person and in respect of which a l i e n holdei 's caveat has been duly entered in accordance w i t h the provisions of the National Land Code;
+(c) an assignment by an affected person of its rights under an agreement to purchase land or a parcel of a building where the issue document of title to the land or the strata title to the parcel of a building has not been issued at the time of the assignment; Id) the issue document of tille to any land or duplicate lease belonging to the affected person and in respect of which a lien holdei 's caveat has been duly entered in accordance w ith the provisions of the National Land Code;
 
 (e) a charge, mortgage, pledge or lien over marketable securities (as defined in the Companies Act 1965) belonging to the affected person and which, if duly required by subsection 108(3} o\ the Companies Act 1965. is duly registered in accordance with subsection t08( L) of the Companies Act 1965; or
 
-(f) a charge, mortgage, pledge or l i e n over monies placed on fixed deposit by the affected person duly registered under subsection lOKt, 1) of the Companies Act 1965.
+(f) a charge, mortgage, pledge or lien over monies placed on fixed deposit by the affected person duly registered under subsection lOKt, 1) of the Companies Act 1965.
 
 (2) The Minister may, on the recommendation of the Corporation, amend the definition of "secured creditor" in subparagraph ( I ) by notice published in the Gazette.
 
@@ -2302,7 +2302,7 @@ I. ( 1 ) In this Schedule, im ontext otherwise requires — "Bursa Malaysia" mea
 
 2 . ( 1 ) The administration of the affected person by the conservator shall commence from the date of appointment of the conservator and shall continue until terminated by the Corporation.
 
-(2) The Board may appoint a committee ol itself chaired by one of i t s directors and consisting of one or two more directors and other persons of relevant expertise or with relevant experience LO oversee, monitor an the performance of any or all conservators appointed by the Corporation.
+(2) The Board may appoint a committee ol itself chaired by one of its directors and consisting of one or two more directors and other persons of relevant expertise or with relevant experience LO oversee, monitor an the performance of any or all conservators appointed by the Corporation.
 
 (3) The committee appointed under subsection (2) shall, from time to lime, make such proposals or recommendations including a proposal for the termination of the conservator for the consideration of the Corporation.
 
@@ -2312,7 +2312,7 @@ I. ( 1 ) In this Schedule, im ontext otherwise requires — "Bursa Malaysia" mea
 
 Malaysia Depi . a nee Corporation
 
-(5) Where a conservator is released from h i s appointment under this paragraph or subparagraph 26(2), he shall, with effect from such release, be discharged from all duties and l i a b i l i t i e s in respect of h i s administration or otherwise in relation to his conduct as a conservator.
+(5) Where a conservator is released from his appointment under this paragraph or subparagraph 26(2), he shall, with effect from such release, be discharged from all duties and liabilities in respect of his administration or otherwise in relation to his conduct as a conservator.
 
 (6) Nothing in this paragraph shall prevent an action or other proceedings by any person for loss or damage due to the wilful misconduct or gross negligence of the conservator.
 
@@ -2324,7 +2324,7 @@ Malaysia Depi . a nee Corporation
 
 (b) within seven days after such appointment lodge a notice of the conservator's appointment with — ( i ) the Companies Commission of Malaysia; and ( i i ) in the case oi ;i public listed company, Bursa Malaysia,
 
-in the form prescribed under t h i s Act; and
+in the form prescribed under this Act; and
 
 (c) within seven days alter such appointment cause a notice of the conservator's appointment to be published in at least two daily newspapers in Malaysia, one of which shall be in the national language.
 
@@ -2338,7 +2338,7 @@ in the form prescribed under t h i s Act; and
 
 (a) be regarded as placing the conservator, the affected person or any other person in breach of or in default under any contract or in breach of confidence;
 
-(b) be regarded as giving r i s e to a right for any person to — ( i ) terminate, cancel or modify an agreement; (ii) enforce or accelerate the performance of an obligation; or ( i i i ) require the performance of an obligation not otherwise arising for performai
+(b) be regarded as giving rise to a right for any person to — ( i ) terminate, cancel or modify an agreement; (ii) enforce or accelerate the performance of an obligation; or (iii) require the performance of an obligation not otherwise arising for performai
 
 <!-- page 83 -->
 
@@ -2348,7 +2348,7 @@ in the form prescribed under t h i s Act; and
 
 (e) invalidate or dischaige a contract or security; (/) be regarded as terminating, cancelling or varying any right, privilege, exemption (including any tax exemption) or priorities in relation to an asset; or
 
-(g) be regarded as placing the Corporation or the conservator in breach of any l a w or any court order.
+(g) be regarded as placing the Corporation or the conservator in breach of any law or any court order.
 
 ### General powers of conservator
 
@@ -2406,7 +2406,7 @@ be necessary for the management and realization of the ; and affairs of the affe
 
 ;ervator shall manage the assets, business and affairs of the affected person—
 
-(a) at any time prior to the approval of the proposal by the secured creditors of the affected person under paragraph 22, in accordance with any direction _ i v e n h) the Corporation; and
+(a) at any time prior to the approval of the proposal by the secured creditors of the affected person under paragraph 22, in accordance with any direction _iven h) the Corporation; and
 
 <!-- page 85 -->
 
@@ -2428,7 +2428,7 @@ be necessary for the management and realization of the ; and affairs of the affe
 
 (4) For the purpose of subparagraph (1). the conservator shall U entitled to exercise all the functions of the board of directors of the affected person.
 
-(5) In this paragraph, an employee of the affected person shall not be construed as an officer solely by virtue of h i m being an employee of the affected person.
+(5) In this paragraph, an employee of the affected person shall not be construed as an officer solely by virtue of him being an employee of the affected person.
 
 ### Dealings with affected person's asset
 
@@ -2474,7 +2474,7 @@ as the require.
 
 (b) the name and addresses of the creditors of the affected person;
 
-(c) the securities held by the creditors of the affected person referred to insubsubparagraph{\)(b);
+(c) the securities held by the creditors of the affected person referred to in subsubparagraph { \ ) ( b ) ;
 
 (d) the dates when the securities referred to in subsubparagraph (l)fcj were given;
 
@@ -2506,11 +2506,11 @@ as the require.
 
 (a) to retain possession of the books, records, accounts or other documents of the affected person; or
 
-(b) to claim or enforce a l i e n on the books, records, accounts or i documents of the affected person.
+(b) to claim or enforce a lien on the books, records, accounts or i documents of the affected person.
 
-(2) The conservator may give notice to a | ._ n to the books, records, accounts or other documents of the affected person and SUCH person shall deliver to the conservator the books, records, accounts or other d^uments so mentioned in the notice thai are in h i s pos
+(2) The conservator may give notice to a | ._ n to the books, records, accounts or other documents of the affected person and SUCH person shall deliver to the conservator the books, records, accounts or other d^uments so mentioned in the notice thai are in his pos
 
-(3) Subparagraphs ( 1 ) and (2) shall not appb m relation account or other document al to which a secured creditor of the affected person is entitled to j otherwise than because of a l i e n ; or
+(3) Subparagraphs ( 1 ) and (2) shall not appb m relation account or other document al to which a secured creditor of the affected person is entitled to j otherwise than because of a lien; or
 
 (b) of the affected person impounded b\ any regulatory bod).
 
@@ -2542,7 +2542,7 @@ the conservator may within twelve months after he becomes aware of any of the ab
 
 (2) The rights of any person affected by the conservator pursuant to the exercise of his power to disclaim under subparagraph ( 1 ) shall be dealt with in the manner set out in the pr< compensation to such person shall rank as an unsecured debt
 
-(3) 1 he conservator may n . h i s power under subparagraph (1) to disclaim any market contract.
+(3) 1 he conservator may n . his power under subparagraph (1) to disclaim any market contract.
 
 <!-- page 89 -->
 
@@ -2566,7 +2566,7 @@ Moratorium
 
 <!-- marginal: iquidator -->
 
-may be appointed, or if appointed, h i s appointment shall immediately cease and he shall vacate h i s office;
+may be appointed, or if appointed, his appointment shall immediately cease and he shall vacate his office;
 
 (c) no steps may be taken — (i) to create, perfect or enforce any security over any asset of the affected person; ( i i ) to enforce a judgment over any asset of the affected person; (iii) to repossess any asset in the possession, custody or control of the affected person; or (iv) to set off any debt owing to the affected person in respect of any claim against the affected person, except with the prior written consent of the Corporali
 
@@ -2590,13 +2590,13 @@ Malaysia i e Corporation
 
 (4) If the period of the moratorium is extendetl pursuant to subparagraph (3). a notice of the extension shall be published in at least two daily newspapers in Malaysia, one of which s ihe national language.
 
-(5) The Corporation shall not be l i a b l e to an action or damages in respect of a refusal to give its consent under subparagraph ( 1 ) .
+(5) The Corporation shall not be liable to an action or damages in respect of a refusal to give its consent under subparagraph ( 1 ) .
 
-(6) Nothing in this paragraph .shall prevent any c i v i l or criminal proceedings from being instituted or contii y regulatory body under any law against the affected person.
+(6) Nothing in this paragraph .shall prevent any civil or criminal proceedings from being instituted or contii y regulatory body under any law against the affected person.
 
 (7) Subject to subpan .^paragraph ( 1 ) shali not prevent any person who sustains losses from any action of the Corporation, the conservator or the affected person from instituting an action for damages for the losses suffered by such person.
 
-(8) Notwithstanding any action instituted pursuant to subparagraph (7), the Corporation, the conservator or the affected person shall continue to exercise any or a l l of its powers under tl
+(8) Notwithstanding any action instituted pursuant to subparagraph (7), the Corporation, the conservator or the affected person shall continue to exercise any or all of its powers under tl
 
 (9) Any decision of the Corporation under this paragraph shali be final and binding.
 
@@ -2604,13 +2604,13 @@ Malaysia i e Corporation
 
 ### appointment of conservator
 
-1 H . ( 1 ) l''or the purpose of t h i s paragraph--
+1H. (1) l''or the purpose of this paragraph--
 
 "money consideration", in relation to an acquisition or sale by the affected person, means consideration lor the acquisition or sale payable otherwise than by the issue of shares in llu person;
 
 '"director" has the same me; i ned under section 4 of the Companies Act 1965;
 
-'Wakic of the asset" inch iv goodwill or profits which might have been made from the asicL or s i m i l a r considerations.
+'Wakic of the asset" inch iv goodwill or profits which might have been made from the asicL or similar considerations.
 
 (2) Where any asset has bn. n acquired by the affected person for a money consideration within a period of two years before the appointment of a conser- vatorunderthisAct— from a perst le acquisition, a director of tiie affected person: or
 
@@ -2618,7 +2618,7 @@ Malaysia i e Corporation
 
 (b) from a company of which at the time of the acquisition, a person was a director who was also a director of the affected person.
 
-the conservator may recover from the person or company from which the asset was acquired any amount by which the money consideration for the acquisition exceeded the value of the asset at the time of i t s acquisition.
+the conservator may recover from the person or company from which the asset was acquired any amount by which the money consideration for the acquisition exceeded the value of the asset at the time of its acquisition.
 
 (3) Where any asset has been sold by the affected person for a money consideration within a period of two years before the appointment under this Act —
 
@@ -2648,13 +2648,13 @@ exceeded the money consideration.
 
 ### Conservator to prepare proposal
 
-21. ( 1 ) The conservator s h a l l , subject to the terms and conditions of his appointment, prepare and submit to the Corporation a proposal setting forth the conservator's plan with respeel to the affected person.
+21. (1) The conservator shall, subject to the terms and conditions of his appointment, prepare and submit to the Corporation a proposal setting forth the conservator's plan with respeel to the affected person.
 
 (2) The proposal of the conservator or any modification to the proposal under paragraph 24 may include any provision as the conservator thinks fit.
 
 (3) Without prejudice to the generality of the foregoing provisions, the proposal may include provisions for—
 
-(a) a compromise or arrangement between the affected person and i t s creditors or any class of them or between the affected person and its shareholders or any class of them or between the affected person and its debtors or any class of them;
+(a) a compromise or arrangement between the affected person and its creditors or any class of them or between the affected person and its shareholders or any class of them or between the affected person and its debtors or any class of them;
 
 (b) the alteration or reduction of all or part of the share capital of the affected person;
 
@@ -2690,11 +2690,11 @@ exceeded the money consideration.
 
 (b) there arc no secured creditors of the affected person known to the conservator and the Corporation :s the proposal under subparagraph 21(4).
 
-the proposal, including the proposal as it may subsequently be modified under paragraph 24, shall be binding on the affected person, a l l shareholders and creditors of the affected person or any other person affected by the proposal, whether or not the person had knowledge or notice of the proposal.
+the proposal, including the proposal as it may subsequently be modified under paragraph 24, shall be binding on the affected person, all shareholders and creditors of the affected person or any other person affected by the proposal, whether or not the person had knowledge or notice of the proposal.
 
 (5) For the purpose of subsubparagraph (4)(a), a resolution to approve the proposal with any modification shali be deemed to be a rejection of the proposal.
 
-(6) Notwithstanding any law- fa) the approval or the implementation oi" a proposal under subpaiagraph (4), including the proposal as it may subsequently be modified under paragraph 24, shall not discharge any security provided by any person to secure any duty or l i a b i l i t y owed by the affected person to any creditor of the affected person except in such manner and to the extent provided for in the proposal; and
+(6) Notwithstanding any law- fa) the approval or the implementation oi" a proposal under subpaiagraph (4), including the proposal as it may subsequently be modified under paragraph 24, shall not discharge any security provided by any person to secure any duty or liability owed by the affected person to any creditor of the affected person except in such manner and to the extent provided for in the proposal; and
 
 (b) except as provided for in the proposal each such security, duty or liability of the person providing the security shall remain valid and enforceable against that person notwithstanding the approval or implementation of the proposal, including the proposal as it may subsequently be modified under paragraph 24, or any compromise, arrangement, reconstruction or amalgamation in connection with the affected person.
 
@@ -2710,7 +2710,7 @@ under subparagraph (2) or the resolution passed at that meeting.
 
 Implementation of proposal
 
-23. (11 Subject to paragraphs 22, 24 and 25, the conservator shall implement the proposal in accordance with i t s terms.
+23. (11 Subject to paragraphs 22, 24 and 25, the conservator shall implement the proposal in accordance with its terms.
 
 (2} The conservator shall-
 
@@ -2718,7 +2718,7 @@ Implementation of proposal
 
 (b) where there are no secured creditors known to the conservator, within fourteen days from the date of the approval of the proposal by the Corporation under subparagraph 2 1 ( 4 ) ; or
 
-(c) within fourteen days from the date of the approval of the proposal under subparagraph 21(4),
+(c) within fourteen days from the date of the approval of the proposal under subparagraph 2 1 ( 4 ) ,
 
 cause to be published in at least two daily newspapers in Malaysia, one of which shall be in the national language, the approval of the proposal and the time and place for any creditor of the affected person to examine the details of the proposal.
 
@@ -2728,15 +2728,15 @@ cause to be published in at least two daily newspapers in Malaysia, one of which
 
 (5) The conservator shall apply all proceeds realised in the implementation of the proposal in the manner set out in the proposal.
 
-(6) Where a conservator transfers assets or liabilities pursuant to a proposal, then those assets shall be transferred to and vest i n , and those l i a b i l i t i e s shall be transferred to and become the liabilities of, the transferee, free in the case of any particular asset if the proposal so directs, from any charge, caveat or other encumbrance.
+(6) Where a conservator transfers assets or liabilities pursuant to a proposal, then those assets shall be transferred to and vest in, and those liabilities shall be transferred to and become the liabilities of, the transferee, free in the case of any particular asset if the proposal so directs, from any charge, caveat or other encumbrance.
 
 (7) Notwithstanding anything to the contrary in any law, the Corporation or its subsidiary may acquire any asset of or marketable securities issued by. the affected person.
 
-(8) Notwithstanding anything to the contrary in any law, the conservator shall have the power to do all t i l i n g s necessary to give effect to and to implement the proposal approved in accordance with paragraphs 21 and 22 or modified in accordance with paragraph 24.
+(8) Notwithstanding anything to the contrary in any law, the conservator shallhavethepowertodoalltilingsnecessarytogiveeffecttoandtoimplement the proposal approved in accordance with paragraphs 21 and 22 or modified in accordance with paragraph 24.
 
 <!-- page 95 -->
 
-(9) Where a proposal affects the share capital of t t i e affected person, the conservator shall within fourteen days after the approval of the proposal in accordance with this Schedule, notify the Registrar of Companies of how the proposal affects the share capital of the affected person.
+(9) Where a proposal affects the share capital of ttie affected person, the conservator shall within fourteen days after the approval of the proposal in accordance with this Schedule, notify the Registrar of Companies of how the proposal affects the share capital of the affected person.
 
 (10) A notice under subparagraph (9) shall be in such fonn as prescribed under the Companies Act 1965.
 
@@ -2840,7 +2840,7 @@ and approval conditions arc imposed by such regulatory body, the Corporation may
 
 (a) the functions or [he powers of the conservator may be performed or exercised by any one of them or by both or all of them jointly; and
 
-(b) a reference lo the conservator in t h i s Act shall be u reference to whichever one of the persons appointed, as the case may be.
+(b) a reference lo the conservator in this Act shall be u reference to whichever one of the persons appointed, as the case may be.
 
 <!-- page 98 -->
 
@@ -2880,7 +2880,7 @@ ENTITLEMENT TO PRESERVE. DISPOSE Oh OR ACQUIRE PROPERTY
 
 <!-- page 99 -->
 
-authorised depository agent and any person maintaining a register or record of ownership or interest, as the case may be, shall accept a vesting certificate executed by the Corporation or the acquiror and subject to the payment of the fees prescribed under relevant land laws, register the transfer of the property or any part of the property to the purchaser without the need for any further application or f i l i n g of any further documents.
+authorised depository agent and any person maintaining a register or record of ownership or interest, as the case may be, shall accept a vesting certificate executed by the Corporation or the acquiror and subject to the payment of the fees prescribed under relevant land laws, register the transfer of the property or any part of the property to the purchaserwithouttheneedforanyfurtherapplicationorfilingofany further documents.
 
 ### Sale of property by private treaty
 
@@ -2890,7 +2890,7 @@ authorised depository agent and any person maintaining a register or record of o
 
 ### Corporation may acquire property
 
-4. Where the Corporation, i t s subsidiary or an acquiror as hoJdei of security over any property whether as chargee, mortgagee, assignee, lienholder or otherwise exercises its rights under sec! ion 28 to dispose of such property or any part of such property by way of private treaty then, notwithstanding anything to the contrary in any law, the Corporation, its subsidiary or any acquiror. as the case may be, may without having to pay any deposit, acquire such property or part of such property and set off the purchase price against any liability owed to the Corporation, i ts subsidiary or the acquiror.
+4. Where the Corporation, its subsidiary or an acquiror as hoJdei of security over any property whether as chargee, mortgagee, assignee, lienholder or otherwise exercises its rights under sec! ion 28 to dispose of such property or any part of such property by way of private treaty then, notwithstanding anything to the contrary in any law, the Corporation, its subsidiary or any acquiror. as the case may be, may without having to pay any deposit, acquire such property or part of such property and set off the purchase price against any liability owed to the Corporation, i ts subsidiary or the acquiror.
 
 ### Entitlements of acquisition of Corporation or acquiror to prevail
 
@@ -2900,7 +2900,7 @@ authorised depository agent and any person maintaining a register or record of o
 
 (b) without the need for any approval, confirmation or order ut court; or
 
-(c) concurrently with any right or remedy provided by any l a w or contract.
+(c) concurrently with any right or remedy provided by any law or contract.
 
 ### Entitlements of Corporation or acquiror not to be limited
 
@@ -2916,19 +2916,19 @@ The Malaysia Deposil Insurance Corporation Act 2005 ("the Act") proposed by this
 
 2. Part I of the Bill contains preliminary matters.
 
-3. Clause 1 contains the short t i t l e , it also seeks to empower the Minister to appoint a date of coming into operation of the Act and to appoint different dates for the coming into operation of different provisions of the Act.
+3. Clause 1 contains the short title, it also seeks to empower the Minister to appoint a date of coming into operation of the Act and to appoint different dates for the coming into operation of different provisions of the Act.
 
-4. Clause 2 contains the definitions of certain expressions used in the B i l l .
+4. Clause 2 contains the definitions of certain expressions used in the Bill.
 
 ### : II
 
-5. Part il of the B i l l contains 5 Chapters and provides for matters relating to the establishment of the Corporation, its objects, Board of directors, Chief Execu er, officers and employees of the Corporation and duties and poweis of the Board and the Corporation.
+5. Part il of the Bill contains 5 Chapters and provides for matters relating to the establishment of the Corporation, its objects, Board of directors, Chief Execu er, officers and employees of the Corporation and duties and poweis of the Board and the Corporation.
 
 ## Chapter I
 
 6. Clause 3 provides for the establishment of Malaysia Deposit Insurance Corporation with perpetual succession, have a common seal and facsimile seal, and which may sue and be .sued in its corporate name.
 
-7. Clause 4 provides for the objects of the Corporation, namely to administer a deposit insurance system under t h i s Act, provide insurance against the loss of part or all deposits of a member institution, provide incentives for sound risk management in the financial system and promote or contribute to the stability of the financial system. The Corporation is required to act in such manner as to minimise costs to the financial system in achieving i t s second and fourth objects.
+7. Clause 4 provides for the objects of the Corporation, namely to administer a deposit insurance system under this Act, provide insurance against the loss of part or all deposits of a member institution, provide incentives for sound risk management in the financial system and promote or contribute to the stability of the financial system. The Corporation is required to act in such manner as to minimise costs to the financial system in achieving its second and fourth objects.
 
 8. Clause 5 provides for the use and custody of the common seal and facsimile seal by the Corporation for (he purpose of the execution of any document.
 
@@ -2936,7 +2936,7 @@ The Malaysia Deposil Insurance Corporation Act 2005 ("the Act") proposed by this
 
 10. Clause 7 seeks to ailo^ the Corporation to establish any committee as it consicers necessan irformance of its functions.
 
-11. i irporation to establish, in or outside Malaysia, ; i c e as it consider , expedient for the performance of i t s functi
+11. i irporation to establish, in or outside Malaysia, ;ice as it consider , expedient for the performance of its functi
 
 <!-- page 101 -->
 
@@ -2958,7 +2958,7 @@ I 2. Clause 9 seeks to allow the Corporation to appoint a person in or outside M
 
 19. Clause 16 provides for the remuneration and allowances foi , the Board which may be determined by the Minister, on the recommendation of the Board.
 
-20. Clause 17 imposes a duty on a director of the Board to act honestly at aSl times in the best interest of the Corporation and to use reasonable diligence in the discharge of the duties of h i s office. A director or any person who has been a director is prohibited to make improper use of any information acquired by virtue of h is position as a director to gain, directly or indirectly, an advantage for himself or for any other person or do, say or publish anything which may be detrimental to the interests of the Corporation.
+20. Clause 17 imposes a duty on a director of the Board to act honestly at aSl times in the best interest of the Corporation and to use reasonable diligence in the discharge of the duties of his office. A director or any person who has been a director is prohibited to make improper use of any information acquired by virtue of h is position as a director to gain, directly or indirectly, an advantage for himself or for any other person or do, say or publish anything which may be detrimental to the interests of the Corporation.
 
 21. Clause 18 provides for the numbers of meetings to be held by ( h e board, which should be at least four times in a year and also the meeting procedures.
 
@@ -3012,7 +3012,7 @@ mpter 3
 
 38. Clause 34 provides for the accounts of the Corporation to be audited by the Auditor General.
 
-39. Clause 35 provides for the requirement for the annual accounts and (he annual report of the Corporation to be transmitted to the Minister who will then cause them to be l a i d before the Dewan Negara and the Dewan Rakyat.
+39. Clause 35 provides for the requirement for the annual accounts and (he annual report of the Corporation to be transmitted to the Minister who will then cause them to be laid before the Dewan Negara and the Dewan Rakyat.
 
 PAR i- TV
 
@@ -3078,13 +3078,13 @@ Chaptei 4
 
 65. Clause 61 sets out the manner of calculating any return or interest on deposits for the discretionary payment by the Corporation.
 
-66. Clause 62 provides l o r return or interest on index-linked deposits.
+66. Clause 62 provides lor return or interest on index-linked deposits.
 
-67. Clause 63 provides for discharge of the Corporation's l i a b i l i t y in relation to any payment to depositors made under this Chapter.
+67. Clause 63 provides for discharge of the Corporation's liability in relation to any payment to depositors made under this Chapter.
 
 68. Clause 64 provides for subrogation of the Corporation in the event the Corporation makes a payment under this Chapter.
 
-69. Clause 65 seeks to empower the Corporation to withhold payment of deposits until it has received an assignment in writing of a l l rights and interests of depositors in relation to their deposits.
+69. Clause 65 seeks to empower the Corporation to withhold payment of deposits until it has received an assignment in writing of all rights and interests of depositors in relation to their deposits.
 
 70. Clause 66 provides for the time limitation for claims against the Corporation.
 
@@ -3128,7 +3128,7 @@ Chaptei 4
 
 <!-- page 107 -->
 
-86. Clause SO contains a l i s t of financial agreements and transactions which cannot be terminated notwithstanding restrictions in clause 76.
+86. Clause SO contains a list of financial agreements and transactions which cannot be terminated notwithstanding restrictions in clause 76.
 
 87. Clause 81 provides for the powers oi the appointed person, receiver, manager or receiver and manager appointed under paragraphs 71 (1 )(c) and (d), respectively.
 
@@ -3190,6 +3190,6 @@ VITI of the Bill contains general provisions.
 
 ## FINANCIAL 1MPL1C ATIONS
 
-This B i l l will involve the Federal Government in extra financial expenditure, the exact amount of which cannot at present be ascertained.
+This Bill will involve the Federal Government in extra financial expenditure, the exact amount of which cannot at present be ascertained.
 
 <!-- marginal: [PN(U2) 2456] -->

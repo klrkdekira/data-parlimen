@@ -604,7 +604,9 @@ the repealed Act before the appointed date, or any proceedings brought or senten
 
 <!-- page 21 -->
 
-(g) the relationship between such corporation and the Retirement Fund (Incorporated) and its rights of control over such corporation; and (h ) an y matter s r elatin g to wind in g up and d isso lutio n o f s uch corporation.
+(g) the relationship between such corporation and the Retirement Fund (Incorporated) and its rights of control over such corporation; and
+
+(h) any matters relating to winding up and dissolution of such corporation.
 
 ### Effect of regulations
 

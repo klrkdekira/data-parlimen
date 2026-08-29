@@ -324,7 +324,7 @@ is taken to be a place within the geographical limits of Malaysia and her territ
 
 <!-- marginal: time revoke -->
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 appointment of any member of the Committee referred to in paragraphs 5(2)(a), (j), (k) and (l) without assigning any reason.
 

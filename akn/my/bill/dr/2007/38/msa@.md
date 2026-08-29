@@ -22,7 +22,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Perbelanjaan tambahan bagi tahun 2007
 
-2. Maka dengan i n i dibenarkan pengeluaran sejumlah wang yang tidak
+2.Makadenganinidibenarkanpengeluaransejumlahwangyangtidak
 
 melebihi sembilan bilion tujuh ratus lapan puluh enam juta tujuh ratus
 

@@ -76,7 +76,7 @@ of the seabed, configuration and nature of the coast, dangers and aids to naviga
 
 5. (1) Subject to subsection (2), the baselines for the purpose of determining the maritime zones of Malaysia shall be -
 
-(a) the low-water l i n e along the coast as marked on large scale charts;
+(a) the low-water line along the coast as marked on large scale charts;
 
 (b) the seaward low-water line of a reef as shown by the appropriate symbol on charts; or
 
@@ -156,6 +156,6 @@ This Bill seeks to provide for the declaration of geographical coordinates of ba
 
 ## FINANCIAL IMPLICATIONS
 
-This B i l l will not involve the Government in any extra financial expenditure.
+This Bill will not involve the Government in any extra financial expenditure.
 
 <!-- marginal: fPN(U2)2494| -->

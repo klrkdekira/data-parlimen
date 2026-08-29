@@ -68,7 +68,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Eksais 1976 ("Akta").
 
 2. Fasal 2 bertujuan meminda subseksyen 2(1) Akta untuk memasukkan takrif bagi perkataan-perkataan yang digunakan dalam Akta.
 
-3. Fasal 3 bertujuan meminda proviso kepada seksyen 48 Akta untuk membolehkan Ketua Pengarah membenarkan penggunaan borang-borang yang dikemukakan m e l a l ui pertukaran data elektronik.
+3. Fasal 3 bertujuan meminda proviso kepada seksyen 48 Akta untuk membolehkan Ketua Pengarah membenarkan penggunaan borang-borang yang dikemukakan melalui pertukaran data elektronik.
 
 ## IMPLIKASI KEWANGAN
 

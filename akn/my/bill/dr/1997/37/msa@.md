@@ -6,7 +6,7 @@ Naskhah Sahih—Bahasa Kebangsaan
 
 ## RANG UNDANG-UNDANG
 
-b e r nama
+bernama
 
 Suatu Akta untuk meminda Akta Majlis Peperiksaan Malaysia 1980.
 
@@ -106,7 +106,7 @@ Penubuhan 16c. (1) Maka hendaklah ada Lembaga Rayuan Lembaga Tatatertib Majlis y
 
 (vii) buang kerja;
 
-(c) hendaklah memberi orang yang terhadapnya prosiding tatatertib itu diambil peluang u n t uk membuat representasi terhadap pertuduhan tatatertib yang dibuat terhadapnya sebelum keputusan dicapai oleh jawatankuasa tatatertib kecuali dalam mana-mana hal yang berikut:
+(c) hendaklah memberi orang yang terhadapnya prosiding tatatertib itu diambil peluang untuk membuat representasi terhadap pertuduhan tatatertib yang dibuat terhadapnya sebelum keputusan dicapai oleh jawatankuasa tatatertib kecuali dalam mana-mana hal yang berikut:
 
 (i) jika seseorang pegawai atau penjawat Majlis dibuang kerja atau diturunkan pangkat atas alasan salah laku yang berkenaan dengannya suatu pertuduhan jenayah telah dibuktikan terhadapnya;
 
@@ -166,9 +166,7 @@ Rang Undang-Undang
 
 dengan ansuran bulanan yang sama banyak yang tidak melebihi satu per empat daripada jumlah gaji atau pencen bulanan, mengikut mana-mana yang berkenaan, orang itu.
 
-(7) Bagi maksud seksyen-kecil
-
-(1)(d), "pegawai perakaunan" termasuklah tiap-tiap pegawai dan pengkhidmat yang dipertanggungkan dengan—
+(7) Bagi maksud seksyen-kecil ( 1 )( d ), "pegawai perakaunan" termasuklah tiap-tiap pegawai dan pengkhidmat yang dipertanggungkan dengan—
 
 (a) kewajipan untuk memungut, menerima, atau mengakaunkan, atau yang sebenarnya memungut, menerima atau mengakaunkan, apa-apa wang dalam Kumpulanwang;
 

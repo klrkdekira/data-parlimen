@@ -358,13 +358,13 @@ Perlantikan 13. (1) Tertakluk kepada apa-apa peraturan yang dibuat pegawai, di b
 
 (2) Lembaga boleh mengambil kerja dan membayar ejen dan penasihat teknik termasuk peguambela dan peguamcara, jurubank, broker saham, juruukur atau penilai atau orang-orang lain, untuk menjalankan apa-apa urusan atau melakukan apa-apa perbuatan yang dikehendaki supaya dijalankan atau dilakukan pada melaksanakan fungsi- fungsinya atau bagi melaksanakan dengan lebih baik maksud-maksud Akta ini, dan boleh membayar daripada Kumpulan Wang segala caj dan belanja yang dilakukan sedemikian.
 
-(3) Lembaga boleh m e l a l ui suratcara di bawah meterainya melantik mana-mana orang sama ada di Malaysia atau mana-mana tempat di luar Malaysia untuk menjadi wakilnya dan orang yang dilantik sedemikian boleh, tertakluk kepada terma-terma suratcara itu, melakukan apa-apa perbuatan atau melaksanakan apa- apa kuasa atau fungsi yang dia diberikuasa oleh suratcara itu untuk melakukannya atau melaksanakannya.
+(3) Lembaga boleh melalui suratcara di bawah meterainya melantik mana-mana orang sama ada di Malaysia atau mana-mana tempat di luar Malaysia untuk menjadi wakilnya dan orang yang dilantik sedemikian boleh, tertakluk kepada terma-terma suratcara itu, melakukan apa-apa perbuatan atau melaksanakan apa- apa kuasa atau fungsi yang dia diberikuasa oleh suratcara itu untuk melakukannya atau melaksanakannya.
 
 Kuasa untuk 14. (1) Lembaga boleh, dari semasa ke semasa, dengan membuat kelulusan Menteri, membuatperaturan-peraturan berkenaan peraturan- peraturan dengan syarat-syarat perkhidmatan pegawai-pegawai dan berkenaan pengkhidmat-pengkhidmatnya dan berkenaan dengan dengan syarat-syarat tatatertib pegawai-pegawai dan pengkhidmat-peng- perkhidmatan khidmatnya. dan tatatertib.
 
 <!-- page 17 -->
 
-(2) Peraturan-peraturan yang dibuat di bawah seksyen ini berkenaan dengan tatatertib pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga boleh mewujudkan apa-apa kesalahan tatatertib dan membuat peruntukan bagi apa-apa hukuman tatatertib yang difikirkan sesuai oleh Lembaga, dan h u k u m an yang diperuntukkan sedemikian boleh meliputi pembuangan kerja atau penurunan pangkat, dan boleh termasuk peruntukan bagi—
+(2) Peraturan-peraturan yang dibuat di bawah seksyen ini berkenaan dengan tatatertib pegawai-pegawai dan pengkhidmat-pengkhidmat Lembaga boleh mewujudkan apa-apa kesalahan tatatertib dan membuat peruntukan bagi apa-apa hukuman tatatertib yang difikirkan sesuai oleh Lembaga, dan hukuman yang diperuntukkan sedemikian boleh meliputi pembuangan kerja atau penurunan pangkat, dan boleh termasuk peruntukan bagi—
 
 (a) penahanan kerja dengan pengurangan gaji atau saraan lain; atau
 
@@ -674,7 +674,7 @@ bilangan maksimum hari yang ditentukan oleh
 
 ### Lembaga dari semasa ke semasa yang hendaklah
 
-dikira dari masa dan tarikh tempat dalam pesawat udara itu sepatutnya ada, maka pengelola jemaah haji itu hendaklah membayar kepada Menteri berkenaan dengan setiap jemaah haji sedemikian apa-apa jumlah wang yang dituntut oleh Menteri sebagai kos u n t uk menghantar pulang jemaah haji itu.
+dikira dari masa dan tarikh tempat dalam pesawat udara itu sepatutnya ada, maka pengelola jemaah haji itu hendaklah membayar kepada Menteri berkenaan dengan setiap jemaah haji sedemikian apa-apa jumlah wang yang dituntut oleh Menteri sebagai kos untuk menghantar pulang jemaah haji itu.
 
 (2) Tempoh yang disebut dalam subseksyen (1) tidak boleh bermula selagi pesawat udara itu terhalang daripada membawa jemaah haji dalam perjalanan pulang kerana gangguan perang atau apa-apa jenis vis major.
 
@@ -698,7 +698,7 @@ Tanah Suci.
 
 (2) Walau apa pun subseksyen (1), sesuatu tiket bagi perjalanan balik tidak perlu dikeluarkan kepada mana- mana jemaah haji yang mengemukakan kebenaran bertulis seperti yang tersebut dalam seksyen 33.
 
-(3) Tiap-tiap t i k et yang dikeluarkan di bawah subseksyen (1) hendaklah dikeluarkan dalam masa yang akan membolehkan jemaah haji yang kepadanya tiket itu dikeluarkan u n t uk menunaikan haji.
+(3) Tiap-tiap tiket yang dikeluarkan di bawah subseksyen (1) hendaklah dikeluarkan dalam masa yang akan membolehkan jemaah haji yang kepadanya tiket itu dikeluarkan untuk menunaikan haji.
 
 (4) Mana-mana pengelola jemaah haji yang melanggar subseksyen (1) atau (3) adalah melakukan suatu kesalahan
 
@@ -760,7 +760,7 @@ kepada setiap jemaah haji dan Pasport Haji itu hendaklah
 
 disifatkan sebagai pasport dan permit masuk semula yang sah seolah-olah diberikan di bawah mana-mana undang- undang yang berhubungan dengan pasport dan imigresen.
 
-(2) Sesuatu Pasport Haji tidak sah kecuali bagi maksud perjalanan ke Tanah Suci u n t uk menunaikan haji dan pulang dari Tanah Suci.
+(2) Sesuatu Pasport Haji tidak sah kecuali bagi maksud perjalanan ke Tanah Suci untuk menunaikan haji dan pulang dari Tanah Suci.
 
 <!-- marginal: Harga -->
 
@@ -834,7 +834,7 @@ Kuasa untuk
 
 Obligasi
 
-42. (1) Tiada pegawai atau pengkhidmat Lembaga atau untuk orang lain yang mempunyai akses kepada apa-apa penyata, menyimpan rahsia. akaun, rekod, surat-menyurat, dokumen, maklumat atau apa-apa bahan lain yang diperolehi oleh sebab dia diambil kerja atau diambil k h i d m at oleh Lembaga boleh mendedahkan penyata, akaun, rekod, surat-menyurat, dokumen, maklumat atau bahan lain sedemikian kepada mana-mana orang lain melainkan jika pendedahan itu dibenarkan oleh Lembaga.
+42. (1) Tiada pegawai atau pengkhidmat Lembaga atau untuk orang lain yang mempunyai akses kepada apa-apa penyata, menyimpan rahsia. akaun, rekod, surat-menyurat, dokumen, maklumat atau apa-apa bahan lain yang diperolehi oleh sebab dia diambil kerja atau diambil khidmat oleh Lembaga boleh mendedahkan penyata, akaun, rekod, surat-menyurat, dokumen, maklumat atau bahan lain sedemikian kepada mana-mana orang lain melainkan jika pendedahan itu dibenarkan oleh Lembaga.
 
 (2) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
@@ -864,7 +864,7 @@ jawatankuasa dan semua pegawai dan pengkhidmat Lembaga hendaklah disifatkan seba
 
 <!-- marginal: N.M.B. -->
 
-mengikut pengertian K a n un Keseksaan.
+mengikut pengertian Kanun Keseksaan.
 
 ## Bab 45.
 
@@ -892,17 +892,17 @@ peruntukan Akta ini, bagi melaksanakan maksud-maksud Akta ini atau mana-mana per
 
 (c) bagi penyimpanan, penutupan dan pengauditan akaun Lembaga, termasuk perkara-perkara tentang prosedur kewangan dan perakaunannya sendiri;
 
-(d) u n t uk mengawalselia prosedurnya sendiri termasuk prosedur yang berhubungan dengan perkara perjawatan dan operasi dan peminjaman wang;
+(d) untuk mengawalselia prosedurnya sendiri termasuk prosedur yang berhubungan dengan perkara perjawatan dan operasi dan peminjaman wang;
 
 <!-- page 34 -->
 
 (e) untuk menguruskan pendepositan ke dalam dan pengeluaran daripada Kumpulan Wang, dan khususnya—
 
-(i) u n t uk mengadakan peruntukan bagi penamaan oleh pendeposit orang-orang yang kepadanya apa-apa amaun yang terkredit untuknya dalam Kumpulan Wang pada masa kematiannya hendaklah dibayar apabila dia mati, bagi cara penamaan itu boleh dibatalkan dan bagi hal keadaan penamaan itu dianggap sudah terhenti berkuatkuasa dan bagi pembayaran amaun itu kepada penama yang dinamakan sedemikian;
+(i) untuk mengadakan peruntukan bagi penamaan oleh pendeposit orang-orang yang kepadanya apa-apa amaun yang terkredit untuknya dalam Kumpulan Wang pada masa kematiannya hendaklah dibayar apabila dia mati, bagi cara penamaan itu boleh dibatalkan dan bagi hal keadaan penamaan itu dianggap sudah terhenti berkuatkuasa dan bagi pembayaran amaun itu kepada penama yang dinamakan sedemikian;
 
-(ii) u n t uk mengadakan peruntukan bagi pembayaran jumlah wang yang terkredit untuk seseorang pendeposit pada masa kematiannya jika tidak adapenamaan oleh pendeposit itu orang yang kepadanya jumlah wang itu hendaklah dibayar apabila dia mati;
+(ii) untuk mengadakan peruntukan bagi pembayaran jumlah wang yang terkredit untuk seseorang pendeposit pada masa kematiannya jika tidak adapenamaan oleh pendeposit itu orang yang kepadanya jumlah wang itu hendaklah dibayar apabila dia mati;
 
-(iii) u n t uk mengadakan peruntukan bagi cara pembayaran u n t u ng boleh bahagi jika seseorang pendeposit mati atau semasa pengeluaran;
+(iii) untuk mengadakan peruntukan bagi cara pembayaran untung boleh bahagi jika seseorang pendeposit mati atau semasa pengeluaran;
 
 (f) untuk menetapkan tanggungjawab dan kawalan pegawai dan pengkhidmat Lembaga termasuk perkara-perkara yang berhubungan dengan prosiding tatatertib dan hukuman tatatertib dan rayuan berkenaan dengannya dan berkenaan dengan gaji, elaun, terma dan
 
@@ -930,7 +930,7 @@ perkhidmatan, tempoh perkhidmatan dan cuti pegawai-pegawai dan pengkhidmat- peng
 
 (m) untuk mengadakan peruntukan bagi pemusnahan rekod dan dokumen selepas berunding terlebih dahulu dengan Arkib Negara; dan
 
-(n) untuk mengadakan peruntukan bagi segala perkara yang dikehendaki ditetapkan atau yang perlu atau suaimanfaat u n t uk memberikan kuatkuasa kepada Akta ini.
+(n) untuk mengadakan peruntukan bagi segala perkara yang dikehendaki ditetapkan atau yang perlu atau suaimanfaat untuk memberikan kuatkuasa kepada Akta ini.
 
 <!-- page 36 -->
 

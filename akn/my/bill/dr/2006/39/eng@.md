@@ -8,7 +8,7 @@
 
 ## PRELIMINARY
 
-L Short t i t l e and commencement
+L Short title and commencement
 
 2. Act to be read together with other laws
 
@@ -94,7 +94,7 @@ ENACTED by Ehe Parliament of Malaysia as follows:
 
 2.
 
-(1) This Act shall be read together with any other written l a w relating to import and export, human, plant and animal health, the environment and biological diversity, and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of such other written laws.
+(1) This Act shall be read together with any other written law relating to import and export, human, plant and animal health, the environment and biological diversity, and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of such other written laws.
 
 (2) In the event of any inconsistencies between the provisions of this Act and any of the other written laws referred to in subsection (1) (he provisions of this Act shall prevail.
 
@@ -368,7 +368,7 @@ Advisory Committee think necessary or expedient to assist them in the performanc
 
 (3) If any applicant fails to provide, within such period as may be specified by the Director General, any additional information, particulars or documents required under subsection (2), his or its application shall be deemed to have been withdrawn without prejudice to the making of a fresh application.
 
-(4) As soon as it completes its assessment on the application, the Advisory Committee shall forward i t s recommendations on the application to the Board.
+(4) As soon as it completes its assessment on the application, the Advisory Committee shall forward its recommendations on the application to the Board.
 
 <!-- page 13 -->
 
@@ -384,7 +384,7 @@ Advisory Committee think necessary or expedient to assist them in the performanc
 
 (5) The approved person may apply to the Board for the variation of any of the terms and conditions imposed on the approval.
 
-(6) The Board may, at any time after approval has been granted, require Ihe approved person to furnish such further information, particulars or documents as the Board thinks f i t .
+(6) The Board may, at any time after approval has been granted, require Ihe approved person to furnish such further information, particulars or documents as the Board thinks fit.
 
 (7) Any approved person who contravenes any terms and conditions imposed on the approval or fails to furnish the information, particulars or documents required under subsection
 
@@ -796,7 +796,7 @@ comprehension of computerised data
 
 (2) The occupier of the premises searched, or some person on his behalf, shall in every instance be permitted to attend during the search, and a copy of the list prepared and signed under this section shall be delivered to that occupier or person at his request.
 
-(3) Where the premises are unoccupied, Ihe seizing officer shall whenever possible post a list of the organism or product that is suspected of being a l i v i n g modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form, seized conspicuously on the premises.
+(3) Where the premises are unoccupied, Ihe seizing officer shall whenever possible post a list of the organism or product that is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form, seized conspicuously on the premises.
 
 ### Power to seal premises
 
@@ -812,13 +812,13 @@ comprehension of computerised data
 
 (2) An order for the forfeiture of any organism or product that is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form referred to in subsection ( I ) shall be made by the court before which the prosecution with regard thereto has been held if it is proved to the satisfaction of the court that an offence under this Act or any regulations made under this Act has been committed and that the said organism or product that is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thrng including in digital form, was the subject matter of or was used in the commission of the offence, notwithstanding that no person may have been convicted of such offence.
 
-(3) Where there is no prosecution with regard to any organism or product that is suspected of being a l i v i n g modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form, seized in exercise of any power conferred under this Act, a notice shall be served to the last-known address of the person from whom the said organism or product that is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form was seized.
+(3) Where there is no prosecution with regard to any organism or product that is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form, seized in exercise of any power conferred under this Act, a notice shall be served to the last-known address of the person from whom the said organism or product that is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form was seized.
 
 (4) The notice referred to in subsection (3) shall indicate that —
 
 (a) there is no prosecution in respect of such organism or product that is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form; and
 
-(b) such organism or product that is suspected of being a l i v i n g modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form, shall be taken and deemed to be forfeited at the expiration of one calendar month from the date of service of such notice unless before that date a claim thereto is made in the manner set out in subsections (5), (6) and (7).
+(b) such organism or product that is suspected of being a livingmodifiedorganismorproductofsuchorganism,or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form, shall be taken and deemed to be forfeited at the expiration of one calendar month from the date of service of such notice unless before that date a claim thereto is made in the manner set out in subsections (5), (6) and (7).
 
 <!-- page 32 -->
 
@@ -830,7 +830,7 @@ comprehension of computerised data
 
 <!-- page 33 -->
 
-device, machinery, vehicle, matter or thing including in digital form to be forfeited or may, in the absence of such proof, order che release of such organism or product that is suspected of being a l i v i n g modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form to the person entitled to it.
+device, machinery, vehicle, matter or thing including in digital form to be forfeited or may, in the absence of such proof, order che release of such organism or product that is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form to the person entitled to it.
 
 (8) Where an order for forfeiture is made by the court under subsection (2) or (7) or where no claim is made under subsection
 
@@ -916,7 +916,7 @@ commits an offence and shall, on conviction, be liable to a fine not exceeding o
 
 ### related to offence
 
-51. An enforcement officer may seek the assistance of any person to examine any organism or product [hat is suspected of being a living modified organism or product of such organism. or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form, seized or detained under t h i s Act if such person has the necessary qualification to examine such organism or product that
+51. An enforcement officer may seek the assistance of any person to examine any organism or product [hat is suspected of being a living modified organism or product of such organism. or book, document, computerized data, apparatus, equipment, device, machinery, vehicle, matter or thing including in digital form, seized or detained under this Act if such person has the necessary qualification to examine such organism or product that
 
 <!-- page 38 -->
 
@@ -924,7 +924,7 @@ Biosafety
 
 <!-- marginal: 4 1 -->
 
-is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device machinery, vehicle, matter or thing including in digital form, for the purposes of an investigation under t h i s Act or any regulations made under this Act.
+is suspected of being a living modified organism or product of such organism, or book, document, computerized data, apparatus, equipment, device machinery, vehicle, matter or thing including in digital form, for the purposes of an investigation under this Act or any regulations made under this Act.
 
 ### Power of Board to require information on living modified
 
@@ -942,7 +942,7 @@ is suspected of being a living modified organism or product of such organism, or
 
 ### Power to take sample
 
-53. ( 1 ) An enforcement officer may demand, select, take Of obtain samples of any organism or product suspected of being or containing l i v i n g modified organisms or products of such organisms for the purposes of analysis—
+53. ( 1 ) An enforcement officer may demand, select, take Of obtain samples of any organism or product suspected of being or containing living modified organisms or products of such organisms for the purposes of analysis—
 
 (a) upon payment, from any person selling such organism or product, or his or i ts agent or servant: or
 
@@ -1170,7 +1170,7 @@ fc) the manner to be followed, information and reports to be furnished in submit
 
 <!-- page 46 -->
 
-(3) Regulations made under this section may provide that any person who contravenes any of [he provisions of these regulations commits an offence and shall, on conviction- be l i a b l e —
+(3) Regulations made under this section may provide that any person who contravenes any of [he provisions of these regulations commits an offence and shall, on conviction- be liable —
 
 (a) where such person is an individual, to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding six months or to both and, jn the case of a continuing offence, to a further fine not exceeding ten thousand ringgit for each day during which the offence continues after conviction;
 
@@ -1258,7 +1258,7 @@ fc) the manner to be followed, information and reports to be furnished in submit
 
 <!-- page 49 -->
 
-(2) Where the chairman of the Advisory Committee or his represent i v e attends a meeting of the Board he shall be paid such fees as ihc Board may determine.
+(2) Where the chairman of the Advisory Committee or his represent ive attends a meeting of the Board he shall be paid such fees as ihc Board may determine.
 
 ### Board may invite others In meetings
 
@@ -1282,7 +1282,7 @@ fc) the manner to be followed, information and reports to be furnished in submit
 
 ### Procedure
 
-12. Subject to this Ad, the Board shall regulate i t s own procedure.
+12. Subject to this Ad, the Board shall regulate its own procedure.
 
 ### Common seal
 
@@ -1294,9 +1294,9 @@ fc) the manner to be followed, information and reports to be furnished in submit
 
 (3) The common seal shall be kept in the custody of the Director General or such other person as may be authorized by the Board, and shall be authenticated by the Director General of such authorized person or by any officer authorized by either of them in writing, and all deeds, documents and other instrument purporting to be scaled with the said seal, authenticated as aforesaid, shall, until the contrary is proved, be deemed to have been validly executed.
 
-(4) Any document or instrument which, if executed by a person not being a body corporate would not be required to be under seal, may in l i k e be executed by the Board: and any such document or instrument may be executed on behalf of the Board by any officer or servant of the Board generally or specially authorized by the Board in that behalf.
+(4) Any document or instrument which, if executed by a person not being a body corporate would not be required to be under seal, may in like be executed by the Board: and any such document or instrument may be executed on behalf of the Board by any officer or servant of the Board generally or specially authorized by the Board in that behalf.
 
-(5) Th e co mmon seal o f th e Board shall b e o fficially un d judicially noticed
+(5) The common seal of the Board shall be officially und judicially noticed
 
 ### Validity of acts and proceedings
 
@@ -1358,7 +1358,7 @@ This Bill seeks to implement Malavsia's obligation under the Cartagena Protocol 
 
 2. Part I of the Act contains preliminary matters
 
-Clause 1 deals with the short t i t l e and provisions on the commencement of the Act.
+Clause 1 deals with the short title and provisions on the commencement of the Act.
 
 <!-- page 52 -->
 
@@ -1388,13 +1388,13 @@ Clause 10 seeks to deal with the power of the Minister to give directions to the
 
 4 Part III contains provision the approval for release and import activities involving living modified organisms and products of such organisms.
 
-Clause 11 relates to the application of Part I I I on release activities involving living modified organisms and product of such organisms and import activities involving living modified organisms.
+Clause 11 relates to the application of Part III on release activities involving living modified organisms and product of such organisms and import activities involving living modified organisms.
 
 Clause 12 seeks to impose the requirement for the approval of the Board for release and import activities involving living modified organisms and products of such organisms.
 
 Clause 13 seeks lo provide for the procedure of application for approval.
 
-Clause 14 seeks to provide that the application for approval shall be referred To the Advisory Committee for its recommendations and to relevant agencies For their comments. The public s h a l l be consulted for their views.
+Clause 14 seeks to provide that the application for approval shall be referred To the Advisory Committee for its recommendations and to relevant agencies For their comments. The public shall be consulted for their views.
 
 <!-- page 53 -->
 
@@ -1402,7 +1402,7 @@ Clause 15 seeks to require the Advisory Committee to make, an assessment on the 
 
 dame 16 seeks lo empower the Board lo grant or refuse the application for approval.
 
-Clause 17 seeks lo provide that an approval granted shall be v a l i d for any subsequent release or import activity relating to the same approved person where the same living modified organism or product of such organism is involved.
+Clause 17 seeks lo provide that an approval granted shall be valid for any subsequent release or import activity relating to the same approved person where the same living modified organism or product of such organism is involved.
 
 Clause 18 seeks to allow the Board to review an approval and make an appropriate order
 
@@ -1410,13 +1410,13 @@ Clause 19 seeks to ser out the circumstances in which the Board may revoke an ap
 
 Clause 20 seeks to provide for the making of an appeal Lo the Minister.
 
-5. Part IV contains provisions on the notification for export, contained use just import for Contained use: activities involving l i v i n g modified organisms.
+5. Part IV contains provisions on the notification for export, contained use just import for Contained use: activities involving living modified organisms.
 
 Clause 21 deals with, the application of Par" IV on exportation of living modeled organism and contained use activities.
 
 Clause 22 seeks to impose the requirement for the submission of a notification for activities relating to export, contained use and import for contained use purposes, involving living modified organism
 
-Clause 23 seeks lo ensure that an exporter of living modified organisms c o m p l y wi t h the requirements of the importing country on the importation of living modified organisms
+Clause 23 seeks lo ensure that an exporter of living modified organisms comply with the requirements of the importing country on the importation of living modified organisms
 
 Clause 24 seeks to provide for the procedure for the submission of a notification.
 
@@ -1478,7 +1478,7 @@ Clause 50 seeks to empower an enforcement officer to require the production of t
 
 Clause 5! seeks to allow an enforcement officer to seek assistance from experts to examine the things related to an offence.
 
-Clause 52 seeks to enable the Board to direct any person carrying on a release, import, export and contained use activity to furnish to the Board information on the composition and use of l i v i n g modified organisms and products of such organisms relating to the activity carried on by such person.
+Clause 52 seeks to enable the Board to direct any person carrying on a release, import, export and contained use activity to furnish to the Board information on the composition and use of living modified organisms and products of such organisms relating to the activity carried on by such person.
 
 Clause 53 seeks in empower an enforcement officer to take samples of any organisms or products of such organisms for the purposes of analysts and the court shall accept such sample
 
@@ -1496,7 +1496,7 @@ Chase 58 provides that no prosecution for an offence under the Act shall be inst
 
 ## PART VII.
 
-8. Part V I I contains provisions relating [o miscellaneous mailers.
+8. Part VII contains provisions relating [o miscellaneous mailers.
 
 Chase 59 seeks to enable ,inv person who makes an application under section 13 or submits a notification order subsection 22(1) to apply to the Director General for confidentiality of certain information.
 

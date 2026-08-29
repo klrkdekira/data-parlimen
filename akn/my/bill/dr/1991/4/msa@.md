@@ -42,7 +42,7 @@ disebut "Akta ibu" dalam Akta ini, adalah dipinda—
 
 (1)(e);
 
-(b) dengan menggantikan noktah di h u j u ng perenggan (1)(f) dengan koma bertitik dan memasukkan selepas sahaja koma bertitik itu perkataan "atau"; dan
+(b) dengan menggantikan noktah di hujung perenggan (1)(f) dengan koma bertitik dan memasukkan selepas sahaja koma bertitik itu perkataan "atau"; dan
 
 (c) dengan memasukkan, selepas sahaja perenggan 1 (f), perenggan baru (g) yang berikut:
 

@@ -8,7 +8,7 @@
 
 bernama
 
-Suatu Akta untuk meminda Akta Bank dan Institusi- Institusi Kewangan 1989 dan u n t uk mengadakan peruntukan bagi perkara-perkara yang bersampingan atau berkaitan dengannya. [ ]
+Suatu Akta untuk meminda Akta Bank dan Institusi- Institusi Kewangan 1989 dan untuk mengadakan peruntukan bagi perkara-perkara yang bersampingan atau berkaitan dengannya. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -488,7 +488,7 @@ Pindaan
 
 dipinda—
 
-(a) dalam subperenggan (1)(a)(i) dengan menggantikan perkataan "bersama-sama dengannya" dengan perkataan "syer kepada orang itu";
+(a) dalam subperenggan ( 1 )( a )( i) dengan menggantikan perkataan "bersama-sama dengannya" dengan perkataan "syer kepada orang itu";
 
 (b) dalam subseksyen (6) dengan menggantikan perkataan "ditentukan" dengan perkataan "dinyatakan"; dan
 
@@ -894,7 +894,7 @@ Pindaan
 
 (d) dengan menggantikan perenggan
 
-<!-- marginal: (2)(e), -->
+<!-- marginal: ( 2 )( e ), -->
 
 dengan perenggan yang berikut:
 

@@ -310,7 +310,7 @@ yang tujuan atau akibatnya adalah untuk lari cukai jualan.
 
 '44. Jika mana-mana orang—
 
-(a) membantu, menyubahati, menolong, mengapikan atau mendorong mana-mana orang lain untuk membuat atau membuat bagi pihak orang lain suatu penyata, akaun, pernyataan atau akuan yang tidak betul yang mengakibatkan cukai j u a l an terkurang dibayar oleh orang yang bertanggungan membayar cukai itu; atau
+(a) membantu, menyubahati, menolong, mengapikan atau mendorong mana-mana orang lain untuk membuat atau membuat bagi pihak orang lain suatu penyata, akaun, pernyataan atau akuan yang tidak betul yang mengakibatkan cukai jualan terkurang dibayar oleh orang yang bertanggungan membayar cukai itu; atau
 
 (b) membantu, menyubahati, menolong, mengapikan atau mendorong mana-mana orang lain untuk melakukan suatu kesalahan di bawah seksyen 43,
 
@@ -426,7 +426,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Cukai Jualan 1972 ("Akta 64"
 
 6. Fasal 5 bertujuan untuk memasukkan seksyen baru 12A ke dalam Akta 64 yang memperuntukkan bahawa jika Ketua Pengarah berpuas hati bahawa apa- apa pengasingan aktiviti perniagaan adalah dibuat-buat, dia boleh mengarahkan supaya orang yang dinamakan dalam arahan itu dianggap sebagai orang kena cukai tunggal.
 
-7. Fasal 6 bertujuan u n t uk memasukkan subseksyen baru (4) ke dalam seksyen 13A Akta 64 yang memperuntukkan bahawa sebelum Ketua Pengarah membatalkan sesuatu lesen di bawah subseksyen 13A(2), dia hendaklah menyampaikan suatu notis pembatalan lesen kepada orang yang kepadanya lesen telah dikeluarkan.
+7. Fasal 6 bertujuan untuk memasukkan subseksyen baru (4) ke dalam seksyen 13A Akta 64 yang memperuntukkan bahawa sebelum Ketua Pengarah membatalkan sesuatu lesen di bawah subseksyen 13A(2), dia hendaklah menyampaikan suatu notis pembatalan lesen kepada orang yang kepadanya lesen telah dikeluarkan.
 
 Fasal 6 juga bertujuan untuk memasukkan subseksyen baru (5) dan (6) ke dalam seksyen 13A Akta 64 untuk menghendaki Ketua Pengarah, sebelum dia membatalkan sesuatu lesen di bawah subseksyen 13A(3), membenarkan representasi dibuat oleh orang yang kepadanya lesen telah dikeluarkan. Jika selepas menimbangkan representasi itu Ketua Pengarah berpuas hati bahawa lesen itu patut dibatalkan, dia hendaklah menyampaikan kepada orang itu notis pembatalan lesen.
 
@@ -464,7 +464,7 @@ Fasal ini juga bertujuan untuk memasukkan subseksyen baru (4) dan (5) ke dalam s
 
 19. Fasal 18 bertujuan untuk memasukkan seksyen baru 43A ke dalam Akta 64 yang memperuntukkan bahawa mana-mana orang yang menolong mana- mana orang lain lari cukai jualan adalah melakukan suatu kesalahan.
 
-20. Fasal 19 bertujuan u n t uk meminda seksyen 44 Akta 64 untuk memperuntukkan bahawa mana-mana orang yang membantu, menyubahati, menolong, mengapikan atau mendorong mana-mana orang lain untuk membuat suatu kesalahan di bawah seksyen 43 adalah melakukan suatu kesalahan.
+20. Fasal 19 bertujuan untuk meminda seksyen 44 Akta 64 untuk memperuntukkan bahawa mana-mana orang yang membantu, menyubahati, menolong, mengapikan atau mendorong mana-mana orang lain untuk membuat suatu kesalahan di bawah seksyen 43 adalah melakukan suatu kesalahan.
 
 21. Fasal 20 bertujuan untuk meminda subseksyen 57(1) Akta 64 untuk menambah amaun maksimum yang boleh diterima bagi pengkompaunan kesalahan daripada satu ribu ringgit kepada lima ribu ringgit.
 

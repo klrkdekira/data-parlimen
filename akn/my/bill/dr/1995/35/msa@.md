@@ -384,7 +384,7 @@ IX
 
 <!-- page 9 -->
 
-52. B a n t u an kewangan kepada institusi pendidikan Islam yang tidak ditubuhkan atau disenggarakan oleh Menteri atau Kerajaan Negeri.
+52. Bantuan kewangan kepada institusi pendidikan Islam yang tidak ditubuhkan atau disenggarakan oleh Menteri atau Kerajaan Negeri.
 
 ## Bab 11—Pengurusan Institusi Pendidikan
 

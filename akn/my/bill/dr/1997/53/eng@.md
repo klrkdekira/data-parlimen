@@ -494,7 +494,7 @@ trust scheme to which the units of the unit trust scheme relates, and less any r
 
 (c) that person acquires or disposes of such securities on such terms and in such circumstances that—
 
-(i) he does not obtain any gain or avoid any loss, including an unrealised gain or unrealised avoidance of loss in price or value, of the securities, as the case may be, for himself or any other person by reason of the effect that the information is l i k e ly to have when it becomes generally available; and
+(i) he does not obtain any gain or avoid any loss, including an unrealised gain or unrealised avoidance of loss in price or value, of the securities, as the case may be, for himself or any other person by reason of the effect that the information is likely to have when it becomes generally available; and
 
 ( i i) the purpose of the acquisition or disposal of the securities does not include any purpose of securing a gain or avoiding a loss, as the case may be, for himself or any other person by reason of the effect that
 
@@ -574,7 +574,7 @@ New
 
 if it considers that it is in the public interest to do so, by civil action against the insider or any other person involved in the contravention—
 
-(a) recover an amount equal to three times the a m o u nt being the difference between the price at which the securities were disposed of, or agreed to be disposed of, by the insider or the other person, and the price at which they would have been likely to have been disposed of at the time of the disposal or agreement, as the case may be, if the information had been generally available; and
+(a) recover an amount equal to three times the amount being the difference between the price at which the securities were disposed of, or agreed to be disposed of, by the insider or the other person, and the price at which they would have been likely to have been disposed of at the time of the disposal or agreement, as the case may be, if the information had been generally available; and
 
 (b) claim civil penalty in such amount as the Court considers appropriate having regard to the seriousness of the contravention, being an amount not more than five hundred thousand ringgit.
 

@@ -12,7 +12,7 @@
 
 ## A BILL
 
-i n t i t u l ed
+int i tuled
 
 An Act to provide for the raising of loans from the International Fund for Agricultural Development by Malaysia or by certain statutory authorities and for matters connected therewith. [ ]
 

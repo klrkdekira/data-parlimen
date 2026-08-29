@@ -550,7 +550,7 @@ Pembersihan Awam
 
 ### Perbadanan boleh menerima pakai peraturan-peraturan, dsb.
 
-26. Perbadanan boleh menerima pakai dengan apa-apa ubah suaian yang difikirkannya patut apa-apa peraturan-peraturan, kaedah-kaedah, dasar, surat pekeliling dan arahan yang dibuat atau dikeluarkan oleh Kerajaan Persekutuan berhubung dengan apa-apa perkara di bawah Bahagian i n i .
+26. Perbadanan boleh menerima pakai dengan apa-apa ubah suaian yang difikirkannya patut apa-apa peraturan-peraturan, kaedah-kaedah, dasar, surat pekeliling dan arahan yang dibuat atau dikeluarkan oleh Kerajaan Persekutuan berhubung dengan apa-apa perkara di bawah Bahagian ini.
 
 ## BAHAGIAN V
 
@@ -636,7 +636,7 @@ Pembersihan Awam
 
 ### Pelaburan
 
-33. (1) Wang daripada Kumpulan Wang Perbadanan hendaklah, setakat yang tidak dikehendaki untuk dibelanjakan oleh Perbadanan di bawah Akta i n i , dilaburkan mengikut apa-apa cara yang diluluskan oleh Menteri dan Menteri Kewangan.
+33. (1) Wang daripada Kumpulan Wang Perbadanan hendaklah, setakat yang tidak dikehendaki untuk dibelanjakan oleh Perbadanan di bawah Akta ini, dilaburkan mengikut apa-apa cara yang diluluskan oleh Menteri dan Menteri Kewangan.
 
 <!-- page 24 -->
 

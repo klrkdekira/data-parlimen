@@ -1046,7 +1046,7 @@ This amendment will have effect for the year of assessment 2006 and subsequent y
 
 This amendment will have effect for the year of assessment 2006 and subsequent years of assessment.
 
-17. Clause 22 seeks to amend subsection 107c(3) of Act 53. The proposed amendment will enable a company to furnish an estimate of tax payable for a year of assessment not less than eighty-five per cent of the revised estimate of i t s tax payable in the preceding year of assessment or if there is no revised estimate, shall not be less than eighty-five per cent of the estimate of its tax payable immediately preceding the year of assessment.
+17. Clause 22 seeks to amend subsection 107c(3) of Act 53. The proposed amendment will enable a company to furnish an estimate of tax payable for a year of assessment not less than eighty-five per cent of the revised estimate of its tax payable in the preceding year of assessment or if there is no revised estimate, shall not be less than eighty-five per cent of the estimate of its tax payable immediately preceding the year of assessment.
 
 This amendment will have effect for the year of assessment 2006 and subsequent years of assessment.
 

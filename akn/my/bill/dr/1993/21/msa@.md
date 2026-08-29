@@ -8,13 +8,13 @@
 
 bernama
 
-Suatu Akta u n t uk meminda Kanun Keseksaan (N.M.B.
+Suatu Akta untuk meminda Kanun Keseksaan (N.M.B.
 
 ## Bab 45).
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
-oleh Duli Yang Maha M u l ia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya. seperti berikut:
+oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya. seperti berikut:
 
 <!-- marginal: Tajuk -->
 
@@ -38,7 +38,7 @@ Akta ini, adalah dipinda dengan menggantikan seksyen
 
 ## Bab 45
 
-'"Dis- 24, Whoever does anything with the intention honestly" of causing wrongful gain to one person, or wrongful loss to another person irrespective of whether the act causes actual wrongful loss or gain, is said to do that thing "dishonestly".
+' " D i s- 24, Whoever does anything with the intention honestly" of causing wrongful gain to one person, or wrongful loss to another person irrespective of whether the act causes actual wrongful loss or gain, is said to do that thing "dishonestly".
 
 Explanation—In relation to the offences of criminal misappropriation or criminal breach of trust it
 
@@ -54,7 +54,7 @@ Pindaan
 
 " Docu-
 
-29. ( 1) The word "document" means any ment" matter expressed, described, or howsoever represented, upon any substance, material, thing or article, including any matter embodied in a disc, tape, f i l m, sound track or other device whatsoever, by means of—
+29. ( 1) The word "document" means any ment" matter expressed, described, or howsoever represented, upon any substance, material, thing or article, including any matter embodied in a disc, tape, film, sound track or other device whatsoever, by means of—
 
 (a) letters, figures, marks, symbols, signals, signs, or other forms of expression, description, or representation what- soever;
 
@@ -88,7 +88,7 @@ Words printed, lithographed or photographed are documents.
 
 A map, plan, graph or sketch is a document.
 
-An inscription on wood, metal, stone or any other substance, material or t h i ng is a document.
+An inscription on wood, metal, stone or any other substance, material or thing is a document.
 
 A drawing, painting, picture or caricature
 
@@ -104,11 +104,11 @@ A photographic or other visual recording, including a recording of a photographi
 
 A matter recorded, stored, processed, retrieved or produced by a computer is a document.
 
-Explanation—Whatever is expressed by means of letters, figures, or marks as explained by mercantile or other usage, shall be deemed to be expressed by such letters, figures, or marks w i t h in the meaning of this section, although the same may not be actually expressed.
+Explanation—Whatever is expressed by means of letters, figures, or marks as explained by mercantile or other usage, shall be deemed to be expressed by such letters, figures, or marks within the meaning of this section, although the same may not be actually expressed.
 
 ## ILLUSTRATION
 
-A. writes his name on the back of a b i ll of exchange payable to his order. The meaning of the endorsement, as explained by mercantile usage, is that the bill is to be paid to the holder. The endorsement is a document, and must be construed in the same manner as if the words "pay to the holder", or words to that effect, has been written over the signature.'.
+A. writes his name on the back of a bill of exchange payable to his order. The meaning of the endorsement, as explained by mercantile usage, is that the bill is to be paid to the holder. The endorsement is a document, and must be construed in the same manner as if the words "pay to the holder", or words to that effect, has been written over the signature.'.
 
 <!-- page 4 -->
 
@@ -126,7 +126,7 @@ Pindaan
 
 402A. For the purposes of sections 403, 403A, of "agent", 403B and 403C, 404, 405, 406, 407, 408, 409, "company" "director". '409A, 409B, 415, 416, 417. 418, 419 and 420 "olteer" of this Chapter, unless the contrary appears from the context:
 
-"agent" includes any corporation or other person acting or having been acting or desirous or intending to act for or on behalf of any company or other person whether as agent, partner, co-owner, clerk, servant, employee, banker, broker, auctioneer, architect, clerk of works, engineer, advocate and solicitor, accountant, auditor, surveyor, buyer, salesman, trustee executor, administrator, liquidator, trustee within the meaning of any Act relating to trusteeship or bankruptcy, receiver, director, manager or other officer of any company, club, partnership or association or in any other capacity either alone or j o i n t ly with any other person and whether in his own name or in the name of his principal or not;
+"agent" includes any corporation or other person acting or having been acting or desirous or intending to act for or on behalf of any company or other person whether as agent, partner, co-owner, clerk, servant, employee, banker, broker, auctioneer, architect, clerk of works, engineer, advocate and solicitor, accountant, auditor, surveyor, buyer, salesman, trustee executor, administrator, liquidator, trustee within the meaning of any Act relating to trusteeship or bankruptcy, receiver, director, manager or other officer of any company, club, partnership or association or in any other capacity either alone or jointly with any other person and whether in his own name or in the name of his principal or not;
 
 "company" means a company incorporated under any relevant law for the time being in force or pursuant to any corresponding previous enactment and includes any statutory corporation;
 
@@ -260,11 +260,11 @@ Seksyen-
 
 ## RANG UNDANG-UNDANG
 
-Explanation—The property of a company shall be regarded as belonging ro the company notwithstanding that the directors of the said company are, either singly or j o i n t l y, entitled to the entire beneficial interest, of the shareholding in the said company.
+Explanation—The property of a company shall be regarded as belonging ro the company notwithstanding that the directors of the said company are, either singly or jointly, entitled to the entire beneficial interest, of the shareholding in the said company.
 
 Pre-
 
-409B. ( l ) W h e re in any proceeding it is sumption. proved—
+409B. (l)Where in any proceeding it is sumption. proved—
 
 (a) for any offence prescribed in sections 403 and 404, that any person had misappropriated any property; or
 
@@ -276,7 +276,7 @@ Pre-
 
 ( i i i) suffered any person to do any of the acts described in subparagraph ( i) or ( i i) above,
 
-it s h a ll be presumed that he had acted dishonestly until the contrary is proved.
+it shall be presumed that he had acted dishonestly until the contrary is proved.
 
 (2) The presumption under subsection ( I) of this section shall apply mutatis mutandis to the offences prescribed in sections 109 and 511 of the Code in relation to any of the offences referred to in that section.".
 
@@ -312,7 +312,7 @@ is said to "cheat".'; dan
 
 ## HURAIAN
 
-Rang Undang-Undang i ni bertujuan meminda K a n un Keseksaan (N.M.B. Bab 45).
+Rang Undang-Undang ini bertujuan meminda Kanun Keseksaan (N.M.B. Bab 45).
 
 2. Fasal 2 bertujuan meminda seksyen 24 bagi memperuntukkan bahawa seorang yang membuat sesuatu dengan niat mendapat keuntungan salah atau menyebabkan kerugian salah masih dikatakan membuatnya "dishonestly" suiigguhpun tidak ada keuntungan salah atau kerugian salah yang berlaku.
 
@@ -320,13 +320,13 @@ Rang Undang-Undang i ni bertujuan meminda K a n un Keseksaan (N.M.B. Bab 45).
 
 4. Fasal 4 dan fasal 5 bertujuan memperuntukkan takrif bagi perkataan-perkalaan "unlawful", "agent", "company", "director" dan "officer" dalam konteks beberapa peruntukan dalam Kanun.
 
-5. Fasal 6 bertujuan meminda skop kesalahan pelesapan harta dalam seksyen 403 bagi mengadakan peruntukan bahawa kesalahan itu dilakukan jika seseorang itu dengan curang menyebabkan seorang lam melupuskan harta kepunyaan orang lain. Pindaan bagi seksyen 403 juga bertujuan menaikkan h u k u m an bagi kesalahan pelesapan harta.
+5. Fasal 6 bertujuan meminda skop kesalahan pelesapan harta dalam seksyen 403 bagi mengadakan peruntukan bahawa kesalahan itu dilakukan jika seseorang itu dengan curang menyebabkan seorang lam melupuskan harta kepunyaan orang lain. Pindaan bagi seksyen 403 juga bertujuan menaikkan hukuman bagi kesalahan pelesapan harta.
 
 6. Fasal 7 bertujuan meminda seksyen 404 bagi menaikkan hukuman kesalahan pelesapan harta bagi harta kepunyaan seorang yang telah meninggal, dan juga membuat pindaan berbangkit dan pindaan kepada seksyen 403.
 
 7. Fasal 8 bertujuan meminda seksyen 405 bagi mengadakan peruntukan bahawa j i ka seseorang i tu diamanahkan dengan harta bersama seorang yang l a in dan dengan curang melesapkan atau menggunakan atau melupuskan harta tersebut tiap-tiap seorang dari mereka melakukan pecah amanah jenayah.
 
-II bertujuan menaikkan hukuman- S. Fasal-fasal 9. It) dan h u k u m an bagi seksyen-seksyen 406. 407 dan 408.
+II bertujuan menaikkan hukuman- S. Fasal-fasal 9. It) dan hukuman bagi seksyen-seksyen 406. 407 dan 408.
 
 9. Fasal 12 bertujuan meminda seksyen 409 bagi memperuntukkan hukuman bagi kesalahan pecah amanah jenayah yang dilakukan oleh seorang ejen dan juga memperuntukkan hukuman minima bagi kesalahan i t u.
 
@@ -338,7 +338,7 @@ II bertujuan menaikkan hukuman- S. Fasal-fasal 9. It) dan h u k u m an bagi seks
 
 ## (PINDAAN)
 
-memperuntukkan satu anggapan bahawa jika sekiranya di dalam satu prosiding berkaitan dengan kesalahan pelesapan harta atau pecah amanah jenayah. dibuktikan yang tertuduh telah melesapkan harta. atau menggunakan seorang lain u n t uk melakukannya. adalah dianggapkan orang itu telah berlaku dengan curang melainkan ada bukti lain sebaliknya. Anggapan i ni juga terpakai bagi kesalahan pensubahatan (abetment) dan pencubaan (attempt) dalam hubungannya dengan kesalahan pelesapan harta atau kesalahan pecah amanah jenayah.
+memperuntukkan satu anggapan bahawa jika sekiranya di dalam satu prosiding berkaitan dengan kesalahan pelesapan harta atau pecah amanah jenayah. dibuktikan yang tertuduh telah melesapkan harta. atau menggunakan seorang lain untuk melakukannya. adalah dianggapkan orang itu telah berlaku dengan curang melainkan ada bukti lain sebaliknya. Anggapan i ni juga terpakai bagi kesalahan pensubahatan (abetment) dan pencubaan (attempt) dalam hubungannya dengan kesalahan pelesapan harta atau kesalahan pecah amanah jenayah.
 
 I I. Fasal 14 bertujuan meminda seksyen 415 untuk memperbaiki takrif perkataan "cheating" dengan memperuntukkan bahawa kesalahan "cheating" dilakukan sama ada pedayaan menjadi dorongan utama atau tidak dalam melakukannya.
 

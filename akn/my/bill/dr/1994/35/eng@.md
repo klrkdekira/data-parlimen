@@ -118,7 +118,7 @@ Corporation Act 1994.
 
 "Group Investment Fund" or "Fund" means a Group Investment Fund formed under section 30;
 
-"intestate" includes a person who leaves a w i ll but dies intestate as to some beneficial interest in his property;
+"intestate" includes a person who leaves a will but dies intestate as to some beneficial interest in his property;
 
 "letters of administration" means letters of administration of the cstate and effects of a deceased person, whelher general or with a will annexed;
 

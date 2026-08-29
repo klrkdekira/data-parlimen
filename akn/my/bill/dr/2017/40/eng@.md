@@ -148,7 +148,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) subsubparagraph (9)(b)(iii)(B) or (C) shall be determined in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the total amount of gross income for that period referred to in subparagraph (9)(a)(iii) excluding the amount of gross income in respect of wakalah fee;
 
@@ -158,7 +158,7 @@ C is the total management expenses incurred under subparagraph (9)(b)(iii); or
 
 (b) subsubparagraph (10)(b)(iii)(B) or (C) shall be determined in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the total amount of gross income for that period referred to in subparagraph (10)(a)(iii), excluding the amount of gross income in respect of wakalah fee;
 

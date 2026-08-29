@@ -204,7 +204,7 @@ risiko pelaburan, aktuari, perbankan, undang-undang atau kewangan yang hendaklah
 
 (c) dengan memasukkan selepas subseksyen (1a) subseksyen yang berikut:
 
-“( 1b) Bagi maksud pengeluaran di bawah perenggan 12(1)(a) atau (b), Lembaga hendaklah membenarkan pengeluaran semua jumlah wang yang ada dalam kredit akaun pencarum di bawah Akta ini, sekiranya—
+“(1b) Bagi maksud pengeluaran di bawah perenggan 12(1)(a) atau (b), Lembaga hendaklah membenarkan pengeluaran semua jumlah wang yang ada dalam kredit akaun pencarum di bawah Akta ini, sekiranya—
 
 (a) dimohon oleh waris pencarum apabila pencarum itu mati; atau
 

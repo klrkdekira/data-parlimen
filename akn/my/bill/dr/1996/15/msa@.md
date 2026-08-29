@@ -294,7 +294,7 @@ Fungsi dan
 
 4. (1) Fungsi Lembaga adalah— kuasa Lembaga.
 
-(a) u n t uk melaksanakan dasar dan program pembangunan untuk memastikan pembangunan industri getah Malaysia;
+(a) untuk melaksanakan dasar dan program pembangunan untuk memastikan pembangunan industri getah Malaysia;
 
 (b) untuk memajukan dan melaksanakan aktiviti penyelidikan dan kemajuan dalam pengeluaran, pemakaian dan penggunaan getah;
 

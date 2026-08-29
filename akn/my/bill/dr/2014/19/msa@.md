@@ -188,7 +188,7 @@ the relevant person is deemed to be able to obtain on demand the receipt of such
 
 “(4c) For the purposes of ascertaining the adjusted income of the life fund, shareholders’ fund or general business referred to in subsection (3), (3a), (4), (4a), (5) or (6), as the case may be, the cost of acquiring and realizing any investments or rights for the basis period for a year of assessment shall include expenses incurred in managing those investments or rights, and such expenses incurred shall be determined in accordance with the following formula:
 
-A x C
+AxC
 
 B
 
@@ -260,7 +260,7 @@ family re-takaful fund” dengan perkataan “general fund, inward re-takaful fu
 
 “(10a) For the purposes of ascertaining the adjusted income of the family fund, general fund or shareholders’ fund referred to in subsection (3), (4), (5), (7), (9) or (10), as the case may be, the cost of acquiring and realizing any investments or rights for the basis period for a year of assessment shall include expenses incurred in managing those investments or rights, and such expenses incurred shall be determined in accordance with the following formula:
 
-A x C
+AxC
 
 B
 

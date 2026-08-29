@@ -184,7 +184,7 @@ whichever is the lower less the amount paid for the shares.
 
 (a) dengan memasukkan perkataan "or" di hujung subperenggan (ii);
 
-(b) dengan menggantikan perkataan "; or" di hujung subperenggan ( i i i ) dengan noktah; dan
+(b) dengan menggantikan perkataan "; or" di hujung subperenggan (iii) dengan noktah; dan
 
 (c) dengan memotong subperenggan (iv).
 

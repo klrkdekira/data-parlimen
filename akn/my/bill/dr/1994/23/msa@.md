@@ -8,9 +8,9 @@ D.R. 23/94
 
 bernama
 
-Suatu Akta u n t uk meminda Akta Insurans 1963.
+Suatu Akta untuk meminda Akta Insurans 1963.
 
-## MAKA INILAH DIPERBUAT UNDANG-UNDANG
+## MAKAINILAHDIPERBUATUNDANG-UNDANG
 
 oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang da!am Parlimen, dan dengan kuasa daripadanya, seperti berikut:
 
@@ -48,7 +48,7 @@ insurance guarantee scheme funds through the Director General—
 
 ## RANG UNDANG-UNDANG
 
-(c) any a m o u nt recovered from the liquidator of an insurer thai is being wound up; and
+(c) any amount recovered from the liquidator of an insurer thai is being wound up; and
 
 (d) any donations or contributions from any person.";
 
@@ -58,7 +58,7 @@ insurance guarantee scheme funds through the Director General—
 
 (c) dengan menggantikan subseksyen ( 4) dengan subseksyen yang berikut:
 
-"(4) Subject to subsection (5A), the moneys in an insurance guarantce scheme fund may be withdrawn and utilised from time to time with the approval and subject to the direction 6f the Director General—
+"(4) Subject to subsection ( 5 A ), the moneys in an insurance guarantce scheme fund may be withdrawn and utilised from time to time with the approval and subject to the direction 6f the Director General—
 
 (a) to meet the administrative, legal, and other costs of maintaining and administering such fund:
 
@@ -100,13 +100,13 @@ Provided that any sum so withdrawn and utilised for the purpose of meeting the l
 
 (a) pay a claim in such instalments as the Director General rnay direct: or
 
-(b) defer m a k i ng any payment.";
+(b) defer making any payment.";
 
 (e) dalam subseksyen ( 5) dengan menggantikan noktah bertindih dengan noktah dan dengan memotong proviso kepada subseksyen itu:
 
 (f) dengan memasukkan selepas subseksyen (5) subseksyen yang berikut:
 
-"(5A) The Minister may from time to time at his discretion, restrict the utilisation of rhe moneys in an insurance guarantee scheme rund to certain types of insurance business w i t h in a nv class or he may direct that the utilisation of such moneys may only be made with such exceptions or restrictions or on terms or for any period or in any manner as he may prescribe."; dan
+"(5A) The Minister may from time to time at his discretion, restrict the utilisation of rhe moneys in an insurance guarantee scheme rund to certain types of insurance business within anv class or he may direct that the utilisation of such moneys may only be made with such exceptions or restrictions or on terms or for any period or in any manner as he may prescribe."; dan
 
 (g) dalam subseksyen (9) dengan memotong perkataan ''private policyholder" means a policyholder who is an individual, a partnership or any other unincorporated body of persons. all of whom are individuals; and'.
 
@@ -124,7 +124,7 @@ Provided that any sum so withdrawn and utilised for the purpose of meeting the l
 
 persons or sources, and on such tenns and conditions, as may be approved by the Minister in writing.
 
-Payment on 12c. The Director General may in h is advance and discretion, pay to the claimant of an insoivent assigment. insurer the amount of dividend that may be declared by that insurer's Iiquidator together with the a m o u nt due from an insurance guarantee scheme fund subject to the claimant assigning all his rights in respect of the claim in favour of the insurance guarantee scheme fund and upon the c l a i m a nt accepting that amount of payment from the insurance guarantee scheme f u nd in f u ll and final settlement of his claim.".
+Payment on 12c. The Director General may in h is advance and discretion, pay to the claimant of an insoivent assigment. insurer the amount of dividend that may be declared by that insurer's Iiquidator together with the amount due from an insurance guarantee scheme fund subject to the claimant assigning all his rights in respect of the claim in favour of the insurance guarantee scheme fund and upon the claimant accepting that amount of payment from the insurance guarantee scheme f u nd in f u ll and final settlement of his claim.".
 
 <!-- marginal: Seksyen baru -->
 
@@ -136,7 +136,7 @@ seksyen 29 seksyen yang berikut:
 
 <!-- marginal: dan 29C. -->
 
-"Applica- 29A Sections 29B and 29c s h a ll in addition to the provisions of the Companies Act 1965. sections 29B dan apply to the winding up of an insurer. including 29c. an insurer whose registration has been revoked Act 125 and an insurer whose winding up has commenced but has not been completed.
+"Applica- 29A Sections 29B and 29c shall in addition to the provisions of the Companies Act 1965. sections 29B dan apply to the winding up of an insurer. including 29c. an insurer whose registration has been revoked Act 125 and an insurer whose winding up has commenced but has not been completed.
 
 Control of 29B. (1) Subject to any order of the Court. a liquidaton liquidator, other than the Official Receiver, by the Director appointed on an application made under section General. 28A(2)(c) or 29, shall carry out his functions under the direction and supervision of the Director General.
 
@@ -178,7 +178,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Insurans 1963 ("Akta").
 
 3. Fasal 2 bertujuan meminda seksyen 12A Akta. Subfasal 2(a) bertujuan meminda subseksyen (2) untuk memperjelaskan dun memperluaskan jenis-jenis pembayaran yang akan masuk ke dalam kumpulan wang skim jaminan insurans. Subfasal 2(c) bertujuan meminda subseksyen (4) untuk membolehkan wang dalam kumpulan wang skim jaminan insurans digunakan bagi pembayaran balik wang yang dipinjam o!eh Ketua Pengarah di bawah seksyen 12B Akta. Pindaan ini memperluaskan pemakaian kumpulan wang bagi segala tuntutan berhubungan dengan sesuatu polisi dan bukan sahaja bagi pemegang polisi persendirian.
 
-Subfasal 2(d) bertujuan memasukkan beberapa subseksyen baru. Subseksyen baru (4B) secara nyata melarang kumpulan wang itu daripada digunakan bagi membayar apa-apa t u n t u t an pengarah, pengawal. sekutu atau subsidiarinya atau sekutu atau subsidiari sesuatu pertubuhan perbadanan yang penanggung insurans tak sotven itu ialah subsidiarinya. Seterusnya. sesuatu tuntutan hanya akan dibayar jika pelikuidasi diberitahu mengenai liabiliti itu dalam tempoh enam bulan dari tarikh perintah penggulungan itu atau dalam apa-apa tempoh lain yang dibenarkan oleh Ketua Pengarah.
+Subfasal 2(d) bertujuan memasukkan beberapa subseksyen baru. Subseksyen baru (4B) secara nyata melarang kumpulan wang itu daripada digunakan bagi membayar apa-apa tuntutan pengarah, pengawal. sekutu atau subsidiarinya atau sekutu atau subsidiari sesuatu pertubuhan perbadanan yang penanggung insurans tak sotven itu ialah subsidiarinya. Seterusnya. sesuatu tuntutan hanya akan dibayar jika pelikuidasi diberitahu mengenai liabiliti itu dalam tempoh enam bulan dari tarikh perintah penggulungan itu atau dalam apa-apa tempoh lain yang dibenarkan oleh Ketua Pengarah.
 
 Subseksyen baru (4c) dan (4D) memberi Ketua Pengarah kuasa untuk menentukan peratusan tuntutan atau perihalan tuntutan yang kena dibayar oleh sesuatu kumpulan wang skim jaminan insurans, termasuklah pengenaan suatu amaun maksimum ke atas tuntutan itu.
 
@@ -192,7 +192,7 @@ Subfasal 2(f) bertujuan memasukkan subseksyen baru (5A) untuk memperuntukkan dan
 
 ## RANG UNDANG-UNDANG
 
-membayar pihak menuntut secara pendahuluan atas penyerahhakan hak-hak pihak menuntut itu ke atas tuntutan itu dan atas penenmaan pihak menuntut akan amaun yang dibayar itu sebagai penjetasan penuh dan muktamad bagi tuntutan itu. Pembayaran awal ini oleh k u m p u l an wang akan mengurangkan kesusahan kepada pihak menuntut.
+membayar pihak menuntut secara pendahuluan atas penyerahhakan hak-hak pihak menuntut itu ke atas tuntutan itu dan atas penenmaan pihak menuntut akan amaun yang dibayar itu sebagai penjetasan penuh dan muktamad bagi tuntutan itu. Pembayaran awal ini oleh kumpulan wang akan mengurangkan kesusahan kepada pihak menuntut.
 
 5. Fasal 4 bertujuan memasukkan empat seksyen baru ke dalam Akta. iaitu, seksyen 29A hmgga 29D. Peruntukan-peruntukan baru ini adalah perlu untuk membolehkan Ketua Pengarah menyelia pelikuidasi dan mengawasi pelikuidasian seseorang penanggung insurans. Seksyen baru 29A bertujuan mengadakan peruntukan bagi pemakaian seksyen 29A dan 29B bagi pelikuidasian penanggung msurans yang sedia ada, iaitu, bagi First General Insurance Bhd. dan SEG Insurance Sdn. Bhd. yang pelikuidasiannya telah dimulakan tetapi belum selesai lagi. Seksyen baru 29B memperuntukkan bahawa tertakluk kepada suatu perintah Mahkamah, seseorang pelikuidasi selain daripada Pegawai Pemegang Harta hendaklah menjalankan fungsi-fungsinya di bawah arahan dan penyeliaan Ketua Pengarah. Ketua Pengarah boleh mengarahkan pelikuidasi supaya melantik orang tertentu untuk membantu pelikuidasi dalam penggulungan seseorang penanggung insurans tak solven. Seksyen baru 29c memperuntukkan bahawa seseorang pelikuidasi adalah dikehendaki menyerah simpan dengan Ketua Pengarah laporan awal dan borang ditetapkan yang dikehendaki diserah simpan olehnya dengan Mahkamah dan Pegawai Pemegang Harta masing-masingnya. la juga memberi Ketua Pengarah kuasa untuk menghendaki pengemukaan apa-apa laporan, akaun dan pernyataan lain yang ditentukan olehnya. Seksyen baru 29D memperuntukkan bahawa semua polisi yang dikeluarkan oleh seseorang penanggung insurans yang sedang dalam penggulungan hendaklah ditamatkan mulai dari tarikh perintah penggulungan itu. Peruntukan ini adalah perlu untuk melindungi kepentingan pemunya polisi dan pihak menuntutnya kerana seseorang penanggung insurans yang dalam penggulungan tidak dapat mengadakan perlindungan msurans atau membayar apa-apa tuntutan dengan memadai.
 

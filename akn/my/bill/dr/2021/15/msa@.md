@@ -614,7 +614,7 @@ lapan belas bulan dari tarikh pemfailan, atau jika hak prioriti dituntut, tarikh
 
 (b) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
-“( 1a) Sebagai tambahan kepada kehendak yang dinyatakan dalam subseksyen (1), suatu permohonan untuk mendapatkan lesen wajib di bawah perenggan 49(1a)(b) hendaklah mematuhi apa-apa kehendak lain sebagaimana yang ditetapkan.”;
+“(1a) Sebagai tambahan kepada kehendak yang dinyatakan dalam subseksyen (1), suatu permohonan untuk mendapatkan lesen wajib di bawah perenggan 49(1a)(b) hendaklah mematuhi apa-apa kehendak lain sebagaimana yang ditetapkan.”;
 
 <!-- marginal: 06/12/2021 8:45 PM -->
 

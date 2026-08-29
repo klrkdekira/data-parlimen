@@ -230,15 +230,15 @@ then M = 1/12 x (108/6%) = 1/12 x 1,800 = RM150
 
 <!-- page 9 -->
 
-3. ThereforeM-R=RM(150-50)=RM100
+3. Therefore M - R = RM(150 - 50) = RM100
 
 4. The monthly rental to be paid by the tenant to the landlord on the gradated increase based on paragraphs 1, 2 and 3 will be—
 
-(a) Year 1 = 50+(1/4x100) = 50+25 = RM75
+(a) Year 1 = 50 + (1/4 x 100) = 5 0 + 25 = RM75
 
-(b) Year 2 = 50+(1/2x100) = 50+50 = RM100
+(b) Year 2 = 50 + (1/2 x 100) = 5 0 + 50 = RM100
 
-(c) Year 3 = 50+(3/4x100) = 50 + 75 = RM125
+(c) Year 3 = 50 + (3/4 x 100) = 50 + 75 = RM125
 
 ## EXPLANATORY STATEMENT
 

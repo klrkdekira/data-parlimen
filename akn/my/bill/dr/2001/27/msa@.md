@@ -206,7 +206,7 @@ Kanun Tatacara Jenayah (Pindaan) 7
 
 2. Fasal 1 mengandungi tajuk ringkas dan peruntukan yang berkaitan dengan permulaan kuat kuasa Akta ini.
 
-3. Fasal 2 bertujuan u n t uk menggantikan gelaran jawatan "Medical Superintendent" dengan "Medical Director" selaras dengan pewujudan jawatan Pengarah Perubatan oleh Akta Kesihatan Mental 2001, dan memperuntukkan bahawa ungkapan "Medical Director" merangkumi "Deputy Medical Director". Pindaan ini adalah berbangkit daripada pembuatan Akta Kesihatan Mental 2001.
+3. Fasal 2 bertujuan untuk menggantikan gelaran jawatan "Medical Superintendent" dengan "Medical Director" selaras dengan pewujudan jawatan Pengarah Perubatan oleh Akta Kesihatan Mental 2001, dan memperuntukkan bahawa ungkapan "Medical Director" merangkumi "Deputy Medical Director". Pindaan ini adalah berbangkit daripada pembuatan Akta Kesihatan Mental 2001.
 
 4. Fasal 3 bertujuan untuk mengemaskmikan seksyen 108A dengan memotong sebutan tentang seksyen 108.
 

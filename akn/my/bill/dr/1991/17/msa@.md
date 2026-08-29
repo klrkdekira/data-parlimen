@@ -710,7 +710,7 @@ selepas tiga puluh satu haribulan Disember mana-mana tahun hendaklah, tidak lewa
 
 (2) Apabila diterimanya permohonan dan bayaran yang tersebut dalam subseksyen (1), Pendaftar hendaklah mengeluarkan suatu perakuan pengamalan tahunan kepada pemohon yang membenarkan pemohon menjalankan amaian sebagai juruoptik atau optometris dalarn tahun yang baginya perakuan itu dikeluarkan.
 
-(3) Tertakluk kepada subseksyen (4), sesuatu perakuan yang dikeluarkan di bawah subseksyen (2) hendaklah berkuatkuasa sehingga tiga p u l uh satu haribulan Disember tahun yang baginya perakuan itu dikeluarkan.
+(3) Tertakluk kepada subseksyen (4), sesuatu perakuan yang dikeluarkan di bawah subseksyen (2) hendaklah berkuatkuasa sehingga tiga puluh satu haribulan Disember tahun yang baginya perakuan itu dikeluarkan.
 
 (4) Seseorang orang berdaftar yang tidak memohon untuk mendapatkan suatu perakuan pengamalan tahunan mengikut cara dan dalam tempoh yang dinyatakan dalam subseksyen (1) boleh, apabila dia membuat permohonan dalam borang yang ditetapkan dan apabila dia membayar fee tambahan yang ditetapkan, diberi suatu perakuan
 
@@ -784,7 +784,7 @@ Akta ini adalah melakukan suatu kesalahan jika dia—
 
 (b) dengan sengaja dan dengan palsu berpura-pura menjadi seorang orang berdaftar; atau
 
-(c) dengan sengaja dan dengan palsu berpura-pura berkelayakan u n t uk menjalankan amalan optometri; atau
+(c) dengan sengaja dan dengan palsu berpura-pura berkelayakan untuk menjalankan amalan optometri; atau
 
 <!-- page 22 -->
 

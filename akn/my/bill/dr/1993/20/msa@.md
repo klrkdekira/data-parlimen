@@ -1280,7 +1280,7 @@ pernyataan balas atau bangkangan itu (fasal 22(c)) dan jika salah seorang tidak 
 
 <!-- page 43 -->
 
-25. Fasal 33 bertujuan meminda subseksyen 43(2) u n t uk menegaskan bahawa pengguna berdaftar yang membuat permohonan untuk membetulkan kesilapan atau mencatatkan apa- apa perubahan nama. alamat atau perihal pengguna berdaftar berbuat demikian hanya berhubungan dengan dirinya sahaja dan tidak berhubungan dengan pengguna berdaftar yang lain.
+25. Fasal 33 bertujuan meminda subseksyen 43(2) untuk menegaskan bahawa pengguna berdaftar yang membuat permohonan untuk membetulkan kesilapan atau mencatatkan apa- apa perubahan nama. alamat atau perihal pengguna berdaftar berbuat demikian hanya berhubungan dengan dirinya sahaja dan tidak berhubungan dengan pengguna berdaftar yang lain.
 
 26. Fasal 34 bertujuan membuat pelbagai pindaan kepada seksyen 46 supaya permohonan oleh orang yang terkilan di bawah seksyen itu untuk mendapatkan perintah untuk menghapuskan sesuatu cap dagangan daripada Daftar dibuat kepada Mahkamah sahaja, untuk meringankan beban Pendaftar. Pasal 34(b) bertujuan meminda subseksyen 46(2) untuk mengadakan peruntukan bagi hal keadaan jika pendaftaran sesuatu cap dagangan tidak perlu dihapuskan kerana tidak digunakan bagi kedua-dua barang dan perkhidmatan.
 

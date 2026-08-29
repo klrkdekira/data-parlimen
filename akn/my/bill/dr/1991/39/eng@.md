@@ -202,9 +202,9 @@ and solicitor in a professional capacity or otherwise which amounts to grave imp
 
 (d) breach of any rule of practice and etiquette of the profession made by the Bar Council under this Act or otherwise;
 
-(e) being adjudicated a bankrupt and being found g u i l ty of any of the acts or omissions mentioned in paragraph (a), (b), (c), (e), (f), (h), (k) or (I) of section Act 360 33 (6) of the Bankruptcy Act 1967;
+(e) being adjudicated a bankrupt and being found guilty of any of the acts or omissions mentioned in paragraph (a), (b), (c), (e), (f), (h), (k) or (I) of section Act 360 33 (6) of the Bankruptcy Act 1967;
 
-(f) the tendering or g i v i ng of any gratification to any person for having procured the employment in any legal business of himself or any other advocate and solicitor;
+(f) the tendering or giving of any gratification to any person for having procured the employment in any legal business of himself or any other advocate and solicitor;
 
 (g) directly or indirectly procuring or attempting to procure the employment of himself or any other advocate and solicitor through or by the instruction of any person to whom any remuneration for obtaining such employment has been given by him or agreed or promised to be so given;
 
@@ -332,7 +332,7 @@ declaration or affidavit that has been made in support of the application or com
 
 Disciplinary 102. (1) The Investigating Tribunal shall Board's determine and recommend to the Disciplinary considera- tion of Board any one of the following report by recommendations: Investi- gating
 
-(a) that a formal investigation is not Tribunal. necessary;
+(a) t h at a formal investigation is not Tribunal. necessary;
 
 (b) that no cause of sufficient gravity exists for a formal investigation but that the advocate and solicitor should be ordered to pay a penalty; or
 

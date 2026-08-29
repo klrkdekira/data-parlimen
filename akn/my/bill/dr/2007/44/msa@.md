@@ -194,7 +194,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 “(1a) Where gross income from a source in Malaysia of a company consists of any amount of discount or premium from the subscription or issuance of bond, as the case may be, and first becomes receivable in the relevant period, that amount shall be deemed to accrue over the whole period of the bond and the gross income of the company for the relevant period that relates to the period of the bond shall be a sum to be determined in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the number of days in the relevant period that falls within the period of the bond;
 
@@ -230,7 +230,7 @@ Provided that where a deduction has been made under this paragraph, no further d
 
 34c. (1) Notwithstanding section 33 but subject to this section, in ascertaining the adjusted income of a company from a source consisting of discount or premium, any expenses in respect of the discount or premium incurred on bond issued or subscribed, as the case may be, by that company is deemed to accrue to the company over the whole period of the bond and the amount to be deducted from the gross income from that source for the basis period for a year of assessment that relates to the period of the bond shall be a sum to be determined in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the number of days in the basis period for the year of assessment that falls within the period of the bond;
 

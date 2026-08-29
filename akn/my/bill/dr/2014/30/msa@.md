@@ -532,7 +532,7 @@ boleh memohon untuk didaftarkan sebagai Teknologis Profesional.
 
 (c) mematuhi semua kriteria yang ditentukan oleh Lembaga,
 
-boleh memo hon un tuk dida fta r ka n se ba g a i J uru te kn ik Bertauliah.
+boleh memohon untuk didaftarkan sebagai Juruteknik Bertauliah.
 
 (4) Selepas permohonan dibuat di bawah subseksyen (3), dan berdasarkan kepada kriteria sebagaimana yang ditentukan oleh Lembaga, Lembaga boleh meluluskan pendaftaran seseorang Juruteknik Berkelayakan sebagai Juruteknik Bertauliah.
 

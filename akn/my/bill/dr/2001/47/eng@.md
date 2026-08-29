@@ -310,7 +310,7 @@ C is his tax payable for that year of assessment.".
 
 (c) in subsection (14) —
 
-(i) in the definition of "due date", by substituting for the word "103A(12)" the word "103(12)(a); and
+(i) in the definition of "due date", by substituting for the word "103A(12)" the word " 1 0 3 ( 1 2 )( a ); and
 
 (ii) in the definition of "tax paid", by deleting the word "103A,"; and
 

@@ -470,7 +470,7 @@ IV
 
 (i) segala wang atau harta lain yang mungkin dengan apa-apa cara menjadi kena dibayar kepada, atau terletakhak pada, Lembaga berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi-fungsi, kuasa- kuasa dan kewajipan-kewajipannya.
 
-16. Maka adalah menjadi kewajipan Lembaga memelihara Kumpulan Wang dengan melaksanakan, menjalankan dan menunaikan fungsi-fungsi, kuasa-kuasa dan kewajipan-kewajipannya di bawah Akta ini untuk memastikan bahawa jumlah hasil Lembaga, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri, c u k up untuk membayar semua wang yang boleh dipertanggungkan dengan sepatutnya kepada akaun hasilnya, termasuk susut nilai dan bunga atas modal, dari setahun ke setahun.
+16. Maka adalah menjadi kewajipan Lembaga memelihara Kumpulan Wang dengan melaksanakan, menjalankan dan menunaikan fungsi-fungsi, kuasa-kuasa dan kewajipan-kewajipannya di bawah Akta ini untuk memastikan bahawa jumlah hasil Lembaga, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri, cukup untuk membayar semua wang yang boleh dipertanggungkan dengan sepatutnya kepada akaun hasilnya, termasuk susut nilai dan bunga atas modal, dari setahun ke setahun.
 
 17. Kumpulan Wang hendaklah dibelanjakan bagi maksud-maksud—
 
@@ -820,7 +820,7 @@ melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh 
 
 (d) hubungan antara perbadanan itu dengan Lembaga dan hak pengawalan Lembaga ke atas perbadanan itu.
 
-2. Tiada apa-apa jua dalam perenggan 1 boleh disifatkan sebagai memberikuasa Lembaga membuat peraturan-peraturan u n t uk menubuhkan apa-apa perbadanan bagi apa-apa maksud atau tujuan
+2. Tiada apa-apa jua dalam perenggan 1 boleh disifatkan sebagai memberikuasa Lembaga membuat peraturan-peraturan untuk menubuhkan apa-apa perbadanan bagi apa-apa maksud atau tujuan
 
 <!-- page 29 -->
 
@@ -1014,7 +1014,7 @@ IV
 
 43. Bahagian VIII memperkatakan perkara-perkara yang berhubungan dengan levi.
 
-44. Fa sal 35 bertujuan memberi Lembaga kuasa u n t uk mengenakan levi ke atas tiap-tiap kontraktor berdaftar sebelum bermulanya apa-apa kerja pembinaan yang mempunyai jumlah kontrak lima ratus ribu ringgit ke atas. Kadar levi hendaklah satu perempat peratus daripada jumlah kontrak. Menteri boleh melalui perintah yang disiarkan dalam Warta mengurangkan atau menaikkan kadar levi.
+44. Fasal 35 bertujuan memberi Lembaga kuasa untuk mengenakan levi ke atas tiap-tiap kontraktor berdaftar sebelum bermulanya apa-apa kerja pembinaan yang mempunyai jumlah kontrak lima ratus ribu ringgit ke atas. Kadar levi hendaklah satu perempat peratus daripada jumlah kontrak. Menteri boleh melalui perintah yang disiarkan dalam Warta mengurangkan atau menaikkan kadar levi.
 
 ## BAHAGIAN
 
@@ -1042,10 +1042,10 @@ pendakwaan bagi apa-apa kesalahan di bawah Akta boleh dimulakan kecuali dengan k
 
 <!-- page 36 -->
 
-52. Fasal 41 bertujuan memberi Menteri kuasa u n t uk mengecualikan, melalui perintah yang disiarkan dalam Warta, mana- mana orang atau golongan orang daripada semua atau mana-mana peruntukan Akta atau peraturan-peraturan yang dibuat di bawahnya.
+52. Fasal 41 bertujuan memberi Menteri kuasa untuk mengecualikan, melalui perintah yang disiarkan dalam Warta, mana- mana orang atau golongan orang daripada semua atau mana-mana peruntukan Akta atau peraturan-peraturan yang dibuat di bawahnya.
 
 53. Fasal 42 adalah peruntukan peralihan dan kecualian. Seseorang kontraktor, pekerja binaan mahir atau penyelia tapak binaan akan diberi suatu tempoh dua belas bulan dari tarikh mula berkuatkuasanya Akta untuk memohon bagi pendaftaran, atau akreditasi, pemerakuan dan pendaftaran, mengikut mana-mana yang berkenaan, di bawah Akta. Seseorang kontraktor yang menjalankan apa-apa kerja pembinaan menurut kontrak yang disempurnakan sebelum tarikh mula berkuatkuasanya Akta hendaklah dikecualikan daripada pembayaran apa-apa levi di bawah seksyen 35.
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam pcrbelanjaan wang tambahan yang a m a u n n ya belum dapat ditentukan sekarang ini. [PN. ( U2) 1788.]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam pcrbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN. ( U2) 1788.]

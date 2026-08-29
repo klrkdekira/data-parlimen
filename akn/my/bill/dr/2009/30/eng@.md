@@ -4632,7 +4632,7 @@ Co-operative a member of the board registered,
 
 society or other governing body, incorporated howsoever called, of the or otherwise co-operative society coming
 
-<!-- marginal: i n t o -->
+<!-- marginal: into -->
 
 legal existence as a co-operative society
 
@@ -4666,7 +4666,7 @@ constituting it
 
 <!-- marginal: owning -->
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 <!-- marginal: statutory body -->
 

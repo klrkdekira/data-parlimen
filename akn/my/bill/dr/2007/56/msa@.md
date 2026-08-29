@@ -586,7 +586,7 @@ Majlis Pembangunan Wilayah Ekonomi Pantai Timur 23
 
 (5) Selepas Pelan Induk Wilayah Ekonomi Pantai Timur diluluskan oleh Kerajaan-Kerajaan Negeri Kelantan, Terengganu, Pahang dan Johor—
 
-(a) berhubung dengan mana-mana kawasan di dalam Wilayah Ekonomi Pantai Timur yang rancangan tempatan baginya belum mendapat persetujuan Pihak Berkuasa Negeri di bawah Akta Perancangan Bandar dan Desa 1976, Jawatankuasa Perancang Negeri yang berkaitan bagi kawasan itu hendaklah memberi suatu arahan kepada pihak berkuasa perancang tempatan yang berkaitan di bawah perenggan I2(3)(b) dan subseksyen 12(8) Akta Perancangan Bandar dan Desa 1976 untuk memasukkan ke dalam draf rancangan tempatan bagi kawasan itu apa-apa kandungan Pelan Induk Wilayah Ekonomi Pantai Timur sebagaimana yang difikirkan berkaitan atau sesuai oleh Jawatankuasa Perancang Negeri itu; dan
+(a) berhubung dengan mana-mana kawasan di dalam Wilayah Ekonomi Pantai Timur yang rancangan tempatan baginya belum mendapat persetujuan Pihak Berkuasa Negeri di bawah Akta Perancangan Bandar dan Desa 1976, Jawatankuasa Perancang Negeri yang berkaitan bagi kawasan itu hendaklah memberi suatu arahan kepada pihak berkuasa perancang tempatan yang berkaitan di bawah perenggan I 2 ( 3 ) ( b ) dan subseksyen 12(8) Akta Perancangan Bandar dan Desa 1976 untuk memasukkan ke dalam draf rancangan tempatan bagi kawasan itu apa-apa kandungan Pelan Induk Wilayah Ekonomi Pantai Timur sebagaimana yang difikirkan berkaitan atau sesuai oleh Jawatankuasa Perancang Negeri itu; dan
 
 (b) berhubung dengan mana-mana kawasan di dalam Wilayah Ekonomi Pantai Timur yang rancangan tempatan baginya telah mendapat persetujuan Pihak Berkuasa Negeri, Jawatankuasa Perancang Negeri yang berkaitan bagi kawasan itu hendaklah memberi suatu arahan kepada pihak berkuasa perancang tempatan yang berkaitan di bawah subseksyen 16(2) Akta Perancangan Bandar dan Desa
 
@@ -1190,7 +1190,7 @@ Majlis Pembangunan Wilayah Ekonomi Pantai Timur 47
 
 (b) "sekutu", berhubung dengan seseorang anggota Majlis ertinya— (i) seseorang yang merupakan penama atau pekerja anggota itu; (ii) firma yang dalamnya anggota itu atau mana-mana penamanya merupakan seorang pekongsi; (iii) pekongsi anggota itu; (iv) pemegang, amanah sesuatu amanah yang di bawahnya anggota itu atau anggota keluarganya merupakan seorang benefisiari; atau
 
-(v) mana-mana perbadanan mengikut pengertian Akta Syarikat 1965 [Akta 125], yang baginya anggota itu atau mana-mana penamanya atau anggota keluarganya merupakan seorang pengarah atau mempunyai pemegangan syer yang substansial dalam perbadanan itu.
+(v) mana-mana perbadanan mengikut pengertian Akta Syarikat 1965 [Akta 1 2 5 ] , yang baginya anggota itu atau mana-mana penamanya atau anggota keluarganya merupakan seorang pengarah atau mempunyai pemegangan syer yang substansial dalam perbadanan itu.
 
 ### Mengambil bahagian secara langsung melalui talian video, dsb.
 

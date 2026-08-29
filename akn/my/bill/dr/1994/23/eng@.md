@@ -32,7 +32,7 @@ Amendment
 
 (b) by insening after subsection ( 2) the following subsection:
 
-"(2A) A levy which is payable u n d er subsection (2) shall be a debt due to an insurance guarantee scheme fund.";
+"(2A) A levy which is payable under subsection (2) shall be a debt due to an insurance guarantee scheme fund.";
 
 (c) by substituting for subsection (4) the following subsection:
 
@@ -72,7 +72,7 @@ Provided that any sum so withdrawn and utilised for the purpose of meeting the l
 
 <!-- page 4 -->
 
-## B I L L.
+## BILL.
 
 (4D) The Director General may impose a maximum arnount on a claim or a description of claims of an insolvent insurer which is puyable by an insurance guarantee scheme fund.
 
@@ -100,7 +100,7 @@ Provided that any sum so withdrawn and utilised for the purpose of meeting the l
 
 sources, and on such terms and condmons, as may be approved by the Minister in writing.
 
-Payment 12c. The Director General may. in his discretion, pay to the claimant of an insolvent and assagnment insurer the amount of dividend that may be declared by that insurer's liquidator together with the amount due from an insurance guarantee scheme fund subject to the claimant assigning all his rights in respect of the claim in favour of the insurance guarantee scheme fund and upon the claimant accepting that amount of payment from the insurance guarantee scheme f u nd in f u ll and f i n al settlement of his claim.".
+Payment 12c. The Director General may. in his discretion, pay to the claimant of an insolvent and assagnment insurer the amount of dividend that may be declared by that insurer's liquidator together with the amount due from an insurance guarantee scheme fund subject to the claimant assigning all his rights in respect of the claim in favour of the insurance guarantee scheme fund and upon the claimant accepting that amount of payment from the insurance guarantee scheme f u nd in f u ll and final settlement of his claim.".
 
 <!-- marginal: New section- -->
 
@@ -160,7 +160,7 @@ as the case may be, and shall participate in any distribution of dividend by the
 
 This B i ll seeks to amend the Insurance Act 1963 ("the Act").
 
-2. C/ause I seeks to provide the short title tor the B i i l.
+2. C/ause I seeks to provide the short title tor the Biil.
 
 5. Clause 2 seeks to amend section 12A of the Act. Subclause 2(d) seeks to amend subsection ( 2) to ciarify and extend the types of payments that would go into the insurance guarantee scheme funds.
 

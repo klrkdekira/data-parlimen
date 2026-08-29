@@ -54,7 +54,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) a Chairman appointed by
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 Yang di-Pertuan Agong, on the advice of Minister;
 

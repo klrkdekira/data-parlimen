@@ -38,7 +38,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (c) dalam teks bahasa Inggeris, dengan menggantikan perkataan "registered societies" dan "societies" di mana-mana jua terdapat masing-masing dengan perkataan "co-operative societies"; dan
 
-(d) dengan menggantikan perkataan "Ketua Pendaftar" di mana-mana j u a terdapat dengan perkataan "Suruhanjaya".
+(d) dengan menggantikan perkataan "Ketua Pendaftar" di mana-manajua terdapatdenganperkataan"Suruhanjaya".
 
 ### Pindaan seksyen 2
 

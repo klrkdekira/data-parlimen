@@ -32,7 +32,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. (1) Seksyen 2 Akta ibu dipinda-
 
-(a)dalamsubseksyen(1)-
+( a ) dalam subseksyen (1)-
 
 (i) dengan memotong takrif "aktiviti bukan perdagangan luar pesisir", "aktiviti perdagangan
 
@@ -90,7 +90,7 @@ berhubung dengan pemegangan obligasi hutang oleh suatu entiti Labuan dalam suatu
 
 <!-- marginal: ( f ) , -->
 
-berhubung dengan penjalanan apa-apa aktiviti dengan pemastautin di bawah subseksyen 7(4) Akta Syarikat Labuan 1990[Akta441],aktivitiitubolehlah dijalankan menggunakan mata wang Malaysia; dan
+berhubung dengan penjalanan apa-apa aktiviti dengan pemastautin di bawah subseksyen 7(4) Akta Syarikat Labuan 1990 [Akta 4 4 1 ] , aktiviti itu bolehlah dijalankan menggunakan mata wang Malaysia; dan
 
 (f) berhubung dengan penjalanan apa-apa transaksi lain, urusan
 
@@ -132,13 +132,13 @@ takrif "perkongsian
 
 perdagangan Labuan, entiti itu hendaklah disifatkan sebagai menjalankan suatu aktiviti perdagangan Labuan."; dan
 
-(c) dalamsubseksyen(3)-
+( c ) dalam subseksyen (3)-
 
-(i)dalamperenggan(a)dan(d),denganmenggantikan perkataan "aktiviti perniagaan luar pesisir" dan "suatu syarikat luar pesisir" masing-masing dengan perkataan "aktiviti perniagaan Labuan" dan "suatu entiti Labuan";
+(i) dalam perenggan ( a ) dan ( d ) , dengan menggantikan perkataan "aktiviti perniagaan luar pesisir" dan "suatu syarikat luar pesisir" masing-masing dengan perkataan "aktiviti perniagaan Labuan" dan "suatu entiti Labuan";
 
 selepas koma bernoktah di (ii) dengan memasukkan hujung perenggan ( a ) perkataan "dan"; dan
 
-(iii) denganmemotongperenggan(c).
+(iii) dengan memotong perenggan ( c ) .
 
 <!-- page 5 -->
 
@@ -270,11 +270,11 @@ pesisir", "suatu aktiviti perniagaan luar pesisir" dan "aktiviti perniagaan luar
 
 ( a ) dengan menggantikan perkataan "suatu syarikat luar pesisir" dengan perkataan "suatu entiti Labuan";
 
-(b)dalamperenggan(b),denganmenggantikanperkataan"Luar Pesisir" dengan perkataan "Labuan";
+( b ) dalam perenggan ( b ) , dengan menggantikan perkataan "Luar Pesisir" dengan perkataan "Labuan";
 
-(c)denganmemotongperkataan"dan"dihujungperenggan(f); dan
+( c ) dengan memotong perkataan "dan" di hujung perenggan ( f ) ; dan
 
-(d)denganmemasukkanselepasperenggan(g)perengganyang berikut:
+( d ) dengan memasukkan selepas perenggan ( g ) perenggan yang berikut:
 
 "(h) dalam hal suatu perkongsian terhad Labuan yang ditubuhkan di bawah Akta Perkongsian Terhad Labuan dan Perkongsian Liabiliti Terhad Labuan 2009 [Akta ] atau suatu perkongsian terhad Islam Labuan yang ditubuhkan di bawah Bahagian X Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009, pekongsi atau pekongsi-pekongsi umum;
 

@@ -798,7 +798,7 @@ Pindaan
 
 (c) dengan menggantikan ubahsuaian dalam perenggan 2 dalam ruang (2) berkenaan dengan seksyen 32 dengan yang berikut:
 
-'2. Gantikan "paten" dengan "perakuan perbaharuan u t i l i t i ';
+'2. Gantikan "paten" dengan "perakuan perbaharuan utiliti';
 
 (d) dengan memasukkan, selepas sebutan dalam ruang (1) mengenai seksyen 32 dan ubahsuaian dalam ruang (2) berkenaan dengan seksyen 32, peruntukan yang berikut:
 
@@ -838,7 +838,7 @@ dan peruntukan-peruntukan Akta ibu dan peraturan- peraturan yang dibuat di bawah
 
 Rang Undang-Undang ini bertujuan meminda Akta Paten 1983, yang disebut "Akta" dalam Huraian ini.
 
-2. Fasal 2 Rang Undang-Undang bertujuan meminda seksyen 3 Akta untuk memasukkan beberapa takrif baru. Takrif "tarikh pemfailan", "pemunya paten", "ditetapkan", "tarikh prioriti", "proses" dan "keluaran" dimasukkan u n t uk menghapuskan kesamaran.
+2. Fasal 2 Rang Undang-Undang bertujuan meminda seksyen 3 Akta untuk memasukkan beberapa takrif baru. Takrif "tarikh pemfailan", "pemunya paten", "ditetapkan", "tarikh prioriti", "proses" dan "keluaran" dimasukkan untuk menghapuskan kesamaran.
 
 3. Fasal 3 Rang Undang-Undang bertujuan meminda subseksyen 4(2) Akta. Pada masa ini semua anggota Lembaga Paten, termasuklah mereka yang mewakili badan-badan dan organisasi- organisasi yang khusus disebut dalam seksyen itu, dilantik oleh Menteri. Dengan pindaan yang dicadangkan itu, badan-badan dan organisasi-organisasi itu akan dapat melantik wakil mereka masing- masing.
 
@@ -852,7 +852,7 @@ Fasal 6 juga bertujuan menjelaskan bahawa jika kegunaan apa- apa bahan atau komp
 
 <!-- page 30 -->
 
-dilindungi di bawah Akta, dan dengan itu akan menggalakkan kemajuan teknologi di negara ini. Rekacipta-rekacipta telah juga dimasukkan ke dalam takrif baru yang dicadangkan ini kerana sebilangan perekacipta mungkin lebih suka memohon bagi mendapatkan perakuan perbaharuan u t i l i ti dan tidak bagi mendapatkan paten.
+dilindungi di bawah Akta, dan dengan itu akan menggalakkan kemajuan teknologi di negara ini. Rekacipta-rekacipta telah juga dimasukkan ke dalam takrif baru yang dicadangkan ini kerana sebilangan perekacipta mungkin lebih suka memohon bagi mendapatkan perakuan perbaharuan utiliti dan tidak bagi mendapatkan paten.
 
 6. Fasal 9 Rang Undang-Undang bertujuan memasukkan seksyen baru 17s yang membenarkan penukaran sesuatu permohonan bagi mendapatkan paten menjadi suatu permohonan bagi mendapatkan perakuan bagi perbaharuan utiliti, dan sebaliknya.
 
@@ -898,7 +898,7 @@ berkenaan dengan sesuatu paten, paten itu akan luput. Pindaan yang dicadangkan j
 
 21. Fasal 42 Rang Undang-Undang bertujuan memasukkan seksyen baru 83A ke dalam Akta untuk membolehkan Pendaftar memperakui bahawa mana-mana catatan, perkara atau benda yang dikehendaki dibuat atau dilakukan di bawah Akta telah dibuat atau dilakukan. la juga bertujuan mengadakan peruntukan bagi kebolehterimaan perakuan-perakuan sedemikian dalam semua mahkamah. Ini akan mempermudah prosiding-prosiding di mahkamah-mahkamah tentang perkara-perkara yang berhubungan dengan Akta.
 
-22. Fasal 44 Rang Undang-Undang bertujuan m e m i n da subseksyen 86(5) Akta untuk menghapuskan kehendak bahawa orang-orang yang tidak berdomisil atau mempunyai tempat kediaman di Malaysia mestilah memulakan atau hadir dalam sesuatu guaman berkenaan dengan paten mereka melalui ejen paten.
+22. Fasal 44 Rang Undang-Undang bertujuan meminda subseksyen 86(5) Akta untuk menghapuskan kehendak bahawa orang-orang yang tidak berdomisil atau mempunyai tempat kediaman di Malaysia mestilah memulakan atau hadir dalam sesuatu guaman berkenaan dengan paten mereka melalui ejen paten.
 
 <!-- page 33 -->
 

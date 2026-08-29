@@ -20,7 +20,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Pindaan seksyen 30
 
-2. Akta Bank Negara Malaysia 1958 [Akta 519], yang disebut "Akta ibu" dalam Akta i n i , dipinda dalam subseksyen 30(1) —
+2. Akta Bank Negara Malaysia 1958 [Akta 519], yang disebut "Akta ibu" dalam Akta ini, dipinda dalam subseksyen 30(1) —
 
 (a) dalam subperenggan (bb)(\) —
 

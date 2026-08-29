@@ -740,7 +740,7 @@ bertujuan memperuntukkan bahawa dalam mengira tempoh had masa ini, tempoh dalam 
 
 16. Fasal 35, 37, 40, 44 dan 48 bertujuan memasukkan pindaan yang seumpamanya masing-masing kepada seksyen 155, 157, 187, 194 dan 206. Pindaan itu dicadangkan untuk membenarkan peraturan- peraturan yang dibuat oleh Majlis Angkatan Tentera memperuntukkan perkara-perkara yang boleh dikeluarkan melalui Perintah Majlis Angkatan Tentera.
 
-17. Fasal 41 bertujuan memasukkan dua seksyen baru. Seksyen 187A memberikuasa penubuhan berbagai-bagai tabung u n t uk kebajikan dan faedah Angkatan Tentera serta keluarga mereka. Seksyen 187B memberi pengesahan kepada tabung yang ditubuhkan sebelum mula berkuatkuasanya Akta ini.
+17. Fasal 41 bertujuan memasukkan dua seksyen baru. Seksyen 187A memberikuasa penubuhan berbagai-bagai tabung untuk kebajikan dan faedah Angkatan Tentera serta keluarga mereka. Seksyen 187B memberi pengesahan kepada tabung yang ditubuhkan sebelum mula berkuatkuasanya Akta ini.
 
 18. Fasal 42 bertujuan meminda seksyen 188 Akta untuk memasukkan dasar baru mengenai pewujudan simpanan pegawai yang akan terpakai bag! semua pegawai yang pada atau selepas tarikh perlantikan masih berkhidmat dalam angkatan tetap.
 

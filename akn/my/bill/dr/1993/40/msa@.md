@@ -8,7 +8,7 @@
 
 bernama
 
-Suatu Akta u n t uk meminda Akta Perhubungan Perusahaan 1967.
+Suatu Akta untuk meminda Akta Perhubungan Perusahaan 1967.
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -298,7 +298,7 @@ yang dibuat di bawah Akta ibu sebelum mula berkuatkuasanya Akta ini dan seksyen 
 
 Rang Undang-Undang ini bertujuan meminda Akta Perhubungan Perusahaan 1967 ("Akta").
 
-2. Fasal 2 bertujuan meminda seksyen 2A Akta dengan menambahkan subseksyen baru (4). Subseksyen baru (4) memperuntukkan bahawa pegawai yang d i l a n t ik di bawah subseksyen 2A(2) hendaklah melaksanakan segala tugas yang dipertanggungjawabkan dan boleh menjalankan segala kuasa yang diberikan kepada Ketua Pengarah tertakluk kepada apa-apa sekatan yang boleh ditetapkan oleh peraturan-peraturan.
+2. Fasal 2 bertujuan meminda seksyen 2A Akta dengan menambahkan subseksyen baru (4). Subseksyen baru (4) memperuntukkan bahawa pegawai yang dilantik di bawah subseksyen 2A(2) hendaklah melaksanakan segala tugas yang dipertanggungjawabkan dan boleh menjalankan segala kuasa yang diberikan kepada Ketua Pengarah tertakluk kepada apa-apa sekatan yang boleh ditetapkan oleh peraturan-peraturan.
 
 3. Fasal 3 bertujuan memasukkan satu proviso baru kepada subseksyen 8(1). Proviso baru ini memperuntukkan bahawa peruntukan seksyen 20 hendaklah terpakai dalam segala kes pembuangan kerja. Ini adalah untuk mendapatkan keseragaman dalam mengendalikan kes pembuangan kerja tanpa mengambil kira alasan pembuangan kerja itu.
 
@@ -312,7 +312,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Perhubungan Perusahaan 1967 ("Akta
 
 Seksyen baru 9A menggantikan subseksyen 9(4A) dan (4B) yang sedia ada dan menyatakan dengan jelas langkah-langkah yang hendaklah diambil oleh Ketua Pengarah untuk memutuskan tuntutan bagi pengiktirafan. Melalui perenggan 9A(2)(a) Ketua Pengarah sekarang diberi kuasa untuk menentukan tempoh masa bagi pengemukaan maklumat yang relevan yang diperlukan sama ada daripada kesatuan sekerja pekerja atau majikan.
 
-Seksyen baru 9B adalah suatu peruntukan menyifatkan yang bertujuan untuk menyegerakan proses pemberian pengiktirafan dan u n t uk memberikan kemuktamadan kepada suatu
+Seksyen baru 9B adalah suatu peruntukan menyifatkan yang bertujuan untuk menyegerakan proses pemberian pengiktirafan dan untuk memberikan kemuktamadan kepada suatu
 
 <!-- marginal: tuntutan -->
 
@@ -348,4 +348,4 @@ tuntutan bagi pengiktirafan atau diberi pengiktirafan berhubung dengan pekerja y
 
 ## IMPLIKASI KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang a m a u n n ya belum dapat ditentukan sekarang ini. [PN. (PU2) 1729.]
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini. [PN. (PU2) 1729.]

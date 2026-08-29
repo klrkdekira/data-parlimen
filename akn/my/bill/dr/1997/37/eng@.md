@@ -162,9 +162,7 @@ by equal monthly instalments not exceeding one- fourth of the total monthly sala
 
 <!-- page 8 -->
 
-(7) For the purposes of subsection
-
-(1)(d), "accounting officer" includes every officer and servant who is charged with—
+(7) For the purposes of subsection ( 1 )( d ), "accounting officer" includes every officer and servant who is charged with—
 
 (a) the duty of collecting, receiving or accounting for, or who in fact collects, receives or accounts for, any moneys of the Fund;
 

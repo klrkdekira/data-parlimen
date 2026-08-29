@@ -52,7 +52,7 @@ memasukkan selepas takrif "kawalan kastam" takrif yang berikut:
 
 Rang Undang-Undang ini bertujuan meminda Akta Cukai Jualan 1972 ("Akta").
 
-2. Fasal 2 bertujuan meminda seksyen 1 Akta u n t uk memperuntukkan bahawa Akta Cukai Jualan 1972 tidaklah terpakai bagi kawasan yang dikenali sebagai Kawasan Pembangunan Bersama.
+2. Fasal 2 bertujuan meminda seksyen 1 Akta untuk memperuntukkan bahawa Akta Cukai Jualan 1972 tidaklah terpakai bagi kawasan yang dikenali sebagai Kawasan Pembangunan Bersama.
 
 3. Fasal 3 bertujuan meminda seksyen 2 Akta untuk memasukkan takrif bagi "Kawasan Pembangunan Bersama".
 

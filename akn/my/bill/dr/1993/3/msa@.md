@@ -204,7 +204,7 @@ member! notis secara bertulis kepada pengendali berlesen itu menghendakinya mema
 
 (2) Jika, apabila tamatnya tempoh yang ditetapkan dalam notis itu, pengendali berlesen itu gagal mematuhi syarat yang disebutkan dalamnya, Ketua Pengarah hendaklah mengemukakan kepada Menteri suatu laporan mengenai kegagalan oleh pengendali berlesen itu dan laporan itu hendaklah dalam bentuk yang difikirkan sesuai oleh Ketua Pengarah.
 
-(3) Jika, selepas menimbang laporan daripada Ketua Pengarah, Menteri berpuas hati bahawa pelanggaran- pelanggaran itu, atau pelanggaran-pelanggaran yang dibimbangkan itu, bersifat serius atau telah menjejaskan atau berkemungkinan menjejaskan kepentingan atau keselamatan awam, dan pengendali berlesen itu telah enggan u n t uk mengambil atau belum mengambil kesemua langkah yang didapati oleh Menteri adalah perlu bagi maksud memastikan pematuhan syarat yang berkenaan, Menteri boleh memberi notis kepada pengendali berlesen itu yang menyatakan bahawa dia bercadang untuk menggantungkan atau membatalkan, mengikut mana-mana yang berkenaan, lesen pengendali berlesen itu dan notis sedemikian hendaklah juga menyatakan—
+(3) Jika, selepas menimbang laporan daripada Ketua Pengarah, Menteri berpuas hati bahawa pelanggaran- pelanggaran itu, atau pelanggaran-pelanggaran yang dibimbangkan itu, bersifat serius atau telah menjejaskan atau berkemungkinan menjejaskan kepentingan atau keselamatan awam, dan pengendali berlesen itu telah enggan untuk mengambil atau belum mengambil kesemua langkah yang didapati oleh Menteri adalah perlu bagi maksud memastikan pematuhan syarat yang berkenaan, Menteri boleh memberi notis kepada pengendali berlesen itu yang menyatakan bahawa dia bercadang untuk menggantungkan atau membatalkan, mengikut mana-mana yang berkenaan, lesen pengendali berlesen itu dan notis sedemikian hendaklah juga menyatakan—
 
 (a) syarat lesen yang telah dilanggari oleh pengendali berlesen itu dan perbuatan- perbuatan atau peninggalan-peninggalan yang menjadi pelanggaran itu; dan
 
@@ -290,7 +290,7 @@ kaedah.
 
 ### memberi kepada pengendali berlesen itu suatu notis
 
-### yang menyatakan bahawa dia bercadang u n t uk
+### yang menyatakan bahawa dia bercadang untuk
 
 ### menggantungkan atau membatalkan, mengikut mana-
 

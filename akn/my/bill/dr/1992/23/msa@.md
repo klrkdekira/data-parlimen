@@ -124,7 +124,7 @@ ditetapkan oleh Menteri melalui pemberitahuan dalam Warta\ dan Menteri boleh men
 
 "pusat jagaan berkediaman" ertinya, tertakluk kepada seksyen 3, mana-mana premis di mana empat orang atau lebih diterima untuk jagaan sebagai penghuni-penghuni di dalamnya, sama ada untuk upah atau selatnnya; tetapi dalam hal premis yang dikendalikan atau diuruskan oleh orang sebenar, seseorang yang merupakan saudara kepada orang itu tidak boleh dikira dalam menentukan bilangan orang yang diterima di premis itu bagi maksud- maksud takrif ini;
 
-"pusat jagaan harian" ertinya, tertakluk kepada seksyen 3, mana-mana premis di mana empat orang atau lebih diterima u n t uk jagaan selama suatu tempoh berterusan yang melebihi tiga jam sehari di antara matahari terbit hingga matahari terbenam, dan selama sekurang-kurangnya tiga hari seminggu. sama ada untuk upah atau selainnya; tetapi dalam hal premis yang dikendalikan atau diuruskan oleh orang sebenar, seseorang yang merupakan saudara kepada orang itu tidak boleh dikira dalam menentukan bilangan orang yang diterima di premis itu bagi maksud-maksud takrif ini;
+"pusat jagaan harian" ertinya, tertakluk kepada seksyen 3, mana-mana premis di mana empat orang atau lebih diterima untuk jagaan selama suatu tempoh berterusan yang melebihi tiga jam sehari di antara matahari terbit hingga matahari terbenam, dan selama sekurang-kurangnya tiga hari seminggu. sama ada untuk upah atau selainnya; tetapi dalam hal premis yang dikendalikan atau diuruskan oleh orang sebenar, seseorang yang merupakan saudara kepada orang itu tidak boleh dikira dalam menentukan bilangan orang yang diterima di premis itu bagi maksud-maksud takrif ini;
 
 "saudara" ertinya penjaga di sisi undang-undang bagi orang yang berkenaan, alau seseorang yang, sama ada
 
@@ -206,7 +206,7 @@ Larangan
 
 (b) jika permohonan untuk pendattaran pusat jagaan itu dibuat dalam tempoh yang tersebut dalam perenggan ( a ), maka semasa suatu tempoh selanjutnya selepas berakhirnya tempoh itu sehingga habisnya tempoh tiga puluh hari dari tarikh pemohon diberitahu tentang keputusan enggan mendaftarkan pusat jagaan itu; dan
 
-(c) jika pemohon merayu kepada Menteri di bawah seksyen 22 dalam tempoh tiga p u l uh hari tersebut, maka semasa suatu tempoh selanjutnya selepas berakhirnya tempoh itu sehingga tarikh pemohon diberitahu tentang keputusan menolak rayuan itu.
+(c) jika pemohon merayu kepada Menteri di bawah seksyen 22 dalam tempoh tiga puluh hari tersebut, maka semasa suatu tempoh selanjutnya selepas berakhirnya tempoh itu sehingga tarikh pemohon diberitahu tentang keputusan menolak rayuan itu.
 
 Pendaftaran.
 
@@ -392,7 +392,7 @@ Kuasa meme-
 
 ## PUSAT JAGAAN
 
-(b) berkenaan dengan mana-mana premis sesuatu pusat jagaan berdaftar, sesuatu arahan di bawah seksyen 14 tidak dipatuhi dalam tempoh masa yang dinyatakan di bawah atau m e n u r ut subseksyen (2) (b) atau, mengikut mana-mana yang berkenaan, subseksyen (3) seksyen itu,
+(b) berkenaan dengan mana-mana premis sesuatu pusat jagaan berdaftar, sesuatu arahan di bawah seksyen 14 tidak dipatuhi dalam tempoh masa yang dinyatakan di bawah atau menurut subseksyen (2) (b) atau, mengikut mana-mana yang berkenaan, subseksyen (3) seksyen itu,
 
 Ketua Pengarah boleh, secara bertulis, memerintahkan supaya premis itu hendaklah terhenti daripada digunakan sebagai atau bagi sesuatu pusat jagaan bagi apa-apa tempoh sebagaimana difikirkannya perlu, atau sehingga notis selanjutnya.
 
@@ -498,7 +498,7 @@ yang pada masa perlakuan kesalahan itu adalah seorang
 
 <!-- marginal: ejen-ejen -->
 
-pengarah, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi pertubuhan perbadanan itu atau mana-mana orang yang berupa bertindak atas apa-apa sifat sedemikian, atau mana-mana orang yang dalam apa-apa cara atau sehingga apa-apa takat ber- tanggungjawab bagi pengurusan mana-mana hal ehwal pertubuhan perbadanan itu, atau membantu dalam pengurusan sedemikian, adalah melakukan suatu kesalahan melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuannya atau pembiarannya dan bahawa dia telah menjalankan usaha u n t uk mencegah berlakunya kesalahan itu sebagaimana
+pengarah, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi pertubuhan perbadanan itu atau mana-mana orang yang berupa bertindak atas apa-apa sifat sedemikian, atau mana-mana orang yang dalam apa-apa cara atau sehingga apa-apa takat ber- tanggungjawab bagi pengurusan mana-mana hal ehwal pertubuhan perbadanan itu, atau membantu dalam pengurusan sedemikian, adalah melakukan suatu kesalahan melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa persetujuannya atau pembiarannya dan bahawa dia telah menjalankan usaha untuk mencegah berlakunya kesalahan itu sebagaimana
 
 <!-- page 16 -->
 

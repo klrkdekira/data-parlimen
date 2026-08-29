@@ -322,7 +322,7 @@ Public funds.
 
 9. (1) No public fund shall carry on business or arrange or administer its affairs in or from within Labuan unless it has been granted registration under paragraph 11(1)(a).
 
-(2) The promoters for a proposed public fund to whom a provisional acceptance has been granted under paragraph 11(1)(b) shall not carry on business or arrange or administer its affairs without the prior written consent of the Authority.
+(2) The promoters for a proposed public fund to whom a provisional acceptance has been granted under paragraph 1 1 ( 1 )( b) shall not carry on business or arrange or administer its affairs without the prior written consent of the Authority.
 
 Application
 

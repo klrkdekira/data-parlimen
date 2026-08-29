@@ -2186,7 +2186,7 @@ The Malaysian Qualifications Agency Act 2007 ("the Act") proposed by this Bill s
 
 32. Clause 30 imposes a duty on the Agency to conserve the Fund.
 
-33. Clause 31 requires the Agency to prepare an estimate of i t s expenditure.
+33. Clause 31 requires the Agency to prepare an estimate of its expenditure.
 
 34. Clause 32 enables the Agency to borrow money.
 

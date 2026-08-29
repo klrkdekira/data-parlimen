@@ -218,7 +218,7 @@ to gain directly or indirectly, a benefit for himself or any other person, or ca
 
 (a) by substituting for subsection (1) the following subsection:
 
-"(1) Notwithstanding anything in the memorandum or articles of association of the company, the directors shall not carry into effect any arrangement or transaction f o r -
+"(1) Notwithstanding anything in the memorandum or articles of association of the company, the directors shall not carry into effect any arrangement or transaction for-
 
 (a) the acquisition of an undertaking or property of a substantial value; or
 
@@ -594,7 +594,7 @@ seeks to amend the Companies Act 1965 ("Act 125").
 
 3. Clause 2 seeks to amend section 11A of Act 125 to allow a statutory declaration to be filed or lodged with the Registrar electronically and to empower the Registrar to serve a notice on persons who do not comply with the requirement of service of documents under that section.
 
-4. Clause 3 seeks to introduce new sections 11B and l i e into Act 125. The new section 11B enables the Registrar to utilize electronic means of communication in relation to electronic filing or lodgement of documents to the Registrar whereas the new section lie provides for the evidentiary value of documents supplied and certified by the Registrar electronically.
+4. Clause 3 seeks to introduce new sections 11B and lie into Act 125. The new section 11B enables the Registrar to utilize electronic means of communication in relation to electronic filing or lodgement of documents to the Registrar whereas the new section lie provides for the evidentiary value of documents supplied and certified by the Registrar electronically.
 
 5. Clause 4 seeks to amend section 69i of Act 125 by deleting any reference to the Stock Exchange in relation to notification of or changes in substantial shareholding.
 

@@ -394,7 +394,7 @@ Pemeliharaan
 
 <!-- page 13 -->
 
-kuasa dan kewajipan-kewajipannya di bawah Akta ini u n t uk memastikan bahawa jumlah hasil Lembaga, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri, cukup untuk membayar semua wang yang boleh dipertanggungkan dengan sepatutnya kepada akaun hasilnya, termasuk susut nilai dan bunga atas modal, dari setahun ke setahun.
+kuasa dan kewajipan-kewajipannya di bawah Akta ini untuk memastikan bahawa jumlah hasil Lembaga, tertakluk kepada apa-apa arahan yang diberikan oleh Menteri, cukup untuk membayar semua wang yang boleh dipertanggungkan dengan sepatutnya kepada akaun hasilnya, termasuk susut nilai dan bunga atas modal, dari setahun ke setahun.
 
 <!-- marginal: Kumpulan -->
 
@@ -834,7 +834,7 @@ ditubuhkan;
 
 <!-- marginal: menubuhkan -->
 
-memberikuasa Lembaga membuat peraturan-peraturan u n t uk
+memberikuasa Lembaga membuat peraturan-peraturan untuk
 
 <!-- marginal: perbadanan. -->
 
@@ -874,7 +874,7 @@ Rang Undang-Undang ini bertujuan mewujudkan suatu pertubuhan perbadanan yang aka
 
 2. Bahagian I mengandungi perkara-perkara permulaan. Fasal 1 mengandungi tajuk ringkas dan peruntukan-peruntukan mengenai mula berkuatkuasanya Akta yang dicadangkan ini. Fasal 2 mengandungi takrif beberapa istilah yang digunakan dalam Rang Undang-Undang ini.
 
-3. Bahagian II mengandungi peruntukan-peruntukan yang berhubungan dengan Lembaga Pembangunan Labuan. Fasal 3 mengadakan peruntukan bagi penubuhan Lembaga itu, sementara fasal 4 memperkatakan fungsi-fungsinya dan kuasa-kuasanya. fasal 5 mengandungi peruntukan-peruntukan mengenai keanggotaan Lembaga. Fasal 8 bertujuan memberikan kuasa kepada Menteri untuk memberikan arahan-arahan kepada Lembaga. Fasal 9 mengandungi peruntukan-peruntukan yang memberikan kuasa kepada Menteri u n t uk menentukan kawasan yang di
+3. Bahagian II mengandungi peruntukan-peruntukan yang berhubungan dengan Lembaga Pembangunan Labuan. Fasal 3 mengadakan peruntukan bagi penubuhan Lembaga itu, sementara fasal 4 memperkatakan fungsi-fungsinya dan kuasa-kuasanya. fasal 5 mengandungi peruntukan-peruntukan mengenai keanggotaan Lembaga. Fasal 8 bertujuan memberikan kuasa kepada Menteri untuk memberikan arahan-arahan kepada Lembaga. Fasal 9 mengandungi peruntukan-peruntukan yang memberikan kuasa kepada Menteri untuk menentukan kawasan yang di
 
 <!-- page 28 -->
 

@@ -166,9 +166,7 @@ Government 5. (1) The Minister of Finance may, after consultation investment wit
 
 (5) Stamp duty shall not be chargeable—
 
-(a) in respect of any increase in the authorised share capital of the operating company which— (i) is effected at a time when the operating company was wholly owned by the Government; and (ii) is certified by the Treasury as having been effected by the issue of shares subscribed for by the Corporation under paragraph
-
-(1)(a);
+(a) in respect of any increase in the authorised share capital of the operating company which— (i) is effected at a time when the operating company was wholly owned by the Government; and (ii) is certified by the Treasury as having been effected by the issue of shares subscribed for by the Corporation under paragraph ( 1 )( a );
 
 (b) on any instrument which is certified by the Treasury as having been made or effected in pursuance of section 4.
 

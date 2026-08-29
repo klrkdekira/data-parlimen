@@ -998,7 +998,7 @@ Perkara 47 — Tandatangan, ratifikasi, penerimaan, kelulusan atau kesertaan
 
 Perkara 48 — Organisasi Integrasi Ekonomi Serantau
 
-1. Organisasi Integrasi Ekonomi Serantau yang dibentuk oleh Negara-Negara berdaulat dan mempunyai kompeten atas perkara tertentu yang tertakluk kepada Konvensyen ini boleh juga menandatangani, menerima, meluluskan dan menyertai Konvensyen ini. Organisasi Integrasi Ekonomi Serantau hendaklah dalam hal itu mempunyai hak dan obligasi Negara Pejanji, setakat yang Organisasi itu mempunyai kompeten atas perkara yang tertakluk kepada Konvensyen ini. Jika bilangan Negara Pejanji adalah berkaitan dalam Konvensyen i n i , Organisasi Integrasi Ekonomi Serantau tidak boleh dikira sebagai Negara Pejanji sebagai tambahan kepada Negara Anggota yang merupakan Negara Pejanji.
+1. Organisasi Integrasi Ekonomi Serantau yang dibentuk oleh Negara-Negara berdaulat dan mempunyai kompeten atas perkara tertentu yang tertakluk kepada Konvensyen ini boleh juga menandatangani, menerima, meluluskan dan menyertai Konvensyen ini. Organisasi Integrasi Ekonomi Serantau hendaklah dalam hal itu mempunyai hak dan obligasi Negara Pejanji, setakat yang Organisasi itu mempunyai kompeten atas perkara yang tertakluk kepada Konvensyen ini. Jika bilangan Negara Pejanji adalah berkaitan dalam Konvensyen ini, Organisasi Integrasi Ekonomi Serantau tidak boleh dikira sebagai Negara Pejanji sebagai tambahan kepada Negara Anggota yang merupakan Negara Pejanji.
 
 2. Organisasi Integrasi Ekonomi Serantau hendaklah, pada masa tandatangan, penerimaan, kelulusan atau kesertaan, membuat suatu pengisytiharan kepada Pemegang Simpanan dengan menyatakan perkara yang tertakluk kepada Konvensyen ini yang berkenaan dengannya kompeten telah berpindah kepada Organisasi itu oleh Negara Anggotanya. Organisasi Integrasi Ekonomi Serantau
 
@@ -1410,7 +1410,7 @@ Perkara XI — Remedi atas ketidakmampuan bayar
 
 Alternatif A
 
-2. Apabila berlaku peristiwa yang berkaitan dengan ketidakmampuan bayar, pentadbir ketidakmampuan bayar atau penghutang, mengikut mana-mana yang berkenaan, hendaklah, tertakluk kepada perenggan 7, memberikan milikan objek pesawat udara i t u kepada pemiutang tidak lewat daripada masa yang lebih awal:
+2. Apabila berlaku peristiwa yang berkaitan dengan ketidakmampuan bayar, pentadbir ketidakmampuan bayar atau penghutang, mengikut mana-mana yang berkenaan, hendaklah, tertakluk kepada perenggan 7, memberikan milikan objek pesawat udara itu kepada pemiutang tidak lewat daripada masa yang lebih awal:
 
 (a) berakhirnya tempoh menunggu; dan
 

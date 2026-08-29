@@ -140,7 +140,7 @@ Charitable Trusts
 
 ## (FEDERAL TERRITORIES)
 
-## P A R TX
+## PARTX
 
 ## RELIGIOUS EDUCATION
 
@@ -160,7 +160,7 @@ Charitable Trusts
 
 ## A BILL
 
-intituled
+i nti t ul e d
 
 An Act to provide for the Federal Territories a law concerning the enforcement and administration of Islamic Law, the constitution and organization of the Syariah Courts, and related matters, [ ]
 
@@ -1098,7 +1098,7 @@ Establish-
 
 <!-- page 33 -->
 
-## ( F E D E R AL TERRITORIES)
+## (FEDERAL TERRITORIES)
 
 (2) All moneys and properties in the Fund shall be vested in the Majlis which shall administer all such moneys and properties in accordance with rules made under this Act:
 

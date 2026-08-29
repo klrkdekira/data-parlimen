@@ -120,7 +120,7 @@ Pindaan
 
 (a) dengan memasukkan, selepas sahaja perkataan "segala terimaan berkenaan dengan" dalam subseksyen (1) (c), perkataan "apa-apa lesen yang dikeluarkan atau"; dan
 
-(b) dengan menggantikan perkataan "sebelum tarikh yang ditetapkan" dalam subseksyen (l)(c)(ii) dengan perkataan "kepada pihakberkuasa penerbangan awam selepas tarikh perpindahan".
+(b) dengan menggantikan perkataan "sebelum tarikh yang ditetapkan" dalam subseksyen ( l ) ( c ) ( i i) dengan perkataan "kepada pihakberkuasa penerbangan awam selepas tarikh perpindahan".
 
 9. Akta ibu adalah dipinda dengan memotong seksyen 18. Pemotongan seksyen 18.
 
@@ -150,7 +150,7 @@ Kuasa 24A. (1) Menteri boleh memberikan lesen Menteri kepada sesuatu syarikat ya
 
 (a) tugas yang akan dijalankan atau perkhidmatan-perkhidmatan yang akan diadakan oleh syarikat itu; dan sebutan- sebutan dalam Akta ini mengenai mana- mana perkhidmatan lapangan terbang dan penerbangan ialah sebutan-sebutan mengenai perkhidmatan-perkhidmatan yang diadakan sedemikian oleh syarikat itu;
 
-(b) pematuhan oleh syarikat itu akan standard- standard prestasi yang ditetapkan oleh Ketua Pengarah di bawah perenggan 2B(l)(a);
+(b) pematuhan oleh syarikat itu akan standard- standard prestasi yang ditetapkan oleh Ketua Pengarah di bawah perenggan 2 B ( l ) ( a );
 
 (c) lapangan terbang atau lapangan-lapangan terbang yang akan dikendalikan oleh syarikat itu; dan sebutan-sebutan dalam Akta ini mengenai mana-mana lapangan
 
@@ -184,7 +184,7 @@ Dengan syarat bahawa permohonan itu hendaklah dibuat sebelum habis tempoh tiga p
 
 (5) Menteri hendaklah menimbangkan permohonan itu dalam masa tiga bulan dari pengemukaannya.
 
-Menteri 24D. Jika Menteri meluluskan memorandum, hendaklah dengan atau tanpa apa-apa ubahsuaian, dia membuat peraturan- hendaklah dengan seberapa segera yang praktik peraturan membuat peraturan-peraturan di bawah berkenaan perenggan 3 (2) (n) dan (nn) berkenaan dengan dengan perubaban perubahan pada caj-caj dan fee-fee yang sedia pada caj- ada. caj dan fee-fee. Kewajipan- 24E. (1) Adalah menjadi kewajipan syarikat kewajipan berlesen untuk memastikan bahawa am syarikat berlesen. perkhidmatan-perkhidmatan yang diadakan olehnya menepati standard-standard prestasi yang ditetapkan oleh Ketua Pengarah di bawah perenggan 2B(1)(a).
+Menteri 24D. Jika Menteri meluluskan memorandum, hendaklah dengan atau tanpa apa-apa ubahsuaian, dia membuat peraturan- hendaklah dengan seberapa segera yang praktik peraturan membuat peraturan-peraturan di bawah berkenaan perenggan 3 (2) (n) dan (nn) berkenaan dengan dengan perubaban perubahan pada caj-caj dan fee-fee yang sedia pada caj- ada. caj dan fee-fee. Kewajipan- 24E. (1) Adalah menjadi kewajipan syarikat kewajipan berlesen untuk memastikan bahawa am syarikat berlesen. perkhidmatan-perkhidmatan yang diadakan olehnya menepati standard-standard prestasi yang ditetapkan oleh Ketua Pengarah di bawah perenggan 2 B ( 1 ) ( a ).
 
 (2) Syarikat berlesen hendaklah memberikan perhatian yang sewajarnya kepada kecekapan, keekonomian dan keselamatan pengendalian
 

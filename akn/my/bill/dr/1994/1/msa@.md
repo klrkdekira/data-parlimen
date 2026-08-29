@@ -112,7 +112,7 @@ II
 
 ## AKADEMI SAINS MALAYSIA
 
-Penubuhan 3, Maka adalah dengan ini ditubuhkan suatu akademi Akademi. bernama "Akademi Sains Malaysia" yang hendaklah menjadi suatu pertubuhan perbadanan yang kekal turun- temurun dan mempunyai suatu meterai biasa, dan yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat k o n t r ak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati harta alih dan harta tak alih daripada tiap-tiap perihalan dan boleh memindahhak, menyerahhak, menyerahkan, memulangkan, menggadai, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan,
+Penubuhan 3, Maka adalah dengan ini ditubuhkan suatu akademi Akademi. bernama "Akademi Sains Malaysia" yang hendaklah menjadi suatu pertubuhan perbadanan yang kekal turun- temurun dan mempunyai suatu meterai biasa, dan yang boleh mendakwa dan didakwa atas nama perbadanannya dan, tertakluk kepada dan bagi maksud-maksud Akta ini, boleh membuat kontrak dan boleh memperolehi, membeli, mengambil, memegang dan menikmati harta alih dan harta tak alih daripada tiap-tiap perihalan dan boleh memindahhak, menyerahhak, menyerahkan, memulangkan, menggadai, menggadai-janji, mendemis, menyerahhakkan semula, memindahmilikkan atau dengan apa-apa cara lain melupuskan,
 
 <!-- marginal: atau -->
 

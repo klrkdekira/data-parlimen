@@ -104,7 +104,7 @@
 
 ## FIDELITY FUND
 
-57. Interpretation. 58. Establishment of fidelity fund. 59. Fidelity fund committee. 60. Money constituting fidelity fund. 61. Fidelity fund to be kept in separate account. 62. Payments out of fidelity fund. 63. Accounts of fidelity fund. 64. Contributions to Cidelity fund. 65.. Power of exchange company to make advances to fidelily fund. 66. Investment of money in the Cidelity fund. 67. Claims against the fidelity fund. 68. Limits on compensation. 69. Notice calling for claims against the fidelity fund. 70. Power of exchange company in respect of claims. 71. Exchange company may require production of documents, etc. 72. R i g ht of appeal against determination of the exchange company. 73. Subrogation of the exchange company to rights, etc., of claimant upon payment from fidelity fund. 74. Payment of claims only from fidelity fund. 75. Provision where fidelity fund insufficient to meet claims or where claims exceed total amount payable.
+57. Interpretation. 58. Establishment of fidelity fund. 59. Fidelity fund committee. 60. Money constituting fidelity fund. 61. Fidelity fund to be kept in separate account. 62. Payments out of fidelity fund. 63. Accounts of fidelity fund. 64. Contributions to Cidelity fund. 65.. Power of exchange company to make advances to fidelily fund. 66. Investment of money in the Cidelity fund. 67. Claims against the fidelity fund. 68. Limits on compensation. 69. Notice calling for claims against the fidelity fund. 70. Power of exchange company in respect of claims. 71. Exchange company may require production of documents, etc. 72. Right of appeal against determination of the exchange company. 73. Subrogation of the exchange company to rights, etc., of claimant upon payment from fidelity fund. 74. Payment of claims only from fidelity fund. 75. Provision where fidelity fund insufficient to meet claims or where claims exceed total amount payable.
 
 <!-- page 4 -->
 
@@ -638,7 +638,7 @@ Trading in 13. (1) Notwithstanding any other provision of this Act, futures no p
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and is liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.
 
-Prevention 14. (1) Where trading in any f u t u r es contract is of entry suspended under section 8 or 10 or where a futures into a futures exchange is closed under section 9 for the transaction exchange. of any trading in futures contracts, any officer of the Commission authorised in writing or any police officer not below the rank of Inspector may, during the period of suspension or closure, take such steps as may be necessary to ensure that the premises or facilities of the
+Prevention 14. (1) Where trading in any futures contract is of entry suspended under section 8 or 10 or where a futures into a futures exchange is closed under section 9 for the transaction exchange. of any trading in futures contracts, any officer of the Commission authorised in writing or any police officer not below the rank of Inspector may, during the period of suspension or closure, take such steps as may be necessary to ensure that the premises or facilities of the
 
 <!-- page 21 -->
 

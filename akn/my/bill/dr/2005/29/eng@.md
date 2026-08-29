@@ -1546,7 +1546,7 @@ item and it appears to the court that the same has been sold to a registered dea
 
 96. ( 1 ) Any person may, within thirty days from the date of the notification of the decision of the Commissioner, appeal in writing to the Minister if that person is aggrieved—
 
-(a) by the decision of the Commissioner to designate or not to designate a site as a heritage s i t e under section 31;
+(a) by the decision of the Commissioner to designate or not to designate a site as a heritage site under section 31;
 
 <!-- page 56 -->
 

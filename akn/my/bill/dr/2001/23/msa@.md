@@ -238,7 +238,7 @@ Jawatan- 6A. (1) Majlis boleh dari semasa ke semasa, selepas kuasa berunding den
 
 (a) untuk menasihati dan membantu Jawatankuasa Perancang Negeri dan pihak berkuasa perancang tempatan dalam wilayah itu mengenai rancangan pemajuan yang sesuai bagi wilayah itu, mengikut dasar negara;
 
-(b) u n t uk membuat dasar dan merangka suatu rancangan wilayah yang komprehensif untuk memandu dan menyelaras pemajuan wilayah itu;
+(b) untuk membuat dasar dan merangka suatu rancangan wilayah yang komprehensif untuk memandu dan menyelaras pemajuan wilayah itu;
 
 (c) untuk merancang dan menyelaras penyediaan infrastruktur dan kemudahan bagi wilayah itu;
 
@@ -668,7 +668,7 @@ pembinaan empangan, stesen jana kuasa utama dan tapak pembuangan sisa toksik.";
 
 <!-- marginal: perenggan -->
 
-<!-- marginal: (2)(aa)"; -->
+<!-- marginal: ( 2 )( a a ) "; -->
 
 dan
 

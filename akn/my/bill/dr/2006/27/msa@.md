@@ -1356,7 +1356,7 @@ Akta Suruhanjaya Koperasi Malaysia 2006 ("Akta") yang dicadangkan oleh Rang Unda
 
 24. Fasal 22 memperuntukkan bahawa Lembaga atau jawatankuasa hendaklah menyebabkan minit semua mesyuarat mereka disenggara dan disimpan dalam bentuk yang sewajarnya.
 
-25. Bahagian I I I Rang Undang-Undang memperkatakan mengenai kuasa Suruhanjaya.
+25. Bahagian III Rang Undang-Undang memperkatakan mengenai kuasa Suruhanjaya.
 
 26. Fasal 23 memperuntukkan bahawa Suruhanjaya hendaklah mempunyai kesemua kuasa yang diperuntukkan di bawah Akta, Akta Koperasi 1993 atau mana-mana undang-undang bertulis lain, termasuk untuk menasihati Menteri mengenai perkara yang bersangkutan dengan objektif dasar negara mengenai pergerakan koperasi, pelaksanaan dan penguatkuasaan peruntukan Akta, Akta Koperasi 1993 atau mana-mana undang-undang bertulis lain yang dikuatkuasakan oleh Suruhanjaya.
 

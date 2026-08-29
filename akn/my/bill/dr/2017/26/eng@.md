@@ -522,7 +522,7 @@ or (6), continue to engage in property management practice or business within th
 
 (B) in subparagraph (ii)—
 
-(aa) in subsubparagraph (B), by substituting for the words “registered appraisals, registered valuers and registered estate agents” the words “registered appr aise rs , reg is te re d v a luer s, registered estate agents and registered property managers”; and
+(aa) in subsubparagraph (B), by substituting for the words “registered appraisals, registered valuers and registered estate agents” the words “registered appraisers, registered valuers, registered estate agents and registered property managers”; and
 
 (bb) in subsubparagraph (C), by deleting the word “and” at the end of the subsubparagraph;
 

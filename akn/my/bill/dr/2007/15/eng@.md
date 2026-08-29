@@ -332,7 +332,7 @@ Amendment of section 2
 
 4D. (1) The Minister, with the concurrence in writing of the Minister of Finance, may from time to time determine such activity or product as he may deem fit to be a promoted activity or promoted product for selected industries.
 
-(2) A l i s t of the activities or products under subsection (1) and the commencement dates of such activities or products as promoted activities or promoted products shall be prescribed in the statutory order published in the Gazette,
+(2) A list of the activities or products under subsection (1) and the commencement dates of such activities or products as promoted activities or promoted products shall be prescribed in the statutory order published in the Gazette,
 
 (3) The Minister, with the concurrence in writing of the Minister of Finance, may from time to time review the list of promoted activities or products under subsection (1) and may make additions, variations or amendments to or deletions from that list of promoted activities or promoted products.
 
@@ -1972,6 +1972,6 @@ This new section also provides for investment tax allowance of fifty per cent of
 
 ## FINANCIAL IMPLICATIONS
 
-This B i l l will not involve the Government in any extra financial expenditure.
+This Bill will not involve the Government in any extra financial expenditure.
 
 [PN(U2) 2398]

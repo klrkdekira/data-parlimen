@@ -40,7 +40,7 @@ Rang Undang-Undang
 
 125. Pecahan 5 Bahagian IV Akta Syarikat 1965 terpakai jika apa-apa wang yang diperdapatkan diniatkan untuk digunakan berhubungan dengan perdagangan dalam kontrak niaga hadapan; atau
 
-(c) yang menawarkan kepada mana-mana orang u n t uk memohon beli, atau mempelawa mana-mana orang untuk memohon beli kepentingan yang memberikan hak kepada orang itu untuk turut serta sebagai seorang benefisiari di bawah suatu amanah dalam keuntungan atau pendapatan yang terdiri daripada atau termasuk keuntungan atau pendapatan yang terhasil daripada perdagangan dalam kontrak niaga hadapan,
+(c) yang menawarkan kepada mana-mana orang untuk memohon beli, atau mempelawa mana-mana orang untuk memohon beli kepentingan yang memberikan hak kepada orang itu untuk turut serta sebagai seorang benefisiari di bawah suatu amanah dalam keuntungan atau pendapatan yang terdiri daripada atau termasuk keuntungan atau pendapatan yang terhasil daripada perdagangan dalam kontrak niaga hadapan,
 
 <!-- page 3 -->
 
@@ -212,7 +212,7 @@ membayar wang itu atau mendepositkan harta itu ke dalam suatu akaun amanah yang 
 
 (c) suatu catatan yang berasingan dalam buku hendaklah direkodkan dan disenggara olehnya bagi setiap klien mengikut Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini, berhubungan dengan wang atau harta klien itu.
 
-52F. (1) Seseorang pengurus kumpulan wang niaga hadapan hendaklah membekalkan, apabila diminta, kepada kliennya atau mana-mana orang yang diberi kuasa oleh klien itu, salinan segala catatan dalam b u k u n ya buku berhubungan dengan apa-apa transaksi. nota '
+52F. (1) Seseorang pengurus kumpulan wang niaga hadapan hendaklah membekalkan, apabila diminta, kepada kliennya atau mana-mana orang yang diberi kuasa oleh klien itu, salinan segala catatan dalam bukunya buku berhubungan dengan apa-apa transaksi. nota '
 
 (2) Seseorang klien seorang pengurus kumpulan wang niaga hadapan berhak untuk memeriksa, sama ada sendiri atau melalui ejennya, mana-mana nota kontrak dan pernyataan-pernyataan lain berhubungan dengan apa-apa transaksi secara percuma.
 

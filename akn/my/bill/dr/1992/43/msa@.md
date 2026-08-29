@@ -688,7 +688,7 @@ prosedur dan amalannya sendiri.
 
 <!-- marginal: Kuasa Majlis, -->
 
-31. Majlis hendaklah membantu dan menasihati Yang di-Pertuan Agong berkenaan dengan semua perkara yang berhubungan dengan agama Islam di dalam Wilayah-Wilayah Persekutuan, kecuali perkara-perkara H u k um Syarak dan yang berhubungan dengan pentadbiran keadilan, dan dalam semua perkara sedemikian hendaklah menjadi pihak berkuasa utama di dalam Wilayah-Wilayah Persekutuan selepas Yang di- Pertuan Agong, kecuali jika diperuntukkan selainnya dalam Akta ini.
+31. Majlis hendaklah membantu dan menasihati Yang di-Pertuan Agong berkenaan dengan semua perkara yang berhubungan dengan agama Islam di dalam Wilayah-Wilayah Persekutuan, kecuali perkara-perkara Hukum Syarak dan yang berhubungan dengan pentadbiran keadilan, dan dalam semua perkara sedemikian hendaklah menjadi pihak berkuasa utama di dalam Wilayah-Wilayah Persekutuan selepas Yang di- Pertuan Agong, kecuali jika diperuntukkan selainnya dalam Akta ini.
 
 <!-- page 23 -->
 
@@ -806,7 +806,7 @@ bawah seksyen 38, Mufti hendaklah pada lazimnya mengikut pandangan-pandangan dit
 
 muktamad) Mazhab Syafie.
 
-(2) Jika Mufti berpendapat bahawa dengan mengikut qaul muktamad Mazhab Syafie akan membawa kepada keadaan yang berlawanan dengan kepentingan awam, M u f ti bolehlah mengikut qaul muktamad Mazhab Hanafi, Maliki atau Hanbali.
+(2) Jika Mufti berpendapat bahawa dengan mengikut qaul muktamad Mazhab Syafie akan membawa kepada keadaan yang berlawanan dengan kepentingan awam, Mufti bolehlah mengikut qaul muktamad Mazhab Hanafi, Maliki atau Hanbali.
 
 (3) Jika Mufti berpendapat bahawa tiada satu pun qaul muktamad daripada empat Mazhab itu boleh diikuti tanpa membawa kepada keadaan yang berlawanan dengan kepentingan awam, Mufti
 
@@ -958,7 +958,7 @@ tetapi tiada rayuan boleh dibuat terhadap keputusan yang telah dibuat dengan per
 
 (2) Dalam mana-mana rayuan, Mahkamah Tinggi Syariah boleh—
 
-(a) dalam perkara jenayah, menolak r a y u a n, mensabitkan dan menghukum pihak yang merayu, memerintahkan Mahkamah perbicaraan memanggil pembelaan atau membuat siasatan lanjut, menambah atau meminda bentuk hukuman, memerintahkan perbicaraan semula, atau meminda, atau mengakaskan apa-apa perintah Mahkamah perbicaraan;
+(a) dalam perkara jenayah, menolak rayuan, mensabitkan dan menghukum pihak yang merayu, memerintahkan Mahkamah perbicaraan memanggil pembelaan atau membuat siasatan lanjut, menambah atau meminda bentuk hukuman, memerintahkan perbicaraan semula, atau meminda, atau mengakaskan apa-apa perintah Mahkamah perbicaraan;
 
 (b) dalam perkara mal, mengesahkan, mengakaskan atau mengubah keputusan Mahkamah perbicaraan, menjatankan mana-mana kuasa yang boleh dijalankan oleh Mahkamah perbicaraan, membuat apa-apa perintah yang sepatutnya dibuat oleh Mahkamah perbicaraan, atau memerintahkan perbicaraan semula.
 
@@ -1050,7 +1050,7 @@ Syariah hendaklah didengar dan dibereskan oleh seorang
 
 pengerusi dan mana-mana dua orang Hakim Mahkamah Rayuan Syariah sebagaimana yang ditentukan oleh Ketua Hakim Syarie.
 
-(2) Walau apa pun seksyen 42 Akta ini, Ketua Hakim Syarie boleh melantik mana-mana Hakim Mahkamah Tinggi Syariah u n t uk menjadi seorang anggota
+(2) Walau apa pun seksyen 42 Akta ini, Ketua Hakim Syarie boleh melantik mana-mana Hakim Mahkamah Tinggi Syariah untuk menjadi seorang anggota
 
 <!-- page 34 -->
 
@@ -1300,7 +1300,7 @@ Penyeng- 74. (1) Majlis hendaklah memastikan bahawa semua garaan masjid masjid d
 
 (4) Majlis boleh mengarahkan sesuatu jawatankuasa kariah supaya menyenggarakan masjid yang di bawah tanggungjawabnya di dalam keadaan pembaikan yang sepatutnya.
 
-Sempadan 75. Majlis boleh pada bila-bila masa m e l a l ui kariah pemberitahuan dalam Warta menentukan, meminda, masjid. atau mengubah sempadan mana-mana kariah masjid.
+Sempadan 75. Majlis boleh pada bila-bila masa melalui kariah pemberitahuan dalam Warta menentukan, meminda, masjid. atau mengubah sempadan mana-mana kariah masjid.
 
 Perlantikan 76. (1) Bagi tiap-tiap masjid dalam Wilayah-Wilayah Pegawai Persekutuan hendaklah dilantik seorang Naqib Masjid, Masjid. seorang Imam, seorang Imam Ratib, seorang Bilal dan seorang Pembantu Bilal.
 
@@ -1330,7 +1330,7 @@ Perlantikan 76. (1) Bagi tiap-tiap masjid dalam Wilayah-Wilayah Pegawai Persekut
 
 ditamatkan melalui notis daripada Majlis.
 
-(2) Tiada seorang pun Imam Ratib dan Pembantu B i l al boleh terus memegang jawatan itu selepas mencapai umur enam puluh tahun.
+(2) Tiada seorang pun Imam Ratib dan Pembantu Bilal boleh terus memegang jawatan itu selepas mencapai umur enam puluh tahun.
 
 (3) Adalah menjadi kewajipan Setiausaha untuk membawa kepada pengetahuan Majlis apa-apa kelakuan keji mana-mana Pegawai Masjid, sama ada berhubungan dengan tugas-tugasnya sebagai yang demikian atau selainnya, dan untuk membuat apa-apa syor yang munasabah.
 
@@ -1458,7 +1458,7 @@ yang sama seperti mana-mana orang Islam yang lain.
 
 <!-- marginal: - Daftar Muallaf. -->
 
-oleh Majlis untuk menyenggarakan suatu Daftar Muallaf dalam bentuk yang ditetapkan u n t uk pendaftaran muallaf.
+oleh Majlis untuk menyenggarakan suatu Daftar Muallaf dalam bentuk yang ditetapkan untuk pendaftaran muallaf.
 
 <!-- marginal: Pendaftaran -->
 
@@ -1692,7 +1692,7 @@ bila-bila masa meminda, membatalkan atau menambah kepada apa- apa perintah yang 
 
 <!-- marginal: Datuk perbadanan- -->
 
-4. Majlis h e n d a k l ah menyimpan satu daftar bagi semua
+4. Majlis hendaklah menyimpan satu daftar bagi semua
 
 <!-- marginal: perbadanan. -->
 

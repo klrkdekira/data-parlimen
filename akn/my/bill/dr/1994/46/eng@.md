@@ -510,7 +510,7 @@ appropriate, and the punishments so provided may extend to dismissal or reductio
 
 (a) the interdiction with reduction in salary or in other remuneration; or
 
-(b) the suspension w i t h o ut salary or other remuneration,
+(b) the suspension without salary or other remuneration,
 
 of an officer or servant of the Lembaga during the pendency of disciplinary proceedings against him.
 
@@ -530,7 +530,7 @@ Fund. 15. (1) There shall be established, for the purposes of this Act, a fund t
 
 (c) such sums as may be paid from time to time to the Lembaga from any financing or financial assistance made by the Lembaga and all surns from time to time falling due to the Lembaga in respect of the repayment of any financing or financial assistance made from the Fund;
 
-(d) m o n es earned by the operation of any project, agencyy, scheme or enterprise financed from the Fund;
+(d) mones earned by the operation ofany project, agencyy, scheme or enterprise financed from the Fund;
 
 (e) such fees and other moneys as may be prescribed;
 
@@ -790,7 +790,7 @@ Obligation 31. (1) Every pilgrim organizer or his agent resident in of pilgrim M
 
 <!-- marginal: 25 -->
 
-be sufficient as subsistence allowance for each such pilgrim u n t il such pilgrim has an opportunity of being conveyed back to Malaysia; and
+be sufficient as subsistence allowance for each such pilgrim until such pilgrim has an opportunity of being conveyed back to Malaysia; and
 
 (b) that where any pilgrim provided with a return ticket issued in Malaysia is detained in the Holy Land or elsewhere owing to no accommodation being offered by an aircraft for which his ticket is available, for a period longer than the maximum number of days determined by the Lembaga from time to time to be calculated from the h o ur and date when
 
@@ -964,7 +964,7 @@ person who has access to any statement, accounts, record, correspondence, docume
 
 <!-- page 30 -->
 
-material obtained p u r s u a nt to his employment or engagement by the Lembaga shall disclose such statement, accounts, record, correspondence, document, information or other material to any other person unless such disclosure is authorized by the Lembaga.
+material obtained pursuant to his employment or engagement by the Lembaga shall disclose such statement, accounts, record, correspondence, document, information or other material to any other person unless such disclosure is authorized by the Lembaga.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding one year or to both.
 
@@ -1232,7 +1232,7 @@ a body corporate by such name as the Lembaga shall give to such corporation and 
 
 (4) All deeds, documents and other instruments purporting to be sealed with the seal, authenticated as provided in subparagraph (3), shall until the contrary is prewed, be deemed to have been validly executed.
 
-(5) Any document or i n s t u m e nt which if executed by a person not being a body corporate would not be required to be under seal may in like manner be executed by the corporation; and any such document or instrument may be executed on behalf of the corporation by any officer or servant of the corporation generally or specially authorized by the corporation in that behalf.
+(5) Any document or instument which if executed by a person not being a body corporate would not be required to be under seal may in like manner be executed by the corporation; and any such document or instrument may be executed on behalf of the corporation by any officer or servant of the corporation generally or specially authorized by the corporation in that behalf.
 
 (6) The seal of every corporalion shall be officially and judicially noticed.
 

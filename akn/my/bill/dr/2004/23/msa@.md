@@ -270,7 +270,7 @@ for the purposes of such specified provisions of this Ordinance and any other wr
 
 (10) The Minister may, from time to time, by notification published in the Gazette, declare any particular industry, establishment or undertaking, or any class, category or description of industries, establishments or undertakings or any particular activity, service or work, or any class, category or description of activities, services or works, to be an industrial undertaking for the purposes of this Ordinance.".
 
-### Seksyen baru 2A dan 2B
+### Seksyen baru 2 A dan 2 B
 
 4. Ordinan dipinda dengan memasukkan selepas seksyen 2 seksyen yang berikut:
 
@@ -326,7 +326,7 @@ General
 
 3A. An officer appointed under subsection (1A) of section 3 shall not exercise any of the powers of the Director under this Ordinance unless he is in possession of an official identification signed by the Director authorizing him to exercise such powers, and any officer so authorized shall produce his official identification on demand to the owner or occupier of the place of employment and to the employer of any employees empl oyed thereat.".
 
-### Pindaan seksyen 4
+### Pi n da a n se ksy e n 4
 
 7. Seksyen 4 Ordinan dipinda—
 
@@ -486,7 +486,7 @@ Provided that the Director, on an application by an employer made within thirty 
 
 (3) Save for this Chapter and Chapter XVI which shall apply with the necessary modifications, the other provisions of this Ordinance shall not apply to the employees referred to in subsection (1).
 
-8D. (1) In the exercise of h i s powers under Claims for indemnity subsection ( 1 ) of section 8c, the Director may inquire for into and decide any claim concerning any indemnity due termination of contract to the employer or the employee where the contract of without service is terminated by either party without notice, or if notice. notice was given, without waiting for the expiry of that notice.
+8D. (1) In the exercise of his powers under Claims for indemnity subsection ( 1 ) of section 8c, the Director may inquire for into and decide any claim concerning any indemnity due termination of contract to the employer or the employee where the contract of without service is terminated by either party without notice, or if notice. notice was given, without waiting for the expiry of that notice.
 
 (2) The indemnity due to the employer or employee under subsection (1) shall be a sum equal to the amount of wages which would have accrued to the employee during the term of the notice or during the unexpired term of the notice.
 
@@ -642,7 +642,7 @@ Removal of
 
 (ii) dengan menggantikan perkataan "prescribed" dengan perkataan "gazetted public";
 
-( i i i ) dengan menggantikan perkataan "usual" dengan perkataan "ordinary"; dan
+(iii) dengan menggantikan perkataan "usual" dengan perkataan "ordinary"; dan
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
@@ -2190,7 +2190,7 @@ Offence in 130B. In any inquiry, investigation, entry or inspection connection m
 
 Under
 
-### 130c. If-
+### 1 3 0 c . I f -
 
 Chapter IIA.
 

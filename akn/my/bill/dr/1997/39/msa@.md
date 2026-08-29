@@ -1732,7 +1732,7 @@ Penerusan
 
 Pencegahan
 
-92. (1) Menteri boleh, setelah berunding dengan anomali. Lembaga, bilamana difikirkannya perlu atau suaimanfaat u n t uk berbuat demikian, sama ada bagi maksud menghapuskan kesulitan, mencegah anomali atau berbangkit daripada pembuatan Akta ini, melalui perintah yang disiarkan dalam Warta membuat apa-apa ubahsuaian kepada mana-mana peruntukan dalam mana-mana undang- undang sedia ada yang difikirkannya patut.
+92. (1) Menteri boleh, setelah berunding dengan anomali. Lembaga, bilamana difikirkannya perlu atau suaimanfaat untuk berbuat demikian, sama ada bagi maksud menghapuskan kesulitan, mencegah anomali atau berbangkit daripada pembuatan Akta ini, melalui perintah yang disiarkan dalam Warta membuat apa-apa ubahsuaian kepada mana-mana peruntukan dalam mana-mana undang- undang sedia ada yang difikirkannya patut.
 
 (2) Menteri tidak boleh menjalankan kuasa yang diberikan oleh subseksyen (1) selepas tamat tempoh dua tahun dari hari ditetapkan.
 
@@ -1990,7 +1990,7 @@ Fasal 24 bertujuan memberi Lembaga kawalan tatatertib terhadap pegawai dan pengk
 
 Fasal 25 memperkatakan rayuan terhadap keputusan jawatankuasa tatatertib.
 
-Fasal 26 bertujuan memberi Lembaga kuasa, dengan kelulusan Menteri. u n t uk membuat peraturan-peraturan tatatertib dan memperuntukkan bahawa peraturan-peraturan itu boleh mewujudkan kesalahan tatatertib dan memperuntukkan hukuman tatatertib.
+Fasal 26 bertujuan memberi Lembaga kuasa, dengan kelulusan Menteri. untuk membuat peraturan-peraturan tatatertib dan memperuntukkan bahawa peraturan-peraturan itu boleh mewujudkan kesalahan tatatertib dan memperuntukkan hukuman tatatertib.
 
 Fasal 27 bertujuan membenarkan Lembaga mengenakan surcaj berkenaan dengan pegawai dan pengkhidmatnya dan menyatakan bila Lembaga boleh berbuat demikian.
 
@@ -2028,7 +2028,7 @@ Lembaga juga dibenarkan menubuhkan perbadanan di bawah fasal
 
 1, Bahagian VI mengandungi peruntukan yang berhubungan dengan penguatkuasaan, penyiasatan, keterangan dan kesalahan.
 
-8. Bahagian VII memperkatakan perkara am seperti pengawalseliaan industri kelapa sawit, pengkompaunan kesalahan, permulaan dan penjalanan pendakwaan di bawah Akta yang dicadangkan, bidang kuasa u n t uk membicarakan kesalahan di bawah Akta yang dicadangkan, perlindungan pegawai, kuasa untuk membuat peraturan- peraturan dan pengesahan perbuatan yang dilakukan dengan menjangkakan Akta yang dicadangkan.
+8. Bahagian VII memperkatakan perkara am seperti pengawalseliaan industri kelapa sawit, pengkompaunan kesalahan, permulaan dan penjalanan pendakwaan di bawah Akta yang dicadangkan, bidang kuasa untuk membicarakan kesalahan di bawah Akta yang dicadangkan, perlindungan pegawai, kuasa untuk membuat peraturan- peraturan dan pengesahan perbuatan yang dilakukan dengan menjangkakan Akta yang dicadangkan.
 
 9. Bahagian VIII mengandungi peruntukan pemansuhan, kecualian dan peralihan.
 

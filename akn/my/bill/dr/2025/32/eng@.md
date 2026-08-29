@@ -374,7 +374,7 @@ is determined by the Organization to be
 
 a self-employment injury under
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 Self-Employment Social Security Act 2017
 

@@ -592,7 +592,7 @@ This Bill seeks to amend the Employees Provident Fund Act 1991 ("the Act").
 
 14. Clause 13 and clause 14 seek to widen the jurisdiction and the definition of Inspector under the Act respectively.
 
-15. Clause 15 seeks to amend section 37 of the Act by deleting the words "in the prescribed form" so as not to restrict the scope and form of statements made by persons examined under the A c t . to provide a
+15. Clause 15 seeks to amend section 37 of the Act by deleting the words "in the prescribed form" so as not to restrict the scope andformofstatementsmadebypersonsexaminedundertheA c t . toprovidea
 
 method to assess any amount of contribution based on information available in cases where the employer fails to keep or refuse to submit the necessary documents for assessment.
 

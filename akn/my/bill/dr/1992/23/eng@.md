@@ -80,7 +80,7 @@ may, by notification in the Gazette, appoint; and the Minister may appoint diffe
 
 "care centre" means a residential care centre and a day care centre within the meaning of the Act;
 
-"day care centre" means, subject to section 3, any premises at which four or more persons are received for care for a c o n t i n u o us period exceeding three hours between the hours of sunrise and sunset in a day, and for at least three days in a week, whether for reward or
+"day care centre" means, subject to section 3, any premises at which four or more persons are received for care for a continuous period exceeding three hours between the hours of sunrise and sunset in a day, and for at least three days in a week, whether for reward or
 
 <!-- page 4 -->
 
@@ -186,7 +186,7 @@ not be an offence under this section for any person to operate or to take part i
 
 <!-- marginal: in -->
 
-paragraph (a), during a further period after the end of that period u n t il the expiry of a period of thirty days from the date the applicant is notified of a decision to refuse to register the care centre; and
+paragraph (a), during a further period after the end of that period until the expiry of a period of thirty days from the date the applicant is notified of a decision to refuse to register the care centre; and
 
 (c) if the applicant appeals to the Minister under section 22 within the said period of thirty days, during a further period after the end of that period until the date the applicant is notified of a decision to dismiss the appeal.
 
@@ -202,9 +202,9 @@ Registration.
 
 <!-- marginal: to the -->
 
-structure of the building and fire safety, and that it is adequately and s u i t a b ly equipped and maintained; and
+structure of the building and fire safety, and that it is adequately and suitably equipped and maintained; and
 
-(b) require the applicant to f u r n i sh him with such information and particulars as are required for him to determine the application.
+(b) require the applicant to furnish him with such information and particulars as are required for him to determine the application.
 
 (4) Without prejudice to the generality of his powers under subsection (2), the Director General may refuse to register any care centre if any requirement of the law
 
@@ -306,7 +306,7 @@ III
 
 <!-- marginal: of officers. -->
 
-appoint such n u m b er of officers as he considers necessary for the purposes of this Act.
+appoint such number of officers as he considers necessary for the purposes of this Act.
 
 <!-- marginal: Powers of -->
 
@@ -370,11 +370,11 @@ Power of 14. ( 1) The Director General may, in respect of any Director registere
 
 (2) A direclion under subsection (1)—
 
-(a) s h a ll he served on the operator of the care centre; and
+(a) shall he served on the operator of the care centre; and
 
 (b) shall specify a period ot" time, which shall not be less than thirty days from the date of service of the direction. within which the direction shall be complied with.
 
-(3) If an appeal is made to the Minister under section 22 against a direction under subsection ( 1) w i t h in thirty days from thc dale of service of the direction, the effect of the direction is stayed. and if the Ministcr confirms the direction, the direction shall be complied w i th w i t h in such period as may be specified by the Minister.
+(3) If an appeal is made to the Minister under section 22 against a direction under subsection (1) within thirty days from thc dale of service of the direction, the effect of the direction is stayed. and if the Ministcr confirms the direction, the direction shall be complied with within such period as may be specified by the Minister.
 
 <!-- marginal: Power to -->
 
@@ -390,9 +390,9 @@ Power of 14. ( 1) The Director General may, in respect of any Director registere
 
 any danger or likeiihood of danger to any person in any premises oi" a registered care centre; or
 
-(h) in respect of any premises of a registered care centre, a direction u n d er section 14 is not complied with within the period of t i me specified under or pursuant to subsection (2) (b) or, as the case may be, subsection (3) of that scction.
+(h) in respect of any premises of a registered care centre, a direction under section 14 is not complied with within the period of t i me specified under or pursuant to subsection (2) (b) or, as the case may be, subsection (3) of that scction.
 
-the Director General may, in writing, order t h at the premises shall cease to be used as or for a care cenlre for such period as he t h i n ks necessary, or u n t il further notice.
+the Director General may, in writing, order t h at the premises shall cease to be used as or for a care cenlre for such period as he thinks necessary, or until further notice.
 
 (2) An order under this section shall be served on the operator of the registered care centre and shall take effect from a date immediateiy following the last day of a period of thirty days from the date ot" service of the
 
@@ -498,7 +498,7 @@ Exemption. 23. The Minister may, by order published in the Gazette, subject to a
 
 24. (1) The Minister may make regulations to carry out the purposes of this Act.
 
-(2) In particular and w i t h o ut prejudice to the generality of subsection (1), regulations under this section may provide for all or any of the following matters:
+(2) In particular and without prejudice to the generality of subsection (1), regulations under this section may provide for all or any of the following matters:
 
 (a) the operation, management, and supervision of registered care centres;
 
@@ -534,7 +534,7 @@ This Bill seeks to provide for the registration, control, and inspection of care
 
 2. Part II deals with malters relating to registration. Under clause 5 it is an otYence to operate or take part in the management of a care centre that is not registered, but there is a relaxation in respect of existing care centres. The registering authority is the Director General of Social Welfare, Malaysia, to whom application for registration has to be made (clause 6). Under clause 7 the Director General is empowered to impose conditions when registering a care centre. Clause 8 requires the keeping of a register of residential care centres as well as a regisler of day care centres and clause 9 gives the public a right to inspection of the registers. Clause 10 provides for the issuance of certificates of registration and for matters relating to such certificates and clause II states the circumstances in which registration may be cancelled.
 
-3. Part I II contains provisions relating to officers and their powers. Clause 12 gives the Minister power to appoint officers tbr the purposes of this B i l l, who w i ll be k n o wn as "authorised officers" (see definition in cluuse 2). The Director General and any authorised officer are empowered to enter and inspect the premises of registered care centres (clause 13) as well as premises reasonably suspected of being used as or for a care centre that is not registered (clause 16). In the course of such inspection. they may ask questions and require the production of records. Clause 14 gives the Director General the power to give wntten directions in respect of any registered care centre for the good of the centre and the residents and persons received for care at such centre. Failure to comply with a direction would constitute a ground tbr the Director General to order under clause 15 the closure of a registered care centre. An order under clause 15 may also be made if there is danger to any person in any premises of a registered care centre.
+3. Part I II contains provisions relating to officers and their powers. Clause 12 gives the Minister power to appoint officers tbr the purposes of this Bill, who will be known as "authorised officers" (see definition in cluuse 2). The Director General and any authorised officer are empowered to enter and inspect the premises of registered care centres (clause 13) as well as premises reasonably suspected of being used as or for a care centre that is not registered (clause 16). In the course of such inspection. they may ask questions and require the production of records. Clause 14 gives the Director General the power to give wntten directions in respect of any registered care centre for the good of the centre and the residents and persons received for care at such centre. Failure to comply with a direction would constitute a ground tbr the Director General to order under clause 15 the closure of a registered care centre. An order under clause 15 may also be made if there is danger to any person in any premises of a registered care centre.
 
 4. Part IV contains miscellaneous provisions including provisions creatmg offences (clanse 18), offences by a body corporate and by employees and agents (clause 19), giving right of appeal to the Minister (clause 22), giving power to rhe Minister to exempt any
 

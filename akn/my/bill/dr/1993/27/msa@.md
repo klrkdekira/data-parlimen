@@ -66,7 +66,7 @@ perkhidmatan Majlis Bandaraya itu bolehlah menjalankan kuasa-kuasa yang diberika
 
 (b) sebutan mengenai "pegawai dalam perkhidmatan Bandaraya
 
-<!-- marginal: K u a la -->
+<!-- marginal: Kuala -->
 
 Lumpur" dan "orang dalam per- khidmatan Bandaraya Kuala Lumpur" ialah sebutan mengenai pegawai atau orang dalam perkhidmatan Majlis Bandaraya itu masing-masingnya;
 
@@ -196,7 +196,7 @@ Kuasa 36. (1) Walau apa pun apa-apa jua yang untuk terkandung dalam Akta ini ata
 
 seorang pegawai polis atau Pegawai Pemulihan hendaklah, apabila mana-mana orang yang disyaki menjadi penagih dadah ditangkap atau secara sukarela menyerah diri, menahan mana- mana lesen memandu yang dipunyai oleh orang itu sehingga orang itu diperakui sebagai penagih dadah.
 
-(4) Apabila seorang pengamal perubatan kerajaan memperakukan bahawa orang itu adalah penagih dadah, pegawai polis atau Pegawai Pemulihan itu hendaklah, dalam tempoh dua minggu selepas pemerakuan itu, memberitahu sedemikian dan menyerahkan lesen memandu itu kepada Ketua Pengarah yang hendaklah dengan serta merta mem- beritahu penagih dadah itu secara bertulis mengenai niat u n t uk menggantung atau menghilangkan kelayakan itu.
+(4) Apabila seorang pengamal perubatan kerajaan memperakukan bahawa orang itu adalah penagih dadah, pegawai polis atau Pegawai Pemulihan itu hendaklah, dalam tempoh dua minggu selepas pemerakuan itu, memberitahu sedemikian dan menyerahkan lesen memandu itu kepada Ketua Pengarah yang hendaklah dengan serta merta mem- beritahu penagih dadah itu secara bertulis mengenai niat untuk menggantung atau menghilangkan kelayakan itu.
 
 <!-- page 7 -->
 
@@ -274,7 +274,7 @@ maka dia boleh, tertakluk kepada seksyen 45D, menghendaki orang itu supaya menga
 
 (5) Seseorang pegawai polis yang ber- pakaian seragam boleh menangkap tanpa waran seseorang jika—
 
-(a) disebabkan oleh sesuatu ujian nafas dia mempunyai sebab yang munasabah u n t uk mengesyaki bahawa kadar alkohol di dalam nafas, darah atau air kencing orang itu melebihi had yang ditetapkan; atau
+(a) disebabkan oleh sesuatu ujian nafas dia mempunyai sebab yang munasabah untuk mengesyaki bahawa kadar alkohol di dalam nafas, darah atau air kencing orang itu melebihi had yang ditetapkan; atau
 
 (b) orang itu gagal mengadakan spesimen nafas bagi suatu ujian nafas apabila dikehendaki berbuat demikian menurut
 
@@ -350,7 +350,7 @@ dalam kesalahan di bawah seksyen 44 atau 45 prosiding bagi meiibatkan minuman ya
 
 (2) Keterangan mengenai kadar alkohol di dalam suatu spesimen nafas, darah atau air kencing boleh, tertakluk kepada subseksyen (4) dan (5), diberikan dengan mengemukakan dokumen atau dokumen-dokumen yang berupa sebagai sama ada—
 
-(a) suatu pernyataan yang dikeluarkan secara automatik oleh s u a tu alat penganalisis nafas yang ditetapkan dan suatu perakuan yang ditandatangani oleh seorang pegawai polis (yang boleh tetapi tidak semestinya terkandung dalam dokumen yang sama dengan pernyataan itu) bahawa pernyataan itu adalah berhubungan dengan s u a tu spesimen yang diadakan oleh tertuduh pada tarikh dan masa yang ditunjukkan dalam pernyataan itu; atau
+(a) suatu pernyataan yang dikeluarkan secara automatik oleh suatu alat penganalisis nafas yang ditetapkan dan suatu perakuan yang ditandatangani oleh seorang pegawai polis (yang boleh tetapi tidak semestinya terkandung dalam dokumen yang sama dengan pernyataan itu) bahawa pernyataan itu adalah berhubungan dengan suatu spesimen yang diadakan oleh tertuduh pada tarikh dan masa yang ditunjukkan dalam pernyataan itu; atau
 
 (b) suatu perakuan yang ditandatangani oleh seorang pengamal perubatan kerajaan atau ahli kimia kerajaan tentang kadar alkohol yang terdapat di dalam spesimen darah atau air kencing yang dikenalpasti dalam perakuan itu.
 
@@ -576,7 +576,7 @@ perkataan "tepat"; dan
 
 Pindaan 33. Seksyen 118 Akta ibu adalah dipinda dengan seksyen 118. menggantikan subseksyen (4) dengan subseksyen yang berikut:
 
-"(4) Tiap-tiap notis yang hendak diberikan di bawah Akta ini oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polls hendaklah ditandatangani oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis, mengikut mana-mana yang berkenaan, atau oleh orang atau orang-orang yang dari semasa ke semasa diberikuasa bagi maksud itu oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis dan tiap-tiap n o t is itu adalah sah jika tandatangan Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis atau orang yang disebut terdahulu itu, dicetak atau ditulis di atasnya:
+"(4) Tiap-tiap notis yang hendak diberikan di bawah Akta ini oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polls hendaklah ditandatangani oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis, mengikut mana-mana yang berkenaan, atau oleh orang atau orang-orang yang dari semasa ke semasa diberikuasa bagi maksud itu oleh Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis dan tiap-tiap notis itu adalah sah jika tandatangan Ketua Pengarah, Pengarah, pegawai pengangkutan jalan atau pegawai polis atau orang yang disebut terdahulu itu, dicetak atau ditulis di atasnya:
 
 Dengan syarat bahawa apa-apa notis bertulis di bawah Akta ini kepada mana-mana orang supaya memberikan butir-butir kepada Ketua Pengarah, atau apa-apa notis di bawah Akta i ni yang menghendaki kehadiran mana-mana orang atau saksi di hadapan Ketua Pengarah, hendaklah ditandatangani oleh Ketua Pengarah atau oleh mana-mana orang yang diberikuasa olehnya sepertt disebut terdahulu.".
 
@@ -622,7 +622,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Pengangkutan Jalan 1987, disebut "
 
 4. Fasal 5 bertujuan meminda subseksyen 10(1) Akta untuk membolehkan permohonan bag! pendaftaran sesuatu kenderaan motor dibuat kepada Pengarah mana-mana kawasan pendaftaran dan tidak lagi kepada Pengarah kawasan pendaftaran di mana kenderaan itu disimpan atau akan biasanya disimpan atau Pengarah kawasan di mana tempat urusan utama pemunya kenderaan itu terletak sebagaimana kehendak sekarang. Pindaan ini boleh diadakan dengan pengkomputeran Jabatan Pengangkutan Jalan.
 
-5. Fasal 6 bertujuan meminda subseksyen 12(2) u n t uk membenarkan pemunya berdaftar memberitahu Pengarah mana- mana kawasan pendaftaran mengenai apa-apa pertukaran yang akan menjejaskan ketepatan apa-apa catatan dalam daftar. la juga bertujuan menghendaki pemunya berdaftar mendapatkan kelulusan terdahulu Ketua Pengarah sebelum menukar casis sesuatu kenderaan motor.
+5. Fasal 6 bertujuan meminda subseksyen 12(2) untuk membenarkan pemunya berdaftar memberitahu Pengarah mana- mana kawasan pendaftaran mengenai apa-apa pertukaran yang akan menjejaskan ketepatan apa-apa catatan dalam daftar. la juga bertujuan menghendaki pemunya berdaftar mendapatkan kelulusan terdahulu Ketua Pengarah sebelum menukar casis sesuatu kenderaan motor.
 
 6. Fasal 7 bertujuan meminda seksyen 13 untuk membenarkan pemunya kenderaan motor memberitahu mana-mana Pengarah tentang niatnya untuk menukar pemunyaan kenderaannya.
 
@@ -632,7 +632,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Pengangkutan Jalan 1987, disebut "
 
 <!-- page 25 -->
 
-9. Fasal 10 bertujuan meminda subseksyen 19(1) u n t uk membenarkan pemunya kenderaan motor menyerahkan lesen kenderaan motornya kepada mana-mana Pengarah bag! maksud mendapatkan rebat.
+9. Fasal 10 bertujuan meminda subseksyen 19(1) untuk membenarkan pemunya kenderaan motor menyerahkan lesen kenderaan motornya kepada mana-mana Pengarah bag! maksud mendapatkan rebat.
 
 10. Fasal II bertujuan meminda seksyen 20 untuk mengecualikan pemunya-pemunya motosikal dan kenderaan orang cacat daripada kena melekatkan dan mempamerkan lesen kenderaan motor pada motosikal dan kenderaan orang cacat untuk mengurangkan kejadian kehilangan lesen tersebut.
 
@@ -660,7 +660,7 @@ penjagaan atau penyucian sesuatu kenderaan motor atau bagi maksud mengarahkan ma
 
 20. Fasal 23 bertujuan meluaskan kuasa-kuasa Menteri membuat kaedah-kaedah di bawah seksyen 66.
 
-21. Fasal 24 bertujuan m e m i n da seksyen 69 Akta u n t uk menjadikan kesalahan di bawah seksyen itu bagi seseorang untuk gagal mematuhi had laju kebangsaan.
+21. Fasal 24 bertujuan meminda seksyen 69 Akta untuk menjadikan kesalahan di bawah seksyen itu bagi seseorang untuk gagal mematuhi had laju kebangsaan.
 
 22. Fasal 25 bertujuan meminda seksyen 70 Akta dengan menambah subseksyen baru (1A). Subseksyen baru ini memberi Menteri kuasa untuk mengadakan peruntukan bagi pengecualian kenderaan motor daripada jenis atau kategori tertentu oleh orang atau orang-orang yang dikenalpasti oleh Menteri dalam perintah yang berhubungan dengannya itu.
 
@@ -676,11 +676,11 @@ penjagaan atau penyucian sesuatu kenderaan motor atau bagi maksud mengarahkan ma
 
 25. Fasal 29 bertujuan meminda subperenggan 90(5)(a)(iii) untuk menjelaskan bahawa berkenaan dengan sesuatu perbandaran atau pihak berkuasa tempatan, hanya kenderaan-kenderaan selain daripada semua kategori kenderaan perkhidmatan awam (kecuali kenderaan pekerja), adalah dikecualikan daripada peruntukan seksyen 90.
 
-26. Fasal 30 bertujuan meminda subseksyen 108(6) u n t uk memasukkan takrif bag! ungkapan "tanda".
+26. Fasal 30 bertujuan meminda subseksyen 108(6) untuk memasukkan takrif bag! ungkapan "tanda".
 
 27. Fasal 32 bertujuan meminda subseksyen 117(6) untuk memasukkan, sebagai salah satu daripada perakuan yang hendaklah diterima di mana-mana mahkamah sebagai bukti prima facie fakta- fakta yang diperakukan dalamnya, suatu perakuan yang ditandatangani oleh mana-mana pegawai diberikuasa pihak berkuasa pelabuhan.
 
-28. Fasal 35 bertujuan memberi Menteri kuasa u n t uk mengisytiharkan mana-mana badan sebagai badan awam bagi maksud-maksud Akta.
+28. Fasal 35 bertujuan memberi Menteri kuasa untuk mengisytiharkan mana-mana badan sebagai badan awam bagi maksud-maksud Akta.
 
 .29. Fasal 36 bertujuan meminda
 

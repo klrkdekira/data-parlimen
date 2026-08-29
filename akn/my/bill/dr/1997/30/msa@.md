@@ -516,7 +516,7 @@ B e r u r u s a n
 
 M a n a - m a n a o r a n g y a n g , s a m a a d a d i d a l a m a t a u d i Mana-mana orang yang sama,sama ada di dalam atau di
 
-langsung, sama ada bagi pihak dirinya sendiri atau bagi gunakan pihak mana-mana orang lain, membuat atau menyebabkan apa-apa dengan berhubungan urusan apa-apa dibuat memegang h a r t a, menerima atau selainnya menggunakan atau menyebabkan digunakan, atau atau atau memegang, menenma atau menyembunyikan apa-
+langsung, sama ada bagi pihak dirinya sendiri atau bagi gunakan pihak mana-mana orang lain, membuat atau menyebabkan apa-apa dengan berhubungan urusan apa-apa dibuat memegang harta, menerimaatauselainnyamenggunakanataumenyebabkan digunakan, atau atau atau memegang, menenma atau menyembunyikan apa-
 
 menyem- apa harta atau mana-mana bahagiannya yang menjadi bunyikan hal perkara suatu kesalahan di bawah seksyen 10, 11, suapan atau 13, 14, 15 atau 16 adalah melakukan suatu kesalahan faedah dan apabila disabitkan boleh didenda tidak melebihi lima berhubungan puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya
 
@@ -604,7 +604,7 @@ Kuasa untuk 23. (1) Seseorang pegawai Badan yang menyiasat memeriksa sesuatu kes
 
 <!-- page 29 -->
 
-(4) Seseorang yang telah diberi suatu perintah di bawah perenggan (1)(b) tidak boleh menyembunyikan, memusnahkan, mengubah, memindahkan dari Malaysia, atau membuat urusan tentang, menggunakan, atau melupuskan apa-apa buku, dokumen, atau barang yang dinyatakan dalam perintah itu, atau mengubah atau mencacatkan apa-apa catatan dalam mana-mana buku atau dokumen itu, atau menyebabkan perbuatan itu dilakukan, atau membantu atau berkomplot untuk melakukan perbuatan itu.
+(4) Seseorang yang telah diberi suatu perintah di bawah perenggan ( 1 ) ( b) tidak boleh menyembunyikan, memusnahkan, mengubah, memindahkan dari Malaysia, atau membuat urusan tentang, menggunakan, atau melupuskan apa-apa buku, dokumen, atau barang yang dinyatakan dalam perintah itu, atau mengubah atau mencacatkan apa-apa catatan dalam mana-mana buku atau dokumen itu, atau menyebabkan perbuatan itu dilakukan, atau membantu atau berkomplot untuk melakukan perbuatan itu.
 
 (5) Seseorang yang telah diberi suatu notis bertulis di bawah perenggan (1)(c) hendaklah, dalam pernyataannya, memberikan dan mendedahkan dengan sebenarnya segala maklumat yang dikehendaki di bawah notis itu yang diketahuinya atau yang tersedia untuknya, atau yang dapat diperoleh olehnya, dan tidak boleh enggan memberikan atau mendedahkan maklumat itu atas alasan bahawa maklumat itu dapat menunjukkan bahawa dia atau isteri atau suaminya bersalah.
 
@@ -1154,9 +1154,9 @@ Perakuan
 
 (b) telah menerima emolumen yang dinyatakan dalam perakuan itu.
 
-(2) Sesuatu perakuan yang dikeluarkan di bawah subseksyen ( 1) hendaklah menjadi bukti prima facie bahawa perakuan itu telah dikeluarkan oleh orang yang berupa sebagai telah mengeluarkannya selaku prinsipal atau bagi pihak p r i n s i p al itu tanpa bukti tentang tandatangan orang yang mengeluarkan perakuan itu dan tanpa bukti tentang kuasa orang i tu
+(2) Sesuatu perakuan yang dikeluarkan di bawah subseksyen ( 1) hendaklah menjadi bukti prima facie bahawa perakuan itu telah dikeluarkan oleh orang yang berupa sebagai telah mengeluarkannya selaku prinsipal atau bagi pihak prinsipal itu tanpa bukti tentang tandatangan orang yang mengeluarkan perakuan itu dan tanpa bukti tentang kuasa orang i tu
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 mengeluarkannya.
 
@@ -1404,7 +1404,7 @@ Fasal 54 memperkatakan perlindungan pemberi maklumat dan maklumat yang diterima 
 
 10. Bahagian VIII mengandungi peruntukan-peruntukan am.
 
-Fasal 55 bertujuan u n t uk mengadakan peruntukan bagi perlindungan daripada prosiding sivil dan jenayah untuk pegawai- pegawai Badan dan mana-mana orang yang membantu mereka.
+Fasal 55 bertujuan untuk mengadakan peruntukan bagi perlindungan daripada prosiding sivil dan jenayah untuk pegawai- pegawai Badan dan mana-mana orang yang membantu mereka.
 
 Fasal 56 bertujuan untuk menjadikan peruntukan Akta yang dicadangkan terpakai bagi kesalahan yang dilakukan di luar Malaysia oleh warganegara dan pemastautin tetap Malaysia.
 

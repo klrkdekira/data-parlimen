@@ -262,7 +262,7 @@ imprisonment".
 
 Substitution 16. The principal Act is amended by substituting for of section 69. section 69 the following new section 69:
 
-Conversion 69. (1) No person shall engage in converting plant any forest produce or have in his control or operator required to charge a conversion plant unless he is in have possession of a removal pass and a record of removal pass and measurement in respect of all forest produce record of c o n v e r t ed or being or about to be converted or measure- ment. being in or about the conversion plant or other premises under his charge or control.
+Conversion 69. (1) No person shall engage in converting plant any forest produce or have in his control or operator required to charge a conversion plant unless he is in have possession of a removal pass and a record of removal pass and measurement in respect of all forest produce record of convertedorbeingorabouttobeconvertedor measure- ment. being in or about the conversion plant or other premises under his charge or control.
 
 (2) Such removal pass shall be made available for inspection by any forest officer.
 

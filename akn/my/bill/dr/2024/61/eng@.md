@@ -1234,7 +1234,7 @@ Functions 122x. (1) For the purposes of this Chapter, and powers the Director sh
 
 (b) to direct employer or centralized accommodation provider to submit any information and documents relating to an employee’s accommodation;
 
-(c) to issue any directions to an employer or a centralized accommodation provider to provide any other amenities relating t o a n accommodation;
+(c) to issue any directions to an employer or a centralized accommodation provider to provide any other amenities relating to an accommodation;
 
 (d) t o issue a Certificate for Accommodation subject to any written law applicable; and
 

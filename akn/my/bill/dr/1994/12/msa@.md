@@ -94,7 +94,7 @@ dengan yang berikut:
 
 "Akta ini hendaklah dibaca hendaklah dibaca bersama dengan bersama dengan peruntukan-peruntukan
 
-<!-- marginal: K a n un -->
+<!-- marginal: Kanun -->
 
 Kanun Keseksaan.". Keseksaan. NMB Bab 45.
 

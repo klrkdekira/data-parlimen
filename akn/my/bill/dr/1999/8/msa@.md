@@ -66,7 +66,7 @@ Pindaan seksyen 15
 
 15A. (1) Jika Ketua Pengarah mempunyai sebab untuk mempercayai bahawa mana-mana orang hendak atau berkemungkinan meninggalkan Malaysia tanpa membayar apa-apa duti eksais yang kena dibayar olehnya, dia boleh mengeluarkan kepada mana-mana Pengarah Imigresen suatu perakuan yang mengandungi butir-butir mengenai duti eksais yang kena dibayar sedemikian dengan suatu permintaan supaya orang itu dihalang daripada meninggalkan Malaysia melainkan jika dan sehingga dia membayar duti eksais yang kena dibayar sedemikian, atau memberikan cagaran yang memuaskan hati Ketua Pengarah bagi pembayarannya.
 
-(2) Tertakluk kepada apa-apa perintah yang dikeluarkan atau dibuat di bawah mana-mana undang-undang bertulis yang sedang berkuat kuasa berhubung dengan buang negeri atau imigresen, mana-mana Pengarah Imigresen yang menerima suatu permintaan di bawah subseksyen (1) berkenaan dengan seseorang hendaklah menjalankan segala langkah yang boleh termasuk pengambilan dan penyimpanan apa-apa perakuan pengenalan, pasport, permit keluar atau dokumen perjalanan lain yang berhubungan dengan orang itu sebagaimana yang perlu u n t uk melaksanakan permintaan itu.
+(2) Tertakluk kepada apa-apa perintah yang dikeluarkan atau dibuat di bawah mana-mana undang-undang bertulis yang sedang berkuat kuasa berhubung dengan buang negeri atau imigresen, mana-mana Pengarah Imigresen yang menerima suatu permintaan di bawah subseksyen (1) berkenaan dengan seseorang hendaklah menjalankan segala langkah yang boleh termasuk pengambilan dan penyimpanan apa-apa perakuan pengenalan, pasport, permit keluar atau dokumen perjalanan lain yang berhubungan dengan orang itu sebagaimana yang perlu untuk melaksanakan permintaan itu.
 
 <!-- page 4 -->
 

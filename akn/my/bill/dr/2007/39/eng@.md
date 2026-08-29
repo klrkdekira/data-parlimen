@@ -62,7 +62,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ## EXPLANATORY STATEMENT
 
-This B i l l seeks to amend the Revenue Growth Grants Act 1977 ("Act 181") to provide for an additional financial assistance to the States.
+This Bill seeks to amend the Revenue Growth Grants Act 1977 ("Act 181") to provide for an additional financial assistance to the States.
 
 2. Clause1 contains the short title.
 

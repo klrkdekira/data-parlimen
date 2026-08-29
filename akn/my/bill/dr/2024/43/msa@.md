@@ -66,7 +66,7 @@ MAKA, OLEH YANG DEMIKIAN, mengikut Fasal (1) Perkara 74 dan Fasal (2) Perkara 80
 
 (a) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
-“(1 a) Seseorang yang mencemarkan atau menyebabkan supaya dicemarkan mana-mana alur air atau sistem bekalan air atau mana-mana bahagian alur air itu atau sistem bekalan air itu dengan apa-apa bahan yang menyebabkan atau berkemungkinan menyebabkan
+“(1a) Seseorang yang mencemarkan atau menyebabkan supaya dicemarkan mana-mana alur air atau sistem bekalan air atau mana-mana bahagian alur air itu atau sistem bekalan air itu dengan apa-apa bahan yang menyebabkan atau berkemungkinan menyebabkan
 
 <!-- page 4 -->
 

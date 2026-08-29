@@ -460,7 +460,7 @@ dan termasuklah seseorang yang diisytiharkan sebagai pemastautin menurut seksyen
 
 "umpuk" termasuklah jual, terbit, serah hak dan pindah hak; dan "pengumpukan" mempunyai erti yang bersamaan.
 
-(2) Bagi maskud Akta i n i , seseorang hendaklah disifatkan memegang sesuatu kepentingan benefisial dalam sesuatu syer—
+(2) Bagi maskud Akta ini, seseorang hendaklah disifatkan memegang sesuatu kepentingan benefisial dalam sesuatu syer—
 
 (a) jika orang itu, sama ada berseorangan atau bersama dengan orang lain, berhak (selainnya sebagai seorang pemegang amanah bagi, bagi pihak, atau oleh sebab, orang lain) untuk menerima, secara langsung atau tidak langsung, apa-apa dividen berkenaan dengan syer itu atau untuk menjalankan, atau untuk mengawal penjalanan, apa-apa hak yang berkait dengan syer itu; atau
 
@@ -468,7 +468,7 @@ dan termasuklah seseorang yang diisytiharkan sebagai pemastautin menurut seksyen
 
 (3) Apabila dalam Akta ini mana-mana orang yang memegang atau menduduki sesuatu jawatan atau kedudukan tertentu disebut atau dirujuk, sebutan atau rujukan itu hendaklah, melainkan jika didapati tujuan yang berlawanan, dikira termasuk semua orang yang hendaklah pada bila-bila masa selepas itu menduduki buat sementara waktu jawatan atau kedudukan itu.
 
-(4) Mana-mana peruntukan Akta ini yang mengatasi atau mentafsirkan perkara persatuan bagi sesuatu perbadanan hendaklah, kecuali jika diperuntukkan selainnya oleh Akta ini, terpakai berhubung dengan perkara persatuan yang berkuat kuasa pada permulaan kuat kuasa Akta i n i , dan juga kepada perkara persatuan yang mula berkuat kuasa selepas itu, dan hendaklah juga terpakai berhubung dengan memorandum suatu perbadanan sebagaimana ia terpakai berhubung dengan perkara persatuan perbadanan itu.
+(4) Mana-mana peruntukan Akta ini yang mengatasi atau mentafsirkan perkara persatuan bagi sesuatu perbadanan hendaklah, kecuali jika diperuntukkan selainnya oleh Akta ini, terpakai berhubung dengan perkara persatuan yang berkuat kuasa pada permulaan kuat kuasa Akta ini, dan juga kepada perkara persatuan yang mula berkuat kuasa selepas itu, dan hendaklah juga terpakai berhubung dengan memorandum suatu perbadanan sebagaimana ia terpakai berhubung dengan perkara persatuan perbadanan itu.
 
 ### Takrif subsidiari dan syarikat pemegangan
 
@@ -878,7 +878,7 @@ tidak membaiki keingkaran itu dalam masa tiga puluh hari selepas disampaikan kep
 
 22. (1) Tertakluk kepada seksyen 6, sesuatu syarikat asing yang diperbadankan di bawah undang-undang mana-mana negara selain Malaysia, atau mana-mana bidang kuasa dalam negara sedemikian, boleh, jika dibenarkan sedemikian oleh undang-undang negara atau bidang kuasa itu, memohon kepada Pendaftar untuk pendaftaran syarikat itu terus wujud di Langkawi seolah-olah syarikat itu telah diperbadankan di bawah Akta ini.
 
-(2) Apabila permohonan dibuat di bawah subseksyen (1), yang disokong oleh apa-apa bahan yang didapati oleh Pendaftar sebagai cukup dan memuaskan, Pendaftar boleh, jika dia berpuas hati bahawa persetujuan daripada apa-apa bilangan atau perkadaran pemegang syer, pemegang debentur dan pemiutang syarikat asing i t u sebagaimana yang dikehendaki oleh undang-undang negara atau bidang kuasa itu, dan persetujuan daripada pegawai yang sesuai bagi negara atau bidang kuasa itu, terhadap pendaftaran sedemikian telah didapatkan oleh syarikat itu, mendaftarkan syarikat itu sebagai terus wujud dan, jika didaftarkan sedemikian, syarikat itu hendaklah selepas itu disifatkan sebagai suatu syarikat Langkawi yang diperbadankan di bawah Akta ini dan berdomisil di Langkawi:
+(2) Apabila permohonan dibuat di bawah subseksyen (1), yang disokong oleh apa-apa bahan yang didapati oleh Pendaftar sebagai cukup dan memuaskan, Pendaftar boleh, jika dia berpuas hati bahawa persetujuan daripada apa-apa bilangan atau perkadaran pemegang syer, pemegang debentur dan pemiutang syarikat asing itu sebagaimana yang dikehendaki oleh undang-undang negara atau bidang kuasa itu, dan persetujuan daripada pegawai yang sesuai bagi negara atau bidang kuasa itu, terhadap pendaftaran sedemikian telah didapatkan oleh syarikat itu, mendaftarkan syarikat itu sebagai terus wujud dan, jika didaftarkan sedemikian, syarikat itu hendaklah selepas itu disifatkan sebagai suatu syarikat Langkawi yang diperbadankan di bawah Akta ini dan berdomisil di Langkawi:
 
 <!-- page 32 -->
 
@@ -954,7 +954,7 @@ dan memorandum dan perkara persatuan yang disifatkan itu hendaklah mengikat syar
 
 <!-- page 35 -->
 
-(b) mana-mana prosiding oleh syarikat i t u atau oleh mana-mana anggota syarikat itu terhadap pegawai sekarang atau yang dahulu syarikat itu; atau
+(b) mana-mana prosiding oleh syarikat itu atau oleh mana-mana anggota syarikat itu terhadap pegawai sekarang atau yang dahulu syarikat itu; atau
 
 (c) apa-apa petisyen oleh Menteri untuk menggulung syarikat itu.
 
@@ -1784,7 +1784,7 @@ perbadanan itu hendaklah, bagi maksud subseksyen (1), disifatkan sebagai hadir d
 
 (5) Sesuatu perakuan di bawah meterai perbadanan itu hendaklah menjadi keterangan prima facie mengenai pelantikan atau pembatalan pelantikan (mengikut mana-mana yang berkenaan) seorang wakil menurut subseksyen (3).
 
-(6) Jika-
+(6) J i ka -
 
 (a) suatu syarikat pemegangan berhak secara benefisial kepada keseluruhan syer terbitan suatu subsidiari; atau
 
@@ -2266,7 +2266,7 @@ sesuatu syarikat Langkawi, tertakluk kepada apa-apa pengubahsuaian yang Menteri 
 
 ### Penyampaian dokumen ke atas syarikat Langkawi
 
-105. Apa-apa dokumen bolehlah disampaikan kepada sesuatu syarikat Langkawi dengan meninggalkannya di, atau menghantarkannya melalui pos kepada, pejabat berdaftar syarikat itu, atau jika pejabat berdaftar syarikat itu terhenti wujud, dokumen i t u boleh disampaikan dengan meninggalkannya di atau menghantarkannya melalui pos kepada mana-mana tempat perniagaan yang ditubuhkan oleh syarikat itu di Langkawi.
+105. Apa-apa dokumen bolehlah disampaikan kepada sesuatu syarikat Langkawi dengan meninggalkannya di, atau menghantarkannya melalui pos kepada, pejabat berdaftar syarikat itu, atau jika pejabat berdaftar syarikat itu terhenti wujud, dokumen itu boleh disampaikan dengan meninggalkannya di atau menghantarkannya melalui pos kepada mana-mana tempat perniagaan yang ditubuhkan oleh syarikat itu di Langkawi.
 
 ### Pemindahan hakmilik dari Langkawi
 
@@ -2302,7 +2302,7 @@ dan Pendaftar boleh memberikan kelulusannya atas apa-apa syarat yang difikirkann
 
 <!-- page 97 -->
 
-debentur atau pemiutang sedemikian dan apabila syarikat itu mengambil apa-apa langkah sebagaimana yang difikirkan perlu oleh Pendaftar untuk meremedikan apa-apa kegagalan untuk mematuhi apa-apa peruntukan Akta i n i .
+debentur atau pemiutang sedemikian dan apabila syarikat itu mengambil apa-apa langkah sebagaimana yang difikirkan perlu oleh Pendaftar untuk meremedikan apa-apa kegagalan untuk mematuhi apa-apa peruntukan Akta ini.
 
 (4) Apabila suatu surat cara yang memindahkan syarikat itu ke negara atau bidang kuasa lain telah disempurnakan oleh pegawai yang sesuai di negara atau bidang kuasa lain itu, syarikat itu hendaklah dengan serta-merta memberitahu Pendaftar mengenai butiran itu dan syarikat itu hendaklah disifatkan sebagai terhenti menjadi suatu syarikat yang diperbadankan di Langkawi dari tarikh pemindahannya ke negara atau bidang kuasa lain itu mula berkuat kuasa dan Pendaftar hendaklah memotong nama syarikat itu daripada daftar:
 
@@ -2824,7 +2824,7 @@ menghendaki syarikat itu untuk menyerahkan kepada Pendaftar suatu penyata berken
 
 78. Fasal 70 memperuntukkan bahawa setiap syer mempunyai satu undi, kecuali diperuntukkan selainnya dalam memorandum dan perkara persatuan suatu syarikat Langkawi, dan fasal 71 memperuntukkan bahawa apa-apa tindakan yang boleh diambil oleh anggota dalam mesyuarat anggota boleh juga diambil melalui suatu resolusi semua anggota yang dipersetujui secara bertulis atau melalui teleks, telegram, telefaks kabel atau apa-apa cara perhubungan elektronik bertulis yang lain.
 
-79. Fasal 72 memberi kuasa kepada Mahkamah untuk mengarahkan supaya dipanggil suatu mesyuarat anggota jika ia tidak praktik untuk syarikat Langkawi i t u memanggil suatu mesyuarat mengikut cara yang mesyuarat dikehendaki supaya dipanggil atau untuk menjaiankan suatu mesyuarat mengikut cara yang ditetapkan dalam perkara persatuan atau Akta.
+79. Fasal 72 memberi kuasa kepada Mahkamah untuk mengarahkan supaya dipanggil suatu mesyuarat anggota jika ia tidak praktik untuk syarikat Langkawi itu memanggil suatu mesyuarat mengikut cara yang mesyuarat dikehendaki supaya dipanggil atau untuk menjaiankan suatu mesyuarat mengikut cara yang ditetapkan dalam perkara persatuan atau Akta.
 
 80. Fasal 73 mengandungi peruntukan berkaitan dengan ketetapan khas dalam suatu mesyuarat anggota.
 

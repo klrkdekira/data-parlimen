@@ -334,7 +334,7 @@ or damage is occasioned by an intentionally wrongful act or omission on his part
 
 (c) if the complaint discloses a misconduct of criminal nature, refer the complaint to the appropriate enforcement agency to be investigated and dealt with by the enforcement agency in accordance with the powers conferred to it under any written law.
 
-### ■.- '■i .■■ ■
+### ■ . - ' ■ i . ■ ■ ■
 
 ### •
 

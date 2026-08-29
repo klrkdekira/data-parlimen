@@ -556,7 +556,7 @@ tetapi tidaklah termasuk buangan terjadual sebagaimana yang diperihalkan di bawa
 
 <!-- page 18 -->
 
-## BAHAGIAN III
+## B AH A G IA N III
 
 ## KELULUSAN BAGI PEMBINAAN, PENGUBAHAN ATAU PENUTUPAN
 
@@ -2356,7 +2356,7 @@ sedemikian.
 
 <!-- page 82 -->
 
-(b) menetapkan kaedah a t a u cara pemungutan, pengangkutan, pengolahan atau pelupusan sisa pepejal terkawal termasuk jenis sisa pepejal terkawal yang menghendaki olahan terlebih dahulu sebelum pelupusannya;
+(b) menetapkan kaedah atau cara pemungutan, pengangkutan, pengolahan atau pelupusan sisa pepejal terkawal termasuk jenis sisa pepejal terkawal yang menghendaki olahan terlebih dahulu sebelum pelupusannya;
 
 (c) menetapkan skim bagi menjalankan perkhidmatan pengurusan sisa pepejal termasuk kewajipan dan obligasi pemegang lesen dan penghasil sisa pepejal, kawasan geografi, jenis sisa pepejal terkawal dan perkhidmatan yang hendak disediakan;
 

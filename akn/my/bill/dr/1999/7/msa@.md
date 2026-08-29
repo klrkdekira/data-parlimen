@@ -140,7 +140,7 @@ latihan, perkhidmatan penyelidikan dan perkhidmatan lain yang berhubung dengan f
 
 4. Fasal 3 Rang Undang-Undang ini bertujuan untuk meminda seksyen 5 Akta 242 untuk meluaskan kuasa Ketua Pengarah untuk masuk ke dalam tanah, bangunan dan premis dan untuk mendapatkan maklumat.
 
-5. Fasal 4 Rang Undang-Undang ini bertujuan untuk meminda seksyen 6 Akta 242 untuk meluaskan kuasa Ketua Pengarah untuk menghendaki pengemukaan maklumat yang dikehendaki. Adalah menjadi suatu kesalahan untuk enggan mengemukakan maklumat yang dikehendaki atau dengan sengaja mengemukakan maklumat palsu dan h u k u m an apabila disabitkan ialah denda tidak melebihi sepuluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga bulan atau kedua-duanya.
+5. Fasal 4 Rang Undang-Undang ini bertujuan untuk meminda seksyen 6 Akta 242 untuk meluaskan kuasa Ketua Pengarah untuk menghendaki pengemukaan maklumat yang dikehendaki. Adalah menjadi suatu kesalahan untuk enggan mengemukakan maklumat yang dikehendaki atau dengan sengaja mengemukakan maklumat palsu dan hukuman apabila disabitkan ialah denda tidak melebihi sepuluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga bulan atau kedua-duanya.
 
 6. Pindaan lain yang tidak diperkatakan dengan khusus dalam Huraian ini adalah pindaan yang kecil atau berbangkit.
 

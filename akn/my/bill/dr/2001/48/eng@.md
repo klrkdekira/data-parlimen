@@ -244,7 +244,7 @@ or all of its functions or render such assistance in the performance of its func
 
 (4) A prescribed institution shall notify the Bank of the appointment of its Chief Executive Officer and its directors within fourteen days from the date of the appointment.
 
-(5) Any prescribed institution that contravenes subsection (4) ommits an offence and shall on conviction be liable to a fine not e x c e e d i ng one hundred thousand ringgit and, in the case of a
+(5) Any prescribed institution that contravenes subsection (4) ommits an offence and shall on conviction be liable to a fine not exceeding one hundred thousand ringgit and, in the case of a
 
 <!-- page 10 -->
 

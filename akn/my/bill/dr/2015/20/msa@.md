@@ -1458,7 +1458,7 @@ petunjuk, syarat, sekatan atau batasan sebagaimana yang ditentukan oleh Bank, se
 
 78. Akta ibu dipinda dengan memasukkan selepas seksyen 88 seksyen yang berikut:
 
-### “Ga ben or me mp unya i kuas a da n fu ngs i pe g a w ai
+### “Gabenor mempunyai kuasa dan fungsi pegawai
 
 ### penyiasat
 

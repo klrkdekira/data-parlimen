@@ -116,7 +116,7 @@ Ordinance.".
 
 Rang Undang-Undang ini bertujuan meminda Ordinan Pencen Balu dan Anak Yatim, Sabah ("Ordinan").
 
-2. Fasal 2 bertujuan meminda seksyen 2 Ordinan u n t uk memansuhkan takrif "actuary" kerana takrif itu tidak lagi penting memandangkan pindaan yang dicadangkan kepada seksyen 7.
+2. Fasal 2 bertujuan meminda seksyen 2 Ordinan untuk memansuhkan takrif "actuary" kerana takrif itu tidak lagi penting memandangkan pindaan yang dicadangkan kepada seksyen 7.
 
 Fasal 2 juga bertujuan mengadakan takrif "local pensions authority" dan "Minister" yang digunakan dalam Ordinan.
 

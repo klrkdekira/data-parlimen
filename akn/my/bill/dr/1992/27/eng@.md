@@ -76,7 +76,7 @@ Change of
 
 ## STANDARDS AND INDUSTRIAL RESEARCH INSTITUTE
 
-## OF M A L A Y S IA (INCORPORATION)
+## OF MALAYSIA (INCORPORATION)
 
 ## (AMENDMENT)
 
@@ -664,7 +664,7 @@ Industrial
 
 (b) to formulate and review the technology transfer policies, programmes, schemes, projects and a ctivities of the Institute;
 
-(c) to provide g u o a n ce on technology transfer arrangenments;
+(c) to provide guoance on technology transfer arrangenments;
 
 (d) to advise the Board on priorities in respect of programmes, schenies, projects and activities in technology transfers;
 
@@ -1274,7 +1274,7 @@ Amendment
 
 <!-- marginal: is so -->
 
-accredited; ( e) makes any statement or representation, whether in writing or otherwise, that conveys or is l i k e ly to convey the impression that a commodity, process, practice or service complies with the requirements of accreditation when it does not so comply; or (f) h a v i ng been accredited, uses
+accredited; ( e) makes any statement or representation, whether in writing or otherwise, that conveys or is likely to convey the impression that a commodity, process, practice or service complies with the requirements of accreditation when it does not so comply; or (f) having been accredited, uses
 
 <!-- marginal: that -->
 
@@ -1468,7 +1468,7 @@ Minutes.
 
 6. ( 1) The Board shall cause minutes of all its meetings to be maintained and kept in a proper form.
 
-(2) Any m i n u t es made of meetings of the Board shall, if duly signed, be admissible in evidence in all legal proceedings w i t h o ut further proof and every meeting of the Board in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been d u ly qualified to act.
+(2) Any minutes made of meetings of the Board shall, if duly signed, be admissible in evidence in all legal proceedings without further proof and every meeting of the Board in respect of the proceedings of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been d u ly qualified to act.
 
 Common seal
 
@@ -1488,7 +1488,7 @@ Provided that any document or instrument which if executed by a person not being
 
 (3) The common seal of the Board shall be officially and judicially noticed.
 
-Disclosure 8. A member of the Board h a v i n g, directly or of interest. indirectly, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorized thereto by the Chairman, such member shal! take no part in any deliberation or decision of the Board relating to the contract or matter.
+Disclosure 8. A member of the Board having, directly or of interest. indirectly, any interest in any company or undertaking with which the Board proposes to make any contract or having any interest in any such contract or in any matter under discussion by the Board shall disclose to the Board the fact of his interest and the nature thereof, and such disclosure shall be recorded in the minutes of the Board and, unless specifically authorized thereto by the Chairman, such member shal! take no part in any deliberation or decision of the Board relating to the contract or matter.
 
 Validity of 9. No act done or proceedings taken under this Act acts done shall be questioned on the ground of—
 

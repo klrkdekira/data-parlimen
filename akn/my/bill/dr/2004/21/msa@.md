@@ -620,7 +620,7 @@ and to make such consequential orders as may be necessary to give effect to his 
 
 Provided that if the decision of the employer under paragraph (a) of subsection (1) of section 13 is set aside, the consequential order made by the Director against such employer shall be confined to payment of indemnity in lieu of notice and other payments that the employee is entitled to as if no misconduct was committed by the employee:
 
-Provided further that the Director shall not set aside any decision made by an employer when any other lesser p u n is h me n t is imposed by an employer under paragraph (c) of subsection (1) of section 13 if such decision has not resulted in any loss in wages or other payments payable to the employee under his contract of service:
+Provided further that the Director shall not set aside any decision made by an employer when any other lesser punishment is imposed by an employer under paragraph (c) of subsection (1) of section 13 if such decision has not resulted in any loss in wages or other payments payable to the employee under his contract of service:
 
 <!-- page 20 -->
 
@@ -1308,7 +1308,7 @@ Provided further that a female young person may be engaged in any employment in 
 
 employment (not mentioned i n subsection
 
-<!-- marginal: (2) or -->
+<!-- marginal: ( 2 ) o r -->
 
 (3)) is not dangerous to life, limb, health or morals, by order declare such employment to be an employment
 
@@ -1460,7 +1460,7 @@ Provided that the Director may, on application made to him in any particular cas
 
 and
 
-(b) w h o is dissatisfied with such decision or condition,
+(b) who is dissatisfied with such decision or condition,
 
 may within thirty days of such decision or condition being communicated to him appeal in writing to the Minister.
 
@@ -1536,7 +1536,7 @@ yang berikut:
 
 <!-- marginal: t o -->
 
-“Length of eligible maternity leave for a period of not l e s s than sixty period and consecutive days (also referred to in this Chapter as the " e l i g i b l e entitlement period") in respect of each confinement and, to maternity allowance.
+“Length of eligible maternity leave for a period of not less than sixty period and consecutive days (also referred to in this Chapter as the "eligible entitlement period") in respect of each confinement and, to maternity allowance.
 
 <!-- page 47 -->
 
@@ -1584,7 +1584,7 @@ Rang Undang-Undang
 
 maternity allowance for the eligible period from her employer if—
 
-(a) she has been employed by the employer at any time i n t h e four months immediately before her confinement; and
+(a) she has been employed by the employer at any time i n the four months immediately before her confinement; and
 
 (b) she has been employed by the employer for a period of, or periods amounting in the aggregate
 
@@ -1620,7 +1620,7 @@ for such other employer during the period of nine months immediately preceding h
 
 Provided that if the female employee has failed to comply with subsection (1) or (2) of section 87, the employer who pays the maternity allowance shall not thereby be prevented from recovering contribution calculated in accordance with
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 subsection.
 
@@ -1656,9 +1656,9 @@ seksyen yang berikut:
 
 <!-- marginal: to her -->
 
-“Payment employer that she expects to be confined, commences her of allowance maternity leave and dies from any cause during the eligible period, her employer or any emplo to havebeen,butforthedeathofthefemaleemployeeliabletopay nominance a n y maternity allowance shall
+“Payment employer that she expects to be confined, commences her of allowance maternity leave and dies from any cause during the eligible period, her employer or any emplo to havebeen,butforthedeathofthefemaleemployeeliabletopay nominance any maternity allowance shall
 
-<!-- marginal: p a y -->
+<!-- marginal: pay -->
 
 <!-- marginal: tothe -->
 
@@ -2374,7 +2374,7 @@ Termination, lay-off and Ordinance provide for the entitlement of employees to, 
 
 benefits", as the case may be, and for
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 circumstances in which the same shall be payable;
 
@@ -2776,7 +2776,7 @@ Provided that this section shall only apply to the sale of a place of employment
 
 owed on account of the subcontract by
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 subcontractor for labour as aforesaid,
 
@@ -2792,7 +2792,7 @@ Provided further that—
 
 (b) where the person liable is a principal and where the wages are claimed from such principal under section 116c, the total amount of the wages of any employee to which priority over the claim of a secured creditor is given by this section shall not exceed the amount due by the principal to the contractor at the date of the sale, attachment or garnishment unless the contractor is also a subcontractor for labour;
 
-(c) where the person liable is a contractor or subcontractor who owes money to a subcontractor f o r labour, t h e total amount due to such subcontractor for labour to which priority over the claim of a secured creditor is given by this section shall not exceed the amount due by such subcontractor for labour to his employees (including any further subcontractors for labour under such first-mentioned subcontractor
+(c) where the person liable is a contractor or subcontractor who owes money to a subcontractor for labour, the total amount due to such subcontractor for labour to which priority over the claim of a secured creditor is given by this section shall not exceed the amount due by such subcontractor for labour to his employees (including any further subcontractors for labour under such first-mentioned subcontractor
 
 <!-- marginal: for -->
 
@@ -2822,7 +2822,7 @@ Provided that—
 
 not be liable to any employee under
 
-<!-- marginal: t h i s -->
+<!-- marginal: this -->
 
 subsection for more than the wages due
 
@@ -2930,13 +2930,13 @@ seksyen yang berikut:
 
 Effect of
 
-### 123c.
+### 1 2 3 c .
 
-F r o m a n d after t h e determination
+From and after the determination
 
 <!-- marginal: o f -->
 
-<!-- marginal: a n y -->
+<!-- marginal: any -->
 
 imprison- imprisonment suffered under the Ordinance for nonpayment of the ment. amount of any fine, together with the costs assessed and directed to be paid by any order of court, the amount so ordered shall be deemed to be liquidated and discharged, and the order shall be annulled."
 
@@ -3440,7 +3440,7 @@ employment of non-resident employee;
 
 “Savings
 
-132. Any contract of service lawfully entered into between any and employer and any employee and any licence issued under section transitional of contracts, 118 valid and in force before the date of coming into force of this etc., entered Ordinance shall, if it is still legally binding upon the parties, into before this continue to be in force after such date and, subject to the Ordinance. e x p r e s s p r o v i s i o n s contained in such contract or licence, the parties thereto shall be subject and entitled to the benefit of the provisions of this Ordinance within six months from the date of coming into operation of this section."
+132. Any contract of service lawfully entered into between any and employer and any employee and any licence issued under section transitional of contracts, 118 valid and in force before the date of coming into force of this etc., entered Ordinance shall, if it is still legally binding upon the parties, into before this continue to be in force after such date and, subject to the Ordinance. express provisions contained in such contract or licence, the parties thereto shall be subject and entitled to the benefit of the provisions of this Ordinance within six months from the date of coming into operation of this section."
 
 <!-- page 98 -->
 

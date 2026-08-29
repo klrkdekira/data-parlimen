@@ -1352,7 +1352,7 @@ menjalankan mana-mana kuasa yang diberikan kepadanya di bawah seksyen 64 Akta Sy
 
 (b) tertakluk kepada subseksyen 64(3), tiada pekongsi hilang kelayakan di bawah perenggan
 
-<!-- marginal: 64(l)(b) -->
+<!-- marginal: 6 4 ( l )( b) -->
 
 hingga (e), untuk bertindak sebagai juruaudit institusi yang ditetapkan itu.
 

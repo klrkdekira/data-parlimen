@@ -56,7 +56,7 @@ Pindaan
 
 ### 2 lA
 
-"Saraan 2lA. Maka hendaklah dibayar kepada ahli-ahli a t a u, Lembaga, Majlis Sains, jawatankuasa atau mana- mana orang lain (yang bukan seorang pegawai atau pengkhidmat Lembaga yang termasuk di dalam bidang kuasa peruntukan-peruntukan Akta ini berhubungan dengan terma dan sy arat perkhidmatan yang terpakai bagi halnya) apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri.".
+"Saraan 2lA. Maka hendaklah dibayar kepada ahli-ahli atau, Lembaga, Majlis Sains, jawatankuasa atau mana- mana orang lain (yang bukan seorang pegawai atau pengkhidmat Lembaga yang termasuk di dalam bidang kuasa peruntukan-peruntukan Akta ini berhubungan dengan terma dan sy arat perkhidmatan yang terpakai bagi halnya) apa-apa saraan atau elaun sebagaimana yang ditentukan oleh Menteri.".
 
 <!-- page 3 -->
 

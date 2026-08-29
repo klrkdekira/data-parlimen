@@ -280,7 +280,7 @@ combination of both, of which its market value, delivery or payment obligations 
 
 (a) specify and describe the regulated activity to which the licence is granted;
 
-(b) specify any condition or restriction of t h e licence as
+(b) specify any condition or restriction of the licence as
 
 <!-- marginal: the Commission -->
 

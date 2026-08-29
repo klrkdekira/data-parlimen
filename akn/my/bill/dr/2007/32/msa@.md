@@ -270,7 +270,7 @@ registration of trade unions, be represented by any official of an organization 
 
 ### Pindaan seksyen 23A
 
-19. Seksyen 23A Akta i b u dipinda dengan memotong subseksyen (2).
+19.Seksyen23AAktaibudipindadenganmemotong subseksyen (2).
 
 ### Pindaan seksyen 27
 

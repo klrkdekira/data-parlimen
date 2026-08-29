@@ -1054,7 +1054,7 @@ on by such licensee, be subject to any of the provisions
 
 <!-- marginal: Act 1963 and -->
 
-ofthelnsurance Act 1963 or the T a k a f ul 1984, orany
+ofthelnsurance Act 1963 orthe Takaful 1984, orany
 
 <!-- marginal: Takaful Act -->
 

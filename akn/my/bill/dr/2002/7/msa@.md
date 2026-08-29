@@ -16,9 +16,9 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Tajuk ringkas dan permulaan kuat kuasa
 
-1. (1) Akta i ni bolehlah dmamakan Akta Kesalahan P i l i h an Raya (Pindaan) 2002.
+1. (1) Aktaini bolehlahdmamakan AktaKesalahan Pilihan Raya (Pindaan) 2002.
 
-(2) Akta i ni mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri m e l a l ui pemberitahuan dalam Warta.
+(2) Akta i ni mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
 ### Pindaan seksyen 2
 
@@ -118,7 +118,7 @@ yang disabitkan atas sesuatu kesalahan di bawah seksyen ini tidak boleh didaftar
 
 (a) dalam perenggan ,( a ), dengan memasukkan selepas perkataan 'tiap-tiap orang yang" perkataan ", sebelum, semasa atau selepas sesuatu pilihan raya,";
 
-(b) dalam perenggan ( b ), dengan rnemasukkan selepas perkataan "tiap-tiap orang yang" perkataan ", sebelum, semasa atau selepas sesuatu p i l i h an raya,";
+(b) dalam perenggan ( b ), dengan rnemasukkan selepas perkataan "tiap-tiap orang yang" perkataan ", sebelum, semasa atau selepas sesuatu pilihan raya,";
 
 <!-- page 5 -->
 
@@ -314,7 +314,7 @@ apa-apa iklan, risalah, brosur, bendera, panji-panji, sepanduk, tetunggul, poste
 
 (b) bendera, panji-panji, sepanduk, tetunggul, poster, pelekat, surat sebaran atau label tidak boleh melebihi tiga ribu sentimeter persegi; dan
 
-(c) papan i k l an sementara tidak boleh melebihi tiga meter lebar dan dua belas meter panjang.
+(c) papan iklan sementara tidak boleh melebihi tiga meter lebar dan dua belas meter panjang.
 
 (7) Tiada seorang pun boleh, semasa tempoh berkempen, mempamerkan atau melekatkan apa-apa bahan kempen pilihan raya dalam jarak lima puluh meter dari sempadan mana-mana tempat mengundi.
 
@@ -402,7 +402,7 @@ digunakan di dalam atau di atas mana-mana vesel, binatang, motokar, trak atau ke
 
 26A. (1) Suruhanjaya Pilihan Raya hendaklah, pada hari mengundi, mengadakan apa-apa bilangan barung yang terletak di mana-mana tempat yang difikirkannya perlu bagi maksud membantu pemilih-pemilih menentukan nombor-nombor pilihan raya mereka dalam daftar pemilih.
 
-(2) Ejen piiihan raya seseorang calon hendaklah melantik tidak lebih daripada empat orang u n t uk bertindak sebagai pemerhati barung bagi pihak calon itu, dan hendaklah, sebelum permulaan pengundian, memberitahu ketua tempat mengundi di setiap tempat mengundi secara.bertulis nama dan alamat pemerhati barung yang dilantik untuk hadir di barung berkenaan dengan tempat mengundi itu.
+(2) Ejen piiihan raya seseorang calon hendaklah melantik tidak lebih daripada empat orang untuk bertindak sebagai pemerhati barung bagi pihak calon itu, dan hendaklah, sebelum permulaan pengundian, memberitahu ketua tempat mengundi di setiap tempat mengundi secara.bertulis nama dan alamat pemerhati barung yang dilantik untuk hadir di barung berkenaan dengan tempat mengundi itu.
 
 (3) Tiap-tiap pemerhati barung seseorang calon yang dilantik di bawah subseksyen (2) hendaklah hadir di barung itu sekurang- kurangnya selama dua jam dan penggantinya hanya boleh masuk ke barung itu apabila habis tempoh dua jam itu.".
 
@@ -742,7 +742,7 @@ Kesalahan Pilihan Raya (Pindaan)
 
 (xiii) dalam kaedah 29—
 
-(A) dalam subkaedah (2), dengan menggantikan perkataan "disiarkan d a l am Warta" dengan perkataan "ditampalkan pada papan notis
+(A) dalam subkaedah (2), dengan menggantikan perkataan "disiarkan dalam Warta" dengan perkataan "ditampalkan pada papan notis
 
 <!-- page 26 -->
 
@@ -760,7 +760,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Kesalahan Pilihan Raya 1954 
 
 2. Fasal 1 bertujuan untuk mengadakan peruntukan bagi tajuk ringkas dan mengandungi peruntukan mengenai permulaan kuat kuasa Akta yang dicadangkan.
 
-3. Fasal 2 bertujuan u n t uk meminda seksyen 2 Akta 5. Fasal ini bertujuan untuk memasukkan takrif tempoh berkempen" yang merujuk kepada tempoh yang dalamnya seseorang calon atau ejen pilihan rayanya boleh mengadakan kempen pilihan raya di dalam bahagian pijihan rayanya. Takrif "pegawai pengurus" dimasukkan bagi maksud penjelasan sahaja-
+3. Fasal 2 bertujuan untuk meminda seksyen 2 Akta 5. Fasal ini bertujuan untuk memasukkan takrif tempoh berkempen" yang merujuk kepada tempoh yang dalamnya seseorang calon atau ejen pilihan rayanya boleh mengadakan kempen pilihan raya di dalam bahagian pijihan rayanya. Takrif "pegawai pengurus" dimasukkan bagi maksud penjelasan sahaja-
 
 4. Fasal 3 bertujuan untuk meminda seksyen 3 Akta 5 berhubung dengan kesalahan pitihan raya. Fasal ini bertujuan untuk memasukkan dua kesalahan baru, iaitu kesalahan menggalang atau menghalang seseorang pengundi yang berhak mengundi daripada mengundi dalam sesuatu pilihan raya dan kesalahan mengundi dalam sesuatu pilihan raya di lebih daripada satu tempat mengundi sama ada di dalam bahagian pilihan raya yang sama atau yang berlainan. Fasal ini juga bertujuan untuk menambahkan penaiti denda dua ribu ringgit yang sedia ada kepada lima ribu ringgit. ' ,
 
@@ -794,7 +794,7 @@ Subseksyen baru ( 1 A) dicadangkan supaya dimasukkan ke dalam seksyen 14 untuk m
 
 28 Rang Undang-Undang
 
-13. Fasal 16 bertujuan u n t uk meminda seksyen 24 Akta 5 untuk menambahkan fi yang kena dibayar bagi membuat cabutan atau salinan daripada mana-mana penyata berkenaan dengan belanja pilihan raya dan pernyataan yang dibuat mengenai penyata itu. Fi dua ringgit yang sedia ada akan dinaikkan kepada sepuluh ringgit, sementara fi lima puluh sen yang sedia ada akan dinaikkan kepada dua ringgit.
+13. Fasal 16 bertujuan untuk meminda seksyen 24 Akta 5 untuk menambahkan fi yang kena dibayar bagi membuat cabutan atau salinan daripada mana-mana penyata berkenaan dengan belanja pilihan raya dan pernyataan yang dibuat mengenai penyata itu. Fi dua ringgit yang sedia ada akan dinaikkan kepada sepuluh ringgit, sementara fi lima puluh sen yang sedia ada akan dinaikkan kepada dua ringgit.
 
 14. Fasal 17 bertujuan untuk memasukkan seksyen baru 24A dan 24B ke dalam Akta 5-
 

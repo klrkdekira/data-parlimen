@@ -216,7 +216,7 @@ Racun Makhluk Perosak (Pindaan)
 
 (b) dalam subseksyen (1) —
 
-(i) dengan memasukkan selepas perkataan "penyelidikan" perkataan "atau sebagai suatu contoh pendaftaran atau piawaian cerakinan,";
+( i ) dengan memasukkan selepas perkataan "penyelidikan" perkataan "atau sebagai suatu contoh pendaftaran atau piawaian cerakinan,";
 
 <!-- page 8 -->
 
@@ -452,7 +452,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Racun Makhluk Perosak 1974 (
 
 <!-- page 16 -->
 
-10. Fasal 9 bertujuan untuk memasukkan seksyen baru 1()A ke dalam Akta 149 untuk mcnghendaki seseorang yang atas permohonannya suatu racun makhluk perosak telah didaftarkan supaya memberitahu Lembaga jika dia mcnemui apa- apa kcmudaratan makhluk perosak i t u terhadap binatang, tumbuh-tumbuhan, buah-buahan atau harta.
+10. Fasal 9 bertujuan untuk memasukkan seksyen baru 1()A ke dalam Akta 149 untuk mcnghendaki seseorang yang atas permohonannya suatu racun makhluk perosak telah didaftarkan supaya memberitahu Lembaga jika dia mcnemui apa- apa kcmudaratan makhluk perosak itu terhadap binatang, tumbuh-tumbuhan, buah-buahan atau harta.
 
 11. Fasal II bertujuan untuk meminda seksyen 13 Akta 149 untuk menambah pcnalti untuk kesalahan di bawah seksyen itu. Pindaan yang serupa dicadangkan kepada seksyen 14, 20, 53 dan 56 Akta masing-masing melalui fasal 12, 16, 23 dan 25.
 
@@ -468,7 +468,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Racun Makhluk Perosak 1974 (
 
 17. Fasal 20 bertujuan untuk memotong seksyen 44 Akta memandangkan bahawa peruntukan sebagaimana yang dicadangkan dalam fasal 19 memadai untuk memastikan bahawa pencerakinan sesuatu bahan dibuat dalam masa yang munasabah.
 
-18. Fasal 21 bertujuan untuk memasukkan dua seksyen baru kc dalam Akta 149, iaitu seksyen 45A dan 45B. Seksyen 45A memperuntukkan bahawa jika label pada bungkusan yang mengandungi suatu bahan memperihalkan bahan itu sebagai racun makhluk perosak, adalah dianggap bahawa label i t u merupakan keterangan bahawa bahan itu ialah racun makhluk perosak. Di bawah seksyen 45B yang dicadangkan, racun makhluk perosak yang tcrdapat dalam mana-mana premis yang dilesenkan bagi penjualan atau penyimpanan untuk jualan racun makhluk perosak dianggap dimaksudkan untuk penjualan atau disimpan untuk jualan.
+18. Fasal 21 bertujuan untuk memasukkan dua seksyen baru kc dalam Akta 149, iaitu seksyen 45A dan 45B. Seksyen 45A memperuntukkan bahawa jika label pada bungkusan yang mengandungi suatu bahan memperihalkan bahan itu sebagai racun makhluk perosak, adalah dianggap bahawa label itu merupakan keterangan bahawa bahan itu ialah racun makhluk perosak. Di bawah seksyen 45B yang dicadangkan, racun makhluk perosak yang tcrdapat dalam mana-mana premis yang dilesenkan bagi penjualan atau penyimpanan untuk jualan racun makhluk perosak dianggap dimaksudkan untuk penjualan atau disimpan untuk jualan.
 
 <!-- page 17 -->
 

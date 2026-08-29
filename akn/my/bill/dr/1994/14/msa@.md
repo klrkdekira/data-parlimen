@@ -914,7 +914,7 @@ dengan Hakim Besar Mahkamah
 
 (f) dalam Fasal (5), dengan menggantikan
 
-perkataan "Perkara 122A(2)" dengan
+perkataan "Perkara 1 2 2 A ( 2 )" dengan
 
 perkataan "Perkara 122AA(2)"; dan
 
@@ -1194,7 +1194,7 @@ fasal yang berikut:
 
 'Pindaan 27. Perkara 131A Perlembagaan Persekutuan adalah Perkara 131A. dipinda -
 
-(a) dalam nota b i r a i, dengan memasukkan
+(a) dalam nota birai, dengan memasukkan
 
 selepas perkataan "Ketua
 

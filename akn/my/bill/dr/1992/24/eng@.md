@@ -84,7 +84,7 @@ IV
 
 45. Liability of members of thc Board.
 
-46. Remuneration to the members of the Board and Internal A u d it Committee.
+46. Remuneration to the members of the Board and Internal Audit Committee.
 
 47. Suspcnsion of officcr of registered sociely.
 
@@ -114,11 +114,11 @@ Clauses 53. Restriction on other transactions with non-members. 54. Investment o
 
 DIT
 
-58. Maintenance of accounts 59 F i n a n c i al statement and report of the Board. 60. Audit. 61. Approval ol auditor of registered societies. 62. Circumstances disqualifying a person from being approved or acting as auditor of a registered society. 63. Dulies of auditor.
+58. Maintenance of accounts 59 Financial statement and report of the Board. 60. Audit. 61. Approval ol auditor of registered societies. 62. Circumstances disqualifying a person from being approved or acting as auditor of a registered society. 63. Dulies of auditor.
 
 ## PART VIII
 
-64 Power of Registrar-General to inspect books. etc., of registered societies. 65. Power to seize and detain hooks and documents. 66. Inquiry. 67. Registrar- general may communicate in registered society result of inspection or inquiry. 68. Inspection on the application of creditors. 69. Power of Registrar-General consequent upon i n q u i r y. 70. Officer removed by t he order of Registrar-General s h a ll not hc reappointed. 7 1. Dissolution 72 Revocation of registration of a society due
+64 Power of Registrar-General to inspect books. etc., of registered societies. 65. Power to seize and detain hooks and documents. 66. Inquiry. 67. Registrar- general may communicate in registered society result of inspection or inquiry. 68. Inspection on the application of creditors. 69. Power of Registrar-General consequent upon inquiry. 70. Officer removed by the order of Registrar-General shall not hc reappointed. 7 1. Dissolution 72 Revocation of registration of a society due
 
 <!-- marginal: to -->
 
@@ -374,7 +374,7 @@ registered as a primary society unless—
 
 <!-- marginal: Application -->
 
-6. ( 1) Every application for registration s h a tl be
+6. (1) Every application for registration shatl be
 
 <!-- marginal: for -->
 
@@ -416,7 +416,7 @@ Special
 
 8. ( 1) Notwithstanding subsection 5( 1), if a society is provision unable to fulfill the condition specified in paragraph for certain societies. 5 ( \ ) ( a) but is otherwise entitled to registration under section 7, the Registrar-General may, after taking into account the number of persons in such society's proposed area of operation who are qualified for membership and the nature of the society's proposed activities, and if such society consists of at least twenty persons, register such society as a primary society under this Act.
 
-(2) Notwithstanding paragraph 6(2)(b),
+(2) Notwithstanding paragraph 6 ( 2 ) ( b ),
 
 <!-- marginal: the -->
 
@@ -540,7 +540,7 @@ Amendment
 
 (3) If the Registrar-General is satisfied that any amendment of the by-!aws is not contrary to this Act or to the regulations he may register the amendment.
 
-(4) An appeal against the refusal of the Registrar- General to register any amendment of any by-law shall l ie to the Minister w i t h in three months from the date of s u ch refusal.
+(4) An appeal against the refusal of the Registrar- General to register any amendment of any by-law shall lietothe Minister withinthreemonthsfromthedateof s u ch refusal.
 
 <!-- page 15 -->
 
@@ -1366,7 +1366,7 @@ and shall state in his report whether—
 
 ## PART VIII
 
-## INSPECTION, I N Q U I R Y, DISSOLUTION AND DISPUTES
+## INSPECTION, INQUIRY, DISSOLUTION AND DISPUTES
 
 Power of
 

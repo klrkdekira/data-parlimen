@@ -358,7 +358,7 @@ selepas sahaja seksyen 41 seksyen baru 41A dan 41B yang berikut:
 
 Fungsi 4lB. Majlis Penasihat Kebangsaan bagi Taman Majlis Laut dan Rizab Laut hendaklah menasihati Penasihat Kebangsaan Menteri mengenai apa-apa perkara yang bagi Taman berhubungan dengan kawasan taman laut atau Laut dan rizab laut khususnya— Rizab Laut.
 
-(a) u n t uk menentukan garis panduan berkenaan dengan perlindungan, pemuliharaan, penggunaan, kawalan, pengurusan dan kemajuan kawasan- kawasan taman laut dan rizab laut bagi pelaksanaan di peringkat kebangsaan;
+(a) untuk menentukan garis panduan berkenaan dengan perlindungan, pemuliharaan, penggunaan, kawalan, pengurusan dan kemajuan kawasan- kawasan taman laut dan rizab laut bagi pelaksanaan di peringkat kebangsaan;
 
 (b) untuk menyelaraskan pembangunan mana-mana kawasan taman laut atau rizab laut dengan Kerajaan Persekutuan dan mana-mana pertubuhan per- badanan; dan
 
@@ -380,7 +380,7 @@ undang-undang untuk memberikan maklumat atau mengemukakan dokumen atau benda lai
 
 <!-- marginal: itu boleh -->
 
-melaporkan keengganan itu kepada seorang Majistret yang sesudah itu boleh mengikut budi bicaranya mengeluarkan suatu waran u n t uk memastikan kehadiran orang
+melaporkan keengganan itu kepada seorang Majistret yang sesudah itu boleh mengikut budi bicaranya mengeluarkan suatu waran untuk memastikan kehadiran orang
 
 <!-- marginal: itu -->
 
@@ -486,7 +486,7 @@ Pindaan
 
 (d) dengan menomborkan semula perenggan (aj) sebagai perenggan (al) dan memasukkan selepas sahaja perenggan ( a i) perenggan-perenggan baru (aj) dan (ak) yang berikut:
 
-'"(aj) u n t uk mengadakan peruntukan bagi pendaftaran dan pengeluaran dokumen- dokumen pengenalan yang sesuai kepada mana-mana orang yang dibawa atau bekerja di atas mana-mana vesel penangkapan ikan berlesen dan untuk menetapkan fee yang kena dibayar baginya;
+'"(aj) untuk mengadakan peruntukan bagi pendaftaran dan pengeluaran dokumen- dokumen pengenalan yang sesuai kepada mana-mana orang yang dibawa atau bekerja di atas mana-mana vesel penangkapan ikan berlesen dan untuk menetapkan fee yang kena dibayar baginya;
 
 (ak) untuk mengawalselia pendaftaran vesel penangkapan ikan tempatan dan pengeluaran dokumen-dokumen yang sesuai berkenaan dengannya;".
 

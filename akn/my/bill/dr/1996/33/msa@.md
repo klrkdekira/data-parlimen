@@ -778,7 +778,7 @@ Tatatertib
 
 23B. (1) Rektor hendaklah mempunyai kuasa pelajar tatatertib ke atas tiap-tiap pelajar. Institut.
 
-(2) Rektor hendaklah mempunyai kuasa u n t uk mengambil tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib yang diperuntukkan di bawah kaedah-kaedah yang dibuat di bawah seksyen 35.
+(2) Rektor hendaklah mempunyai kuasa untuk mengambil tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib yang diperuntukkan di bawah kaedah-kaedah yang dibuat di bawah seksyen 35.
 
 (3) Rektor boleh mewakilkan mana-mana kuasa, kewajipan atau tugas tatatertibnya kepada mana-mana kakitangan, atau kepada mana-mana lembaga kakitangan, berkenaan dengan mana- mana pelajar tertentu, atau mana-mana golongan atau kategori pelajar Institut:
 

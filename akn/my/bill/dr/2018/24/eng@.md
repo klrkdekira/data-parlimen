@@ -1210,7 +1210,7 @@ for every RM100
 
 <!-- marginal: RM1.00”; and -->
 
-and also for any fractional part of RM100 of t h e annuity or sum periodically payable
+and also for any fractional part of R M 1 0 0 o f the annuity or sum periodically payable
 
 (ii) in subitem (6), by inserting after the words “in accordance with the” the words “conventional hire purchase and”;
 

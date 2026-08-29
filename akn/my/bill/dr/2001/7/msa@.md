@@ -100,7 +100,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Duti Hiburan 1953 ("Akta 103
 
 6. Fasal 5 bertujuan untuk meminda seksyen 12 Akta 103. Pindaan ini bertujuan untuk menjelaskan bahawa Pihak Berkuasa Negeri boleh mengecualikan mana- mana hiburan daripada pembayaran keseluruhan atau mana-mana bahagian duti hiburan. Pindaan ini juga bertujuan untuk memberi Pemungut kuasa untuk mengecualikan apa-apa hiburan yang berkenaan dengannya jumlah keseluruhan duti hiburan yang dikenakan tidak melebihi dua ribu ringgit. Sekarang ini, Pemungut hanya diberi kuasa untuk mengecualikan apa-apa hiburan yang berkenaan dengannya jumlah keseluruhan duti hiburan yang dikenakan tidak melebihi lima ratus ringgit.
 
-7. Fasal 6 bertujuan untuk meminda seksyen 18 Akta 103. Dengan pindaan ini, amaun m a k s i m um yang boleh dipungut apabila sesuatu kesalahan dikompaunkan dinaikkan danpada satu ribu ringgit kepada tiga ribu ringgit.
+7. Fasal 6 bertujuan untuk meminda seksyen 18 Akta 103. Dengan pindaan ini, amaun maksimum yang boleh dipungut apabila sesuatu kesalahan dikompaunkan dinaikkan danpada satu ribu ringgit kepada tiga ribu ringgit.
 
 8. Fasal 7 bertujuan untuk meminda seksyen 20 Akta 103 untuk menaikkan amaun maksimum denda yang boleh dikenakan berkenaan dengan kesalahan pertama daripada dua ribu ringgit kepada enam ribu ringgit dan berkenaan dengan kesalahan kedua dan berikutnya daripada lima ribu ringgit kepada lima belas ribu ringgit. Pindaan ini juga bertujuan untuk menaikkan denda maksimum yang boleh dikenakan ke atas orang yang dibenarkan masuk bagi sesuatu hiburan daripada dua ratus ringgit kepada enam ratus ringgit.
 

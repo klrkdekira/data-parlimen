@@ -1374,7 +1374,7 @@ hendaklah boleh diterima sebagai keterangan dalam mana-mana prosiding di bawah A
 
 (a) suatu pernyataan pembelaan yang menyatakan secara am jenis pembelaan dan perkara-perkara mengenai pendakwaan yang dibantah oleh tertuduh, dengan menyatakan sebab- sebabnya; dan
 
-(b) s u atu s alin an man a-m a na d ok ume n y a ng ak an dikemukakan sebagai sebahagian daripada keterangan bagi pembelaan.
+(b) suatu salinan mana-mana dokumen yang akan dikemukakan sebagai sebahagian daripada keterangan bagi pembelaan.
 
 ### Pemeriksaan pesalah
 

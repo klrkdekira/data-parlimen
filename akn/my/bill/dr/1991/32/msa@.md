@@ -268,7 +268,7 @@ Kesalahan
 
 (2) Bagi maksud-maksud Akta ini, kesalahan ekstradisi ialah suatu kesalahan, bagaimanapun diperihalkan, termasuk kesalahan-kesalahan fiskal—
 
-(a) yang boleh dihukum, di bawah undang-undang sesuatu negara yang disebutkan di bawah perenggan 1(2)(a) atau 1(2)(b), dengan hukuman pemenjaraan yang tidak kurang daripada satu tahun atau hukuman mati; dan
+(a) yang boleh dihukum, di bawah undang-undang sesuatu negara yang disebutkan di bawah perenggan 1( 2 ) ( a) atau 1( 2 ) ( b ), dengan hukuman pemenjaraan yang tidak kurang daripada satu tahun atau hukuman mati; dan
 
 (b) yang, jika dilakukan dalam bidang kuasa Malaysia, boleh dihukum di bawah undang- undang Malaysia dengan hukuman pemenjaraan yang tidak kurang daripada satu tahun atau hukuman mati: Dengan syarat bahawa, dalam hal sesuatu kesalahan luar wilayah, kesalahan itu boleh dihukum sedemikian di bawah undang-undang Malaysia jika ia berlaku dalam hal keadaan yang bersamaan di luar Malaysia.
 

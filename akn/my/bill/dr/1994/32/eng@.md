@@ -30,7 +30,7 @@ hundred and fourteen thousand and four hundred
 
 <!-- marginal: Act A870 -->
 
-f u l ly provided for by the Supply Act 1994,
+fully provided for by the Supply Act 1994,
 
 <!-- marginal: the -->
 

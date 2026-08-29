@@ -132,7 +132,7 @@ Appointment 66c. (1) The owner of a ship shall, before of a ship applying for a 
 
 (a) a Malaysian citizen having his permanent residence in Malaysia; or
 
-(b) a company incorporated in Malaysia and h a v i ng its principal place of business in Malaysia.
+(b) a company incorporated in Malaysia and having its principal place of business in Malaysia.
 
 (3) The owner of a ship shall ensure that a ship manager is appointed for the entire period that his ship remains registered under this Part.
 

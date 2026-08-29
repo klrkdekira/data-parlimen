@@ -124,7 +124,7 @@ Power of 24A. (1) The Minister may grant a licence to a Minister to company nomi
 
 (a) the function to be carried out or the services to be provided by the company; and references in this Act to any airport and aviation services shall be references to the services so provided by the company;
 
-(b) the compliance by the company of performance standards established by the Director General under paragraph 2B(l)(a);
+(b) the compliance by the company of performance standards established by the Director General under paragraph 2 B ( l ) ( a );
 
 (c) the airport or airports to be operated by the company; and references in this Act to any
 

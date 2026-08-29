@@ -714,7 +714,7 @@ This amendment has effect for the year of assessment 2007 and subsequent years o
 
 Clause 15 also seeks to amend subsection 44(11 A) of Act 53. With the proposed amendment, a person other than an offshore company and individual is entitled to deduct from its aggregate income an amount equal to zakat perniagaan paid to an appropriate religious authority established under any written law limited to one-fortieth of the person's aggregate income.
 
-Clause 15 further seeks to introduce new subsections 44(1 1B) and ( l i e ) into Act 53. The proposed new subsections provide for a deduction equal to any gift of money or cost of contribution made by a person for any sports activity or any project of national interest approved by the Minister or to any sports body approved by the Commissioner of Sports. However, the total amount of deduction to be allowed pursuant to those subsections and proviso to subsection 44(6) shall not exceed seven per cent of the aggregate income of that person.
+Clause 15 further seeks to introduce new subsections 44(1 1B) and (lie) into Act 53. The proposed new subsections provide for a deduction equal to any gift of money or cost of contribution made by a person for any sports activity or any project of national interest approved by the Minister or to any sports body approved by the Commissioner of Sports. However, the total amount of deduction to be allowed pursuant to those subsections and proviso to subsection 44(6) shall not exceed seven per cent of the aggregate income of that person.
 
 These amendments have effect for the year of assessment 2007 and subsequent years of assessment.
 
@@ -880,7 +880,9 @@ This amendment is deemed to have come into operation on 2 September
 
 ## AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967
 
-Chap ter V o f t his B ill seeks to a me nd the P etr o leu m ( I nco me T ax) Act 1967.
+## Chapter V of this Bill seeks to amend the Petroleum (Income Tax)
+
+Act 1967.
 
 36. Clause 49 seeks to amend subsection 22(1) of Act 543 to increase the maximum amount allowed as a deduction for any donation made in accordance with that subsection from five per cent to seven per cent of the statutory income of the chargeable person.
 
@@ -912,6 +914,6 @@ This amendment comes into operation on 1 January 2007.
 
 ## FINANCIAL IMPLICATIONS
 
-This B i l l will not involve the Government in any extra financial expenditure.
+This Bill will not involve the Government in any extra financial expenditure.
 
 <!-- marginal: [PN(UZ)2558] -->

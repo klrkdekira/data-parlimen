@@ -4766,7 +4766,7 @@ majlis atau badan undang yang
 
 pengelola lain badan menubuhkan,
 
-<!-- marginal: i t u -->
+<!-- marginal: itu -->
 
 <!-- marginal: tidak -->
 
@@ -4792,9 +4792,9 @@ dipanggil
 
 <!-- marginal: dengan orang -->
 
-<!-- marginal: l a i n -->
+<!-- marginal: lain -->
 
-<!-- marginal: y a n g -->
+<!-- marginal: yang -->
 
 <!-- marginal: memiliki badan -->
 
@@ -4816,9 +4816,9 @@ Ruang Pertama Ruang Kedua Ruang Ketiga
 
 <!-- marginal: pekongsi -->
 
-Perkongsian pekongsi am (atau orang pembentukannya terhad yang memegang peranan a t a u
+Perkongsian pekongsi am (atau orang pembentukannya terhad yang memegang peranan atau
 
-<!-- marginal: j i k a -->
+<!-- marginal: jika -->
 
 yang serupa) pendaftaran atau bentuk perekodan atau pengiktirafan lain dikehendaki sebelum aktiviti atau perniagaan boleh dimulakan menurut undang-undang, pendaftaran, perekodan atau pengiktirafan undang- undangnya di bawah undang- undang yang terpakai
 
@@ -4826,9 +4826,9 @@ pembentukannya Perkongsian pekongsi ditetapkan
 
 <!-- marginal: pekongsi -->
 
-a t a u
+atau
 
-<!-- marginal: j i k a -->
+<!-- marginal: jika -->
 
 liabiliti terhad (atau orang yang
 

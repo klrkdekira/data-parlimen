@@ -134,7 +134,7 @@ who have been registered as Professional Engineers for not less than seven years
 
 (d) dalam perenggan (l)(g), dengan menggantikan perkataan "Board" dengan perkataan "Disciplinary Committee";
 
-(e)dalamperenggan(l)(i),denganmenggantikanperkataan "Board" di mana-mana jua terdapat dengan perkataan "Disciplinary Committee";
+(e) dalam perenggan ( l ) ( i ) , dengan menggantikan perkataan "Board" di mana-mana jua terdapat dengan perkataan "Disciplinary Committee";
 
 (f) dalam perenggan (lA)(b), dengan menggantikan perkataan "five" dengan perkataan "fifty";
 

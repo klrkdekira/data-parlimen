@@ -522,7 +522,7 @@ semula jadi dan habitat hidupan akuatik, dengan memberi perhatian yang khusus ke
 
 (ii) membenarkan pertumbuhan semula hidupan akuatik di kawasan itu atau sebahagian daripada kawasan itu di mana hidupan
 
-<!-- marginal: i t u -->
+<!-- marginal: itu -->
 
 <!-- marginal: telah -->
 
@@ -532,7 +532,7 @@ mengalami kemerosotan;
 
 (iv) mengekalkan dan meningkatkan keadaan semulajadi dan daya pengeluaran di kawasan itu atau sebahagian daripada kawasan itu; dan
 
-(v) mengawal selia aktiviti rekreasi dan aktiviti lain di kawasan itu a t a u
+(v) mengawal selia aktiviti rekreasi dan aktiviti lain di kawasan itu atau
 
 <!-- marginal: sebahagian -->
 

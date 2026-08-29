@@ -8,7 +8,7 @@
 
 bernama
 
-Suatu Akta u n t uk meminda Akta Perindustrian Sekuriti 1983. [ ]
+Suatu Akta untuk meminda Akta Perindustrian Sekuriti 1983. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
@@ -62,7 +62,7 @@ Pindaan
 
 ' "skim amanah saham" mempunyai erti yang sama sebagaimana yang diberikan kepada ungkapan itu dalam Akta 498. seksyen 2 Akta Suruhanjaya Sekuriti 1993;'; dan
 
-(b) dalam subseksyen (2), dalam subperenggan (a)(i) dan (a) (iii) dengan memasukkan selepas perkataan "peniaga" perkataan ", pengurus kumpulan wang".
+(b) dalam subseksyen (2), dalam subperenggan (a)(i) dan ( a ) ( i i i) dengan memasukkan selepas perkataan "peniaga" perkataan ", pengurus kumpulan wang".
 
 <!-- marginal: Pindaan -->
 
@@ -246,7 +246,7 @@ Pindaan
 
 (c) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
 
-"(2) Dalam pendakwaan terhadap suatu kesalahan di bawah perenggan (d) subseksyen (1), berhubung dengan merekodkan atau menyimpan maklumat, adalah menjadi suatu pembelaan jika pihak defendan membuktikan bahawa semasa maklumat itu direkodkan atau disimpan, dia tidak mempunyai alasan yang munasabah u n t uk menjangka bahawa maklumat itu boleh didapati oleh mana-mana orang.".
+"(2) Dalam pendakwaan terhadap suatu kesalahan di bawah perenggan (d) subseksyen (1), berhubung dengan merekodkan atau menyimpan maklumat, adalah menjadi suatu pembelaan jika pihak defendan membuktikan bahawa semasa maklumat itu direkodkan atau disimpan, dia tidak mempunyai alasan yang munasabah untuk menjangka bahawa maklumat itu boleh didapati oleh mana-mana orang.".
 
 Pindaan
 
@@ -470,7 +470,7 @@ dengan sebenarnya mempunyai maklumat pada masa itu jika—
 
 (ii) tiada nasihat mengenai keputusan untuk membuat transaksi atau perjanjian itu telah diberikan kepada pekongsi atau pekerja itu oleh seseorang pekongsi atau pekerja yang mempunyai maklumat itu;
 
-(iii) pekongsi atau pekerja yang mempunyai maklumat itu tidak akan terlibat dalam keputusan u n t uk membuat, atau terlibat dalam, transaksi atau perjanjian itu; dan
+(iii) pekongsi atau pekerja yang mempunyai maklumat itu tidak akan terlibat dalam keputusan untuk membuat, atau terlibat dalam, transaksi atau perjanjian itu; dan
 
 <!-- page 19 -->
 
@@ -546,7 +546,7 @@ Pembelaan
 
 <!-- page 23 -->
 
-tidak disedari dalam harga atau nilai sekuriti itu, mengikut mana- mana yang berkenaan, u n t uk dirinya atau mana-mana orang lain disebabkan oleh kesan yang mungkin terjadi ke atas maklumat itu apabila ia boleh didapati secara umum; dan
+tidak disedari dalam harga atau nilai sekuriti itu, mengikut mana- mana yang berkenaan, untuk dirinya atau mana-mana orang lain disebabkan oleh kesan yang mungkin terjadi ke atas maklumat itu apabila ia boleh didapati secara umum; dan
 
 (ii) maksud pemerolehan atau pelupusan sekuriti itu tidak termasuk apa-apa maksud mendapatkan keuntungan atau mengelakkan kerugian, mengikut mana-mana yang berkenaan, bagi dirinya atau mana-mana orang lain disebabkan oleh kesan yang mungkin terjadi ke atas maklumat itu apabila ia boleh didapati secara umum.
 
@@ -612,7 +612,7 @@ Menclapal- 90A. (1) Seseorang yang mengalami kan kehilangan atau kerugian diseba
 
 (b) harga yang padanya sekuriti itu mungkin boleh dilupuskan pada masa pelupusan atau pembuatan perjanjian itu, mengikut mana-mana yang berkenaan, yang disebut dalam perenggan (a) sekiranya maklumat itu boleh didapati secara umum.
 
-(5) Jika seseorang orang dalam memperoleh atau bersetuju u n t uk memperoleh, atau mengusahakan supaya orang lain memperoleh atau bersetuju untuk memperoleh, sekuriti, dengan melanggar subseksyen (2) seksyen 89E, dan sekuriti itu dibenarkan diperdagangkan di suatu pasaran saham sesuatu bursa saham, maka, sama ada atau tidak orang dalam itu atau mana- mana orang lain yang terlibat dengan pelanggaran itu telah dipertuduh atas suatu kesalahan berkenaan dengan pelanggaran itu atau sama ada atau tidak pelanggaran itu telah dibuktikan dalam suatu pendakwaan, Suruhanjaya boleh, jika difikirkan olehnya bahawa berbuat demikian memenuhi kepentingan awam, melalui tindakan guaman terhadap orang dalam itu atau mana- mana orang lain yang terlibat dengan pelanggaran itu—
+(5) Jika seseorang orang dalam memperoleh atau bersetuju untuk memperoleh, atau mengusahakan supaya orang lain memperoleh atau bersetuju untuk memperoleh, sekuriti, dengan melanggar subseksyen (2) seksyen 89E, dan sekuriti itu dibenarkan diperdagangkan di suatu pasaran saham sesuatu bursa saham, maka, sama ada atau tidak orang dalam itu atau mana- mana orang lain yang terlibat dengan pelanggaran itu telah dipertuduh atas suatu kesalahan berkenaan dengan pelanggaran itu atau sama ada atau tidak pelanggaran itu telah dibuktikan dalam suatu pendakwaan, Suruhanjaya boleh, jika difikirkan olehnya bahawa berbuat demikian memenuhi kepentingan awam, melalui tindakan guaman terhadap orang dalam itu atau mana- mana orang lain yang terlibat dengan pelanggaran itu—
 
 (a) mendapatkan suatu amaun yang bersamaan dengan tiga kali ganda amaun
 
@@ -1100,17 +1100,17 @@ Pindaan lain kepada seksyen 2 Akta yang dicadangkan dalam fasal 3 ialah—
 
 (b) pemotongan takrif "broker saham" berbangkit daripada pembuangan sebutan mengenai "broker saham" daripada seksyen 2, 14, 39, 89 dan 120 Akta;
 
-(c) pindaan takrif "pasaran saham" u n t uk menjelaskan pengertian istilah itu apabila digunakan dalam Akta;
+(c) pindaan takrif "pasaran saham" untuk menjelaskan pengertian istilah itu apabila digunakan dalam Akta;
 
 (d) pindaan takrif "skim amanah saham" untuk menjadikannya konsisten dengan takrif "skim amanah saham" dalam Akta Suruhanjaya Sekuriti 1993; dan
 
 (e) pindaan subperenggan (2)(a)(1) dan (iii) untuk memasukkan sebutan mengenai pengurus kumpulan wang.
 
-5. Fasal 5 bertujuan meminda subseksyen 14(2) Akta u n t uk menjelaskan bahawa seseorang pengurus kumpulan wang tidak memerlukan suatu lesen penasihat pelaburan apabila menjalankan perniagaan memberi nasihat pelaburan.
+5. Fasal 5 bertujuan meminda subseksyen 14(2) Akta untuk menjelaskan bahawa seseorang pengurus kumpulan wang tidak memerlukan suatu lesen penasihat pelaburan apabila menjalankan perniagaan memberi nasihat pelaburan.
 
 6. Fasal 10 bertujuan meminda seksyen 41 Akta dengan memotong sebutan mengenai seseorang pembeli dalam subseksyen 4 1 ( 1 ). Dengan pindaan ini, sekuriti yang diperdagangkan dalam pasaran wang jangka pendek dikecualikan daripada pemakaian seksyen ini. la juga bertujuan memasukkan perenggan baru (e) untuk membolehkan Menteri mengisytiharkan selanjutnya penjualan sekuriti yang tidak tertakluk kepada seksyen ini.
 
-7. Fasal II bertujuan meminda teks bahasa Inggeris subseksyen 44(1 A) Akta u n t uk menggantikan perkataan "trading" dengan- "business" untuk menjadikannya konsisten dengan istilah yang digunakan dalam peruntukan lain seksyen itu.
+7. Fasal II bertujuan meminda teks bahasa Inggeris subseksyen 44(1A) Akta untuk menggantikan perkataan "trading" dengan- "business" untuk menjadikannya konsisten dengan istilah yang digunakan dalam peruntukan lain seksyen itu.
 
 8. Fasal 12 bertujuan meminda subseksyen 47c(5) Akta untuk menjadikan peruntukan mengenai berniaga sekuriti dan menguruskan harta konsisten dengan peruntukan lain seksyen itu.
 

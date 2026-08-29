@@ -322,7 +322,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (a) in subsection (1)—
 
-(i) b y substituting f o r
+(i) b y substituting for
 
 <!-- marginal: the words -->
 
@@ -332,7 +332,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 (b) in subsection (2)—
 
-(i) b y substituting f o r
+(i) b y substituting for
 
 <!-- marginal: the words -->
 

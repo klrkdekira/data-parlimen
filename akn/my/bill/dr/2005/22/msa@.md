@@ -4,7 +4,7 @@
 
 ## RANG UNDANG-UNDANG
 
-bernama
+b e rn am a
 
 Suatu Akta untuk meminda Akta Undang-Undang Keluarga Islam (Wilayah-Wilayah Persekutuan) 1984.
 

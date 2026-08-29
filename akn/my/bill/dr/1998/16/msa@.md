@@ -990,7 +990,7 @@ III
 
 20. Fasal 16 bertujuan menyatakan kuasa-kuasa dan fungsi-fungsi Suruhanjaya manakala di bawah Fasal 17 pula Suruhanjaya dibenarkan mewakilkan kuasa-kuasa dan fungsi-fungsi itu.
 
-21. Fasal 18 bertujuan memberikan Menteri kuasa u n t uk mengeluarkan arahan-arahan kepada Suruhanjaya.
+21. Fasal 18 bertujuan memberikan Menteri kuasa untuk mengeluarkan arahan-arahan kepada Suruhanjaya.
 
 22. Fasal 19 meletakkan tanggungjawab ke atas Suruhanjaya untuk memberikan penyata-penyata, laporan-laporan, akaun-akaun dan maklumat tertentu.
 

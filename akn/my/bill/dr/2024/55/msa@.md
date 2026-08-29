@@ -46,7 +46,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 6. Seksyen 13 Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
-“(1) Nama sesuatu yayasan Labuan hendaklah termasuk perkataan “Labuan Foundation”, “(L) Foundation”, “Yayasan Labuan” atau “Yayasan (L)” sebagai sebahagian nama yayasan Labuan itu.”.
+“(1) Nama sesuatu yayasan Labuan hendaklah termasuk perkataan “L abua n Fou nda tion” , “ ( L ) F o un d a ti on ” , “Yayasan Labuan” atau “Yayasan (L)” sebagai sebahagian nama yayasan Labuan itu.”.
 
 ### Pindaan seksyen 20
 

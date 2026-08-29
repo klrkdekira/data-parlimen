@@ -336,9 +336,7 @@ a place outside Malaysia in the basis year for the year of assessment 1994, or i
 
 <!-- marginal: seksyen 49. -->
 
-(a) dalam perenggan
-
-(1)(b), dengan meng- gantikan perkataan-perkataan "Employees Provident Fund Ordinance 1951" dengan perkataan-perkataan "Employees Provident Fund Act 1991";
+(a) dalam perenggan ( 1 ) ( b ), dengan meng- gantikan perkataan-perkataan "Employees Provident Fund Ordinance 1951" dengan perkataan-perkataan "Employees Provident Fund Act 1991";
 
 (b) dalam subseksyen (1), dengan menggantikan perkataan-perkataan "three thousand five hundred" dengan perkataan-perkataan "five thousand";
 
@@ -682,7 +680,7 @@ Berhad" perkataan-perkataan "or the Malaysia- Thailand Joint Authority";
 
 (e) dalam subseksyen (2), dengan memasukkan selepas perkataan-perkataan "Petroleum Nasional Berhad" perkataan-perkataan "or the Malaysia-Thailand Joint Authority";
 
-(f) dalam subperenggan (4)(a)(ii), dengan memasukkan selepas perkataan-perkataan "Petroleum Nasional Berhad" perkataan- perkataan "or the Malaysia-Thailand Joint Authority"; dan
+(f) dalam subperenggan ( 4 ) ( a ) ( i i ), dengan memasukkan selepas perkataan-perkataan "Petroleum Nasional Berhad" perkataan- perkataan "or the Malaysia-Thailand Joint Authority"; dan
 
 (g) dengan memasukkan selepas subseksyen (4) subseksyen yang berikut:
 
@@ -856,7 +854,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Cukai Pendapatan 1967, Akta Petrol
 
 sebanyak dua kali ganda potongan biasa. Pasal ini juga memperuntukkan bahawa berkenaan dengan anak yang telah memulakan pendidikan sedemikian di luar Malaysia dalam tahun asas bagi tahun taksiran 1994 atau dalam tahun asas bagi mana- mana tahun taksiran terdahulu, potongan maksimum sebanyak empat kali ganda potongan biasa adalah diteruskan. Berkenaan dengan pemastautin Malaysia Timur relif maksimum sebanyak empat kali ganda potongan biasa berkenaan dengan anak yang telah memulakan pendidikan di Malaysia Barat dalam tahun asas bagi tahun taksiran 1994 atau dalam tahun asas bagi mana-mana tahun taksiran terdahulu adalah diteruskan. Pindaan ini berkuatkuasa dari tahun taksiran 1994.
 
-7. Fasal 10(b) dan (c) bertujuan menambahkan relif berkenaan dengan sumbangan kepada k u m p u l an wang simpanan yang diluluskan dan bayaran berkenaan dengan premium insurans nyawa daripada RM3.500.00 kepada RM5,000.00. Pindaan ini akan berkuatkuasa dari tahun taksiran 1994.
+7. Fasal 10(b) dan (c) bertujuan menambahkan relif berkenaan dengan sumbangan kepada kumpulan wang simpanan yang diluluskan dan bayaran berkenaan dengan premium insurans nyawa daripada RM3.500.00 kepada RM5,000.00. Pindaan ini akan berkuatkuasa dari tahun taksiran 1994.
 
 8. Fasal 12 bertujuan meminda takrif "venture capital company" dalam seksyen 60o untuk membenarkan syarikat sedemikian melabur tidak lebih daripada 30 peratus kumpulan wangnya dalam pelaburan selain daripada pelaburan dalam syarikat usaha niaga. Pindaan ini akan berkuatkuasa dari Ihb Januari 1994.
 

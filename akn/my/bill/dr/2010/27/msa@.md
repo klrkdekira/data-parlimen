@@ -128,7 +128,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (xxi) dengan memasukkan selepas takrif “pengimport” takrif yang berikut:
 
-‘ “perindustrian kayu” ertinya apa-apa aktiviti yang melibatkan ladang hutan, pembangunan, pe rdag an ga n, pe mas a r a n , pem pro s es a n, pengilangan dan pengeluaran dan penyelidikan tentang kayu;’;
+‘ “perindustrian kayu” ertinya apa-apa aktiviti yang melibatkan ladang hutan, pembangunan, perdagangan, pemasaran, pemprosesan, pengilangan dan pengeluaran dan penyelidikan tentang kayu;’;
 
 (xxii) dengan memasukkan selepas takrif “perindustrian kayu” takrif yang berikut:
 

@@ -28,7 +28,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 4. Section 2 of the principal Act is amended-
 
-(a)insubsection(1)-
+( a ) in subsection (1) -
 
 (i) in the definition of "Authority", by deleting the word "Offshore";
 
@@ -36,7 +36,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ' "corporation" means any body corporate formed or incorporated or existing within Malaysia or outside Malaysia and includes any foreign Labuan company as defined in the Labuan Companies Act 1990 [Act 441] but does not include-
 
-(a)anycorporationsole;
+( a ) any corporation sole;
 
 ( b ) any trade union registered under any written law; and
 
@@ -74,7 +74,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ( a ) in subsection (1), by deleting the word "Offshore"; and
 
-(b)insubsection(2)-
+( b ) in subsection (2) -
 
 (i) in paragraph (a), by substituting for the words "a centre for offshore" the words "an international centre for business and";
 
@@ -126,9 +126,7 @@ institutions and professional and industry associations in Labuan to promote and
 
 (Amendment)
 
-( b ) by deleting subsection (3);
-
-(c)inparagraph(4)(c),byinsertingafterthewords"this Act" the words "or the laws specified in the Schedule"; and
+( b ) by deleting subsection (3); ( c ) in paragraph ( 4 ) ( c ) , by inserting after the words "this Act" the words "or the laws specified in the Schedule"; and
 
 ( d ) by deleting subsections (5) and (6).
 
@@ -254,7 +252,7 @@ day during which the offence continues after conviction.
 
 16. Section 28B of the principal Act is amended-
 
-(a)insubsection(1)-
+( a ) in subsection (1)-
 
 (i) in the English language text, by substituting for the words "in exercise of the words "in the exercise of; and
 
@@ -296,7 +294,7 @@ obtained has been obtained by an ex-parte application, the Authority may notify 
 
 ( e ) with the consent of the Labuan financial institution or the customer of such Labuan financial institution; or
 
-(f)in giving effect to any legal arrangement or memorandum of understanding or agreement with any foreign government or home supervisory authority entered into by-
+( f ) in giving effect to any legal arrangement or memorandum of understanding or agreement with any foreign government or home supervisory authority entered into by-
 
 (i) the Government of Malaysia;
 
@@ -376,7 +374,7 @@ any record, report or document from any Labuan financial institution or any corp
 
 ( b ) in subsection (2), by inserting after the words "investigating officer under this Act" the words "or the laws specified in the Schedule";
 
-(c)insubsection(3)-
+( c ) in subsection (3)-
 
 (i) by deleting the words "and the Director General"; and
 
@@ -498,7 +496,7 @@ may-
 
 (9) An investigating officer examining a person under paragraph ( 2 ) ( a ) shall record in writing any statement made by the person and the statement so recorded shall be read to and signed by the person, and where such person refuses to sign the record, the officer shall endorse thereon under his hand the fact of such refusal and the reasons therefore, if any, stated by the person examined.
 
-(10) The record of an examination under paragraph ( 2 ) ( a ) , or a written statement on oath or affirmation made pursuant to paragraph ( 2 ) ( c ) , or any book, record, report, document or article produced under paragraph ( 2 ) ( b ) or otherwise in the course of an examination under paragraph ( 2 ) ( a ) , or under a written statement on oath or affirmation made pursuant to paragraph (2)(c),
+(10) The record of an examination under paragraph ( 2 ) ( a ) , or a written statement on oath or affirmation made pursuant to paragraph ( 2 ) ( c ) , or any book, record, report, document or article produced under paragraph ( 2 ) ( b ) or otherwise in the course of an examination under paragraph ( 2 ) ( a ) , or under a written statement on oath or affirmation made pursuant to paragraph ( 2 ) ( c ) ,
 
 <!-- marginal: shall, -->
 
@@ -646,7 +644,7 @@ shall be admissible in evidence in any proceedings in Malaysia before any court,
 
 28P. (1) The Authority may on its own initiative, or upon the lawful request of any authority -
 
-( a ) supply to the requesting authority a copy of any property, record, report, object, article, material, thing, book, minute book, account, register or document seized, detained or taken possession of under section 28E or produced under paragraph 2Sv(2)(b), or of any written statement on oath or affirmation made under paragraph 28F(2)(C), or any record of examination made under subsection 28F(9), or otherwise in the course of any examination under section 28F, and such requesting authority may make use of such copy of such property, record, report, object, article, material, thing, book, minute book, account, register or document, statement or examination record as may be necessary or expedient in relation to the exercise of his powers, the performance of his functions, or the discharge of his duties, in respect of any person; or
+( a ) supply to the requesting authority a copy of any property, record, report, object, article, material, thing, book, minute book, account, register or document seized, detained or taken possession of under section 28E or produced under paragraph 2 S v ( 2 ) ( b ) , or of any written statement on oath or affirmation made under paragraph 28F(2)(C), or any record of examination made under subsection 28F(9), or otherwise in the course of any examination under section 28F, and such requesting authority may make use of such copy of such property, record, report, object, article, material, thing, book, minute book, account, register or document, statement or examination record as may be necessary or expedient in relation to the exercise of his powers, the performance of his functions, or the discharge of his duties, in respect of any person; or
 
 ( b ) allow the requesting authority to have access to and inspect any property record, report, object, article, material, thing, book, minute book, account, register or document which had been produced before, or seized, detained or taken possession of, by an investigating officer under this Act or the laws specified in the Schedule, and such requesting authority may make use of any knowledge gained by such access or inspection as may be necessary or expedient in relation to the exercise of his powers, the performance of his functions, or the discharge of his duties, in respect of any person.
 
@@ -680,9 +678,9 @@ shall be admissible in evidence in any proceedings in Malaysia before any court,
 
 36. (1) No action, suit, prosecution or other proceedings shall lie or be brought, instituted or maintained in any court or before any other authority against—
 
-(a)theMinister;
+( a ) the Minister;
 
-(b)theAuthority;
+( b ) the Authority;
 
 ( c ) any member, officer, committee, servant, agent of the Authority; or
 

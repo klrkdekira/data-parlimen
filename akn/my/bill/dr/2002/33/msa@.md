@@ -216,7 +216,7 @@ which the employee, pursuant to the terms on which that accommodation is so prov
 
 "(6) In the application of subsection (4) in relation to a person's gross income from his employment where the expense, to which subparagraph (l)(b)(ii) applies is payable for a period (in this subsection referred to as the "overlapping period") which overlaps the basis period or part of the basis period, the amount of the expense to be deducted from that gross income shall be determined in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the number of days living accommodation is provided in the basis period or part of the basis period that falls in the overlapping period;
 

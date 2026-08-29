@@ -188,7 +188,7 @@ processing and marketing of rubber;
 
 3B. (1) The Authority may, in order to carry out its functions—
 
-(a)enterintocontracts;
+( a ) enter into contracts;
 
 ( b ) acquire, purchase, take, hold and enjoy movable or immovable property of every description;
 
@@ -206,7 +206,7 @@ processing and marketing of rubber;
 
 ( h ) impose fees or any other charges as it deems fit for the use of any facility, or technical, advisory and consultancy services or any other service provided by the Authority;
 
-(i)collect and receive any moneys related to
+( i ) collect and receive any moneys related to
 
 <!-- marginal: its -->
 
@@ -242,7 +242,7 @@ activities;
 
 4. The Authority shall consist of the following members who shall be appointed by the Minister:
 
-(a)aChairman;
+( a ) a Chairman;
 
 ( b ) a representative of the Ministry of Rural and Regional Development, to be nominated by the Secretary General of the Ministry;
 
@@ -264,11 +264,11 @@ activities;
 
 representative;
 
-(i)sevenrepresentativesof the smallholder sector, one of whom shall be from Sabah and one from Sarawak;
+( i ) seven representatives of the smallholder sector, one of whom shall be from Sabah and one from Sarawak;
 
 ( j ) three persons who, in the Minister's opinion, are able to contribute to the development of the smallholder sector; and
 
-(k) theDirectorGeneral.".
+( k ) the Director General.".
 
 ### New sections 4A, 4B, 4C, 4D, 4E, 4F and 4G
 
@@ -310,7 +310,7 @@ representative;
 
 4E. (1) The office of a member of the Authority appointed by the Minister shall be vacated if—
 
-(a)hedies;
+( a ) he dies;
 
 ( b ) there has been proved against him, or he has been convicted on, a charge in respect of—
 
@@ -320,7 +320,7 @@ representative;
 
 (iii) any other offence punishable with imprisonment (in itself only or in addition to or in lieu of a fine) for more than two years;
 
-(c)hebecomesabankrupt;
+( c ) he becomes a bankrupt;
 
 ( d ) he is of unsound mind or is otherwise incapable of discharging his duties;
 
@@ -350,7 +350,7 @@ and any function or power so delegated may be performed or exercised by the memb
 
 (3) Without prejudice to the generality of subsection (1) and other provisions of this Act, the Authority may delegate to the Director General —
 
-( a ) the power to grant loans and make advances to the officers and servants of the Authority under section I I A B ; and
+( a ) the power to grant loans and make advances to the officers andservantsoftheAuthorityundersectionIIAB;and
 
 ( b ) the authority to sanction expenditure from the Fund or any other moneys vested in or under the control of the Authority up to such limit as the Authority shall specify.
 
@@ -434,7 +434,7 @@ Authority (Amendment)
 
 ( a ) the proper administration and management of the affairs of the Authority;
 
-(b)thepreparationof—
+( b ) the preparation of—
 
 (i) all programmes, Schemes, projects and activities;
 
@@ -564,7 +564,7 @@ on such terms and conditions as the Authority may determine.
 
 14. The Fund shall be expended for the following purposes:
 
-(a)paying any expenditure lawfully incurred by
+( a ) paying any expenditure lawfully incurred by
 
 <!-- marginal: the -->
 
@@ -1066,9 +1066,7 @@ committed by any person under this Act and prescribed to be a compoundable offen
 
 52. No action, suit, prosecution or other proceedings shall lie or be brought, instituted or maintained in any court against-
 
-(a)theMinister;
-
-(b)theAuthority;
+( a ) the Minister; ( b ) the Authority;
 
 ( c ) any member of the Authority, any member of a committee, or any officer, servant or agent of the Authority; or
 

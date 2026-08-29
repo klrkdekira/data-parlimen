@@ -8,7 +8,7 @@
 
 hernama
 
-Suatu Akta u n t uk meminda Ordinan Bank Negara Malaysia 1958. [ ]
+Suatu Akta untuk meminda Ordinan Bank Negara Malaysia 1958. [ ]
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 

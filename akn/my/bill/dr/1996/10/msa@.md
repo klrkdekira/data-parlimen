@@ -5438,7 +5438,7 @@ Fasal 21 memperuntukkan bagi fee lesen bagi semua pemegang lesen untuk ditetapka
 
 <!-- page 154 -->
 
-Fasal 22 memperuntukkan bagi keanggotaan mandatori dalam pertubuhan perdagangan yang sesuai u n t uk mengalakkan pengawalseliaan sendiri oleh industri insurans.
+Fasal 22 memperuntukkan bagi keanggotaan mandatori dalam pertubuhan perdagangan yang sesuai untuk mengalakkan pengawalseliaan sendiri oleh industri insurans.
 
 Fasal 23 membolehkan pengenaan syarat ke atas sesuatu lesen.
 
@@ -5448,7 +5448,7 @@ Fasal 27 menghendaki seseorang penanggung insurans berlesen untuk memulakan pern
 
 Fasal 28 menyekat pemegang lesen daripada menjalankan aktiviti yang tidak berkaitan.
 
-Fasal 29 menghendaki seseorang pemegang lesen u n t uk mendapatkan kelulusan bertulis daripada Bank sebelum meminda butir-butir pelesenannya, termasuklah dokumen konstituennya.
+Fasal 29 menghendaki seseorang pemegang lesen untuk mendapatkan kelulusan bertulis daripada Bank sebelum meminda butir-butir pelesenannya, termasuklah dokumen konstituennya.
 
 Fasal 30 menghendaki seseorang pemegang lesen untuk menguruskan perniagaan berlesennya secara eksklusif melainkan jika diluluskan oleh Bank tetapi seseorang penanggung insurans berlesen dibenarkan untuk beroperasi bersesama dengan penanggung insurans berlesen lain atau untuk berinsurans bersama-sama dengan seorang penanggung insurans berlesen atau lebih.
 
@@ -5706,7 +5706,7 @@ Fasal 146 menghendaki seseorang penanggung insurans hayat berlesen untuk mengelu
 
 Fasal 147 memperuntukkan bahawa suatu salahnyata umur mengenai orang yang diinsuranskan dalam suatu polisi hayat tidak menyebabkan polisi hayat itu diketepikan tetapi membenarkan penanggung insurans hayat berlesen itu untuk mengubahsuai wang yang diinsuranskan, bonus yang diuntukkan kepada polisi hayat itu, atau premium untuk membetulkan kesilapan itu.
 
-Fasal 148 membenarkan seorang pemunya polisi u n t uk memulangkan suatu polisi dalam tempoh lima belas hari selepas penyampaiannya tanpa perlu memberikan apa-apa alasan dan penanggung insurans hayat berlesen hendaklah memulangkan premium itu tertakluk kepada potongan perbelanjaan pemeriksaan perubatan yang ditanggung. Suatu polisi hayat adalah disifatkan sebagai telah dipulangkan kepada penanggung insurans hayat berlesen pada tarikh ianya diterima atau diposkan.
+Fasal 148 membenarkan seorang pemunya polisi untuk memulangkan suatu polisi dalam tempoh lima belas hari selepas penyampaiannya tanpa perlu memberikan apa-apa alasan dan penanggung insurans hayat berlesen hendaklah memulangkan premium itu tertakluk kepada potongan perbelanjaan pemeriksaan perubatan yang ditanggung. Suatu polisi hayat adalah disifatkan sebagai telah dipulangkan kepada penanggung insurans hayat berlesen pada tarikh ianya diterima atau diposkan.
 
 Fasal 149 memberikuasa kepada Bank untuk menghendaki seseorang penanggung insurans hayat berlesen mengemukakan kepadanya apa-apa borang cadangan, polisi atau brosur yang digunakan oleh seseorang penanggung insurans hayat berlesen dan jika Bank
 

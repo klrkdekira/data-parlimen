@@ -150,7 +150,7 @@ Amendment
 
 "(2) Any person who intends to erect any building shall submit—
 
-(a) to the local a u t h o r i ty such plans and specifications as may be required by any by- laws made under this Act; and
+(a) to the local authority such plans and specifications as may be required by any by- laws made under this Act; and
 
 (b) to the relevant statutory authority such plans and specifications in respect of the sewerage system as may be required by any other written law.".
 

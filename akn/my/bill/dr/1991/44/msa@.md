@@ -124,7 +124,7 @@ AM
 
 bernama
 
-Suatu Akta untuk menubuhkan Lembaga Penggalakan Pelancongan Malaysia dan u n t uk mengadakan peruntukan mengenai perkara-perkara yang berkaitan dengannya. []
+Suatu Akta untuk menubuhkan Lembaga Penggalakan Pelancongan Malaysia dan untuk mengadakan peruntukan mengenai perkara-perkara yang berkaitan dengannya. []
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 

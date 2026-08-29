@@ -510,7 +510,7 @@ Provided that in respect of portion of the building or extension of the building
 
 (2) For the purpose of subsection (1), where the balance of allowances referred to in that subsection is in respect of more than one Malaysian ships, such balance of allowances shall be apportioned to each of the ships in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the gross income of a person in respect of a Malaysian ship for the year of assessment 2011;
 
@@ -526,7 +526,7 @@ and the amount apportioned to each of the ships shall be made to that person in 
 
 (4) For the purpose of subsection (3), where the balance of adjusted loss referred to in that subsection is in respect of more than one Malaysian ships, such balance of adjusted loss shall be apportioned to each of the ships in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the gross income of a person in respect of a Malaysian ship for the year of assessment 2011;
 

@@ -556,7 +556,7 @@ Control over 25. If an order is made under section 22 placing a child in childre
 
 ## PART VI
 
-## OFFENCESINRELATIONTOT HEHEALTHA N D W E L F A REOFCHILDREN
+## OFFENCESINRELATIONTOTHEHEALTHA N D W E L F A REOFCHILDREN
 
 Ill-treatment, 26. (1) Any person who, being a person having the care neglect, of a child, abuses, neglects, abandons or exposes the child exposure or abandonment in a manner likely to cause him physical or emotional of children. injury or causes or permits him to be so abused, neglected, abandoned or exposed, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten
 

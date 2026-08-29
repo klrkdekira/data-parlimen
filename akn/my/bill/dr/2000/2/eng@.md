@@ -122,7 +122,7 @@ New section lA
 
 14. The principal Act is amended by inserting after section I the following section:
 
-"Establish- IA. The Universiti Teknologi MARA is established me?t of.. pursuant to and in accordance with the provisions of UmversltIA.1153 f h F d 1 C . . " is pursuant rtIc e 0 tee era onstItutlOn.. to Article 153 of the . Federal Constitution.
+"Establish- IA. The Universiti Teknologi MARA is established me?t of.. pursuant to and in accordance with the provisions of UmversltI A . 1 153 fhFd 1 C . . " is pursuant rtIc e 0 tee era onstItutlOn.. to Article 153 of the . Federal Constitution.
 
 <!-- page 6 -->
 

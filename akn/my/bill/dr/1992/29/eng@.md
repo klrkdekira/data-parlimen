@@ -30,7 +30,7 @@
 
 <!-- marginal: appropriation -->
 
-### seven hundred and thirty-seven m i l l i on fourteen
+### seven hundred and thirty-seven million fourteen
 
 <!-- marginal: for service -->
 

@@ -50,7 +50,7 @@ Bill
 
 (d) a recording, or transmission, over a distance of any matter by any, or any combination, of the means mentioned in paragraph (a), (b) or (c).
 
-or by more than one of the means mentioned in paragraphs (a), (b), (c) and (d), intended to be used or w h i ch may be used for the purpose of expressing, describing, or howsoever representing, that matter;'; and
+or by more than one of the means mentioned in paragraphs (a), (b), (c) and (d), intended to be used or which may be used for the purpose of expressing, describing, or howsoever representing, that matter;'; and
 
 (b) in the definition of "Qur'anic text" by substituting for the words "which may appropriately be called the Mushaf of the Qur'an" the words "or any part thereof which contains one juzu' or more with or without translation, or interpretation, as the case may be".
 

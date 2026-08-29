@@ -8,7 +8,7 @@
 
 bernama
 
-Suatu Akta bagi menggunakan sejumlah wang daripada Kumpulan Wang Disatukan u n t uk perbelanjaan tambahan bagi perkhidmatan tahun 1994 dan bagi memperuntukkan wang itu untuk rnaksud-maksud yang tertentu bagi tahun itu.
+Suatu Akta bagi menggunakan sejumlah wang daripada Kumpulan Wang Disatukan untuk perbelanjaan tambahan bagi perkhidmatan tahun 1994 dan bagi memperuntukkan wang itu untuk rnaksud-maksud yang tertentu bagi tahun itu.
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 

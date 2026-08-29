@@ -650,7 +650,7 @@ sahabat wakil mana-mana orang belum dewasa bagi maksud memulakan apa-apa guaman 
 
 (2) Jika dalam apa-apa guaman atau prosiding yang belum selesai adalah didapati perlu untuk menambah seseorang orang belum dewasa sebagai plaintif bersama, maka Mahkamah boleh, atas usulnya sendiri atau atas permohonan Perbadanan atau mana-mana orang lain, melantik Perbadanan untuk bertindak sebagai sahabat wakil orang beium dewasa itu dalam guaman atau prosiding itu.
 
-(3) Dalam apa-apa guaman atau prosiding yang dalamnya seseorang orang belum dewasa ialah defendan atau yang d a l a m n ya adalah didapati perlu untuk
+(3) Dalam apa-apa guaman atau prosiding yang dalamnya seseorang orang belum dewasa ialah defendan atau yang dalamnya adalah didapati perlu untuk
 
 <!-- page 22 -->
 

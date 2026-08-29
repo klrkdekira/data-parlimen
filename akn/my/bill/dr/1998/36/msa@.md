@@ -20,7 +20,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### 1999
 
-2. Pengeluaran sejumlah wang yang tidak melebihi tiga puluh satu bilion sembilan ratus enam puluh sembilan juta lima ratus dua p u l uh tiga ribu sembilan ratus empat puluh
+2. Pengeluaran sejumlah wang yang tidak melebihi tiga puluh satu bilion sembilan ratus enam puluh sembilan juta lima ratus dua puluh tiga ribu sembilan ratus empat puluh
 
 <!-- marginal: ringgit -->
 

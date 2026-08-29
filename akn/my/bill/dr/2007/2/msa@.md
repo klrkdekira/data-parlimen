@@ -216,7 +216,7 @@ lie. Any information supplied by the Registrar which is certified under his hand
 
 delegate any power of the board of directors to any committee to the board of directors, director, officer, employee, expert or any other person and where the directors have delegated any power, the directors are responsible for the exercise of such power by the delegatee as if such power had been exercised by the directors themselves.
 
-(1G) The directors are not responsible under subsection (IF) if-
+(1G) The directors are not responsible under subsection ( I F ) i f -
 
 (a) the directors believed on reasonable grounds at all times that the delegatee would exercise the power in conformity with the duties imposed on the directors under this Act and the memorandum and articles of association of the company (if any); and
 
@@ -266,7 +266,7 @@ to gain directly or indirectly, a benefit for himself or any other person, or ca
 
 (a) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut:
 
-"(1) Notwithstanding anything in the memorandum or articles of association of the company, the directors shall not carry into effect any arrangement or transaction f o r -
+"(1) Notwithstanding anything in the memorandum or articles of association of the company, the directors shall not carry into effect any arrangement or transaction for-
 
 (a) the acquisition of an undertaking or property of a substantial value; or
 
@@ -638,7 +638,7 @@ Rang Undang-Undang ini bertujuan untuk meminda Akta Syarikat 1965 ("Akta 125").
 
 3. Fasal 2 bertujuan untuk meminda seksyen 11 A Akta 125 bagi membenarkan akuan berkanun difail atau diserah simpan kepada Pendaftar secara elektronik dan member! kuasa kepada Pendaftar untuk menyerahkan notis kepada orang yang tidak mematuhi kehendak penyerahan dokumen di bawah seksyen itu.
 
-4. Fasal 3 bertujuan untuk memasukkan seksyen baru 11B dan l i e ke dalam Akta 125. Seksyen baru 11B membolehkan Pendaftar menggunakan cara perhubungan elektronik berhubung dengan pemfailan dan penyerahsimpanan dokumen kepada Pendaftar manakala seksyen baru l ie memperuntukkan bagi nilai keterangan dokumen yang dibekalkan dan disahkan oleh Pendaftar secara elektronik.
+4. Fasal 3 bertujuan untuk memasukkan seksyen baru 11B dan lie ke dalam Akta 125. Seksyen baru 11B membolehkan Pendaftar menggunakan cara perhubungan elektronik berhubung dengan pemfailan dan penyerahsimpanan dokumen kepada Pendaftar manakala seksyen baru l ie memperuntukkan bagi nilai keterangan dokumen yang dibekalkan dan disahkan oleh Pendaftar secara elektronik.
 
 5. Fasal 4 bertujuan untuk meminda seksyen 69I Akta 125 dengan memotong rujukan kepada Bursa Saham berhubung dengan pemberitahuan atau perubahan dalam pemegangan saham substansial.
 

@@ -376,7 +376,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Syarikat 1965 ("Akta").
 
 10. Fasal 9 bertujuan memasukkan seksyen baru 47A dan 47B. Seksyen baru 47A memberi Menteri kuasa untuk mengecualikan mana-mana orang daripada keperluan mematuhi Penggal 1 dan Penggal 4 Bahagian IV Akta apabila membuat tawaran saham atau debentur kepada orang awam. Seksyen baru 47B mengecualikan tawaran saham dan debentur daripada keperluan mematuhi Penggal 1 dan Penggal 4 Bahagian IV Akta jika ia dibuat kepada orang yang disebut dalam seksyen itu.
 
-11. Fasal 10 bertujuan meminda seksyen 84 Akta u n t uk mengeluarkan kepentingan penyertaan dalam skim amanah unit sebagai suatu kepentingan di bawah seksyen itu.
+11. Fasal 10 bertujuan meminda seksyen 84 Akta untuk mengeluarkan kepentingan penyertaan dalam skim amanah unit sebagai suatu kepentingan di bawah seksyen itu.
 
 12. Fasal II bertujuan meminda seksyen 121 Akta untuk menghendaki tiap-tiap syarikat untuk juga menyatakan nombor syarikatnya sebagai tambahan kepada namanya pada meterainya dan tiap-tiap dokumen perniagaan, notis, dsb.
 
@@ -392,17 +392,17 @@ Rang Undang-Undang ini bertujuan meminda Akta Syarikat 1965 ("Akta").
 
 15. Fasal 14 bertujuan meminda seksyen 194 Akta untuk menukar takrif ungkapan "declared company" berbangkit daripada pindaan kepada seksyen 195.
 
-16. Fasal 15 bertujuan meminda seksyen 195 Akta u n t uk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan suatu syarikat atau suatu syarikat asing yang kepadanya Bahagian IX Akta, berhubungan dengan penyiasatan, terpakai.
+16. Fasal 15 bertujuan meminda seksyen 195 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan suatu syarikat atau suatu syarikat asing yang kepadanya Bahagian IX Akta, berhubungan dengan penyiasatan, terpakai.
 
 17. Fasal 16 bertujuan meminda seksyen 210 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan seorang inspektor yang dilantik bagi suatu syarikat di bawah undang-undang negeri lain yang bersamaan sebagai mempunyai kuasa yang sama seperti inspektor yang dilantik bagi suatu syarikat yang diisytiharkan.
 
-18. Fasal 17 bertujuan meminda seksyen 319 Akta u n t uk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan suatu syarikat sebagai suatu syarikat pelaburan mengikut erti Penggal 1 Bahagian XI.
+18. Fasal 17 bertujuan meminda seksyen 319 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan suatu syarikat sebagai suatu syarikat pelaburan mengikut erti Penggal 1 Bahagian XI.
 
-19. Fasal 18 bertujuan meminda seksyen 324 Akta u n t uk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk menyatakan saham dalam atau debentur perbadanan pelaburan asing tertentu sebagai pelaburan dilarang bagi suatu syarikat pelaburan.
+19. Fasal 18 bertujuan meminda seksyen 324 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk menyatakan saham dalam atau debentur perbadanan pelaburan asing tertentu sebagai pelaburan dilarang bagi suatu syarikat pelaburan.
 
 20. Fasal 19 bertujuan meminda seksyen 338 Akta untuk menghendaki tiap-tiap syarikat asing untuk juga menyatakan nombor syarikatnya sebagai tambahan kepada namanya dan tempat perbadanannya atas tiap-tiap dokumen perniagaannya, notis, dsb..
 
-21. Fasal 20 bertujuan meminda seksyen 373 Akta u n t uk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk membuat peraturan-peraturan.
+21. Fasal 20 bertujuan meminda seksyen 373 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk membuat peraturan-peraturan.
 
 22. Fasal 21 bertujuan meminda seksyen 374 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk meminda semua Jadual kepada Akta.
 

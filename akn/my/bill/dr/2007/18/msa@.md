@@ -442,7 +442,7 @@ nombor gelombang m-1 m-1 salingan meter
 
 isi padu tentu rn3/kg m3.kg -1 meter padu per kilogram
 
-frekuensi hertz Hz s-1 -1 = s m.m-1.s-1 halaju sudut rad/s radian persaat -2 = s m.m-1.s-2 pecutan sudut rad/s2 radian per- saat kuasa dua
+frekuensi hertz Hz s-1 -1 = s m . m -1. s-1 halaju sudut rad/s radian persaat -2 = s m . m -1. s-2 pecutan sudut rad/s2 radian per- saat kuasa dua
 
 1.2 Mekanik
 
@@ -474,13 +474,13 @@ kuasa, fluks sinaran
 
 m2 .kg . s3 watt J/s kadar aliran tenaga, kadar aliran haba
 
-kelikatan dinamik Pa . s pascal 2 m- .kg.s-3 saat kelikatan kinetik m2/s meter m2 . s-1 persegi per saat
+kelikatan dinamik Pa . s pascal 2 m- . kg . s -3 saat kelikatan kinetik m2/s meter m2 . s-1 persegi per saat
 
 m2 . kg . s-2 momen daya newton N-m meter
 
 kg . s-2 tegangan permukaan newton N/m per meter
 
-m3 . s-1 kadar aliran isipadu m3/s meter padu per saat
+m 3 . s -1 kadar aliran isipadu m3/s meter padu per saat
 
 kg . s-1 kadar aliran jisim kg/s kilogram per saat
 
@@ -488,19 +488,19 @@ kg . s-1 kadar aliran jisim kg/s kilogram per saat
 
 coulomb C s . A cas elektrik, kuantiti kelektrikan
 
-volt V keupayaan elektrik, m2 . kg . s-3. A-1 W/A beza tegangan elektrik, daya gerak elektrik
+volt V keupayaan elektrik, m2 . kg . s -3. A -1 W/ A beza tegangan elektrik, daya gerak elektrik
 
-m . kg . s-3. A-1 volt per V/m kekuatan medan meter elektrik
+m . kg . s -3. A -1 volt per V/m kekuatan medan meter elektrik
 
-m-3.s.A ketumpatan cas C/m3 coulomb elektrik per meter padu
+m-3 . s . A ketumpatan cas C/m3 coulomb elektrik per meter padu
 
-m-2.s.A C/m2 ketumpatan fluks coulomb per meter elektrik persegi
+m -2 . s . A C/m2 ketumpatan fluks coulomb per meter elektrik persegi
 
 <!-- page 18 -->
 
 Kuantiti Nama Simbol Dinyatakan Dinyatakan dalatn sebutan dalam sebutan unit asas SI unit SI lain
 
-Q m2 . kg . s-3 - A-2 V / A rintangan elektrik ohm kapasitans farad F m2.kg-1.s4.A2 C / V konduktans elektrik Siemens S m2 . kg-1 . s3 . A2 A / V fluks magnet weber Wb m2 . kg . s2 -A-1 V . s ketumpatan fluks tesla T kg . s--2 - A-1 Wb/m2 magnet A/m kekuatan medan magnet ampere A . m-1 per meter induktans henry H m2 . kg . s-2 . A-2 W b / A -2 H/m ketelapan ruang bebas henry per m.kg.S . A -2 meter F/m ketelusan ruang bebas farad per m3 . kg-1 . s4 . A2 meter
+Q m2 . kg . s-3 - A-2 V / A rintangan elektrik ohm kapasitans farad F m 2 . kg-1 . s4 . A2 C / V konduktans elektrik Siemens S m2 . kg-1 . s3 . A2 A / V fluks magnet weber Wb m2 . kg . s2 -A-1 V . s ketumpatan fluks tesla T kg . s--2 - A-1 W b / m 2 magnet A/m kekuatan medan magnet ampere A . m-1 per meter induktans henry H m2 . kg . s-2 . A-2 W b / A -2 H/m ketelapan ruang bebas henry per m . kg . S . A -2 meter F/m ketelusan ruang bebas farad per m3 . kg-1 . s4 . A2 meter
 
 1.4 Haba
 
@@ -550,7 +550,7 @@ cd . sr fluks berluminosti lumen lm cd
 
 m-2 . cd kecahayaan luks lx lm/m2
 
-m2.kg.s keamatan sinaran watt per W/sr -3 steradian
+m2 . kg . s keamatan sinaran watt per W/sr -3 steradian
 
 kg . s sinaran W/(m2.sr) -3 watt per meter per segi steradian
 
@@ -572,7 +572,7 @@ Kuantiti Simbol dalam sebutan dalam sebutan unit asas SI
 
 <!-- marginal: unit SI lain -->
 
-kg-1.s.A coulomb dedahan (sinar x C/kg per dan y) kilogram -3 gray per m2 . s Gy/s kadar dos terserap saat
+kg-1 . s . A coulomb dedahan (sinar x C/kg per dan y) kilogram -3 gray per m2 . s Gy/s kadar dos terserap saat
 
 2. Unit perolehan hendaklah termasuk mana-mana unit lain yang boleh dinyatakan secara algebra dalam unit asas SI atau dalam sebutan kombinasi unit asas SI dengan unit perolehan lain dengan cara simbol matematik pendaraban atau pembahagian.
 
@@ -640,11 +640,11 @@ Unit yang diterima di peringkat antarabangsa untuk digunakan dengan Unit Sistem 
 
 Nilai dalam unit SI Nama Simbol
 
-1min=60s minit min 1h=60min=3600s jam h 1d=24h=86400s hari d o 1° = ( 31/180) rad darjah , minit 1' = (l/60)° = ( JI/10 800) rad “ 1" = (1/60)' = ( rc/648 000) rad saat
+1 min = 60 s minit min 1 h = 60 min = 3600 s jam h 1 d = 24 h = 86 400 s hari d o 1° = ( 31/180) rad darjah , minit 1' = (l/60)° = ( JI/10 800) rad “ 1" = (1/60)' = ( rc/648 000) rad saat
 
-liter 1,L 11=1dm3=10"3m3
+liter 1,L 1 1 = 1 dm3 = 10"3m3
 
-1t=103kg tan T 1 Np - 1 neper Np
+1 t = 103 kg tan T 1 Np - 1 neper Np
 
 1 B = (1/2) In 10 (Np) bel B
 
@@ -658,11 +658,11 @@ Nilai dalam SI unit
 
 <!-- marginal: Nota -->
 
-Nama Simbol elektronvolt eV 1eV=1.60217653(14)x10-19J (a)
+Nama Simbol elektronvolt eV 1 eV = 1.60217653 (14) x 10-19 J (a)
 
 u unit jisim atom 1 ua = 1.66053886 (28) x (10) -27 kg (b) disatukan
 
-unit astronomi ua l u a = 1.495 978 706 91 (6)x lO11 m (c)
+unit astronomi ua lua= 1.49597870691(6)xlO11m (c)
 
 (a) Elektronvolt adalah tenaga kinetik yang diperoleh oleh elektron dalam merentasi beza keupayaan 1 V dalam vakum.
 
@@ -678,9 +678,9 @@ Nama Simbol Nilai 1. Luas b lb = 100 fm2 = 10 -28 m2 barn (kegunaannya hanya dib
 
 2. Kelikatan dinamik
 
-pise P 1P=0.lPa.s= l0-1Pa.s
+pise P 1 P = 0.l P a . s = l 0 -1 P a . s
 
-sentipoise cP 1cP=1mPa.s=10-3Pa.s
+sentipoise cP 1 cP = 1 mPa . s = 10-3 Pa . s
 
 3. Kelikatan kinematik
 
@@ -710,15 +710,15 @@ mmHg lmmHg = 133.322 Pa millimeter merkuri (Kegunaannya hanya dibenarkan dalam b
 
 1 bar = 100 k Pa = 105 Pa bar dan gandaannya dan subgandaan bar bar
 
-8. Sudut satah R kitaran (pusingan) 1r=2πrad
+8. Sudut satah R kitaran (pusingan) 1 r = 2π rad
 
 9. Sistem-sistem optikal terarah
 
-diopter 1diopter=1m-1
+diopter 1 diopter = 1 m -1
 
 10. Keluasan tanah dan ladang ternakan
 
-are a la=100m2=102m2 =
+are a la= 10 0m 2 = 1 0 2 m 2 =
 
 ha hektar 1 ha 0.01km2=104m2
 
@@ -740,15 +740,15 @@ knot 1 batu nautika per am = (1852 / 3600) m/s
 
 13. Isipadu (pengurusan perhutanan dan perdagangan balak)
 
-stere st 1st=1m3
+stere st 1 st = 1 m3
 
 14. Jisim
 
-quintal q 1 q=100kg=102kg
+quintal q 1 q = 1 0 0 k g = 1 0 2 k g
 
 15. Daya
 
-kilogram - daya kgf 1kgf=lkp=9.80665N
+kilogram - daya kgf 1 kgf = l kp = 9.806 65 N
 
 kilopond dan gandaan desimal dan kp subgandaan
 
@@ -766,7 +766,7 @@ meter air mH2O 1 mH20 = 9.806 65 kPa = 9.806 65 x I05 Pa mH2O
 
 kilogram daya meter = kilopond kgf.m 1 kgf . m = 1 kp . m = 9.80665 J meter kp.m
 
-l cal = 4.1868J kalori dan desimal gandaan dan cal subgandaan
+l cal = 4 . 1 8 6 8 J kalori dan desimal gandaan dan cal subgandaan
 
 <!-- page 25 -->
 
@@ -856,7 +856,7 @@ if) dalam hal seseorang anggota Majlis selain Pengerusi, jika dia tidak menghadi
 
 ### Tatacara
 
-8. Tertakluk kepada Akta i n i , Majlis hendaklah menentukan tatacaranya sendiri.
+8. Tertakluk kepada Akta ini, Majlis hendaklah menentukan tatacaranya sendiri.
 
 ### Anggota hendaklah menumpukan masa kepada urusan Majlis
 

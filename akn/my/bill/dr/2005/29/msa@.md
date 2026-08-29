@@ -278,7 +278,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 "benda purba" ertinya—
 
-(a) mana-mana objek boleh a l i h yang berusia atau semunasabahnya dipercayai berusia sekurang-kurangnya lima puluh tahun;
+(a) mana-mana objek boleh alih yang berusia atau semunasabahnya dipercayai berusia sekurang-kurangnya lima puluh tahun;
 
 (b) mana-mana bahagian daripada mana-mana objek yang telah pada mana-mana tarikh yang terkemudian ditambah atau dibina semula atau dibaik pulih; dan
 
@@ -954,7 +954,7 @@ pemeliharaan tapak warisan
 
 (5) Walau apa pun subseksyen (4), Perintah Pemeliharaan Monumen hendaklah terhenti berkuat kuasa—
 
-(a) jika monumen i t u ditetapkan sebagai suatu tapak warisan; atau
+(a) jika monumen itu ditetapkan sebagai suatu tapak warisan; atau
 
 (b) jika Pesuruhjaya memutuskan tidak menetapkan monumen itu sebagai suatu tapak warisan.
 
@@ -1352,7 +1352,7 @@ Zon yang dilindungi
 
 (2) Jika Pesuruhjaya mengambil milikan mana-mana warisan kebudayaan di bawah air, dia hendaklah dalam masa empat puluh lapan jam menyebabkan suatu senarai warisan kebudayaan di bawah air ditampalkan di mana-mana pejabat pelabuhan dalam daerah tempat warisan kebudayaan di bawah air itu dijumpai.
 
-(3) Mana-mana pemunya warisan kebudayaan di bawah air boleh, apabila membuktikan tuntutannya sehingga Pesuruhjaya berpuas hati, dalam masa satu tahun dari masa warisan kebudayaan di bawah air itu menjadi milikan Pesuruhjaya, dan apabila dibayar fi dan belanja salvaj yang kena dibayar, berhak untuk memiliki warisan kebudayaan di bawah air i t u atas apa-apa terma dan syarat sebagaimana yang dikenakan oleh Pesuruhjaya.
+(3) Mana-mana pemunya warisan kebudayaan di bawah air boleh, apabila membuktikan tuntutannya sehingga Pesuruhjaya berpuas hati, dalam masa satu tahun dari masa warisan kebudayaan di bawah air itu menjadi milikan Pesuruhjaya, dan apabila dibayar fi dan belanja salvaj yang kena dibayar, berhak untuk memiliki warisan kebudayaan di bawah air itu atas apa-apa terma dan syarat sebagaimana yang dikenakan oleh Pesuruhjaya.
 
 (4) Seseorang pemunya yang tidak mematuhi apa-apa terma dan syarat yang dikenakan di bawah subseksyen (3) melakukan suatu kesalahan.
 
@@ -2042,7 +2042,7 @@ menarik balik pengecualian, arahan atau perakuan melalui perintah atau arahan ya
 
 (2) Menteri tidak boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh dua tahun dari tarikh permuiaan kuat kuasa Akta ini.
 
-(3) Dalam seksyen i n i , "ubah suaian" termasuklah pindaan, tambahan, pemotongan, penggantian, penyesuaian, variasi, pengubahan dan ketidakpakaian mana-mana peruntukan Akta ini.
+(3) Dalam seksyen ini, "ubah suaian" termasuklah pindaan, tambahan, pemotongan, penggantian, penyesuaian, variasi, pengubahan dan ketidakpakaian mana-mana peruntukan Akta ini.
 
 ## HURAIAN
 
@@ -2124,7 +2124,7 @@ Akta Warisan Kebangsaan 2005 ("Akta") yang dicadangkan oleh Rang Undang- Undang 
 
 28. Fasal 27 mengadakan peruntukan bagi notis diberikan kepada pemunya sesuatu tapak oleh Pesuruhjaya sebelum sesuatu tapak ditetapkan sebagai tapak warisan.
 
-29. Fasal 28 bertujuan untuk membenarkan mana-mana pemunya sesuatu tapak atau mana-mana orang lain yang terjejas atau berkemungkinan akan terjejas melalui penetapan tapak sebagai tapak warisan untuk membuat bantahan terhadap penetapan i t u dan fasal 29 mengenakan suatu kewajipan kepada Pesuruhjaya untuk mengendalikan suatu pendengaran untuk mendengar bantahan itu.
+29. Fasal 28 bertujuan untuk membenarkan mana-mana pemunya sesuatu tapak atau mana-mana orang lain yang terjejas atau berkemungkinan akan terjejas melalui penetapan tapak sebagai tapak warisan untuk membuat bantahan terhadap penetapan itu dan fasal 29 mengenakan suatu kewajipan kepada Pesuruhjaya untuk mengendalikan suatu pendengaran untuk mendengar bantahan itu.
 
 30. Fasal 30 mengadakan peruntukan bagi Pesuruhjaya untuk memperoleh keizinan daripada Pihak Berkuasa Negeri sebelum mana-mana tapak dalam Negeri itu ditetapkan sebagai tapak warisan.
 
@@ -2236,7 +2236,7 @@ Akta Warisan Kebangsaan 2005 ("Akta") yang dicadangkan oleh Rang Undang- Undang 
 
 70. Fasal 81 bertujuan untuk menjadikannya suatu kesalahan bagi mana-mana orang yang menjumpai mana-mana harta karun tetapi tidak melaporkannya atau menyerahkan harta karun itu atau membuat laporan palsu mengenai hal keadaan penjumpaan atau asal usul harta karun itu.
 
-71. Fasal 82 bertujuan untuk memperuntukkan bahawa jika seseorang disabitkan atas mana-mana kesalahan di bawah Bahagian ini, orang itu tidak berhak kepada apa-apa tuntutan atau kepentingan dalam harta karun itu atau apa-apa hadiah berkaitan dengan penemuan i t u .
+71. Fasal 82 bertujuan untuk memperuntukkan bahawa jika seseorang disabitkan atas mana-mana kesalahan di bawah Bahagian ini, orang itu tidak berhak kepada apa-apa tuntutan atau kepentingan dalam harta karun itu atau apa-apa hadiah berkaitan dengan penemuan itu.
 
 ## BAHAGIAN XII
 

@@ -1118,7 +1118,7 @@ Akta Cukai Pendapatan 1967 adalah disebut sebagai "Akta" dalam Bab ini.
 
 1998.
 
-5. Fasal 9 bertujuan meminda perenggan 34(4) (a) u n t uk meningkatkan sumbangan inaksimum yang boleh dipotong kepada skim yang diluluskan oleh majikan berkenaan dengan saraan pekerja daripada 17 peratus kepada 19 peratus. Fasal ini juga bertujuan meminda subseksyen 34(6) dengan memasukkan perenggan baru
+5. Fasal 9 bertujuan meminda perenggan 34(4) (a) untuk meningkatkan sumbangan inaksimum yang boleh dipotong kepada skim yang diluluskan oleh majikan berkenaan dengan saraan pekerja daripada 17 peratus kepada 19 peratus. Fasal ini juga bertujuan meminda subseksyen 34(6) dengan memasukkan perenggan baru
 
 (k) untuk membenarkan potongan perbelanjaan yang dilakukan untuk menganjurkan apa-apa aktiviti kesenian atau kebudayaan yang diluluskan oleh Kementerian Kebudayaan, Kesenian dan Pelancongan. Amaun yang boleh dipotong adalah terhad kepada RM200,000. Pindaan ini akan berkuatkuasa dari tahun taksiran 1998.
 
@@ -1146,7 +1146,7 @@ Pindaan ini akan berkuatkuasa dari tahun taksiran 1998.
 
 9. Fasal 13 bertujuan meminda seksyen 60 Akta. Pindaan bertujuan memasukkan subseksyen 60(5c) dan 60(6c) untuk memperuntukkan pengenaan cukai yang berasingan ke atas pendapatan perniagaan insurans semula hayat dan pendapatan perniagaan insurans semula hayat alir masuk. Pada amnya, pindaan memperuntukkan bahawa pendapatan larasan penanggung insurans pemastautin atau bukan pemastautin bagi perniagaan insurans semula hayat dan perniagaan insurans semula hayat alir masuk hendaklah ditentukan mengikut cara yang sama dengan perniagaan insurans am. Pindaan ini akan berkuatkuasa dari tahun taksiran 1998-
 
-10. Fasal 15 bertujuan meminda seksyen 91 Akta u n t uk memperuntukkan bahawa taksiran dan taksiran tambahan akan dibangkitkan dalam tempoh enam tahun dan bukan lagi dua belas tahun. Pindaan ini hendaklah mula berkuatkuasa dari 1 Januari 1999.
+10. Fasal 15 bertujuan meminda seksyen 91 Akta untuk memperuntukkan bahawa taksiran dan taksiran tambahan akan dibangkitkan dalam tempoh enam tahun dan bukan lagi dua belas tahun. Pindaan ini hendaklah mula berkuatkuasa dari 1 Januari 1999.
 
 11. Fasal 16 bertujuan meminda seksyen 108 Akta. Subseksyen 108(2E) dimasukkan untuk mengadakan peruntukan bagi dividen yang diterima oleh pemegang saham dalam tahun 1997 serta juga
 
@@ -1190,7 +1190,7 @@ Akta Petroleum (Cukai Pendapatan) 1967 adalah disebut sebagai "Akta" dalam Bab i
 
 17. Fasal 23 bertujuan meminda perenggan I6(3)(a) Akta untuk meningkatkan sumbangan inaksimum yang boleh dipotong kepada skim yang diluluskan oleh majikan berkenaan dengan gaji pekerja daripada 17 peratus kepada 19 peratus. Fasal ini juga bertujuan memasukkan subseksyen (7E) untuk membenarkan sebagai potongan perbelanjaan yang dilakukan untuk menganjurkan apa-apa aktiviti kesenian atau kebudayaan yang diluluskan oleh Kementerian Kebudayaan, Kesenian dan Pelancongan. Pindaan ini berkuatkuasa mulai dari tahun taksiran 1998.
 
-18. Fasal 24 bertujuan meminda seksyen 18 Akta. Pindaan ini bertujuan memasukkan perenggan baru 18(l)(l) u n t uk memperuntukkan bahawa potongan berkenaan dengan bayaran bonus kepada pekerja adalah terhad kepada dua per dua belas daripada upah atau gaji yang dibayar kepada pekerja itu. Pindaan ini hendaklah disifatkan telah berkuatkuasa dari 17 Oktober 1997.
+18. Fasal 24 bertujuan meminda seksyen 18 Akta. Pindaan ini bertujuan memasukkan perenggan baru 18(l)(l) untuk memperuntukkan bahawa potongan berkenaan dengan bayaran bonus kepada pekerja adalah terhad kepada dua per dua belas daripada upah atau gaji yang dibayar kepada pekerja itu. Pindaan ini hendaklah disifatkan telah berkuatkuasa dari 17 Oktober 1997.
 
 <!-- page 38 -->
 
@@ -1208,7 +1208,7 @@ Pindaan ini akan berkuatkuasa dari tahun taksiran 1998.
 
 20. Fasal 26 bertujuan meminda subseksyen 23(1) Akta untuk memperuntukkan bahawa kadar cukai dikurangkan daripada empat puluh kepada tiga puluh lapan peratus. Pindaan ini akan berkuatkuasa dari tahun taksiran 1998.
 
-21. Fasal 27 bertujuan meminda seksyen 39 Akta u n t uk memperuntukkan bahawa taksiran dan taksiran tambahan akan dibangkitkan dalam tempoh enam tahun dan bukan lagi dua belas tahun. Pindaan ini akan mula berkuatkuasa dari 1 Januari 1999.
+21. Fasal 27 bertujuan meminda seksyen 39 Akta untuk memperuntukkan bahawa taksiran dan taksiran tambahan akan dibangkitkan dalam tempoh enam tahun dan bukan lagi dua belas tahun. Pindaan ini akan mula berkuatkuasa dari 1 Januari 1999.
 
 ## BAB IV
 

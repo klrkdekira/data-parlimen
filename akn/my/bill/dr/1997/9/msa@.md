@@ -754,7 +754,7 @@ dimulakan oleh atau terhadap mana-mana seorang atau lebih daripada seorang pekon
 
 (2) Seseorang pekongsi am atau, dengan keizinan mahkamah, mana-mana orang lain hendaklah mempunyai hak untuk menyertai atau selainnya memulakan prosiding terhadap seorang atau lebih daripada seorang pekongsi terhad yang mungkin bertanggungan terhadap perkongsian terhad luar pesisir itu menurut subseksyen 12(3), subseksyen 15(2), seksyen 16 atau subscksyen 17(3).
 
-(3) Seseorang pekongsi terhad boleh membawa suatu tindakan bagi pihak sesuatu pcrkongsian terhad luar pesisir jika mana-mana scorang atau lebih daripada seorang pekongsi amnya yang mempunyai kuasa untuk berbuat demikian telah, tanpa alasan yang munasabah enggan u n t uk memulakan prosiding scdemikian.
+(3) Seseorang pekongsi terhad boleh membawa suatu tindakan bagi pihak sesuatu pcrkongsian terhad luar pesisir jika mana-mana scorang atau lebih daripada seorang pekongsi amnya yang mempunyai kuasa untuk berbuat demikian telah, tanpa alasan yang munasabah enggan untuk memulakan prosiding scdemikian.
 
 (4) Bagi maksud Akta ini, penyampaian dokumen kepada seseorang pekongsi am berkenaan dengan sesuatu perkongsian terhad luar pesisir boleh dilakukan dengan—
 

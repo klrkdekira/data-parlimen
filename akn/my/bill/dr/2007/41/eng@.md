@@ -50,6 +50,6 @@ amend the Mineral Development Act 1994 ("Act 525").
 
 ## FINANCIAL IMPLICATION
 
-This B i l l will not involve the Government in any extra financial expenditure.
+This Bill will not involve the Government in any extra financial expenditure.
 
 <!-- marginal: [PN(U2)2610] -->

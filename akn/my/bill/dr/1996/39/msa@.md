@@ -832,7 +832,7 @@ seksyen 30 seksyen yang berikut:
 
 <!-- marginal: 30c. -->
 
-"Pengge- 30A. (1) Jika seseorang Majistret mendapati, ledahan atas maklumat bertulis bersumpah dan selepas dengan waran. apa-apa siasatan yang difikirkannya perlu, bahawa terdapat sebab yang munasabah u n t uk mempercayai bahawa suatu kesalahan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawah Akta ini sedang atau telah dilakukan di mana-mana premis, Majistret
+"Pengge- 30A. (1) Jika seseorang Majistret mendapati, ledahan atas maklumat bertulis bersumpah dan selepas dengan waran. apa-apa siasatan yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa suatu kesalahan di bawah Akta ini atau mana-mana kaedah yang dibuat di bawah Akta ini sedang atau telah dilakukan di mana-mana premis, Majistret
 
 <!-- marginal: itu boleh -->
 
@@ -942,15 +942,15 @@ Harta-Tanah (Pindaan)
 
 13. Fasal 16 bertujuan meminda perenggan 19(b) Akta untuk memasukkan pengurusan projek sebagai amalan penilaian.
 
-14. Fasal 17 bertujuan meminda seksyen 21 Akta u n t uk memperuntukkan bahawa seseorang penilai berdaftar atau pentaksir berdaftar adalah dikehendaki mempunyai kuasa untuk menjalankan amalan yang dikeluarkan di bawah seksyen 16 Akta sebelum dia boleh menjalankan amalan penilaian. la juga bertujuan mengenakan sekatan tambahan atas amalan penilaian.
+14. Fasal 17 bertujuan meminda seksyen 21 Akta untuk memperuntukkan bahawa seseorang penilai berdaftar atau pentaksir berdaftar adalah dikehendaki mempunyai kuasa untuk menjalankan amalan yang dikeluarkan di bawah seksyen 16 Akta sebelum dia boleh menjalankan amalan penilaian. la juga bertujuan mengenakan sekatan tambahan atas amalan penilaian.
 
-15. Fasal 18 bertujuan meminda seksyen 22A Akta u n t uk memasukkan suatu pembatasan bahawa seseorang yang merupakan seorang bankrap yang belum dilepaskan tidak berhak didaftarkan sebagai seorang ejen harta-tanah. Subseksyen (1A) yang dicadangkan bertujuan mengadakan peruntukan bahawa seseorang yang hilang kelayakan untuk menjalankan amalan penilaian boleh, walau bagaimanapun, mendapat namanya dimasukkan di bawah Bahagian III Daftar Penilai, Pentaksir dan Ejen Harta-Tanah jika Lembaga berpendapat dia sesuai menjalankan amalan perejenan harta-tanah.
+15. Fasal 18 bertujuan meminda seksyen 22A Akta untuk memasukkan suatu pembatasan bahawa seseorang yang merupakan seorang bankrap yang belum dilepaskan tidak berhak didaftarkan sebagai seorang ejen harta-tanah. Subseksyen (1A) yang dicadangkan bertujuan mengadakan peruntukan bahawa seseorang yang hilang kelayakan untuk menjalankan amalan penilaian boleh, walau bagaimanapun, mendapat namanya dimasukkan di bawah Bahagian III Daftar Penilai, Pentaksir dan Ejen Harta-Tanah jika Lembaga berpendapat dia sesuai menjalankan amalan perejenan harta-tanah.
 
 16. Fasal 19 bertujuan meminda seksyen 22B Akta untuk melarang ejen harta-tanah berdaftar menjalankan pengurusan harta melainkan jika dibenarkan berbuat demikian oleh Lembaga.
 
 <!-- page 34 -->
 
-17. Fasal 20 bertujuan meminda seksyen 22c Akta u n t uk memperuntukkan bahawa seseorang ejen harta-tanah berdaftar adalah dikehendaki mempunyai kuasa untuk menjalankan amalan yang dikeluarkan di bawah seksyen 16 Akta sebelum dia boleh menjalankan amalan perejenan harta-tanah. la juga bertujuan mengenakan sekatan tambahan atas amalan perejenan harta-tanah.
+17. Fasal 20 bertujuan meminda seksyen 22c Akta untuk memperuntukkan bahawa seseorang ejen harta-tanah berdaftar adalah dikehendaki mempunyai kuasa untuk menjalankan amalan yang dikeluarkan di bawah seksyen 16 Akta sebelum dia boleh menjalankan amalan perejenan harta-tanah. la juga bertujuan mengenakan sekatan tambahan atas amalan perejenan harta-tanah.
 
 18. Fasal 21 bertujuan memasukkan seksyen baru 22D untuk mengadakan peruntukan mengenai kelayakan untuk pendaftaran sebagai ejen harta-tanah dan ejen harta-tanah percubaan.
 

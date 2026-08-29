@@ -1116,7 +1116,7 @@ in respect of any act, neglect, default or omission done by him or it in good fa
 
 ### Savings
 
-52. (1) The provisions of t h i s Act shall not apply to or affect —
+52.(1)Theprovisions ofthisActshall notapplytooraffect—
 
 (a) in relation to a Government Entity —
 

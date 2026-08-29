@@ -46,7 +46,7 @@ dengan minyak sawit dari 1 Januari 1979 (iaitu tarikh mula berkuat kuasa Perinta
 
 2. Fasal 1 mengandungi tajuk ringkas Akta yang dicadangkan in i.
 
-3. Fasal 2 mengandungi pindaan kepada subseksyen ( 1 ) dan (3) seksyen 35 Akta 582 bagi menjelaskan bahawa Menleri mempunyai kuasa untuk menetapkan orang atau golongan orang yang dikenakan ses di bawah seksyen itu. Subfasal 2(2) bertujuan untuk mengesahkan mana-mana perundangan subsidiari yang telah dibuat oleh Menteri di bawah subseksyen 35(1) Akta 582 sebelum permulaan kuat kuasa Akta yang dicadangkan i n i .
+3. Fasal 2 mengandungi pindaan kepada subseksyen ( 1 ) dan (3) seksyen 35 Akta 582 bagi menjelaskan bahawa Menleri mempunyai kuasa untuk menetapkan orang atau golongan orang yang dikenakan ses di bawah seksyen itu. Subfasal 2(2) bertujuan untuk mengesahkan mana-mana perundangan subsidiari yang telah dibuat oleh Menteri di bawah subseksyen 35(1) Akta 582 sebelum permulaan kuat kuasa Akta yang dicadangkan ini.
 
 4. Fasal 3 bertujuan untuk mengesahkan mana-mana perundangan subsidiari yang dibuat di bawah Akta Lembaga Pendaftaran dan Pelesenan Minyak Keiapa Sawit (Pemerbadanan) 1976 \Akta 179) dan Akta Penyelidikan dan Kemajuan Minyak Keiapa Sawit 1979 [Akta 218] ("Akta-Akta yang dimansuhkan").
 

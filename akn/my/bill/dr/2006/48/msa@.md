@@ -172,7 +172,7 @@ Pindaan seksyen 8A
 
 ### Pindaan seksyen 11
 
-11. Perenggan \\{\)(c) Aktaibudipindadenganmemotong perkataan "with the concurrence of the Minister of Finance".
+11. Perenggan \ \ { \ ) ( c ) Akta ibu dipinda dengan memotong perkataan "with the concurrence of the Minister of Finance".
 
 ### Pindaan seksyen 16c
 

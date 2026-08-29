@@ -306,7 +306,7 @@ he shall refer the application to be approved by the State Authority.”.
 
 <!-- page 12 -->
 
-(c) in F o r m 7F, by substituting for the words “Form 5” the words “Form 7E”; and
+(c) in Form 7F, by substituting for the words “Form 5” the words “Form 7E”; and
 
 (d) in Form 16H, by inserting at the end of the Form the following words:
 
@@ -484,7 +484,7 @@ he shall refer the application to be approved by the State Authority.”.
 
 <!-- page 17 -->
 
-(4) The computer documents of title to be prepared in respect of an existing printed document of title prepared under this Code shall be in Forms 5Be, 5Ce, 5De, 5Ee, 1lAe or 1 l B e of this Schedule, as the case may be.
+(4) The computer documents of title to be prepared in respect of an existing printed document of title prepared under this Code shall be in Forms 5Be, 5Ce, 5De, 5Ee, 1lAe or 1lBe of this Schedule, as the case may be.
 
 (5) In respect of an existing printed document of title registered under the previous land law, the computer document of title shall be deemed to be a process for the preparation of titles in continuation.
 
@@ -964,7 +964,7 @@ Settlement Area, etc, ............................ Gazette Notification No:…�
 
 dated .......................
 
-*Gr a nt in pe rpe tui ty/ Lease fo r a t erm o f ...... ..... ex p iri ng o n ............................
+*Grant in perpetuity/ Lease for a term of ........... expiring on ............................
 
 Registered this ......... day of ............., ...............
 

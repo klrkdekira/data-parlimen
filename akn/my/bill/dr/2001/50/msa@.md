@@ -64,7 +64,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (3) Jika Darjah Kebesaran dianugerahkan sebelum permulaan kuat kuasa Akta ini dan penerima masih hidup pada tarikh permulaan kuat kuasa itu, elaun kenangan hendaklah dibayar kepada penerima secara ke belakang, mulai dari bulan Darjah Kebesaran itu dianugerahkan kepadanya, tetapi tidak boleh lebih awal, dalam apa-apa keadaan, daripada bulan Jun 1983.
 
-(4) Jika Darjah Kebesaran itu dianugerahkan pada atau selepas permulaan kuat kuasa Akta ini, elaun kenangan hendaklah dibayar kepada penerima m u l ai dari b u l an Darjah Kebesaran itu dianugerahkan kepadanya.
+(4) Jika Darjah Kebesaran itu dianugerahkan pada atau selepas permulaan kuat kuasa Akta ini, elaun kenangan hendaklah dibayar kepada penerima mulai dari bulan Darjah Kebesaran itu dianugerahkan kepadanya.
 
 ### Pemberhentian pemberian elaun kenangan
 

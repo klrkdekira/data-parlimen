@@ -302,7 +302,7 @@ in paragraph
 
 ## Part IV the
 
-following rates: ""Chargeable Income Rate of Income Tax For every ringgit of the first 2 per cent $10,000 For every ringgit of the next 4 per cent $10.000 For every ringgit of the next 7 per cent $10.000 For every r i n g g it of the next 10 per cent $10,000 For every ringgit of the next 13 per cent $10.000 For every ringgit of the next 17 per cent $25.000 For every ringgil of the next 22 per cent $25,000 26 per cent For every ringgit of the n e xt $50,000 " For every r i g g it of the next 29 per cent $100.000 For every ringgit of the next 32 per cent $250.000 For every ringgit exceeding 34 per cent $500.000
+following rates: ""Chargeable Income Rate of Income Tax For every ringgit of the first 2 per cent $10,000 For every ringgit of the next 4 per cent $10.000 For every ringgit of the next 7 per cent $10.000 For every ringgit of the next 10 per cent $10,000 For every ringgit of the next 13 per cent $10.000 For every ringgit of the next 17 per cent $25.000 For every ringgil of the next 22 per cent $25,000 26 per cent For every ringgit of the n e xt $50,000 " For every riggit of the next 29 per cent $100.000 For every ringgit of the next 32 per cent $250.000 For every ringgit exceeding 34 per cent $500.000
 
 <!-- page 9 -->
 
@@ -404,7 +404,7 @@ Item 32(«) the following provisions:
 
 (iii) $3.00 on any amount in excess of $500,000 but not exceeding $2,000,000;
 
-(iv) $4.00 on any a m o u nt
+(iv) $4.00 on any amount
 
 <!-- marginal: in excess of -->
 
@@ -436,7 +436,7 @@ amended—
 
 ## CHAPTER V
 
-## REPEAL AND S A V I NG OF THE SUPPLEMENTARY
+## REPEAL AND SAVING OF THE SUPPLEMENTARY
 
 ## INCOME TAX ACT 1967
 
@@ -460,7 +460,7 @@ II
 
 4. Clause 6 seeks to amend section 108. Under the amended provisions, lax al the rate of 34 per cent will be deemed to have been deducted from dividends received by shareholders in the year 1992 while tax deduction in respect of dividends paid by companies in 1992 for purposes of section 108(4) shall be at the rate of 34 per cent. This amendmenl w i ll be effective for the year of assessment 1993.
 
-5. Clau.se 7 seeks to amend section 109 to exclude the need to impose w i t h h o l d i ng tax on interest from bonds as such interest
+5. Clau.se 7 seeks to amend section 109 to exclude the need to impose withholding tax on interest from bonds as such interest
 
 <!-- page 13 -->
 
@@ -472,9 +472,9 @@ received by individuals is exempt from tax under paragraph 35 of Schedule 6. Thi
 
 6. Clause 8 seeks to amend section 110 to provide that the tax deductible from dwidends in 1992 to be allowed to sharehoiders for the year of assessment 1993 shall be deemed to be at the rate of 34 per cent. This amendment w i ll be effective for the year of assessment 1993.
 
-7. Clause 9 seeks to amend the rates ol" tax for i n d i v i d u a ls in Part I of Schedule 1 to the Acl. The existing rates for resident individuals range from 4 to 35 per cent. The proposed rates range from 2 to 34 per cent. This clause also seeks to amend the rate of tax for companies, non-resident persons. trust bodies, executors ( in the case of deceased persons who are domiciled outside Malaysia at the linie of death) and receivers, in Part I of Schcdulc 1, t"rom 35 to 34 per cent. This clause further seeks to reduce the ratcs of tax for co- operative societies in Part IV of Schcdule 1. Thesc amendmcnts w i ll bc effective from the year of assessmenl 1993.
+7. Clause 9 seeks to amend the rates ol" tax for individuals in Part I of Schedule 1 to the Acl. The existing rates for resident individuals range from 4 to 35 per cent. The proposed rates range from 2 to 34 per cent. This clause also seeks to amend the rate of tax for companies, non-resident persons. trust bodies, executors ( in the case of deceased persons who are domiciled outside Malaysia at the linie of death) and receivers, in Part I of Schcdulc 1, t"rom 35 to 34 per cent. This clause further seeks to reduce the ratcs of tax for co- operative societies in Part IV of Schcdule 1. Thesc amendmcnts w i ll bc effective from the year of assessmenl 1993.
 
-8. Clause 10 seeks to amend paragraph 25A of Schedule 6. With this amendment cash payments in lieu.of" leave paid out of public funds on retlrement will be exempt from tax. This clause also secks to amend paragraph 35(c) of" Schedule 6 lo exempt individuals from tax on interest receivcd from bonds. other than convertible loan stock, issued by any company rated by R a t i ng Agency Malaysia Berhad. These amendments will be effective from the year of assessment 1993.
+8. Clause 10 seeks to amend paragraph 25A of Schedule 6. With this amendment cash payments in lieu.of" leave paid out of public funds on retlrement will be exempt from tax. This clause also secks to amend paragraph 35(c) of" Schedule 6 lo exempt individuals from tax on interest receivcd from bonds. other than convertible loan stock, issued by any company rated by Rating Agency Malaysia Berhad. These amendments will be effective from the year of assessment 1993.
 
 9. All other amendments are minor or consequential.
 
@@ -486,7 +486,7 @@ III
 
 10. Clause 12 seeks to amend the existing provisions under section 9 to ensure better compliance with regard to the time for setllement of amounts due to the Collector from an aulhorised banker, stockbroker or insurer. This amendment w i ll be deemed to have come into tbrce on ihe I st Januury 1993.
 
-1 1. Clause 13 seeks to amend section 12A to specify the dates on which the market value of property transferred by way of g i f t, settlement or sale is to be determined. This amendment will be deemed to have come into force on the Ist January 1993.
+1 1. Clause 13 seeks to amend section 12A to specify the dates on which the market value of property transferred by way of gift, settlement or sale is to be determined. This amendment will be deemed to have come into force on the Ist January 1993.
 
 12. Clause 14 seeks to increase the rate of duty on instruments ot' transfer chargeable under Item 32(a) of the First Schcdule for properties with values in excess of $500,000. This amendment will be deemed to have come into force on the I st January 1993.
 

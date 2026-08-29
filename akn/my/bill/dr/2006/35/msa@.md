@@ -696,7 +696,7 @@ sepenuhnya dan berkesan seolah-olah Kumpulan Wang Persaraan (Diperbadankan) dan 
 
 (a) dia mati;
 
-(b) telah dibuktikan terhadapnya atau jika dia lelah disabitkan atas sesuatu pertuduhan berkenaan dengan — ( i ) kesalahan yang melibatkan fraud, kecurangan alau keburukan akhlak; (ii) kesalahan dibawah mana-mana undang-undang yang berhubungan dengan rasuah ; atau (iii) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja alau sebagai tambahan kepada denda atau sebagai ganti denda) selama l e b i h daripada dua tahun;
+(b) telah dibuktikan terhadapnya atau jika dia lelah disabitkan atas sesuatu pertuduhan berkenaan dengan — ( i ) kesalahan yang melibatkan fraud, kecurangan alau keburukan akhlak; (ii) kesalahan dibawah mana-mana undang-undang yang berhubungan dengan rasuah ; atau (iii) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja alau sebagai tambahan kepada denda atau sebagai ganti denda) selama lebih daripada dua tahun;
 
 (C) dia menjadi bankrap;
 
@@ -708,11 +708,11 @@ sepenuhnya dan berkesan seolah-olah Kumpulan Wang Persaraan (Diperbadankan) dan 
 
 <!-- page 28 -->
 
-(2) Jika mana-mana orang Lerhenli menjadi anggota u l c h sebab inana- rnana perumukan lain Akla ini, orang lain henclaklah dilantik unluk mengganlikannya.
+(2) Jika mana-mana orang Lerhenli menjadi anggota ulch sebab inana- rnana perumukan lain Akla ini, orang lain henclaklah dilantik unluk mengganlikannya.
 
 ### Saraan
 
-3. Tertakluk kepada kelulusan Menten, anggola Lembagadan Panel Pelahuran hendaklah dibayar apa-apa saraan icbagaimana yang diieniukiin oleh d a n icmui kt
+3. Tertakluk kepada kelulusan Menten, anggola Lembagadan Panel Pelahuran hendaklah dibayar apa-apa saraan icbagaimana yang diieniukiin oleh dan icmui kt
 
 4. (1) Lembaga hcndaklah bermesyuarat sekurang-kurangnya sekali dalam tiap-tiap tiga bulan.
 

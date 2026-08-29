@@ -334,7 +334,7 @@ Registrable
 
 (b) was the subject matter of another application for registration of an industrial design filed in Malaysia but having an earlier priority date made by a different applicant in so far as that subject matter was included in a registration granted on the basis of that other application.
 
-(3) For the purposes of paragraph (2)(a), an industrial design shall not be deemed to have been disclosed to the public solely by reason of the fact that, within the period of six months preceding the filing date of an application for registration—
+(3) For the purposes of paragraph ( 2 )( a ), an industrial design shall not be deemed to have been disclosed to the public solely by reason of the fact that, within the period of six months preceding the filing date of an application for registration—
 
 (a) it appeared in an official or officially recognized exhibition; or
 

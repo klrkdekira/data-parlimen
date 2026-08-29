@@ -240,7 +240,7 @@ Keboleh- 90A. (1) Dalam mana-mana presiding terimaan jenayah atau sivil sesuatu 
 
 <!-- marginal: itu selepas -->
 
-bermulanya presiding jenayah atau sivil atau selepas bermulanya apa-apa penyiasatan atau siasatan berhubungan dengan presiding j e n a y ah atau sivil atau penyiasatan atau siusatan i t u, dan apa-apa dokumen yang dikeluarkan sedemikian oleh komputer itu hendaklah disifatkan telah dikeluarkan oleh komputer itu dalam perjalanan penggunaannya yang biasa.
+bermulanya presiding jenayah atau sivil atau selepas bermulanya apa-apa penyiasatan atau siasatan berhubungan dengan presiding jenayah atau sivil atau penyiasatan atau siusatan i t u, dan apa-apa dokumen yang dikeluarkan sedemikian oleh komputer itu hendaklah disifatkan telah dikeluarkan oleh komputer itu dalam perjalanan penggunaannya yang biasa.
 
 (7) Walau apa pun apa-apa jua yang terkandung dalam seksyen ini, sesuatu dokumen yang dikeluarkan oleh komputer, atau sesuatu pernyataan yang terkandung dalam dokumen itu, tidak boleh diterima dalam keterangan dalam apa-apa presiding jenayah, jika ia diberikan sebagai keterangan oleh atau bagi pihak orang yang dipertuduh alas suatu kesalahan dalam presiding itu jika orang yang dipertuduh atas kesalahan itu ialah orang yang—
 
@@ -324,7 +324,7 @@ Begitu juga, perenggan baru (j) membolehkan suatu pernyataan yang dibuat oleh pe
 
 5. Fasal 5 bertujuan meminda subseksyen (3) seksyen 60 Akta yang sedia ada yang mengetepikan pengemukaan dokumen bagi pemeriksaan mahkamah. Pindaan ini akan membolehkan dokumen dimasukkan sebagai bahan yang boleh dikemukakan di hadapan mahkamah dan diperiksa oleh mahkamah.
 
-6. Fasal 6 bertujuan m e m i n da seksyen 62 Akta dengan memasukkan huraian baru bagi erti dokumen primer dan dengan itu dokumen yang dikeluarkan oleh komputer dijadikan keterangan primer.
+6. Fasal 6 bertujuan meminda seksyen 62 Akta dengan memasukkan huraian baru bagi erti dokumen primer dan dengan itu dokumen yang dikeluarkan oleh komputer dijadikan keterangan primer.
 
 <!-- page 11 -->
 

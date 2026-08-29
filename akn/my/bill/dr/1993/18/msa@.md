@@ -36,7 +36,7 @@ oleh Duli Yang Maha Mulia Seri Paduka Baginda Yang di- Pertuan Agong dengan 'nas
 
 "Akta ibu" dalam Akta ini, adalah dipinda dengan
 
-<!-- marginal: 17(l)(b)(ii). -->
+<!-- marginal: 1 7 ( l ) ( b ) ( i i ). -->
 
 <!-- marginal: Akta 335. -->
 

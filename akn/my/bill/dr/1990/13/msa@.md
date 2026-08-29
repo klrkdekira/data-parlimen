@@ -6,7 +6,7 @@ Naskhah Sahih—Bahasa Malaysia
 
 ## RANG UNDANG-UNDANG
 
-b e r nama
+bernama
 
 Suatu Akta bagi menggunakan sejumlah wang daripada Kumpulan Wang Disatukan untuk perbelanjaan tambahan bagi perkhidmatan tahun 1989 dan 1990 dan bagi memperuntukkan wang itu untuk maksud-maksud yang tertentu bagi tahun-tahun yang tersebut itu. [ ]
 

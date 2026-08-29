@@ -1084,7 +1084,7 @@ not below the rank of Inspector, or an investigating officer appointed under sub
 
 ### Public servant
 
-58. All directors, or any members of i t s committees of the Commission, officers or employees of the Commission while discharging their duties as such a director, member, officer, employee or investigating officer shall be deemed to be public servants within the meaning of the Penal Code {Act 574].
+58. All directors, or any members of its committees of the Commission, officers or employees of the Commission while discharging their duties as such a director, member, officer, employee or investigating officer shall be deemed to be public servants within the meaning of the Penal Code {Act 574].
 
 ### Public Authorities Protection Act 1948
 

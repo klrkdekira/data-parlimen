@@ -1818,7 +1818,7 @@ dokumen yang ditemui dalam pemilikan mana-mana pemegang jawatan atau orang yang 
 
 92. (1) Mana-mana anggota pertubuhan belia berdaftar atau Pendaftar boleh membuat aduan kepada Mahkamah Sesyen bahawa mana-mana pemegang jawatan atau anggota pertubuhan belia itu —
 
-(a) ada dalam milikan atau kawalannya apa-apa harta pertubuhan belia i t u selain daripada berdasarkan kaedah- kaedah pertubuhan belia itu;
+(a) ada dalam milikan atau kawalannya apa-apa harta pertubuhanbeliaituselaindaripadaberdasarkankaedah- kaedah pertubuhan belia itu;
 
 <!-- page 68 -->
 
@@ -2182,7 +2182,7 @@ pertubuhan dan tiap-tiap pegawai yang melaksanakan fungsi eksekutif dalam pertub
 
 5. (1) Lembaga hendaklah menyebabkan minit kesemua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
 
-(2) Apa-apa m i n i t yang dibuat mengenai mesyuarat Lembaga,
+(2) Apa-apa minit yang dibuat mengenai mesyuarat Lembaga,
 
 <!-- marginal: jika -->
 

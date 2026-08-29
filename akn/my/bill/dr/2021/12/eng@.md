@@ -248,17 +248,17 @@ Provided that the deduction under this paragraph shall be part of the amount lim
 
 Provided that—
 
-(a) f o r the purposes of subparagraphs (i) and (ii), the payment is made on or after 1 March 2020 but not later than 31 December 2022; and
+(a) for the purposes of subparagraphs (i) and (ii), the payment is made on or after 1 March 2020 but not later than 31 December 2022; and
 
 <!-- page 11 -->
 
-(b) f o r
+(b) for
 
 <!-- marginal: the purposes of -->
 
 subparagraph (iii),
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 purchase is made on or after 1 January 2021 but not later than 31 December 2022;”;
 
@@ -698,7 +698,7 @@ not exceeding five per cent of the total value of the consideration, whichever i
 
 “(a) relating to the disposal of real property—
 
-A x C — B where A is part of the area of the chargeable asset disposed; B is the total area of the chargeable asset; C is ten thousand;
+AxC — B where A is part of the area of the chargeable asset disposed; B is the total area of the chargeable asset; C is ten thousand;
 
 or ten per cent of the chargeable gain, whichever is greater;
 
@@ -706,7 +706,7 @@ or ten per cent of the chargeable gain, whichever is greater;
 
 (b) relating to the disposal of shares—
 
-A x C — B
+AxC — B
 
 where A is the number of shares deemed to be a chargeable asset under paragraph 34 or 34a of Schedule 2 disposed; B is the total number of issued shares deemed to be a chargeable asset in relation to shares deemed to be chargeable asset under paragraph 34 or 34a of Schedule 2; C is ten thousand;
 

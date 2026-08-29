@@ -16,7 +16,7 @@ DAN BAHAWASANYA beberapa kementerian yang disusun semula dan dinamakan semula it
 
 <!-- page 2 -->
 
-DAN BAHAWASANYA amaun yang belum dibelanjakan berhubung dengan kementerian yang dibubarkan dan kementerian-kementerian yang peruntukan untuknya perlu dikurangkan i t u telah disekat melalui waran yang dikeluarkan oleh Menteri Kewangan di bawah perenggan 13(3)(b) Akta Tatacara Kewangan 1957 [Akta 61]:
+DAN BAHAWASANYA amaun yang belum dibelanjakan berhubung dengan kementerian yang dibubarkan dan kementerian-kementerian yang peruntukan untuknya perlu dikurangkan itu telah disekat melalui waran yang dikeluarkan oleh Menteri Kewangan di bawah perenggan 13(3)(b) Akta Tatacara Kewangan 1957 [Akta 61]:
 
 DAN BAHAWASANYA menurut Perkara 100 dan 101 Perlembagaan Persekutuan, penguntukan semula peruntukan perbelanjaan bagi maksud-maksud yang melibatkan kementerian-kementerian yang disusun semula dan dinamakan semula dan kementerian-kementerian baru itu hanya boleh dilakukan melalui suatu Akta Perbekalan:
 

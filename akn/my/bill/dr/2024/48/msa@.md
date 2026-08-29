@@ -652,7 +652,7 @@ RM1,000,000.00
 
 (c) dalam butiran 29, dalam ruang “Proper Stamp Duty”, dengan menggantikan perkataan “15 cent” dengan perkataan “RM1.00”;
 
-(d) dalam subsubbutiran 32(e)(i), dalam ruang “Proper Stamp Duty ”, den gan me masuk kan s ele p as pe r k a ta a n “Duty as in (a),” perkataan “(aa),”;
+(d) dalam subsubbutiran 32(e)(i), dalam ruang “Proper Stamp Duty”, dengan memasukkan selepas perkataan “Duty as in (a),” perkataan “(aa),”;
 
 <!-- page 25 -->
 
@@ -796,7 +796,7 @@ For the sole purposes of appointment or authorizing any person to vote as proxy 
 
 (a) dalam subseksyen 157(1)—
 
-(i) dalam takrif “Acceptable Financial Accounting S tand ard” , de nga n me mo to ng p e r ka ta a n “Malaysia,”;
+(i) dalam takrif “Acceptable Financial Accounting Standard”, dengan memotong perkataan “Malaysia,”;
 
 (ii) dalam takrif “Investment Entity”, dengan menggantikan perenggan (a) dengan perenggan yang berikut:
 

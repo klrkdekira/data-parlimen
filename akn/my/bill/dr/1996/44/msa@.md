@@ -304,7 +304,7 @@ yang perlu bagi pelaksanaan fungsi-fungsinya.
 
 (5) Lembaga hendaklah mempunyai kuasa untuk menentukan perjalanan prosidingnya.
 
-(6) Lembaga boleh mengundang mana-mana orang u n t uk menghadiri mana-mana mesyuarat
+(6) Lembaga boleh mengundang mana-mana orang untuk menghadiri mana-mana mesyuarat
 
 <!-- marginal: atau -->
 
@@ -562,7 +562,7 @@ Rang Undang-Undang ini bertujuan menubuhkan Yayasan Laporan Kewangan dan Lembaga
 
 <!-- page 16 -->
 
-masing-masing dan pengambilan khidmat orang-orang u n t uk membantunya melaksanakan fungsi-fungsi dan menjalankan kuasa- kuasanya. Kuasa Lembaga berhubungan dengan piawaian perakaunan terkandung dalam subfasal 7(1).
+masing-masing dan pengambilan khidmat orang-orang untuk membantunya melaksanakan fungsi-fungsi dan menjalankan kuasa- kuasanya. Kuasa Lembaga berhubungan dengan piawaian perakaunan terkandung dalam subfasal 7(1).
 
 4. Bahagian III mengandungi peruntukan yang berhubungan dengan penubuhan Kumpulan Wang yang hendaklah ditadbirkan oleh Yayasan, sumber Kumpulan Wang itu, dan maksud yang baginya Kumpulan Wang itu boleh dibelanjakan. Bahagian ini juga memperkatakan tahun kewangan Yayasan dan kuasa Yayasan untuk melaburkan wangnya.
 

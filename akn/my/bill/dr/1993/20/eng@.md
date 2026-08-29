@@ -844,9 +844,7 @@ subsection (8) the number "(2)";
 
 (g) by inserting after the word "goods" in paragraph ( 1 1 )( a) the words "or services";
 
-(h) by inserting after the word "goods" wherever it appears in paragraph
-
-(15)(a) the words "or services"; and
+(h) by inserting after the word "goods" wherever it appears in paragraph ( 1 5 ) ( a) the words "or services"; and
 
 (i) by inserting after the word "goods"
 
@@ -1002,11 +1000,11 @@ Substitution
 
 (2)(b) the words "and services";
 
-(b) by substituting for paragraph (2)(e) the following:
+(b) by substituting for paragraph ( 2 ) ( e) the following:
 
 "(e) to prescribe the fees to be paid in respect of any matter or thing required for the purposes of this Act;";
 
-(c) by inserting after paragraph (2)(e) the following:
+(c) by inserting after paragraph ( 2 ) ( e) the following:
 
 "(ea) to provide for the registration and qualifications of agents;"; and
 

@@ -32,7 +32,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 4. Seksyen 2 Akta ibu dipinda-
 
-(a)dalamsubseksyen(1)-
+( a ) dalam subseksyen (1)-
 
 (i) dengan memasukkan selepas takrif "Bank" takrif yang berikut:
 
@@ -86,7 +86,7 @@ didaftarkan di bawah mana-mana undang- undang bertulis; dan
 
 ( a ) dalam subseksyen (1), dengan memotong perkataan "Luar Pesisir"; dan
 
-(b)dalamsubseksyen(2)-
+( b ) dalam subseksyen (2)-
 
 (i) dalam perenggan ( a ) , dengan menggantikan perkataan "pusat bagi perkhidmatan kewangan luar pesisir" dengan perkataan "suatu pusat antarabangsa bagi perniagaan dan perkhidmatan kewangan";
 
@@ -106,11 +106,11 @@ penguatkuasaan pusat bagi industri perniagaan antarabangsa dan perkhidmatan kewa
 
 6. Seksyen 4 Akta ibu dipinda-
 
-(a)dalamsubseksyen(1)-
+( a ) dalam subseksyen (1)-
 
 (i) dengan menggantikan perenggan ( a ) dengan perenggan yang berikut:
 
-"(a)untuk mentadbir, menguatkuasakan, menjalankan dan melaksanakan peruntukan Akta ini dan undang-undang yang dinyatakan dalam Jadual dan apa-apa
+" ( a ) untuk mentadbir, menguatkuasakan, menjalankan dan melaksanakan peruntukan Akta ini dan undang-undang yang dinyatakan dalam Jadual dan apa-apa
 
 <!-- marginal: jua yang -->
 
@@ -120,7 +120,7 @@ bersampingan dengan undang-undang itu dan untuk memastikan bahawa undang-undang 
 
 "(c) untuk mengekalkan reputasi baik Labuan sebagai suatu pusat perniagaan dan kewangan antarabangsa;";
 
-(iii) dalamperenggan(d)dan(e),denganmemotong perkataan "luar pesisir";
+(iii) dalam perenggan ( d ) dan ( e ) , dengan memotong perkataan "luar pesisir";
 
 (iv) dengan menggantikan perenggan ( f ) dengan perenggan yang berikut:
 
@@ -138,7 +138,7 @@ bersampingan dengan undang-undang itu dan untuk memastikan bahawa undang-undang 
 
 ( b ) dengan memotong subseksyen (3);
 
-(c) dalam perenggan (4)(c), dengan memasukkan selepas perkataan "Akta ini" perkataan "atau mana-mana undang- undang yang dinyatakan dalam Jadual"; dan
+( c ) dalam perenggan ( 4 ) ( c ) , dengan memasukkan selepas perkataan "Akta ini" perkataan "atau mana-mana undang- undang yang dinyatakan dalam Jadual"; dan
 
 ( d ) dengan memotong subseksyen (5) dan (6).
 
@@ -252,7 +252,7 @@ Labuan (Pindaan)
 
 ### Pindaan seksyen 17
 
-12.Seksyen17Aktaibudipindadalamperenggan(l)(a)dan6(a) dengan menggantikan perkataan "luar pesisir" dengan perkataan "Labuan".
+12. Seksyen 17 Akta ibu dipinda dalam perenggan ( l ) ( a ) dan 6 ( a ) dengan menggantikan perkataan "luar pesisir" dengan perkataan "Labuan".
 
 ### Pindaan seksyen 18A
 
@@ -272,7 +272,7 @@ Labuan (Pindaan)
 
 ( b ) dengan memotong takrif "kemudahan kredit", "pemegang lesen", "pengurus kumpulan wang", "penyimpan" dan "syarikat amanah";
 
-(c)dengan memasukkan selepas takrif "bank
+( c ) dengan memasukkan selepas takrif "bank
 
 <!-- marginal: luar pesisir -->
 
@@ -294,7 +294,7 @@ berlesen" takrif yang berikut:
 
 16. Seksyen 28B Akta ibu dipinda—
 
-(a)dalamsubseksyen(1)—
+( a ) dalam subseksyen (1)—
 
 (i) dalam teks bahasa Inggeris, dengan menggantikan perkataan "in exercise of dengan perkataan "in the exercise of; dan
 
@@ -412,7 +412,7 @@ perkataan "pegawai penyiasat di bawah Akta ini" perkataan "atau undang-undang ya
 
 <!-- page 14 -->
 
-(c)dalamsubseksyen(3)-
+( c ) dalam subseksyen (3)-
 
 (i) dengan memotong perkataan "dan Ketua Pengarah"; dan
 
@@ -506,7 +506,7 @@ sebagaimana yang diperuntukkan dalam subseksyen
 
 (2) Seseorang pegawai penyiasat yang menyiasat suatu kesalahan boleh-
 
-(a)memerintahkan mana-mana orang supaya hadir di hadapannya bagi maksud diperiksa secara lisan berhubung dengan apa-apa perkara yang boleh, pada pendapat pegawai penyiasat itu, membantu dalam penyiasatan kesalahan itu;
+( a ) memerintahkan mana-mana orang supaya hadir di hadapannya bagi maksud diperiksa secara lisan berhubung dengan apa-apa perkara yang boleh, pada pendapat pegawai penyiasat itu, membantu dalam penyiasatan kesalahan itu;
 
 (b) memerintahkan mana-mana orang supaya mengemukakan kepadanya harta, rekod, laporan, objek, artikel, bahan, benda, buku, buku minit, akaun, daftar atau dokumen atau apa-apa salinannya yang diperaku, atau apa-apa artikel lain yang boleh, pada pendapat pegawai penyiasat itu, membantu dalam penyiasatan kesalahan itu; atau
 
@@ -516,15 +516,13 @@ sebagaimana yang diperuntukkan dalam subseksyen
 
 (3) Perenggan ( 2 ) ( b ) tidak terpakai bagi lejar, buku harian, buku tunai, buku akaun dan semua buku atau dokumen lain yang digunakan dalam penjalanan biasa perniagaan sesuatu bank.
 
-(4) Seseorang yang kepadanya suatu perintah di bawah perenggan
-
-(2)(a) telahdiberikanhendaklah-
+(4) Seseorang yang kepadanya suatu perintah di bawah perenggan ( 2 ) ( a ) telah diberikan hendaklah-
 
 ( a ) hadir mengikut terma perintah itu untuk diperiksa, dan hendaklah terus hadir sedemikian dari sehari ke sehari apabila diarahkan sedemikian sehingga pemeriksaaan itu selesai; dan
 
 ( b ) sepanjang pemeriksaan itu, mendedahkan segala maklumat yang ada dalam pengetahuannya, atau yang ada padanya, berkenaan dengan perkara yang berhubungan dengannya dia sedang diperiksa, dan menjawab apa-apa soalan yang ditanya dengan benar dan berdasarkan apa yang dia tahu dan percaya, dan tidak boleh enggan menjawab apa-apa soalan atas alasan bahawa soalan itu mungkin menunjukkan bahawa dia atau suami atau isterinya bersalah.
 
-(5) Seseorang yang kepadanya suatu perintah telah diberikan di bawah perenggan (2)(b) tidak boleh menyembunyikan, memusnahkan, mengubah, mengalihkan dari Malaysia, atau mengurusniagakan, menjual, atau melupuskan
+(5) Seseorang yang kepadanya suatu perintah telah diberikan di bawah perenggan ( 2 ) ( b ) tidak boleh menyembunyikan, memusnahkan, mengubah, mengalihkan dari Malaysia, atau mengurusniagakan, menjual, atau melupuskan
 
 <!-- marginal: apa-apa -->
 
@@ -536,9 +534,7 @@ menyebabkan supaya perbuatan itu dilakukan, atau membantu atau berkomplot untuk 
 
 <!-- page 19 -->
 
-(6) Seseorang yang kepadanya suatu notis bertulis telah diberikan di bawah perenggan
-
-(2)(c) hendaklah, dalam pernyataannya, memberikan dan mendedahkan dengan benar semua maklumat yang dikehendaki di bawah notis itu yang berada dalam pengetahuannya, atau yang ada padanya, atau yang boleh didapati olehnya, dan tidak boleh enggan untuk memberikan atau mendedahkan maklumat itu atas alasan bahawa maklumat itu mungkin menunjukkan bahawa dia atau suami atau isterinya bersalah.
+(6) Seseorang yang kepadanya suatu notis bertulis telah diberikan di bawah perenggan ( 2 ) ( c ) hendaklah, dalam pernyataannya, memberikan dan mendedahkan dengan benar semua maklumat yang dikehendaki di bawah notis itu yang berada dalam pengetahuannya, atau yang ada padanya, atau yang boleh didapati olehnya, dan tidak boleh enggan untuk memberikan atau mendedahkan maklumat itu atas alasan bahawa maklumat itu mungkin menunjukkan bahawa dia atau suami atau isterinya bersalah.
 
 (7) Seseorang yang kepadanya suatu notis telah diberikan di bawah subseksyen (2) hendaklah mematuhi perintah atau notis itu dan subseksyen (4), (5) dan (6) walau apa pun mana-mana undang-undang bertulis atau rukun undang-undang yang berlawanan.
 
@@ -548,7 +544,7 @@ menyebabkan supaya perbuatan itu dilakukan, atau membantu atau berkomplot untuk 
 
 <!-- page 20 -->
 
-(10) Rekod sesuatu pemeriksaan di bawah perenggan ( 2 ) ( a ) , atau pernyataan bertulis dengan bersumpah atau berikrar yang dibuat menurutperenggan(2)(c),atauapa-apabuku,rekod,laporan, dokumen atau barang yang dikemukakan di bawah perenggan ( 2 ) ( b ) , atau selainnya dalam penjalanan sesuatu pemeriksaan di bawah perenggan (2)(a), atau di bawah suatu pernyataan bertulis dengan bersumpahatauberikraryangdibuatmenurutperenggan(2)(c), hendaklah, walau apa pun mana-mana undang-undang bertulis atau rukun undang-undang yang berlawanan, boleh diterima sebagai keterangan dalam apa-apa prosiding dalam mana-mana mahkamah bagi suatu kesalahan di bawah Akta ini atau undang-undang yang dinyatakan dalam Jadual, tidak kira sama ada prosiding itu adalah terhadap orang yang telah diperiksa, atau yang mengemukakan buku, rekod, laporan, dokumen atau barang itu, atau yang telah membuat pernyataan bertulis dengan bersumpah atau ikrar, atau terhadap mana- mana orang lain.
+(10) Rekod sesuatu pemeriksaan di bawah perenggan ( 2 ) ( a ) , atau pernyataan bertulis dengan bersumpah atau berikrar yang dibuat menurut perenggan ( 2 ) ( c ) , atau apa-apa buku, rekod, laporan, dokumen atau barang yang dikemukakan di bawah perenggan ( 2 ) ( b ) , atau selainnya dalam penjalanan sesuatu pemeriksaan di bawah perenggan (2)(a), atau di bawah suatu pernyataan bertulis dengan bersumpah atau berikrar yang dibuat menurut perenggan ( 2 ) ( c ) , hendaklah, walau apa pun mana-mana undang-undang bertulis atau rukun undang-undang yang berlawanan, boleh diterima sebagai keterangan dalam apa-apa prosiding dalam mana-mana mahkamah bagi suatu kesalahan di bawah Akta ini atau undang-undang yang dinyatakan dalam Jadual, tidak kira sama ada prosiding itu adalah terhadap orang yang telah diperiksa, atau yang mengemukakan buku, rekod, laporan, dokumen atau barang itu, atau yang telah membuat pernyataan bertulis dengan bersumpah atau ikrar, atau terhadap mana- mana orang lain.
 
 (11) Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya, dan, dalam hal kesalahan yang berterusan, dikenakan denda selanjutnya tidak melebihi satu ribu ringgit bagi setiap hari yang kesalahan itu berterusan selepas sabitan.
 
@@ -618,7 +614,7 @@ apa-apa maklumat atau perkara lain yang dizahirkan dengan tujuan untuk mencapai 
 
 (4) Dalam prosiding terhadap seseorang bagi suatu kesalahan di bawah seksyen ini, adalah suatu pembelaan jika dibuktikan bahawa-
 
-( a ) dia tidak mengetahui atau mengesyaki bahawa penzahiran yangdibuatdibawahperenggan(2)(b)
+( a ) dia tidak mengetahui atau mengesyaki bahawa penzahiran yang dibuat di bawah perenggan ( 2 ) ( b )
 
 <!-- marginal: itu mungkin -->
 
@@ -730,9 +726,9 @@ berkenaan dengan mana-mana orang; atau
 
 21. Subseksyen 29(2) Akta ibu dipinda-
 
-(a)denganmemotongperkataan"dan"dihujungperenggan(e); dan
+( a ) dengan memotong perkataan "dan" di hujung perenggan ( e ) ; dan
 
-(b)denganmemasukkanselepasperenggan(e)perengganyang berikut:
+( b ) dengan memasukkan selepas perenggan ( e ) perenggan yang berikut:
 
 "(ea) kesemua wang yang dipungut oleh Lembaga bagi apa-apa penalti pentadbiran di bawah seksyen 36G atau di bawah undang-undang yang dinyatakan dalam Jadual; dan".
 
@@ -880,7 +876,7 @@ pelanggaran telah dibuktikan dalam suatu pendakwaan.
 
 ( c ) meremedi kesan apa-apa pelanggaran peruntukan Akta ini atau undang-undang yang dinyatakan dalam Jadual;
 
-(d)pemeliharaanaset;atau
+( d ) pemeliharaan aset; atau
 
 ( e ) membayar pampasan kepada orang yang mengalami kerugian akibat pelanggaran itu.
 

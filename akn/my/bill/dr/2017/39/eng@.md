@@ -3228,7 +3228,7 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-1 WagesuptoRM30…………
+1 Wages up to RM30 … … … …
 
 <!-- marginal: 10 sen -->
 
@@ -3596,7 +3596,7 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-1 WagesuptoRM30…………
+1 Wages up to RM30 … … … …
 
 <!-- marginal: 20 sen -->
 
@@ -3958,7 +3958,7 @@ contribution
 
 <!-- marginal: for the month -->
 
-1 WagesuptoRM30………… 20 sen
+1 Wages up to RM30 … … … … 20 sen
 
 <!-- marginal: RM20 -->
 
@@ -4330,7 +4330,7 @@ Actual monthly wages of the month
 
 <!-- marginal: for the month -->
 
-1 WagesuptoRM30…………
+1 Wages up to RM30 … … … …
 
 <!-- marginal: 30 sen -->
 

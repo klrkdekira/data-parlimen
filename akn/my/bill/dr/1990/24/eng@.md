@@ -1600,7 +1600,7 @@ This Bill seeks to provide for the appointment and functions of a Director Gener
 
 ## PARTI
 
-2. Part I seeks to provide for preliminary matters. 3. Clause 1 deals with the short title and seeks to allow the Minister to appoint the date of commencement for the Bill. The Bill shall apply throughout Malaysia. However the Minister may by order suspend the operation of the whole or any of its provisions in any State. 4. Clause 2 defines certain words and expressions,used in the B i l l,
+2. Part I seeks to provide for preliminary matters. 3. Clause 1 deals with the short title and seeks to allow the Minister to appoint the date of commencement for the Bill. The Bill shall apply throughout Malaysia. However the Minister may by order suspend the operation of the whole or any of its provisions in any State. 4. Clause2definescertainwordsandexpressions,usedin theBill,
 
 <!-- page 54 -->
 

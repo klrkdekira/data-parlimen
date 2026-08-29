@@ -318,7 +318,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Bank Luar Pesisir 1990 ("Akta").
 
 <!-- page 12 -->
 
-(b) dalam subseksyen (3), u n t uk membolehkan Bank mendedahkan apa-apa maklumat yang diperolehinya daripada bank luar pesisir berlesen kepada pihak berkuasa kewangan negara asal bank luar pesisir itu.
+(b) dalam subseksyen (3), untuk membolehkan Bank mendedahkan apa-apa maklumat yang diperolehinya daripada bank luar pesisir berlesen kepada pihak berkuasa kewangan negara asal bank luar pesisir itu.
 
 7. Fasal 7 bertujuan meminda seksyen 23 untuk membenarkan Bank menghendaki juruaudit dalaman atau juruaudit yang diluluskan bagi sesuatu bank luar pesisir berlesen yang merupakan suatu syarikat luar pesisir asing supaya menentusahkan pengemukaan yang telah dibuat oleh bank luar pesisir berlesen itu.
 

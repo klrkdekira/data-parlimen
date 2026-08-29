@@ -338,7 +338,7 @@ Pelesenan Kenderaan Pelancongan
 
 ### Permohonan bagi pembaharuan lesen
 
-12. (1) Tertakluk kepada subseksyen (2) dan (3), mana-mana orang yang merupakan seorang pemegang lesen yang memuaskan hati Pesuruhjaya bahawa sejak tarikh lesen itu diberikan dia telah menjalankan dengan sah dan secara berterusan perniagaan kenderaan pelancongan mengikut terma-terma dan syarat-syarat lesen, hendaklah apabila permohonan dibuat kepada Pesuruhjaya bagi pembaharuan lesen itu, diberi keutamaan daripada semua pemohon yang lain bagi suatu lesen u n t uk menjalankan perniagaan kenderaan pelancongan yang sebahagian besarnya sama dengan perkhidmatan yang selama ini disediakan oleh pemegang lesen itu.
+12. (1) Tertakluk kepada subseksyen (2) dan (3), mana-mana orang yang merupakan seorang pemegang lesen yang memuaskan hati Pesuruhjaya bahawa sejak tarikh lesen itu diberikan dia telah menjalankan dengan sah dan secara berterusan perniagaan kenderaan pelancongan mengikut terma-terma dan syarat-syarat lesen, hendaklah apabila permohonan dibuat kepada Pesuruhjaya bagi pembaharuan lesen itu, diberi keutamaan daripada semua pemohon yang lain bagi suatu lesen untuk menjalankan perniagaan kenderaan pelancongan yang sebahagian besarnya sama dengan perkhidmatan yang selama ini disediakan oleh pemegang lesen itu.
 
 (2) Sesuatu permohonan bagi pembaharuan lesen di bawah subseksyen ( 1) hendaklah dibuat sekurang-kurangnya tiga puluh hari. tetapi tidak lebih daripada enam puluh hari, sebelum tarikh habis tempoh lesen dan permohonan itu hendaklah disertakan dengan apa-apa dokumen dan maklumat yang dikehendaki oleh Pesuruhjaya.
 
@@ -484,7 +484,7 @@ Rang Undang-Undang
 
 (2) Kecuali dengan persetujuan Pesuruhjaya terlebih dahulu, pemegang lesen tidak boleh melantik seseorang ejen atau wakil bagi maksud menjalankan mana-mana hak yang diberikan kepada pemegang lesen dan tidak boleh menyebabkan atau membenarkan mana-mana ejen atau wakil sedemikian menjalankan mana-mana hak sedemikian.
 
-(3) Pemegang sesuatu lesen yang berupa untuk memindahkan h a k m i l ik atau menyerah hak lesen atau menyebabkan atau membenarkan mana-mana orang lain menggunakan sesuatu kenderaan dibenarkan atau mengadakan perkhidmatan yang dibenarkan dalam lesen adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
+(3) Pemegang sesuatu lesen yang berupa untuk memindahkan hakmilik atau menyerah hak lesen atau menyebabkan atau membenarkan mana-mana orang lain menggunakan sesuatu kenderaan dibenarkan atau mengadakan perkhidmatan yang dibenarkan dalam lesen adalah melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.
 
 (4) Pesuruhjaya boleh membenarkan pindah hakmilik lesen jika sesuatu syarikat yang merupakan pemegang lesen dilikuidasikan atau seorang penerima atau pengurus dilantik berhubungan dengan perniagaan pemegang lesen atau jika kerana apa-apa sebab Pesuruhjaya berpuas hati bahawa tidak adil jika tidak dilakukan sedemikian.
 

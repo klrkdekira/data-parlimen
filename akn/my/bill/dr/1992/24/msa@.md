@@ -130,7 +130,7 @@ IV
 
 ## PERTIKAIAN
 
-64. Kuasa Ketua Pendaftar untuk memeriksa buku-buku, dll., koperasi-koperasi berdaftar. 65. Kuasa u n t uk menyita dan menahan buku-buku dan dokumen-dokumen. 66. Siasatan. 67. Ketua Pendaftar boleh memberitahu koperasi berdaftar keputusan pemeriksaan atau siasatan. 68. Pemeriksaan atas permohonan pemiutang-pemiutang. 69. Kuasa Ketua Pendaftar berikutan dengan siasatan-siasatan. 70. Pegawai yang dipecat atas perintah Ketua Pendaftar tidak boleh dilantik semula. 71. Pembubaran. 72. Pembatalan pendaftaran sesuatu koperasi kerana kurang anggota. 73. Akibat pembatalan pendaftaran. 74. Pelikuidasian selepas pembatalan pendaftaran koperasi.
+64. Kuasa Ketua Pendaftar untuk memeriksa buku-buku, dll., koperasi-koperasi berdaftar. 65. Kuasa untuk menyita dan menahan buku-buku dan dokumen-dokumen. 66. Siasatan. 67. Ketua Pendaftar boleh memberitahu koperasi berdaftar keputusan pemeriksaan atau siasatan. 68. Pemeriksaan atas permohonan pemiutang-pemiutang. 69. Kuasa Ketua Pendaftar berikutan dengan siasatan-siasatan. 70. Pegawai yang dipecat atas perintah Ketua Pendaftar tidak boleh dilantik semula. 71. Pembubaran. 72. Pembatalan pendaftaran sesuatu koperasi kerana kurang anggota. 73. Akibat pembatalan pendaftaran. 74. Pelikuidasian selepas pembatalan pendaftaran koperasi.
 
 <!-- page 4 -->
 
@@ -408,7 +408,7 @@ Permohonan
 
 (a) salinan-salinan undang-undang kecil yang dicadangkan, yang ditandatangani oleh pemohon-pemohon; dan
 
-(b) tertakluk kepada subseksyen 8(2), m i n it mesyuarat agung permulaan, yang di- tandatangani oleh sekurang-kurangnya lima puluh orang yang hadir.
+(b) tertakluk kepada subseksyen 8(2), minit mesyuarat agung permulaan, yang di- tandatangani oleh sekurang-kurangnya lima puluh orang yang hadir.
 
 Pendaflaran.
 
@@ -650,7 +650,7 @@ sewa dan, dalam hal harta tak alih, kepada apa-apa gadaian berdaftar terdahulu a
 
 kesemuanya atau sebahagiannya diper- dapatkan, dibeli atau dihasilkan daripada apa- apa pinjaman, sama ada dalam bentuk wang atau barang, yang diberikan kepadanya oleh koperasi itu;
 
-(b) apa-apa t u n t u t an atau bareh yang belum terjelas yang kena dibayar kepada sesuatu koperasi perumahan berdaftar oleh mana-mana anggota atau bekas anggota berkenaan dengan sewa, syer, pinjaman atau wang pembelian atau apa-apa hak atau amaun lain yang kena dibayar kepada koperasi itu hendaklah menjadi gadaian pertama atas kepentingannya mengenai harta tak alih koperasi itu.
+(b) apa-apa tuntutan atau bareh yang belum terjelas yang kena dibayar kepada sesuatu koperasi perumahan berdaftar oleh mana-mana anggota atau bekas anggota berkenaan dengan sewa, syer, pinjaman atau wang pembelian atau apa-apa hak atau amaun lain yang kena dibayar kepada koperasi itu hendaklah menjadi gadaian pertama atas kepentingannya mengenai harta tak alih koperasi itu.
 
 (2) Tiada apa-apa jua dalam perenggan (1) (a) boleh menyentuh tuntutan mana-mana pembeli bona fide atau penerima pindahan bona fide tanpa notis.
 
@@ -770,7 +770,7 @@ IV
 
 26. Untuk layak menjadi anggota dalam sesuatu
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 koperasi asas, seseorang mestilah—
 
@@ -1208,7 +1208,7 @@ Sekatan atas
 
 52. (1) Sesuatu koperasi berdaftar boleh, tertakluk pemmjaman. kepada kelulusan mesyuarat agung atau mesyuarat agung khasnya, meminjam wang daripada anggota- anggotanya dan daripada yang bukan anggotanya untuk digunakan bagi maksud yang khas dalam perniagaannya.
 
-(2) Sesuatu koperasi berdaftar hendaklah, setiap t a h u n, menentukan, pada mesyuarat agung, had maksimum keterhutangan berkenaan dengan pinjaman dan deposit yang sedia ada dan yang baru yang akan ditanggung dalam tahun yang akan datang.
+(2) Sesuatu koperasi berdaftar hendaklah, setiap tahun, menentukan, pada mesyuarat agung, had maksimum keterhutangan berkenaan dengan pinjaman dan deposit yang sedia ada dan yang baru yang akan ditanggung dalam tahun yang akan datang.
 
 Sekatan atas
 
@@ -1288,7 +1288,7 @@ Pembatalan
 
 Akibat
 
-73. Jika pendaftaran sesuatu koperasi berdaftar pembatalan dibatalkan oleh suatu perintah di bawah seksyeh 71 atau pendaftaran. di bawah seksyen 72, koperasi itu hendaklah terhenti w u j ud sebagai pertubuhan perbadanan dari tarikh perintah itu mula berkuatkuasa.
+73. Jika pendaftaran sesuatu koperasi berdaftar pembatalan dibatalkan oleh suatu perintah di bawah seksyeh 71 atau pendaftaran. di bawah seksyen 72, koperasi itu hendaklah terhenti wujud sebagai pertubuhan perbadanan dari tarikh perintah itu mula berkuatkuasa.
 
 Pelikuidasian
 
@@ -1520,7 +1520,7 @@ seksyen 66, didapati bahawa mana-mana orang yang telah mengambil bahagian dalam 
 
 ## RANG UND NNG-UNDANG:
 
-koperasi itu telah menyalahgunakan atau menyimpan atau rnenjadi bertanggungan atau bertanggungjawab bagi apa-apa wang atau harta koperasi itu atau telah melakukan misfeasans atau pecah amanah berhubungan dcngan koperasi itu, maka K e t ua Pendaftar boleh, atas kehendaknya sendiri atau atas permohonan pelikuidasi atau mana-mana pemiutang atau penyumbang, memeriksa kelakuan orang itu dan membuat perintah yang menghendakinya membayar atau memulangkan wang atau harta atau mana-mana bahagiannya dengan bunga pada kadar yang difikirkan adil oleh Ketua Pcndaftar atau menyumbangkan sejumlah wang kepada asct koperasi itu sebagai pampasan berkenaan dengan penyalahgunaan, penyimpanan, ketakjujuran atau pecah amanah itu sebagaimana yang difikirkan adil oleh Ketua Pendaftar.
+koperasi itu telah menyalahgunakan atau menyimpan atau rnenjadi bertanggungan atau bertanggungjawab bagi apa-apa wang atau harta koperasi itu atau telah melakukan misfeasans atau pecah amanah berhubungan dcngan koperasi itu, maka Ketua Pendaftar boleh, atas kehendaknya sendiri atau atas permohonan pelikuidasi atau mana-mana pemiutang atau penyumbang, memeriksa kelakuan orang itu dan membuat perintah yang menghendakinya membayar atau memulangkan wang atau harta atau mana-mana bahagiannya dengan bunga pada kadar yang difikirkan adil oleh Ketua Pcndaftar atau menyumbangkan sejumlah wang kepada asct koperasi itu sebagai pampasan berkenaan dengan penyalahgunaan, penyimpanan, ketakjujuran atau pecah amanah itu sebagaimana yang difikirkan adil oleh Ketua Pendaftar.
 
 (2) Sesuatu perintah di bawah subseksyen (1) hendaklah dikuatkuasakan oleh Mahkamah Sesyen yang mempunyai bidang kuasa bagi tempat terletaknya pejabat berdaftar koperasi itu mengikut cara yang sama sebagaimana sesuatu penghakiman Mahkamah itu.
 
@@ -1528,7 +1528,7 @@ koperasi itu telah menyalahgunakan atau menyimpan atau rnenjadi bertanggungan at
 
 Rayuan
 
-81. Mana-mana orang yang t e r k i l an dengan apa-apa terhadap perintah Ketua Pendaftar yang dibuat di bawah seksyen permtah Ketua 80 boleh merayu kepada Menteri dalam masa dua puluh Pendaftar. satu hari dari tarikh perintah itu dan keputusan Menteri adalah muktamad dan konklusit'.
+81. Mana-mana orang yang terkilan dengan apa-apa terhadap perintah Ketua Pendaftar yang dibuat di bawah seksyen permtah Ketua 80 boleh merayu kepada Menteri dalam masa dua puluh Pendaftar. satu hari dari tarikh perintah itu dan keputusan Menteri adalah muktamad dan konklusit'.
 
 Penyelesaian
 
@@ -1558,7 +1558,7 @@ pertikaian itu hendaklah dirujukkan kepada Ketua Pendaftar bagi keputusannya.
 
 (c) menghendaki pihak-pihak yang berkaitan merujukkan pertikaian itu kepada mahkamah.
 
-(4) Mana-mana pihak yang terkilan dengan award penimbang tara atau penimbang-penimbang tara boleh merayu terhadap award itu kepada Ketua Pendaftar dalam masa dua bulan dari t a r i kh award itu dan mengikut cara yang ditetapkan dalam peraturan- peraturan.
+(4) Mana-mana pihak yang terkilan dengan award penimbang tara atau penimbang-penimbang tara boleh merayu terhadap award itu kepada Ketua Pendaftar dalam masa dua bulan dari tarikh award itu dan mengikut cara yang ditetapkan dalam peraturan- peraturan.
 
 (5) Keputusan Ketua Pendaftar adalah muktamad dan tidak boleh dipersoalkan dalam mana-mana mahkamah sivil.
 
@@ -1578,7 +1578,7 @@ baginya.
 
 Tribunal.
 
-83. ( 1) Menteri boleh, atas syor K e t ua Pendaftar, menubuhkan suatu tribunal untuk melaksanakan fungsi- fungsi yang dinyatakan dalam subseksyen (2).
+83. (1) Menteri boleh, atas syor Ketua Pendaftar, menubuhkan suatu tribunal untuk melaksanakan fungsi- fungsi yang dinyatakan dalam subseksyen (2).
 
 (2) Sesuatu tribunal yang ditubuhkan di bawah subseksyen ( 1) hendaklah mendengar dan menentukan apa-apa pertikaian mengikut pengertian subseksyen 82(1) dan 82(2) yang dirujukkan kepadanya di bawah seksyen ini.
 
@@ -1612,7 +1612,7 @@ penimbang-penimbang
 
 <!-- marginal: tara bagi -->
 
-pemberesan di bawah perenggan 82(3)(b) atau untuk mcnghendaki pihak-pihak yang berkaitan merujuk- kan pertikaian itu kepada mahkamah di bawah perenggan 82(3)(c),
+pemberesan di bawah perenggan 82(3)(b) atau untuk mcnghendaki pihak-pihak yang berkaitan merujuk- kan pertikaian itu kepada mahkamah di bawah perenggan 8 2 ( 3 ) ( c ),
 
 hendaklah dirujukkan kepada tribunal i t u.
 
@@ -1676,7 +1676,7 @@ dalam rangka membuat keputusan di bawah Akta ini,
 
 atau Menteri pada bila-bila masa apabila suatu rayuan dikemukakan kepadanya terhadap apa-apa keputusan Ketua Pendaftar di bawah Akta ini, boleh merujukkan apa-apa persoalan undang-undang yang berbangkit daripada keputusan sedemikian bagi mendapatkan pendapat Mahkamah Tinggi.
 
-(2) Mana-mana H a k im Mahkamah
+(2) Mana-mana Hakim Mahkamah
 
 <!-- marginal: Tinggi, -->
 
@@ -1730,7 +1730,7 @@ Kuasa unluk
 
 Kerajaan;
 
-(c) menetapkan perkara-perkara yang berkcnaan dengannya scsuatu koperasi berdaftar boleh atau hendaklah mcmbuat undang-undang kecil dan bagi prosedur yang hendaklah d i i k u ti dalam membuat, meminda dan menghapuskan undang-undang kecil itu, dan syarat-syarat yang hendaklah dipenuhi sebelum pembuatan, pemindaan atau penghapusan sedemikian;
+(c) menetapkan perkara-perkara yang berkcnaan dengannya scsuatu koperasi berdaftar boleh atau hendaklah mcmbuat undang-undang kecil dan bagi prosedur yang hendaklah diikuti dalam membuat, meminda dan menghapuskan undang-undang kecil itu, dan syarat-syarat yang hendaklah dipenuhi sebelum pembuatan, pemindaan atau penghapusan sedemikian;
 
 (d) menetapkan segala perkara yang berhubungan dengan perlantikan dan tempoh jawatan anggota-anggota Lembaga sesuatu koperasi berdaftar;
 
@@ -1756,7 +1756,7 @@ koperasi-koperasi berdaftar dan pemindahan aset-aset dan liabiliti-liabiliti kop
 
 pendaftaran koperasi gabungan. koperasi- koperasi baru dan pemindahan
 
-<!-- marginal: itu, dan -->
+<!-- marginal: i t u, d an -->
 
 pembatalan pendaftaran, dalam hal per- gabungan, koperasi-koperasi yang bergabung. dalam hal pembahagian, koperasi yang sedia ada, dan dalam hal pemindahan, koperasi yang membuat pemindahan:
 
@@ -1870,7 +1870,7 @@ Kesalahan- 91. ( 1) Adalah menjadi suatu kesalahan di bawah Akta kesalahan i ni 
 
 (d) sesuatu koperasi berdaftar atau seseorang pegawai atau pekerja atau anggota koperasi itu melakukan apa-apa perbuatan, yang memerlukan persetujuan atau kelulusan Ketua Pendaftar atau mesyuarat agung, tanpa terlebih dahulu mendapat persetujuan atau kelulusan yang sedemikian;
 
-(e) sesuatu koperasi berdaftar atau seseorang pegawai atau anggota Jawatankuasa A u d it Dalaman atau pekerja atau anggota koperasi itu abai atau enggan melakukan sesuatu perbuatan atau benda yang dikehendaki oleh atau di bawah Akta ini supaya dibuat;
+(e) sesuatu koperasi berdaftar atau seseorang pegawai atau anggota Jawatankuasa Audit Dalaman atau pekerja atau anggota koperasi itu abai atau enggan melakukan sesuatu perbuatan atau benda yang dikehendaki oleh atau di bawah Akta ini supaya dibuat;
 
 (f) seseorang anggota Jawatankuasa Audit Daiaman sesuatu koperasi berdaftar atau seseorang juruaudit membuat laporan palsu di bawah subseksyen 49(2) atau seksyen 63, mengikut mana-mana yang berkenaan;
 
@@ -2044,7 +2044,7 @@ Fasal 41 bertujuan menghendaki tiap-tiap koperasi memberi Ketua Pendaftar notis 
 
 Fasal 42 hingga 50 Rang Undang-Undang ini adalah mengenai pegawai-pegawai sesuatu koperasi dan perkara-perkara yang berhubungan dengan pegawai-pegawai itu.
 
-Fasal 42 bertujuan menghendaki supaya tiap-tiap koperasi mempunyai suatu Lembaga dan suatu Jawatankuasa A u d it Dalaman. Fasal 43 menyatakan siapakah yang layak dilantik menganggotai Lembaga atau Jawatankuasa Audit Dalaman sesuatu koperasi. Fasal 44 menyatakan tugas-tugas dan kuasa-kuasa Lembaga sesuatu koperasi. Fasal 45 bertujuan menjadikan anggota-anggota Lembaga sesuatu koperasi bertanggungan bagi apa-apa kerugian yang dialami akibat kegagalan mereka berhemat dan bertekun seperti orang-orang perniagaan yang biasa dalam menjalankan hal-ehwal sesuatu koperasi. Fasal 46 bertujuan membenarkan seseorang anggota Lembaga sesuatu koperasi menerima elaun daripada koperasi itu, tertakluk kepada had maksimum yang hendaklah ditetapkan oleh mesyuarat agung koperasi itu. Fasal 47 bertujuan mengadakan peruntukan bagi penggantungan seseorang pegawai sesuatu koperasi jika prosiding dimulakan terhadapnya berkenaan dengan sesuatu kesalahan yang boleh didaftarkan di bawah Akta Pendaftaran Penjenayah- Penjenayah dan Orang-Orang Tak Diingini 1969 atau sesuatu kesalahan di bawah Akta yang dicadangkan ini. Jika dia disabitkan
+Fasal 42 bertujuan menghendaki supaya tiap-tiap koperasi mempunyai suatu Lembaga dan suatu Jawatankuasa Audit Dalaman. Fasal 43 menyatakan siapakah yang layak dilantik menganggotai Lembaga atau Jawatankuasa Audit Dalaman sesuatu koperasi. Fasal 44 menyatakan tugas-tugas dan kuasa-kuasa Lembaga sesuatu koperasi. Fasal 45 bertujuan menjadikan anggota-anggota Lembaga sesuatu koperasi bertanggungan bagi apa-apa kerugian yang dialami akibat kegagalan mereka berhemat dan bertekun seperti orang-orang perniagaan yang biasa dalam menjalankan hal-ehwal sesuatu koperasi. Fasal 46 bertujuan membenarkan seseorang anggota Lembaga sesuatu koperasi menerima elaun daripada koperasi itu, tertakluk kepada had maksimum yang hendaklah ditetapkan oleh mesyuarat agung koperasi itu. Fasal 47 bertujuan mengadakan peruntukan bagi penggantungan seseorang pegawai sesuatu koperasi jika prosiding dimulakan terhadapnya berkenaan dengan sesuatu kesalahan yang boleh didaftarkan di bawah Akta Pendaftaran Penjenayah- Penjenayah dan Orang-Orang Tak Diingini 1969 atau sesuatu kesalahan di bawah Akta yang dicadangkan ini. Jika dia disabitkan
 
 <!-- page 60 -->
 
@@ -2078,9 +2078,9 @@ Fasal 58 bertujuan menghendaki sesuatu koperasi menyenggara rekod-rekod perakaun
 
 9. Bahagian V I II mengandungi peruntukan-peruntukan yang berhubungan dengan pemeriksaan, siasatan, pembubaran dan pertikaian.
 
-Fasal 64 bertujuan memberi Ketua Pendaftar kuasa u n t uk memeriksa akaun-akaun, dokumen-dokumen dan sekuriti-sekuriti sesuatu koperasi dan subsidiari atau subsidiari-subsidiarinya. Dia boleh juga memeriksa buku-buku, akaun-akaun, wang tunai dan harta sesuatu koperasi, di bawah fasal 68, atas permohonan pemiutang koperasi itu. Adalah juga dicadangkan, di bawah fasal 65, supaya Ketua Pendaftar diberikuasa, j i ka didapati bahawa sesuatu kesalahan di bawah Akta ini telah dilakukan, untuk memasuki premis sesuatu koperasi dan menyita serta menahan dokumen yang mungkin memberikan keterangan tentang kesalahan sedemikian.
+Fasal 64 bertujuan memberi Ketua Pendaftar kuasa untuk memeriksa akaun-akaun, dokumen-dokumen dan sekuriti-sekuriti sesuatu koperasi dan subsidiari atau subsidiari-subsidiarinya. Dia boleh juga memeriksa buku-buku, akaun-akaun, wang tunai dan harta sesuatu koperasi, di bawah fasal 68, atas permohonan pemiutang koperasi itu. Adalah juga dicadangkan, di bawah fasal 65, supaya Ketua Pendaftar diberikuasa, j i ka didapati bahawa sesuatu kesalahan di bawah Akta ini telah dilakukan, untuk memasuki premis sesuatu koperasi dan menyita serta menahan dokumen yang mungkin memberikan keterangan tentang kesalahan sedemikian.
 
-Fasal 66 bertujuan memberi Ketua Pendaftar kuasa u n t uk mengadakan siasatan tentang penubuhan, perjalanan dan kedudukan kewangan sesuatu koperasi dan Ketua Pendaftar boleh, di bawah fasal 67, memberitahu koperasi yang berkenaan tentang keputusan siasatan itu. Fasal 69 bertujuan memberi Ketua Pendaftar kuasa u n t uk mengambil tindakan-tindakan tertentu berikutan dengan siasatan di bawah fasal 66. Dia boleh menggantung aktiviti-aktiviti sesualu koperasi, menggantung atau membubarkan Lembaganya atau membekukan akaun bank koperasi itu untuk mencegah wang hilang atau disalahgunakan. Dia boleh juga memecat mana-mana anggota Lembaga atau pekerja koperasi itu dan anggota atau pekerja itu, di bawah peruntukan yang dicadangkan
+Fasal 66 bertujuan memberi Ketua Pendaftar kuasa untuk mengadakan siasatan tentang penubuhan, perjalanan dan kedudukan kewangan sesuatu koperasi dan Ketua Pendaftar boleh, di bawah fasal 67, memberitahu koperasi yang berkenaan tentang keputusan siasatan itu. Fasal 69 bertujuan memberi Ketua Pendaftar kuasa untuk mengambil tindakan-tindakan tertentu berikutan dengan siasatan di bawah fasal 66. Dia boleh menggantung aktiviti-aktiviti sesualu koperasi, menggantung atau membubarkan Lembaganya atau membekukan akaun bank koperasi itu untuk mencegah wang hilang atau disalahgunakan. Dia boleh juga memecat mana-mana anggota Lembaga atau pekerja koperasi itu dan anggota atau pekerja itu, di bawah peruntukan yang dicadangkan
 
 <!-- marginal: dalam fasal 70, -->
 
@@ -2104,6 +2104,6 @@ Fasal 86 bertujuan memberi Menteri kuasa untuk membuat peraturan-peraturan. Fasa
 
 IMPLIKASl KEWANGAN
 
-Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang a m a u n n ya belum dapat ditentukan sekarang ini.
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
 
 <!-- marginal: [PN. (U2) 1563.] -->

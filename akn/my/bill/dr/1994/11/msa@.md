@@ -36,7 +36,7 @@ kebangsaan—
 
 ## RANG UNDANG-UNDANG
 
-mengira yang dilantik u n t uk menghadiri
+mengira yang dilantik untuk menghadiri
 
 ### pengiraan undi di tempat itu";
 

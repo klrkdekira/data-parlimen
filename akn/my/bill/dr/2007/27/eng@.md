@@ -2,7 +2,7 @@
 
 ## A BILL
 
-i n t i t u l e d
+i n t i tul e d
 
 An Act to amend the Local Government Act 1976.
 
@@ -52,7 +52,7 @@ Local Government (Amendment)
 
 ### Amendment of section 72
 
-2. The Local Government Act 1976 [Act 171], which is referred to as the 'principal Act" in this Act, is amended in subsection 72(1)-
+2. The Local Government Act 1976 [Act 171], which is referred to as the 'principal Act" in this Act, is amended in subsection 7 2 ( 1 ) -
 
 (a) by substituting for paragraph (a) the following paragraph;
 

@@ -1464,7 +1464,7 @@ III
 
 <!-- page 56 -->
 
-berturut-turut atau berkenaan dengan sekuriti yang tertentu selama tempoh yang difikirkan patut oleh Lembaga, jika selepas berunding dengan jawatankuasa Lembaga memutuskan adalah patut berbuat demikian. Lembaga mestilah memberikan sebab-sebab ia berbuat demikian. Tempoh penggantungan itu boleh dilanjutkan oleh Lembaga tertakluk kepada pemberian notis bertulis dua hari perniagaan genap dan sebab-sebab baginya. Lembaga mestilah memberi Bursa peluang u n t uk didengar mengenai perkara penggantungan itu dan boleh membatalkan, menarik balik atau mengubahsuaikan mana-mana arahan penggantungan itu.
+berturut-turut atau berkenaan dengan sekuriti yang tertentu selama tempoh yang difikirkan patut oleh Lembaga, jika selepas berunding dengan jawatankuasa Lembaga memutuskan adalah patut berbuat demikian. Lembaga mestilah memberikan sebab-sebab ia berbuat demikian. Tempoh penggantungan itu boleh dilanjutkan oleh Lembaga tertakluk kepada pemberian notis bertulis dua hari perniagaan genap dan sebab-sebab baginya. Lembaga mestilah memberi Bursa peluang untuk didengar mengenai perkara penggantungan itu dan boleh membatalkan, menarik balik atau mengubahsuaikan mana-mana arahan penggantungan itu.
 
 43. Fasal 39 memberi Lembaga kuasa untuk menyoal atau menyiasat perdagangan di Bursa, menghendaki maklumat terperinci atau pengemukaan dokumen, di bawah kuasa suatu waran untuk memasuki premis yang disyaki mengandungi dokumen yang relevan dan mengambil dokumen itu. Penghalangan kuasa Lembaga di bawah fasal ini atau pemberian maklumat yang palsu atau mengelirukan adalah menjadi suatu kesalahan.
 

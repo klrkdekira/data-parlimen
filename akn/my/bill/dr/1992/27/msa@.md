@@ -694,7 +694,7 @@ daripada ahli-ahli yang berikut:
 
 (a) membentuk dan mengkaji semula dasar, program, skim, projek, dan aktiviti penstandardan Institut;
 
-(b) menasihati dan mengemukakan syor-syor u n t uk pertimbangan dan kelulusan Lembaga berkenaan dengan program, skim, projek dan aktiviti untuk meningkatkan kecekapan dan pem- bangunan perindustrian, dan bagi perlindungan pengguna melalui aktiviti penstandardan;
+(b) menasihati dan mengemukakan syor-syor untuk pertimbangan dan kelulusan Lembaga berkenaan dengan program, skim, projek dan aktiviti untuk meningkatkan kecekapan dan pem- bangunan perindustrian, dan bagi perlindungan pengguna melalui aktiviti penstandardan;
 
 (c) mengemukakan syor-syor untuk per- timbangan dan kelulusan Lembaga berkenaan dengan penentuan-penentuan standard bagi barangan, proses, amalan, dan perkhidmatan;
 
@@ -882,7 +882,7 @@ kelulusan Menteri dan persetujuan Menteri Kewangan, bagi pengenaan, pengutipan, 
 
 <!-- page 30 -->
 
-(i) dengan menggantikan perkataan-perkataan "dua p u l uh satu" dalam subseksyen (2) dengan perkataan-perkataan "empat belas".
+(i) dengan menggantikan perkataan-perkataan "dua puluh satu" dalam subseksyen (2) dengan perkataan-perkataan "empat belas".
 
 Bahagian
 
@@ -1148,7 +1148,7 @@ Pindaan
 
 (f) dengan memasukkan, selepas sahaja subseksyen (2), subseksyen baru (2A) yang berikut: "(2A) Lembaga boleh, dari semasa ke semasa, menurut budi bicaranya, menambah, mengkensel atau mengubah mana-mana terma dan syarat yang dikenakan dengan sesuatu lesen atau perakuan, mengikut mana-mana yang berkenaan, yang diberikan di bawah seksyen ini.";
 
-(g) dengan memasukkan, sebelum sahaja perkataan "syarat-syarat" dalam subseksyen (3)(a), perkataan-perkataan "terma-terma dan";
+(g) dengan memasukkan, sebelum sahaja perkataan "syarat-syarat" dalam subseksyen ( 3 ) ( a ), perkataan-perkataan "terma-terma dan";
 
 (h) dengan menggantikan perenggan (4)(a) dengan perenggan (a) baru yang berikut: "(a) mengemukakan untuk dinilai, diperiksa atau diuji sampel-sampel barangan, atau dokumen-dokumen tentang proses, amalan atau perkhidmatan,
 
@@ -1374,7 +1374,7 @@ mengikut pengertian Kanun Keseksaan.".
 
 <!-- marginal: seksyen 41. -->
 
-(a) dengan menggantikan perkataan-perkataan "yang d i l a n t ik di bawah seksycn 19" di subseksyen ( 1) dengan perkataan-perkataan "atau suatu jawatankuasa";
+(a) dengan menggantikan perkataan-perkataan "yang dilantik di bawah seksycn 19" di subseksyen ( 1) dengan perkataan-perkataan "atau suatu jawatankuasa";
 
 (b) dengan mcmotong perkataan-perkataan "seseorang Pengarah," dalam subseksyen (1);
 
@@ -1450,7 +1450,7 @@ Dengan syarat bahawa jika Pengerusi berpendapat bahawa suatu mesyuarat Lembaga a
 
 (6) Tiap-tiap persoalan di hadapan Lembaga hendaklah diputuskan oleh majoriti biasa ahli-ahli yang mengundi mengenainya.
 
-(7) Jika mengenai apa-apa soalan yang hendak diputuskan oleh Lembaga terdapat suatu pembahagian sama rata u n d i, Pengerusi atau ahli yang mem- pengerusikan mesyuarat hendaklah mempunyai undi pemutus sebagai lambahan kepada undi biasanya.
+(7) Jika mengenai apa-apa soalan yang hendak diputuskan oleh Lembaga terdapat suatu pembahagian sama rata undi, Pengerusi atau ahli yang mem- pengerusikan mesyuarat hendaklah mempunyai undi pemutus sebagai lambahan kepada undi biasanya.
 
 (8) Tertakluk kepada subperenggan (9), suatu persoalan di hadapan Lembaga yang tidak dikehendaki oleh Akta ini atau oleh kaedah-kaedah supaya diputuskan pada sesuatu mesyuarat boleh diundi dan diputuskan melalui kertas undi yang dihantar kepada ahli-ahli.
 
@@ -1546,7 +1546,7 @@ Perindustrian dan Majlis Akreditasi. Seksyen-seksyen tersebut juga menetapkan ko
 
 16. Fasal 21 bertujuan untuk meminda seksyen 20 Akta mengenai kuasa pewakilan. Kuasa Lembaga di bawah seksyen 30(8) tidak boleh diwakilkan selain daripada kepada Majlis Standard. Kuasanya di bawah seksyen 30A(8) tidak boleh diwakilkan selain daripada kepada Majlis Akreditasi.
 
-17. Fasal 22 bertujuan untuk meminda seksyen 21 Akta mengenai kuasa u n t uk membuat kaedah-kaedah. Fasal itu membuat peruntukan bagi maksud-maksud baru yang baginya kaedah-kaedah boleh dibuat oleh Lembaga.
+17. Fasal 22 bertujuan untuk meminda seksyen 21 Akta mengenai kuasa untuk membuat kaedah-kaedah. Fasal itu membuat peruntukan bagi maksud-maksud baru yang baginya kaedah-kaedah boleh dibuat oleh Lembaga.
 
 18. Fasal 23 bertujuan untuk memasukkan Bahagian VA baru yang berhubungan dengan perbadanan yang ditubuhkan oleh Institut. Seksyen 21A baru memberi Institut kuasa, dengan kelulusan Menteri dan persetujuan Menteri Kewangan. untuk menubuhkan perbadanan-perbadanan untuk menjalankan apa-apa projek, skim atau perusahaan yang ditentukan, dirancangkan atau diusahakan oleh Institut. Namun demikian, seksyen 2 lB mengenakan satu had pada kuasa untuk menubuhkan perbadanan sedemikian. Institut tidak boleh menubuhkan apa-apa perbadanan untuk apa-apa maksud atau tujuan yang lebih luas ruang lingkupnya daripada maksud atau tujuan yang baginya Institut ditubuhkan. Seksyen 21c menghendaki Lembaga menyimpan suatu daftar semua perbadanan yang ditubuhkan. Seksyen 21D memperuntukkan bahawa Institut boleh mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan. Apabila digulung sedemikian, semua aset perbadanan, selepas pembayaran tanggungan, hendaklah dipindahmilik kepada Institut. Seksyen 2lE dan 2 lF membuat peruntukan bagi pemerbadanan dan bagi meterai rasmi perbadanan yang ditubuhkan di bawah seksyen 2lA.
 

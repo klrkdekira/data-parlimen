@@ -478,9 +478,9 @@ Power to
 
 (i) a warning;
 
-(ii) a fine;
+( i i) a fine;
 
-(iii) a forfeiture of emoluments;
+( i i i) a forfeiture of emoluments;
 
 (iv) a deferment of salary movement;
 

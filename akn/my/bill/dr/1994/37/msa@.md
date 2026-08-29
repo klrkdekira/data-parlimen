@@ -8,11 +8,11 @@
 
 bernama
 
-Suatu Akta bagi menggunakan sejumlah wang daripada Kumpulan Wang Disatukan untuk perkhidmatan bagi t a h un 1995 dan bagi memperuntukkan wang itu u n t uk perkhidmatan bagi tahun itu.
+Suatu Akta bagi menggunakan sejumlah wang daripada Kumpulan Wang Disatukan untuk perkhidmatan bagi tahun 1995 dan bagi memperuntukkan wang itu untuk perkhidmatan bagi tahun itu.
 
 ## MAKA INILAH DIPERBUAT UNDANG-UNDANG
 
-oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan R a k y at yang bersidang dalam Parlimen. dan dengan kuasa daripadanya. sepertt berikut:
+oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen. dan dengan kuasa daripadanya. sepertt berikut:
 
 <!-- marginal: Tajuk -->
 
@@ -26,13 +26,13 @@ oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan De
 
 <!-- marginal: dan -->
 
-p u l uh empat bilion tujuh puluh sembilan juta dua ratus
+puluh empat bilion tujuh puluh sembilan juta dua ratus
 
 <!-- marginal: peruntukan -->
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
-lima puluh l i ma r i bu dan satu r a t us
+lima puluh l i ma r i bu dan satu ratus
 
 <!-- marginal: ringgit -->
 
@@ -54,11 +54,11 @@ diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual.
 
 Maksud Tajuk Amaun
 
-B Parlimen 28,69 1,200 B. 2 Pejabat Penyimpan Mohor Besar 1,052,900 Raja-Raja B. 3 Jabatan Audit 34,979,400 B 4 Suruhanjaya Pilihanraya 16,932,200 B. 5 Suruhanjaya Perkhidmatan Awam 19 ,358,100 B. 6 Suruhanjaya Perkhidmatan Pendidikan 6,
+B Parlimen 2 8 , 69 1,200 B. 2 Pejabat Penyimpan Mohor Besar 1,052,900 Raja-Raja B. 3 Jabatan Audit 34,979,400 B 4 Suruhanjaya Pilihanraya 16,932,200 B. 5 Suruhanjaya Perkhidmatan Awam 19 ,358,100 B. 6 Suruhanjaya Perkhidmatan Pendidikan 6,
 
 <!-- marginal: 986,600 -->
 
-B 7 Jabatan Perdana Menten 584, 099,900 B. S Jabatan Perkhidmatun A w am 422,786,900 B 9 Jabatan Perangkaan 53 ,563,200 B. 10 Jabatan Peguam Neaara 20 ,333,800 B 1 1 Badan Pencegah Rasuah 29,934,500 B. 12 Pejabat Setiausaha Persekutuan. Sabah 719,900 B 13 Pejabat Setiausaha Persekutuan. Sarawak 653,000 B 14 Kementenan Perumahan dan Kerajaan 73,478,300 Tempatan B 15 Jabatan Perancangan Bandar dan Desa 14,192,100 B. 16 Jabatan Perkhidmatan Bomba 110,224,800 B. 17 Kementenun Belia dan Sukan 71.720,200 B 18 Kementenan Perusahaan Utama 135,066,100 B 19 Kementerian Pertanian 876,361,900 B. 20 Kementerian Perdagangan Antarabangsa 144,999,200 dan Industri B. 21 Kementenan Perdagangan Dalam 81,312,700 Negen dan Hal E h w al Pengguna B 22 Kementerian Kebudadaan, Kesenian 151,358,200 dan Pelancongan B 23 Jabatan Arkib Negara 12,178,400 B. 24 Jabatan Muzium dan Antikuiti 5,574,200 B. 25 Kementenan Pertahanan 3,417,997,500 B. 26 Kementerian Pendidikan 7,900,567,000 B. 27 Jabatan Perpustakaan Negara 29.323.700 B. 28 Perbendaharaan 214,455,600 B. 29 Perkhidmatan Am Perbendaharaan 506,891,500 B, 30 Peruntukan Kepada Kumpulan Wang 1,146,500,000 Terkanun B. 31 Jabatan Kastam dan Eksais Diraja 215,002,000 B. 32 Jabatan Hasil Dalam Negeri 165,000,000
+B 7 Jabatan Perdana Menten 584, 099,900 B. S Jabatan Perkhidmatun A w am 422,786,900 B 9 JabatanPerangkaan 53 ,563,200 B. 10 Jabatan Peguam Neaara 20 ,333,800 B 1 1 Badan PencegahRasuah 29,934,500 B. 12 Pejabat Setiausaha Persekutuan. Sabah 719,900 B 13 Pejabat Setiausaha Persekutuan. Sarawak 653,000 B 14 Kementenan Perumahan dan Kerajaan 73,478,300 Tempatan B 15 Jabatan Perancangan Bandar dan Desa 14,192,100 B. 16 Jabatan Perkhidmatan Bomba 110,224,800 B. 17 Kementenun Belia dan Sukan 71.720,200 B 18 Kementenan Perusahaan Utama 135,066,100 B 19 Kementerian Pertanian 876,361,900 B. 20 Kementerian Perdagangan Antarabangsa 144,999,200 dan Industri B. 21 Kementenan Perdagangan Dalam 81,312,700 Negen dan Hal Ehwal Pengguna B 22 Kementerian Kebudadaan, Kesenian 151,358,200 dan Pelancongan B 23 Jabatan Arkib Negara 12,178,400 B. 24 Jabatan Muzium dan Antikuiti 5,574,200 B. 25 Kementenan Pertahanan 3,417,997,500 B. 26 Kementerian Pendidikan 7,900,567,000 B. 27 Jabatan Perpustakaan Negara 29.323.700 B. 28 Perbendaharaan 214,455,600 B. 29 Perkhidmatan Am Perbendaharaan 506,891,500 B, 30 Peruntukan Kepada Kumpulan Wang 1,146,500,000 Terkanun B. 31 Jabatan Kastam dan Eksais Diraja 215,002,000 B. 32 Jabatan Hasil Dalam Negeri 165,000,000
 
 <!-- page 3 -->
 
@@ -74,4 +74,4 @@ B. 33 Jabatan Penilaian dan Perkhidmatan 34.921.200 Harta B. 34 Kementerian Kesi
 
 ## HURAIAN
 
-Rang Undang-Undang ini membuat peruntukan bagi mengeluarkan wang daripada Kumpulan Wang Disatukan sebanyak dua p u l uh empat bilion tujuh puluh sembilan juta dua ratus lima puluh lima ribu dan satu ratus ringgit (RM24,079,255,100) bagi tahun 1995 dan supaya wang tersebut itu diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual. [PN. (U:) 1790.]
+Rang Undang-Undang ini membuat peruntukan bagi mengeluarkan wang daripada Kumpulan Wang Disatukan sebanyak dua puluh empat bilion tujuh puluh sembilan juta dua ratus lima puluh lima ribu dan satu ratus ringgit (RM24,079,255,100) bagi tahun 1995 dan supaya wang tersebut itu diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual. [PN. (U:) 1790.]

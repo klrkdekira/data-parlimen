@@ -510,7 +510,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Perindustrian Sekuriti 1983, kemud
 
 7. Fasal 6 bertujuan meminda seksyen 10 untuk memberi Pegawai Pelesen dan Pegawai Penyiasat Suruhanjaya kuasa untuk melaksanakan fungsi-fungsi dan tugas-tugas mereka. Fasal ini juga bertujuan menambah penalti bagi kesalahan di bawah seksyen 10.
 
-8. Fasal 7 bertujuan m e m i n da seksyen 11 Pindaan yang dicadangkan bertujuan memberi bursa saham kuasa untuk mengambil tindakan terhadap mana-mana orang kerana tidak mematuhi kaedah-kaedah atau kehendak-kehendak penyenaraian.
+8. Fasal 7 bertujuan meminda seksyen 11 Pindaan yang dicadangkan bertujuan memberi bursa saham kuasa untuk mengambil tindakan terhadap mana-mana orang kerana tidak mematuhi kaedah-kaedah atau kehendak-kehendak penyenaraian.
 
 9. Fasal 8 bertujuan memasukkan seksyen baru I 5A yang memberi Menteri kuasa untuk melantik Pegawai Pelesen yang akan bertanggungjawab bagi perkara-perkara yang berhubungan dengan pelesenan di bawah Akta. Perkara-perkara itu sekarang ini menjadi tanggungjawab Pendaftar Syarikat.
 

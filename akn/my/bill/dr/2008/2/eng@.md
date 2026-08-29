@@ -266,7 +266,7 @@ Geologists
 
 (2) The Board shall have all such powers as may be necessary for, or in connection with, or reasonably incidental to, the performance of its functions under subsection (1).
 
-(3) Without affecting the general powers conferred by subsection (2), the Board shall have the p o w e r- ( a ) to purchase or lease any land or building
+(3) Without affecting the general powers conferred by subsection (2), the Board shall have the power- ( a ) to purchase or lease any land or building
 
 <!-- marginal: as may be -->
 

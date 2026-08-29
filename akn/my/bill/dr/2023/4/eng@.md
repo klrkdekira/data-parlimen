@@ -132,9 +132,9 @@ Provided that—
 
 (a) the claim is evidenced by a receipt and certification issued by the medical practitioner
 
-<!-- marginal: t h a t -->
+<!-- marginal: that -->
 
-<!-- marginal: t h e -->
+<!-- marginal: the -->
 
 assessment for the purpose of diagnosis was provided to the child and that the child is diagnosed with learning disability;
 

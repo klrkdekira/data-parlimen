@@ -1108,11 +1108,11 @@ Rekod
 
 Rekod
 
-34. ( 1) Penerbit mana-mana sekuriti telah-deposit boleh, pendeposit melalui notis bertulis, menghendaki suatu depositori pusat pendeposit hendaklah mengeluarkan kepadanya suatu rekod pendeposit- dikeluarkan pendeposit yang di dalam akaun-akaun sekuriti mereka k e p da penerbit atas sekuriti-sekuriti ilu berada dalam kredit pada tarikh notis perrmintaan. itu atau apa-apa tarikh lain sebagaimana yang dinyatakan dalam notis itu.
+34. ( 1) Penerbit mana-mana sekuriti telah-deposit boleh, pendeposit melalui notis bertulis, menghendaki suatu depositori pusat pendeposit hendaklah mengeluarkan kepadanya suatu rekod pendeposit- dikeluarkan pendeposit yang di dalam akaun-akaun sekuriti mereka kepda penerbit atas sekuriti-sekuriti ilu berada dalam kredit pada tarikh notis perrmintaan. itu atau apa-apa tarikh lain sebagaimana yang dinyatakan dalam notis itu.
 
 (2) Rekod pendeposit-pendeposit yang dikehendaki oleh sesuatu penerbit di bawah subseksyen ( 1) hendaklah dikeluarkan oleh depositori pusat itu daiam tempoh yang berikut:
 
-(a) dalam hal di mana penerbit menghendaki pengeluaran s u a tu rekod pendeposit- pendcposit—
+(a) dalam hal di mana penerbit menghendaki pengeluaran suatu rekod pendeposit- pendcposit—
 
 (i) sepertimana pada tarikh notis itu, tidak lewatdaripada tiga hari pasaran dari tarikh tersebut;
 
@@ -1286,7 +1286,7 @@ Akta 276.
 
 (b) suatu bank Islam yang dilesenkan di bawah Akta Banklslam 1983,
 
-u n t uk memberikan, membuka, menzahirkan atau selainnya mendedahkan apa-apa maklumat atau dokumen kepada mana-mana orang berlanggaran dengan Akta-Akta tersebut.
+untuk memberikan, membuka, menzahirkan atau selainnya mendedahkan apa-apa maklumat atau dokumen kepada mana-mana orang berlanggaran dengan Akta-Akta tersebut.
 
 <!-- page 43 -->
 
@@ -1296,7 +1296,7 @@ Pendedaban-
 
 (a) yang pendeposit, atau wakil dirinya, telah memberikan kebenaran secara bertulis untuk didedahkan;
 
-(b) dalam hal di mana pendeposit diisytiharkan bankrap, atau, jika pendeposit itu s u a tu perbadanan, perbadanan itu sedang atau telah digulung, di Malaysia atau di mana-mana negara, wilayah atau tempat di luar Malaysia;
+(b) dalam hal di mana pendeposit diisytiharkan bankrap, atau, jika pendeposit itu suatu perbadanan, perbadanan itu sedang atau telah digulung, di Malaysia atau di mana-mana negara, wilayah atau tempat di luar Malaysia;
 
 (c) bagi maksud memulakan, atau semasa berlangsungnya, apa-apa prosiding sivil—
 
@@ -1346,7 +1346,7 @@ boleh memberi ejen-ejen depositori diberikuasanya, sesuatu bursa saham (di mana 
 
 (3) Mana-mana orang yang—
 
-(a) ialah seorang pengguna, dengan menyalahi undang-undang, mendapatkan akses, atau cuba mendapatkan akses, kepada sistem komputer suatu depositori pusat, sama ada melalui apa-apa alat atau radas yang menjadi sebahagian daripada sistem komputer itu atau melalui apa- apa cara lain, melampaui takat yang dia dibenarkan u n t uk mempunyai akses oleh depositori pusat itu di bawah subseksyen (1);
+(a) ialah seorang pengguna, dengan menyalahi undang-undang, mendapatkan akses, atau cuba mendapatkan akses, kepada sistem komputer suatu depositori pusat, sama ada melalui apa-apa alat atau radas yang menjadi sebahagian daripada sistem komputer itu atau melalui apa- apa cara lain, melampaui takat yang dia dibenarkan untuk mempunyai akses oleh depositori pusat itu di bawah subseksyen (1);
 
 (b) dengan menyalahi undang-undang, mendapat- kan akses, atau cuba mendapatkan akses, kepada sistem komputer suatu depositori pusat, sama ada melalui apa-apa alat atau radas yang menjadi sebahagian daripada sistem komputer itu atau melalui apa-apa cara lain; atau
 

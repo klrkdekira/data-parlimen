@@ -434,7 +434,7 @@ aktiviti-aktiviti yang dibenarkan oleh lesen- lesen mereka untuk dijalankan;
 
 (h) untuk mengawalselia lat tempoh dan cara bagaimana apa-apa pepasangan atau ke- lengkapan elektrik hendak diperiksa;
 
-(i) untuk mencipta jenis ujian yang akan digunakan dan u n t uk menetapkan kelayakan dan pengalaman praktik yang minimum bagi apa- apa maksud menurut Akta ini;
+(i) untuk mencipta jenis ujian yang akan digunakan dan untuk menetapkan kelayakan dan pengalaman praktik yang minimum bagi apa- apa maksud menurut Akta ini;
 
 (j) untuk menyiasat apa-apa kemalangan atau kebakaran yang melibatkan apa-apa pepasangan elektrik;
 
@@ -442,7 +442,7 @@ aktiviti-aktiviti yang dibenarkan oleh lesen- lesen mereka untuk dijalankan;
 
 (l) untuk menetapkan standard dan spesifikasi minimum dan menaksirkan serta meluluskan, jika perlu, apa-apa pepasangan atau kelengkapan elektrik;
 
-(m) u n t uk menjalankan segala aktiviti
+(m) untuk menjalankan segala aktiviti
 
 <!-- marginal: lain -->
 

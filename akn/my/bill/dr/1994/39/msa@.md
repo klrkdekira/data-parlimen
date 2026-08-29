@@ -112,7 +112,7 @@ tahun-tahun taksiran yang berikutnya.
 
 <!-- marginal: Pendapatan -->
 
-(2) Seksyen 6 (kecuali subperenggan 6(a)(i)
+(2) Seksyen 6 (kecuali subperenggan 6 ( a ) ( i)
 
 <!-- marginal: 1967. -->
 
@@ -162,7 +162,7 @@ development company.";
 
 respect of that expenditure shall be made under this section to a person being a related company of a research and development company which has been given approval under section Act 327. 27D(l) of the Promotion of Investments Act 1986 and whose period as prescribed under section 29E(2)(b) of that Act has not ended."; dan
 
-(c) dengan menggantikan noktah di h u j u ng perenggan (4)(b) dengan koma bernoktah dan memasukkan kemudian daripada itu perenggan yang berikut: "(c) a "contract research and development company", a "related company" and a "research and development company" have the meaning assigned thereto in section 2 of the Promotion of Investments Act 1986.".
+(c) dengan menggantikan noktah di hujung perenggan (4)(b) dengan koma bernoktah dan memasukkan kemudian daripada itu perenggan yang berikut: "(c) a "contract research and development company", a "related company" and a "research and development company" have the meaning assigned thereto in section 2 of the Promotion of Investments Act 1986.".
 
 <!-- marginal: Pindaan -->
 
@@ -268,7 +268,7 @@ Pindaan
 
 12. Seksyen 60 Akta ibu adalah dipinda— seksyen 60.
 
-(a) dengan menggantikan noktah di hujung subperenggan (2)(b)(ii) dengan
+(a) dengan menggantikan noktah di hujung subperenggan ( 2 ) ( b ) ( i i) dengan
 
 <!-- marginal: koma -->
 
@@ -372,7 +372,7 @@ adjustment as the Director General may think fit to make in accordance with the 
 
 (d) dalam subseksyen (5)— (i) dalam subperenggan
 
-<!-- marginal: (a)(iv) dengan -->
+<!-- marginal: ( a ) ( i v) dengan -->
 
 memasukkan selepas
 
@@ -382,7 +382,7 @@ memasukkan selepas
 
 (e) dalam subseksyen (6)— (i) dalam subperenggan
 
-<!-- marginal: (a)(iv) dengan -->
+<!-- marginal: ( a ) ( i v) dengan -->
 
 memasukkan selepas
 
@@ -448,7 +448,7 @@ Minister for the purposes of this section;
 
 (ii) dengan memotong takrif "foreign company"; dan
 
-(iii) dalam subperenggan (a)(iii)
+(iii) dalam subperenggan ( a ) ( i i i)
 
 <!-- marginal: takrif -->
 

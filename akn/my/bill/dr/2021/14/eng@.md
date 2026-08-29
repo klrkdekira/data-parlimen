@@ -88,7 +88,7 @@ ENACTED by the Parliament of Malaysia as follows:
 
 ### Amendment of section 16a
 
-5. Subpar a graph 16 a (3) (c) (ii) of the pr inc ipa l Ac t i s amended by substituting for the words “, or on behalf of, the body administering an institution assisting persons with a print disability solely for the purpose of the provision, whether by the institution or otherwise, of assistance to persons with a visual, aural, intellectual and print disability”
+5. Subparagraph 16a(3)(c)(ii) of the principal Act is amended by substituting for the words “, or on behalf of, the body administering an institution assisting persons with a print disability solely for the purpose of the provision, whether by the institution or otherwise, of assistance to persons with a visual, aural, intellectual and print disability”
 
 <!-- page 5 -->
 

@@ -2686,7 +2686,7 @@ Section 47E imposes on a fund manager an obligation to supply, on demand, to his
 
 <!-- page 108 -->
 
-contributions where the amount at credit in the compensation fund exceeds fifty million ringgit. However, where the amount at credit is less than ten m i l l i on ringgit, such member company may again be required to contribute to the compensation fund. The amendment to section 69 enables the Minister to impose a l e v y, the amount of which is to be determined by the Minister, on member companies when the compensation fund is unable to satisfy its liabilities.
+contributions where the amount at credit in the compensation fund exceeds fifty million ringgit. However, where the amount at credit is less than ten million ringgit, such member company may again be required to contribute to the compensation fund. The amendment to section 69 enables the Minister to impose a levy, the amount of which is to be determined by the Minister, on member companies when the compensation fund is unable to satisfy its liabilities.
 
 47. Clause 63 seeks to substitute sections 71 and 72 of the Act. Section 71 is amended to empower the stock exchange to invest monies belonging to the compensation fund. Section 72 is amended to overcome the problems associated with the use of the term "defalcation" which is required to be proved before a claim can be made against the compensation fund. The purpose of this amendment is to broaden the scope of the claims which can be made against the compensation fund and to ensure that investors can be adequately protected even in cases of fradulent misuse of property and in the event of insolvency of member companies.
 

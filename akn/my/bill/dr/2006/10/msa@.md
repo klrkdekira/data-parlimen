@@ -860,7 +860,7 @@ kelengkapan, buku, rekod, dokumen atau benda lain yang dilak atau cuba berbuat d
 
 (b) orang yang mengawal atau menjaga kenderaan itu jika penyitaan dibuat di bawah seksyen 43.
 
-(3) Jika penyitaan itu dibuat di dalam atau dan mana-mana tempat atau premis yang tidak dihuni, pegawai diberi kuasa i t u hendaklah bilamana mungkin menampalkan supaya mudah dilihat senarai benda yang disita itu di tempat atau premis itu.
+(3) Jika penyitaan itu dibuat di dalam atau dan mana-mana tempat atau premis yang tidak dihuni, pegawai diberi kuasa itu hendaklah bilamana mungkin menampalkan supaya mudah dilihat senarai benda yang disita itu di tempat atau premis itu.
 
 (4) Jika apa-apa lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain disita selain di dalam atau dan mana-mana tempat atau premis, pegawai diberi kuasa yang membuat penyitaan itu hendaklah memberikan suatu notis secara bertulis mengenai penyitaan itu dan alasan-alasan penyitaan itu kepada pemunya lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita itu dengan menyerahkan suatu salinan notis itu kepada pemunya itu sendiri atau melalui pos ke tempat perniagaan atau kediamannya.
 
@@ -904,7 +904,7 @@ melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi 
 
 (2) Jika mana-mana orang enggan hadir sebagaimana yang dikehendaki oleh suatu perintah yang dibuat di bawah subseksyen
 
-(1), pegawai diberi kuasa itu boleh melaporkan keengganannya itu kepada Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang i t u sebagaimana yang dikehendaki oleh perintah itu.
+(1), pegawai diberi kuasa itu boleh melaporkan keengganannya itu kepada Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang itu sebagaimana yang dikehendaki oleh perintah itu.
 
 ### Pemeriksaan orang yang mengetahui kes
 

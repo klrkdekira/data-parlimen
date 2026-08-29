@@ -312,7 +312,7 @@ This Bill seeks to amend the Medical Act 1971 (hereinafter referred to as "the A
 
 7. Clause 8 seeks to amend subsection (1) of section 35 of the Act lo increase the general penalty provided in that subsection.
 
-8. Clause 10 seeks to provide that notwithstanding t h e ir amendments, certain provisions of sections 12 and 13 of the principal Act shall continue to have effect in relation to the persons specified in the said clause as if those amendments had not been made.
+8. Clause 10 seeks to provide that notwithstanding their amendments, certain provisions of sections 12 and 13 of the principal Act shall continue to have effect in relation to the persons specified in the said clause as if those amendments had not been made.
 
 9. Clause 11 seeks to repeal the existing Part VII of the Act and substitute a new Part VII for national purposes. The new Part VII instead upon its commencement will continue to be in force until Parliament, by resolution, provides otherwise.
 

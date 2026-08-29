@@ -324,9 +324,9 @@ Provided that the deduction under this paragraph shall be part of the amount lim
 
 Provided that—
 
-(a) f o r the purposes of subparagraphs (i) and (ii), the payment is made on or after 1 March 2020 but not later than 31 December 2022; and
+(a) for the purposes of subparagraphs (i) and (ii), the payment is made on or after 1 March 2020 but not later than 31 December 2022; and
 
-(b) f o r the purposes of subparagraph
+(b) for the purposes of subparagraph
 
 <!-- marginal: (iii), -->
 
@@ -754,7 +754,7 @@ melebihi lima peratus daripada jumlah nilai balasan itu, mengikut mana-mana yang
 
 ### Pindaan Jadual 4
 
-34. Jadual 4 kepada Akta ibu dipinda dalam perenggan 2 dengan menggantikan formula kepada perenggan tersebut dengan formula yang berikut: “(a) yang berhubungan dengan pelupusan harta tanah— A x C — B
+34. Jadual 4 kepada Akta ibu dipinda dalam perenggan 2 dengan menggantikan formula kepada perenggan tersebut dengan formula yang berikut: “(a) yang berhubungan dengan pelupusan harta tanah— AxC — B
 
 iaitu A ialah bahagian keluasan aset yang boleh dikenakan cukai yang dilupuskan; B ialah jumlah keluasan aset yang boleh dikenakan cukai; C ialah sepuluh ribu;
 
@@ -764,7 +764,7 @@ atau sepuluh peratus keuntungan yang boleh dikenakan cukai, mengikut mana-mana y
 
 (b) yang berhubungan dengan pelupusan syer—
 
-A x C — B
+AxC — B
 
 iaitu A ialah bilangan syer yang disifatkan sebagai aset yang boleh dikenakan cukai di bawah perenggan 34 atau 34A Jadual 2 dilupuskan; B ialah jumlah bilangan syer terbitan yang disifatkan sebagai aset yang boleh dikenakan cukai berhubung dengan syer yang disifatkan sebagai aset yang boleh dikenakan cukai di bawah perenggan 34 atau 34A Jadual 2; C ialah sepuluh ribu;
 

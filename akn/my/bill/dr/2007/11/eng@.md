@@ -8334,7 +8334,7 @@ and give the person carrying out the inspection any information, explanation or 
 
 (4) A guarantor who contravenes paragraph (l)(c) or (d) commits an offence.
 
-(5) Where a guarantor contravenes paragraph (\)(b),
+(5) Where a guarantor contravenes paragraph ( \ ) ( b ) ,
 
 <!-- marginal: the -->
 

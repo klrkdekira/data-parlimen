@@ -30,7 +30,7 @@ Petroleum (Pindaan) 1992.
 
 <!-- marginal: berkuatkuasa. -->
 
-(2) Akta ini hendaklah mula berkuatkuasa pada t a r i kh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+(2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
 
 <!-- marginal: Pindaan -->
 
@@ -44,7 +44,7 @@ dipinda dengan memasukkan, selepas sahaja subseksyen
 
 (3), subseksyen baru (3A) dan (3e) yang berikut:
 
-"(3A) Subseksyen (3) tidak boleh terpakai bagi mana-mana orang yang dilesenkan di Akta bawah Akta Bekalan Gas 1992 u n t uk membekalkan gas kepada pengguna-pengguna melalui talian paip.
+"(3A) Subseksyen (3) tidak boleh terpakai bagi mana-mana orang yang dilesenkan di Akta bawah Akta Bekalan Gas 1992 untuk membekalkan gas kepada pengguna-pengguna melalui talian paip.
 
 <!-- page 2 -->
 

@@ -152,7 +152,7 @@ Amendment of section 15A
 
 period or part of the basis period, the amount of the expense to be deducted from that gross income shall be determined in accordance with the following formula:
 
-A x C B
+AxC B
 
 where A is the number of days
 

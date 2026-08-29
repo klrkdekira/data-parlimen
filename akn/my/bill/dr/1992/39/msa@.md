@@ -238,7 +238,7 @@ bawah Akta Bank Islam 1983;
 
 (c) mendorong atau cuba mendorong orang lain untuk membeli atau untuk melupuskan kontrak niaga hadapan;
 
-(d) membuat atau menawarkan u n t uk membuat perjanjian dengan mana-mana orang lain untuk membuat suatu perjanjian untuk membeli atau menjual kontrak niaga hadapan; atau
+(d) membuat atau menawarkan untuk membuat perjanjian dengan mana-mana orang lain untuk membuat suatu perjanjian untuk membeli atau menjual kontrak niaga hadapan; atau
 
 (e) cuba mendapatkan atau menyetujuterima pesanan bagi, atau selainnya berdagang dalam, kontrak niaga hadapan,
 
@@ -484,7 +484,7 @@ syarikat itu mematuhi kehendak-kehendak yang dinyatakan dalam subseksyen (3).
 
 (iii) menubuhkan atau membuat perkiraaan bagi penubuhan suatu pusat penjelasan bagi penjelasan, pendaftaran dan penyelesaian kontrak-kontrak niaga hadapan dan pelarasan hari ke hari kedudukan kewangan kontrak-kontrak itu; dan
 
-(iv) memastikan atau membuat perkiraaan u n t uk memastikan bahawa kontrak- kontrak niaga hadapan yang didaftarkan oleh pusat penjelasannya ditepati sekiranya berlaku kemungkiran oleh salah satu pihak dalam kontrak itu, dan mengambil insurans yang mencukupi dalam hal itu;
+(iv) memastikan atau membuat perkiraaan untuk memastikan bahawa kontrak- kontrak niaga hadapan yang didaftarkan oleh pusat penjelasannya ditepati sekiranya berlaku kemungkiran oleh salah satu pihak dalam kontrak itu, dan mengambil insurans yang mencukupi dalam hal itu;
 
 <!-- page 17 -->
 
@@ -620,7 +620,7 @@ masa syarikat bursa itu telah, sehingga Suruhanjaya berpuas hati, mematuhi atau 
 
 (cc) mencela syarikat bursa, pusat penjelasan atau individu yang berkenaan itu.
 
-(2) Suruhanjaya hendaklah memberi syarikat bursa, pusat penjelasan atau individu itu notis tidak kurang daripada empat belas hari tentang niatnya u n t uk mengambil mana-mana tindakan di bawah subseksyen (1) dan notis itu hendaklah menyatakan alasan-alasan tindakan itu diambil.
+(2) Suruhanjaya hendaklah memberi syarikat bursa, pusat penjelasan atau individu itu notis tidak kurang daripada empat belas hari tentang niatnya untuk mengambil mana-mana tindakan di bawah subseksyen (1) dan notis itu hendaklah menyatakan alasan-alasan tindakan itu diambil.
 
 (3) Sesuatu arahan, penalti atau celaan yang dikenakan di bawah subseksyen (1) adalah konklusif melainkan jika, dalam masa empat belas hari selepas itu, syarikat bursa, pusat penjelasan atau individu yang berkenaan itu merayu secara bertulis kepada Menteri terhadap arahan, penalti atau celaan itu, mengikut mana- mana yang berkenaan.
 
@@ -670,7 +670,7 @@ sesuatu bursa niaga hadapan ditutup di bawah seksyen
 
 <!-- marginal: hadapan. -->
 
-9 bagi transaksi apa-apa perdagangan dalam kontrak niaga hadapan, mana-mana pegawai Suruhanjaya yang diberikuasa secara bertulis atau mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor boleh, dalam tempoh penggantungan atau penutupan itu, mengambil apa-apa langkah yang perlu u n t uk memastikan bahawa premis atau kemudahan bursa niaga hadapan yang diperuntukkan bagi transaksi perdagangan itu adalah berkunci dan tertutup rapat.
+9 bagi transaksi apa-apa perdagangan dalam kontrak niaga hadapan, mana-mana pegawai Suruhanjaya yang diberikuasa secara bertulis atau mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor boleh, dalam tempoh penggantungan atau penutupan itu, mengambil apa-apa langkah yang perlu untuk memastikan bahawa premis atau kemudahan bursa niaga hadapan yang diperuntukkan bagi transaksi perdagangan itu adalah berkunci dan tertutup rapat.
 
 (2) Mana-mana orang yang, tanpa kebenaran seorang pegawai Suruhanjaya yang diberikuasa secara bertulis atau seorang pegawai polis yang berpangkat tidak rendah daripada Inspektor, memasuki mana-mana premis atau menggunakan kelengkapan yang berkunci dan tertutup rapat di bawah subseksyen (1) adalah melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya.
 
@@ -892,7 +892,7 @@ Sekatan atas
 
 23. (1) Sesuatu lesen untuk menjalankan perniagaan pemberian sebagai broker niaga hadapan hanya boleh diberikan lesen. kepada sesuatu perbadanan.
 
-(2) Sesuatu lesen u n t uk menjalankan perniagaan sebagai penasihat perdagangan niaga hadapan boleh diberikan kepada seseorang individu atau sesuatu perbadanan.
+(2) Sesuatu lesen untuk menjalankan perniagaan sebagai penasihat perdagangan niaga hadapan boleh diberikan kepada seseorang individu atau sesuatu perbadanan.
 
 (3) Sesuatu lesen untuk bertindak sebagai wakil broker niaga hadapan atau sebagai wakil penasihat perdagangan niaga hadapan hanya boleh diberikan kepada seseorang individu.
 
@@ -922,7 +922,7 @@ berhubungan dengannya atau mana-mana orang yang diambil kerja oleh atau yang ber
 
 (iii) ternyata kepada Pegawai Pelesen bahawa pemohon itu, atau mana-mana orang yang diambil kerja oleh atau yang bersekutu dengannya bagi maksud-maksud perniagaannya, telah disabitkan, sama ada di Malaysia atau di tempat lain, atas apa-apa kesalahan jenayah;
 
-(iv) pemohon tidak mempunyai sumber kewangan berkenaan dengan perniagaan yang baginya dia memohon s u p a ya dilesenkan;
+(iv) pemohon tidak mempunyai sumber kewangan berkenaan dengan perniagaan yang baginya dia memohon supaya dilesenkan;
 
 (v) pemohon tidak mempunyai kelayakan atau pengalaman yang perlu dalam perdagangan niaga hadapan; atau
 
@@ -1408,7 +1408,7 @@ tandatangannya, memberikuasa mana-mana orang yang diambil kerja olehnya untuk me
 
 (2) Mana-mana orang yang enggan atau tidak menjawab apa-apa soalan yang dikemukakan kepadanya, atau yang tidak mematuhi apa-apa permintaan yang dibuat kepadanya, oleh seseorang juruaudit bebas yang dilantik di bawah seksyen 40, atau seseorang yang diberikuasa di bawah perenggan
 
-<!-- marginal: (l)(g), adalah -->
+<!-- marginal: ( l ) ( g ), adalah -->
 
 melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
 
@@ -2184,7 +2184,7 @@ kesetiaan itu yang akan diterima pada masa hadapan dan dibayar daripada tabung k
 
 (a) semua tuntutan itu; dan
 
-(b) semua t u n t u t an lain bagi pampasan yang mungkin berbangkit atau dibuat kemudian daripada itu berkaitan dengan kemungkiran itu,
+(b) semua tuntutan lain bagi pampasan yang mungkin berbangkit atau dibuat kemudian daripada itu berkaitan dengan kemungkiran itu,
 
 adalah selesai dengan mutlak.
 
@@ -2708,7 +2708,7 @@ Rang Undang-Undang ini bertujuan mengadakan peruntukan bagi penubuhan bursa-burs
 
 (c) kehendak-kehendak yang akan dikenakan ke atas broker- broker niaga hadapan dan penasihat-penasihat perdagangan niaga hadapan supaya menyenggara akaun- akaun, yang tertakluk kepada pengauditan, dan supaya membuat pendedahan penuh kepada pelanggan-pelanggan dan peserta-peserta mereka berkenaan dengan transaksi yang dijalankan bagi pihak pelanggan-pelanggan dan peserta-peserta itu;
 
-(d) suatu sistem bagi penjalanan perniagaan oleh broker- broker niaga hadapan dan penasihat-penasihat perdagangan niaga hadapan u n t uk memastikan perlindungan yang mencukupi bagi pelabur-pelabur;
+(d) suatu sistem bagi penjalanan perniagaan oleh broker- broker niaga hadapan dan penasihat-penasihat perdagangan niaga hadapan untuk memastikan perlindungan yang mencukupi bagi pelabur-pelabur;
 
 (e) kuasa yang akan diberikan kepada Suruhanjaya untuk mengawalselia bursa-bursa niaga hadapan; dan
 
@@ -2920,7 +2920,7 @@ berhubungan dengan kontrak niaga hadapan.
 
 77. Fasal 83 melarang penggunaan muslihat fraud atau perdayaan, dll. berkaitan dengan apa-apa transaksi yang melibatkan perdagangan dalam kontrak niaga hadapan.
 
-78. Fasal 84 mewujudkan kesalahan mendorong secara fraud, atau cuba mendorong secara fraud. seorang lain supaya berdagang dalam kontrak n i a ga hadapan dengan membuat atau menyiarkan pernyataan-pernyataan palsu.
+78. Fasal 84 mewujudkan kesalahan mendorong secara fraud, atau cuba mendorong secara fraud. seorang lain supaya berdagang dalam kontrak niaga hadapan dengan membuat atau menyiarkan pernyataan-pernyataan palsu.
 
 79. Fasal 85 memperuntukkan bahawa tiada pekerja sesuatu syarikat bursa atau pusat penjelasan boleh terlibat secara langsung atau tak langsung dalam perdagangan dalam kontrak niaga hadapan atau mendedahkan apa-apa maklumat sulit.
 

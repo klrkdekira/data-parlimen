@@ -212,7 +212,7 @@ shall be guilty of an offence and shall, on conviction, be liable to a fine not 
 
 Seksyen baru
 
-9. Akta ibu adalah dipinda dengan memasukkan selepas 12A, 12B, seksyen 12 seksyen yang berikut: 12C dan 12D. "Offence
+9. Akta ibu adalah dipinda dengan memasukkan selepas 1 2A, 1 2B , seksyen 12 seksyen yang berikut: 12C dan 12D. "Offence
 
 12A. Any person who with intent to obtain for relating to any other person a passport, internal travel procure- ment of document, or an endorsement or visa on a passport, passport. knowingly makes any false statement or produces etc. for another any document which to his knowledge is false in person. any particular shall be guilty of an offence and
 

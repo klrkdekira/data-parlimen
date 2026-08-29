@@ -80,7 +80,7 @@ buangan lain dibuangkan, dijatuhkan, diletakkan alau dikeluarkan ke mana-mana an
 
 ### Kecualian
 
-4. Bagi mengelakkan keraguan, diisytiharkan bahawa walau apa pun apa-apa jua yang terkandung dalam Akta ini, mana-mana undang undang yang berhubungan dengan pengurusan sisa pepejal terkawal dan pembersihan awam yang pada masa ini berkuat kuasa dalam mana-mana kawasan pihak berkuasa tempatan atau kawasan bukan pihak berkuasa tempatan hendaklah terus berkuat kuasa melainkan jika dan sehingga Akta i n i dan Akta Pengurusan Sisa Pepejal dan Pembersihan Awam 2007 dikuatkuasakan berkenaan dengan kawasan ilu.
+4. Bagi mengelakkan keraguan, diisytiharkan bahawa walau apa pun apa-apa jua yang terkandung dalam Akta ini, mana-mana undang undang yang berhubungan dengan pengurusan sisa pepejal terkawal dan pembersihan awam yang pada masa ini berkuat kuasa dalam mana-mana kawasan pihak berkuasa tempatan atau kawasan bukan pihak berkuasa tempatan hendaklah terus berkuat kuasa melainkan jika dan sehingga Akta ini dan Akta Pengurusan Sisa Pepejal dan Pembersihan Awam 2007 dikuatkuasakan berkenaan dengan kawasan ilu.
 
 ## HURAIAN
 

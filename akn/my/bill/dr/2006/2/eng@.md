@@ -504,7 +504,7 @@ if the act was done in good faith and in a reasonable belief that it was necessa
 
 ### Procedure
 
-5. (1) Subject to this Act, the Board shall determine i t s own procedures.
+5. (1) Subject to this Act, the Board shall determine its own procedures.
 
 (2) No act done or proceeding taken by the Board under this Act shall be questioned on the ground of—
 

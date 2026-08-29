@@ -3648,7 +3648,7 @@ D . R. 35/95
 
 ### by the Honourable Minister of Education
 
-### This B i ll is amended in section 73 by i n s e r t i ng after subsection
+### This Bill is amended in section 73 by inserting after subsection
 
 (2) the following subsection:
 
@@ -3660,7 +3660,7 @@ D . R. 35/95
 
 ## EXPLANATORY STATEMENT
 
-### This amendment seeks to exempt the a p p l i c a t i on of Part VII of the
+### This amendment seeks to exempt the application of Part VII of the
 
 ### B i ll to private higher educational institution which may be
 

@@ -36,7 +36,7 @@ in section 44—
 
 This B i ll seeks in amend the Land (Group Settlement Areas) Act I960.
 
-2. Clause 1 deals w i t h the short title of the Bill.
+2. Clause 1 deals with the short title of the Bill.
 
 <!-- page 2 -->
 

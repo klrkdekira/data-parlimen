@@ -76,7 +76,7 @@ Purpose Title Appropriation to purpose RM
 
 6,118,900 B.17 Ministry of Youth and Sports 20,403,700 B.26 Ministry of Education 39,495,000 B.28 Treasury 672.800 Registration of Societies B.38 Department 22,494,300 Ministry of Transport B.47
 
-## T O T AL
+## TOTAL
 
 .. 296,393,300
 

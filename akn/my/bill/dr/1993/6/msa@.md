@@ -640,7 +640,7 @@ Nilai normat
 
 (b) nilai binaan dagangan subjek, yang ditentukan dengan menambah kos pengeluaran dan margin keuntungan yang munasabah.
 
-(3) Bilamasa wujudnya alasan-alasan munasabah bagi mempercayai atau mengesyaki bahawa harga-harga yang dengannya dagangan boleh banding sebenarnya dijual u n t uk penggunaan di bawah subseksyen (1) atau perenggan ( 2 )( a) adalah kurang daripada kos untuk mengeluarkan dagangan itu, jualan-jualan pada harga- harga sedemikian boleh dianggap sebagai tidak dibuat dalam perjalanan biasa perdagangan.
+(3) Bilamasa wujudnya alasan-alasan munasabah bagi mempercayai atau mengesyaki bahawa harga-harga yang dengannya dagangan boleh banding sebenarnya dijual untuk penggunaan di bawah subseksyen (1) atau perenggan ( 2 )( a) adalah kurang daripada kos untuk mengeluarkan dagangan itu, jualan-jualan pada harga- harga sedemikian boleh dianggap sebagai tidak dibuat dalam perjalanan biasa perdagangan.
 
 (4) Bagi maksud menentukan kos pengeluaran yang disebut dalam perenggan (2)(b) dan subseksyen (3), kos pengeluaran hendaklah dihitung atas asas segala kos bahan dan pengilangan yang tetap dan berubah dalam perjalanan biasa perdagangan di negara pengeksport, termasuk suatu amaun munasabah bagi perbelanjaan penjualan, pentadbiran dan perbelanjaan am yang lain.
 
@@ -826,7 +826,7 @@ Penentuan
 
 kemudaratan material di bawah subperenggan (l)(b)(i); atau
 
-(b) Kerajaan membuat suatu penentuan ancaman kemudaratan material di bawah subperenggan (l)(b)(ii), ia mendapati bahawa, dalam ketiadaan langkah-langkah sementara itu, dagangan subjek itu akan menyebabkan s u a tu
+(b) Kerajaan membuat suatu penentuan ancaman kemudaratan material di bawah subperenggan (l)(b)(ii), ia mendapati bahawa, dalam ketiadaan langkah-langkah sementara itu, dagangan subjek itu akan menyebabkan suatu
 
 <!-- marginal: dapatan -->
 
@@ -922,7 +922,7 @@ hendaklah terus berkuatkuasa konsisten dengan peruntukan-peruntukan Akta ini.
 
 (8) Jika penentuan negatif yang disebut dalam subseksyen (7) adalah secara besarnya disebabkan oleh kewujudan akujanji itu, akujanji itu boleh dikekalkan konsisten dengan peruntukan-peruntukan Akta ini.
 
-(9) Kerajaan boleh memulakan semula s u a tu penyiasatan tergantung pada bila-bila masa jika ia menentukan bahawa akujanji yang disetujuterima di bawah subseksyen (1) tidak lagi menepati kehendak- kehendak subseksyen (2) atau terdapat pencabulan material akan akujanji itu.
+(9) Kerajaan boleh memulakan semula suatu penyiasatan tergantung pada bila-bila masa jika ia menentukan bahawa akujanji yang disetujuterima di bawah subseksyen (1) tidak lagi menepati kehendak- kehendak subseksyen (2) atau terdapat pencabulan material akan akujanji itu.
 
 (10) Jika Kerajaan memulakan semula suatu penyiasatan menurut subseksyen (9), ia hendaklah mengambil tindakan yang cepat untuk—
 
@@ -966,7 +966,7 @@ substansial;
 
 (e) duti anti-lambakan yang dikehendaki ditamatkan menurut subseksyen (6) patut dikekalkan,
 
-Kerajaan boleh menjalankan s u a tu kajian semula pentadbiran jika Kerajaan menentukan bahawa kajian semula itu adalah demi kepentingan awam:
+Kerajaan boleh menjalankan suatu kajian semula pentadbiran jika Kerajaan menentukan bahawa kajian semula itu adalah demi kepentingan awam:
 
 Dengan syarat bahawa tiada kajian semula pentadbiran boleh dijalankan melainkan jika tempoh yang ditetapkan telah luput.
 
@@ -1134,7 +1134,7 @@ hendaklah diberi notis mengenai maklumat yang
 
 <!-- marginal: untuk menge- -->
 
-dikehendaki oleh Kerajaan dan peluang u n t uk
+dikehendaki oleh Kerajaan dan peluang untuk
 
 <!-- marginal: mukakan -->
 
@@ -1312,7 +1312,7 @@ Kuasa untuk
 
 <!-- marginal: 39 -->
 
-(c) u n t uk memperuntukkan bagi bentuk dan kandungan notis yang dikehendaki bagi maksud- maksud Akta ini dan prosedur yang berhubungan dengan pemberian notis itu;
+(c) untuk memperuntukkan bagi bentuk dan kandungan notis yang dikehendaki bagi maksud- maksud Akta ini dan prosedur yang berhubungan dengan pemberian notis itu;
 
 (d) untuk memperuntukkan bagi langkah-langkah anti-permintasan;
 

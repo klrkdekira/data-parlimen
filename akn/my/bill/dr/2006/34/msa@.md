@@ -90,7 +90,7 @@ Kewangan
 
 3
 
-## B A B V
+## BAB V
 
 ## PINDAAN KEPADA AKTA PETROLEUM (CUKAI PENDAPATAN} 1967
 
@@ -684,7 +684,7 @@ Pindaan ini berkuat kuasa pada 1 Januari 2007.
 
 Pindaan ini berkuat kuasa bagi tahun taksiran 2007 dan tahun-tahun taksiran yang berikutnya.
 
-5. Fasal 7 bertujuan untuk memotong seksyen 6B Akta 53 memandangkan pinjaman kepada suatu perniagaan kecil tidak lagi relevan dan terpakai di bawah Akta i n i . Pemotongan yang dicadangkan adalah berikutan dengan penamatan pinjaman kepada perniagaan kecil yang tidak lagi terpakai.
+5. Fasal 7 bertujuan untuk memotong seksyen 6B Akta 53 memandangkan pinjaman kepada suatu perniagaan kecil tidak lagi relevan dan terpakai di bawah Akta ini. Pemotongan yang dicadangkan adalah berikutan dengan penamatan pinjaman kepada perniagaan kecil yang tidak lagi terpakai.
 
 Pindaan ini berkuat kuasa bagi tahun taksiran 2007 dan tahun-tahun taksiran yang berikutnya.
 
@@ -714,7 +714,7 @@ Pindaan ini berkuat kuasa bagi tahun taksiran 2007 dan tahun-tahun taksiran yang
 
 Fasal /5juga bertujuan untuk meminda subseksyen 44(1 1A) Akta 53. Dengan cadangan pindaan ini, seseorang selain suatu syarikat luar pesisir dan individu adalah berhak untuk memotong daripada pendapatan agregatnya suatu amaun yang sama dengan zakat perniagaan yang telah dibayar kepada pihak berkuasa agama yang sewajarnya yang ditubuhkan di bawah mana-mana undang-undang bertulis terhad kepada satu per empat puluh daripada pendapatan agregat orang itu.
 
-Fasal 15 juga selanjutnya bertujuan untuk memasukkan subseksyen baru 44(11B) dan ( l i e ) ke dalam Akta 53. Subseksyen baru yang dicadangkan itu mengadakan peruntukan bagi pemotongan yang sama dengan mana-mana pemberian wang atau kos sumbangan yang dibuat oleh seseorang bagi apa-apa aktiviti sukan atau projek yang mempunyai kepentingan negara yang diiuluskan oleh Menteri atau mana-mana badan sukan yang diiuluskan oleh Pesuruhjaya Sukan. Walau bagaimanapun, jumlah amaun potongan yang dibenarkan mengikut subseksyen itu dan proviso kepada subseksyen 44(6) hendaklah tidak melebihi tujuh peratus pendapatan agregat orang itu.
+Fasal 15 juga selanjutnya bertujuan untuk memasukkan subseksyen baru 44(11B) dan (lie) ke dalam Akta 53. Subseksyen baru yang dicadangkan itu mengadakan peruntukan bagi pemotongan yang sama dengan mana-mana pemberian wang atau kos sumbangan yang dibuat oleh seseorang bagi apa-apa aktiviti sukan atau projek yang mempunyai kepentingan negara yang diiuluskan oleh Menteri atau mana-mana badan sukan yang diiuluskan oleh Pesuruhjaya Sukan. Walau bagaimanapun, jumlah amaun potongan yang dibenarkan mengikut subseksyen itu dan proviso kepada subseksyen 44(6) hendaklah tidak melebihi tujuh peratus pendapatan agregat orang itu.
 
 Pindaan ini berkuat kuasa bagi tahun taksiran 2007 dan tahun-tahun taksiran yang berikutnya.
 
@@ -760,7 +760,7 @@ Fasal 26 juga bertujuan untuk memasukkan seksyen baru 138B ke dalam Akta 53. Den
 
 Pindaan ini mula berkuat kuasa pada 1 Januari 2007.
 
-20. Fasal 27 bertujuan untuk memasukkan suatu peruntukan khas yang berhubungan dengan seksyen 138A ke dalam Akta 53 untuk mengadakan peruntukan bahawa ketetapan umum yang dahulunya dikeluarkan oleh Ketua Pengarah Hasil Dalam Negeri sebelum mula berkuat kuasanya seksyen itu disifatkan telah dibuat di bawah seksyen itu. Peruntukan baru itu juga memperuntukkan bahawa ketetapan i t u berkuat kuasa bagi tahun taksiran 2007 dan tahun-tahun taksiran yang berikutnya.
+20. Fasal 27 bertujuan untuk memasukkan suatu peruntukan khas yang berhubungan dengan seksyen 138A ke dalam Akta 53 untuk mengadakan peruntukan bahawa ketetapan umum yang dahulunya dikeluarkan oleh Ketua Pengarah Hasil Dalam Negeri sebelum mula berkuat kuasanya seksyen itu disifatkan telah dibuat di bawah seksyen itu. Peruntukan baru itu juga memperuntukkan bahawa ketetapan itu berkuat kuasa bagi tahun taksiran 2007 dan tahun-tahun taksiran yang berikutnya.
 
 Pindaan ini mula berkuat kuasa pada 1 Januari 2007.
 

@@ -284,7 +284,7 @@ Rang Undang-Undang ini bertujuan meminda Akta Suruhanjaya Sekuriti 1993 ("Akta 4
 
 Suruhanjaya Sekuriti (Pindaan)
 
-3. Fasal 2 Rang Undang-Undang ini bertujuan untuk meminda seksyen 2 Akta 498 u n t uk memperluas takrif "Mahkamah" supaya termasuk mahkamah rendah, Hakim Mahkamah Sesyen dan Majistret.
+3. Fasal 2 Rang Undang-Undang ini bertujuan untuk meminda seksyen 2 Akta 498 untuk memperluas takrif "Mahkamah" supaya termasuk mahkamah rendah, Hakim Mahkamah Sesyen dan Majistret.
 
 4. Fasal 3 Rang Undang-Undang ini bertujuan untuk meminda subseksyen 35(1) dan (2) Akta 498 dengan memotong perkataan "pemeriksaan" kerana seksyen baru 35A dan 35B yang dicadangkan akan memperkatakan kuasa pemeriksaan.
 

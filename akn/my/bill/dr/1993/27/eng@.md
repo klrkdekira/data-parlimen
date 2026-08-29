@@ -448,7 +448,7 @@ insurance or a certificate of security" the words 'and the expression "mark" inc
 
 Amendment
 
-31. Paragraph 112(1)(a) of the principal Act is of section amended by inserting after the figure "45" the figure
+31. Paragraph 1 1 2( 1 ) ( a) of the principal Act is of section amended by inserting after the figure "45" the figure
 
 112. ", 45A".
 

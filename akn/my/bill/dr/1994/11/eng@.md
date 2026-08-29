@@ -6,7 +6,7 @@
 
 An Act to amend the Election Offences Act 1954.
 
-BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the D e w an Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
+BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
 
 1. This Act may be cited as the Election Offences (Amendment) Act 1994.
 

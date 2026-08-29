@@ -1104,7 +1104,7 @@ Tabung Pembangunan Kemahiran
 
 55. (1) Perbadanan hendaklah bertanggungjawab bagi mendapatkan dan memungut pembayaran balik pinjaman latihan kemahiran yang dibayar kepada penerima pinjaman.
 
-(2) Apa-apa pinjaman latihan kemahiran atau mana-mana bahagian pinjaman latihan kemahiran yang tidak dibayar balik bolehlah dianggap sebagai suatu hutang s i v i l yang terhutang oleh penerima pinjaman kepada Perbadanan dan Perbadanan boleh mendapatkan hutang itu melalui apa-apa cara yang diperuntukkan di bawah undang-undang bagi mendapatkan kembali hutang sedemikian.
+(2) Apa-apa pinjaman latihan kemahiran atau mana-mana bahagian pinjaman latihan kemahiran yang tidak dibayar balik bolehlah dianggap sebagai suatu hutang sivil yang terhutang oleh penerima pinjaman kepada Perbadanan dan Perbadanan boleh mendapatkan hutang itu melalui apa-apa cara yang diperuntukkan di bawah undang-undang bagi mendapatkan kembali hutang sedemikian.
 
 ### Pemulangan balik amaun pinjaman latihan kemahiran
 
@@ -1678,11 +1678,11 @@ hendaklah menzahirkan kepada Lembaga hakikat kepentingan dan jenis kepentinganny
 
 (b) ada pelanggaran oleh mana-mana anggota Lembaga berkenaan peruntukan perenggan 6; atau
 
-(c) ada apa-apa peninggalan, kecacatan atau ketidakaturan yang tidak menyentuh merit hal i t u .
+(c) ada apa-apa peninggalan, kecacatan atau ketidakaturan yang tidak menyentuh merit hal itu.
 
 ### Tatacara
 
-8. Tertakluk kepada Akta i n i , Lembaga hendaklah, mengikut budi bicaranya, menentukan talacaranya sendiri.
+8. Tertakluk kepada Akta ini, Lembaga hendaklah, mengikut budi bicaranya, menentukan talacaranya sendiri.
 
 <!-- page 54 -->
 

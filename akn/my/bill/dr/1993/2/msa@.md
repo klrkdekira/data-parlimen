@@ -224,7 +224,7 @@ Pindaan
 
 Pindaan
 
-14. Seksyen 64 Akta ibu adalah d i p i n d a- seksyen 64.
+14. Seksyen 64 Akta ibu adalah dipinda- seksyen 64.
 
 (a) dengan memotong perkataan-perkataan "or Her Britannic Majesty" dalam nota birai; dan
 
@@ -432,7 +432,7 @@ subsection (1) are not carried out forthwith by the master of the vessel, the Ge
 
 (3) Any expenses incurred in the exercise of the powers conferred by subsections (1) and (2) shall be recoverable from the master or the owner of the vessel concerned as a civil debt.".
 
-Pindaan 29. Seksyen 92A Akta ibu adalah d i p i n d a- seksyen 92A.
+Pindaan 29. Seksyen 92A Akta ibu adalah dipinda- seksyen 92A.
 
 (a) dalam subseksyen ( 1 )-
 
@@ -598,7 +598,7 @@ keselamatan pelabuhan.
 
 ## RANG UNDANG-UNDANG
 
-12. Fasal 12 bertujuan memasukkan seksyen baru 58A untuk mengadakan peruntukan bag! fungsi tambahan Suruhanjaya. Suruhanjaya boleh, dengan kelulusan Menteri, menggendalikan apa-apa a k t i v i ti yang berhubungan dengan pelabuhan. Pada menjalankan fungsi-fungsi sedemikian, Suruhanjaya boleh membelanjakan apa-apa wang yang diperlukan.
+12. Fasal 12 bertujuan memasukkan seksyen baru 58A untuk mengadakan peruntukan bag! fungsi tambahan Suruhanjaya. Suruhanjaya boleh, dengan kelulusan Menteri, menggendalikan apa-apa aktiviti yang berhubungan dengan pelabuhan. Pada menjalankan fungsi-fungsi sedemikian, Suruhanjaya boleh membelanjakan apa-apa wang yang diperlukan.
 
 13. Fasal 13 bertujuan meminda seksyen 60(5} untuk menambah denda daripada suatu jumlah wang yang tidak melebihi lima ratus ringgit kepada suatu jumlah wang yang tidak melebihi satu ribu ringgit.
 
@@ -608,7 +608,7 @@ keselamatan pelabuhan.
 
 16. Fasal 16 bertujuan meminda perenggan (a) dan (b) seksyen 70o untuk membolehkan Jawatankuasa Permaliman mengadakan peperiksaan, mengeluarkan lesen dan mengadakan penyiasatan ke atas kelakuan mana-mana orang yang dilesenkan di bawah seksyen 70cA(l) dalam melaksanakan tugas-tugasnya.
 
-17. Fasal 17 bertujuan meminda seksyen 70i(l) untuk membolehkan Jawatankuasa Permaliman menyiasat perkara-perkara yang berkaitan dengan salah laku, kegagalan dalam tugas atau kecuaian orang-orang yang dilesenkan di bawah seksyen 70cA(l). la juga bertujuan meminda seksyen 70i(3) untuk menambah denda daripada suatu jumlah wang yang tidak melebihi lima ratus ringgit kepada suatu jumlah wang yang tidak melebihi dua ribu ringgit.
+17. Fasal 17 bertujuan meminda seksyen 7 0 i ( l) untuk membolehkan Jawatankuasa Permaliman menyiasat perkara-perkara yang berkaitan dengan salah laku, kegagalan dalam tugas atau kecuaian orang-orang yang dilesenkan di bawah seksyen 70cA(l). la juga bertujuan meminda seksyen 70i(3) untuk menambah denda daripada suatu jumlah wang yang tidak melebihi lima ratus ringgit kepada suatu jumlah wang yang tidak melebihi dua ribu ringgit.
 
 18. Fasal !8 bertujuan meminda seksyen 70; untuk membenarkan Jawatankuasa Permaliman mengemukakan kepada Suruhanjaya dapatannya selepas diadakan siasatan wajar ke atas orang-orang yang dilesenkan di bawah seksyen 70cA(l). Suruhanjaya kemudiannya diberikuasa untuk menggantung atau membatalkan lesen malim itu atau mengenakan apa-apa hukuman
 
@@ -650,13 +650,13 @@ sebagaimana yang difikirkannya patut.
 
 28. Fasal 28 bertujuan memasukkan seksyen baru 90A dan 90s. Seksycn 90A memberikuasa Pengurus Besar atau mana-mana orang yang diberikuasa olebnya untuk menaiki vesel dalam kawasan pelabuhan sekiranya ia mensyaki bahawa suatu kesalahan telah dilakukan atau akan diiakukan. Seksyen 90s membcrikuasa Pengurus Besar atau mana-mana orang yang diberikuasa olehnya untuk memerintahkan supaya vesel ditenggelamkan sekiranya berlaku suatu kebakaran.
 
-29. Fasal 29 bertujuan meminda seksyen 92A(1) dan (2) untuk menambah denda daripada suatu jumlah wang yang tidak mefebihi satu ribu ringgit kepada suatu jumlah wang yang tidak melebihi dua ribu ringgit. la juga bertujuan m e m b a wa ke dalam lingkungannya masing-masing mana-mana orang yang dilesenkan di bawah seksyen 70cA(l).
+29. Fasal 29 bertujuan meminda seksyen 92A(1) dan (2) untuk menambah denda daripada suatu jumlah wang yang tidak mefebihi satu ribu ringgit kepada suatu jumlah wang yang tidak melebihi dua ribu ringgit. la juga bertujuan membawa ke dalam lingkungannya masing-masing mana-mana orang yang dilesenkan di bawah seksyen 70cA(l).
 
 30. Fasal 30 bertujuan meminda seksyen 92e(2) untuk menambah denda daripada suatu jumlah wang yang tidak melebihi satu ratus ringgit kepada suatu jumlah wang yang tidak melebihi lima ratus ringgit. la juga bertujuan membawa ke dalam lingkungannya subseksyen (1) dan (2) seksyen yang sama mana-mana pekerja yang dilesenkan di bawah seksyen 70cA(l).
 
 31. Fasal 31 bertujuan meminda 92c
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 memperluaskan skopnya supaya dapat dibawa ke dalam lingkungannya apa-apa kesalahan yang dilakukan oleh mana-mana malim Suruhanjaya atau mana-mana pekerja yang dilesenkan di bawah seksyen 70cA(l).
 
@@ -666,7 +666,7 @@ memperluaskan skopnya supaya dapat dibawa ke dalam lingkungannya apa-apa kesalah
 
 34. Fasal 34 bertujuan meminda 101
 
-<!-- marginal: u n t uk -->
+<!-- marginal: untuk -->
 
 memperluaskan perlindungannya bagi pendakwaan berkenaan dengan apa-apa kesalahan di bawah peraturan-peraturan atau undang-undang kecil yang dibuat di bawah Akta ini.
 

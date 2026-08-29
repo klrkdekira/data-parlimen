@@ -402,11 +402,11 @@ forfeiture.
 
 Things seized
 
-24. (1) If there be no prosecution with regard to any in respect of thing seized under this Act, such things shall be taken which there is no and deemed lo be forfeited at the expiration of one prosecution calendar month from the date of seizure unless a claim deemed to be thereto is made before that date in the m a n n er forfcited if not claimed hereinafter set forth. within one
+24. (1) If there be no prosecution with regard to any in respect of thing seized under this Act, such things shall be taken which there is no and deemed lo be forfeited at the expiration of one prosecution calendar month from the date of seizure unless a claim deemed to be thereto is made before that date in the manner forfcited if not claimed hereinafter set forth. within one
 
 ### month.
 
-(2) Any person asserting that he is the owner of any thing seized under the Act and that it is not liable to forfeiture may, either personally or by his agent authorized in w r i t i n g, give written notice to the Cornmissioner that he claims the same.
+(2) Any person asserting that he is the owner of any thing seized under the Act and that it is not liable to forfeiture may, either personally or by his agent authorized in writing, give written notice to the Cornmissioner that he claims the same.
 
 (3) On receipt of a notice under subsection (2), the Commissioner may direct that such things be released or he may direct that the matter be referred to a Magistrate.
 

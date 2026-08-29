@@ -36,7 +36,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 (ii) bagi industri pemprosesan makanan, pada 21 September 2002;
 
-( i i i ) bagi aktiviti penyelidikan dan kemajuan, pada 21 Mei 2003; dan
+(iii) bagi aktiviti penyelidikan dan kemajuan, pada 21 Mei 2003; dan
 
 (iv) bagi hotel dan projek pelancongan, industri jentera berat, penggunaan biojisim kelapa sawit untuk mengeluarkan keluaran nilai ditambah, industri jentera dan peralatan dan rangkaian kemudahan dan perkhidmatan bilik sejuk bagi hasil pertanian mudah rosak, pada 13 September 2003.
 
@@ -488,7 +488,7 @@ Dengan syarat bahawa sehingga tarikh notis penyerahan itu, syarikat itu belum la
 
 (1AG) Apabila diterima suatu permohonan di bawah subseksyen 5(1DD) Menteri boleh, tertakluk kepada subseksyen (2), (5) dan (6), memberikan taraf perintis jika dia berpuas hati bahawa aktiviti atau keluaran itu layak disifatkan sebagai suatu aktiviti digalakkan atau keluaran digalakkan di bawah seksyen 4F.
 
-( 1 A H ) Apabila diterima suatu permohonan di bawah subseksyen 5(1 DE) Menteri boleh, tertakluk kepada subseksyen (2), (5), dan (6), memberikan taraf perintis kepada suatu syarikat yang menempatkan semula suatu aktiviti digalakkan atau suatu keluaran digalakkan yang sedia ada yang berhubungan dengan suatu aktiviti perkilangan dari luarkawasan digalakkan di Malaysia ke suatu kawasan digalakkan di bawah seksyen 4c.
+( 1 A H ) Apabila diterima sua tu permohonan di bawah subseksyen 5(1 DE) Menteri boleh, tertakluk kepada subseksyen (2), (5), dan (6), memberikan taraf perintis kepada suatu syarikat yang menempatkan semula suatu aktiviti digalakkan atau suatu keluaran digalakkan yang sedia ada yang berhubungan dengan suatu aktiviti perkilangan dari luarkawasan digalakkan di Malaysia ke suatu kawasan digalakkan di bawah seksyen 4c.
 
 <!-- page 18 -->
 
@@ -1836,7 +1836,7 @@ taksiran itu suatu elaun cukai pelaburan sebanyak enam puluh peratus daripada pe
 
 Dengan syarat bahawa —
 
-(A) jika suatu syarikat melakukan perbelanjaan modal dari tarikh kelulusan i t u mula berkuat kuasa yang disebut dalam subperenggan (ii) berhubung dengan suatu perniagaan yang akan dijalankannya berkenaan dengan suatu aktiviti digalakkan atau keluaran digalakkan, perbelanjaan itu hendaklah disifatkan telah dilakukan dalam tempoh asas yang syarikat itu mula menjalankan perniagaan itu; dan
+(A) jika suatu syarikat melakukan perbelanjaan modal dari tarikh kelulusan itu mula berkuat kuasa yang disebut dalam subperenggan (ii) berhubung dengan suatu perniagaan yang akan dijalankannya berkenaan dengan suatu aktiviti digalakkan atau keluaran digalakkan, perbelanjaan itu hendaklah disifatkan telah dilakukan dalam tempoh asas yang syarikat itu mula menjalankan perniagaan itu; dan
 
 (B) jika syarikat itu melakukan perbelanjaan modal sebelum permohonannya di bawah subseksyen 26K(1) dan kelulusan di bawah subseksyen 27K(2), elaun itu diberi kuat kuasa ke belakang dari suatu tarikh yang tidak lebih awal dari 13 September 2003;
 
@@ -2080,7 +2080,7 @@ Fasal ini juga bertujuan untuk meminda subseksyen 5(1E) Akta 327 bagi mengadakan
 
 8. Fasal 7 bertujuan untuk memasukkan subseksyen baru (IAD), (IAE), (IAF),
 
-(IAG), (IAH), (IAI) dan ( I A J ) ke dalam seksyen 6 Akta 327 bagi mengadakan peruntukan pemberian taraf perintis kepada aktiviti digalakkan atau keluaran digalakkan yang baru bagi aktiviti pengetahuan intensif yang strategik yang dipohon di bawah subseksyen 5(1DA), bagi industri terpilih yang dipohon di bawah subseksyen 5(1 DB), bagi industri modul komponen automatif yang dipohon di bawah subseksyen 5(1DC), bagi pelaburan semula yang dipohon di bawah subseksyen 5(1DD), bagi penempatan semula suatu aktiviti digalakkan atau keluaran digalakkan sedia ada yang berhubungan dengan suatu aktiviti perkilangan dari luar kawasan digalakkan ke suatu kawasan digalakkan yang dipohon di bawah subseksyen 5(1 DE), bagi pengkomersialan dapatan penyelidikan dan kemajuan yang dipohon di bawah subseksyen 5(1DF) dan bagi syarikat yang menjalankan aktiviti teknologi maklumat dan komunikasi atau multimedia yang dipohon di bawah subseksyen 5(1 DG).
+(IAG), (IAH), (IAI) dan (IAJ) ke dalam seksyen 6 Akta 327 bagi mengadakan peruntukan pemberian taraf perintis kepada aktiviti digalakkan atau keluaran digalakkan yang baru bagi aktiviti pengetahuan intensif yang strategik yang dipohon di bawah subseksyen 5(1DA), bagi industri terpilih yang dipohon di bawah subseksyen 5(1 DB), bagi industri modul komponen automatif yang dipohon di bawah subseksyen 5(1DC), bagi pelaburan semula yang dipohon di bawah subseksyen 5(1DD), bagi penempatan semula suatu aktiviti digalakkan atau keluaran digalakkan sedia ada yang berhubungan dengan suatu aktiviti perkilangan dari luar kawasan digalakkan ke suatu kawasan digalakkan yang dipohon di bawah subseksyen 5(1 DE), bagi pengkomersialan dapatan penyelidikan dan kemajuan yang dipohon di bawah subseksyen 5(1DF) dan bagi syarikat yang menjalankan aktiviti teknologi maklumat dan komunikasi atau multimedia yang dipohon di bawah subseksyen 5(1 DG).
 
 Fasal ini juga bertujuan untuk meminda perenggan 6(3)(a) Akta 327 untuk memasukkan pemberian taraf perintis kepada aktiviti digalakkan atau keluaran digalakkan yang dinyatakan sebelum ini.
 

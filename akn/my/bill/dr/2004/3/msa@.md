@@ -30,7 +30,7 @@ DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
 
 ### Pindaan seksyen 16
 
-4. Subseksyen 16(2) Akta ibu dipinda dengan memasukkan selepas perkataan "bagi kesalahan sedemikian" perkataan "dan, dalam hal kesalahan yang berterusan, boleh menetapkan, sebagai tambahan kepada penalti itu, denda satu ribu ringgit bagi tiap-tiap had atau sebahagian daripada sehari kesalahan i t u berterusan selepas pensabitan".
+4. Subseksyen 16(2) Akta ibu dipinda dengan memasukkan selepas perkataan "bagi kesalahan sedemikian" perkataan "dan, dalam hal kesalahan yang berterusan, boleh menetapkan, sebagai tambahan kepada penalti itu, denda satu ribu ringgit bagi tiap-tiap had atau sebahagian daripada sehari kesalahan itu berterusan selepas pensabitan".
 
 ### Seksyen baru 23A
 

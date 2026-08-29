@@ -1250,13 +1250,13 @@ Rang Undang-Undang ini bertujuan meminda Akta Duti Timbal Balas dan Anti-Lambaka
 
 2. Fasal I Rang Undang-Undang ini mengandungi tajuk ringkas dan kuasa Menteri untuk menetapkan tarikh permulaan kuat kuasa Akta yang dicadangkan.
 
-3. Fasal 2 Rang Undang-Undang ini bertujuan u n t uk meminda seksyen 2 Akta 504 untuk menggantikan takrif tertentu dan untuk memasukkan takrif baru tertentu bagi ungkapan yang digunakan dalam Akta 504.
+3. Fasal 2 Rang Undang-Undang ini bertujuan untuk meminda seksyen 2 Akta 504 untuk menggantikan takrif tertentu dan untuk memasukkan takrif baru tertentu bagi ungkapan yang digunakan dalam Akta 504.
 
-4. Fasal 3 Rang Undang-Undang ini bertujuan untuk memasukkan Bahagian baru 1A (seksyen 2A hingga 2E) ke dalam Akta 504 u n t uk memperkatakan mengenai subsidi.
+4. Fasal 3 Rang Undang-Undang ini bertujuan untuk memasukkan Bahagian baru 1A (seksyen 2A hingga 2E) ke dalam Akta 504 untuk memperkatakan mengenai subsidi.
 
-5. Fasal 4 Rang Undang-Undang ini bertujuan u n t uk meminda seksyen 3 Akta 504 untuk menjelaskan bila duti timbal balas boleh dikenakan di bawah Akta 504.
+5. Fasal 4 Rang Undang-Undang ini bertujuan untuk meminda seksyen 3 Akta 504 untuk menjelaskan bila duti timbal balas boleh dikenakan di bawah Akta 504.
 
-6. Fasal 5 Rang Undang-Undang ini bertujuan untuk meminda seksyen 4 Akta 504 u n t uk menjelaskan tatacara bagi pemulaan penyiasatan duti timbal balas.
+6. Fasal 5 Rang Undang-Undang ini bertujuan untuk meminda seksyen 4 Akta 504 untuk menjelaskan tatacara bagi pemulaan penyiasatan duti timbal balas.
 
 7. Fasal 6 Rang Undang-Undang ini bertujuan untuk meminda seksyen 5 Akta 504 untuk menghendaki Kerajaan memberi mana-mana pihak berkepentingan dalam sesuatu penyiasatan duti timbal balas peluang melihat keterangan tidak sulit yang digunakan oleh Kerajaan bagi memulakan atau menjalankan penyiasatan itu. Fasal itu juga menghendaki peluang munasabah bagi perundingan diberikan sebelum suatu penentuan afirmatif dibuat.
 
@@ -1266,13 +1266,13 @@ Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
 8. Fasal 7 Rang Undang-Undang i ni bertujuan untuk memasukkan seksyen baru 7A ke dalam Akta 504 untuk mengadakan ketelusan dalam proses menentukan kemudaratan dan hubungan bersebab dalam sesuatu penyiasatan duti timbal balas.
 
-9. Fasal 8 Rang Undang-Undang ini bertujuan u n t uk meminda seksyen 8 Akta 504 untuk menjelaskan dalam hal keadaan yang bagaimanakah penentuan kemudaratan boleh dibuat.
+9. Fasal 8 Rang Undang-Undang ini bertujuan untuk meminda seksyen 8 Akta 504 untuk menjelaskan dalam hal keadaan yang bagaimanakah penentuan kemudaratan boleh dibuat.
 
-10. Fasal 9 Rang Undang-Undang ini bertujuan untuk meminda seksyen 10 Akta 504 untuk memperuntukkan bahawa Kerajaan hanya boleh mengenakan duti timbal balas dari tarikh penentuan ancaman kemudaratan atau kerencatan material. Fasal itu juga menghendaki Kerajaan memberitahu semua pihak berkepentingan mengenai fakta-fakta penting yang sedang dipertimbangkan oleh Kerajaan yang akan menjadi asas bagi penentuan muktamad Kerajaan dalam penyiasatan itu dalam masa yang mencukupi untuk pihak-pihak itu membela kepentingannya. Pindaan yang dicadangkan itu juga menjelaskan bahawa duti timbal balas hendaklah hanya dikenakan ke atas dagangan subjek yang masuk u n t uk penggunaan selepas penentuan bagi pengenaan langkah-langkah sementara atau muktamad mula berkuat, kuasa.
+10. Fasal 9 Rang Undang-Undang ini bertujuan untuk meminda seksyen 10 Akta 504 untuk memperuntukkan bahawa Kerajaan hanya boleh mengenakan duti timbal balas dari tarikh penentuan ancaman kemudaratan atau kerencatan material. Fasal itu juga menghendaki Kerajaan memberitahu semua pihak berkepentingan mengenai fakta-fakta penting yang sedang dipertimbangkan oleh Kerajaan yang akan menjadi asas bagi penentuan muktamad Kerajaan dalam penyiasatan itu dalam masa yang mencukupi untuk pihak-pihak itu membela kepentingannya. Pindaan yang dicadangkan itu juga menjelaskan bahawa duti timbal balas hendaklah hanya dikenakan ke atas dagangan subjek yang masuk untuk penggunaan selepas penentuan bagi pengenaan langkah-langkah sementara atau muktamad mula berkuat, kuasa.
 
-11. Fasal 10 Rang Undang-Undang ini bertujuan u n t uk meminda seksyen 11 Akta 504 untuk memasukkan tiga keadaan baru yang akan membolehkan sesuatu penyiasatan duti timbal balas ditamatkan, iaitu jika Kerajaan lelah membuat penentuan bahawa tidak ada keterangan yang mencukupi mengenai pensubsidian atau kemudaratan untuk mewajarkan penerusan penyiasatan itu, atau bahawa amaun subsidi adalah de minimis atau jurnlah pengimportan dagangan subjek, yang sebenar atau mungkin, atau kemudaratan, adalah sedikit sahaja, atau jika Kerajaan menentukan bahawa adalah demi kepentingan awam untuk berbuat demikian.
+11. Fasal 10 Rang Undang-Undang ini bertujuan untuk meminda seksyen 11 Akta 504 untuk memasukkan tiga keadaan baru yang akan membolehkan sesuatu penyiasatan duti timbal balas ditamatkan, iaitu jika Kerajaan lelah membuat penentuan bahawa tidak ada keterangan yang mencukupi mengenai pensubsidian atau kemudaratan untuk mewajarkan penerusan penyiasatan itu, atau bahawa amaun subsidi adalah de minimis atau jurnlah pengimportan dagangan subjek, yang sebenar atau mungkin, atau kemudaratan, adalah sedikit sahaja, atau jika Kerajaan menentukan bahawa adalah demi kepentingan awam untuk berbuat demikian.
 
-12. Fasal II Rang Undang-Undang i ni bertujuan untuk meminda seksyen 12 Akta 504 untuk menjadikan kepentingan awam suatu alasan berasingan u n t uk menentukan sama ada untuk menyetujui terima sesuatu aku janji. Subseksyen 12(3) Akta 504 dipinda untuk memperuntukkan bahawa tiada aku janji boleh disetujui terima melainkan jika Kerajaan telah membuat penentuan awal afirmatif mengenai pensubsidian dan kemudaratan yang disebabkan oleh pensubsidian.
+12. Fasal II Rang Undang-Undang i ni bertujuan untuk meminda seksyen 12 Akta 504 untuk menjadikan kepentingan awam suatu alasan berasingan untuk menentukan sama ada untuk menyetujui terima sesuatu aku janji. Subseksyen 12(3) Akta 504 dipinda untuk memperuntukkan bahawa tiada aku janji boleh disetujui terima melainkan jika Kerajaan telah membuat penentuan awal afirmatif mengenai pensubsidian dan kemudaratan yang disebabkan oleh pensubsidian.
 
 Subseksyen 12(8A), 12(8B) dan 12(8c) dimasukkan ke dalam Akta 504 untuk memberi Kerajaan kuasa untuk meminta aku janji harga daripada kerajaan negara pengeksport atau daripada pengeksport, sementara subseksyen 12(8D) dan 12(8E) dimasukkan untuk memberi Kerajaan kuasa untuk menghendaki kerajaan negara pengeksport atau pengeksport yang menawarkan aku janji memberikan, secara berkala, maklumat yang berkenaan dengan pemenuhan aku janji yang disetujui terima oleh Kerajaan dan membenarkan Kerajaan menentusahkan maklumat yang dikemukakan.
 
@@ -1306,7 +1306,7 @@ Subseksyen 13(8) dimasukkan ke dalam Akta 504 untuk membenarkan pihak berkepenti
 
 Duti Timbal Balas dan Anti-Lambakan (Pindaan)
 
-23. Fasal 23 Rang Undang-Undang ini bertujuan untuk meminda seksyen 25 Akta 504 u n t uk memperuntukkan bahawa Kerajaan hanya boleh mengenakan duti anti-lambakan dari tarikh penentuan ancaman kemudaratan atau kerencatan material. Fasal itu juga menghendaki Kerajaan memberitahu semua pihak berkepentingan mengenai fakta-fakta penting yang sedang dipertimbangkan oleh Kerajaan yang akan menjadi asas bagi penentuan muktamad Kerajaan dalam penyiasatan itu dalam masa yang mencukupi untuk pihak-pihak itu membela kepentingannya. Pindaan yang dicadangkan itu juga menjelaskan bahawa duti anti-lambakan hendaklah hanya dikenakan ke atas dagangan subjek yang masuk untuk penggunaan selepas penentuan bagi pengenaan langkah-langkah sementara atau muktamad mula berkuat kuasa.
+23. Fasal 23 Rang Undang-Undang ini bertujuan untuk meminda seksyen 25 Akta 504 untuk memperuntukkan bahawa Kerajaan hanya boleh mengenakan duti anti-lambakan dari tarikh penentuan ancaman kemudaratan atau kerencatan material. Fasal itu juga menghendaki Kerajaan memberitahu semua pihak berkepentingan mengenai fakta-fakta penting yang sedang dipertimbangkan oleh Kerajaan yang akan menjadi asas bagi penentuan muktamad Kerajaan dalam penyiasatan itu dalam masa yang mencukupi untuk pihak-pihak itu membela kepentingannya. Pindaan yang dicadangkan itu juga menjelaskan bahawa duti anti-lambakan hendaklah hanya dikenakan ke atas dagangan subjek yang masuk untuk penggunaan selepas penentuan bagi pengenaan langkah-langkah sementara atau muktamad mula berkuat kuasa.
 
 24. Fasal 24 Rang Undang-Undang ini bertujuan untuk meminda seksyen 26 Akta 504 untuk memasukkan tiga keadaan baru yang akan membolehkan sesuatu penyiasatan duti anti-lambakan ditamatkan, iaitu jika Kerajaan telah membuat penentuan bahawa tidak ada keterangan yang mencukupi mengenai lambakan atau kemudaratan untuk mewajarkan penerusan penyiasatan itu, atau bahawa margin lambakan adalah de minimis atau jumlah pengimportan dagangan subjek, yang sebenar atau mungkin, atau kemudaratan, adalah sedikit sahaja, atau jika Kerajaan menentukan bahawa adalah demi kepentingan awam untuk berbuat demikian.
 
@@ -1324,11 +1324,11 @@ Subseksyen 28(8} dimasukkan ke dalam Akta 504 untuk membenarkan pihak berkepenti
 
 Rang Undang-Undang
 
-28. Fasal 28 Rang Undang-Undang ini bertujuan u n t uk memasukkan seksyen baru 28A dan 28B ke dalam Akta 504. Seksyen 28A mengadakan peruntukan bagi pembayaran balik duti anti-lambakan lebihan yang dipungut, sementara seksyen 28B mengadakan peruntukan bagi kajian semula yang dipercepat dalam hal pengeksport atau pengeluar baru dari negara yang terhadapnya duti anti- lambakan telah dikenakan yang tidak mengeksportkan dagangan subjek ke Malaysia sepanjang tempoh penyiasatan.
+28. Fasal 28 Rang Undang-Undang ini bertujuan untuk memasukkan seksyen baru 28A dan 28B ke dalam Akta 504. Seksyen 28A mengadakan peruntukan bagi pembayaran balik duti anti-lambakan lebihan yang dipungut, sementara seksyen 28B mengadakan peruntukan bagi kajian semula yang dipercepat dalam hal pengeksport atau pengeluar baru dari negara yang terhadapnya duti anti- lambakan telah dikenakan yang tidak mengeksportkan dagangan subjek ke Malaysia sepanjang tempoh penyiasatan.
 
 29. Fasal 29 Rang Undang-Undang ini bertujuan untuk meminda seksyen 29 Akta 504 untuk memberi Kerajaan kuasa untuk mengambil tindakan anti-lambakan bagi pihak negara ketiga.
 
-30. Fasal 31 Rang Undang-Undang ini bertujuan u n t uk memotong seksyen 32 Akta 504 untuk menghapuskan Tribunal. Adalah dicadangkan supaya hak rayuan kepada Tribunal yang dahulunya diperuntukkan di bawah seksyen 14 dan 29 Akta 504 dimansuhkan dan sebagai gantinya kajian semula kehakiman oleh Mahkamah Tinggi diperuntukkan dalam Akta 504.
+30. Fasal 31 Rang Undang-Undang ini bertujuan untuk memotong seksyen 32 Akta 504 untuk menghapuskan Tribunal. Adalah dicadangkan supaya hak rayuan kepada Tribunal yang dahulunya diperuntukkan di bawah seksyen 14 dan 29 Akta 504 dimansuhkan dan sebagai gantinya kajian semula kehakiman oleh Mahkamah Tinggi diperuntukkan dalam Akta 504.
 
 31. Fasal 32 Rang Undang-Undang ini bertujuan untuk memasukkan seksyen baru 34A ke dalam Akta 504 untuk memberi pihak berkepentingan yang tidak berpuas hati atau yang terkilan dengan penentuan muktamad atau penentuan kajian semula pentadbiran muktamad berkenaan dengan prosiding timbal balas atau prosiding anti-lambakan peluang merujukkan perkara itu kepada Mahkamah Tinggi bagi kajian semula kehakiman. Fasal itu juga bertujuan untuk membuat ubah suaian tertentu kepada tatacara yang diperuntukkan di bawah Aturan 53 Kaedah-Kaedah Mahkamah Tinggi 1980.
 
@@ -1336,7 +1336,7 @@ Rang Undang-Undang
 
 33. Fasal 34 Rang Undang-Undang ini bertujuan untuk meminda seksyen 38 Akta 504 untuk mematuhi peruntukan dalam Perjanjian Pertubuhan Perdagangan Sedunia tentang notis mengenai maklumat dan peluang mengemukakan keterangan.
 
-34. Fasal 35 Rang Undang-Undang i ni bertujuan untuk meminda seksyen 39 Akta 504 untuk meluaskan pemakaiannya. Fasal itu juga bertujuan untuk meminda perenggan 39(7)(a) Akta 504 untuk memberi Kerajaan kuasa u n t uk menolak permintaan supaya maklumat terus dirahsiakan jika Kerajaan mendapati bahawa permintaan untuk kerahsiaan tidak wajar dan pembekal maklumat itu tidak rela untuk membenarkan pendedahannya dalam bentuk am atau ringkasan. Walau apa pun, Kerajaan masih boleh menyetujui terima permintaan itu dalam hal keadaan sedemikian jika Kerajaan berpuas hati daripada sumber yang sepatutnya bahawa maklumat itu betul.
+34. Fasal 35 Rang Undang-Undang i ni bertujuan untuk meminda seksyen 39 Akta 504 untuk meluaskan pemakaiannya. Fasal itu juga bertujuan untuk meminda perenggan 39(7)(a) Akta 504 untuk memberi Kerajaan kuasa untuk menolak permintaan supaya maklumat terus dirahsiakan jika Kerajaan mendapati bahawa permintaan untuk kerahsiaan tidak wajar dan pembekal maklumat itu tidak rela untuk membenarkan pendedahannya dalam bentuk am atau ringkasan. Walau apa pun, Kerajaan masih boleh menyetujui terima permintaan itu dalam hal keadaan sedemikian jika Kerajaan berpuas hati daripada sumber yang sepatutnya bahawa maklumat itu betul.
 
 35. Fasal 36 Rang Undang-Undang ini bertujuan untuk meminda seksyen 40 Akta 504 untuk memperuntukkan bahawa cara penentusahan ketepatan maklumat yang dikemukakan semasa penyiasatan atau kajian semula pentadbiran hendaklah ditetapkan dalam peraturan-peraturan.
 
