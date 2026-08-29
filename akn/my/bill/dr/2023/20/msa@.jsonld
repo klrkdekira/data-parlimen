@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-20-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Fi (Jabatan Penyiaran Malaysia) (Pengesahan) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Fi (Jabatan Penyiaran Malaysia) (Pengesahan) 2023. Pengesahan dan tanggung rugi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta Fi 1951 [Akta 209], fi yang telah dikenakan dan dipungut oleh Jabatan Penyiaran Malaysia berkenaan dengan apa-apa pembekalan program televisyen semasa tempoh mulai 15 Mac 2001 hingga 28 Februari 2022 hendaklah disifatkan telah dikenakan dan dipungut dengan sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/20/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan atau prosiding undang-undang boleh dibawa atau dimulakan terhadap Kerajaan Malaysia, mana-mana pegawai Kerajaan Malaysia atau mana-mana orang yang bertindak di bawah arahan mana-mana pegawai Kerajaan Malaysia berkenaan dengan apa-apa fi yang dikenakan dan dipungut semasa tempoh yang disebut dalam subseksyen (1), dan jika apa-apa tindakan atau prosiding undang-undang sedemikian telah dibawa atau dimulakan, ia hendaklah dibatalkan dan dijadikan tidak sah, dan tiada pembayaran balik berkenaan dengan fi yang telah dikenakan dan dipungut sebagaimana yang dinyatakan dalam Akta ini boleh dibuat."
+      }
+    }
+  ]
+}

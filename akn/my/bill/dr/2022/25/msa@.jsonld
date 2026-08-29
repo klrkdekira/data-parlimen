@@ -1,0 +1,237 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-25-2022",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Levi Keuntungan Luar Biasa (Pindaan) 2022"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Levi Keuntungan Luar Biasa (Pindaan) 2022."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Seksyen baharu 3a dan 3b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Levi Keuntungan Luar Biasa 1998 [Akta 592], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 3 seksyen yang berikut: “Kuasa untuk melanjutkan tempoh 3a. Jika, melalui Akta ini, suatu tempoh dinyatakan yang dalamnya sesuatu perbuatan atau benda hendaklah dilakukan oleh seseorang, dan Menteri berpuas hati bahawa perbuatan atau benda itu tidak dapat disempurnakan dalam tempoh itu disebabkan oleh berlakunya kecemasan awam atau krisis kesihatan awam, Menteri boleh, mengikut terma dan syarat yang difikirkannya patut, melanjutkan tempoh untuk menyempurnakan perbuatan atau benda itu sebelum habis tempoh itu. Kuasa untuk mengubah suai terma dan syarat 3b. (1) Jika terma dan syarat dikenakan menurut Akta ini, Menteri boleh, atas nasihat Ketua Pengarah, dari semasa ke semasa mengubah suai terma dan syarat bagi maksud melaksanakan tujuan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebelum mengubah suai terma dan syarat, notis hendaklah diberikan kepada orang yang terikat dengan terma dan syarat itu menyatakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terma dan syarat sebagaimana diubah suai; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tarikh terma dan syarat sebagaimana diubah suai itu berkuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Terma dan syarat yang diubah suai tidak boleh berkuat kuasa kurang daripada empat belas hari dari tarikh notis di bawah subseksyen (2) dikeluarkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika terma dan syarat itu pada mulanya dikenakan oleh Ketua Pengarah menurut Akta ini, terma dan syarat sebagaimana diubah suai oleh Menteri hendaklah disifatkan telah dikenakan oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “ubah suai” ertinya tambah, potong atau ubah.”. Seksyen baharu 6a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut: “Ketetapan umum 6a. (1) Ketua Pengarah boleh, pada bila-bila masa, membuat suatu ketetapan umum atas pemakaian mana-mana peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh menarik balik, sama ada sepenuhnya atau sebahagiannya, apa-apa ketetapan umum yang dibuat di bawah seksyen ini.”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 11(1) Akta ibu dipinda dengan menggantikan perkataan “dalam bentuk yang ditetapkan” dengan perkataan “dalam bentuk dan mengikut cara yang ditentukan oleh Ketua Pengarah”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 14(1) Akta ibu dipinda dengan menggantikan perkataan “dalam borang yang ditetapkan” dengan perkataan “dalam bentuk dan mengikut cara yang ditentukan oleh Ketua Pengarah”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda dengan menggantikan perenggan (1)(c) dengan perenggan yang berikut: “(c) melancung atau menyebabkan dilancungkan atau memalsukan atau menyebabkan dipalsukan apa-apa dokumen yang dikehendaki atau mungkin dikehendaki di bawah Akta ini atau digunakan dalam transaksi apa-apa urusan atau perkara yang berhubungan dengan levi, atau menggunakan atau menyebabkan digunakan atau dalam apa-apa cara membantu dalam penggunaan dokumen yang dilancungkan atau dipalsukan itu;”. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan perkataan “dan” di hujung perenggan (2)(a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (2)(b)."
+      }
+    }
+  ]
+}

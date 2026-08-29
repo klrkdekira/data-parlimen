@@ -1,0 +1,99 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-26-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Antiberita Tidak Benar (Pemansuhan) 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Antiberita Tidak Benar (Pemansuhan) 2019. Pemansuhan dan kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Antiberita Tidak Benar 2018 [Akta 803] dimansuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemansuhan Akta Antiberita Tidak Benar 2018 tidak menjejaskan apa-apa perintah yang dibuat di bawah Akta yang dimansuhkan sebelum tarikh permulaan kuat kuasa Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh permulaan kuat kuasa Akta ini, apa-apa permohonan bagi suatu perintah di bawah Akta yang dimansuhkan yang dibuat sebelum tarikh permulaan kuat kuasa Akta ini atau apa-apa prosiding berkenaan dengan permohonan itu yang belum selesai di bawah Akta yang dimansuhkan boleh diteruskan seolah-olah Akta yang dimansuhkan masih berkuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/26/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh permulaan kuat kuasa Akta ini, apa-apa penyiasatan, pendakwaan atau prosiding berkenaan dengan apa-apa kesalahan di bawah Akta yang dimansuhkan yang belum selesai di bawah Akta yang dimansuhkan boleh diteruskan seolah-olah Akta yang dimansuhkan masih berkuat kuasa."
+      }
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+<!-- page 1 -->
+
+### D.R. 3/96
+
+### Naskhah Sahih—Bahasa Inggeris
+
+## RANG UNDANG-UNDANG
+
+bernama
+
+Suatu Akta untuk meminda Akta Syarikat 1965. [ ]
+
+## MAKA INILAH DIPERBUAT UNDANG-UNDANG
+
+oleh Seri Paduka Baginda Yang di-Pertuan Agong dengan nasihat dan persetujuan Dewan Negara dan Dewan Rakyat yang bersidang dalam Parlimen, dan dengan kuasa daripadanya, seperti berikut:
+
+<!-- marginal: Tajuk ringkas -->
+
+1. (1) Akta ini bolehlah dinamakan Akta Syarikat
+
+<!-- marginal: dan mula -->
+
+(Pindaan) 1996.
+
+<!-- marginal: berkuat- -->
+
+<!-- marginal: kuasa. -->
+
+(2) Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+<!-- marginal: Pindaan -->
+
+2. Akta Syarikat 1965, yang disebut "Akta ibu" dalam
+
+<!-- marginal: seksyen 14. -->
+
+Akta ini, adalah dipinda dalam perenggan 14(3)(a) dengan
+
+<!-- marginal: Akta 125. -->
+
+menggantikan perkataan "proclamation of the Yang di- Pertuan Agong" dengan perkataan "the Minister".
+
+<!-- marginal: Pindaan -->
+
+3. Seksyen 21 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 21. -->
+
+memasukkan selepas subseksyen (1) subseksyen yang berikut:
+
+" (1A) Notwithstanding subsection (1) and subject to section 33 and section 181, if a provision of the memorandum of a company could lawfully have been
+
+<!-- page 2 -->
+
+contained in the articles of the company, the company may, by special resolution, alter the memorandum—
+
+(a) by altering; or
+
+(b) by deleting,
+
+the provision, unless the memorandum itself prohibits the alteration or deletion of that provision.
+
+(1B) Nothing in subsection (1A) permits the alteration or deletion of a provision of the memorandum that relates to rights to which only members included in a particular class of members are entitled.".
+
+Pindaan
+
+4. Seksyen 37 Akta ibu adalah dipinda dengan seksyen 37. memasukkan selepas subseksyen (2) subseksyen yang berikut:
+
+" (2A) Nothing in this Division and Division 4 of this Part shall apply to an offer or invitation in respect of shares or debentures for sale to the public where the offer or invitation relates to shares or debentures that have previously been issued and the shares or debentures are of a class that are listed for quotation on a stock exchange.".
+
+Pindaan
+
+5. Subseksyen 38(lB )Akta ibu adalah dipinda— seksyen 38.
+
+(a) dengan memasukkan perkataan "or" di hujung perenggan (a);
+
+(b) dengan menggantikan perkataan "; or" yang terdapat di hujung perenggan (b) dengan noktah; dan
+
+(c) dengan memotong perenggan (c).
+
+6. Akta ibu adalah dipinda dengan memasukkan selepas baru 39B. seksyen 39A seksyen yang berikut:
+
+39B. (1) Without prejudice to subsection 37(2), "Relief from the Registrar may, on the application in writing require- by any person referred to under subsection 37(1), ments as make an order relieving him or approving any to form and content of a variation from the requirements of this Act prospectus. relating to the form and content of a prospectus.
+
+<!-- page 3 -->
+
+## SYARIKAT (PINDAAN)
+
+<!-- marginal: 3 -->
+
+(2) In making an order under subsection (1), the Registrar may impose such terms and conditions as he deems fit.
+
+(3) The Registrar shall not make an order under subsection (1) unless he is satisfied, having considered the nature and objectives of the corporation, that—
+
+(a) such relief or variation shall not cause the non-disclosure to the public of information necessary for the assessment of the investment in the shares or debentures of the corporation as the case may be; and
+
+(b) compliance with the requirements, for which such relief or variation is applied for, would impose unreasonable burden on the applicant.
+
+(4) A prospectus shall be deemed to have complied with all the requirements of this Act relating to the form and content of a prospectus if it is issued in compliance with an order made under subsection (1).".
+
+<!-- marginal: Pindaan -->
+
+7. Seksyen 42 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 42. -->
+
+(a) dengan menggantikan perenggan (2)(c) dengan perenggan yang berikut:
+
+"(c) there are also lodged with the Registrar copies verified as prescribed of any consents required by section 45 to the issue of the prospectus."; dan
+
+(b) dengan menggantikan subseksyen (4) dengan subseksyen yang berikut:
+
+" (4) A corporation to which the prospectus relates shall—
+
+(a) cause a copy of—
+
+(i) every document referred to in subsection (2)(c); and
+
+<!-- page 4 -->
+
+(ii) all material contracts referred
+
+<!-- marginal: to -->
+
+<!-- marginal: in -->
+
+<!-- marginal: the -->
+
+prospectus and, in the case of such a contract not reduced into writing, a memorandum giving full particulars thereof,
+
+verified as prescribed, to be deposited within three days after the registration of the prospectus at the registered office of the corporation and if it has no registered office in Malaysia, at the address in Malaysia specified in the prospectus; and
+
+(b) keep each such copy for a period of at least six months after the registration of the prospectus for inspection by any person without charge.".
+
+8. Akta ibu adalah dipinda dengan memasukkan selepas baru 42A. seksyen 42 seksyen yang berikut:
+
+"Supple- 42A. (1) If, after the registration of a mental prospectus, but before its issue, the person who prospectus. lodged the prospectus became aware that—
+
+(a) a significant new matter has arisen being a matter, the information of which is required by this Act or by any requirements or guidelines of any authority, to be disclosed in a prospectus;
+
+(b) there has been a significant change affecting a matter disclosed in the prospectus;
+
+(c) the prospectus contained a material statement that is false or misleading; or
+
+(d) there is a material omission from the prospectus,
+
+<!-- page 5 -->
+
+the person shall lodge with the Registrar a supplemental prospectus that contains information relating to the new matter or change or correct the false or misleading statement or omission as the case requires.
+
+(2) A supplemental prospectus shall clearly identify the prospectus to which it relates and shall contain a statement in bold or coloured print that it is a supplemental prospectus to be read in conjunction with the prospectus.
+
+(3) A supplemental prospectus shall be deemed to be part of the prospectus to which it relates and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses or otherwise relating
+
+<!-- marginal: to -->
+
+prospectuses, shall apply and have effect accordingly.
+
+(4) Where a supplemental prospectus has been lodged with the Registrar pursuant to subsection (1), every copy of the prospectus shall be issued, accompanied by a copy of the supplemental prospectus.
+
+(5) A supplemental prospectus may be lodged for the purpose of subsection (1), notwithstanding that the prospectus to which it relates has been issued, if—
+
+(a) the prospectus relates to an invitation or offer which is addressed to an identifiable category of persons to whom it is directly communicated by the person making the invitation or offer or by his appointed agent, and a copy of the supplemental prospectus is sent to each of those persons in compliance with subsection (6); or
+
+<!-- page 6 -->
+
+## RANG UNDANG-UNDANG
+
+(b) the prospectus relates to an invitation or offer to the general public and a copy of the supplemental prospectus
+
+<!-- marginal: is -->
+
+advertised in every newspaper which originally advertised the invitation or offer or calling attention to the invitation or offer in compliance with subsection (6).
+
+(6) For the purpose of subsection (5), a notice shall—
+
+(a) in the case of subsection (5)(a), be sent together with a copy of the supplemental prospectus to every person referred to in that subsection;
+
+(b) in the case of subsection (5)(b), be advertised together with the supplemental prospectus,
+
+stating—
+
+(aa) that a copy of the supplemental prospectus has been lodged with the Registrar; and
+
+(bb) that every person who has submitted his application prior to the date of the notice is entitled to withdraw his application within seven days of the date of the notice and all application money received in respect thereof will be repaid in full without penalty.
+
+(7) If default is made in complying with this section, every person who is in default shall be guilty of an offence against this Act.
+
+Penalty: Imprisonment for five years or one hundred thousand ringgit or both.".
+
+<!-- page 7 -->
+
+## SYARIKAT (PINDAAN)
+
+<!-- marginal: 7 -->
+
+<!-- marginal: Seksyen baru -->
+
+9. Akta ibu adalah dipinda dengan memasukkan selepas
+
+<!-- marginal: 47A dan 47B. -->
+
+seksyen 47 seksyen yang berikut:
+
+"Power of 47A. (1) Subject to subsection (2) the Minister Minister to may, on the application in writing by any person exempt. interested and subject to the recommendation of the Registrar, by order declare that Division 1 and Division 4 of this Part shall not apply to any person making an offer of shares or debentures to the public, either unconditionally or subject to such terms and conditions as the Minister thinks fit to impose.
+
+(2) Recommendation shall not be made by the Registrar to the Minister unless he is of the opinion that circumstances exist whereby—
+
+(a) the cost of providing a prospectus outweighs the resulting protection to investors; or
+
+(b) it would not be prejudicial to the public interest if a prospectus were dispensed with.
+
+Exempted 47B. (1) Nothing in Division 1 and Division offers. 4 of this Part shall apply to an offer of shares or debentures, whether or not they have been previously issued, made to—
+
+(a) a prescribed corporation;
+
+(b) an insurance company registered under any written law relating to insurance companies;
+
+(c) a trustee corporation;
+
+(d) a statutory body established by an Act of Parliament or an Enactment of any State;
+
+<!-- page 8 -->
+
+8
+
+## RANG UNDANG-UNDANG
+
+(e) a pension fund approved by the Director General of Inland Revenue under section Act 53. 150 of the Income Tax Act 1967;
+
+(f) a unit trust scheme as defined under Act 280. the Securities Industry Act 1983;
+
+(g) a person licensed as a dealer or investment adviser under the Securities Industry Act 1983;
+
+(h) a corporation incorporated outside Malaysia;
+
+(i) a public company which is engaged primarily in the making of investments in marketable securities for the purpose of revenue and for profit and not for the purpose of exercising control; and
+
+(j) such other person as the Minister may, by order published in the Gazette, declare to be exempt purchasers,
+
+who or which pursuant to the offer, acquires the shares or debentures as principal, trustee or agent for accounts fully managed by him or it who, for the purposes of this section, shall be deemed to be dealing as principal.
+
+(2) In this section, the term "prescribed corporation" has the same meaning as assigned to it in section 38(7).
+
+(3) Any information memorandum purporting to describe the business and affairs of the person making the offer issued by the said person or his agent shall be deemed to be a prospectus, in so far as regarding the liability of the person or his agent, for any untrue statement or non- disclosure of material information and a copy of the memorandum shall be lodged with the Registrar within seven days after it is first issued.".
+
+<!-- page 9 -->
+
+<!-- marginal: Pindaan -->
+
+10. Subseksyen 84(1) Akta ibu adalah dipinda dalam
+
+<!-- marginal: seksyen 84. -->
+
+takrif "interest"—
+
+(a) dengan memotong perkataan "or" yang terdapat di hujung perenggan (f);
+
+(b) dengan memasukkan perkataan "or" di hujung subperenggan (g)(ii); dan
+
+(c) dengan memasukkan selepas perenggan (g) perenggan yang berikut:
+
+(h) any participatory interest in a unit trust scheme as defined in section 2 of the Act 280. Securities Industry Act 1983;".
+
+<!-- marginal: Pindaan -->
+
+11. Seksyen 121 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 121. -->
+
+(a) dalam subseksyen (1) dengan menggantikan perkataan "The name of a company shall (whether or not it is carrying on business under a business name) appear in legible romanised letters on - " dengan perkataan "The name of the company (whether or not it is carrying on business under a business name) in legible romanised letters and the company number of the company shall appear on - "; dan
+
+(b) dengan memasukkan selepas subseksyen (3) subseksyen yang berikut:
+
+" (4) In this section, "company number" means the number allocated by the Registrar to a company on
+
+<!-- marginal: its -->
+
+incorporation.".
+
+<!-- marginal: Pindaan -->
+
+12. Seksyen 132D Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 132D. -->
+
+memasukkan selepas subseksyen (6) subseksyen yang berikut:
+
+"(6A) Notwithstanding subsection (1), the directors of a company shall not be required to obtain the prior approval of the company in a general meeting to issue shares where the said shares are to be issued as consideration or part consideration for the
+
+<!-- page 10 -->
+
+acquisition of shares or assets by the company and members of the company have been notified of the intention to issue the said shares at least fourteen days before the date of the issue of the said shares.
+
+(6B) For the purpose of subsection (6A), members of the company are deemed to have been notified of the intention to issue shares of the company if—
+
+(a) a copy of the statement explaining the purpose of the intended issue of shares has been sent to every member at his last known address according to the register of members; and
+
+(b) the copy of the statement has been advertised in a national language and an English language newspaper circulating generally throughout Malaysia.".
+
+Pindaan
+
+13. Subseksyen 164(8) Akta ibu adalah dipinda dengan seksyen 164. menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
+
+Pindaan
+
+14. Seksyen 194 Akta ibu adalah dipinda dalam takrif seksyen 194. "declared company" dengan menggantikan perkataan "Yang di-Pertuan Agong". dengan perkataan "Minister".
+
+Pindaan
+
+15. Seksyen 195 Akta ibu adalah dipinda dengan seksyen 195. menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
+
+Pindaan
+
+16. Seksyen 210 Akta ibu adalah dipinda dengan seksyen 210. menggantikan perkataan "Yang di-Pertuan Agong" di mana-mana jua terdapat dengan perkataan "Minister".
+
+Pindaan
+
+17. Seksyen 319 Akta ibu adalah dipinda dengan seksyen 319. menggantikan perkataan "Yang di-Pertuan Agong" di mana-mana jua terdapat dengan perkataan "Minister".
+
+Pindaan
+
+18. Perenggan 324(b) Akta ibu adalah dipinda dengan seksyen 324. menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
+
+<!-- page 11 -->
+
+<!-- marginal: Pindaan -->
+
+19. Seksyen 338 Akta ibu adalah dipinda—
+
+<!-- marginal: seksyen 338. -->
+
+(a) dalam perenggan (1)(b) dengan memasukkan selepas perkataan "name" perkataan ", company number"; dan
+
+(b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
+
+"(3) In this section, "company number" means the number allocated by the Registrar to a foreign company on its registration."
+
+<!-- marginal: Pindaan -->
+
+20. Seksyen 373 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 373. -->
+
+menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister".
+
+<!-- marginal: Pindaan -->
+
+21. Seksyen 374 Akta ibu adalah dipinda dengan
+
+<!-- marginal: seksyen 374. -->
+
+menggantikan perkataan "Yang di-Pertuan Agong" dengan perkataan "Minister"
+
+## HURAIAN
+
+Rang Undang-Undang ini bertujuan meminda Akta Syarikat 1965 ("Akta").
+
+2. Fasal 1 memperkatakan tajuk ringkas dan tarikh mula berkuatkuasanya Rang Undang-Undang ini.
+
+3. Fasal 2 bertujuan meminda seksyen 14 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan sesuatu profesion atau pekerjaan sebagai profesion atau pekerjaan yang pada kebiasaannya tidak dijalankan oleh syarikat yang diperbadankan di bawah Akta.
+
+4. Fasal 3 bertujuan meminda seksyen 21 Akta untuk membolehkan syarikat mengubah atau memotong peruntukan dalam memorandum syarikat yang boleh secara sah terkandung dalam perkara persatuan.
+
+5. Fasal 4 bertujuan meminda seksyen 37 Akta untuk mengecualikan tawaran atau jemputan saham atau debentur yang telah diterbitkan dan disebut harga dalam bursa saham kepada orang awam daripada keperluan mematuhi Penggal 1 dan Penggal 4 Bahagian IV.
+
+<!-- page 12 -->
+
+6. Fasal 5 bertujuan memotong perenggan 38(lB)(c) Akta berbangkit daripada kemasukan seksyen baru 47B.
+
+7. Fasal 6 bertujuan memasukkan seksyen baru 39B untuk memberi Pendaftar kuasa memberi pelepasan atau meluluskan perubahan daripada kehendak Akta tentang bentuk dan kandungan prospektus.
+
+8. Fasal 7 bertujuan meminda seksyen 42 Akta untuk mengeluarkan kehendak bagi suatu syarikat menyerah-simpan salinan kontrak material dengan Pendaftar bagi maksud pendaftaran prospektus dan untuk syarikat menyelenggarakan salinan kontrak itu di pejabat berdaftarnya atau di mana-mana tempat lain yang dinyatakan dalam prospektus.
+
+9. Fasal 8 bertujuan memasukkan seksyen baru 42A untuk mengenakan kehendak atas seseorang untuk menyerah-simpan prospektus tambahan dengan Pendaftar dalam hal terdapat apa-apa perkara baru, ketinggalan atau pertukaran yang bererti yang dijumpai atau yang berlaku selepas pendaftaran prospektus.
+
+10. Fasal 9 bertujuan memasukkan seksyen baru 47A dan 47B. Seksyen baru 47A memberi Menteri kuasa untuk mengecualikan mana-mana orang daripada keperluan mematuhi Penggal 1 dan Penggal 4 Bahagian IV Akta apabila membuat tawaran saham atau debentur kepada orang awam. Seksyen baru 47B mengecualikan tawaran saham dan debentur daripada keperluan mematuhi Penggal 1 dan Penggal 4 Bahagian IV Akta jika ia dibuat kepada orang yang disebut dalam seksyen itu.
+
+11. Fasal 10 bertujuan meminda seksyen 84 Akta u n t uk mengeluarkan kepentingan penyertaan dalam skim amanah unit sebagai suatu kepentingan di bawah seksyen itu.
+
+12. Fasal II bertujuan meminda seksyen 121 Akta untuk menghendaki tiap-tiap syarikat untuk juga menyatakan nombor syarikatnya sebagai tambahan kepada namanya pada meterainya dan tiap-tiap dokumen perniagaan, notis, dsb.
+
+13. Fasal 12 bertujuan meminda seksyen 132D Akta untuk membolehkan pengarah syarikat menerbitkan saham, tanpa kelulusan terdahulu syarikat dalam mesyuarat am, jika saham tersebut akan diterbitkan sebagai balasan atau sebahagian balasan bagi pemerolehan saham atau aset oleh syarikat itu dan anggota syarikat itu telah diberitahu mengenai niat untuk menerbitkan saham tersebut sekurang- kurangnya 14 hari sebelum tarikh terbitan itu.
+
+14. Fasal 13 bertujuan meminda seksyen 164 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan peruntukan tertentu Akta yang berhubungan dengan pemeriksaan, tempat penyimpanan dan pembetulan daftar anggota sebagai terpakai kepada daftar cawangan syarikat asing.
+
+<!-- page 13 -->
+
+## SYARIKAT (PINDAAN)
+
+<!-- marginal: 13 -->
+
+15. Fasal 14 bertujuan meminda seksyen 194 Akta untuk menukar takrif ungkapan "declared company" berbangkit daripada pindaan kepada seksyen 195.
+
+16. Fasal 15 bertujuan meminda seksyen 195 Akta u n t uk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan suatu syarikat atau suatu syarikat asing yang kepadanya Bahagian IX Akta, berhubungan dengan penyiasatan, terpakai.
+
+17. Fasal 16 bertujuan meminda seksyen 210 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan seorang inspektor yang dilantik bagi suatu syarikat di bawah undang-undang negeri lain yang bersamaan sebagai mempunyai kuasa yang sama seperti inspektor yang dilantik bagi suatu syarikat yang diisytiharkan.
+
+18. Fasal 17 bertujuan meminda seksyen 319 Akta u n t uk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk mengisytiharkan suatu syarikat sebagai suatu syarikat pelaburan mengikut erti Penggal 1 Bahagian XI.
+
+19. Fasal 18 bertujuan meminda seksyen 324 Akta u n t uk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk menyatakan saham dalam atau debentur perbadanan pelaburan asing tertentu sebagai pelaburan dilarang bagi suatu syarikat pelaburan.
+
+20. Fasal 19 bertujuan meminda seksyen 338 Akta untuk menghendaki tiap-tiap syarikat asing untuk juga menyatakan nombor syarikatnya sebagai tambahan kepada namanya dan tempat perbadanannya atas tiap-tiap dokumen perniagaannya, notis, dsb..
+
+21. Fasal 20 bertujuan meminda seksyen 373 Akta u n t uk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk membuat peraturan-peraturan.
+
+22. Fasal 21 bertujuan meminda seksyen 374 Akta untuk memindahkan kepada Menteri kuasa Yang di-Pertuan Agong untuk meminda semua Jadual kepada Akta.
+
+## IMPL1KASI KEWANGAN
+
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan wang tambahan. [PN. (U2) 1825.]

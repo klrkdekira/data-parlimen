@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-43-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply Bill 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supply Act 2008. Issue and appropriation for the service of the year 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding one hundred and five billion five hundred and seventy-five million and one hundred and forty thousand ringgit (RM105,575,140,000) from the Consolidated Fund for the service of the year 2008 is hereby authorized, and that sum is appropriated for purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/43/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Amount Purpose Title (RM) 1 1 Parliament 76,714,000 5 1 2 Office of the Keeper of the Rulers' Seal 1,893,000 5 B 3 Audit Department 114,077,000 . B 4 Election Commission 38,811,000 . B 5 Public Services Commission 46,119,000 . B 6 Prime Minister's Department 3,423,676,000 . B 7 Public Services Department 1,324,909,000 . 1 8 Attorney General's Chambers 121,728,000 5 B 9 Anti-Corruption Agency 146,727,000 . B 10 Treasury 2,122,220,000 . B 11 Treasury General Services 15,156,686,000 . B 12 Contribution to Statutory Funds 4,482,600,000 . B 13 Ministry of Foreign Affairs 496,711,000 . B 20 Ministry of Plantation Industries and Commodities 218,169,000 . B 21 Ministry of Agriculture and Agro-based Industry 2,172,363,000 . B 22 Ministry of Rural and Regional Development 1,009,980,000 . B 23 Ministry of Natural Resources and Environment 960,791,000 . B 24 Ministry of International Trade and Industry 455,102,000 . B 25 Ministry of Domestic Trade and Consumer Affairs 403,903,000 . B 26 Ministry of Entrepreneurial and Co-operative Development 2,126,521,000 . B 27 Ministry of Works 1,705,110,000 . B 28 Ministry of Transport 876,408,000 . B 29 Ministry of Energy, Water and Communications 97,711,000 . B 30 Ministry of Science, Technology and Innovations 652,794,000 . B 31 Ministry of Tourism 626,554,000 . B 32 Ministry of the Federal Territories 226,596,000 . B 40 Education Service Commission 15,492,000 . B 41 Ministry of Education 26,028,793,000 . B 42 Ministry of Health 10,679,587,000 . B Ministry of Housing and Local Government 974,526,000 43 . B Ministry of Culture, Arts and Heritage 507,242,000 44 . Ministry of Youth and Sports 431,083,000 B 45 . Ministry of Human Resources 560,803,000 B 46 . Ministry of Information 1,058,585,000 B 47 . Ministry of Women, Family and Community Development 663,960,000 B 48 . Purpose Title B. 49 Ministry of Higher Education 8,813,600,000 9,839,596,000 B. 60 Ministry of Defence 1,099,224,000 B. 61 Ministry of Home Affairs 5,817,776,000 B. 62 Ministry of Internal Security TOTAL 105,575,140,000"
+      }
+    }
+  ]
+}

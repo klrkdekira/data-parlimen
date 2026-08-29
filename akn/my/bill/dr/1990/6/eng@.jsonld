@@ -1,0 +1,177 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-6-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Goods Vehicle Levy (Amendment) Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Goods Vehicle Levy (Amendment) Act 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the Goods Vehicle Levy Act 1983,"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "which in this Act is referred to as \"the principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of the definition of \"goods vehicle\", a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the definition of \"goods vehicle\", the following new definition: ' \"proper officer of customs\" shall have the same meaning as assigned to that Act 235. expression in the Customs Act 1967.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the words \"a levy\", the words \"of one hundred ringgit\" in subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting the words \"fix the amount to be levied under this Act and may, from time to time, amend such amount\" in subsection (2) with the words \"vary, from time to time, the amount of the goods vehicle levy provided under subsection ( I )."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All goods vehicle levies charged and levied under the principal Act before the commencement of this Act are hereby validated and deemed to have been lawfully charged and levied pursuant to subsection (1) of section 3 of the principal Act as amended by subsection (1) (a) of this section, as if the said subsection (1) (a) had been in force when the same were charged and levied. Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended by of section 4. renumbering it as \"4. (1)\" and inserting immediately thereafter, the following new subsection (2): \"(2) The Minister may, if he is satisfied that it would be just and proper to do so, in the case of any particular goods vehicle or class of goods vehicle, direct the refund of the whole or any part of the goods vehicle levy paid pursuant subsection (4) of section 3 during such period as he may specify in the direction, and, in directing such refund, impose such conditions as he may deem fit\". New"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting section 4A. immediately after section 4, the following new section 4A: \"Return 4A. It shall be lawful for the Director of goods General, if it is proved to his satisfaction that vehicle levy over- any money has been overpaid or erroneously paid or paid as goods vehicle levy under this Act, to erroneously order the refund of the money so overpaid or paid. erroneously paid: Provided that no such refund shall be allowed unless a claim in respect thereof is made within one year after the overpayment or erroneous payment was made.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/6/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "subsection (2) of section 7, the following new subsection (2): \"(2) Any proper officer of customs shall, in addition to the duties and powers conferred Act 235. on him under the Customs Act 1967, have all the duties and powers to enforce and ensure due compliance with the provisions of this Act, including the conduct of prosecution of any offence under this Act.\"."
+      }
+    }
+  ]
+}

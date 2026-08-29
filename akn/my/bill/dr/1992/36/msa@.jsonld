@@ -1,0 +1,100 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-36-1992",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kemajuan Petroleum (Pindaan) 1992"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_1__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "( I) Akta ini bolehlah dinamakan Akta Kemajuan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Petroleum (Pindaan) 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuatkuasa pada t a r i kh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_2__subsec_3B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta Kemajuan Petroleum 1974 adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dipinda dengan memasukkan, selepas sahaja subseksyen"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": ", subseksyen baru (3A) dan (3e) yang berikut: \"(3A) Subseksyen (3) tidak boleh terpakai bagi mana-mana orang yang dilesenkan di Akta bawah Akta Bekalan Gas 1992 u n t uk membekalkan gas kepada pengguna-pengguna melalui talian paip."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_2__subsec_3B",
+      "@type": "akn:subsection",
+      "eli:number": "3B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/36/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (3A), istilah \"gas\", \"penggur.a\" dan \"talian paip\" hendaklah mempunyai rnakna yang sama yang diberikan kepadanya masing-masing oleh Akta Bekalan Gas 1992.\"."
+      }
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-23-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kanun Keseksaan (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kanun Keseksaan (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Seksyen baharu 424a, 424b, 424c dan 424d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kanun Keseksaan [Akta 574] dipinda dengan memasukkan selepas seksyen 424 seksyen yang berikut: “Possession or control of payment instrument or account 424a. Whoever, without lawful authority or lawful purpose, has in his possession or control any payment instrument of other person or any account of other person at a financial institution, shall be punished with fine of not less than five thousand ringgit but not exceeding fifty thousand ringgit or with imprisonment for a term of not less than six months but not exceeding five years or with both. Giving possession or control of payment instrument or account to other person 424b. Whoever, directly or indirectly, without lawful authority or lawful purpose, gives possession or control of his payment instrument or his account at a financial institution to any other person, shall be punished with fine of not less than ten thousand ringgit but not exceeding one hundred thousand ringgit or with imprisonment for a term of not less than one year but not exceeding seven years or with both. Engaging in transaction in payment instrument or account 424c. (1) Whoever, directly or indirectly, without lawful purpose, engages in any transaction using his payment instrument or his account at a financial institution, shall be punished with imprisonment for a term of not less than three years but not exceeding ten years or with fine of not less than ten thousand ringgit but not exceeding one hundred and fifty thousand ringgit or with both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Whoever, directly or indirectly, without lawful authority or lawful purpose, engages in any transaction using any payment instrument of other person or any account of other person at a financial institution, shall be punished with imprisonment for a term of not less than three years but not exceeding ten years or with fine of not less than ten thousand ringgit but not exceeding one hundred and fifty thousand ringgit or with both. Definition of “financial institution” and “payment instrument” 424d. For the purposes of sections 424a, 424b and 424c—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“financial institution” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "a licensed bank under the Financial Services Act 2013 [Act 758];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "a licensed Islamic bank under the Islamic Financial Services Act 2013 [Act 759]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "a prescribed institution under the Development Financial Institutions Act 2002 [Act 618]; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“payment instrument” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "a prescribed designated payment instrument under the Financial Services Act 2013; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/msa@/~cl_2__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "a prescribed designated Islamic payment instrument under the Islamic Financial Services Act 2013.”."
+      }
+    }
+  ]
+}

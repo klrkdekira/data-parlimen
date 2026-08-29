@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-37-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perbekalan 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan 2002. Pengeluaran dan peruntukan untuk perkhidmatan bagi tahun 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengeluaran sejumlah wang yang tidak melebihi empat puluh sembilan bilion sembilan ratus lapan juta tujuh ratus tujuh puluh dua ribu lima ratus dua puluh ringgit (RM49,908,772,520) daripada Kumpulan Wang Disatukan untuk perkhidmatan bagi tahun 2002 adalah dengan ini dibenarkan, dan jumlah wang itu diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk B. 1 Parlimen B. 2 Pejabat Penyimpan Mohor Besar Raja-Raja B. 3 Jabatan Audit B. 4 Suruhanjaya Pilihan Raya B. 5 Suruhanjaya Perkhidmatan Awam B. 6 Suruhanjaya Perkhidmatan Pendidikan B. 7 Jabatan Perdana Menteri B. 8 Jabatan Perkhidmatan Awam B. 9 Jabatan Perangkaan B. 10 Jabatan Peguam Negara B. 11 Badan Pencegah Rasuah B. 12 Pejabat Setiausaha Persekutuan Sabah B. 13 Pejabat Setiausaha Persekutuan Sarawak B. 14 Kementerian Perumahan dan Kerajaan Tempatan B. 15 Jabatan Perancangan Bandar dan Desa B. 16 Jabatan Bomba dan Penyelamat B. 17 Kementerian Belia dan Sukan B. 18 Kementerian Perusahaan Utama B. 19 Kementerian Pertanian B. 20 Kementerian Perdagangan Antarabangsa dan Industri B. 21 Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna B. 22 Kementerian Kebudayaan, Kesenian dan Pelancongan B. 23 Jabatan Arkib Negara B. 24 Jabatan Muzium dan Antikuiti B. 25 Kementerian Pertahanan B. 26 Kementerian Pendidikan B. 27 Jabatan Perpustakaan Negara B. 28 Perbendaharaan B. 29 Perkhidmatan Am Perbendaharaan Maksttd Tajuk B. 30 Peruntukan kepada Kumpulan Wang Terkanun B. 31 Jabatan Kastam dan Eksais Diraja B. 32 Jabatan Penilaian dan Perkhidmatan Harta B. 33 Kementerian Kerja Raya B. 34 Kementerian Kesihatan B. 35 Kementerian Dalam Negeri B. 36 Kementerian Luar Negeri B. 37 Kementerian Tenaga, Komunikasi dan Multimedia B. 38 Kementerian Pengangkutan B. 39 Kementerian Pembangunan Usahawan B. 40 Kementerian Pembangunan Luar Bandar B. 41 Kementerian Pembangunan Wanita dan Keluarga B. 42 Kementerian Perpaduan Negara dan Pembangunan Masyarakat B. 43 Kemenrerian Tanah dan Pembangunan Koperasi ,B. 44 Kementerian Penerangan B. 45 Kementerian Sumber Manusia B. 46 Kementerian Sains. Teknologi dan Alam Sekitar JUMLAH"
+      }
+    }
+  ]
+}

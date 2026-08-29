@@ -1,0 +1,130 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-30-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (1990 and 1991) (No. 2) Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (1990 and 1991) (No. 2) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is authorised of a sum not exceeding five million two hundred and twenty seven thousand and three hundred ringgit ($5,227,300) from the Consolidated Fund for expenditure on the services specified in the First Schedule for the service of the year 1990, not provided for or not fully provided for by the Supply Act 1990, the Supplementary Supply (1989 and 1990) Act 1990 the Supplementary Supply (1989 and 1990) (No. 2) Act 1990 and the Supplementary Supply (1990 and 1991) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The said sum is appropriated for the purposes specified in the First Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is authorised of a sum not exceeding four hundred and ninety one million five hundred thirty seven thousand and six hundred ringgit ($491,537,600) from the Consolidated Fund for expenditure on the services specified in the Second Schedule for the service of the year 1991, not provided for or not fully provided for by the Supply Act 1991 and the Supplementary Supply (1990 and 1991) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The said sum is appropriated for the purposes specified in the Second Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) Purpose Title Appropriation to purpose B. 26 Ministry of Education 92,600 B. 27 Ministry of Foreign Affairs 3,334,900 B. 43 Civil Defence Department 800 B. 59 National Unity Department 1,799,000 TOTAL 5,227,300"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 3) Purpose Title Appropriation to purpose B. 7 Prime Minister's Department 40,000,000 B. 14 Ministry of Housing and Local 483,800 Government B. 20 Ministry of International Trade 10,674,700 and Industry B. 26 Ministry of Education 150,000,000 B. 28 Treasury 20,513,700 B. 36 Royal Malaysia Police 32,179,100 B. 39 National Registration Department 2,399,200 B. 47 Ministry of Transport 1,587,100 B. 52 Ministry of Works 213,700,000 B. 56 Ministry of National Unity and 20,000.000 Social Development TOTAL 491,537,600 (1990 AND 1991) (NO. 2)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-27-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Relif Spesifik (Pindaan) 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Relif Spesifik"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pindaan) 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Relif Spesifik 1950 adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan seksyen 7 dengan yang berikut: \"Mendapat- 7. (1) Tertakluk kepada subseksyen (2), kan kembali seseorang yang berhak kepada pemilikan harta harta tak alih tak alih Spesifik boJeh mendapatkannya kembali spesifik. dengan cara yang ditetapkan oleh undang- undang yang berhubungan dengan prosedur sivil."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika sesuatu harta tak alih Spesifik telah disewakan menurut sesuatu penyewaan, dan penyewaan itu ditamatkan atau telah berakhir, tetapi penghuni itu masih terus menduduki harta itu atau bahagiannya, maka orang yang berhak kepada pemilikan harta itu tidaklah boleh menguatkuasakan haknya untuk mendapat- kannya kembali terhadap penghuni melainkan dengan presiding di mahkamah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam subseksyen (2) \"penghuni\" ertinya mana-mana orang yang secara sahnya men- duduki harta itu atau bahagiannya pada masa penamatan penyewaan itu.\"."
+      }
+    }
+  ]
+}

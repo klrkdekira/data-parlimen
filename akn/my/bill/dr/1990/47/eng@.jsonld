@@ -1,0 +1,88 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-47-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supply Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding twelve thousand eight hundred and six million seven hundred and five thousand four hundred and ninety ($12,806,705,490) out of the Consolidated Fund for the service of the year 1991 is hereby authorised."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The sum authorised to be issued by this Act and the sum of six thousand and three million four hundred and thirty six thousand and twenty ($6,003,436,020), being the amount of expenditure authorised by section 2 of the Consolidated Fund (Expenditure on Account) Act 1990, amounting in the aggregate to eighteen thousand eight hundred and ten million one hundred and forty one thousand five hundred and ten ringgit ($18,810,141,510) are hereby appropriated and shall be deemed to have been appropriated as from the date of coming into force of the Consolidated Fund (Expenditure on Account) Act 1990 for the purposes specified in the Schedule. BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. 1 ... Parliament $ B. 2 ... Office of the Keeper of Rulers' Seal B. 3 ... Audit Department B. 4 ... Election Commission B. 5 ... Public Services Commission B. 6 ... Education Service Commission B. 7 ... Prime Minister's Department B. 8 ... Public Services Department B. 9 ... Statistics Department B. 10 ... Attorney General's Chambers B. 11 ... Anti-Corruption Agency B. 12 ... Office of the Federal Secretary Sabah B. 13 ... Office of the Federal Secretary Sarawak B. 14 ... Ministry of Housing and Local Government B. 15 ... Town and Country Planning Department B. 16 ... Fire Services Department B. 17 ... Ministry of Youth and Sports B. 18 ... Ministry of Primary Industries B. 19 ... Ministry of Agriculture B. 20 ... Ministry of International Trade and Industry B. 21 ... Ministry of Domestic Trade and Consumer Affairs B. 22 ... Ministry of Culture, Arts and Tourism B. 23 ... Department of the National Archives B. 24 ... National Museum B. 25 ... Ministry of Defence B. 26 ... Ministry of Education SUPPLY Purpose Title B. 27 ... Department of National Library $ B. 28 ... Treasury B. 29 ... Treasury General Services B. 30 ... Contribution to Statutory Funds B. 31 ... Royal Customs and Excise Department B. 32 ... Inland Revenue Department B. 33 ... Ministry of Public Enterprises B. 34 ... Ministry of Health B. 35 ... Ministry of Home Affairs B. 36 ... Royal Malaysia Police B. 37 ... Immigration Department B. 38 ... Registration of Societies Depart- ment B. 39 ... National Registration Depart- ment B. 40 ... Prisons Department B. 41 ... Civil Defence Department B. 42 ... National Printing Department B. 43 ... Ministry of Justice B. 44 ... Ministry of Information B. 45 ... Ministry of Human Resources B. 46 ... Ministry of Science, Technology and Environment B. 47 ... Ministry of Transport B. 48 ... Civil Aviation Department B. 49 ... Ministry of Energy, Telecom- munications and Posts B. 50 ... Postal Services Department B. 51 ... Ministry of External Affairs B. 52 ... Ministry of Works B. 53 ... Ministry of Land and Co-opera- tive Development BILL Purpose Title B. 54 ... Ministry of Rural Development B. 55 ... Department of Orang Asli Affairs B. 56 ... Ministry of National Unity and Social Development B. 57 ... Department of National Unity TOTAL ..."
+      }
+    }
+  ]
+}

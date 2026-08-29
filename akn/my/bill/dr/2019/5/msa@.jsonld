@@ -1,0 +1,627 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-5-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Cukai Jualan (Pindaan) 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 101 seksyen yang berikut: “Penyampaian saman 101a. (1) Tiap-tiap saman yang dikeluarkan oleh suatu mahkamah terhadap mana-mana orang yang berkaitan dengan apa-apa prosiding sivil atau jenayah di bawah Akta ini boleh disampaikan kepada orang yang dinamakan di dalamnya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menghantarserahkan saman itu kepada orang itu atau mana-mana anggota keluarganya yang dewasa atau mana-mana pekerjanya yang tinggal bersamanya di tempat tinggal biasanya atau yang terakhir diketahui;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan meninggalkan saman itu di tempat tinggal atau perniagaan biasanya atau yang terakhir diketahui dalam suatu sampul yang dialamatkan kepada orang itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menghantar saman itu melalui pos berdaftar yang dialamatkan kepada orang itu ke tempat tinggal atau perniagaan biasanya atau yang terakhir diketahui; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika orang itu ialah suatu syarikat, perkongsian liabiliti terhad, firma, pertubuhan, persatuan atau kumpulan orang lain—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menghantarserahkan saman itu kepada setiausaha atau pegawai lain yang seumpamanya bagi syarikat, perkongsian liabiliti terhad, firma, pertubuhan, persatuan atau badan orang lain itu di pejabat berdaftar atau tempat perniagaan utamanya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menghantar saman itu melalui pos berdaftar yang dialamatkan kepada syarikat, perkongsian liabiliti terhad, firma, pertubuhan, persatuan atau badan orang lain itu ke pejabat berdaftar atau tempat perniagaan utamanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa saman yang dihantar melalui pos berdaftar kepada mana-mana orang mengikut subseksyen (1) atau dengan menghantarserahkan saman itu kepada orang itu atau kepada mana-mana anggota keluarganya yang dewasa atau mana-mana pekhidmatnya yang tinggal bersamanya hendaklah disifatkan telah disampaikan kepada orang itu dengan sewajarnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu saman yang dikeluarkan oleh mahkamah disampaikan, suatu afidavit penyampaian yang berupa sebagai telah dibuat di hadapan seorang pegawai yang diberi kuasa sewajarnya untuk mengendalikan sumpah hendaklah diterima sebagai keterangan.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Jualan (Pindaan) 2019."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Jualan 2018 [Akta 806], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “kawasan ditetapkan”, dengan menggantikan perkataan “dan Tioman” dengan perkataan “, Tioman dan Pangkor”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “kawasan khas”, dengan menggantikan perkataan “dan Kawasan Pembangunan Bersama” dengan perkataan “Kawasan Pembangunan Bersama, dan pangkalan bekalan petroleum yang dilesenkan di bawah seksyen 77b Akta Kastam 1967”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “orang kena cukai” takrif yang berikut: ‘ “Pangkor” ertinya Pulau Pangkor, Pulau Mentagor, Pulau Giam, Pulau Simpan, Pulau Tukun Terindak, Pulau Pelanduk, Pulau Anak Pelanduk, Pulau Landak, Batu Orang Tua dan Batu Jambal;’. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan perenggan 3(1)(b) dengan perenggan yang berikut: “(b) berhubung dengan petroleum, proses penapisan yang termasuk pemisahan, penukaran, penulenan dan pengadunan aliran penapisan atau aliran petrokimia.”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 9(2) Akta ibu dipinda dengan menggantikan perkataan “nilai jualan” dengan perkataan “nilai”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula subseksyen (8) yang sedia ada sebagai subseksyen (9);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula subseksyen (9) yang sedia ada sebagai subseksyen (8);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (10)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (8)” dengan perkataan “subseksyen (9)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “perenggan 9(c)” dengan perkataan “perenggan 8(c)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (11)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Mahkamah” dengan perkataan “Sebagai tambahan kepada apa-apa denda yang dikenakan oleh mahkamah di bawah subseksyen (9), mahkamah”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (8)” dengan perkataan “subseksyen (9)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (9)” dengan perkataan “subseksyen (8)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (12)— Seksyen baharu 27a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (8)” dengan perkataan “subseksyen (9)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (9)” di mana-mana jua terdapat dengan perkataan “subseksyen (8)”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 27 seksyen yang berikut: “Mengimbangi cukai belum bayar terhadap pembayaran balik atau pulang balik 27a. Walau apa pun apa-apa peruntukan Akta ini, jika mana-mana orang tidak membayar, secara keseluruhannya atau sebahagiannya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa amaun cukai jualan yang genap masa dan kena dibayar, apa-apa surcaj terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa amaun cukai jualan yang genap masa dan kena dibayar, apa-apa surcaj terakru, atau apa-apa penalti atau wang lain yang kena dibayar di bawah Akta Cukai Jualan 1972 [Akta 64];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa amaun cukai perkhidmatan yang genap masa dan kena dibayar, apa-apa surcaj terakru, atau apa-apa penalti atau apa-apa wang yang kena dibayar di bawah Akta Cukai Perkhidmatan 1975 [Akta 151];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa amaun cukai perkhidmatan yang genap masa dan kena dibayar, apa-apa surcaj terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar di bawah Akta Cukai Perkhidmatan 2018 [Akta 807];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa amaun cukai barang dan perkhidmatan yang genap masa dan kena dibayar, apa-apa surcaj terakru, atau apa-apa penalti atau wang lain yang kena dibayar di bawah Akta Cukai Barang dan Perkhidmatan 2014 [Akta 762];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa amaun duti kastam, atau apa-apa surcaj terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar di bawah Akta Kastam 1967; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa amaun duti eksais, atau apa-apa surcaj terakru, atau apa-apa penalti, fi atau wang lain yang kena dibayar di bawah Akta Eksais 1976, Ketua Pengarah boleh mengimbangkan, terhadap amaun yang masih belum dibayar yang disebut dalam perenggan (a), (b), (c), (d), (e), (f) dan (g), apa-apa amaun atau mana-mana bahagian daripada apa-apa amaun pembayaran balik atau pulang balik yang kena dibayar kepada orang itu dan Ketua Pengarah hendaklah menganggap amaun yang diimbangkan itu sebagai pembayaran atau sebahagian pembayaran yang diterima daripada orang itu.”. Pindaan seksyen 41a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 41a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Permohonan untuk pemotongan cukai jualan oleh pengilang berdaftar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) apa-apa peratusan cukai jualan untuk dipotong berkenaan dengan barang bercukai yang dibeli oleh mana-mana pengilang berdaftar;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “komponen atau bahan pembungkusan” dengan perkataan “komponen, atau bahan bungkusan dan pembungkusan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “ (2 a) Seorang pengilang berdaftar boleh membuat permohonan kepada Ketua Pengarah untuk suatu pemotongan amaun cukai jualan yang telah dibayar dalam bentuk dan cara sebagaimana yang ditetapkan di bawah subseksyen (1). (2b) Jika Ketua Pengarah meluluskan permohonan untuk pemotongan cukai jualan di bawah subseksyen (2a), pemotongan itu hendaklah mengikut peratusan dan syarat yang ditetapkan oleh Menteri di bawah subseksyen (1).”. Seksyen baharu 84a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 84 seksyen yang berikut: “Pemenjaraan kerana tidak membayar denda 84a. Walau apa pun seksyen 283 dan 284 Kanun Tatacara Jenayah, tempoh pemenjaraan yang dikenakan oleh mana-mana mahkamah berkenaan dengan apa-apa denda yang tidak dibayar di bawah Akta ini, atau berkenaan dengan keingkaran suatu distres yang mencukupi untuk membayar apa-apa denda sedemikian, adalah apa-apa tempoh dalam apa-apa perihalan, yang pada pendapat mahkamah akan mencapai keadilan bagi kes itu, tetapi tidak boleh dalam mana-mana hal melebihi tempoh maksimum seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika denda tidak melebihi lima ribu ringgit, tempoh maksimum hendaklah dua bulan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika denda melebihi lima ribu ringgit tetapi tidak melebihi sepuluh ribu ringgit, tempoh maksimum hendaklah empat bulan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika denda melebihi sepuluh ribu ringgit tetapi tidak melebihi dua puluh ribu ringgit, tempoh maksimum hendaklah enam bulan, dengan dua bulan tambahan untuk setiap sepuluh ribu ringgit selepas dua puluh ribu ringgit pertama denda itu.”. Seksyen baharu 86a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 86 seksyen yang berikut: “Pengelakan cukai jualan atas barang bercukai yang diimport 86a. (1) Mana-mana orang yang, dengan niat untuk mengelak atau untuk membantu mana-mana orang lain mengelak cukai jualan ke atas pengimportan barang bercukai melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melakukan kesalahan di bawah subseksyen (1) hendaklah, apabila disabitkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bertanggungan bagi kesalahan pertama, dengan denda tidak kurang daripada sepuluh kali amaun cukai jualan atau lima puluh ribu ringgit, mengikut mana-mana amaun yang lebih tinggi, dan tidak lebih daripada dua puluh kali ganda amaun cukai jualan atau lima ratus ribu ringgit, mengikut mana-mana yang lebih tinggi, atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/5/msa@/~cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bertanggungan bagi kesalahan kedua atau apa-apa kesalahan selanjutnya, dengan denda tidak kurang daripada dua puluh kali amaun cukai jualan atau satu ratus ribu ringgit, mengikut mana-mana amaun yang lebih tinggi, dan tidak lebih daripada empat puluh kali amaun cukai jualan atau satu juta ringgit, mengikut mana-mana yang lebih tinggi, atau dipenjarakan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya.”. Seksyen baharu 101a"
+      }
+    }
+  ]
+}

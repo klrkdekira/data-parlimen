@@ -1,0 +1,641 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-35-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kualiti Alam Sekeliling (Pindaan) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun dan boleh juga dikenakan denda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi sepuluh juta ringgit.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada satu ratus ribu ringgit dan tidak melebihi sepuluh juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi sepuluh juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Penggantian seksyen 29a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 29 a dengan seksyen yang berikut: “Larangan atas pembakaran terbuka 29a. (1) Walau apa pun apa-apa yang berlawanan yang terkandung dalam Akta ini, tiada seorang pun boleh melakukan, membenarkan, mengarahkan atau menyebabkan pembakaran terbuka di mana-mana premis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melalui perintah yang disiarkan dalam Warta mengisytiharkan bahawa apa-apa kebakaran, pembakaran atau pembaraan bagi maksud apa-apa aktiviti yang ditentukan dalam perintah itu bukan pembakaran terbuka sebagaimana yang ditakrifkan dalam Akta ini selagi aktiviti itu dijalankan mengikut atau di bawah syarat-syarat yang dinyatakan dalam perintah itu dan tidak di dalam tempat atau kawasan yang ditentukan dalam perintah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walaupun apa-apa kebakaran, pembakaran atau pembaraan tidak termasuk dalam takrif pembakaran terbuka di bawah subseksyen (2) atau bahawa ia adalah bagi maksud apa-apa aktiviti yang ditentukan dalam perintah yang dibuat di bawah subseksyen (2), Menteri, dalam hal keadaan yang dia menganggap bahawa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kualiti udara di dalam kawasan itu telah mencapai tahap yang tidak sihat; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kebakaran, pembakaran atau pembaraan bagi maksud apa-apa aktiviti selain aktiviti yang ditentukan dalam perintah itu akan membahayakan alam sekeliling, boleh mengarahkan Ketua Pengarah mengeluarkan perintah larangan dalam suatu tempoh yang ditentukan dengan apa-apa cara dan mengikut apa-apa kaedah sebagaimana yang difikirkannya suai manfaat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh membatalkan perintah larangan yang dibuat di bawah subseksyen (3) dengan apa-apa cara atau mengikut apa-apa kaedah sebagaimana yang difikirkannya suai manfaat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh lima ribu ringgit dan tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi lima ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya menghentikan perbuatan yang dinyatakan dalamnya itu.”. Pemotongan seksyen 29aa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 29aa. Pindaan seksyen 30a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 30 a Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Mana-mana orang yang tidak atau enggan mematuhi perintah yang dibuat di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh lima ribu ringgit dan tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Mana-mana orang yang melanggar notis yang dikeluarkan di bawah subseksyen (1) atau (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas penyampaian notis yang dinyatakan dalam subseksyen (1) atau (2) kepadanya.”. Pindaan seksyen 31a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31 a Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Mana-mana orang yang melanggar perintah larangan yang dikeluarkan di bawah subseksyen (1) atau apa-apa perintah yang dibuat di bawah subseksyen (2) melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun dan boleh juga dikenakan denda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi satu juta ringgit.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 32 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: “(2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima ribu ringgit dan tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu ber terusa n sele pa s di sa m pa i kan k e pa d a n ya suatu notis oleh Ketua Pengarah menghendakinya mengambil tindakan sebagaimana yang dinyatakan dalamnya itu.”. Pindaan seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 33 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Mana-mana orang yang melanggar notis yang dikeluarkan di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas penyampaian notis yang dinyatakan dalam subseksyen (1) kepadanya.”. Pindaan seksyen 34a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kualiti Alam Sekeliling (Pindaan) 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kualiti Alam Sekeliling 1974 [Akta 127], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif “orang yang layak” takrif yang berikut: ‘ “pembakaran terbuka” ertinya apa-apa kebakaran, pembakaran atau pembaraan yang berlaku di udara bebas dan yang tidak dihalakan ke udara bebas itu melalui serombong atau cerobong;’."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 34 a Akta ibu dipinda dengan menggantikan subseksyen (8) dengan subseksyen yang berikut: “(8) Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun dan boleh juga dikenakan denda tidak kurang daripada satu ratus ribu ringgit dan tidak melebihi satu juta ringgit.”. Pindaan seksyen 34aa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 34aa Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Mana-mana orang yang melanggar perintah larangan atau perintah berhenti kerja di bawah seksyen ini melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun dan boleh juga dikenakan denda tidak kurang daripada satu ratus ribu ringgit dan tidak melebihi satu juta ringgit.”. Pindaan seksyen 34b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 34 b Akta ibu dipinda dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan hendaklah, apabila disabitkan, dihukum dengan pemenjaraan selama tempoh tidak melebihi lima tahun dan boleh juga dikenakan denda tidak kurang daripada satu ratus ribu ringgit dan tidak melebihi sepuluh juta ringgit.”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Mana-mana orang yang, apabila dikehendaki oleh Ketua Pengarah untuk menjawab apa-apa soalan atau memberi apa-apa maklumat, gagal menjawab soalan itu atau gagal memberi maklumat itu sebagaimana yang dikehendaki atau memberi apa-apa jawapan atau maklumat palsu atau mengelirukan tentang apa-apa perkara matan di bawah seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak kurang daripada lima ribu ringgit dan tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.”. Pindaan seksyen 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 41 Akta ibu dipinda dengan menggantikan perkataan “tidak lebih daripada sepuluh ribu ringgit” dengan perkataan “tidak kurang daripada lima ribu ringgit dan tidak melebihi dua ratus lima puluh ribu ringgit”. Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 45 Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Ketua Pengarah atau mana-mana Timbalan Ketua Pengarah, atau mana-mana pegawai awam, mana-mana Jabatan Kerajaan, mana-mana pihak berkuasa tempatan atau mana-mana perbadanan yang kepadanya Ketua Pengarah telah mewakilkan kuasa itu secara bertulis, boleh, dengan keizinan bertulis Pendakwa Raya, mengkompaun mana-mana kesalahan di bawah Akta ini atau peraturan-peraturan yang dibuat di bawahnya yang ditetapkan oleh Menteri sebagai kesalahan yang boleh dikompaun dengan menerima daripada orang yang disyaki dengan munasabah telah melakukan kesalahan itu, suatu jumlah wang tidak melebihi lima puluh peratus daripada denda maksimum yang orang itu boleh dikenakan jika dia telah disabitkan atas kesalahan itu, dalam apa-apa masa sebagaimana yang dinyatakan dalam tawaran bertulisnya.”. Pindaan seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 48 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Pemunya atau nakhodanya, atau mana-mana orang yang menyebabkan kenderaan atau kapal yang ditahan itu terus bergerak sebelum ia dilepaskan melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.” Pindaan seksyen 48a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 48a(8) Akta ibu dipinda dengan menggantikan perkataan “adalah melakukan suatu kesalahan dan boleh dikenakan denda tidak lebih daripada lima ribu ringgit” dengan perkataan “melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak kurang daripada lima ribu ringgit dan tidak melebihi lima puluh ribu ringgit”. Pindaan seksyen 48ad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 48ad Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan menggantikan perkataan “shall be guilty of an offence and shall be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both” dengan perkataan “commits an offence and shall, on conviction, be liable to a fine of not less than five thousand ringgit and not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan “boleh dikenakan denda tidak lebih daripada sepuluh ribu ringgit atau penjara selama tempoh tidak lebih daripada dua tahun atau kedua-duanya” dengan perkataan “boleh, apabila disabitkan, dikenakan denda tidak kurang daripada lima ribu ringgit dan tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 51 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)— “(y) menetapkan kesalahan yang boleh dikompaun.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (x) dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (x) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Peraturan-peraturan yang dibuat di bawah subseksyen (1) boleh menetapkan apa-apa perbuatan yang melanggar peraturan-peraturan sebagai suatu kesalahan dan boleh menetapkan penalti denda tidak melebihi satu ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya dan, dalam hal kesalahan yang berterusan, sejumlah wang yang tidak melebihi satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan.”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 3(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan, penyiasatan atau prosiding yang dimulakan atau yang belum selesai sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa obligasi, liabiliti, hilang kelayakan, penalti atau hukuman yang terakru atau dikenakan di bawah Akta ibu, boleh diteruskan, dikuatkuasakan, dikenakan dan diuruskan, mengikut mana-mana yang berkenaan, seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa kaedah-kaedah, peraturan-peraturan, perintah, garis panduan atau arahan yang dibuat atau yang diberikan di bawah, atau mengikut, atau menurut kuasa Akta ibu, sebelum tarikh permulaan kuat kuasa Akta ini hendaklah disifatkan sebagai telah dibuat atau diberikan di bawah, atau mengikut, atau menurut kuasa, Akta ini, dan hendaklah terus berkuat kuasa berhubung dengan orang yang perkara itu terpakai baginya sehingga dibatalkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dan” di hujung perenggan (n);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (o) dengan perkataan “; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (o) perenggan yang berikut: “(p) menentukan pakaian seragam bagi pegawai yang dilantik di bawah subseksyen (2).”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Mana-mana pemegang lesen yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh lima ribu ringgit dan tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya patuh kepada terma atau syarat yang dinyatakan dalamnya itu.”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Mana-mana orang yang melanggar subseksyen (1) atau (1a) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh lima ribu ringgit dan tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya menghentikan perbuatan yang dinyatakan dalamnya itu.”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula subseksyen yang berikut: “(2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh lima ribu ringgit dan tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya menghentikan perbuatan yang dinyatakan dalamnya itu.”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada sepuluh ribu ringgit dan tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya menghentikan perbuatan yang dinyatakan dalamnya itu.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada sepuluh ribu ringgit dan tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya menghentikan perbuatan yang dinyatakan dalamnya itu.”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 24 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada lima puluh ribu ringgit dan tidak melebihi lima ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi satu ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya menghentikan perbuatan yang dinyatakan dalamnya itu.”. Pindaan seksyen 25"
+      }
+    }
+  ]
+}

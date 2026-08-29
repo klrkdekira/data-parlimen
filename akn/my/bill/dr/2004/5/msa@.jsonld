@@ -1,0 +1,123 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-5-2004",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Lembaga Minyak Sawit Malaysia (Pindaan) 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Minyak Sawit Malaysia (Pindaan) 2004. Pindaan seksyen 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Minyak Sawit Malaysia 1998 [Akta 582], yang disebut \"Akta ibu\" dala m Akta ini, dipinda dalam seksyen 35 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan \"kadar ses itu\", perkataan \", orang atau golongan orang yang dikenakan ses\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memasukkan selepas perkataan \"kelapa sawit yang berlainan\", perkataan \"berhubungan dengan orang yang berlainan atau golongan orang yang berlainan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana perundangan subsidiari yang telah dibuat oleh Menteri pada menjalankan kuasa yang diberikan kepadanya oleh subseksyen 35(1) Akta ibu sebelum permulaan kuat kuasa Akta ini diisytiharkan telah dibuat dengar. sah dan menurut undang-undang walaupun subseksyen itu tidak mengandungi peruntukan sebagaimana yang dipinda dalam subseksyen (1) pada masa perundangan subsidiari itu dibuat. Pengesahan perundangan subsidiari Akta-Akta yang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana perundangan subsidiari yang dibuat di bawah Akta Lembaga Pendaftaran dan Pelesenan Minyak Kelapa Sawit (Pemerbadanan) 3 976 [Akta 179] dan Akta Penyelidikan dan Kemajuan Minyak Kelapa Sawit 1979 [Akta 218] diisytiharkan telah dibuat dengan sah dan menurut undang-undang walaupun tidak terkandung dalam Akta-Akta yang di bawahnya perundangan subsidiari itu dibuat apa-apa peruntukan berhubung dengan orang atau golongan orang yang dikenakan ses. Pengesahan ses"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menurut subseksyen 2(2) dan seksyen 3 Akta ini, semua ses yang dikenakan dan wang yang dipungut dan yang dikatakan dikenakan dan dipungut di bawah Akta Lembaga Pendaftaran dan Pelesenan Minyak Kelapa Sawit (Pemerbadanan) 1976, Akta Penyelidikan dan Kemajuan Minyak Kelapa Sawit 1979 dan Akta Lembaga Minyak Sawit Malaysia 1998 dan mana-mana perundangan subsidiari yang dibuat di bawah Akta-Akta itu disifatkan telah dikenakan dan dipungut dengan sah dan menurut undang-undang berkenaan dengan minyak sawit sama ada atau tidak ses itu telah dikenakan ke atas minyak yang berasal atau yang diekstrak daripada perikarpa atau isirung buah kelapa sawit atau berkenaan dengan minyak dalam bentuk mentah atau yang diproses daripada buah dan biji kelapa sawit."
+      }
+    }
+  ]
+}

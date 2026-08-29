@@ -1,0 +1,461 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-33-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Tabung Angkatan Tentera (Pindaan) 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan memasukkan selepas perkataan kelulusan” perkataan “Menteri dan”. Pindaan seksyen 15c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15c(2) Akta ibu dipinda dengan memasukkan selepas perkataan “seksyen 9” perkataan “, 9a”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda dengan memotong perenggan (gb). Peruntukan kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 9a Akta ibu yang dimasukkan oleh seksyen 5 Akta ini tidak terpakai bagi pegawai yang ditauliahkan sebelum 1 Januari 2016 melainkan jika pegawai itu telah memilih untuk mencarum di bawah seksyen 9a itu dalam masa yang ditentukan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai yang telah membuat caruman sukarela di bawah seksyen 10 Akta ibu sebelum 1 Januari 2016 boleh, pada atau selepas 1 Januari 2016, terus mencarum di bawah seksyen 10 itu atau memilih untuk mencarum di bawah seksyen 9a Akta ibu, sebagaimana yang dimasukkan oleh seksyen 5 Akta ini, dalam masa yang ditentukan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang pegawai yang disebut dalam subseksyen (2) telah memilih untuk mencarum di bawah seksyen 9a, pemotongan gajinya di bawah seksyen 10 Akta ibu hendaklah terhenti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai yang disebut dalam subseksyen (2) yang telah memilih untuk tidak mencarum di bawah seksyen 9a dan tidak menyambung carumannya di bawah seksyen 10 boleh memohon untuk pengeluaran apa-apa amaun yang ada dalam kredit akaunnya dalam masa yang ditentukan oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh permulaan kuat kuasa seksyen 12 Akta ini, apa-apa peraturan-peraturan yang dibuat di bawah perenggan 22(gb) Akta ibu sebelum tarikh permulaan kuat kuasa seksyen 12 Akta ini hendaklah terus kekal berkuat kuasa dan mempunyai kesan sepenuhnya, dan bagi maksud itu hendaklah dianggap seolah-olah perenggan 22(gb) Akta ibu tidak dipotong, sehinggalah Lembaga menjalankan kuasanya di bawah seksyen 12a Akta ibu bilamana Lembaga, dengan kelulusan Menteri, hendaklah membatalkan peraturan-peraturan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Tabung Angkatan Tentera (Pindaan) 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2, perenggan 4(c), seksyen 5 dan 6, perenggan 7(a) dan seksyen 9 dan 11 mula berkuat kuasa pada 1 Januari 2016. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Tabung Angkatan Tentera 1973 [Akta 101], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 3 dengan memasukkan selepas subperenggan (3)(a)(i) subperenggan yang berikut: “(ia) pegawai yang mencarum kepada Tabung;”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 6(2) Akta ibu dipinda dengan memotong perenggan (b). Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “Caruman wajib” perkataan “askar-lasykar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “Peraturan Angkatan Tetap (Pencen, Ganjaran dan Pemberian lain) 1979 [P.U. (A) 77/1979]” dengan perkataan “mana-mana undang-undang yang sedang berkuat kuasa yang berhubungan dengan pencen, ganjaran dan apa-apa faedah lain yang boleh dipakai pada angkatan tetap”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) Jika seseorang askar-lasykar dinaikkan pangkat menjadi pegawai, pemotongan gajinya di bawah subseksyen (1) hendaklah terhenti dan hendaklah diteruskan di bawah seksyen 9a.”. Seksyen baharu 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 9 seksyen yang berikut: “Caruman wajib pegawai kepada Tabung 9a. (1) Hendaklah dipotong daripada gaji bulanan seseorang pegawai suatu amaun yang sama banyaknya dengan sepuluh peratus daripada gaji bulanannya itu yang dikira hingga lima sen yang hampir sekali sebagai carumannya kepada Tabung dan amaun caruman itu hendaklah dikreditkan kepada akaun pegawai itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Berkenaan dengan tiap-tiap caruman yang dibayar di bawah subseksyen (1), hendaklah direkodkan suatu caruman secara isyarat kepada Tabung daripada Kumpulan Wang Disatukan bagi kredit akaun pegawai itu suatu amaun yang sama banyaknya dengan lima belas peratus daripada gaji bulanannya yang dikira hingga lima sen yang hampir sekali."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai yang mencarum di bawah subseksyen (1) yang telah menamatkan kurang daripada dua puluh tahun perkhidmatan dan tidak memilih untuk menerima ganjaran tamat perkhidmatan hendaklah, apabila genap tempoh perkhidmatannya menerima amaun yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "nilai carumannya kepada Tabung dan dividen bagi tempoh caruman itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "nilai caruman daripada Kumpulan Wang Disatukan yang direkodkan mengikut subseksyen (2); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "caruman secara isyarat oleh Kerajaan yang patut di bayar kepada pegawai bagi tempoh caruman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai yang mencarum di bawah subseksyen (1) yang telah menamatkan kurang daripada dua puluh tahun perkhidmatan dan telah memilih untuk menerima ganjaran tamat perkhidmatan hendaklah, apabila genap tempoh perkhidmatannya menerima nilai carumannya kepada Tabung dan dividen bagi tempoh caruman itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai yang berkelayakan untuk pencen tetapi menamatkan perkhidmatan dalam mana-mana tempoh selepas dua puluh tahun sehingga mencapai umur bersara wajib hendaklah, apabila genap tempoh perkhidmatannya menerima nilai carumannya kepada Tabung bagi keseluruhan tempoh perkhidmatannya dan dividen selama tempoh carumannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pembayaran di bawah subseksyen (3) hendaklah dibuat walaupun pegawai itu diberikan pencen hilang upaya atau ganjaran hilang upaya menurut peruntukan mana-mana undang- undang bertulis yang sedang berkuat kuasa yang berhubungan dengan pencen, ganjaran atau pemberian atau faedah lain yang terpakai bagi angkatan tetap."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang pegawai yang mencarum di bawah subseksyen (1) telah menamatkan dua puluh lima tahun perkhidmatan atau telah mencapai umur bersara wajib, mengikut mana-mana yang terdahulu, pemotongan gaji bulanannya hendaklah terhenti dan caruman secara isyarat kepada Tabung daripada Kumpulan Wang Disatukan di bawah subseksyen (2) hendaklah terhenti daripada direkodkan.”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “9” dengan perkataan “9a”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “Subseksyen 9(2)” perkataan “dan 9a(2) dan seksyen 12”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “seksyen 9” perkataan “dan 9a”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan “lima puluh tahun” perkataan “dan jika pencarum seorang pegawai apabila pegawai itu mencapai umur bersara wajib”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “suatu rumah kediaman di atasnya” perkataan “atau apa-apa maksud lain yang ditetapkan oleh Lembaga”. Seksyen baharu 12a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 12 seksyen yang berikut: “Lembaga menetapkan terma dan syarat pengeluaran, dsb. 12 a. Lembaga, dengan kelulusan Menteri, hendaklah menetapkan terma dan syarat bagi pengeluaran amaun daripada Tabung, peratusan caruman pencarum yang boleh keluarkan dan apa-apa perkara yang berkaitan dengan pengeluaran itu.”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda dalam perenggan (b) dengan memasukkan selepas perkataan “9(2)” perkataan “atau 9a(2)”. Pindaan seksyen 14"
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+<!-- page 1 -->
+
+## A BILL
+
+intituled
+
+An Act to amend the Synod of the Diocese of West Malaysia (Incorporation) Act 1971. [ ]
+
+WHEREAS there was constituted and established in Malaysia on 8 April 1970 a Synod of the Diocese of West Malaysia on the authority of the Archbishop of Canterbury as the Metropolitan having jurisdiction over the Anglican Church in that territory:
+
+AND WHEREAS the Synod of the Diocese of West Malaysia and their successors have been incorporated by the Synod of the Diocese of West Malaysia (Incorporation) Act 1971:
+
+AND WHEREAS it is now expedient to transfer the functions of the Archbishop of Canterbury under the Act to the Archbishop of the South-east Asia Province:
+
+NOW, THEREFORE, BE IT ENACTED by the Seri Paduka Baginda Yang di-Pertuan Agong with the advice and consent of the Dewan Negara and Dewan Rakyat in Parliament assembled, and by the authority of the same, as follows:
+
+<!-- marginal: Short title. -->
+
+1. This Act may be cited as the Synod of the Diocese of West Malaysia (Incorporation) (Amendment) Act 1996.
+
+<!-- marginal: Amendment -->
+
+2. The Synod of the Diocese of West Malaysia
+
+<!-- marginal: of section 3. -->
+
+(Incorporation) Act 1971 is amended in subsections 3(2)
+
+<!-- marginal: Act 36 -->
+
+and 3(5) by substituting for the word "Canterbury" the words "the South-east Asia Province".
+
+<!-- page 2 -->
+
+2 Bill
+
+## EXPLANATORY STATEMENT
+
+This Bill is necessitated by the transfer of the functions of the Archbishop of Canterbury under the Synod of the Diocese of West Malaysia (Incorporation) Act 1971 to the Archbishop of the South- east Asia Province consequent to the formation of that Province on 2 February 1996.
+
+## FINANCIAL
+
+## IMPLICATIONS
+
+This Bill will not involve the Government in any financial expenditure.
+
+[PN. (U2) 1951.]

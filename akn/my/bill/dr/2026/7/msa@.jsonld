@@ -1,0 +1,1497 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-7-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pengangkutan Jalan (Pindaan) 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “Memperagakan lesen kenderaan motor” dengan perkataan “Kewajipan untuk mengemukakan maklumat lesen kenderaan motor”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Mana-mana orang yang menjaga atau menggunakan sesuatu kenderaan motor di jalan hendaklah, apabila dikehendaki sedemikian oleh mana-mana pegawai polis, warden lalu lintas atau pegawai pengangkutan jalan, mengemukakan maklumat lesen kenderaan motor dalam bentuk dan mengikut cara yang ditentukan oleh Ketua Pengarah atau apa-apa keterangan lain yang memuaskan hati pegawai polis, warden lalu lintas atau pegawai pengangkutan jalan itu bahawa kenderaan motor itu mempunyai suatu lesen kenderaan motor yang sah yang diberikan di bawah seksyen 16.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (2). Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “lesen memandu” di mana-mana jua terdapat dengan perkataan “lesen memandu yang sah”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1a), dengan memasukkan selepas perkataan “bertentangan dengan Akta ini” perkataan “, Akta Pengangkutan Awam Darat 2010”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (4b). Pindaan seksyen 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 32(3) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “satu tahun” dengan perkataan “tiga tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “tidak melebihi lima ribu ringgit” dengan perkataan “tidak kurang daripada tiga ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit”. Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 40(1) Akta ibu dipinda dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Seksyen baharu 42a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 42 seksyen yang berikut: “Berlumba atau dugaan kelajuan 42a. (1) Mana-mana orang yang berlumba di jalan yang melibatkan dua atau lebih kenderaan motor melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengambil bahagian dalam menduga kelajuan di jalan yang melibatkan satu atau lebih kenderaan motor melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 52"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 52(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “balai polis yang berhampiran sekali” perkataan “atau mengikut apa-apa cara lain yang ditetapkan oleh Menteri selepas berunding dengan Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal dalam negeri”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “, jika dikehendaki sedemikian, perakuan insurans yang dikeluarkan di bawah seksyen 90 Akta ini” dengan perkataan “perakuan insurans yang dikeluarkan di bawah seksyen 90, jika dikehendaki sedemikian”. Pindaan seksyen 53b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 53b Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Subseksyen (2) tidak terpakai bagi pemunya berdaftar yang menyebabkan atau membenarkan untuk digunakan suatu kenderaan motor yang berkenaan dengannya suatu kesalahan yang dirakamkan melalui kamera telah dilakukan.”. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 54 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “42(1),” perkataan “42a(1), 42a(2),”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(b), dengan menggantikan perkataan “seksyen 43,” dengan perkataan “seksyen 42a atau 43,”. Pindaan seksyen 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 59(9) Akta ibu dipinda dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pengangkutan Jalan (Pindaan) 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Jalan 1987 [Akta 333], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 66(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (o), dengan memasukkan selepas perkataan “bagi tiap-tiap satu kawasan itu,” perkataan “bagi mengawal selia apa-apa perkara yang berhubungan dengan kawasan diisytiharkan,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (ee) dengan perenggan yang berikut: “(ee) bagi mengawal selia penubuhan sekolah memandu atau institut memandu, bagi mengeluarkan permit sekolah memandu atau institut memandu, bagi mengawal selia latihan pemandu kenderaan motor dan bagi mengadakan peruntukan bagi fi yang dikenakan yang berhubungan dengannya;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (oo) dengan perenggan yang berikut: “(oo) bagi mengawal selia dan menetapkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pendaftaran mana-mana orang yang memberikan penentusahan teknikal pembinaan, pengubahan, pengubahsuaian dan pembaikan suatu kenderaan motor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pendaftaran mana-mana orang yang melaksanakan pembinaan, pengubahan, pengubahsuaian dan pembaikan suatu kenderaan motor dan komponennya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tatacara apa-apa pembinaan, pengubahan, pengubahsuaian, pembaikan, penilaian kerosakan dan keaslian suatu kenderaan motor dan komponennya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fi yang dikenakan yang berhubungan dengannya;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (pp), dengan memasukkan selepas perkataan “model kenderaan motor yang baharu” perkataan “dan komponennya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (ss), dengan memotong perkataan “dan” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (tt), dengan menggantikan noktah di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (tt) perenggan yang berikut: “(uu) bagi mengawal selia apa-apa perkara yang berhubungan dengan keselamatan suatu kenderaan motor dan komponennya dan bagi mengadakan peruntukan bagi fi yang dikenakan yang berhubungan dengannya.”. Pindaan seksyen 66a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 66a(2) Akta ibu dipinda dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 66h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 66h(3) Akta ibu dipinda dengan menggantikan perkataan “yang ditentukan oleh Ketua Pengarah” di mana-mana jua terdapat dengan perkataan “yang ditetapkan oleh Menteri”. Pindaan seksyen 66j"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 66 j Akta ibu dipinda dengan menggantikan perkataan “jika berkenaan dengan kenderaan itu terdapat apa-apa perkara yang belum selesai” dengan perkataan “jika kenderaan motor asing itu tidak mempunyai permit masuk yang sah atau terdapat apa-apa perkara atau hal yang belum selesai”. Pindaan seksyen 72"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 72 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (4)(gg), dengan memasukkan selepas perkataan “di bawah Akta ini” perkataan “ke tempat lain atas risiko pemunya kenderaan dan kenderaan itu boleh ditahan melainkan jika fi yang ditetapkan telah dibayar”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7), dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 76a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 76a(4) Akta ibu dipinda dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 79"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 79 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 102"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 102(2) Akta ibu dipinda dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 108"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 108 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun” dengan perkataan “tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi sepuluh tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “lima ribu ringgit dan tidak lebih daripada dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak kurang daripada satu tahun dan tidak melebihi lima tahun” dengan perkataan “sepuluh ribu ringgit dan tidak lebih daripada dua ratus ribu ringgit atau dipenjarakan selama tempoh tidak kurang daripada satu tahun dan tidak lebih daripada sepuluh tahun”. Pindaan seksyen 109"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 109(3a) Akta ibu dipinda dengan memasukkan selepas perkataan “42,” perkataan “42a,”. Seksyen baharu 110b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “jalan”, dalam perenggan (c), dengan menggantikan perkataan “seksyen 41, 42, 43, 44, 45 dan 45a,” dengan perkataan “seksyen 41, 42, 42a, 43, 44, 45, 45a, 48 dan 65,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “jalan” takrif yang berikut: ‘ “kawasan diisytiharkan” ertinya mana-mana kawasan pendaftaran yang diisytiharkan oleh Menteri sebagai suatu kawasan diisytiharkan di bawah subseksyen 16(1d);’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “lesen belajar memandu” takrif yang berikut: ‘ “lesen kenderaan motor” ertinya suatu lesen kenderaan motor yang diberikan di bawah seksyen 16 dalam apa-apa bentuk;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “lesen memandu”, dengan memasukkan selepas perkataan “di bawah seksyen 29” perkataan “dalam apa-apa bentuk”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “lesen vokasional”, dengan memasukkan selepas perkataan “seksyen 56 dan 57” perkataan “dalam apa-apa bentuk”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Menteri” takrif yang berikut: ‘ “mesej elektronik” mempunyai erti yang diberikan kepadanya dalam Akta Aktiviti Kerajaan Elektronik 2007 [Akta 680];’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Presiden” takrif yang berikut: ‘ “sistem memproses maklumat” mempunyai erti yang diberikan kepadanya dalam Akta Aktiviti Kerajaan Elektronik 2007;’. Pindaan seksyen 4a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 4a Akta ibu dipinda dengan memasukkan selepas perkataan “mana-mana jalan” perkataan “termasuk untuk menjalankan apa-apa kewajipan mengiringi, atau untuk mengawal dan mengubah haluan mana-mana lalu lintas”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 110a yang dipotong seksyen yang berikut: “Halangan, serangan dsb. 110b. (1) Mana-mana orang yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menghalang, mengganggu, menyerang, mengancam, memprovokasi, mengeluarkan kata-kata kesat, mencederakan, memudaratkan atau mencabul mana-mana pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengekori suatu kenderaan motor pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyebarkan maklumat mengenai apa-apa aktiviti pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini, melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak kurang daripada satu tahun dan tidak lebih daripada lima tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu kesalahan yang boleh dihukum di bawah seksyen ini adalah suatu kesalahan boleh tangkap dan mana-mana pegawai polis atau pegawai pengangkutan jalan boleh menyita dan menahan apa-apa kenderaan motor atau apa-apa benda bagi maksud prosiding di bawah Akta ini.”. Pindaan seksyen 112"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 112 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dalam perenggan (a), dengan menggantikan perkataan “44, 45, 45a atau 50” dengan perkataan “42a, 44, 45, 45a, 50 atau 108”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Jika mana-mana kenderaan mikromobiliti ditahan di bawah subseksyen (3), pegawai polis, pegawai pengangkutan jalan atau warden lalu lintas hendaklah memberikan notis secara bertulis bagi penahanan itu kepada pemunya atau pengguna kenderaan mikromobiliti itu dan jika kenderaan mikromobiliti itu tidak dituntut oleh pemunya atau penggunanya dalam masa satu bulan dari tarikh penahanan itu, pegawai polis, pegawai pengangkutan jalan atau warden lalu lintas hendaklah, melalui permohonan bertulis Pendakwa Raya, dengan serta-merta merujuk kepada Majistret yang hendaklah membuat suatu perintah bagi pelupusan kenderaan mikromobiliti itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (4), Majistret hendaklah membuat suatu perintah bagi pelupusan kenderaan mikromobiliti itu dan apa-apa hasil daripada pelupusan itu hendaklah dilucuthakkan ke dalam hasil Kerajaan Persekutuan.”. Pindaan seksyen 117"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 117(6)(aa) Akta ibu dipinda dengan menggantikan perkataan “enam bulan” dengan perkataan “dua belas bulan”. Pindaan seksyen 118"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 118 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)— “(e) dengan menyampaikan notis itu dalam bentuk mesej elektronik melalui sistem memproses maklumat sebagaimana yang ditentukan oleh Ketua Pengarah.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memotong perkataan “atau” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) yang dipotong subseksyen yang berikut: “(5) Jika sesuatu notis disampaikan melalui mesej elektronik, notis itu hendaklah disifatkan telah disampaikan apabila mesej elektronik itu memasuki sistem memproses maklumat yang didaftarkan kepada orang itu.”. Pindaan seksyen 119"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 119(2) Akta ibu dipinda dengan menggantikan perkataan “didenda tidak melebihi dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak melebihi empat ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua belas bulan” dengan perkataan “didenda tidak kurang daripada satu ribu ringgit dan tidak lebih daripada dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun”. Pindaan seksyen 119b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 119b Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah bertindih selepas perkataan “Jadual Ketiga” dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(2) Bagi maksud subseksyen (1), apa-apa perkara atau hal yang belum selesai berhubung dengan kenderaan motor tertentu bagi seseorang tidak menjejaskan mana-mana kenderaan motor lain yang didaftarkan di bawah namanya.”. Seksyen baharu 119c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 119b seksyen yang berikut: “Larangan kenderaan motor daripada memasuki atau keluar dari Malaysia 119 c. Ketua Pengarah, pegawai polis atau pegawai pengangkutan jalan boleh melarang mana-mana kenderaan motor yang didaftarkan di Malaysia di bawah Akta ini daripada memasuki atau keluar dari Malaysia jika terdapat apa-apa perkara atau hal yang belum selesai yang berhubungan dengan apa-apa pelanggaran atau kesalahan yang bertentangan dengan Akta ini, Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 atau Akta Pengangkutan Awam Darat 2010.”. Pindaan seksyen 120"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 120(1) Akta ibu dipinda dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 126"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 126 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “atau memberikan lesen”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “atau memberi lesen atas apa-apa syarat yang difikirkannya patut kepada” dengan perkataan “atas apa-apa syarat yang difikirkannya patut kepada”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)— “(f) untuk mengawal selia pelaksanaan fungsi pegawai pengangkutan jalan oleh orang yang diberi kuasa di bawah subseksyen (1) dan untuk menetapkan apa-apa penalti bagi ketidakpatuhan apa-apa syarat yang dikenakan di bawah subseksyen (1).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “atau dilesenkan” di mana-mana jua terdapat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memotong perkataan “dan” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan menggantikan noktah di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan memotong perkataan “atau dilesenkan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (5)(c), dengan menggantikan perkataan “pegawai yang diberi kuasa secara bertulis olehnya” dengan perkataan “pegawai pengangkutan jalan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “atau dilesenkan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “atau lesen”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi sepuluh ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi dua tahun atau kedua-duanya” dengan perkataan “tidak kurang daripada lima ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (8), dengan memotong perkataan “atau diberi lesen”. Pindaan seksyen 126a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 126a Akta ibu dipinda dengan memotong perkataan “atau lesen yang dikeluarkan” di mana-mana jua terdapat. Pindaan seksyen 127"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda dalam nota bahu dengan menggantikan perkataan “pendaftar berlesen” dengan perkataan “Pengarah”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 127(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (s), dengan menggantikan noktah di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (s) perenggan yang berikut: “(t) tatacara penahanan apa-apa kenderaan mikromobiliti yang berkenaan dengannya suatu kesalahan telah dilakukan di bawah Akta ini.”. Pindaan Jadual Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Ketiga kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam butiran (i), dengan memotong noktah di hujung butiran itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas butiran (i) butiran yang berikut: “(ii) Akta Lembaga Pelesenan Kenderaan Perdagangan 1987"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_iii",
+      "@type": "akn:paragraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Awam Darat 2010”. ________"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Tiada suatu pun kenderaan motor boleh didaftarkan kecuali—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan suatu kenderaan motor, kenderaan motor itu mempunyai nombor enjin dan nombor casis yang terang, jelas dan tidak terusik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan suatu kenderaan motor elektrik, kenderaan motor elektrik itu mempunyai nombor siri kenderaan motor elektrik dan nombor casis yang terang, jelas dan tidak terusik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fi yang ditetapkan telah dibayar.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 14(4) Akta ibu dipinda dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(4) Akta ibu dipinda dengan menggantikan perkataan “tiga ratus ringgit” dengan perkataan “lima ratus ringgit”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “kawasan pendaftaran” perkataan “dan apabila dibayar fi yang ditetapkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Bagi maksud subseksyen (1), seseorang pemohon bagi suatu lesen kenderaan motor hendaklah memaklumkan Pengarah kawasan pendaftaran kawasan bagi kenderaan motor itu hendak digunakan mengikut kawasan diisytiharkan di bawah subseksyen (1d). (1b) Pemohon bagi suatu lesen kenderaan motor hendaklah memaklumkan Pengarah kawasan pendaftaran apa-apa perubahan kawasan diisytiharkan bagi kenderaan motor itu hendak digunakan mengikut cara sebagaimana yang ditetapkan. (1c) Tertakluk kepada subseksyen (1 b), pemohon bagi suatu lesen kenderaan motor hendaklah membayar apa-apa perbezaan bagi fi lesen kenderaan motor yang disebut dalam subseksyen (1). (1d) Menteri boleh, melalui pemberitahuan yang disiarkan dalam Warta dan tertakluk kepada apa-apa syarat yang difikirkannya patut, mengisytiharkan mana-mana kawasan pendaftaran sebagai suatu kawasan diisytiharkan. (1 e) Mana-mana orang yang melanggar subseksyen (1b) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada satu ribu ringgit dan tidak lebih daripada dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya. (1 f) Mana-mana orang yang melanggar subseksyen (1c) melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada lima kali ganda perbezaan bagi fi lesen kenderaan motor atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. (1 g) Jika seseorang disabitkan dengan suatu kesalahan di bawah subseksyen (1c), mahkamah yang di hadapannya orang itu disabitkan hendaklah memerintahkan orang itu untuk membayar kepada Ketua Pengarah amaun perbezaan bagi fi lesen kenderaan motor dan boleh didapatkan kembali mengikut cara yang sama sebagaimana yang diperuntukkan dalam seksyen 283 Kanun Tatacara Jenayah [Akta 593]. (1h) Menteri boleh, melalui perintah yang disiarkan dalam Warta, mengecualikan mana-mana orang atau apa-apa kenderaan motor atau jenis kenderaan motor daripada kuat kuasa mana-mana peruntukan seksyen ini tertakluk kepada apa-apa syarat yang difikirkan patut oleh Menteri.”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) butir-butir pengenalan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kenderaan motor itu, termasuk nombor enjin dan nombor casis, kekal terang, jelas dan tidak terusik dan adalah serupa dengan butir-butir bersamaan yang terkandung dalam perakuan pendaftaran itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kenderaan motor elektrik itu, termasuk nombor siri kenderaan motor elektrik dan nombor casis, kekal terang, jelas dan tidak terusik dan adalah serupa dengan butir-butir bersamaan yang terkandung dalam perakuan pendaftaran itu;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (bb) perenggan yang berikut: “(bc) dia berpuas hati bahawa permohonan bagi suatu lesen kenderaan motor adalah mengikut kawasan diisytiharkan di mana kenderaan motor itu berada dan hendak digunakan;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d)— Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Akta Lembaga Pelesenan Kenderaan Perdagangan 1987:” dengan perkataan “, Akta Pengangkutan Awam Darat 2010 atau Akta Lembaga Pelesenan Kenderaan Perdagangan 1987.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso."
+      }
+    }
+  ]
+}

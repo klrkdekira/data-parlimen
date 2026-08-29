@@ -1,0 +1,112 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-10-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Federal Constitution (Amendment) Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Federal Constitution (Amendment) Act 1990. Amend-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Article 48 of the Federal Constitution is amended by ment of inserting, immediately after Clause (5), the following Article 48. new Clause (6): \"(6) A person who resigns his membership of the House of Representatives shall, for a period of five years beginning with the date on which his resignation takes effect, be disqualified from being a member of the House of Representatives.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Article 139 of the Federal Constitution is amended, of Article in Clause (4), by substituting for the words \"nor more 139. than thirty other members\" the words \"other members; but the number of the other members shall not, until the Yang di-Pertuan Agong by order otherwise provides, exceed thirty\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Article 141A of the Federal Constitution is of Article amended, in Clause (2), by substituting for the words 14A. \"but not more than eight other members\" the words \"other members; but the number of the other members shall not, until the Yang di-Pertuan Agong by order otherwise provides, exceed eight.\". Amend-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Article 151 of the Federal Constitution is amended ment of by substituting for Clause (2) the following: Article 151. \"(2) An advisory board constituted for the purposes of this Article shall consist of a chairman, who shall be appointed by the Yang di-Pertuan Agong and who shall be or have been, or be qualified to be, a judge of the Supreme Court or a High Court, or shall before Malaysia Day have been a judge of the Supreme Court, and two other members who shall be appointed by the Yang di-Pertuan Agong.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 6 of the Eighth Schedule to the Federal of Eighth Constitution is amended by inserting, immediately"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "after subsection (4), the following new subsection (5): \"(5) A person who resigns his membership of the Legislative Assembly of this State or any other State, shall, for a period of five years beginning with the date on which his resignation takes effect, be disqualified from being a member of the Legislative Assembly of this State,\"."
+      }
+    }
+  ]
+}

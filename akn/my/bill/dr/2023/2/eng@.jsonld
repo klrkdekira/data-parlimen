@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supply Act 2023. Issue and appropriation for the service of the year 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~cl_2__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding ninety-eight billion and twenty-eight million six hundred and seventy-six thousand six hundred and fifty ringgit (RM98,028,676,650) from the Consolidated Fund for the service of the year 2023 is hereby authorized. (2) The sum authorized to be issued by this Act and the sum of one hundred and seven billion seven hundred and eighteen million six hundred and seventy-six thousand six hundred and fifty ringgit (RM107,718,676,650), being the amount of expenditure authorized by section 2 of the Consolidated Fund (Expenditure on Account) Act 2022 [Act A1678], amounting in the aggregate to two hundred and five billion seven hundred and forty-seven million three hundred and fifty-three thousand three hundred ringgit (RM205,747,353,300) are hereby appropriated and shall be deemed to have been appropriated as from the date of coming into operation of the Consolidated Fund (Expenditure on Account) Act 2022 for the purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. 1 Parliament of Malaysia B. 2 Keeper of Rulers’ Seal Office B. 3 National Audit Department B. 4 Election Commission B. 5 Public Services Commission B. 6 Prime Minister’s Department B. 7 Public Service Department B. 8 Attorney General’s Chambers B. 9 Malaysian Anti-Corruption Commission B. 10 Treasury B. 11 Treasury General Services B. 12 Contribution to Statutory Funds B. 13 Ministry of Foreign Affairs B. 14 Ministry of National Unity B. 15 Ministry of Economy B. 20 Ministry of Plantation and Commodities B. 21 Ministry of Agriculture and Food Security B. 22 Ministry of Rural and Regional Development B. 23 Ministry of Natural Resources, Environment and Climate Change Purpose Title B. 24 Ministry of International Trade and Industry B. 25 Ministry of Domestic Trade and Cost of Living B. 26 Ministry of Entrepreneur and Cooperatives Development B. 27 Ministry of Works B. 28 Ministry of Transport B. 30 Ministry of Science, Technology and Innovation B. 31 Ministry of Tourism, Arts and Culture B. 40 Education Service Commission B. 42 Ministry of Health B. 43 Ministry of Local Government Development B. 45 Ministry of Youth and Sports B. 46 Ministry of Human Resources B. 47 Ministry of Communications and Digital B. 48 Ministry of Women, Family and Community Development B. 60 Ministry of Defence B. 62 Ministry of Home Affairs B. 63 Ministry of Education B. 64 Ministry of Higher Education ToTal"
+      }
+    }
+  ]
+}

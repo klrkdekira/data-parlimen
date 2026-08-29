@@ -1,0 +1,44 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/23/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/23"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-23-1993",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/23/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply Bill (1993) (No. 2) 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/23/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/23/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) Purpose Title Appropriation to purpose 7,156,800 B. 1 Parliament B. 17 Ministry of Youth and Sports 5,691,300 B. 20 Ministry of International Trade 28,953,200 and Industry B. 22 Ministry of Culture, Arts and 7,182,300 Tourism 6,000,000 B. 26 Ministry of Education 4,228,300 B. 29 Treasury General Services B. 43 Ministry of Law 11,208,100 15,762,000 B. 47 Ministry of Transport 6,472,300 B. 49 Ministry of Energy, Telecommunications and Posts 1,500,000 B. 56 Ministry of National Unity and Social Development . 94,154,300 Total"
+      }
+    }
+  ]
+}

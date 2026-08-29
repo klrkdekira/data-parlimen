@@ -1,0 +1,88 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-32-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (1994) (No. 2) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (1994) (No. 2) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is authorised of a sum not exceeding Ringgit Malaysia five hundred and sixty-two million six hundred and fourteen thousand and four hundred (RM562,614,400) from the Consolidated Fund for expenditure on the services specified in the Schedule for the service of the year 1994, not provided for or not f u l ly provided for by the Supply Act 1994, Supplementary Supply (1993 and 1994) Act 1994 and the Supplementary Supply (1994) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The said sum is appropriated for the purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) Purpose Title B. 7 Prime Minister's Department B. 14 Ministry of Housing and Local Government Purpose Title Appropriation to purpose RM B. 15 Town and Country Planning Department 1,000,000 B. 17 Ministry of Youth and Sports 4,427,400 B. 25 Ministry of Defence 80,000,000 B. 29 Treasury General Services 57,000,000 B. 38 Registration of Societies Department 718,000 B. 39 National Registration Department 2,424,000 B. 42 Ministry of National Unity and 11,300.000 Social Development B. 45 Ministry of Human Resources 20,000,000 B. 52 Ministry of Works 212,000,000 B. 53 Ministry of Land and Co-operative 50,000,000 Development Total . . 562,614,400 EXLANATORY STATEMENT The object of this Bill is to give statutory authority for certain additional payments to be made for federal public services in the year 1994 in excess of the expenditure sanctioned by the Supply Act 1994, the Supplementary Supply (1993 and 1994) Act 1994 and the Supplementary Supply (1994) Act 1994. FINANClAL IMPLICATIONS This Bill will involve the Government in extra financial expenditure. [PN. (U2) 1856.]"
+      }
+    }
+  ]
+}

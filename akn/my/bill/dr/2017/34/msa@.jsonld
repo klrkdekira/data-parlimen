@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/34/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-34-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/34/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/34/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perbadanan Harta Intelek Malaysia (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/34/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbadanan Harta Intelek Malaysia (Pindaan) 2017. Seksyen baharu 35a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/34/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Harta Intelek Malaysia 2002 [Akta 617] dipinda dengan memasukkan selepas seksyen 35 seksyen yang berikut: “Kuasa untuk menubuhkan syarikat 35a. Perbadanan boleh, dengan kelulusan Menteri dan Menteri Kewangan, menubuhkan syarikat di bawah Akta Syarikat 2016 [Akta 777] untuk menjalankan dan bertanggungjawab ke atas, mengelolakan dan menguruskan apa-apa aktiviti, projek atau inisiatif yang telah dirancang atau diusahakan oleh Perbadanan dalam pelaksanaan fungsinya di bawah perenggan 17(e), (f) atau (i).”."
+      }
+    }
+  ]
+}

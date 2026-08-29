@@ -1,0 +1,468 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Suruhanjaya Persaingan (Pindaan) 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut: “Perwakilan fungsi dan kuasa Suruhanjaya 17a. (1) Suruhanjaya boleh, secara bertulis, mewakilkan mana-mana fungsi atau kuasanya di bawah undang-undang persaingan kepada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana jawatankuasa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pegawai Suruhanjaya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pekerja Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi atau mana-mana jawatankuasa atau orang yang diwakilkan dengan fungsi atau kuasa di bawah subseksyen (1) hendaklah terikat untuk mematuhi dan mengambil kira segala syarat atau sekatan yang dikenakan oleh Suruhanjaya dan segala kehendak, tatacara dan perkara yang dinyatakan oleh Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa fungsi atau kuasa yang diwakilkan di bawah seksyen ini hendaklah dilaksanakan dan dijalankan atas nama dan bagi pihak Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perwakilan di bawah seksyen ini tidak menghalang Suruhanjaya daripada melaksanakan atau menjalankan sendiri mana-mana fungsi atau kuasa yang telah diwakilkan itu pada bila-bila masa.”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 27(1) Akta ibu dipinda dengan menggantikan perkataan “Kumpulan Wang Suruhanjaya Persaingan” dengan perkataan “Kumpulan Wang Suruhanjaya Persaingan Malaysia”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “melantik” dengan perkataan “, atas syor Ketua Pegawai Eksekutif, melantik secara bertulis”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “melantik” dengan perkataan “, atas syor Ketua Pegawai Eksekutif, melantik secara bertulis”. Pindaan seksyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 43(1) Akta ibu dipinda dengan menggantikan perkataan “Akta ini” dengan perkataan “undang-undang persaingan”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua sebutan mengenai Suruhanjaya Persaingan dalam mana-mana undang-undang bertulis, surat cara, surat ikatan, hakmilik atau dokumen lain hendaklah, pada tarikh permulaan kuat kuasa Akta ini, ditafsirkan sebagai sebutan mengenai Suruhanjaya Persaingan Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua sebutan mengenai Akta Suruhanjaya Persaingan 2010 dalam mana-mana undang-undang bertulis, surat cara, surat ikatan, hakmilik atau dokumen lain hendaklah, pada tarikh permulaan kuat kuasa Akta ini, ditafsirkan sebagai sebutan mengenai Akta Suruhanjaya Persaingan Malaysia 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh permulaan kuat kuasa Akta ini, pertukaran nama “Suruhanjaya Persaingan” kepada “Suruhanjaya Persaingan Malaysia” tidaklah menyentuh apa-apa fungsi, kuasa, hak atau liabiliti Suruhanjaya Persaingan atau menjadikan cacat apa-apa prosiding undang-undang oleh atau terhadapnya, dan apa-apa prosiding undang-undang yang boleh diteruskan atau dimulakan oleh atau terhadapnya sebelum tarikh permulaan kuat kuasa Akta ini boleh diteruskan atau dimulakan di bawah namanya yang baharu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa arahan, garis panduan, syor, penyiasatan, aku janji, keputusan, pengecualian, pembatalan, pengubahan, kajian semula, atau apa-apa tindakan, perbuatan atau perkara yang diberikan, dikeluarkan, dibuat atau dilakukan oleh Suruhanjaya Persaingan sebelum tarikh permulaan kuat kuasa Akta ini yang masih berkuat kuasa dan mempunyai kesan hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai telah diberikan, dikeluarkan, dibuat atau dilakukan oleh Suruhanjaya Persaingan Malaysia dan hendaklah terus berkuat kuasa dan mempunyai kesan sehinggalah dipinda, dimansuhkan, dibatalkan atau digantikan oleh Suruhanjaya Persaingan Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan, aduan atau representasi yang dibuat kepada Suruhanjaya Persaingan sebelum tarikh permulaan kuat kuasa Akta ini dan masih belum selesai di hadapan Suruhanjaya Persaingan hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai telah dibuat kepada Suruhanjaya Persaingan Malaysia dan hendaklah terus diuruskan oleh Suruhanjaya Persaingan Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua wang yang terkandung dalam atau yang kena dibayar kepada Kumpulan Wang Suruhanjaya Persaingan yang ditubuhkan di bawah Akta ibu di bawah pentadbiran dan kawalan Suruhanjaya Persaingan hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai menjadi sebahagian daripada Kumpulan Wang Suruhanjaya Persaingan Malaysia di bawah pentadbiran dan kawalan Suruhanjaya Persaingan Malaysia dan dibayar kepada Kumpulan Wang Suruhanjaya Persaingan Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa aset yang dimiliki oleh Suruhanjaya Persaingan sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, menjadi aset Suruhanjaya Persaingan Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa jawatankuasa yang ditubuhkan oleh Suruhanjaya Persaingan di bawah Akta ibu sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai telah ditubuhkan oleh Suruhanjaya Persaingan Malaysia dan tertakluk kepada terma penubuhannya, terus ditubuhkan oleh Suruhanjaya Persaingan Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Suruhanjaya, anggota jawatankuasa, Ketua Pegawai Eksekutif, mana-mana pegawai Suruhanjaya, mana-mana pekerja Suruhanjaya atau mana-mana orang lain yang dilantik atau diambil kerja oleh Suruhanjaya Persaingan di bawah Akta ibu sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai telah dilantik atau diambil kerja oleh Suruhanjaya Persaingan Malaysia dan tertakluk kepada terma dan syarat pelantikan atau pengambilan kerjanya, terus dilantik atau diambil kerja oleh Suruhanjaya Persaingan Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Suruhanjaya Persaingan (Pindaan) 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan tajuk panjang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Suruhanjaya Persaingan 2010 [Akta 713], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam tajuk panjang dengan menggantikan perkataan “Suruhanjaya Persaingan” dengan perkataan “Suruhanjaya Persaingan Malaysia”. Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 1(1) Akta ibu dipinda dengan menggantikan perkataan “Akta Suruhanjaya Persaingan 2010” dengan perkataan “Akta Suruhanjaya Persaingan Malaysia 2010”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Kumpulan Wang”, dengan menggantikan perkataan “Kumpulan Wang Suruhanjaya Persaingan” dengan perkataan “Kumpulan Wang Suruhanjaya Persaingan Malaysia”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “pegawai Suruhanjaya” dengan takrif yang berikut: ‘ “pegawai Suruhanjaya” ertinya mana-mana orang yang dilantik oleh Suruhanjaya di bawah seksyen 38;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Suruhanjaya”, dengan menggantikan perkataan “Suruhanjaya Persaingan” dengan perkataan “Suruhanjaya Persaingan Malaysia”. Pindaan Bahagian II"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian II Akta ibu dipinda dalam kepala dengan menggantikan perkataan “SURUHANJAYA PERSAINGAN” dengan perkataan “SURUHANJAYA”. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 3(1) Akta ibu dipinda dengan menggantikan perkataan “Suruhanjaya Persaingan” dengan perkataan “Suruhanjaya Persaingan Malaysia”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(2) Akta ibu dipinda dengan menggantikan perkataan “Suruhanjaya Persaingan” dengan perkataan “Suruhanjaya Persaingan Malaysia”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 16(a) Akta ibu dipinda dengan memasukkan selepas perkataan “yang berkenaan dengan persaingan” dengan perkataan “termasuklah tentang polisi, tatacara dan program yang berhubungan dengan persaingan”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(ba) untuk mengenakan penalti kewangan dan caj pembayaran lewat berkenaan dengan penalti kewangan pada kadar sebagaimana yang ditentukan oleh Suruhanjaya bagi pelanggaran di bawah undang-undang persaingan;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: “(c) untuk mengenakan fi, caj pentadbiran atau apa-apa caj lain bagi perkhidmatan yang diberikan oleh Suruhanjaya atau bagi maksud pelaksanaan fungsi atau penjalanan kuasa Suruhanjaya di bawah undang-undang persaingan;”. Seksyen baharu 17a"
+      }
+    }
+  ]
+}

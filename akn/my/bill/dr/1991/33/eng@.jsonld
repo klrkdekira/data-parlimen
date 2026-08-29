@@ -1,0 +1,96 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-33-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~part_II"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Offshore Business Activity Tax (Amendment) Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Labuan Offshore Business Activity Tax (Amendment) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 2 shall have effect for the year of assessment 1992 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Labuan Offshore Business Activity Tax Act 1990"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is amended by inserting, immediately after section 10, the following new section IOA: \"Non- 10A. (1) Notwithstanding the provisions of chargeability"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "an offshore company carrying on an"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to tax of offshore offshore business activity which is an offshore trading trading activity shall not be charged to tax for activity. a year of assessment if in that year of assessment that offshore company has paid a fee specified under section 151 of the Offshore Ace 441. Companies Act 1990. (2) An offshore company not chargeable to tax under subsection (1) shall within a period of three months (or any extended period as may be allowed by the Director-General) from the commencement of a year of assessment, file a statutory declaration in the prescribed form with the Director-General.\"."
+      }
+    }
+  ]
+}

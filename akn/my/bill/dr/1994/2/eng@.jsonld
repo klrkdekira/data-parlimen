@@ -1,0 +1,121 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (1993 and 1994) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (1993 and 1994) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is authorised of a sum not exceeding nine billion four hundred and forty-six million seven hundred and sixty-two thousand and seven hundred and twenty-seven ringgit (RM9,446,762,727) from the Consolidated Fund for expenditure on the services specified in the First Schedule for the service of the year 1993, not provided for or not fully provided for by the Supply Act 1993, the Supplementary Supply (1992 and 1993) Act 1993, the Supplementary Supply (1993) Act 1993 and the Supplementary Supply (1993) (No. 2) Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The said sum is appropriated for the purposes specified in the First Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_3__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "( 1) The issue is authorised of a sum not exceeding : two hundred and ninety-seven million one hundred and ' seventy-six thousand and three hundred ringgit (RM297,176,300) from the Consolidated Fund for expenditure on the services specified in the Second Schedule for the service of the year 1994, not provided for or not fully provided for by the Supply Act 1994. . BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The said sum is appropriated for the purposes specified in the Second Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) Purpose Title Appropriation to purpose RM B. 10 Attorney General's Chambers 4,958,700 B. 15 Town and Country Planning 35,828 Department B. 17 Ministry of Youth and Sports 1,342,800 B. 18 Ministry of Primary Industries 19,650,000 B. 19 Ministry of Agriculture 21,700,000 B. 20 Ministry of International Trade 6,664,300 and Industry B. 21 Ministry of Domestic Trade and 9,931,300 Consumer Affairs B. 22 Ministry of Culture, Arts and 916,000 Tourism B. 25 Ministry of Defence 93,971,200 B. 26 Ministry of Education 86,087,300 B. 28 Treasury 37,265,400 B. 29 Treasury General Services 8,500,000 B. 30 Contribution to Statutory Funds 9,000,000,000 B. 31 Royal Customs and Excise 3,258,995 Department B. 32 Inland Revenue Department 7,720,700 B. 33 Valuation and Property Services 961,200 Department B. 34 Ministry of Health 52,515,130 B. 36 Royal Malaysia Police 32,337,276 B. 37 Immigration Department 9,650,400 B. 38 Registration of Societies Department 273,000 B. 39 National Registration Department 4,564,600 B. 40 Prisons Department 1,238,384 B. 41 Civil Defence Department 92,849 B. 46 Ministry of Science, Technology and 9,762,300 Environment B. 47 Ministry of Transport 24,737.300 B. 51 Ministry of Foreign Affairs 8,627,765 TOTAL 9,446,762,727 SUPPLEMENTARY SUPPLY (1993 AND"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 3) Purpose Title Appropriation B. 7 Prime Minister's Department B. 26 Ministry of Education B. 52 Ministry of Works 200,000,000 B. 53 Ministry of Land and Co-operative Development TOTAL"
+      }
+    }
+  ]
+}

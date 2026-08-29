@@ -1,0 +1,641 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-35-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Environmental Quality (Amendment) Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 25 of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding five years and shall also be liable to a fine of not less than fifty thousand ringgit and not exceeding ten million ringgit.”. Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 27 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than one hundred thousand ringgit and not exceeding ten million ringgit or to imprisonment for a term not exceeding five years or to both.”. Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 29 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit and not exceeding ten million ringgit or to imprisonment for a term not exceeding five years or to both.”. Substitution of section 29a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 29a the following section: “Prohibition on open burning 29a. (1) Notwithstanding anything to the contrary contained in this Act, no person shall commit, allow, instruct or cause open burning on any premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may by order published in the Gazette declare that any fire, combustion or smouldering for the purpose of any activity specified in that order is not open burning as defined under this Act so long as such activity is carried out in accordance with or under such conditions as may be specified in the order and not in the place or area specified in the order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding that any fire, combustion or smouldering is excluded from the definition of open burning under subsection (2) or that it is for the purpose of any activity specified in an order made under subsection (2), the Minister, in circumstances where he considers that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the air quality in the area has reached an unhealthy level; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the fire, combustion or smouldering for the purpose of any activity other than those specified in the order would be hazardous to the environment, may direct the Director General to issue a prohibition order for a specified period by such means and in such manner as he thinks expedient."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may remove a prohibition order made under subsection (3) by such means or in such manner as he thinks expedient."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) or (3) commits an offence and shall, on conviction, be liable to a fine of not less than twenty-five thousand ringgit and not exceeding one million ringgit or to imprisonment for a term not exceeding five years or both, and shall also be liable to a further fine not exceeding five thousand ringgit for every day during which the offence continues after a notice by the Director General requiring him to cease the act specified therein has been served on him.”. Deletion of section 29aa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 29aa. Amendment of section 30a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 30a of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who fails or refuses to comply with the order made under subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than twenty-five thousand ringgit and not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both.”. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who contravenes the notice issued under subsection (1) or (2) commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit and not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine not exceeding one thousand ringgit for every day during which the offence continues after service on him of the notice specified in subsection (1) or (2).”. Amendment of section 31a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31a of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who contravenes a prohibition order issued under subsection (1) or any order made under subsection (2) commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding five years and shall also be liable to a fine of not less than fifty thousand ringgit and not exceeding one million ringgit.”. Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than five thousand ringgit and not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine not exceeding one thousand ringgit for every day during which the offence continues after a notice by the Director General requiring him to take action as specified therein has been served on him.”. Amendment of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) Any person who contravenes the notice issued under subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit and not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine not exceeding one thousand ringgit for every day during which the offence continues after service on him of the notice specified in subsection (1).”. Amendment of section 34a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Environmental Quality (Amendment) Act 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Environmental Quality Act 1974 [Act 127], which is referred to as the “principal Act” in this Act, is amended in section 2 by inserting after the definition of “oil” the following definition: ‘ “open burning” means any fire, combustion or smouldering that occurs in the open air and which is not directed there through a chimney or stack;’. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 34a of the principal Act is amended by substituting for subsection (8) the following subsection: “(8) Any person who contravenes this section commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding five years and shall also be liable to a fine of not less than one hundred thousand ringgit and not exceeding one million ringgit.”. Amendment of section 34aa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 34aa of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who contravenes a prohibition order or stop work order under this section commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding five years and shall also be liable to a fine of not less than one hundred thousand ringgit and not exceeding one million ringgit.”. Amendment of section 34b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 34b of the principal Act is amended by substituting for subsection (4) the following subsection: “(4) Any person who contravenes this section commits an offence and shall, on conviction, be punished with imprisonment for a term not exceeding five years and shall also be liable to a fine of not less than one hundred thousand ringgit and not exceeding ten million ringgit.”. Amendment of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) Any person who, when required by the Director General to answer any question or to furnish any information, fails to answer such question or fails to furnish such information as is required or gives any answer or information that is false or misleading in any material respect under this section commits an offence and shall, on conviction, be liable to a fine of not less than five thousand ringgit and not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both.”. Amendment of section 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 41 of the principal Act is amended by substituting for the words “not exceeding ten thousand ringgit” the words “of not less than five thousand ringgit and not exceeding two hundred and fifty thousand ringgit”. Amendment of section 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 45 of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) The Director General or any Deputy Director General, or any public officer, any Government Department, any local authority or any corporation to whom the Director General has delegated such power in writing, may, with the written consent of the Public Prosecutor, compound any offence under this Act or the regulations made thereunder prescribed by the Minister as an offence which may be compounded by accepting from the person reasonably suspected of having committed the offence, a sum of money not exceeding fifty per centum of the maximum fine to which the person would have been liable to if he had been convicted of the offence, within such time as may be specified in his written offer.”. Amendment of section 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) The owner or master, or any person who causes the detained vehicle or ship to proceed to move before it is released commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit and not exceeding two hundred and fifty thousand ringgit or to imprisonment for a period not exceeding five years or to both.”. Amendment of section 48a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 48 a(8) of the principal Act is amended by substituting for the words “shall be guilty of an offence and shall be liable to a fine not exceeding five thousand ringgit” the words “commits an offence and shall, on conviction, be liable to a fine of not less than five thousand ringgit and not exceeding fifty thousand ringgit”. Amendment of section 48ad"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 48ad of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the words “shall be guilty of an offence and shall be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both” the words “commits an offence and shall, on conviction, be liable to a fine of not less than five thousand ringgit and not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the national language text, by substituting for the words “boleh dikenakan denda tidak lebih daripada sepuluh ribu ringgit atau penjara selama tempoh tidak lebih daripada dua tahun atau kedua-duanya” the words “boleh, apabila disabitkan, dikenakan denda tidak kurang daripada lima ribu ringgit dan tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Amendment of section 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 51 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)— “(y) prescribing the offences which may be compounded.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (x) a semi colon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (x) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) Regulations made under subsection (1) may prescribe any act in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding one hundred thousand ringgit or imprisonment for a term not exceeding five years or to both and, in the case of a continuing offence, a sum not exceeding one thousand ringgit for every day during which the offence continues.”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 3(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any action, investigation or proceedings commenced or pending immediately before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be continued as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any obligation, liability, disqualification, penalty or punishment accrued or incurred under the principal Act, may be continued, enforced, imposed and be dealt with, as the case may be, as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any rules, regulations, order, guideline or instruction made or given under, or in accordance with, or by virtue of the principal Act, before the date of coming into operation of this Act shall be deemed to have been made or given under, or in accordance with, or by virtue of, this Act, and shall continue to be in force in relation to the persons to whom they apply until revoked."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “and” at the end of paragraph (n);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (o) the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (o) the following paragraph: “(p) to determine uniforms for officers appointed under subsection (2).”. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 16 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) Any holder of a licence who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than twenty-five thousand ringgit and not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine of one thousand ringgit for every day during which the offence continues after a notice by the Director General requiring him to comply with such term or condition specified therein has been served on him.”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who contravenes subsection (1) or (1a) commits an offence and shall, on conviction, be liable to a fine of not less than twenty-five thousand ringgit and not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine of one thousand ringgit for every day during which the offence continues after a notice by the Director General requiring him to cease the act specified therein has been served on him.”. Amendment of section 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than twenty-five thousand ringgit and not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine of one thousand ringgit for every day during which the offence continues after a notice by the Director General requiring him to cease the act specified therein has been served on him.”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 22 of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than ten thousand ringgit and not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine not exceeding one thousand ringgit for every day during which the offence continues after a notice by the Director General requiring him to cease the act specified therein has been served on him.”. Amendment of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 23 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than ten thousand ringgit and not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine not exceeding one thousand ringgit for every day during which the offence continues after a notice by the Director General requiring him to cease the act specified therein has been served on him.”. Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 24 of the principal Act is amended by substituting for subsection (3) the following subsection: “(3) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine of not less than fifty thousand ringgit and not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both, and shall also be liable to a further fine not exceeding one thousand ringgit for every day during which the offence continues after a notice by the Director General requiring him to cease the act specified therein has been served on him.”. Amendment of section 25"
+      }
+    }
+  ]
+}

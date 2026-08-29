@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-3-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (2007) Bill 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (2007) Act 2008. Further expenditure for the year 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorized of a sum not exceeding seventeen billion five hundred and forty-five million one hundred and seventy- one thousand and eight hundred ringgit (RM 17,545,171,800) from the Consolidated Fund for expenditure on the services and purposes specified in the Schedule for the year 2007, not provided for or not fully provided for by the Supply Act 2007 [Act AI276]. Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Title Purpose Amount (RM) 1,630,000 B. 1 Parliament 60,000,000 B. 7 Public Services Department 16,810,108,100 B. 12 Contribution to Statutory Funds 46,087,700 B. 13 Ministry of Foreign Affairs 100,000 B. 21 Ministry of Agriculture and Agro-based Industry B. 25 Ministry of Domestic Trade and Consumer 7,000,000 Affairs B. 27 Ministry of Works 76,373,900 10,000,000 B. 31 Ministry of Tourism 200,006,100 B. 42 Ministry of Health 1,550,000 B. 44 Ministry of Culture, Arts and Heritage 157,147,300 B. 60 Ministry of Defence 175,168,700 B. 62 Ministry of Internal Security TOTAL 17,545,171,800"
+      }
+    }
+  ]
+}

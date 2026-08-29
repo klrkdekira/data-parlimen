@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-29-2002",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply Bill 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (2002) (No. 2) Act 2002. Further expenditure for the year 2002"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding three hundred and fifteen million eight hundred and three thousand eight hundred and thirty ringgit (RM315,803,830) from the Consolidated Fund for expenditure on the services and purposes specified in the Schedule for the year 2002, not provided for or not fully provided for by the Supply Act 2002 [ActA1135], the Supplementary Supply (2001 and 2002) Act 2002 [Act A1147] and the Supplementary Supply (2002) Act 2002 [Act A1156]. 2 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title Amount (RM) B. 7 Prime Minister's Department 128,340,000 B. 19 Ministry of Agriculture 20,000,000 B. 21 Ministry of Domestic Trade and Consumer 13,280,000 Affairs B. 28 Treasury 4,975,500 B. 30 Contribution to Statutory Funds 8,632,630 B. 35 Ministry of Home Affairs 34,184,900 B. 38 Ministry of Transport 21,290,800 B. 42 Ministry of National Unity and Social 85,100,000 Development TOTAL 315,803,830"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-32-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply Bill 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supply Act 2020. Issue and appropriation for the service of the year 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding one hundred and seventy-three billion one hundred and thirty-six million two hundred and fourteen thousand six hundred ringgit (RM173,136,214,600) from the Consolidated Fund for the service of the year 2020 is hereby authorized and that sum is appropriated for the purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. 1 Parliament of Malaysia B. 2 Keeper of Rulers’ Seal Office B. 3 National Audit Department B. 4 Election Commission B. 5 Public Services Commission B. 6 Prime Minister’s Department B. 7 Public Service Department B. 8 Attorney General’s Chambers B. 9 Malaysian Anti-Corruption Commission B. 10 Treasury B. 11 Treasury General Services B. 12 Contribution to Statutory Funds B. 13 Ministry of Foreign Affairs B. 15 Ministry of Economic Affairs B. 20 Ministry of Primary Industries B. 21 Ministry of Agriculture and Agro-Based Industry B. 22 Ministry of Rural Development B. 23 Ministry of Water, Land and Natural Resources B. 24 Ministry of International Trade and Industry B. 25 Ministry of Domestic Trade and Consumer Affairs B. 26 Ministry of Entrepreneurship Development B. 27 Ministry of Works B. 28 Ministry of Transport Purpose Title B. 30 Ministry of Energy, Science, Technology, Environment and Climate Change B. 31 Ministry of Tourism, Arts and Culture B. 32 Ministry of the Federal Territories B. 40 Education Service Commission B. 42 Ministry of Health B. 43 Ministry of Housing and Local Government B. 45 Ministry of Youth and Sports B. 46 Ministry of Human Resources B. 47 Ministry of Communications and Multimedia B. 48 Ministry of Women, Family and Community Development B. 60 Ministry of Defence B. 62 Ministry of Home Affairs B. 63 Ministry of Education ToTal"
+      }
+    }
+  ]
+}

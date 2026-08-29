@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-1-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perbekalan Tambahan (2019) 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (2019) 2020. Perbelanjaan tambahan bagi tahun 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi tujuh bilion lima juta tujuh ratus lima puluh tiga ribu lapan ratus lima puluh ringgit (RM7,005,753,850) daripada Kumpulan Wang Disatukan bagi perbelanjaan tambahan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2019 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2019 [Akta A1575]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk B. 4 Suruhanjaya Pilihan Raya B. 10 Perbendaharaan B. 11 Perkhidmatan Am Perbendaharaan B. 12 Peruntukan kepada Kumpulan Wang Terkanun B. 13 Kementerian Luar Negeri B. 15 Kementerian Hal Ehwal Ekonomi B. 20 Kementerian Industri Utama B. 21 Kementerian Pertanian dan Industri Asas Tani B. 23 Kementerian Air, Tanah dan Sumber Asli B. 24 Kementerian Perdagangan Antarabangsa dan Industri B. 27 Kementerian Kerja Raya B. 28 Kementerian Pengangkutan B. 42 Kementerian Kesihatan B. 43 Kementerian Perumahan dan Kerajaan Tempatan B. 60 Kementerian Pertahanan B. 63 Kementerian Pendidikan JUMLAH 7,005,753,850"
+      }
+    }
+  ]
+}

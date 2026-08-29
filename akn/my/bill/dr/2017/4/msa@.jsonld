@@ -1,0 +1,204 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-4-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Saraan Hakim (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Saraan Hakim (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada 1 Jun 2017. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Saraan Hakim 1971 [Akta 45], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Bagi maksud menghitung pencen seseorang Hakim, tempoh perkhidmatan seseorang Hakim dalam suatu jawatan yang lain di bawah seksyen 8c hendaklah dihitung sebagai tempoh perkhidmatan sebagai Hakim.”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Bagi maksud subseksyen (1), jika seseorang Hakim telah, sebagaimana yang dikehendaki oleh Yang di-Pertuan Agong di bawah perenggan 8c(1)(b), melepaskan jawatannya untuk berkhidmat dalam suatu jawatan yang lain selama apa-apa tempoh demi kepentingan negara dan selepas menamatkan tempoh perkhidmatannya dalam jawatan yang lain itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilantik semula serta-merta untuk memegang jawatan Hakim, tempoh perkhidmatannya sebagai Hakim sebelum, dan tempoh dia berkhidmat dalam jawatan yang lain itu selepas, dia melepaskan jawatannya sebagai Hakim hendaklah dihitung sebagai tempoh perkhidmatan sebagai Hakim; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak dilantik semula untuk memegang jawatan Hakim oleh sebab dia telah mencapai umur persaraannya menurut subseksyen 8c(3), tempoh perkhidmatannya sebagai Hakim sebelum, dan tempoh dia berkhidmat dalam jawatan yang lain itu sehingga dia mencapai umur persaraannya selepas, dia melepaskan jawatannya sebagai Hakim hendaklah dihitung sebagai tempoh perkhidmatan sebagai Hakim.”. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda dengan menggantikan perenggan (c) dengan perenggan yang berikut: “(c) meletakkan jawatan Hakim selepas dia memegang jawatan Hakim selama tempoh berterusan yang tidak kurang daripada lima tahun, termasuk tempoh perkhidmatannya sebagai Pesuruhjaya Kehakiman sebaik sebelum pelantikannya sebagai seorang Hakim; atau”. Penggantian seksyen 8c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 8c dengan seksyen yang berikut: “Perkhidmatan dalam jawatan yang lain demi kepentingan negara 8c. (1) Seseorang Hakim Mahkamah Persekutuan, Mahkamah Rayuan atau Mahkamah Tinggi boleh dikehendaki oleh Yang di-Pertuan Agong demi kepentingan negara untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berkhidmat dalam suatu jawatan yang lain tanpa melepaskan jawatannya sebagai Hakim; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melepaskan jawatan Hakim untuk berkhidmat dalam suatu jawatan yang lain, selama apa-apa tempoh yang dinyatakan oleh Yang di-Pertuan Agong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), jika seseorang Hakim dikehendaki untuk berkhidmat dalam suatu jawatan yang lain demi kepentingan negara, saraan yang Hakim itu adalah berhak kepadanya di bawah Akta ini dalam tempoh dia berkhidmat dalam jawatan yang lain itu hendaklah dibayar oleh badan yang Hakim itu berkhidmat dalam jawatan yang lain itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Hakim Mahkamah Persekutuan, Mahkamah Rayuan atau Mahkamah Tinggi dikehendaki untuk melepaskan jawatan Hakim untuk berkhidmat dalam jawatan yang lain di bawah perenggan (1)(b) dan selepas menamatkan tempoh perkhidmatannya dalam jawatan yang lain itu, tidak dilantik semula untuk memegang jawatan Hakim oleh sebab dia telah mencapai umur persaraannya, dia hendaklah disifatkan telah berkhidmat sebagai Hakim sehingga umur enam puluh enam tahun dan bersara menurut perenggan 8(a).”."
+      }
+    }
+  ]
+}

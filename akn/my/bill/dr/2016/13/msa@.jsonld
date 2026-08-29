@@ -1,0 +1,206 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-13-2016",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Mahkamah (Kaedah-Kaedah Pemulaan Tindakan Sivil) 2016"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Mahkamah (Kaedah- Kaedah Pemulaan Tindakan Sivil) 2016."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“Mahkamah” ertinya Mahkamah Tinggi, Mahkamah Sesyen atau Mahkamah Majistret, mengikut mana-mana yang berkenaan; “Pesuruhjaya Penyemak Undang-Undang” ertinya Pesuruhjaya Penyemak Undang-Undang yang dilantik di bawah seksyen 3 Akta Penyemakan Undang-Undang 1968 [Akta 1]; “tarikh yang ditetapkan” ertinya tarikh Akta ini mula berkuat kuasa; “tindakan sivil” termasuklah apa-apa permohonan sivil yang dibuat kepada Mahkamah yang diperuntukkan di bawah mana- mana undang-undang bertulis. Penanganan tindakan sivil yang belum selesai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Melainkan jika diperuntukkan selainnya dalam kaedah- kaedah Mahkamah yang terpakai, jika di bawah mana-mana undang-undang bertulis—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tindakan sivil boleh dimulakan atau dibuat kepada Mahkamah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tindakan tersebut dikehendaki untuk dimulakan atau dibuat atau telah dimulakan atau dibuat selain melalui suatu saman pemula atau writ, maka, sekiranya mana-mana tindakan itu belum selesai di Mahkamah sebelum tarikh yang ditetapkan Mahkamah boleh, jika Mahkamah fikirkan adil dan suai manfaat, memerintahkan bahawa tindakan itu disifatkan telah dimulakan melalui suatu saman pemula atau writ, mengikut mana-mana yang sesuai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika menurut subseksyen (1), mana-mana tindakan sivil yang belum selesai yang disifatkan telah dimulakan melalui suatu saman pemula atau writ—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tindakan itu hendaklah diteruskan mengikut peruntukan undang-undang bertulis yang berkenaan dan kaedah- kaedah Mahkamah yang terpakai; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah boleh memberikan apa-apa arahan berkenaan dengan pengendalian tindakan itu sebagaimana yang Mahkamah fikirkan adil dan suai manfaat mengikut kaedah-kaedah Mahkamah yang terpakai. Penyeragaman kaedah-kaedah pemulaan bagi tindakan sivil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa jua dalam mana-mana undang-undang bertulis, mana-mana tindakan sivil yang dimulakan atau dibuat kepada Mahkamah di bawah mana-mana undang-undang bertulis selepas tarikh yang ditetapkan, hendaklah dimulakan atau dibuat melalui suatu saman pemula atau writ, sebagaimana yang sesuai, melainkan jika diperuntukkan selainnya dalam kaedah-kaedah Mahkamah yang terpakai. Kuasa untuk menggantikan sebutan mengenai kaedah pemulaan dalam undang-undang bertulis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun kuasa yang diberikan di bawah Akta Penyemakan Undang-Undang 1968, Pesuruhjaya Penyemak Undang-Undang hendaklah mempunyai kuasa untuk menggantikan apa-apa sebutan mengenai kaedah memulakan tindakan sivil yang spesifik atau membuat permohonan dalam mana-mana undang-undang bertulis, sama ada undang-undang bertulis itu telah disemak atau tidak, dengan suatu kaedah yang diperuntukkan di bawah mana- mana kaedah-kaedah Mahkamah yang terpakai dengan cara—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyemak mana-mana undang-undang bertulis; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/13/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mencetak semula mana-mana undang-undang bertulis."
+      }
+    }
+  ]
+}

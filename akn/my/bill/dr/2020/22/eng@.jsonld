@@ -1,0 +1,314 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-22-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Sales Tax (Amendment) Bill 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_10__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 74 the following section: “Evidence of agent provocateur admissible 74a. (1) Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, no agent provocateur shall be presumed to be unworthy of credit by reason only of his having attempted to abet or abetted the commission of an offence by any person under this Act if the attempt to abet or abetment was for the sole purpose of securing evidence against such person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, and that the agent provocateur is a police officer whatever his rank or an officer of sales tax, any statement, whether oral or in writing made to an agent provocateur by any person who subsequently is charged with an offence under this Act shall be admissible as evidence at his trial.”. Amendment of section 88a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 88a of the principal Act is amended by substituting for the words “section 41a” the words “section 23, 35a or 41a”. Amendment of section 97"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 97(1) of the principal Act is amended by substituting for the words “which is a registered manufacturer or an importer” the words “which is liable for any sales tax due and payable”. Amendment of section 98"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 98(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a registered manufacturer or an importer” the words “any person who is liable for any sales tax due and payable”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “disposing of any of the assets of the registered manufacturer or importer” the words “disposing of any of the assets of the person”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “in respect of the taxable goods that have been sold or manufactured by the registered manufacturer or importer” the words “in respect of the taxable goods that have been sold, manufactured, purchased or acquired by the person”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Sales Tax (Amendment) Act 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Sales Tax Act 2018 [Act 806], which is referred to as the “principal Act” in this Act, is amended in subsection 17(1) by substituting for the words “immediately succeeding” the words “immediately preceding”. Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 27(1) of the principal Act is amended by substituting for the words “subsection 26(9)” the words “subsection 26(8)”. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 31(1)(b) of the principal Act is amended by substituting for the words “subsection 26(9)” the words “subsection 26(8)”. Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 32(2) of the principal Act is amended by substituting for the words “subsection 26(9)” the words “subsection 26(8)”. New section 35a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 35 the following section: “Refund by deduction of sales tax 35a. (1) The Director General may direct any registered manufacturer to deduct the amount of refund against the amount of sales tax to be paid from his return under section 26 if the registered manufacturer has been granted refund of sales tax under paragraph 35(3)(c) or has made a deduction under section 23 or 41a."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where after the deduction has been made under subsection (1), there is any balance in the amount of the refund, the balance shall be refunded to the registered manufacturer by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (2), the Director General may withhold the whole or any part of any amount refundable under subsection (2) to be credited to any following or subsequent taxable period and the Director General shall treat the amount credited as payment or part payment received from the registered manufacturer.”. Amendment of section 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 69(1) of the principal Act is amended by inserting after the word “place” the words “or premises”. New section 69a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_8__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 69 the following section: “Power to seal 69a. (1) Where by reason of its nature, size or amount it is not practicable to remove any goods, documents, articles or things seized under this Act, a proper officer of sales tax may, by any means, seal the goods, documents, articles or things, or the places, premises, receptacles, packages or conveyances in which the goods, documents, articles or things are found."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (1) or removes the goods, documents, articles, things, receptacles, packages or conveyances under seal, or attempts to do so, commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding one hundred thousand ringgit or to both.”. New section 72b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 72a the following section: “Additional powers 72b. (1) In addition to and without affecting the existing powers conferred under this Act, when escorting and guarding any person in custody, a proper officer of sales tax shall have all the powers of a police officer of the rank of Corporal and below and the powers of a prison officer of the rank of Sergeant and below under the Prison Act 1995 [Act 537]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where an order, a certificate or any other act is required to be given, issued or done by an officer in charge of a Police District under any written law, such order, certificate or act may be given, issued or done by a senior officer of sales tax, and for such purpose, the place where the order, certificate or act was given, issued or done shall be deemed to be a Police District under his charge; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/eng@/~cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a proper officer of sales tax shall have all the powers conferred on an officer in charge of a police station under any written law, and for such purpose the office of such officer shall be deemed to be a police station.”. New section 74a"
+      }
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+<!-- page 1 -->
+
+## A BILL
+
+intituled
+
+An Act to amend the Limited Liability Partnerships Act 2012. [ ]
+
+ENACTED by the Parliament of Malaysia as follows:
+
+### Short title and commencement
+
+1. (1) This Act may be cited as the Limited Liability Partnerships (Amendment) Act 2024.
+
+(2) This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act.
+
+### Amendment of section 10
+
+2. The Limited Liability Partnerships Act 2012 [Act 743], which is referred to as the “principal Act” in this Act, is amended in subsection 10(2)—
+
+(a) by deleting the word “and” at the end of paragraph (e); and
+
+<!-- page 2 -->
+
+(b) by inserting after paragraph (e) the following paragraphs:
+
+“(ea) beneficial ownership as specified under subsection 20c(1);
+
+(eb) the amount of capital contribution by each partner; and”.
+
+### Amendment of section 19
+
+3. Subsection 19(1) of the principal Act is amended—
+
+(a) by deleting the word “and” at the end of paragraph (g); and
+
+(b) by inserting after paragraph (g) the following paragraph:
+
+“(ga) register of beneficial owners; and”.
+
+### New Part IIIa
+
+4. The principal Act is amended by inserting after section 20 the following part:
+
+“Part IIIa
+
+## BENEFICIAL OWNERSHIP
+
+### Beneficial owner of limited liability partnership
+
+20a. (1) A person is a beneficial owner of a limited liability partnership if he is a natural person who ultimately owns or controls over a limited liability partnership and includes a person who exercises ultimate effective control over a limited liability partnership.
+
+(2) The Registrar may issue guidelines for the purpose of identifying a beneficial owner of a limited liability partnership.
+
+<!-- page 3 -->
+
+### Register of beneficial owners of limited liability partnership
+
+20b. (1) Every limited liability partnership shall keep a register of beneficial owners of the limited liability partnership and record in the register—
+
+(a) the full name, addresses, nationality, identification and usual place of residence of a person who is a beneficial owner of the limited liability partnership;
+
+(b) the date the person becomes a beneficial owner of the limited liability partnership;
+
+(c) the date the person ceases to be a beneficial owner of the limited liability partnership; and
+
+(d) such other information as the Registrar may require.
+
+(2) The register of beneficial owners of the limited liability partnership shall be kept at the registered office of the limited liability partnership or any other place in Malaysia as notified to the Registrar.
+
+(3) The limited liability partnership shall lodge with the Registrar a notice on any change to the particulars in the register of beneficial owners of the limited liability partnership.
+
+(4) Any notice required under subsection (3) shall be lodged within fourteen days from the date on which the change is recorded in the register of beneficial owners of the limited liability partnership.
+
+(5) The limited liability partnership shall retain the information of a person who has been recorded in the register of beneficial owners of the limited liability partnership as a beneficial owner but subsequently ceases to be a beneficial owner of the limited liability partnership for seven years from the date the person ceases to be a beneficial owner.
+
+<!-- page 4 -->
+
+(6) The limited liability partnership and every partner and compliance officer who contravene this section commit an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit and, in the case of a continuing offence, to a further fine not exceeding five hundred ringgit for each day during which the offence continues after conviction.
+
+(7) The Registrar shall determine the form, manner and extent of the information to be kept under subsection (1) and lodged under subsection (3).
+
+(8) The register of beneficial owners of a limited liability partnership shall be prima facie evidence of any matter inserted in the register under this Act.
+
+(9) The Minister may, in relation to access to the register of beneficial owners of the limited liability partnership kept at the registered office of the limited liability partnership or beneficial ownership information lodged with the Registrar, prescribe—
+
+(a) any person or class of persons who may access the register of beneficial owners of the limited liability partnership or the beneficial ownership information;
+
+(b) the manner and terms and conditions for accessing the register of beneficial owners of the limited liability partnership or the beneficial ownership information; and
+
+(c) the fee for the supply of the beneficial ownership information.
+
+(10) In this section, “identification” means, in the case of any person issued with an identity card issued under the National Registration Act 1959 [Act 78], the number of the identity card, and in the case of a person not issued with an identity card, particulars of passport or such other similar evidence of identification as is available.
+
+<!-- page 5 -->
+
+### Power of limited liability partnership to require disclosure
+
+### of beneficial owner of limited liability partnership
+
+20c. (1) A limited liability partnership shall, by notice in writing, require any partner of the limited liability partnership within such reasonable time and manner as specified in the notice—
+
+(a) to inform the limited liability partnership whether the partner is a beneficial owner of the limited liability partnership or if the partner is not a beneficial owner of the limited liability partnership, as far as it is possible to do so, to indicate the persons by name and by other particulars sufficient to enable those persons to be identified as beneficial owners of the limited liability partnership; and
+
+(b) to provide such other information as specified under subsection 20b(1).
+
+(2) Where a limited liability partnership knows or has reasonable grounds to believe that any person is a beneficial owner of the limited liability partnership, the limited liability partnership shall by notice in writing, require such person within such reasonable time and manner as specified in the notice—
+
+(a) to state whether he is a beneficial owner of the limited liability partnership or if he is not a beneficial owner of the limited liability partnership, to state whether he knows or has reasonable grounds to believe that any other person is a beneficial owner of the limited liability partnership and to give such particulars of that person that are within his knowledge; and
+
+(b) to provide such other information as required under subsection 20b(1).
+
+(3) Where a limited liability partnership knows or has reasonable grounds to believe that any partner or person knows the identity of a person who is a beneficial owner
+
+<!-- page 6 -->
+
+of the limited liability partnership, the limited liability partnership shall by notice in writing require the partner or person within such reasonable time and manner as specified in the notice—
+
+(a) to state whether he knows, or has reasonable grounds to believe that any other person is a beneficial owner of the limited liability partnership and gives such particulars of that person that are within his knowledge; and
+
+(b) to provide such other information as required under subsection 20b(1).
+
+(4) Whenever a limited liability partnership receives information from the person to whom the notice is given under subsection (1), (2) or (3), the limited liability partnership shall, within fourteen days from the date on which the information is received, record in the register of beneficial owners of the limited liability partnership—
+
+(a) the date on which the notice requiring such information was issued; and
+
+(b) the particulars of the information received from the person.
+
+(5) If a limited liability partnership has reasonable grounds to believe that a change has occurred to the particulars of a beneficial owner of the limited liability partnership that are stated in the register of beneficial owners of the limited liability partnership, the limited liability partnership shall give notice to the beneficial owner of the limited liability partnership—
+
+(a) to confirm whether or not the change has occurred; and
+
+(b) if the change has occurred—
+
+(i) to state the date of the change; and
+
+(ii) to provide the particulars of the change.
+
+<!-- page 7 -->
+
+(6) If a limited liability partnership has reasonable grounds to believe that any of the particulars of a beneficial owner of the limited liability partnership that are stated in the register of beneficial owners of the limited liability partnership might be incorrect, the limited liability partnership shall give notice to the beneficial owner of the limited liability partnership to confirm whether the particulars are correct, and if not, to provide the correct particulars.
+
+(7) A limited liability partnership and every partner and compliance officer who contravene subsection (1), (2),
+
+(3), (4), (5) or (6) commit an offence.
+
+(8) Any person who contravenes any notice under this section commits an offence unless the person proves that the information in question was already in the possession of the limited liability partnership or that the requirement to give the information was for any other reason that is frivolous or vexatious.
+
+(9) Any person who in purported compliance with any notice under this section makes any statement which he knows to be false or recklessly makes any false statement commits an offence.
+
+### Duty of beneficial owner of limited liability partnership
+
+### to provide information
+
+20d. (1) A person who has reason to believe that he is a beneficial owner of a limited liability partnership shall, as soon as practicable—
+
+(a) notify the limited liability partnership that he is a beneficial owner of the limited liability partnership; and
+
+(b) provide information as may be prescribed.
+
+<!-- page 8 -->
+
+(2) A person who is a beneficial owner of a limited liability partnership shall notify the limited liability partnership of any changes in his particulars in the register of beneficial owners of the limited liability partnership.
+
+(3) A person who has ceased to be a beneficial owner of a limited liability partnership shall notify the limited liability partnership, as soon as practicable, of the change by stating—
+
+(a) the date the cessation occurred; and
+
+(b) the particulars of the cessation.
+
+(4) Any person who contravenes this section commits an offence.
+
+### Exemption from this Part
+
+20e. The Minister may, by order published in the Gazette, exempt any class of limited liability partnerships from the application of this Part either unconditionally or subject to such terms as the Minister may impose, if such limited liability partnerships are subject to any requirements under any other written laws similar to this Part.”.
+
+### Amendment of section 27
+
+5. Paragraph 27(7)(a) of the principal Act is amended by substituting for the words “sections 17, 19 and 20” the words “sections 17, 19, 20, 20c and 20d”.
+
+### Amendment of Part VII
+
+6. The title of Part VII of the principal Act is amended by inserting before the word “WINDING-UP” the words
+
+## “CORPORATE VOLUNTARY ARRANGEMENT, JUDICIAL
+
+## MANAGEMENT,”.
+
+<!-- page 9 -->
+
+### New sections 49a and 49b
+
+7. The principal Act is amended by inserting after section 49 the following sections:
+
+### “Corporate voluntary arrangement and judicial management
+
+49a. (1) Except for sections 395 and 403 and paragraph 1 of the Eighth Schedule, the provisions of Division 8 of
+
+## Part III (in so far as they relate to a company limited by shares)
+
+of the Companies Act 2016 and the Companies (Corporate Rescue Mechanism) Rules 2018 [P.U. (A) 64/2018] shall apply to the voluntary arrangement and judicial management of a limited liability partnership subject to such modifications and adaptations as may be necessary, and in particular the following modifications:
+
+(a) references to a “company” shall be taken as references to a limited liability partnership;
+
+(b) references to a “constitution” shall be taken as references to a partnership agreement;
+
+(c) references to a “director” or to a “member” of a company shall be taken as references to a partner of a limited liability partnership;
+
+(d) references to a “resolution” of a company shall be taken as references to a determination or decision of a limited liability partnership; and
+
+(e) references to “shares” of any member of a company shall be taken as references to the interest of any partner of a limited liability partnership.
+
+(2) Where a meeting of a limited liability partnership is summoned following the application of section 399 of the Companies Act 2016 to the voluntary arrangement of a limited liability partnership, the meeting shall be conducted—
+
+(a) in accordance with partnership agreement; and
+
+(b) in the absence of any provision relating to voting of a resolution in the partnership agreement, in accordance with paragraph 8 of the Second Schedule to the Act.
+
+<!-- page 10 -->
+
+### Protection for essential goods and services
+
+49b. (1) Subject to subsection (2), an insolvency related clause in any contract for the supply of essential goods and services shall not be exercised against any limited liability partnership.
+
+(2) A supplier who wishes to exercise his rights pursuant to an insolvency related clause in a contract shall communicate his intention of preserving his rights under the insolvency related clause to the limited liability partnership in writing at least thirty days before exercising his rights pursuant to the insolvency related clause in accordance with the contract.
+
+(3) This section shall not prevent a supplier from exercising his any other rights, including right to payment for essential goods and services provided to a limited liability partnership, under a contract for supply of essential goods and services.
+
+(4) For the purposes of this section—
+
+(a) “insolvency related clause” means a term of contract which—
+
+(i) allows the automatic termination of a contract of essential goods and services or supply of essential goods and services, modification of rights between a supplier and a limited liability partnership under the contract merely because the limited liability partnership becomes subject to the proceedings in relation to a voluntary arrangement or a judicial management; or
+
+(ii) allows a supplier to terminate a contract of essential goods and services or supply of essential goods and services, enforce any rights or vary any obligations under a contract merely because the limited liability partnership becomes subject to the proceedings in relation to a voluntary arrangement or a judicial management;
+
+(b) “essential goods and services” means essential goods and services specified in the Fourth Schedule.”.
+
+<!-- page 11 -->
+
+### New section 70a
+
+8. The principal Act is amended by inserting after section 70 the following section:
+
+### “Time for compliance with the requirements under the Act
+
+### 70a.
+
+If any action or document is required in compliance with this Act and the period for compliance is not prescribed, the time to comply shall be within thirty days from the action or document is required to be complied with.”.
+
+### Substitution of section 76
+
+9. The principal Act is amended by substituting for section 76 the following section:
+
+### “Service of documents on a limited liability partnership
+
+76. A document may be served on a limited liability partnership—
+
+(a) by ordinary or registered post to its last known registered office or registered principal place of business, as the case may be; or
+
+(b) by electronic means to the address or numbers provided by the limited liability partnership.”.
+
+### New section 76a
+
+10. The principal Act is amended by inserting after section 76 the following section:
+
+### “Publication or advertisement on website
+
+76a. Where any information is required to be published or advertised in a newspaper under this Act, any person may, in lieu of publishing or advertising the information in a newspaper, publish or advertise the information on the website of the Commission in the form and manner as the Registrar may determine upon payment of the prescribed fee.”.
+
+<!-- page 12 -->
+
+### Amendment of section 91
+
+11. Subsection 91(1) of the principal Act is amended—
+
+(a) by inserting after paragraph (a) the following paragraph:
+
+“(aa) any person or class of persons who may access the register of beneficial owners or the beneficial ownership information, the manner and the terms and conditions for accessing such register;”; and
+
+(b) by inserting after paragraph (b) the following paragraph:
+
+“(ba) any matters relating to a corporate voluntary arrangement, judicial management, liquidation and receivership;”.
+
+### New Schedule
+
+12. The principal Act is amended by inserting after the Third Schedule the following schedule:
+
+“Fourth Schedule
+
+[Subsection 49b(4)]
+
+## TYPES OF ESSENTIAL GOODS AND SERVICES
+
+1. Supply of water
+
+2. Supply of electricity
+
+3. Supply of gas
+
+4. Point of sales terminals
+
+5. Computer hardware and software
+
+6. Information, advice and technical assistance in connection with the use of information technology
+
+7. Data storage and processing
+
+8. Website hosting”.
+
+<!-- page 13 -->
+
+### Saving
+
+13. Any investigation, trial, proceedings or action pending before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be continued in accordance with the provisions of the principal Act as if the principal Act had not been amended by this Act.
+
+## EXPLANATORY STATEMENT
+
+This Bill seeks to amend the Limited Liability Partnerships Act 2012 (“Act 743”) to introduce the provisions relating to reporting framework and disclosure of beneficial ownership information and to introduce the concept of corporate voluntary arrangement and judicial management to limited liability partnership by adopting the framework under the Companies Act 2016 [Act 777].
+
+2. Clause 1 contains the short title and provision on commencement of the proposed Act.
+
+3. Clause 2 seeks to amend subsection 10(2) of Act 743 to introduce new paragraphs (ea) and (eb) to require the limited liability partnership to lodge with the Registrar the registered particulars which include particulars on beneficial ownership information and capital contribution of each partner for the purposes of registration.
+
+4. Clause 3 seeks to amend subsection 19(1) of Act 743 to require a limited liability partnership to keep a register of beneficial owners at its registered office.
+
+5. Clause 4 seeks to introduce new Part IIIa into Act 743 which deals with beneficial ownership of a limited liability partnership.
+
+The proposed section 20a seeks to provide for the beneficial owner of a limited liability partnership.
+
+The proposed section 20b seeks to provide for the obligation to keep and maintain a register of beneficial owners of a limited liability partnership and lodge the beneficial ownership information with the Registrar. Only persons or class of persons prescribed by the Minister, including law enforcement agencies and competent authorities, may access the register of beneficial owners of a limited liability partnership and beneficial ownership information.
+
+The proposed section 20c seeks to empower a limited liability partnership to require the disclosure of its beneficial owners. This new section enables the limited liability partnership to obtain the beneficial owner’s information or confirm the accuracy of information from any person whom the limited liability partnership knows or has reasonable grounds to believe to be a beneficial owner of the limited liability partnership.
+
+<!-- page 14 -->
+
+The proposed section 20d seeks to impose an obligation on a beneficial owner to notify the limited liability partnership when he becomes a beneficial owner or if there is any change in the information of the limited liability partnership’s beneficial ownership.
+
+The proposed section 20e seeks to provide for the application of Part IIIa to all limited liability partnerships except for certain classes of limited liability partnerships that are subjected to similar obligation of reporting beneficial ownership under other written laws. This exemption is aimed to reduce the administrative burden of limited liability partnerships and prevent regulatory overlap.
+
+6. Clause 5 seeks to amend paragraph 27(7)(a) of Act 743 to impose additional obligations on the compliance officer to maintain the register of beneficial owner and to require the disclosure of beneficial owner.
+
+7. Clause 6 seeks to amend the title of Part VII of Act 743 to include corporate voluntary arrangement and judicial management as part of the title.
+
+8. Clause 7 seeks to introduce new sections 49a and 49b into Act 743.
+
+The proposed section 49a seeks to introduce the corporate rescue mechanism for limited liability partnership in the form of corporate voluntary arrangement and judicial management. In the case of voluntary arrangement and judicial management of a limited liability partnership, the provisions of Division 8 of Part III of the Companies Act 2016 and the Companies (Corporate Rescue Mechanism) Rules 2018 [P.U. (A) 64/2018] shall apply.
+
+The proposed section 49b seeks to regulate the application of an insolvency related clause under any contract for the supply of essential goods and services between a supplier and a limited liability partnership which is implementing a voluntary arrangement or under a judicial management.
+
+9. Clause 8 seeks to introduce a new section 70a into Act 743 to provide the period of compliance in respect of any action or document when the period for compliance is not prescribed under this Act.
+
+10. Clause 9 seeks to substitute section 76 of Act 743 with a new section that allows the service of documents on a limited liability partnership either by post or electronic means.
+
+11. Clause 10 seeks to introduce a new section 76a into Act 743 to provide that the website of the Commission may be used to publish information which is otherwise required to be published in a newspaper.
+
+12. Clause 11 seeks to introduce paragraphs 91(1)(aa) and (ba) into Act 743 to provide for the powers of the Minister to make regulations in respect of any matters relating to the access to beneficial ownership information as well as relating to corporate voluntary arrangement, judicial management, liquidation and receivership.
+
+<!-- page 15 -->
+
+13. Clause 12 seeks to introduce a new schedule into Act 743. The new Fourth Schedule lists the essential goods and services protected under new section 49b of Act 743.
+
+14. Clause 13 seeks to provide for a saving provision.
+
+15. Other amendments not specifically dealt with in this Explanatory Statement are minor or consequential in nature.
+
+## FINANCIAL IMPLICATIONS
+
+This Bill will involve the Government in extra financial expenditure the amount of which cannot at present be ascertained.
+
+<!-- marginal: [PN(U2)3331] -->

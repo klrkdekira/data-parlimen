@@ -1,0 +1,458 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Penjara (Pindaan) 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: “Perlindungan terhadap guaman dan prosiding undang-undang 63a. Tiada tindakan, guaman, pendakwaan atau prosiding lain boleh dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pegawai penjara; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang lain bagi atau atas sebab atau berkenaan dengan apa-apa perbuatan yang dilakukan atau berupa dilakukan olehnya di bawah perintah, arahan atau suruhan Komisioner Jeneral, jika perbuatan, kecuaian atau keingkaran itu telah dibuat atau dilakukan olehnya dengan suci hati dan dengan mempercayai semunasabahnya bahawa ia perlu bagi maksud yang diniatkan untuk dicapai melaluinya dan bagi melaksanakan peruntukan Akta ini.”. Seksyen baharu 66a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 66 seksyen yang berikut: “Sukarelawan 66a. (1) Komisioner Jeneral boleh melantik apa-apa bilangan sukarelawan sebagaimana yang perlu untuk membantu pegawai penjara untuk melaksanakan apa-apa program pemulihan di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang sukarelawan adalah tertakluk kepada arahan, perintah dan kawalan Komisioner Jeneral."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang sukarelawan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh dibayar apa-apa elaun sebagaimana yang ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak berhak kepada apa-apa saraan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang sukarelawan semasa menjalankan apa-apa kewajipan di bawah Akta ini hendaklah disifatkan sebagai seorang penjawat awam mengikut pengertian Kanun Keseksaan.”. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Pertama kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di bawah kepala “Pegawai Kanan Penjara”, dengan memasukkan selepas butiran “Timbalan Penguasa Penjara” butiran yang berikut: “Ketua Penolong Penguasa Penjara”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di bawah kepala “Pegawai Rendah Penjara”, dengan memasukkan sebelum butiran “Sub Inspektor Penjara” butiran yang berikut: “Ketua Sub Inspektor Penjara”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penjara (Pindaan) 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Penjara 1995 [Akta 537], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “banduan”, dengan memasukkan selepas perkataan “dilepaskan secara parol” perkataan “atau secara lesen”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Pegawai Rendah Penjara”, dengan menggantikan perkataan “Sub Inspektor Penjara” dengan perkataan “Ketua Sub Inspektor Penjara”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Pegawai yang Menjaga”, dengan memasukkan selepas perkataan “yang menjaga sesuatu penjara” perkataan “dan pusat latihan pegawai penjara”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pengamal perubatan berdaftar”— Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “yang didaftarkan sementara di bawah seksyen 12 atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “, mengikut mana-mana yang berkenaan”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 13(2)(a) Akta ibu dipinda dengan memasukkan selepas perkataan “mana-mana penjara” perkataan “dan pusat latihan pegawai penjara”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 25(1) Akta ibu dipinda dengan menggantikan perkataan “mengikut peraturan-peraturan yang dibuat oleh Menteri” dengan perkataan “mengikut apa-apa cara sebagaimana yang boleh ditentukan oleh Menteri”. Pindaan seksyen 46b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 46b Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Seseorang anggota sesuatu Lembaga Parol hendaklah dibayar apa-apa elaun mengikut apa-apa kadar sebagaimana yang boleh ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan.”. Bahagian baharu IVaa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian IVa bahagian yang berikut: “bahagian IVaa PERANTI PENGAWASAN ELEKTRONIK Pemasangan peranti pengawasan elektronik 46oa. (1) Komisioner Jeneral boleh, melalui perintah secara bertulis, mengarahkan supaya suatu peranti pengawasan elektronik dipasang pada mana-mana banduan yang dikurung dalam suatu penjara, dalam jagaan atau di bawah kawalan seorang pegawai penjara, dilepaskan secara lesen di bawah seksyen 43 atau dilepaskan secara parol di bawah seksyen 46h."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Komisioner Jeneral membuat suatu perintah di bawah subseksyen (1), Komisioner Jeneral hendaklah menentukan terma dan syarat yang berhubungan dengan pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan peranti pengawasan elektronik itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu peranti pengawasan elektronik diarahkan untuk dipasang pada seseorang banduan di bawah subseksyen (1), Pegawai yang Menjaga hendaklah menjelaskan terma dan syarat bagi pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan peranti pengawasan elektronik itu kepada banduan itu, dan peranti pengawasan elektronik itu hendaklah dipasang pada banduan itu oleh Pegawai yang Menjaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang tidak mematuhi mana-mana terma dan syarat yang berhubungan dengan pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan suatu peranti pengawasan elektronik melakukan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang mengganggu, merosakkan, memusnahkan atau menghilangkan suatu peranti pengawasan elektronik melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi tiga tahun, dan orang itu hendaklah bertanggungan untuk membayar apa-apa kerosakan atau kehilangan peranti pengawasan elektronik itu, dan mahkamah boleh mengarahkan jika dia ingkar membayar bagi kerosakan atau kehilangan itu, orang itu hendaklah dikenakan pemenjaraan selama tempoh tidak melebihi tiga tahun.”. Pindaan seksyen 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subperenggan 47(1)(b)(i) Akta ibu dipinda dengan memasukkan sebelum perkataan “secara berkumpulan” perkataan “secara individu atau”. Pindaan seksyen 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 59 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima ratus ringgit” dengan perkataan “lima ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “enam bulan” dengan perkataan “satu tahun”. Pindaan seksyen 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 60(2) Akta ibu dipinda dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) semua wang— Seksyen baharu 63a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang dirampas atau yang pemunyaannya tidak diketahui dan dijumpai, semasa sesuatu penggeledahan dalam sesuatu penjara; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang diperoleh daripada pelupusan mana-mana harta yang dirampas atau yang pemunyaannya tidak diketahui dan dijumpai, semasa sesuatu penggeledahan dalam sesuatu penjara.”."
+      }
+    }
+  ]
+}

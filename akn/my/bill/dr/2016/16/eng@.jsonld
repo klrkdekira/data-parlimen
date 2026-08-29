@@ -1,0 +1,222 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-16-2016",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Administration of Islamic Law (Federal Territories) (Amendment) Bill 2016"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Administration of Islamic Law (Federal Territories) (Amendment) Act 2016."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazette. New section 57a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Administration of Islamic Law (Federal Territories) Act 1993 [Act 505], which is referred to as the “principal Act” in this Act, is amended by inserting after section 57 the following “Reciprocal action 57a. (1) Where a Syariah Court in any State in Malaysia issues a warrant or summons, as the case may be, under any law of that State to be executed or served on any person who is or is believed to be in the Federal Territories, any Syariah Judge may endorse the warrant or summons by signing it and the warrant or summons may be executed or served on such person as if the warrant or summons had been issued by a Syariah Court in the Federal Territories according to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a Syariah Court in the Federal Territories issues a warrant authorizing the arrest of any person or summons calling any person to appear in a Syariah Court, and such person is or is believed to be in another State in Malaysia and such warrant or summons is executed or served on such person in accordance with any law of that State, the warrant or summons shall, for the purpose of this Act, be deemed to have been duly executed or served as if the execution or service had been effected in the Federal Territories."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a Syariah Court in any State in Malaysia makes an order or a judgment under any law of that State against a person and such person is or is believed to be in the Federal Territories, a Syariah Judge, if he is satisfied that the order or judgment was duly issued by a competent Syariah Court in any State in Malaysia, may endorse the order or judgment and such order or judgment may be executed or served, as the case may be, as if it had been an order or a judgment lawfully made by any Syariah Court in the Federal Territories according to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a Syariah Court in the Federal Territories makes an order or a judgment against any person or an order calling any person to appear in a Syariah Court and such person is or is believed to be in another State in Malaysia and the order or judgment is executed or served on such person in accordance with any law of that State, such order or judgment shall, for the purpose of this Act, be deemed to have been duly executed or served as if the execution or service had been effected in the Federal Territories.”. Amendment of Part V"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part V of the principal Act is amended in the heading by inserting after the word “PROSECUTION” the words “, ENFORCEMENT”. Amendment of section 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the word “personally” the words “except rights and powers expressed to be exercisable by the Chief Syariah Prosecutor personally”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(3a) The rights and powers vested in or exercisable by the Chief Syariah Prosecutor by subsection (3) shall be exercisable by the Chief Syariah Prosecutor personally.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(5) The Religious Enforcement Officers shall act under the general control and direction of the Chief Religious Enforcement Officer and may exercise all or any of the rights and powers vested in or exercisable by the Chief Religious Enforcement Officer except rights and powers expressed to be exercisable by the Chief Religious Enforcement Officer personally.”. Savings and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any warrant or summons issued, and order or judgment made by a Syariah Court in any State in Malaysia pending to be executed or served under any law of that State on any person who is or is believed to be in the Federal Territories immediately before the coming into operation of this Act shall, on the coming into operation of this Act, be dealt with under the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any warrant authorizing the arrest of any person or summons calling any person to appear in a Syariah Court in the Federal Territories issued by a Syariah Court in the Federal Territories pending to be executed or served immediately before the coming into operation of this Act and such person is or is believed to be in another State in Malaysia shall, on the coming into operation of this Act, be dealt with under the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any order or judgment made by a Syariah Court in the Federal Territories pending to be executed or served on any person who is or is believed to be in another State in Malaysia under any law of that State immediately before the coming into operation of this Act shall, on the coming into operation of this Act, be dealt with under the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any notice or application given or made by a Syariah Prosecutor pursuant to the power under subsection 58(3) of the principal Act in relation to proceedings before the Syariah Appeal Court which is existing or pending immediately before the coming into operation of this Act shall, on the coming into operation of this Act, be dealt with as if the principal Act has not been amended by this Act."
+      }
+    }
+  ]
+}

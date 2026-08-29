@@ -1,0 +1,91 @@
+<!-- page 3 -->
+
+### D.R. 45/2017
+
+## RANG UNDANG-UNDANG
+
+bernama
+
+Suatu Akta untuk meminda Akta Dadah Berbahaya 1952. [ ]
+
+DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
+
+### Tajuk ringkas dan permulaan kuat kuasa
+
+1. (1) Akta ini bolehlah dinamakan Akta Dadah Berbahaya (Pindaan) 2017.
+
+(2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+### Pindaan seksyen 39b
+
+2. Akta Dadah Berbahaya 1952 [Akta 234], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 39b—
+
+(a) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut:
+
+“(2) Any person who contravenes any of the provisions of subsection (1) shall be guilty of an offence against this Act and shall be punished on conviction with death
+
+<!-- page 4 -->
+
+or imprisonment for life and shall, if he is not sentenced to death, be punished with whipping of not less than fifteen strokes.”; dan
+
+(b) dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
+
+“(2 a) In exercising the power conferred by subsection (2), the Court in imposing the sentence of imprisonment for life and whipping of not less than fifteen strokes, may have regard only to the following circumstances:
+
+(a) there was no evidence of buying and selling of a dangerous drug at the time when the person convicted was arrested;
+
+(b) there was no involvement of agent provocateur; or
+
+(c) the involvement of the person convicted is restricted to transporting, carrying, sending or delivering a dangerous drug; and
+
+(d) the Public Prosecutor certifies in writing to the Court that in his determination, the person convicted has assisted an enforcement agency in disrupting drug trafficking activities within or outside Malaysia.
+
+(2b) The determination of whether or not any person has assisted an enforcement agency in disrupting drug trafficking activities shall be at the sole discretion of the Public Prosecutor and no action or proceeding shall lie against the Public Prosecutor in relation to any such determination done by him in good faith, in such capacity.
+
+(2c) For the purposes of subsections (2a) and (2b), “enforcement agency” means—
+
+(a) the Royal Malaysia Police;
+
+(b) the National Anti-Drugs Agency;
+
+(c) the Royal Malaysian Customs Department;
+
+<!-- page 5 -->
+
+(d) the Malaysian Maritime Enforcement Agency; or
+
+(e) any other enforcement agency as may be determined by the Minister.”.
+
+### Peralihan
+
+3. (1) Dalam seksyen ini, “tarikh yang ditetapkan” ertinya tarikh yang ditetapkan di bawah subseksyen 1(2) Akta ini.
+
+(2) Apa-apa prosiding terhadap mana-mana orang yang telah dipertuduh, sama ada atau tidak perbicaraan telah dimulakan atau telah diselesaikan, dan belum lagi disabitkan di bawah seksyen 39b Akta ibu oleh Mahkamah yang berwibawa sebelum tarikh yang ditetapkan, hendaklah pada tarikh yang ditetapkan dikendalikan oleh Mahkamah yang berwibawa itu dan diteruskan di bawah peruntukan Akta ibu sebagaimana yang dipinda oleh Akta ini.
+
+## HURAIAN
+
+Rang Undang-Undang ini bertujuan untuk meminda Akta Dadah Berbahaya 1952 (“Akta 234”).
+
+2. Fasal 1 mengandungi tajuk ringkas dan peruntukan permulaan kuat kuasa Akta yang dicadangkan.
+
+3. Fasal 2 bertujuan untuk meminda subseksyen 39b(2) Akta 234. Di bawah Akta 234 yang sedia ada, mana-mana orang yang disabitkan dengan kesalahan pengedaran dadah berbahaya hendaklah dihukum dengan hukuman mati. Seksyen 39b telah dimasukkan buat pertama kalinya ke dalam Akta 234 melalui Akta Dadah Berbahaya (Pindaan) 1975 [Akta A293] yang telah berkuat kuasa pada 30 April 1975. Pindaan itu memperuntukkan bahawa seseorang yang disabitkan dengan kesalahan mengedar dadah berbahaya hendaklah dihukum dengan hukuman mati atau dengan pemenjaraan seumur hidup yang mana dia boleh juga dikenakan hukuman sebat. Kemudiannya, hukuman yang diperuntukkan di bawah seksyen 39b Akta 234 telah dipinda untuk memperuntukkan hukuman mati mandatori melalui Akta Dadah Berbahaya (Pindaan) 1983 [Akta A553]. Pindaan ini telah berkuat kuasa mulai 15 April 1983.
+
+Pindaan yang dicadangkan juga bertujuan untuk kembali kepada kedudukan sebelum pembuatan Akta A553, yang mana fasal 2 bertujuan untuk meminda subseksyen 39b(2) Akta 234 untuk memberi Mahkamah kuasa untuk menjatuhkan hukuman mati atau pemenjaraan seumur hidup dan sebatan tidak kurang daripada lima belas kali bagi kesalahan pengedaran dadah. Walau bagaimanapun, dalam
+
+<!-- page 6 -->
+
+menjatuhkan hukuman pemenjaraan seumur hidup dan sebatan tidak kurang daripada lima belas kali, Mahkamah hanya boleh mengambil kira mana-mana hal keadaan yang dinyatakan dalam perenggan baharu 39b(2a)(a), (b) atau (c) yang dicadangkan dan Mahkamah hendaklah mengambil kira akan perakuan secara bertulis oleh Pendakwa Raya yang mana pada penentuan Pendakwa Raya, orang yang disabitkan di bawah subseksyen 39b(2) telah membantu agensi penguatkuasaan dalam menggendalakan aktiviti pengedaran dadah di dalam atau di luar Malaysia.
+
+Bantuan kepada agensi penguatkuasaan dalam menggendalakan aktiviti pengedaran dadah itu bolehlah termasuk, sebagai contoh, pemberian maklumat yang membawa kepada penangkapan, penahanan atau pendakwaan mana-mana orang yang terlibat dengan apa-apa aktiviti pengedaran dadah. Dengan cadangan pindaan ini, tanpa perakuan secara bertulis Pendakwa Raya, Mahkamah tidak boleh menjalankan kuasanya untuk menjatuhkan hukuman terhadap orang yang telah disabitkan dengan pemenjaraan seumur hidup dan sebatan tidak kurang daripada lima belas kali, walaupun hal keadaan yang dinyatakan dalam perenggan 39b(2a)(a), (b) atau (c) yang dicadangkan wujud.
+
+4. Fasal 3 memperuntukkan bagi peruntukan peralihan. Peruntukan Akta yang dicadangkan ini hendaklah terpakai bagi mana-mana orang yang telah dipertuduh tetapi belum disabitkan di bawah seksyen 39b Akta ibu oleh Mahkamah yang berwibawa pada tarikh permulaan kuat kuasa Akta yang dicadangkan. Cadangan pindaan baharu kepada seksyen 39b Akta 234 tidak terpakai bagi kes yang menunggu rayuan, yang mana kes tersebut perlu melalui proses wajar yang sedia ada.
+
+## MISALAN
+
+A, telah dipertuduh dengan suatu kesalahan di bawah seksyen 39b Akta Dadah Berbahaya 1952 pada tarikh sebelum permulaan kuat kuasa Akta yang dicadangkan ini. Perbicaraan masih berlangsung dan pada tarikh Akta yang dicadangkan ini mula berkuat kuasa, A masih belum disabitkan. Selepas itu, jika Mahkamah mensabitkan A, seksyen 39b baharu hendaklah terpakai.
+
+## IMPLIKASI KEWANGAN
+
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat ditentukan sekarang ini.
+
+<!-- marginal: [PN(U2)3096] -->

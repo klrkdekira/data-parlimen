@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-1-2004",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbekalan Tambahan (2003) 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (2003) 2004. Perbelanjaan tambahan bagi tahun 2003"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi lapan belas bilion sembilan ratus lapan puluh lapan juta empat ratus tiga ribu empat ratus sembilan puluh tujuh ringgit (RM18,988,403,497) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi perkhidmatan tahun 2003 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2003 [Akta All75) dan Akta Perbekalan Tambahan (2003) 2003 [Akta A1203]. Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ta juk Amaun Mak sud (RM) B. 3 Jabatan Audit 994,900 B. 5 Suruhanjaya Perkhidmatan Awam 3.100,000 B. 7 Jabatan Perdana Menteri 26,000,000 8 B. Jabatan Perkhidmatan Awam 170,000,000 B. 10 Jabatan Peguam Negara 5,250,880 B. 11 Badan Pencegah Rasuah 3,378,900 B. 14 Kementerian Perumahan dan 68,440,000 Kerajaan Tempatan B. 18 Kementerian Perusahaan Utama 1 ,000,000 B. 20 Kementerian Perdagangan Antarabangsa 20,787,000 dan Industri B. 24 Jabatan Muzium dan Antikuiti 888,700 B. 25 Kementerian Pertahanan 174,532,700 B. 28 Perbendaharaan 172,700,000 B. 30 Peruntukan kepada Kumpulan Wang 17,484,226,417 Terkanun B. 31 Jabatan Kastam DiRaja Malaysia 4,023,200 B. 33 Kementerian Kerja Raya 33,747,700 B. 34 Kementerian Kcsihatan 528,862,200 B. 35 Kementerian Dalam Negeri 143,557,600 B. 38 Kementerian Pengangkutan 19,193,700 B. 40 Kementerian Pembangunan Luar Bandar 8,116,300 B. 44 Kementerian Penerangan 45,395,500 B. 45 Kementerian Sumber Manusia 74,207,800 JUMLAH 18,988,403,497"
+      }
+    }
+  ]
+}

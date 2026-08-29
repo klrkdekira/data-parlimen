@@ -1,0 +1,90 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-1-1999",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (1998 and 1999) Bill 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (1998 and 1999) Act 1999. Further expenditure for the year 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding nine billion six hundred and fifty-nine million seven hundred and fifty thousand nine hundred and sixteen ringgit (RM9,659,750,916) from the Consolidated Fund for expenditure on the services and purposes specified in the Pirst Schedule for the year 1998, not provided for or not fully provided for by the Supply Act 1998[Act A1009] and the Supplementary Supply (1998) Act 1998[Act A1033]. Further expenditure for the year 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding sixty million ringgit (RM60,000,000) from the Consolidated Fund for expenditure on the service and purpose specified in the Second Schedule for the year 1999, not provided for or not fully provided for by the Supply Act 1999[Acr A1044]. Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title Amount B. 16 Fire and Rescue Department 4,568,230 B. 20 Ministry of International Trade and 3,746,400 Industry B. 29 Treasury General Services 206,420,560 B. 30 Contribution to Statutory Funds 9,409,450,403 B. 32 Inland Revenue Department B. 40 Prison Department 1,641,163 B. 51 Ministry of Foreign Affairs 33,502,298 TOTAL 9,659,750,916"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title Amount B. 49 Ministry of Energy, Communication 60,000,000 and Multimedia TOTAL 60,000,000"
+      }
+    }
+  ]
+}

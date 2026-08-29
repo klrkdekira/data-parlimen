@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-5-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notaries Public (Amendment) Bill 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Notaries Public (Amendment) Act 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2__subsec_1B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Notaries Public Act 1959 is amended in section , 3 by inserting after subsection (1) the following subsections: \"(1 A) Notwithstanding any other law to the contrary, where any person has been appointed to be a notary public before the coming into force of this subsection and no period is specified in that appointment, the appointment shall cease to have effect upon the expiry of the period of two years from the date of coming into force of this subsection."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2__subsec_1B",
+      "@type": "akn:subsection",
+      "eli:number": "1B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in subsection (1A) shall be construed as preventing the reappointment under subsection (1) of any person whose appointment has ceased to have effect by virtue of subsection (1A), and every such reappointment shall be deemed to be a new appointment.\". 2 Bill"
+      }
+    }
+  ]
+}

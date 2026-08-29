@@ -1,0 +1,1863 @@
+<!-- page 1 -->
+
+D.R. 10/2006
+
+## RANG UNDANG-UNDANG LEMBAGA LADA
+
+## MALAYSIA 2006
+
+## SUSUNAN FASAL
+
+## BAHAGIAN 1
+
+## PERMULAAN
+
+1. Tajuk ringkas dan permulaan kuat kuasa 2. Tafsiran
+
+## BAHAGIAN II
+
+## PENUBUHAN LEMBAGA
+
+3. Lembaga dan matlamatnya
+
+4. Fungsi Lembaga 5. Kuasa Lembaga 6. Keanggotaan Lembaga 7. Tempoh jawatan 8. Anggota silih ganti 9. Penjalanan sementara fungsi Pengerusi
+
+10. Pembatalan pelantikan dan peletakan jawatan 11. Pengosongan jawatan 12. Perlindungan daripada liabiliti diri 13. Akta Perlindungan Pihak Berkuasa Awam 1948 14. Pekhidmat awam 15. Kuasa Menteri untuk memberikan arahan 16. Penyata, laporan, akaun dan maklumat 17. Pewakilan fungsi dan kuasa Lembaga 18. Lembaga boleh menubuhkan jawatankuasa
+
+<!-- page 2 -->
+
+## BAHAGIAN III
+
+KETUA PENGARAH, PEGAWAI DAN PEKHIDMAT LEMBAGA Fa
+
+sal
+
+19. Kuasa dan kewajipan Ketua Pengarah
+
+20. Pelantikan pegawai dan pekhidmat
+
+21. Kuasa memberikan pinjaman dan membuat pendahuluan kepada pegawai dan pekhidmat
+
+22. Pewakilan kewajipan Ketua Pengarah
+
+## BAHAGIAN IV
+
+## KEWANGAN
+
+23. Kumpulan Wang
+
+24. Perbelanjaan yang hendaklah dipertanggungkan pada Kumpulan Wang
+
+25. Pcmeliharaan Kumpulan Wang
+
+26. Perbelanjaan dan penyediaan anggaran
+
+27. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980
+
+## BAHAGIAN V
+
+## KUASA DAN FUNGSI LAIN LEMBAGA
+
+28. Kuasa untuk meminjam
+
+29. Pelaburan
+
+30. Perdagangan dapatan penyelidikan
+
+31. Kuasa untuk mengambil khidmat ejen, dsb.
+
+32. Kuasa untuk memberikan pinjaman
+
+33. Kuasa untuk menubuhkan perbadanan
+
+## BAHAGIAN VI
+
+## KUASA YANG BERHUBUNGAN DENGAN PENGUATKUASAAN,
+
+## PENYITAAN, PENANGKAPAN, DSB.
+
+. 34. Pemberian kuasa kepada pegawai .35. Kuasa penyiasatan
+
+36. Kad kuasa
+
+37. Kuasa penangkapan
+
+38. Penggeledahan dan penyitaan dengan waran
+
+<!-- page 3 -->
+
+39. Penggeledahan dan penyitaan tanpa waran 40. Kuasa untuk memasuki premis 41. Pemeriksaan orang 42. Penyitaan benda, dsb. 43. Kuasa untuk memberhentikan, menggeledah dan menyita kenderaan 44. Senarai benda disita 45. Pemulangan sementara kenderaan, dsb., 46. Penjualan dan pelupusan lada, dsb., yang disita 47. Kuasa untuk menghendaki kehadiran orang yang mengetahui kes 48. Pemeriksaan orang yang mengetahui kes 49. Kebolehterimaan pernyataan dalam keterangan 50. Pelucuthakan lada, dsb., yang disita 51. Hak harta mengenai lada, dsb., yang dilucuthakkan 52. Pelepasan lada, dsb., yang disita
+
+## BAHAGIAN VII
+
+AM
+
+53. Pengawalseliaan industri lada 54. Pelantikan juruannlisis 55. Pemeriksaan atau pengujian berkadar lada yang disita 56. Kos memegang iada, dsb., yang disita 57. Tiada kos atau ganti rugi yang berbangkit daripada penyitaan boleh didapatkan 58. Kuasa tambahan 59. Menyerang atau menghalang pegawai diberi kuasa menjadi kesalahan 60. Kcwajipan menyimpan rahsia 61. Maklumat palsu 62. Kesalahan yang dilakukan oleh pertubuhan perbadanan 63. Persubahatan dan percubaan boleh dihukum sebagai kesalahan 64. Pengkorapaunan kesalahan 65. Pemulaan dan penjalanan pendakwaan 66. Bidang kuasa untuk membicarakan kesalahan 67. Perlindungan daripada tindakan guaman dan prosiding undang-undang
+
+<!-- page 4 -->
+
+68. Hadiah 69. Perlindungan pemberi maklumat 70. Kuasa untuk mengecualikan 71. Pindaan Jadual 72. Peraturan-peraturan 73. Kuasa Menteri untuk membuat peraturan-peraturan mengenai pemasaran 74. Pengesahan perbuatan yang dilakukan pada menjangkakan pembuatan Akta ini
+
+## BAHAGIAN VIII
+
+## PEMANSUHAN, KECUALIAN DAN PERALIHAN
+
+75. Pemansuhan dan pembubaran 76. Pemindahan kuasa, dsb. 77. Peraindahmilikan harta 78. Kontrak sedia ada 79. Pemindahan wang dalam kumpulan wang 80. Keanggotaan Jemaah dibubarkan 81. Penerusan pegawai dan pekhidmat 82. Kecualian bagi lesen dan daftar 83. Penerusan permohonao, dsb., yang beium selesai 84. Penerusan prosiding sivil dan jenayah 85. Sebutan dalam undang-undang atau dokumen mengenai Jemaah dibubarkan 86. Penerusan penggunaan nama 87. Pencegahan anomali
+
+## JADUAL
+
+<!-- page 5 -->
+
+bernama
+
+Suatu Akta untuk menubuhkan Lembaga Lada Malaysia; untuk membuat peruntukan yang lebih baik berkenaan dengan industri lada Malaysia; untuk membubarkan Jemaah Pemasaran Lada Hitam; dan untuk mengadakan peruntukan bagi perkara yang berbangkit dan bersampingan.
+
+DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
+
+## BAHAGIAN I PERMULAAN
+
+### Tajuk ringkas dan permulaan kuat kuasa
+
+1. (1) Akta ini bolehlah dinamakan Akta Lembaga Lada Malaysia 2006.
+
+(2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini.
+
+### Tafsiran
+
+2. Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—
+
+"Akta ini" termasuklah apa-apa perundangan subsidiari yang dibuat di bawah Akta ini;
+
+"anggota” ertinya seorang anggota Lembaga dan termasuklah anggota silih ganti;
+
+<!-- page 6 -->
+
+"bahan tanaman lada" ertinya apa-apa bahan atau bahagian daripada tumbuhan yang digunakan bagi penggandaan atau pembiakan dan termasuk keratan lada, anak benih lada dan tumbuhan daripada tisu lada;
+
+"beri lada" ertinya buah lada atau mana-mana bahagian daripadanya dan termasuklah buah yang belum matang yang biasanya dikenali sebagai bed lada hijau, buah kering dan biasanya belum matang yang pada kebiasaannya dikenali selainnya sebagai lada hitam, buah kering yang matang apabila lapisan luarnya atau perikarpanya telah dibuang yang biasanya dikenali selainnya sebagai lada putih, dan beri lada yang diproses;
+
+"dapatan penyelidikan" ertinya apa-apa hasil atau output daripada aktiviti penyelidikan dan pembangunan, dan termasuklah keluaran baru atau keluaran lebih baik, rekaan, inovasi dan kemajuan dalam apa-apa proses, teknik, alat atau mesin;
+
+"hari ditetapkan" ertinya hari Akta ini, atau jika tarikh yang berlainan ditetapkan untuk permulaan kuat kuasa bagi peruntukan yang berlainan dalam Akta ini, hari Bahagian VIII mula berkuat kuasa;
+
+"industri lada" ertinya apa-apa aktiviti yang melibatkan penanaman lada, membuat penyelidikan tentang lada, pemasaran, pemprosesan, pengilangan dan pengeluaran lada dan keluaran lada dan bahan terbitan lada dan apa-apa industri atau perkhidmatan yang berhubungan dengannya;
+
+"juruanalisis" ertinya seorang juruanalisis yang dilantik di bawah seksyen 54;
+
+"kenderaan" ertinya apa-apa kereta, vesel, kapal, pesawat udara atau apa-apa cara pengangkutan yang Iain sama ada melalui udara, laut atau darat;
+
+"keluaran lada" ertinya apa-apa keluaran yang diperbuat atau diterbitkan secara langsung atau tidak daripada lada;
+
+"Ketua Pengarah" ertinya Ketua Pengarah Lembaga yang dilantik di bawah seksyen 19;
+
+"Kumpulan Wang" ertinya Kumpulan Wang Lembaga Lada Malaysia yang ditubuhkan di bawah seksyen 23;
+
+<!-- page 7 -->
+
+"lada" ertinya spesies tumbuhan Piper nigrum Linnaeus, beri lada atau apa-apa bahagian daripadanya, dan termasuklah kacukan spesies ini, kacukan yang terhasil daripada pengacukan spesies atau kacukan ini dengan apa-apa spesies atau kacukan tumbuhan lain dan bentuk spesies atau kacukan ini yang dihasilkan daripada kejuruteraan genetik;
+
+"laut" termasuklah perairan pedalaman;
+
+"Lembaga" ertinya Lembaga Lada Malaysia yang ditubuhkan di bawah seksyen 3;
+
+"memproses" berhubung dengan lada ertinya pembersihan lada untuk membuang beri yang bersekam, berkulat atau busuk, batang, duri atau sisa atau debu lain, batu kelikir, kotoran, kulapuk atau bahan luar yang lain dan pembuatan mana-mana satu atau lebih aktiviti yang melibatkan pengeringan, pencampuran, pengadunan, pengisaran atau penghancuran dan pengekstrakan lada; tetapi tidak termasuk aktiviti yang dilakukan di peringkat kebun oleh mana- mana pekebun lada untuk memajukan pemasaran lada dari kebun yang dimiliki oleh pekebun itu sendiri;
+
+"pegawai diberi kuasa" ertinya—
+
+(a) seseorang pegawai Lembaga yang diberi kuasa di bawah seksyen 34;
+
+(b) seseorang pegawai polis yang pangkatnya tidak rendah daripada Inspektor; atau
+
+(c) seseorang pegawai Kastam dan Eksais Diraja Malaysia;
+
+"pembeli tunggal" termasuklah keadaan apabila lebih daripada seorang pembeli membeli secara bersesama dan adalah bertanggungan secara bersesama dan berasingan kepada harga pembelian itu;
+
+"Pengerusi" ertinya Pengerusi Lembaga yang dilantik di bawah seksyen 6;
+
+"penjualan secara pukal" berhubung dengan beri lada ertinya menjual suatu kuantiti yang beratnya tidak kurang daripada lima ratus kilogram pada mana-mana satu keadaan kepada mana-mana pembeli tunggal;
+
+<!-- page 8 -->
+
+"rempah" ertinya apa-apa bahagian apa-apa tumbuhan beraroma dalam apa jua bentuk dan ekstrak daripadanya yang biasanya digunakan untuk memberikan rasa atau aroma dalam makanan dan bahan bukan makanan.
+
+## BAHAGIAN II
+
+## PENUBUHAN LEMBAGA
+
+### Lembaga dan matlamatnya
+
+3. (1) Suatu pertubuhan perbadanan dengan nama Lembaga Lada Malaysia ditubuhkan.
+
+(2) Lembaga adalah kekal turun-temurun dan mempunyai suatu meterai perbadanan, dan boleh membawa guaman dan dibawa guaman atas namanya.
+
+(3) Matlamat Lembaga adalah —
+
+(a) untuk menggalakkan penanaman lada;
+
+(b) untuk membangunkan dan menggalakkan industri lada;
+
+(c) untuk menggalakkan penyelidikan tentang lada, keluaran lada dan industri lada;
+
+(d) untuk membangunkan matlamat, dasar dan keutamaan negara bagi pembangunan dan pentadbiran industri lada Malaysia yang teratur; dan
+
+(e) untuk mengawal selia industri lada kecuali penanaman dan penyelidikan tentang lada.
+
+(4) Peruntukan Jadual Pertama hendaklah terpakai bagi Lembaga.
+
+Fungss Lembaga
+
+4. Fungsi Lembaga adalah —
+
+(a) untuk melaksanakan dasar dan program pembangunan untuk memastikan pertumbuhan dan daya maju industri lada Malaysia;
+
+(b) untuk terlibat dalam perdagangan lada, keluaran lada dan memperluas perdagangan kepada rempah-rempah yang lain;
+
+<!-- page 9 -->
+
+(c) untuk menggalakkan atau menjalankan penyelidikan dan pembangunan yang berhubungan dengan industri lada dan memperdagangkan dapatan penyelidikan demi manfaat industri lada;
+
+(d) untuk menggalakkan, mengawal dan memantau langkah- langkah bagi mendapatkan lada, keluaran lada dan rempah lain yang berkualiti tinggi;
+
+(e) untuk mengadakan perkhidmatan teknikal, nasihat, perundingan dan perkhidmatan yang berkaitan termasuk latihan kepada industri lada;
+
+(f) untuk mengumpulkan, menguruskan dan menyebarkan maklumat dan menyenggarakan rekod semua perkara yang berkaitan yang berhubungan dengan industri lada;
+
+(g) untuk berhubung dan membuat penyelarasan dengan Kerajaan Negeri yang berkaitan dan badan-badan lain termasuk menjadi anggota persatuan di dalam dan di luar Malaysia demi kepentingan industri lada; dan
+
+(h) untuk melakukan apa-apa perkara lain yang didapatinya patut untuk membolehkannya melaksanakan fungsinya dengan berkesan atau yang bersampingan dengan pelaksanaan fungsinya.
+
+### Kuasa I.embaga
+
+5. (1) Tertakluk kepada dan bagi maksud Aktaini, kuasa Lembaga hendaklah termasuk kuasa—
+
+(a) untuk membuat kontrak;
+
+(b) untuk memperoleh, membeli, mengambil, memegang dan menikmati tiap-tiap jenis harta alih atau harta tak alih;
+
+(c) untukmemindahkan,menyerahhakkan,menyerahkanbalik, memulangkan, menggadaikan, menggadai janji, mendemis, menyerahhakkan semula, memindahkan hakmilik, atau selainnya melupuskan, atau membuat apa-apa urusan mengenai apa-apa harta alih atau harta tak alih atau apa-apa kepentingan dalamnya, yang terletak hak pada Lembaga;
+
+<!-- page 10 -->
+
+JO
+
+(d) untuk mengusahakan dan menyelaraskan aktiviti yang- berhubungan dengan penyelidikan dan pembangunan dalam penanaraan, pengeluaran, penuaian, pengekstrakan, pemprosesan, penyimpanan, pengangkutan, pemakaian, penggunaan dan pemasaran lada dan keluaran lada termasuk sisa lada dan perkhidmatan yang berhubungan dengannya;
+
+(e) untuk mengenakan fi atau apa-apa caj lain yang difikirkannya patut bagi penggunaan apa-apa kemudahan yang berhubungan dengan penyelidikan, penyiasatan, pengujian, perkhidmatan nasihat atau apa-apa perkhidmatan lain yang disediakan oleh Lembaga;
+
+(f) untuk mengutip dan raenerima apa-apa wang berhubung dengan aktiviti perdagangannya dan penggunaan kemudahannya dan sebagai balasan perkhidmatan lain yang disediakan oleh Lembaga;
+
+(g) untuk membuat apa-apa rundingan dan perjanjian atau perkiraan yang disifatkannya patut bagi menunaikan fungsinya;
+
+(h) untuk memperoleh, memegang, melupuskan atau memberikan hak berkaitan dengan hasil apa-apa penyelidikan yang dijalankan oleh atau bagi Lembaga atau berkaitan dengan hasil apa-apa penyelidikan yang diusahakan oleh mana-mana orang atau organisasi;
+
+(I) untuk menyediakan, dengan kelulusan Menteri, bantuan kewangan atau bantuan lain kepada pekebun lada dan aktiviti mereka yang berkaitan;
+
+(j) untuk menugaskan mana-mana orang atau badan untuk menjalankan penyelidikan atau pembangunan, atau kedua- duanya;
+
+(k) untuk memberikan perakuan kecekapan berkenaan dengan program latihan dan program bertauliah;
+
+(I) untuk mengusahakan dan menyelaraskan apa-apa aktiviti yang disifatkannya perlu bagi maksud melindungi dan memajukan kepentingan industri lada Malaysia;
+
+(m) untuk mengawal selia industri lada, kecuali penanaman dan penyelidikan lada, termasuk pelaksanaan dan penguatkuasaan apa-apa peraturan-peraturan yang dibuat di bawah Akta ini;
+
+<!-- page 11 -->
+
+(n) untuk memberikan lesen, perakuan, permit dan kelulusan di bawah Akta ini berkenaan dengan industri lada;
+
+(o) untuk menetapkan piawaian atau gred lada dan keluaran lada; dan
+
+(p) untuk melakukan semua perkara yang suai manfaat atau perlu atau yang bersampingan dengan pelaksanaan fungsinya di bawah Akta ini.
+
+(2) Lembaga boleh, dalam menunaikan apa-apa fungsinya, dalam hal yang bersesuaian menjalankan akdviti perniagaan bagi mendapat untung atau faedah melalui syarikat yang boleh ditubuhkan dari semasa ke semasa di bawah Akta Syarikat 1965 [Akta 125] dan syankat itu hanya boleh ditubuhkan setelah diluluskan oleh Menteri dengan persetujuan Menteri Kewangan.
+
+(3) Menteri boleh membuat peraturan-peraturan bagi menetapkan apa-apa aktiviti atau kepentingan atau bagi menetapkan terma dan syarat mana-mana aktiviti atau kepentingan mana-mana anggota, pegawai atau pekhidmat Lembaga berhubung dengan mana-mana syarikat yang ditubuhkan di bawah subseksyen (2) atau kepada mana-mana syarikat, perusahaan atau pengusahaan.
+
+(4) Apa-apa peninggalan atau keabaian untuk mematuhi dan apa-apa perbuatan yang dilakukan atau yang cuba dilakukan yang berlawanan dengan peruntukan peraturan-peraturan itu adalah suatu kesalahan di bawah Akta ini dan pesalah itu boleh apabila disabitkan didenda tidak mclebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua- duanya.
+
+### Keanggotaan Lembaga
+
+6. Lembaga hendaklah terdiri daripada anggota yang berikut yang hendaklah dilantik oleh Menteri:
+
+(a) seorang Pengerusi;
+
+(b) seorang wakil Kementerian yang dipertanggungkan dengan tanggungjawab bagi industri lada, yang hendaklah dinamakan oleh Ketua Setiausaha Kementerian;
+
+(c) seorang wakil Perbendaharaan, yang dinamakan oleh Ketua Setiausaha Kementerian Kewangan;
+
+<!-- page 12 -->
+
+(d) seorang wakil Kementerian yang dipertanggungkan dengan-
+
+### tanggungjawab bagi pertanian, yang dinamakan oleh Ketua
+
+### Setiausaha Kementerian;
+
+(e) seorang wakil Unit Perancang Ekonomi (UPE) Jabatan
+
+### Perdana Menteri yang dinamakan oleh Ketua Pengarah
+
+### UPE;
+
+(f) dua orang wakil daripada Kerajaan Negeri Sarawak;
+
+(g) seorang wakil daripada Kerajaan Negeri lain selain
+
+### Sarawak;
+
+(h) tiga orang wakil industri lada, yang sekurang-kurangnya
+
+### dua daripadanya hendaklah daripada Sarawak;
+
+(i) dua orang yang, pada pendapat Menteri, dapat menyumbang
+
+### kepada pembangunan industri lada; dan
+
+(j) Ketua Pengarah.
+
+### Tempoh jawatan
+
+7. Seseorang anggota Lembaga yang dilantik oleh Menteri
+
+### hendaklah, melainkan jika dia terlebih dahulu meletakkan atau
+
+### mengosongkan jawatannya atau pelantikannya terlebih dahulu
+
+### dibatalkan, memegang jawatan selama tempoh yang tidak melebihi
+
+### dua tahun atas apa-apa syarat yang dinyatakan dalam surat cara
+
+### pelantikannya dan adalah layak untuk dilantik semula.
+
+### Anggota silih ganti
+
+8. (1) Menteri boleh melantik seseorang untuk menjadi anggota
+
+### silih ganti berkenaan dengan setiap anggota Lembaga yang dilantik
+
+### di bawah perenggan 6(b) hingga (?) untuk menghadiri mesyuarat
+
+### Lembaga sebagai ganti anggota itu apabila anggota itu tidak dapat
+
+### nadir atas apa-apa sebab.
+
+(2) Apabila menghadiri mesyuarat Lembaga seseorang anggota
+
+### silih ganti hendaklah bagi segala maksud disifatkan sebagai anggota
+
+### Lembaga.
+
+(3) Seseorang anggota silih ganti hendaklah, melainkan jika
+
+### dia terlebih dahulu meletakkan keanggotaannya atau pelantikannya
+
+### terlebih dahulu dibatalkan, terhenti menjadi anggota silih ganti
+
+<!-- page 13 -->
+
+apabila anggota yang baginya dia merupakan anggota silih ganti terhenti menjadi anggota Lembaga.
+
+### Penjalanan sementara fungsi Pengerusi
+
+9. (1) Jika Pengerusi atas apa-apa sebab tidak dapat melaksanakan fungsi Pengerusi atau semasa apa-apa tempoh kekosongan jawatan Pengerusi, Menteri boleh melantik mana-mana anggota Lembaga selain FCetua Pengarah untuk melaksanakan fungsi Pengerusi.
+
+(2) Sehingga suatu pelantikan di bawah subseksyen (1) dibuat atau jika tiada pelantikan sedemikian atau jika Pengerusi tidak hadir pada mana-mana mesyuarat Lembaga, anggota yang dilantik di bawah perenggan 6(b) hendaklah melaksanakan fungsi Pengerusi.
+
+(3) Seseorang anggota yang dilantik di bawah subseksyen (1) atau anggota yang disebut dalam subseksyen (2), mengikut mana- mana yang berkenaan, hendaklah, dalam tempoh dia meJaksanakan fungsi Pengerusi di bawah seksyen ini disifatkan sebagai Pengerusi.
+
+(4) Jika pada mana-mana mesyuarat Lembaga Pengerusi mahupun orang yang menjalankan fungsi Pengerusi tidak hadir, anggota yang hadir hendaklah melantik seorang daripada kalangan anggota yang hadir itu untuk mempengerusikan mesyuarat itu.
+
+### Pembatalan pelantikan dan peletakan jawatan
+
+10. (1) Pelantikan mana-mana anggota yang dilantik oleh Menteri bolch pada bila-bila masa dibatalkan oleh Menteri tanpa memberikan apa-apa sebab baginya-
+
+(2) Seseorang anggota yang dilantik oleh Menteri boleh pada bila-bila masa meletakkan jawatannya dengan memberikan notis bertulis yang dialamatkan kepada Menteri.
+
+### Pengosongan jawatan
+
+11. (1) Jawatan seseorang anggota Lembaga yang dilantik oleh Menteri hendaklah menjadi kosong jika—
+
+(a) dia meninggal dunia;
+
+<!-- page 14 -->
+
+(b) telah dibuktikan terhadapnya, atau dia telah disabitkan. atas, sesuatu pertuduhan berkenaan dengan—
+
+(i) kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak;
+
+(ii) kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah; atau
+
+(iii) apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (pemenjaraan sahaja atau sebagai tambahan kepada atau sebagai ganti denda) selama lebih daripada dua tahun;
+
+(c) dia menjadi bankrap;
+
+(d) dia tidak sempurna akal atau selainnya tidak berupaya menunaikan kewajipannya;
+
+(e) dia tidak menghadiri mesyuarat Lembaga tiga kali berturut- turut tanpa kebenaran Pengerusi atau, dalam hal Pengerusi tanpa kebenaran Menteri;
+
+(f) peletakan jawatannya diterima oleh Menteri; atau
+
+(g) pelantikannya dibatalkan oleh Menteri.
+
+(2) Jika mana-mana orang yang dilantik oieh Menteri terhenti menjadi anggota oleh sebab mana-mana peruntukan Akta ini, seorang lain hendaklah dilantik untuk menggantikannya mengikut seksyen 6 dan 7.
+
+### Perlindungan daripada liabiliti diri
+
+12. Tiada seorang pun anggota Lembaga atau mana-mana jawatankuasa, dan tiada pegawai, pekhidmat atau ejen Lembaga, hendaklah menanggung liabiliti diri bagi apa-apa kerugian atau kerosakan yang disebabkan oleh apa-apa perbuatan atau peninggalan dalam menjalankan kuasa atau kewajipannya di bawah Akta ini, melainkan jika kerugian atau kerosakan itu disebabkan oleh sesuatu perbuatan salah atau peninggalan yang disengajakan oleh dirinya.
+
+### Akta Perlindungan Pihak Berkuasa Awam 1948
+
+13. Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Lembaga atau mana-mana jawatankuasa,
+
+<!-- page 15 -->
+
+atau terhadap mana-mana anggota, pegawai, pekhidmat atau ejen Lembaga berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat yang sedemikian itu.
+
+### Pekhidmat awam
+
+14. Tiap-tiap anggota Lembaga atau mana-mana jawatankuasanya, atau mana-mana pegawai, pekhidmat atau ejen Lembaga, semasa menunaikan kewajipannya sebagai anggota, pegawai, pekhidmat atau ejen Lembaga hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574].
+
+### Kuasa Menteri untuk memberikan arahan
+
+15. (1) Lembaga hendaklah bertanggungjawab kepada Menteri.
+
+(2) Menteri boleh memberikan arahan yang selaras dengan Akta ini kepada Lembaga.
+
+(3) Lembaga hendaklah melaksanakan kesemua arahan yang diberikan di bawah seksyen ini dengan seberapa segera yang mungkin.
+
+### Penyata, laporan, akaun dan maklumat
+
+16. (1) Lembaga hendaklah memberi Menteri, dan mana-mana pihak berkuasa awam sebagaimana yang diarahkan oleh Menteri, apa-apa penyata, laporan, akaun dan maklumat mengenai harta dan aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri.
+
+(2) Tanpa menjejaskan keluasan subseksyen (1), Lembaga, hendaklah dengan seberapa segera yang dapat dilaksanakan selepas berakhir setiap tahun kewangan, menyebabkan supaya dibuat dan dihantar kepada Menteri dan, jika diarahkan sedemikian oleh Menteri, kepada mana-mana pihak berkuasa awam yang lain, suatu laporan yang menyatakan aktiviti Lembaga sepanjang tahun kewangan yang sebelumnya dan laporan itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa-apa maklumat yang berhubungan dengan presiding dan dasar Lembaga sebagaimana yang ditentukan oleh Menteri.
+
+<!-- page 16 -->
+
+### Pewakilan fungsi dan kuasa Lembaga
+
+17. (1) Lembaga boleh, tertakluk kepada apa-apa syarat, had atau sekatan yang didapatinya patut dikenakan, mewakilkan mana-mana fungsi atau kuasanya, kecuali kuasa untuk meminjam wang, memberikan pinjaman, menubuhkan perbadanan atau membuat peraturan-peraturan, kepada—
+
+(a) mana-mana anggota Lembaga;
+
+(b) mana-mana jawatankuasa yang ditubuhkan oleh Lembaga; atau
+
+(c) mana-mana pegawai atau pekhidmat Lembaga,
+
+dan mana-mana fungsi atau kuasa yang diwakilkan sedemikian boleh dilaksanakan atau dijalankan oleh anggota, pegawai atau pekhidmat itu, mengikut mana-mana yang berkenaan, atas nama dan bagi pihak Lembaga.
+
+(2) Pewakilan di bawah seksyen ini tidaklah menghalang Lembaga sendiri daripada melaksanakan atau menjalankan pada bila-bila masa, mana-mana fungsi atau kuasa yang diwakilkan sedemikian.
+
+(3) Tanpa menjejaskan keluasan subseksyen (1) dan peruntukan- peruntukan lain Akta ini, Lembaga boleh mewakilkan kepada Ketua Pengarah —
+
+(a) kuasa untuk memberikan pinjaman dan membuat pendahuluan kepada pegawai dan pekhidmat Lembaga di bawah seksyen 21; dan
+
+(b) kuasa untuk membenarkan perbelanjaan daripada Kumpulan Wang atau mana-mana wang lain yang terletak hak pada atau yang di bawah kawalan Lembaga sehingga apa-apa had yang ditentukan oleh Lembaga.
+
+### Lembaga boleh menubuhkan jawatankuasa
+
+18. ( 1 ) Lembaga boleh menubuhkan apa-apa jawatankuasa yang didapatinya perlu atau suai manfaat untuk membantunya dalam melaksanakan fungsinya di bawah Akta ini.
+
+(2) Lembaga boleh melantik mana-mana orang untuk menjadi anggota mana-mana jawatankuasa yang ditubuhkan di bawah subseksyen (1).
+
+<!-- page 17 -->
+
+(3) Sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini boleh memilih mana-mana anggotanya menjadi pengerusi dan boleh mengawal selia tatacaranya sendiri dan, pada menjalankan kuasanya di bawah subseksyen ini, jawatankuasa itu adalah tertakluk kepada dan hendaklah bertindak mengikut apa-apa arahan yang diberikan kepada jawatankuasa itu oleh Lembaga.
+
+(4) Mesyuarat sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini hendaklah diadakan pada bila-bila masa dan di mana- mana tempat yang ditentukan oleh pengerusi jawatankuasa itu, tertakluk kepada subseksyen (3).
+
+(5) Sesuatu jawatankuasa boleh mengundang mana-mana orang yang bukan anggota jawatankuasa untuk menghadiri mana-mana mesyuarat jawatankuasa, bagi maksud menasihatinya mengenai apa-apa perkara yang sedang dibincangkan tetapi orang itu tidak berhak mengundi pada mana-mana mesyuarat itu.
+
+(6) Anggota jawatankuasa atau mana-mana orang yang diundang di bawah subseksyen (5) untuk menghadiri mana-mana mesyuarat sesuatu jawatankuasa boleh dibayar apa-apa elaun dan perbelanjaan lain yang ditentukan oleh Lembaga.
+
+(7) Anggota sesuatu jawatankuasa hendaklah memegang jawatan selama apa-apa tempoh yang dinyatakan dalam surat cara pelantikannya dan adalah layak untuk dilantik semula.
+
+(8) Pelantikan mana-mana anggota sesuatu jawatankuasa boleh pada bila-bila masa dibatalkan oleh Lembaga tanpa memberikan apa-apa sebab baginya.
+
+(9) Anggota sesuatu jawatankuasa boleh pada bila-bila masa meletakkan jawatannya dengan memberikan notis bertulis yang dialamatkan kepada Pengerusi Lembaga.
+
+## BAHAGIAN III
+
+## KETUA PENGARAH, PEGAWAI DAN PEKHIDMAT LEMBAGA
+
+### Kuasa dan kewajiban Ketua Pengarah
+
+19. (1) Menteri hendaklah melantik seorang Ketua Pengarah Lembaga atas apa-apa terma dan syarat yang ditentukan oleh Menteri.
+
+<!-- page 18 -->
+
+(2) Lembaga hendaklah meletakhakkan pada Ketua Pengarah • apa-apa kuasa dan hendaklah mengenakan ke atasnya apa-apa kewajipan yang ditentukan oleh Lembaga.
+
+(3) Ketua Pengarah adalah bertanggungjawab bagi—
+
+(a) pentadbiran dan pengurusan sewajarnya hal ehwal Lembaga;
+
+(b) penyediaan—
+
+(i) semua program, skim, projek dan aktiviti;
+
+(ii) anggaran perbelanjaan bagi pelaksanaan program tahunan; dan
+
+(iii) anggaran pendapatan,
+
+untuk kelulusan Lembaga,
+
+(c) pelaksanaan program tahunan Lembaga; dan
+
+(d) pelaksanaan keputusan dan arahan Lembaga.
+
+(4) Ketua Pengarah hendaklah mempunyai kawalan am ke atas pegawai dan pekhidmat Lembaga.
+
+(5) Ketua Pengarah hendaklah melaksanakan apa-apa kewajipan tambahan sebagaimana yang diarahkan oleh Lembaga.
+
+(6) Dalam menunaikan kewajipannya, Ketua Pengarah hendaklah bertindak di bawah kuasa dan arahan am Lembaga.
+
+(7) Jika Ketua Pengarah tidak ada di Malaysia buat sementara atau tidak berupaya buat sementara oleh sebab sakit atau kerana apa-apa sebab lain untuk melaksanakan kewajipannya, atau jika jawatan Ketua Pengarah buat sementara adalah kosong, Lembaga boleh mengarahkan Timbalan Ketua Pengarah untuk melaksanakan kewajipan Ketua Pengarah semasa ketidakhadiran, ketidakupayaan atau kekosongan itu buat sementara itu.
+
+(8) Bagi maksud subseksyen (7)—
+
+(a) jika terdapat lebih daripada seorang Timbalan Ketua Pengarah, Lembaga hendaklah menamakan seorang Timbalan Ketua Pengarah untuk melaksanakan kewajipan itu; dan
+
+<!-- page 19 -->
+
+(b) jikajawatan Timbalan Ketua Pengarah kosong, Lembaga boleh mengarahkan mana-mana pegawai lain Lembaga untuk melaksanakan kewajipan itu.
+
+### Pelantikan pegawai dan pekhidmat
+
+20. (1) Tertakluk kepada apa-apa peraturan yang dibuat di bawah subseksyen (3), Lembaga boleh —
+
+(a) dengan keizinan Menteri, melantik apa-apa bilangan Timbalan Ketua Pengarah;
+
+(b) melantik apa-apa bilangan pegawai dan pekhidmat lain sebagaimana yang perlu bagi menjalankan maksud Akta ini,
+
+atas apa-apa terma dan syarat yang didapati wajar oleh Lembaga.
+
+(2) Tiada seorang pun layak diambil khidmat sebagai pegawai atau pekhidmat Lembaga jika dia mempunyai, secara langsung atau tidak langsung, dengan sendiri atau melalui pekongsinya, apa-apa bahagian atau kepentingan dalam apa-apa kontrak atau kontrak yang dicadangkan dengan, bagi atau bagi pihak Lembaga.
+
+(3) Lembaga boleh, dengan kelulusan Menteri, membuat peraturan- peraturan berkenaan dengan syarat-syarat perkhidmatan pegawai dan pekhidmatnya.
+
+### Kuasa memberikan pinjaman dan membuat pendahuluan
+
+### kepada pegawai dan pekhidmat
+
+21. Lembaga boleh memberikan pinjaman dan membuat pendahuluan kepada pegawai dan pekhidmatnya atas apa-apa terma dan syarat yang ditentukan oleh Lembaga.
+
+### Pewakilan kewajipan Ketua Pengarah
+
+22. (1) Ketua Pengarah boleh secara bertulis mewakilkan apa-apa kuasa atau kewajipan yang diberikan kepadanya di bawah Akta ini kepada mana-mana pegawai Lembaga, tertakluk kepada apa-apa terma dan syarat yang difikirkannya patut.
+
+(2) Pewakilan di bawah seksyen ini tidaklah menghalang Ketua Pengarah sendiri daripada melaksanakan atau menjalankan, pada
+
+<!-- page 20 -->
+
+bila-bila masa, mana-mana kuasa atau kewajipan yang diwakilkan- sedemikian.
+
+## BAHAGIAN IV
+
+## KEWANGAN
+
+### Kumpulan Wang
+
+23. (1) Bagi maksud Akta ini, suatu kumpulan wang yang dikenali sebagai "Kumpulan Wang Lembaga Lada Malaysia" ditubuhkan.
+
+(2) Kumpulan Wang hendaklah dikawal, disenggarakan dan dikendalikan oleh Lembaga.
+
+(3) Kumpulan Wang hendaklah terdiri daripada—
+
+(a) apa-apa jumlah yang diperuntukkan bagi maksud Akta ini oleh Kerajaan Persekutuan atau mana-mana Kerajaan Negeri;
+
+(b) wang yang diperoleh daripada pengendalian apa-apa projek, skim atau perusahaan yang dibiayai daripada Kumpulan Wang;
+
+(c) wang yang diperoleh atau berbangkit daripada apa-apa harta, pelaburan, gadai janji, pajakan, sewaan, gadaian atau debentur yang diperoleh oleh atau yang terletak hak pada Lembaga;
+
+(d) apa-apa harta, pelaburan, gadai janji, pajakan, sewaan, gadaian atau debentur yang diperoleh atau yang terletak hak pada Lembaga;
+
+(e) jumlah wang yang dipinjam oleh Lembaga bagi maksud memenuhi mana-mana obligasinya atau menunaikan mana- mana kewajipannya;
+
+(f) wang yang diperoleh daripada perkhidmatan perundingan, nasihat atau apa-apa perkhidmatan lain yang diberikan oleh Lembaga;
+
+(g) wang yang dikutip atau dibayar di bawah seksyen 64;
+
+<!-- page 21 -->
+
+(h) wang yang dikutip oleh Lembaga di bawah peraturan- peraturan yang dibuat di bawah Akta ini dan yang dinyatakan dalamnya sebagai jumlah wang yang kena dibayar ke dalam Kumpulan Wang;
+
+(i) wang yang diagihkan sebagai dividen daripada perbadanan yang ditubuhkan di bawah Akta ini;
+
+(j) derma dan sumbangan yang diterima dari dalam atau luar Malaysia dan termasuklah wang yang diterima daripada mana-mana kerajaan atau organisasi di luar Malaysia; dan
+
+(k) segala jumlah wang atau harta yang mungkin dengan apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Lembaga berkenaan dengan apa-apa perkara yang bersampingan dengan fungsi dan kuasanya.
+
+### Perbelanjaan yang hendaklah dipertanggungkan pada
+
+### Kumpulan Wang
+
+24. Kumpulan Wang hendaklah dibelanjakan bagi maksud —
+
+(a) membayar apa-apa perbelanjaan yang dilakukan dengan sah oleh Lembaga, termasuk—
+
+(i) saraan pegawai dan pekhidmat Lembaga, termasuk pemberian pinjaman, elaun persaraan, pencen atau ganjaran;
+
+(ii) perlindungan insurans bagi pegawai dan pekhidmat Lembaga;
+
+(iii) kos yang dilakukan dalam membuat peruntukan bagi kebajikan pegawai dan pekhidmat Lembaga; dan
+
+(iv) fi dan kos guaman dan apa-apa fi dan kos lain;
+
+(b) membiayai aktiviti penyelidikan dan kemajuan;
+
+(c) menyumbang kepada badan atau organisasi yang dianggotai oleh Lembaga;
+
+(d) menyumbang kepada organisasi yang berhubungan dengan industri lada sebagaimana yang ditentukan oleh Menteri;
+
+(e) memberikan bantuan kewangan kepada pekebun lada dengan kelulusan Menteri;
+
+<!-- page 22 -->
+
+(f) membiayai apa-apa biasiswa bagi pendidikan tinggi yang" diluluskan oleh Lembaga;
+
+(g) memberikan pinjaman atau bantuan kepada institusi pengajian tinggi di dalam atau di luar Malaysia bagi maksud pembangunan sumber manusia dalam industri lada;
+
+(h) memberikan pinjaman kepada atau mengadakan modal bagi perbadanan yang ditubuhkan di bawah Akta ini;
+
+(i) membayar apa-apa belanja, kos atau perbelanjaan lain yang dilakukan atau dipersetujui dengan sewajarnya oleh Lembaga pada melaksanakan fungsinya atau menjalankan kuasanya di bawah Akta ini;
+
+(j) tertakluk kepada kelulusan Menteri, memberikan sumbangan kepada mana-mana organisasi, sama ada di dalam atau di luar Malaysia, bagi maksud menggalakkan pemasaran keluaran lada;
+
+(k) membeli atau menyewa kelengkapan, jentera dan apa- apa bahan lain, memperoleh tanah dan mendirikan bangunan, dan menjalankan apa-apa kerja dan pengusahaan lain pada melaksanakan fungsinya atau menjalankan kuasanya di bawah Akta ini;
+
+(I) membayar balik apa-apa wang yang dipinjam di bawah Akta ini dan bunga yang kena dibayar atas wang itu;
+
+(m) membayar apa-apa hadiah di bawah seksyen 68; dan
+
+(n) secara amnya, membayar apa-apa perbelanjaan untuk melaksanakan peruntukan Akta ini.
+
+### Pemeliharaan Kumpulan Wang
+
+25. Menjadi kewajipan Lembaga untuk memelihara Kumpulan Wang dengan melaksanakan fungsinya dan menjalankan kuasanya di bawah Akta ini dengan sedemikian cara untuk memastikan bahawa jumlah hasil Lembaga mencukupi untuk membayar semua jumlah wang yang dipertanggungkan dengan sepatutnya pada akaun hasilnya termasuk susut nilai dan bunga atas modal dari setahun ke setahun.
+
+<!-- page 23 -->
+
+### Perbelanjaan dan penyediaan anggaran
+
+26. (1) Perbelanjaan Lembaga sehingga apa-apa amaun yang dibenarkan oleb Menteri bagi mana-mana satu tahun hendaklah dibayar daripada Kumpulan Wang.
+
+(2) Sebelum permulaan bulan Jun setiap tahun, Lembaga hendaklah mengemukakan kepada Menteri suatu anggaran perbelanjaan (termasuk perbelanjaan bagi aktiviti penyelidikan dan pembangunan) bagi tahun yang berikutnya dalam apa-apa bentuk dan mengandungi apa-apa butiran sebagaimana yang diarahkan oleh Menteri; dan Menteri hendaklah, sebelum permulaan bulan Disember tahun itu, memberitahu Lembaga amaun yang dibenarkan bagi perbelanjaan pada amnya atau amaun yang dibenarkan bagi setiap perihalan perbelanjaan.
+
+(3) Lembaga boleh pada bila-bila masa mengemukakan kepada Menteri suatu anggaran tambahan bagi mana-mana satu tahun dan Menteri boleh membenarkan keseluruhan atau mana-mana bahagian perbelanjaan tambahan dimasukkan ke dalam anggaran tambahan itu.
+
+### Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980
+
+27. Akta Badan Bcrkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Lembaga dan mana-mana perbadanan yang ditubuhkan di bawah Akta ini.
+
+## BAHAGIAN V
+
+## KUASA DAN FUNGSI LAIN LEMBAGA
+
+### Kuasa untuk meminjam
+
+28. Lembaga boleh, dengan kelulusan Menteri dan Menteri Kewangan, meminjam, pada apa-apa kadar bunga dan bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan kaedah pembayaran balik dan selainnya sebagaimana yang diluluskan oleh Menteri dan Menteri Kewangan, apa-apa jumlah wang yang dikehendaki oleh Lembaga bagi memenuhi mana-mana obligasinya atau bagi menunaikan mana-mana kewajipannya.
+
+<!-- page 24 -->
+
+### Pelaburan
+
+29. (1) Wang Lembaga hendaklah, setakatyang tidak dikehendaki
+
+### untuk dibelanjakan oleh Lembaga di bawah Akta ini, dilaburkan
+
+### mengikut apa-apa cara sebagaimana yang diluluskan oleh Menteri
+
+### dan Menteri Kewangan.
+
+(2) Tanpa menjejaskan keluasan subseksyen (1), Lembaga boleh,
+
+### dengan kelulusan Menteri, memperoleh dan membangunkan tanah
+
+### dan harta bagi atau berkaitan dengan penjalanan kuasanya dan
+
+### bagi maksud ini boleh membuat apa-apa rundingan, perkiraan atau
+
+### perjanjian sebagaimana yang perlu untuk menghasilkan pendapatan
+
+### yang dikehendaki bagi pengendalian Lembaga.
+
+### Perdagangan dapatan penyelidikan
+
+30. Lembaga boleh menjadikan tersedia apa-apa dapatan
+
+### penyelidikan yang terletak hak pada Lembaga untuk mana-mana
+
+### orang atau badan tertakluk kepada apa-apa syarat dan pembayaran
+
+### apa-apa fi, royalti atau balasan Iain, jika ada, yang ditetapkan oleh
+
+### Lembaga dengan kelulusan Menteri, bagi maksud
+
+### memperdagangkannya.
+
+### Kuasa untuk mengambil khidmat ejen, dsb.
+
+31. Lembaga boleh mengambil khidmat dan membayar ejen dan
+
+### penasihat teknikal, termasuk peguam bela dan peguam cara, jurubank,
+
+### broker saham, juruukur, penilai dan orang lain, untuk menjalankan
+
+### apa-apa urusan atau untuk melakukan apa-apa perbuatan yang
+
+### dikehendaki dijalankan atau dilakukan pada melaksanakan fungsinya,
+
+### menjalankan kuasanya atau menunaikan kewajipannya atau bagi
+
+### melaksanakan maksud Akta ini dengan lebih baik.
+
+### Kuasa untuk memberikan pinjaman
+
+32. Lembaga boleh, dengan kelulusan Menteri dan Menteri
+
+### Kewangan, memberikan pinjaman pada apa-apa kadar bunga dan
+
+### bagi apa-apa tempoh dan atas apa-apa terma tentang masa dan cara
+
+### pembayaran balik dan selainnya sebagaimana yang diluluskan oleh
+
+### Menteri dan Menteri Kewangan.
+
+<!-- page 25 -->
+
+### Kuasa untuk menubuhkan perbadanan
+
+33. (1) Lembaga boleh, dengan kelulusan Menteri dan Menteri Kewangan, melalui perintah yang disiarkan dalam Warta, menubuhkan suatu perbadanan, dengan apa-apa nama yang difikirkan patut oleh Lembaga, untuk menjalankan dan untuk menjaga, mengelolakan dan menguruskan apa-apa projek, skim atau perusahaan yang telah dirancangkan atau diusahakan oleh Lembaga pada melaksanakan fungsinya, menjalankan kuasanya atau menunaikan kewajipannya.
+
+(2) Peruntukan Jadual Kedua hendaklah terpakai bagi tiap- tiap perbadanan yang ditubiihkan oleh Lembaga di bawah subseksyen
+
+(1).
+
+## BAHAGIAN VI
+
+## KUASA YANG BERHUBUNGAN DENGAN PENGUATKUASAAN,
+
+## PENYITAAN, PENANGKAPAN, DSB.
+
+### Pemberian kuasa kepada pegawai
+
+34. Ketua Pengarah boleh secara bertulis memberi kuasa kepada mana-mana pegawai Lembaga untuk menjalankan kuasa penguatkuasaan di bawah Akta ini.
+
+### Kuasa penyiasatan
+
+35. Seseorang pegawai diberi kuasa boleh menyiasat pelakuan apa-apa kesalahan di bawah Akta ini.
+
+### Kad kuasa
+
+36. (1) Maka hendaklah dikeluarkan kepada setiap pegawai yang diberi kuasa di bawah seksyen 34, suatu kad kuasa yang hendaklah ditandatangani oleh Ketua Pengarah.
+
+(2) Bilamana seseorang pegawai yang diberi kuasa menjalankan mana-mana kuasa di bawah Akta ini, dia hendaklah, apabila diminta, mengemukakan kepada orang yang terhadapnya kuasa itu sedang dijalankan kad kuasa yang dikeluarkan kepadanya di bawah subseksyen (1).
+
+<!-- page 26 -->
+
+### Kuasa penangkapan
+
+37. (1) Seseorang pegawai diberi kuasa boleh menangkap tanpa waran mana-mana orang —
+
+(a) yang didapati melakukan atau cuba melakukan atau bersubahat dalam pelakuan suatu kesalahan di bawah Akta ini; atau
+
+(b) yang dengan semunasabahnya disyaki oleh pegawai diberi kuasa sebagai terlibat dalam melakukan atau cuba melakukan atau bersubahat dalam pelakuan suatu kesalahan di bawah Akta ini.
+
+(2) Seseorang pegawai diberi kuasa yang membuat penangkapan di bawah subseksyen (1) hendaklah, tanpa kelengahan yang tidak perlu, membawa orang yang ditangkap itu ke balai polis yang paling hampir, dan sesudah itu orang itu hendaklah diperlakukan mengikut undang-undang yang berhubungan dengan tatacara jenayah yang sedang berkuat kuasa.
+
+### Penggeledahan dan penyitaan dengan waran
+
+38. (1) Jika ternyata pada Majistret, berdasarkan maklumat bertulis dengan bersumpah dan selepas apa-apa siasatan sebagaimana yang difikirkannya perlu, bahawa terdapat sebab yang munasabah untuk mempercayai bahawa—
+
+(a) mana-mana premis telah digunakan atau akan digunakan bagi; atau
+
+(b) ada di dalam mana-mana premis keterangan yang perlu bagi penjalanan penyiasatan mengenai,
+
+pelakuan suatu kesalahan di bawah Akta ini, Majistret boleh mengeluarkan suatu waran yang memberi kuasa kepada pegawai yang diberi kuasa yang dinamakan dalam waran itu, pada bila-bila masa yang munasabah sama ada pada waktu siang atau malam hari dan dengan atau tanpa bantuan, memasuki premis itu jika perlu dengan kekerasan.
+
+(2) Waran yang dikeluarkan di bawah subseksyen (1) boleh memberi kuasa kepada pegawai yang diberi kuasa untuk—
+
+(a) menggeledah premis itu dan menyita dan mengalihkan dari premis itu apa-apa lada, keluaran lada, kenderaan,
+
+<!-- page 27 -->
+
+jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang dengan semunasabahnya dipercayai memberikan keterangan mengenai pelakuan kesalahan itu;
+
+(b) mengambil sampel apa-apa lada, keluaran lada atau benda yang dijumpai dalam premis itu bagi maksud menentukan, dengan ujian atau selainnya, sama ada kesalahan itu telah dilakukan; dan . ,
+
+(c) membuat salinan atau mengambil cabutan daripada mana-mana buku, rekod, dokumen atau benda lain yang dijumpai di premis itu.
+
+(3) Seseorang pegawai yang diberi kuasa yang memasuki mana- mana premis di bawah seksyen ini boleh membawa bersamanya orang dan kelengkapan lain sebagaimana yang difikirkannya perlu.
+
+(4) Seseorang pegawai yang diberi kuasa boleh, pada menjalankan kuasanya di bawah seksyen ini, jika perlu berbuat sedemikian,—
+
+(a) memecah buka mana-mana pintu luar atau dalam premis itu, atau mana-mana pagar, kepungan, pagar pintu atau halangan lain ke premis itu untuk masuk ke dalam premis itu;
+
+(b) mengalihkan dengan kekerasan apa-apa halangan kepada kcmasukan, penggeledahan, penyitaan atau pengalihan yang dia diberi kuasa untuk melaksanakannya di bawah seksyen ini; dan
+
+(c) menahan mana-mana orang yang dijumpai di dalam premis itu sehingga penggeledahan itu selesai.
+
+(5) Jika, oleh sebab jenis, saiz atau amaunnya, adalah tidak munasabah untuk mengalihkan apa-apa lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita di bawah seksyen ini, pegawai yang diberi kuasa itu hendaklah, dengan apa-apa cara, mengelak lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu dalam premis itu atau dalam bekas yang di dalamnya ia dijumpai.
+
+(6) Seseorang yang, tanpa kuasa sah memecahkan, mengganggu atau merosakkan lak yang disebut dalam subseksyen (5) atau memindahkan lada, keluaran lada, kenderaan, jentera, peralatan,
+
+<!-- page 28 -->
+
+kelengkapan, buku, rekod, dokumen atau benda lain yang dilak atau cuba berbuat demikian melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+
+### Penggeledahan dan penyitaan tanpa waran
+
+39. Bilamana seseorang pegawai diberi kuasa mempunyai sebab yang munasabah untuk mempercayai bahawa apa-apa lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang berkenaan dengannya suatu kesalahan di bawah Akta ini telah dilakukan mungkin dijumpai di dalam mana-mana tempat, premis, pada orang, di dalam mana-mana kenderaan, vesel atau alat pengangkutan dan bahawa oleh sebab kelengahan dalam memperoleh waran di bawah seksyen 38 matlamat penggeledahan mungkin terkecewa, dia boleh, tanpa waran, dengan apa-apa bantuan dan kekerasan sebagaimana yang perlu —
+
+(a) memasuki dan menggeledah tempat atau premis itu;
+
+(b) memberhentikan dan memeriksa orang atau kenderaan, vesel atau alat pengangkutan itu; dan
+
+(c) menyita apa-apa lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau apa- a benda lain yang mungkin dijumpai dan boleh menjadi keterangan tentang kesalahan itu.
+
+### Kuasa untuk memasuki premis
+
+40. Walau apa pun seksyen 38 dan 39, seorang pegawai diberi kuasa boleh pada bila-bila masa memasuki mana-mana premis bagi maksud—
+
+(a) memeriksa apa-apa lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain sebagaimana yang difikirkan perlu;
+
+(b) mengesahkan ketepatan rekod atau pernyataan atau apa-apa maklumat yang diberikan kepada pegawai diberi kuasa atau kepada Lembaga; atau
+
+(c) memungut sampel apa-apa lada atau keluaran lada.
+
+<!-- page 29 -->
+
+### Pemeriksaan orang
+
+41. Tiada seorang pun boleh diperiksa kecuali oleh seorang lain yang sama jantinanya dengan orang itu, dan pemeriksaan itu hendaklah dijalankan dengan penuh kesopanan.
+
+### Penyitaan benda, dsb.
+
+42. Tanpa menjejaskan subseksyen 38(2) dan seksyen 39, apa- apa lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang semunasabahnya disyaki oleh seorang pegawai diberi kuasa telah digunakan atau akan digunakan dalam pelakuan apa-apa kesalahan di bawah Akta ini boleh disita dan ditahan oleh pegawai diberi kuasa itu.
+
+### Kuasa untuk memberhentikan, menggeledah dan menyita
+
+### kenderaan
+
+43. (1) Jika seseorang pegawai diberi kuasa mempunyai sebab yang munasabah untuk mengesyaki bahawa mana-mana kenderaan yang membawa apa-apa lada, keluaran lada, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau apa-apa benda lain berkenaan dengannya suatu kesalahan di bawah Akta ini sedang atau telah dilakukan, dia boleh memberhentikan dan memeriksa kenderaan itu dan boleh, jika atas pemeriksaan dia mempunyai sebab yang munasabah untuk mempercayai bahawa kenderaan itu sedang atau telah digunakan untuk melakukan kesalahan itu, menyita kenderaan itu dan apa-apa lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang dijumpai dalam kenderaan itu yang dengan semunasabahnya dipercayai memberikan keterangan mengenai pelakuan kesalahan itu.
+
+(2) Orang yang mengawal atau menjaga kenderaan itu hendaklah, jika dikehendaki berbuat demikian oleh pegawai yang diberi kuasa—
+
+(a) memberhentikan kenderaan itu dan membenarkan pegawai diberi kuasa memeriksanya; dan
+
+(b) membuka semua bahagian kenderaan itu untuk diperiksa dan mcngambil segala langkah yang perlu untuk membolehkan atau memudahkan penjalanan pemeriksaan itu sebagaimana yang difikirkan perlu oleh pegawai diberi kuasa.
+
+<!-- page 30 -->
+
+(3) Mana-mana orang yang melanggar subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+
+### Senarai benda disita
+
+44. (1) Jikaapa-apapenyitaandibuatdibawahBahagianini,pegawai diberi kuasa yang membuat penyitaan itu hendaklah menyediakan suatu senarai tiap-tiap fada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita dan tempat lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau apa-apa benda lain itu telah dijumpai dan hendaklah menandatangani senarai itu.
+
+(2) Senarai yang disediakan mengikut subseksyen (1) hendaklah diserahkan dengan serta-merta kepada—
+
+(a) penghuni tempat atau premis tempat lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau apa-apa benda lain yang disita itu dijumpai; dan
+
+(b) orang yang mengawal atau menjaga kenderaan itu jika penyitaan dibuat di bawah seksyen 43.
+
+(3) Jika penyitaan itu dibuat di dalam atau dan mana-mana tempat atau premis yang tidak dihuni, pegawai diberi kuasa i t u hendaklah bilamana mungkin menampalkan supaya mudah dilihat senarai benda yang disita itu di tempat atau premis itu.
+
+(4) Jika apa-apa lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain disita selain di dalam atau dan mana-mana tempat atau premis, pegawai diberi kuasa yang membuat penyitaan itu hendaklah memberikan suatu notis secara bertulis mengenai penyitaan itu dan alasan-alasan penyitaan itu kepada pemunya lada, keluaran lada, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita itu dengan menyerahkan suatu salinan notis itu kepada pemunya itu sendiri atau melalui pos ke tempat perniagaan atau kediamannya.
+
+(5) Notis di bawah subseksyen (4) tidak perlu diberikan jika penyitaan itu dibuat dalam kehadiran atau dengan pengetahuan pemunya.
+
+<!-- page 31 -->
+
+### Pemulangan sementara kenderaan, dsb.
+
+45. (1) Jikaapa-apakenderaan,jentera,peralatan atau kelengkapan disita di bawah Akta ini, mahkamah boleh buat sementara memulangkan kenderaan, jentera, peralatan atau kelengkapan itu kepada pemunya kenderaan, jentera, peralatan atau kelengkapan itu atau orang yang daripada milikan, jagaan atau kawalannya ia disita, tertakluk kepada apa-apa terma dan syarat yang boleh dikenakan oleh mahkamah dan tertakluk, walau bagaimanapun, kepada jaminan yang mencukupi diberikan sehingga mahkamah berpuas hati bahawa kenderaan, jentera, peralatan atau kelengkapan itu akan diserahkan balik kepada mahkamah apabila diminta dan bahawa terma-terma dan syarat-syarat itu, jika ada, akan dipatuhi.
+
+(2) Jika apa-apa kenderaan, jentera, peralatan atau kelengkapan yang disita dipulangkan buat sementara di bawah subseksyen (1), seseorang yang —
+
+(a) tidak menyerahkan balik kenderaan, jentera, peralatan atau kelengkapan itu kepada mahkamah apabila diminta; atau
+
+(b) melanggar mana-mana terma atau syarat yang dikenakan di bawah subseksyen (1),
+
+melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+
+### Penjualan dan pelupusan lada, dsb., yang disita
+
+46. (1) Ketua Pengarah boleh pada bila-bila masa mengarahkan supaya apa-apa lada atau keluaran lada yang disita di bawah Akta ini dijual dan hasil penjualan itu dipegang sementara menanti keputusan apa-apa pendakwaan di bawah Akta ini jika—
+
+(a) lada atau keluaran lada itu adalah daripada jenis mudah rosak atau mutunya mudah merosot;
+
+(b) penjagaan lada atau keluaran lada itu melibatkan perbelanjaan dan kesusahan yang tidak munasabah;
+
+(c) terdapat kekurangan atau ketiadaan kemudahan yang mencukupi atau sesuai untuk menyimpan lada atau keluaran lada itu; atau
+
+<!-- page 32 -->
+
+(d) lada atau keluaran lada itu dipercayai menyebabkan- halangan atau bahaya kepada orang awam.
+
+(2) Walau apa pun subseksyen (1), jika juruanalisis memperakui, atau jika keputusan ujian sebagaimana yang diperakui oleh juruanalisis membuktikan, bahawa lada atau keluaran lada yang diuji olehnya tercemar, pegawai diberi kuasa itu boleh menyimpannya dalam penjagaan atau, jika tiada pendakwaan dimulakan berkenaan dengan lada atau keluaran lada itu, menyebabkan supaya lada atau keluaran lada itu dilupuskan mengikut cara yang ditentukan oleh Ketua Pengarah.
+
+### Kuasa untuk menghendaki kehadiran orang yang mengetahui
+
+### kes
+
+47. (1) Seseorang pegawai diberi kuasa yang membuat siasatan di bawah Akta ini, boleh melalui perintah secara bertulis, menghendaki mana-mana orang yang pada hemat pegawai diberi kuasa itu mengetahui fakta dan hal keadaan kes itu supaya hadir di hadapannya, dan orang itu hendaklah hadir sebagaimana dikehendaki.
+
+(2) Jika mana-mana orang enggan hadir sebagaimana yang dikehendaki oleh suatu perintah yang dibuat di bawah subseksyen
+
+(1), pegawai diberi kuasa itu boleh melaporkan keengganannya itu kepada Majistret yang hendaklah mengeluarkan suatu waran untuk memastikan kehadiran orang i t u sebagaimana yang dikehendaki oleh perintah itu.
+
+### Pemeriksaan orang yang mengetahui kes
+
+48. (1) Seseorang pegawai diberi kuasa yang membuat penyiasatan di bawah Akta ini boleh memeriksa secara lisan mana-mana orang yang dijangkakan mengetahui fakta dan hal keadaan kes itu dan hendaklah mengubah apa-apa pernyataan yang dibuat oleh orang yang diperiksa itu ke dalam bentuk bertuHs.
+
+(2) Orang itu adalah terikat untuk menjawab segala soalan yang berhubungan dengan kes itu yang dikemukakan kepadanya oleh pegawai diberi kuasa, tetapi dia boleh enggan menjawab apa-apa soalan yang jawapannya mungkin mendedahkan orang itu kepada suatu pertuduhan jenayah atau penalti atau pelucuthakan.
+
+<!-- page 33 -->
+
+(3) Seseorang yang membuat pernyataan di bawah seksyen jni adalah terikat di sisi undang-undang untuk menyatakan yang benar, sama ada atau tidak pernyataan itu dibuat keseluruhannya atau sebahagiannya bagi menjawab soalan-soalan itu.
+
+(4) Seseorang pegawai diberi kuasa yang memeriksa seseorang di bawah subseksyen (1) hendaklah terlebih dahulu memaklumkan orang itu mengenai peruntukan subseksyen (2) dan (3).
+
+(5) Suatu pernyataan yang dibuat oleh mana-mana orang di bawah seksyen ini hendaklah, bilamana mungkin, diubah ke dalam bentuk bertulis dan ditandatangani oleh orang yang membuatnya atau dicapkan dengan cap ibu jarinya, mengikut mana-mana yang berkenaan, selepas —
+
+(a) pernyataan itu dibacakan kepadanya dalam bahasa pernyataan itu dibuat olehnya; dan
+
+(b) dia diberi peluang untuk membuat apa-apa pembetulan yang dia mahu.
+
+### Kebolehterimaan pernyataan dalam keterangan
+
+49. (1) Dalam mana-mana perbicaraan atau siasatan oleh sesuatu mahkamah tentang suatu kesalahan di bawah Akta ini, apa-apa pernyataan, sama ada pernyataan itu terjumlah kepada pengakuan salah atau tidak, secara Iisan atau bertulis, yang dibuat pada bila- bila masa, sama ada sebelum atau selepas orang itu dipertuduh dan sama ada semasa penyiasatan di bawah Akta ini atau tidak dan sama ada secara keseluruhannya atau sebahagiannya pada menjawab soalan, oleh seseorang orang tertuduh kepada atau dengan didengar oleh mana-mana pegawai diberi kuasa dan sama ada atau tidak diterjemahkan kepadanya oleh mana-mana pegawai diberi kuasa lain atau mana-mana orang lain, sama ada yang terlibat atau tidak dalam penangkapan orang itu, hendaklah, walau apa pun mana- mana undang-undang bertulis atau rukun undang-undang yang berlawanan, boleh diterima sebagai keterangan dalam perbicaraan orang itu dan, jika orang itu mengemukakan dirinya sebagai saksi, mana-mana pernyataan sedemikian boleh digunakan dalam pemeriksaan balas dan bagi maksud mencabar kebolehpercayaannya.
+
+(2) Tiada pernyataan yang dibuat di bawah subseksyen (1) boleh diterima atau digunakan sebagaimana yang diperuntukkan dalam subseksyen itu jika pembuatan pernyataan itu ternyata pada mahkamah telah disebabkan oleh apa-apa dorongan, ugutan atau
+
+<!-- page 34 -->
+
+### janji yang berkaitan dengan pertuduhan terhadap orang itu yang_
+
+### datang daripada orang yang berkuasa dan mencukupi, pada pendapat
+
+### mahkamah itu, untuk member! orang itu alasan yang pada
+
+### pendapatnya munasabah untuk menjangkakan bahawa dengan
+
+### membuat pernyataan itu dia akan mendapat apa-apa faedah atau
+
+### mengelakkan apa-apa durjana keduniaan berkaitan dengan prosiding
+
+### terhadapnya.
+
+(3) Jika mana-mana orang ditangkap atau dimakiumkan bahawa
+
+### dia mungkin didakwa atas apa-apa kesalahan di bawah Akta ini,
+
+### hendaklah disampaikan kepadanya suatu notis secara bertulis, yang
+
+### hendakEah diterangkan kepadanya yang bermaksud seperti yang
+
+### berikut:
+
+### "Kamu telah ditangkap/dimaklumkan bahawa kamu mungkin
+
+### didakwa atas ................(kesalahan di bawah Akta ini yang
+
+### mungkin dipertuduhkan). Adakah kamu hendak menyatakan
+
+### apa-apa? Jika ada apa-apa fakta yang hendak kamu gunakan
+
+### dalam pembelaan kamu di mahkamah, kamu dinasihati supaya
+
+### menyatakannya sekarang. Jika kamu tidak menyatakannya
+
+### sehingga kamu pergi ke mahkamah, kemungkinan keterangan
+
+### kamu akan kurang dipercayai dan ini akan membawa kesan
+
+### buruk kepada kes kamu pada amnya. Jika kamu ingin
+
+### menyatakan apa-apa fakta sekarang, dan kamu mahu ia ditulis,
+
+### ini akan dilakukan.".
+
+(4) Walau apa pun subseksyen (3), sesuatu pernyataan oleh
+
+### mana-mana orang yang dituduh melakukan apa-apa kesalahan di
+
+### bawah Akta ini yang dibuat sebelum ada masa untuk menyampaikan
+
+### notis di bawah subseksyen itu tidaklah menjadi tidak boleh diterima
+
+### sebagai keterangan semata-mata kerana tiada notis sedemikian
+
+### telah disampaikan kepada orang itu jika notis sedemikian disampaikan
+
+### kepadanya dengan seberapa segera yang semunasabahnya mungkin
+
+### sesudah itu.
+
+(5) Tiada pernyataan yang dibuat oleh seseorang orang tertuduh
+
+### pada menjawab notis bertulis yang disampaikan kepadanya menurut
+
+### subseksyen (3) boleh ditafsirkan sebagai pernyataan yang disebabkan
+
+### oleh apa-apa dorongan, ngutan atau janji sebagaimana yang
+
+### diperihalkan dalam subseksyen (2), jika pernyataan itu dibuat
+
+### selainnya dengan sukarela.
+
+(6) Jika dalam mana-mana prosiding jenayah terhadap seseorang
+
+### atas sesuatu kesalahan di bawah Akta ini, keterangan diberikan
+
+### bahawa tertuduh, apabila dimakiumkan bahawa dia mungkin didakwa
+
+<!-- page 35 -->
+
+kerananya, gagal menyatakan apa-apa fakta, iaitu fakta yang dalam hal keadaan yang wujud pada masa itu dia semunasabahnya dapat dijangkakan akan menyatakannya apabila dimaklumkan sedemikian, maka mahkamah, dalam menentukan sama ada pihak pendakwa sudah membuktikan kes prima facie terhadap tertuduh dan dalam menentukan sama ada tertuduh bersalah atas kesalahan yang dipertuduhkan, boleh membuat apa-apa kesimpulan daripada kegagalan itu sebagaimana yang pada pendapatnya patut; dan kegagalan itu boleh, berasaskan kesimpulan itu, dikira sebagai, atau sebagai dapat terjumlah kepada, sokongan apa-apa keterangan yang diberikan terhadap tertuduh yang berhubungan dengannya kegagalan itu adalah suatu perkara material.
+
+(7) Tiada apa-apa jua dalam subseksyen (6) boleh, dalam mana- mana prosiding jenayah—
+
+(a) menjejaskan kebolehterimaan sebagai keterangan perbuatan berdiam diri atau apa-apa reaksi lain tertuduh semasa apa-apa jua dikatakan dalam kehadirannya berhubung dengan kelakuan yang berkenaan dengannya dia dipertuduh, setakat yang keterangan sedemikian akan boleh diterima selain daripada oleh sebab subseksyen itu; atau
+
+(b) dikira sebagai menghalang pembuatan apa-apa kesimpulan daripada apa-apa perbuatan berdiam diri atau reaksi lain tertuduh yang dapat dibuat selain daripada oleh sebab subseksyen itu.
+
+### Pelucuthakan lada, dsb., yang disita
+
+50. (1) Apa-apa lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita di bawah Akta ini boleh dilucuthakkan.
+
+(2) Suatu perintah bagi pelucuthakan lada atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain hendaklah dibuat jika dibuktikan sehingga mahkamah berpuas hati bahawa suatu kesalahan di bawah Akta ini telah dilakukan dan bahawa lada atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu merupakan hal perkara bagi atau digunakan dalam pelakuan kesalahan itu, walaupun tiada orang telah disabitkan atas kesalahan itu.
+
+<!-- page 36 -->
+
+(3) Jika tidak ada pendakwaan berkenaan dengan apa-apa lada. atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda Iain yang disita di bawah Akta ini, lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu hendaklah disifatkan terlucut hak apabila habis tempoh satu bulan kalendar dari tarikh penyampaian notis ke alamat yang terakhir diketahui orang yang daripadanya lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu disita yang menyatakan bahawa tiada pendakwaan berkenaan dengan lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain melainkan jika sebelura habis tempoh itu suatu tuntutan baginya telah dibuat mengikut cara yang dinyatakan dalam subseksyen (4), (5), (6) dan (7).
+
+(4) Mana-mana orang yang menegaskan bahawa dia ialah pemunya lada atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disebut dalam subseksyen (3) dan bahawa lada atau keluaran lada atau hasil penjualannya, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain tidak boleh dilucuthakkan boleh, memberikan sendiri atau melalui ejennya yang diberi kuasa secara bertulis notis bertulis kepada pegawai diberi kuasa yang dalam milikannya lada atau keluaran lada atau hasil penjualannya, kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda itu dipegang bahawa dia menuntut lada, atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu.
+
+(5) Apabila notis yang disebut dalam subseksyen (4) diterima, pegawai diberi kuasa hendaklah merujukkan perkara itu kepada Ketua Pengarah yang boleh mengarahkan supaya lada atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu dilepaskan atau boleh mengarahkan pegawai diberi kuasa, melalui maklumat bertulis, merujuk perkara itu kepada Majistret.
+
+(6) Majistret yang kepadanya sesuatu perkara dirujukkan di bawah subseksyen (5) hendaklah mengeluarkan suatu saman yang menghendaki Lembaga dan orang yang menegaskan bahawa dia
+
+<!-- page 37 -->
+
+ialah pemunya lada atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu dan orang yang daripadanya ia disita hadir di hadapan Majistret itu dan apabila mereka hadir atau apabila mereka tidak hadir, setelah dibuktikan bahawa saman itu telah disampaikan dengan sewajarnya, Majistret hendaklah meneruskan pemeriksaan perkara itu.
+
+(7) Jika dibuktikan bahawa suatu kesalahan di bawah Akta ini telah dilakukan dan bahawa lada atau keluaran lada atau hasil penjualannya, atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu yang disebut dalam subseksyen
+
+(6) merupakan hal perkara bagi atau telah digunakan dalam pelakuan kesalahan itu, maka Majistret hendaklah memerintahkan supaya lada atau keluaran lada atau hasil penjualannya atau kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu dilucuthakkan, dan hendaklah, jika tiada bukti sedemikian, memerintahkan pelepasannya.
+
+(8) Mana-mana lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang dilucuthakkan atau disifatkan terlucut hak hendaklah dihantarserahkan kepada pegawai diberi kuasa itu dan hendaklah dilupuskan mengikut arahan Majistret.
+
+(9) Lembaga tidak menanggung liabiliti kepada mana-mana orang bagi apa-apa kemerosotan, tidak kira bagaimana sekalipun berlaku, dalam mutu lada atau keluaran lada yang disita di bawah Akta ini.
+
+### Hak harta mengenai lada, dsb., yang dilucuthakkan
+
+51. Apa-apa lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang dilucuthakkan atau yang diambil dan disifatkan dilucuthakkan di bawah Bahagian ini hendaklah menjadi harta Lembaga.
+
+### Pelepasan lada, dsb., yang disita
+
+52. Walau apa pun seksyen 50, Ketua Pengarah atau mana-mana pegawai diberi kuasa oleh Ketua Pengarah boleh, jika difikirkannya patut, pada bila-bila masa mengarahkan supaya apa-apa lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan,
+
+<!-- page 38 -->
+
+jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda- lain yang disita di bawah Bahagian ini dilepaskan kepada orang yang danpada milikan, jagaan atau kawaiannya lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain itu disita.
+
+## BAHAGIAN VII
+
+AM
+
+### Pengawalseliaan industri lada
+
+53. (1) Industri lada, kecuali penanaman dan penyelidikan tentang lada, hendaklah dikawal selia mengikut peraturan-peraturan yang dibuat di bawah Akta ini.
+
+(2) Peraturan-peraturan di bawah subseksyen (1) hendaklah dibuat selepas berunding dengan Kerajaan Negeri yang berkenaan.
+
+### Pelantikan juruanalis
+
+54. (1) Bagi maksud Akta ini, Menteri boleh melantik juruanalisis untuk memeriksa dan menguji apa-apa lada atau keluaran lada dan untuk memperakui keadaan, jenis, cara pemprosesan, mutu, piawaian dan grednya.
+
+(2) Dalam apa-apa pendakwaan bagi kesalahan di bawah Akta ini, suatu perakuan analisis yang ditandatangani oleh seorang juruanalisis hendaklah menjadi keterangan yang mencukupi mengenai fakta yang dinyatakan dalam perakuan itu.
+
+### Pemeriksaan atau pengujian berkadar lada yang disita
+
+55. (1) Jika didapati perlu untuk memeriksa atau menguji apa-apa lada atau keluaran lada yang disita di bawah Akta ini, maka adalah mencukupi untuk memeriksa atau menguji hanya suatu sampel yang tidak melebihi sepuluh peratus daripada isi padu atau berat lada atau keluaran fada itu atau daripada setiap jenis atau perihalan yang berlainan lada atau keluaran lada atau, jika lada atau keluaran lada itu dibungkus dalam bungkusan yang berlainan, daripada kandungan setiap bungkusan.
+
+<!-- page 39 -->
+
+(2) Mahkamah hendaklah raenganggap bahawa baki jenis, perihalan atau bungkusan lada atau keluaran lada itu adalah serupa dengan keadaan, jenis, cara pemprosesan, rautu, piawaian, gred atau selainnya sampel lada atau keluaran lada yang diperiksa atau diuji.
+
+### Kos memegang lada, dsb., yang disita
+
+56. Jika apa-apa lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita di bawah Akta ini dipegang dalam jagaan Lembaga atau Kerajaan sementara menunggu penyelesaian apa-apa prosidmg berkenaan dengan suatu kesalahan di bawah Akta ini, kos bagi memegangnya dalam jagaan hendaklah, dalam hal mana-mana orang didapati bersalah atas sesuatu kesalahan, menjadi hutang yang kena dibayar kepada Lembaga atau Kerajaan, mengikut mana-mana yang berkenaan, oleh orang itu dan hendaklah boleh didapatkan dengan sewajarnya.
+
+### Tiada kos atau ganti rugi yang berbangkit daripada
+
+### penyitaan boleh didapatkan
+
+57. Tiada seorang pun boleh, dalam apa-apa prosiding di hadapan mana-mana mahkamah berkenaan dengan penyitaan apa-apa lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita pada menjalankan atau berupa sebagai penjalanan mana-mana kuasa yang diberikan di bawah Akta ini, berhak mendapat kos prosiding itu atau apa-apa ganti rugi atau relief lain melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
+
+### Kuasa Tambahan
+
+58. (1) Seseorang pegawai diberi kuasa hendaklah, bagi maksud melaksanakan Akta ini, mempunyai kuasa untuk melakukan segala atau mana-mana daripada perbuatan yang berikut:
+
+(a) menghendaki pengemukaan rekod, akaun, data yang dikomputerkan dan dokumen dan meneliti, memeriksa dan menyalin mana-mana rekod, akaun, data yang dikomputerkan dan dokumen itu;
+
+(b) menghendaki pengemukaan apa-apa dokumen pengenalan daripada mana-mana orang berhubungan dengan mana- mana hal atau kesalahan di bawah Akta ini;
+
+<!-- page 40 -->
+
+(c) membuat apa-apa siasatan yang perlu untuk menentukan
+
+### sama ada peruntukan Akta ini telah dipatuhi.
+
+(2) Seseorang yang tidak mematuhi permintaan yang dibuat di
+
+### bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila
+
+### disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau
+
+### dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-
+
+### duanya.
+
+### Menyerang atau menghalang pegawai diberi kuasa menjadi
+
+59. Seseorang
+
+(a) menyerang, menghalang, merintangi atau mengganggu
+
+### mana-mana pegawai diberi kuasa dalam pelaksanaan fungsi-
+
+### fungsinya di bawah Akta ini;
+
+(b) mengambil balik atau berusaha untuk mengambil balik
+
+### apa-apa lada atau keluaran lada atau hasil penjualannya,
+
+### atau apa-apa kenderaan, jentera, peralatan, kelengkapan,
+
+### buku, rekod, dokumen atau benda Iain yang disita di
+
+### bawah Akta ini; atau
+
+(c) sebelum atau selepas apa-apa penyitaan menyebabkan
+
+### kehilangan, atau merosakkan atau memusnahkan apa-apa
+
+### lada, keluaran lada, kenderaan, jentera, peralatan,
+
+### kelengkapan, buku, rekod, dokumen atau benda lain untuk
+
+### menghalang penyitaannya atau penyimpanan selamat lada
+
+### atau keluaran lada, kenderaan, jentera, peralatan,
+
+### kelengkapan, buku, rekod, dokumen atau benda lain itu,
+
+### melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda
+
+### tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama
+
+### tempoh tidak melebihi dua tahun atau kedua-duanya.
+
+### Kewajipan menyimpan rahsia
+
+60. (1) Kecuali bagi maksud Akta ini, tiada seorang pun yang
+
+### mempunyai akses kepada apa-apa rekod, buku, daftar, surat,
+
+### maklumat, dokumen atau bahan lain yang diperoleh di bawah Akta
+
+### ini boleh menzahirkan rekod, buku,daftar, surat, maklumat, dokumen
+
+### atau bahan lain itu kepada mana-mana orang lain.
+
+<!-- page 41 -->
+
+(2) Seseorang yang melanggar subseksyen (1) melakukan suatu kesalahan dan, apabila disabitkan, boleh didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+
+### Maklumat palsu
+
+61. Seseorang yang membuat, secara lisan atau bertulis, menandatangani atau memberikan apa-apa perisytiharan, penyata, perakuan atau dokumen atau maklumat lain yang dikehendaki di bawah Akta ini yang tidak benar, tidak tepat atau mengelirukan dalam apa-apa butiran melakukan suatu kesalahan dan boleh apabila disabitkan, boleh didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.
+
+### Kesalahan yang dilakukan oleh pertubuhan perbadanan
+
+62. (1) Jika sesuatu pertubuhan perbadanan melakukan suatu kesalahan di bawah Akta ini, maka mana-mana orang yang pada masa pelakuan kesalahan itu ialah pengarah, pengurus, setiausaha atau pegawai lain yang seumpamanya dalam pertubuhan perbadanan itu atau yang berupa bertindak atas apa-apa sifat sedemikian atau yang dalam apa-apa cara atau sehingga apa-apa
+
+<!-- marginal: takat -->
+
+bertanggungjawab tentang pengurusan apa-apa hal ehwal pertubuhan perbadanan itu atau yang membantu dalam pengurusan sedemikian—
+
+(a) boleh didakwa secara berasingan atau bersesama dalam prosiding yang sama bersekali dengan pertubuhan perbadanan itu; dan
+
+(b) jika pertubuhan perbadanan itu didapati telah melakukan kesalahan itu, hendaklah disifatkan telah melakukan kesalahan itu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan —
+
+(i) bahawa kesalahan itu telah dilakukan tanpa pengetahuan, persetujuan atau pembiarannya; dan
+
+(ii) bahawa dia telah mengambil segala langkah yang munasabah dan telah menjalankan segala usaha yang wajar untuk mencegah pelakuan kesalahan itu.
+
+<!-- page 42 -->
+
+(2) Jika mana-mana orang boleh, di bawah Akta ini, dikenakan-apa-
+
+### apa hukuman atau penalti bagi apa-apa perbuatan, peninggalan,
+
+### pengabaian atau keingkaran, maka dia boleh dikenakan hukuman atau
+
+### penalti yang sama bagi tiap-tiap perbuatan, peninggalan, pengabaian
+
+### atau keingkaran mana-mana pekerja atau ejennya, atau pekerja ejen itu,
+
+### jika perbuatan, peninggalan, pengabaian atau keingkaran itu telah
+
+### dilakukan —
+
+(a) oleh pekerjanya dalam masa penggajiannya;
+
+(b) oleh ejen itu semasa bertindak bagi pihaknya; atau
+
+(c) oleh pekerja ejen itu dalam masa penggajian pekerja itu
+
+### dengan ejen itu atau s.elainnya bagi pihak ejen itu.
+
+### Persubahatan dan percubaan boleh dihukum sebagai kesalahan
+
+63. (1) Seseorang yang bersubahat dalam pelakuan atau yang cuba
+
+### melakukan apa-apa kesalahan di bawah Akta ini adalah melakukan
+
+### kesalahan itu dan boleh, apabila disabitkan, dikenakan hukuman yang
+
+### diperuntukkan bagi kesalahan itu.
+
+(2) Seseorang yang melakukan apa-apa perbuatan sebagai
+
+### persediaan bagi atau bagi membantu pelakuan apa-apa kesalahan di
+
+### bawah Akta ini adalah melakukan kesalahan itu dan boleh, apabila
+
+### disabitkan, dikenakan hukuman yang diperuntukkan bagi kesalahan
+
+### itu:
+
+### Dengan syarat bahawa apa-apa tempoh pemenjaraan yang
+
+### dikenakan tidak boleh melebihi satu per dua daripada tempoh
+
+### maksimum yang diperuntukkan bagi kesalahan itu.
+
+### Pengkompaunan kesalahan
+
+64. (1) Ketua Pengarah boleh, dengan keizinan secara bertulis
+
+### Pendakwa Raya, mengkompaun mana-mana kesalahan yang
+
+### dilakukan oleh mana-mana orang di bawah Akta ini dan yang
+
+### ditetapkan sebagai kesalahan boleh dikompaunkan oleh peraturan-
+
+### peraturan yang dibuat di bawah Akta ini dengan membuat suatu
+
+### tawaran bertulis kepada orang itu untuk mengkompaunkan kesalahan
+
+<!-- page 43 -->
+
+itu apabila dibayar kepada Lembaga suatu amaun yang tidak melebihi lima puluh peratus amaun maksimum denda bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran itu.
+
+(2) Sesuatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa-apa pendakwaan baginya dimulakan.
+
+(3) Jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalam apa-apa tempoh lanjutan yang diberikan oleh Ketua Pengarah, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat.
+
+(4) Jika suatu kesalahan telah dikompaun di bawah subseksyen
+
+(1), tiada pendakwaan boleh dimulakan selepas itu berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun telah dibuat dan apa-apa lada atau keluaran lada atau hasil penjualannya, atau apa-apa kenderaan, jentera, peralatan, kelengkapan, buku, rekod, dokumen atau benda lain yang disita berkaitan dengan kesalahan itu boleh dilepaskan atau dilucuthakkan oleh Ketua Pengarah, tertakluk kepada apa-apa terma dan syarat yang difikirkan patut oleh Ketua Pengarah untuk dikenakan mengikut syarat kompaun.
+
+### Pemulaan dan penjalanan pendakwaan
+
+65. (1) Tiada pendakwaan bagi atau yang berhubungan dengan apa-apa kesalahan di bawah Akta ini boleh dimulakan tanpa kebenaran bertulis Pendakwa Raya.
+
+(2) Mana-mana pegawai Lembaga yang diberi kuasa secara bertulis oleh Pendakwa Raya boleh menjalankan pendakwaan bagi apa-apa kesalahan di bawah Akta ini.
+
+### Bidang kuasa untuk membicarakan kesalahan
+
+66. Walau apa pun mana-mana undang-undang bertulis yang berlawanan, Mahkamah Majistret Kelas Pertama hendaklah mempunyai bidang kuasa untuk membicarakan apa-apa kesalahan di bawah Akta ini dan mengenakan hukuman penuh bagi apa-apa kesalahan itu.
+
+<!-- page 44 -->
+
+### Perlindungan daripada tindakan guaman dan prosiding undang-
+
+### undang
+
+67. Tiada tindakan boleh diambil atau pendakwaan boleh dibawa, dimulakan atau dibuat dalam mana-mana mahkamah terhadap —
+
+(a) Ketua Pengarah, Timbalan Ketua Pengarah, atau mana- mana pegawai lain yang dilantik dengan sewajarnya di bawah Akta; dan
+
+(b) mana-mana orang lain bagi atau atas sebab atau berkenaan dengan apa-apa perbuatan yang dilakukan atau dikatakan dilakukan olehnya di bawah perintah, arahan atau suruhan Ketua Pengarah, Timbalan Ketua Pengarah atau mana- mana pegawai lain yang dilantik dengan sewajarnya di bawah Akta ini,
+
+jika perbuatan itu dilakukan dengan suci hati, dan dengan mempercayai dengan semunasabahnya bahawa ia perlu bagi maksud yang diniatkan untuk dicapai melaluinya dan bagi melaksanakan peruntukan Akta ini.
+
+### Hadiah
+
+68. Ketua Pengarah boleh mengarahkan supaya dibayar apa-apa hadiah sebagaimana yang difikirkannya patut kepada mana-mana orang bagi perkhidmatan yang diberikan berkaitan dengan pengesanan apa-apa kesalahan di bawah Akta ini, atau berkaitan dengan apa-apa penyitaan yang dibuat di bawah Akta ini.
+
+### Perlindungan pembcri maklumat
+
+69. (1) Kecuali sebagaimana yang diperuntukkan dalam subseksyen (2) dan (3), tiada saksi dalam apa-apa prosiding sivil atau jenayah boleh dikehendaki atau dibenarkan menzahirkan nama atau alamat pemberi maklumat atau isi maklumat yang diterima daripadanya atau menyatakan apa-apa perkara yang mungkin menyebabkan pemberi maklumat diketahui.
+
+(2) Jika apa-apa buku, rekod, akaun, dokumen atau data yang dikomputerkan yang menjadi keterangan atau yang boleh diperiksa dalam apa-apa prosiding sivil atau jenayah mengandungi apa-apa catatan yang dalamnya mana-mana pemberi maklumat dinamakan atau diperihalkan atau yang mungkin menyebabkan pemberi maklumat diketahui, mahkamah hendaklah menyebabkan supaya
+
+<!-- page 45 -->
+
+semua catatan sedemikian ditutup daripada penglihatan atau dipadamkan hanya setakat yang perlu untuk melindungi pemberi maklumat daripada diketahui.
+
+(3) Jika dalam perbicaraan bagi apa-apa kesalahan di bawah Akta ini mahkamah selepas siasatan penuh tentang kes itu mempercayai bahawa pemberi maklumat dengan sengaja membuat dalam aduannya suatu pernyataan material yang dia tahu atau percaya adalah palsu atau tidak percaya adalah benar, atau jika dalam apa-apa prosiding lain mahkamah berpendapat bahawa keadilan tidak dapat dibuat sepenuhnya antara pihak-pihak dalam prosiding itu tanpa mengetahui pemberi maklumat, mahkamah boleh menghendaki pengemukaan aduan asal, jika bertulis, dan membenarkan siasatan dan menghendaki penzahiran sepenuhnya, berkenaan dengan pemberi maklumat itu.
+
+### Kuasa untuk mengecualikan
+
+70. (1) Menteri boleh melalui perintah yang disiarkan dalarn Warta mengecualikan mana-mana orang atau golongan orang atau apa-apa aktiviti dalam industri lada atau apa-apa lada atau keluaran lada atau benda lain daripada semua atau mana-mana peruntukan Akta ini.
+
+(2) Menteri boleh mengenakan apa-apa terma dan syarat yang difikirkannya patut atas apa-apa pengecualian di bawah subseksyen (1).
+
+### Pindaan Jadual
+
+71. Menteri boleh, selepas berunding dengan Lembaga, meminda Jadual Pertama dan Jadual Kedua melalui perintah yang disiarkan dalam Warta.
+
+### Peraturan-peraturan
+
+72. (1) Menteri boleh membuat peraturan-peraturan bagi semua atau mana-mana maksud yang berikut:
+
+(a) menetapkan cara untuk memohon lesen, perakuan, permit dan kelulusan di bawah Akta ini, butir-butir yang hendaklah dikemukakan oleh pemohon, cara pelesenan dan pemerakuan, fi yang kena dibayar mengenainya, syarat yang hendaklah dikenakan dan bentuk lesen, perakuan, permit dan kelulusan itu;
+
+<!-- page 46 -->
+
+(b) menetapkan piawaian bagi pemprosesan dan kaedah bagi.
+
+### mengawet, menggredkan atau membungkus lada dan
+
+### keluaran lada;
+
+(c) menetapkan piawaian atau gred lada dan kefuaran lada
+
+### dan mengadakan peruntukan untuk memberikan kuat kuasa
+
+### kepada piawaian dan gred itu, termasuk peruntukan bagi
+
+### atau yang berhubungan dengan pelabelan;
+
+(d) menetapkan tatacara yang hendaklah diikuti oleh peniaga
+
+### dalam perniagaan lada dan keluaran lada;
+
+(e) mengadakan peruntukan bagi penyelenggaraan piawaian
+
+### kelakuan yang sepatutnya dalam melaksanakan
+
+### perdagangan lada dan keluaran lada dan bagi menguruskan
+
+### pelanggarannya;
+
+(f) menetapkan amalan yang hendaklah diikuti atau dielakkan
+
+### dalam industri lada, kecuali penanaman dan penyelidikan
+
+### lada;
+
+(g) menetapkan tatacara yang hendaklah diikuti untuk
+
+### mentadbir Kumpulan Wang;
+
+(h) menetapkan kesalahan yang boleh dikompaunkan;
+
+(1) menetapkan rekod dan dokumen yang dikehendaki disimpan
+
+### dan penyata yang dikehendaki dikemukakan;
+
+(j) menetapkan borang bagi maksud Akta ini;
+
+(k) menetapkan fi dan caj yang kena dibayar di bawah Akta
+
+### ini dan cara memungut dan membelanjakan fi itu;
+
+(I) mengadakan peruntukan bagi mengawal seiia semua atau
+
+### mana-mana aktiviti Lembaga dan pada amnya pelaksanaan
+
+### fungsi dan penjalanan kuasa Lembaga di bawah Akta ini;
+
+(m) mengadakan peruntukan bagi apa-apa perkara lain yang
+
+### dimaksudkan oleh, atau yang perlu bagi melaksanakan
+
+### sepenuhnya, peruntukan Akta ini dan bagi pentadbirannya
+
+### yang sewajarnya.
+
+(2) Peraturan-peraturan yang dibuat di bawah subseksyen (1)
+
+### boleh menetapkan bahawa apa-apa perbuatan yang melanggar
+
+### peraturan-peraturan itu menjadi suatu kesalahan dan boleh
+
+### menetapkan hukuman denda tidak melebihi dua ratus lima puluh
+
+### ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga
+
+### tahun atau kedua-duanya bagi kesalahan itu.
+
+<!-- page 47 -->
+
+### Kuasa Menteri untuk membuat peraturan-peraturan mengenai
+
+### pemasaran
+
+73. Menteri boleh membuat peraturan-peraturan untuk mengawal selia, mengurus, mengawal, membangunkan pasaran dan memajukan pemasaran lada dan keluaran lada.
+
+### Pengesahan perbuatan yang dilakukan pada menjangkakan
+
+### perbuatan Akta ini
+
+74. (1) Tertakluk kepada subseksyen (2), segala perbuatan dan benda yang dilakukan oleh mana-mana orang sebagai persediaan bagi atau pada menjangkakan pembuatan Akta ini dan apa-apa perbelanjaan yang dilakukan berhubungan dengannya hendaklah disifatkan telah dibenarkan di bawah Akta ini, dengan syarat bahawa perbuatan dan benda yang dilakukan adalah selaras dengan niat dan maksud am Akta ini; dan segala hak dan obligasi yang diperoleh atau ditanggung sebagai akibat pelakuan perbuatan atau benda
+
+<!-- marginal: itu -->
+
+termasuk apa-apa perbelanjaan yang dilakukan berhubungan dengannya hendaklah disifatkan sebagai hak dan obligasi Lembaga.
+
+(2) Subseksyen ( I ) tidak member! kuasa pelantikan anggota, pegawai atau pekhidmat Lembaga kecuali setakat memberi kuasa pelantikan sementara orang sedemikian sehingga pelantikan yang sewajarnya dibuat di bawah Akta ini.
+
+## BAHAGIAN VIII
+
+## PEMANSUHAN, KECUALIAN DAN PERAUHAN
+
+### Pemansuhan dan pembubaran
+
+75. Peraturan-Peraturan Jemaah Pemasaran Lada Hitam 1971 [P.U. (A) 447/1971] dan Rancangan Pemasaran Lada Hitam 1971 [P.U. (B) 426/1971} ("Peraturan-Peraturan dimansuhkan") adalah dimansuhkan dan Jemaah Pemasaran Lada Hitam ("Jemaah dibubarkan") adalah dibubarkan.
+
+### Pemindahan kuasa, dsb.
+
+76. Kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan yang sebelum hari ditetapkan merupakan kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan Jemaah dibubarkan hendaklah dari hari itu turun kepada Lembaga.
+
+<!-- page 48 -->
+
+77. (1) Segala tanah yang sebelum hari ditetapkan terletak hak pada, atau dirizabkan di bawah mana-mana undang-undang bertulis yang berhubungan dengan tanah bagi maksud Jemaah dibubarkan hendaklah pada hari itu terletak hak pada atau disifatkan sebagai dirizabkan bagi maksud Lembaga.
+
+(2) Segala harta dan aset selain tanah yang sebelum hari ditetapkan terletak hak pada Jemaah dibubarkan atau pada mana-mana orang bagi pihak Jemaah dibubarkan, mengikut mana-mana yang berkenaan, hendaklah pada hari itu terletak hak pada Lembaga.
+
+### Kontrak sedia ada
+
+78. Segala suratikatan, ikatan,perjanjian, surat cara dan perkiraan bekerja yang wujud sebelum hari ditetapkan dan yang menyentuh apa-apa harta yang dipindahmilikkan di bawah seksyen 77 hendaklah mempunyai kuatkuasa dan kesan sepenuhnya terhadap atau memifiak kepada Lembaga dan bolehlah dikuatkuasakan dengan sepenuhnya dan berkesan seolah-olah, sebagai ganti Jemaah dibubarkan atau mana-mana orang yang bertindak bagi pihak Jemaah dibubarkan, Lembaga yang dinamakan dalamnya atau menjadi pihak kepadanya.
+
+### Pemindahan wang dalam kumpulan wang
+
+79. Segala wang dalam atau yang kena dibayar ke dalam kumpulan wang Jemaah dibubarkan yang ditubuhkan di bawah Peraturan- Peraturan dimansuhkan hendaklah pada hari ditetapkan dipindahkan ke dalam dan disifatkan menjadi sebahagian daripada Kumpulan Wang yang ditubuhkan di bawah seksyen 23 Akta ini.
+
+### Keanggotaan Jemaah dibubarkan
+
+80, (1) Walau apa pun apa-apa yang berlawanan, anggota Jemaah dibubarkan dan anggota mana-mana jawatankuasa yang dilantik di bawah Peraturan-Peraturan dimansuhkan yang memegang jawatan sebelum hari ditetapkan hendaklah terhenti memegang jawatan pada hari itu.
+
+<!-- page 49 -->
+
+(2) Tiada apa-apa jua dalam subseksyen (1) boleh menjejaskan kebertanggungjawaban anggota Jemaah dibubarkan yang terhenti memegang jawatan dan dengan seberapa segera yang dapat dilaksanakan selepas had ditetapkan, Jemaah dibubarkan hendaklah menyediakan dan mengemukakan kepada Menteri laporan termasuk penyata kewangan yang dikehendaki di bawah masing-masing Peraturan-Peraturan dimansuhkan, tetapi laporan itu hendaklah terhad kepada tempoh dari 1 Januari tahun yang berkenaan hingga had sebelum had ditetapkan.
+
+(3) Walau apa pun seksyen 75, Jemaah dibubarkan hendaklah terus wujud bagi maksud subseksyen (2).
+
+### Maklumat palsu
+
+81. Orang yang pada had ditetapkan diambil khidmat sebagai pegawai dan pekhidraat Jemaah dibubarkan di bawah Peraturan- Peraturan dimansuhkan hendaklah terus menjadi pegawai dan pekhidmat Lembaga di bawah Akta ini seolah-olah orang itu telah dilantik di bawah subseksyen 20(1) Akta ini atas terma-terma dan syarat-syarat yang sama bagi tempoh yang akan tamat tempoh pada had yang padanya pelantikannya di bawah Peraturan-Peraturan dimansuhkan sepatutnya tamat tempoh.
+
+### Maklumat palsu
+
+82. (1) Walau apa pun pemansuhan dan pembubaran di bawah seksyen 15 atau apa-apa peruntukan Akta ini yang berlawanan, tiap-tiap orang yang, sebelum had ditetapkan, memegang lesen yang sah yang dikeluarkan kepadanya di bawah Peraturan-Peraturan dimansuhkan hendaklah disifatkan sebagai dilesenkan di bawah Akta ini sehingga tarikh tamat tempoh lesen itu dan tertakluk kepada terma-terma dan syarat-syarat yang dikenakan padanya.
+
+(2) Tiap-tiap lesen yang menurut kuasanya seseorang disifatkan di bawah subseksyen (1) sebagai dilesenkan di bawah Akta ini hendaklah disifatkan telah dikeluarkan di bawah Akta ini; dan Lembaga boleh mengubah terma-terma dan syarat-syarat yang dikenakan pada lesen itu bagi maksud menyelaraskannya dengan dasar Lembaga mengenai pengenaan syarat tentang pelesenan di bawah Akta ini.
+
+<!-- page 50 -->
+
+(3) Peruntukan Akta ini yang berhubungan dengan pembatalan.
+
+### lesen hendaklah terpakai bagi semua orang yang disifatkan di
+
+### bawah subseksyen (1) sebagai dilesenkan di bawah Akta ini.
+
+(4) Jika seseorang yang disifatkan sebagai dilesenkan di bawah
+
+### Akta ini di bawah subseksyen (1) berhasrat untuk dilesenkan di
+
+### bawah Akta ini selepas tamat tempoh yang baginya dia disifatkan
+
+### dilesenkan di bawah Akta ini, dia boleh memohon kepada Lembaga
+
+### untuk dilesenkan mengikut peraturan-peraturan yang dibuat di bawah
+
+### Akta ini, walau apa pun apa-apa jua yang berlawanan, dan
+
+### permohonannya hendaklah dibuat dan dianggap sebagai suatu
+
+### permohonan baru dan bukan sebagai suatu permohonan bagi
+
+### pembaharuan lesen.
+
+(5) Semua daftar yang disimpan dan disenggarakan di bawah
+
+### Peraturan-Peraturan dimansuhkan hendaklah disifatkan sebagai daftar
+
+### yang disimpan dan disenggarakan di bawah Akta ini dan hendaklah
+
+### disifatkan sebagai sebahagian daripadanya.
+
+### Maklumat palsu
+
+83. (1) Segala permohonan, kelulusan atau keputusan, atas rayuan
+
+### atau selainnya, yang belum selesai di hadapan Jemaah dibubarkan
+
+### di bawah Peraturan-Peraturan dimansuhkan hendaklah pada hari
+
+### ditetapkan diuruskan oleh Lembaga di bawah Akta ini.
+
+(2) Segala permohonan, kelulusan atau keputusan, atas rayuan
+
+### atau selainnya, yang belum selesai di hadapan Menteri di bawah
+
+### Peraturan-Peraturan dimansuhkan hendaklah pada hari ditetapkan
+
+### diuruskan oleh Menteri di bawah Akta ini.
+
+(3) Segala surat cara, perakuan atau dokumen yang diserah simpan
+
+### dengan Jemaah dibubarkan di bawah Peraturan-Peraturan
+
+### , dimansuhkan sebelum hari ditetapkan hendaklah pada hari ditetapkan
+
+### diserah simpan dengan Lembaga.
+
+### Fenerusan presiding sivil dan jenayab
+
+### 84, (I) Baik pemansuhan di bawah seksyen 15 mahupun apa-apa
+
+### jua yang terkandung dalam Akta ini boleh menyentuh liabiliti
+
+### rrlana-mana orang untuk didakwa atau dihukum bagi kesalahan
+
+### yang dilakukan di bawah Peraturan-Peraturan dimansuhkan sebelum
+
+### hari ditetapkan, atau apa-apa prosiding yang dibawa sebelum hari
+
+### itu berkenaan dengan kesalahan sedemikian.
+
+<!-- page 51 -->
+
+(2) Apa-apa prosiding, sama ada sivil atau jenayah, atau kausa tindakan yang belum selesai atau yang wujud sebelum hari ditetapkan oleh atau terhadap Jemaah dibubarkan atau mana-mana orang yang bertindak bagi pihak Jemaah dibubarkan boleh diteruskan atau dimulakan oleh atau terhadap Lembaga sebagaimana ia boleh diteruskan atau dimulakan oleh atau terhadap Jemaah dibubarkan atau orang sedemikian jika Akta ini tidak dibuat.
+
+(3) Apa-apa rayuan yang dibawa atau apa-apa kebenaran merayu yang dipohon pada atau selepas hari ditetapkan terhadap suatu keputusan yang diberikan sebelum hari itu dalam apa-apa prosiding undang-undang yang kepadanya Jemaah dibubarkan menjadi pihak bolehlah dibawa oleh atau terhadap Lembaga.
+
+### Sebutan dalam undang-uiidang atau dokumen mengenai Jemaah
+
+### dibubarkan
+
+85. Sesuatu sebutan dalam mana-mana undang-undang atau dokumen yang berkuat kuasa sebelum hari ditetapkan mengenai Jemaah dibubarkan hendaklah ditafsirkan sebagai sebutan mengenai Lembaga.
+
+### Penerusan penggunaan nama
+
+86. (1) Walau apa pun seksyen 75 dan 85 Lembaga boleh terus menggunakan nama "Jemaah Pemasaran Lada Hitam" bagi maksud mengekalkan nama baik atau bagi apa-apa maksud yang didapati patut oleh Lembaga.
+
+(2) Tiada orang lain boleh menggunakan nama "Jemaah Pemasaran Lada Hitam" kecuali dengan mendapat kelulusan bertulis terlebih dahulu daripada Lembaga.
+
+(3) Seseorang yang melanggar subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.
+
+### Pencegahan anomali
+
+87. (1) Menteri boleh, setelah berunding dengan Lembaga, apabila difikirkannya perlu atau suai manfaat untuk berbuat demikian, sama ada bagi maksud menghapuskan kesulitan, mencegah anomali atau berbangkit daripada pembuatan Akta ini, melalui perintah
+
+<!-- page 52 -->
+
+### yang disiarkan dalam Warta membuat apa-apa ubah suaian kepada
+
+### mana-mana peruntukan dalam mana-mana undang-undang yang
+
+### sedia ada yang difikirkannya patut.
+
+(2) Menteri tidak boleh menjalankan kuasa yang diberikan oleh
+
+### subseksyen (1) selepas tamat tempoh dua tahun dari had ditetapkan.
+
+## JADUAL PERTAMA
+
+[Subseksyen 3(4}]
+
+### Mesyuarat
+
+1. (1) Lembaga hendaklah bermesyuarat sekurang-kurangnya sekali tiap-tiap tiga bulan pada masa dan di tempat yang ditetapkan oleh Pengerusi.
+
+(2) Notis bertulis sekurang-kurangnya empat belas hari hendaklah diberikan kepada anggota.
+
+(3) Pengerusi hendaklah mempengerusikan mesyuarat Lembaga.
+
+(4) Kuorura Lembaga ialali tujuh orang.
+
+(5) Tiap-tiap anggota Lembaga yang hadir berhak kepada satu undi.
+
+(6) JJka atas suatu persoalan untuk ditentukan oleh Lembaga terdapat persamaan undi. Pengerusi hendakiah mempunyai undi pemutus.
+
+### Elaun
+
+2. Anggota Lembaga hendaklah dibayar apa-apa elaun yang ditentukan oleh Menteri.
+
+### Lembaga boleh mengundang orang Jain untuk menghadiri mesyuarat
+
+3. (1) Lembaga boleh mengundang mana-mana orang untuk menghadiri mesyuarat atau pertimbangtelitian Lembaga bagi maksud menasihatinya tentang apa-apa perkara yang sedang dibincangkan tetapi orang itu tidak berhak untuk mengundi dalam mesyuarat atau pertimbangtelitian itu.
+
+(2) Seseorang yang diundang di bawah subperenggan (1) boleh dibayar apa- apa fi yang ditentukan oleh Lembaga.
+
+### Meterai per badanan
+
+4. (I) Lembaga hendaklah mempunyai suatu meterai perbadanan yang mengandungi apa-apa reka bentuk yang diluluskan oleh Lembaga dan meterai itu boleh dipecahkan, ditukar, diubah atau dibuat bam sebagaimana yang didapati patut oleh Lembaga.
+
+<!-- page 53 -->
+
+(2) Sehingga suatu meterai diadakan oleh Lembaga, suatu cap yang mengandungi perkataan "Malaysian Pepper Board" atau "Lembaga Lada Malaysia" bolehlah digunakan dan hendaklah disifatkan sebagai meterai perbadanan Lembaga.
+
+(3) Meterai perbadanan itu hendaklah disimpan dalam jagaan Ketua Pengarah atau mana-mana orang lain yang diberi kuasa oleh Lembaga, dan hendaklah disahkan oleh Ketua Pengarah atau orang yang diberi kuasa itu atau oieh mana- mana pegawai diberi kuasa oleh salah seorang daripada mereka secara bertulis; dan segala surat ikatan, dokumen dan surat cara lain yang bermaksud sebagai dimeteraikan dengan meterai itu, yang disahkan sebagaimana yang disebut terdahulu, hendaklah disifatkan telah disempurnakan dengan sah sehingga dlbuktikan sebaliknya:
+
+Dengan syarat bahawa apa-apa dokumen atau surat cara yang jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan tidak akan dikehendaki dimeteraikan boleh dengan cara yang sama disempurnakan oleh Lembaga; dan apa-apa dokumen atau surat cara itu boleh disempurnakan bagi pihak Lembaga oleh mana-mana pegawai atau pekhidmat Lembaga yang diberi kuasa secara am atau khas oleh Lembaga bagi maksud itu.
+
+(4) Meterai perbadanan Lembaga hendaklah diberi pengiktirafan rasmi dan kehakiman.
+
+### Penzahiran kepentingan
+
+5. Seseorang anggota Lembaga yang, secara langsung atau secara tidak langsung, mempunyai sendiri atau melalui pekongsinya, apa-apa kepentingan dalam mana- mana syarikat atau perusahaan yang dengannya Lembaga bcrcadang untuk membuat apa-apa kontrak atau yang mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Lembaga hendaklah menzahirkan fakta dan jenis kepentingannya itu kepada Lembaga, dan penzahiran itu hendaklah direkodkan dalam minit Lembaga dan, melainkan jika dibenarkan secara khusus oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa pertimbangtelitian atau keputusan Lembaga yang berhubungan dengan kontrak atau perkara itu.
+
+### Minit
+
+6. (1) Lembaga hendaklah menyebabkan supaya minit kesemua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya.
+
+(2) Minit yang dibuat mengenai mesyuarat Lembaga hendaklah, jika ditandatangani dengan sewajarnya, diterima sebagai keterangan dalam segala prosiding undang-undang tanpa dibuktikan selanjutnya.
+
+(3) Tiap-tiap mesyuarat Lembaga berkenaan dengan prosiding yang mana minitnya telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan kesemua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak.
+
+<!-- page 54 -->
+
+### Kesahan tindakan dan presiding
+
+7. Tiada tindakan yang dilakukan atau prosiding yang diambil di bawah Akta ini boleh dipersoalkan atas alasan bahawa —
+
+(a) ada kekosongan dalam keanggotaan, atau ada kecacatan dalam penubuhan, Lembaga;
+
+(b) ada pelanggaran oleh mana-mana anggota Lembaga berkenaan peruntukan perenggan 5; atau
+
+(c) ada peninggalan, kecacatan atau ketidakaturan yang tidak menyentuh merit hal itu.
+
+### Tatacara
+
+8. Tertakluk kepada Akta ini, Lembaga hendaklah menetapkan tatacaranya sendiri.
+
+### Anggota Lembaga hendaklah menumpukan masa kepada urusan Lembaga
+
+9. Tiap-tiap anggota Lembaga hendaklah menumpukan masa kepada urusan Lembaga sebagaimana yang perlu untuk memmaikan kewajipannya dengan berkesan.
+
+### Pelantikan hendaklah disiarkan
+
+10. Pelantikan tiap-tiap anggota dan anggota silih ganti Lembaga hendaklah disiarkan daiam Warta.
+
+## JADUAL KEDUA
+
+[Subseksyen 33(2)]
+
+### Kuasa Lembaga untuk membuat peraturan-peraturan berkenaan dengan
+
+### perfoadanan
+
+1. Lembaga hendaklah, pada atau sebelum tarikh apa-apa perbadanan ditubuhkan di bawah seksyen 33, membuat peraturan-peraturan berkenaan dengan perbadanan itu yang menentukan —
+
+(a) maksud dan tujuan perbadanan itu ditubuhkan;
+
+(b) hak, kuasa, kewajipan dan fungsi perbadanan itu;
+
+(c) sistem pengurusan perbadanan itu; dan
+
+(d) hubungan antara perbadanan itu dengan Lembaga dan hak pengawalan Lembaga ke atas perbadanan itu.
+
+### Batasan kuasa untuk menubuhkan perbadanan
+
+2. Tiada apa-apa jua dalam perenggan 1 boleh disifatkan sebagai memberi kuasa kepada Lembaga untuk membuat peraturan-peraturan bagi apa-apa maksud
+
+<!-- page 55 -->
+
+atau tujuan yang lebih luas ruang Hngkupnya daripada maksud atau tujuan yang baginya Lembaga telah ditubuhkan atau memberi mana-mana perbadanan apa-apa hak, kewajipan, kuasa atau fungsi yang tidak termasuk dalam hak, kewajipan, kuasa atau fungsi Lembaga di bawah Akta ini.
+
+### Kuat kuasa peraturan-peraturan
+
+3. Tertakluk kepada peruntukan Akta ini dan mana-mana peraturan-peraturan yang dibuat di bawah seksyen 72, apa-apa peraturan-peraturan yang dibuat di bawah perenggan 1 hendaklah mengikat perbadanan yang berkenaan dengannya peraturan-peraturan itu dibuat dan hendaklah mempunyai kuat kuasa bagi segaja maksud seolah-olah peraturan-peraturan itu telah dibuat dalam Akta ini.
+
+### Pindaan peraturan-peraturan
+
+4. Lembaga boleh pada bila-bila masa meminda, membatalkan atau membuat tarnbahan kepada mana-mana peraturan-peraturan yang dibuat di bawah perenggan 1 berkenaan dengan mana-mana perbadanan.
+
+### Daftar perbadanan
+
+5. Lembaga hendaklah menyimpan suatu daftar daiam bentuk yang ditetapkan mengenai semua perbadanan yang ditubuhkan olehnya di bawah seksyen 33 dan daftar itu, berserta dengan salinan segala peraturan-peraturan yang dibuat di bawah perenggan 1 dan 4, adalah terbuka untuk pemeriksaan a warn di tempat atau tempat-tempat dan pada bila-bila masa yang ditetapkan olehnya.
+
+### Penggulungan
+
+6.(1) Lembaga boleh, dengan kelulusan Menteri, melalui perintah yang disiarkan dalam Warta, mengarahkan supaya mana-mana perbadanan yang ditubuhkan olehnya digulung dan dibubarkan.
+
+(2) Apabila mana-mana perbadanan dibubarkan di bawah perenggan ini, aset perbadanan itu hendaklah berpindah kepada dan terletak hak pada Lembaga setelah segala liabilitinya ditunaikan.
+
+(3) Penggulungan sesuatu perbadanan di bawah perenggan ini hendaklah dijalankan mengikut eara yang ditetapkan oleh Lembaga.
+
+### Perbadanan hendaklah menjadi pertubuhan perbadanan
+
+7. Tiap-tiap perbadanan yang ditubuhkan di bawah seksyen 33 adalah menjadi suatu pertubuhan perbadanan dengan apa-apa nama yang diberikan oleh Lembaga dan hendaklah kekal turun-temurun dan mempunyai suatu meterai perbadanan dan boleh membawa guaman dan dibawa guaman atas nama itu dan, bagi maksud melaksanakan projek, skim atau perusahaan yang baginya ia telah ditubuhkan, boleh membuat kontrak, dan boleh memegang dan membuat apa-apa urusan dalam atau dengan apa-apa harta tak aiih atau harta alih dan
+
+<!-- page 56 -->
+
+boleh melakukan segala perkara dan benda lain yang bersampingan atau berkaitan dengan sesuatu pertubuhan perbadanan yang selaras dengan peruntukan Akta ini dan dengan tertakluk kepada apa-apa sekatan atau batasan yang ditetapkan oleh Lembaga dalam setiap hal.
+
+### Meterai perbadanan
+
+8. (1) Tiap-tiap perbadanan hendaklah mempunyai suatu meterai perbadanan yang mengandungi apa-apa reka bentuk yang diluluskan oleh perbadanan dengan kelulusan Lembaga dan meterai itu boleh dipecabkan, ditukar, diubah atau dibuat baru sebagaimana yang didapati patut oleh perbadanan dengan kelulusan Lembaga.
+
+(2) Sehingga suatu meterai diadakan oleh perbadanan, suatu cap yang mengandungi nama perbadanan boleh digunakan dan hendaklah disifatkan sebagai meterai perbadanan itu.
+
+(3) Meterai perbadanan itu hendaklah disimpan dalam jagaan orang yang diberi kuasa oleh perbadanan, dan hendaklah disahkan oleh orang itu; dan segala surat ikatan, dokumen dan surat cara lain yang bermaksud sebagai dimeteraikan dengan meterai itu, yang disahkan sebagaimana yang disebul terdahulu. hendaklah disifatkan telah disempurnakan dengan sah sehingga dibuktikan sebaliknya:
+
+Dengan syarat bahawa apa-apa dokumen atau surat cara yang jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan tidak akan dikehendaki dimeteraikan boleh dengan cara yang sama disempurnakan oleh perbadanan; dan apa-apa dokumen atau surat cara itu boleh disempurnakan bag! pihak perbadanan oleh mana-mana pegawai atau pekhidmat perbadanan yang diberi kuasa secara am atau khas oleh perbadanan bagi maksud itu.
+
+(4) Meterai perbadanan tiap-tiap perbadanan hendaklah diberi pengiktirafan rasmi dan kehakiman.
+
+## HURAIAN
+
+Akta Lembaga Lada Malaysia 2006 yang dicadangkan ("Akta yang dicadangkan") bertujuan untuk menubuhkan suatu pertubuhan perbadanan dengan nama "Lembaga Lada Malaysia" ("Lembaga"); untuk membuat peruntukan yang lebih baik berkenaan dengan industri lada Malaysia; untuk membubarkan Jemaah Pemasaran Lada Hitam; dan untuk mengadakan peruntukan bagi perkara yamg berbangkit dan bersampingan.
+
+## BAHAGIAN I
+
+2. Bahagian I Rang Undang-Undang ini mengandungi perkara permulaan.
+
+3. Fasal 1 mengandungi tajuk ringkas dan bertujuan untuk membenarkan Menteri untuk menetapkan tarikh permulaan kuat kuasa Akta yang dicadangkan.
+
+<!-- page 57 -->
+
+4. Fasal 2 mengandungi takrif ungkapan tertentu yang digunakan dalam Rang Undang-Undang ini.
+
+## BAHAGIAN II
+
+5. Bahagian II Rang Undang-Undang ini mengandungi peruntukan yang berhubungan dengan penubuhan Lembaga Lada Malaysia.
+
+6. Fasal 3 bertujuan untuk mengadakan peruntukan tentang penubuhan Lembaga dan matlamatnya sementara fasal 4 dan 5 memperkatakan tentang fungsi dan kuasa Lembaga.
+
+I. Fasal 6 dan 7 mengandungi peruntukan tentang keanggotaan Lembaga dan tempoh jawatan seseorang anggota Lembaga.
+
+8. Fasal 8 bertujuan memberi Menteri kuasa untuk melantik anggota silih ganti bagi anggota tertentu Lembaga.
+
+9. Fasal 9 menyatakan hal keadaan yang di bawahnya Menteri boleh meiantik mana-mana anggota Lembaga untuk menjafankan fungsi sementara Pengerusi.
+
+10. Fasal 10 adalah mengenai pembatalan pelantikan anggota-anggota Lembaga dan peletakan jawatan mereka.
+
+I1. Fasal 11 menyatakan hal keadaan apabila jawatan seorang anggota Lembaga dikosongkan.
+
+12. Fasal 12 bertujuan untuk memberikan periindungan kepada mana-mana anggota Lembaga atau sesuatu jawatankuasa, pegawai, pekhidmat atau ejen Lembaga daripada menanggung liabiliti diri bagi apa-apa kerugian atau kerosakan yang disebabkan oieh apa-apa perbuatan atau peninggalan dalam menjalankan kuasa dan kewajipan di bawah Akta yang dicadangkan melainkan jika kerugian atau kerosakan itu disebabkan oleh suatu perbuatan salah yang diniatkan.
+
+13. Fasal 13 mengadakan peruntukan bahawa Akta Periindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Lembaga atau mana-mana jawatankuasa, anggota, pegawai, pekhidmat atau ejen Lembaga.
+
+14. Fasal 14 mengadakan peruntukan bahawa tiap-tiap anggota Lembaga atau mana-mana jawatankuasa atau mana-mana pegawai, pekhidmat atau ejen Lembaga hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574] semasa menunaikan kewajipannya.
+
+15. Fasal 15 bertujuan untuk memberi kuasa kepada Menteri untuk memberikan arahan am kepada Lembaga.
+
+16. Fasal 16 menghendaki Lembaga mengemukakan penyata, laporan, akaun dan maklumat kepada Menteri dan pihak berkuasa awam yang lain sebagaimana yang diarahkan oleh Menteri.
+
+<!-- page 58 -->
+
+31. Fasal 29 bertujuan untuk membenarkan Lembaga melaburkan wang Lembaga.
+
+32. Fasal 30 bertujuan untuk member! kuasa kepada Lembaga untuk menjadikan tersedia apa-apa dapatan penyelidikan yang terletak hak pada Lembaga kepada mana-mana orang atau badan tertakluk kepada apa-apa syarat dan pembayaran fi, royalti atau balasan lain jika ada yang ditetapkan oleh Lembaga dengan kelulusan Menteri bagi maksud memperdagangkannya.
+
+33. Fasal 31 memberi kuasa kepada Lembaga untuk mengambil khidmat dan membayar ejen dan penasihat teknikal, termasuk peguam bela dan peguam cara, jurubank dan broker sahara.
+
+34. Fasal 32 memberi kuasa kepada Lembaga, dengan kelulusan Menteri dan Menteri Kewangan, untuk memberikan pinjaman.
+
+35. Lembaga juga dibenarkan untuk menubuhkan perbadanan di bawah
+
+### fasal 33.
+
+## BAHAGIAN VI
+
+36. Bahagian VI mengandungi peruntukan yang berhubungan dengan penguatkuasaan, penyitaan, penangkapan, dsb.
+
+37. Fasal 34 bertujuan untuk memberikan Ketua Pengarah kuasa untuk melantik pegawai yang diberi kuasa bagi maksud menjalankan kuasa penguatkuasaan di bawah Akta yang dicadangkan ini.
+
+38. Fasal 35 mengadakan peruntukan mengenai kuasa pegawai diberi kuasa menyiasat apa-apa kesalahan di bawah Akta yang dicadangkan. Fasal 36 mengadakan peruntukan bahawa setiap pegawai yang diberi kuasa di bawah fasal 34 hendaklah diberikan kad kuasa dan hendaklah apabila diminta mengemukakan kadnya jika perlu di bawah Akta yang dicadangkan itu.
+
+39. Fasal 37, 38, 39 dan 40 msemperkatakan tentang peruntukan yang berhubungan dengan kuasa penangkapan, penggeledahan dan penyitaan dengan waran, penggeledahan dan penyitaan tanpa waran dan kuasa pegawai diberi kuasa untuk memasuki mana-mana tempat bagi maksud pemeriksaan, penentusahan dan pemungutan sampel.
+
+40. Fasal 4] memperkatakan tentang peruntukan yang berhubungan dengan pemeriksaan orang.
+
+41. Fasal 42 memperkatakan tentang peruntukan yang berhubungan dengan penyitaan benda, dsb..
+
+42. Fasal 43 mengadakan peruntukan mengenai kuasa pegawai diberi kuasa untuk memberhentikan, memeriksa dan menyita kenderaan.
+
+43. Fasal 44 bertujuan untuk menjadikan tanggungjawab pegawai diberi kuasa untuk menyediakan senarai benda yang disita dan fasal 45 bertujuan mengadakan peruntukan bagi pemulangan sementara kenderaan, jentera, peralatan atau kelengkapan oleh mahkamah kepada pemunya tertakluk kepada apa-apa terma dan syarat yang boleh dikenakan oleh mahkamah.
+
+<!-- page 59 -->
+
+44. Fasal 46 bertujuan untuk memberi Ketua Pengarah kuasa untuk mengarahkan. penjualan dan pehipusan lada atau keluaran lada yang disita.
+
+45. Fasal 47 bertujuan untuk membenarkan mana-mana pegawai diberi kuasa untuk mengarahkan kehadiran orang yang mengetahui kes.
+
+46. Fasal 48 bertujuan untuk memberi pegawai diberi kuasa, kuasa untuk memeriksa secara lisan mana-mana orang yang mengetahui fakta dan hal keadaan kes dan fasal 49 memperkatakan tentang kebolehterimaan pernyataan dalam keterangan.
+
+47. Fasal 50 memperkatakan tentang pelucuthakkan apa-apa benda yang disita di bawah Akta yang dicadangkan.
+
+48. Fasal 51 mengadakan peruntukan bahawa apa-apa lada atau keluaran lada, dsb. yang dilucuthakkan atau diambil dan disifatkan sebagai dilucuthakkan di bawah Bahagian VI hendaklah menjadi harta Lembaga.
+
+49. Fasal 52 mengadakan peruntukan mengenai pelepasan apa-apa benda yang disita di bawah Akta yang dicadangkan.
+
+## BAHAGIAN VII
+
+50. Bahagian VII mengandungi peruntukan am.
+
+51. Fasal 53 mengadakan peruntukan mengenai pengawalseliaan industri lada, kecuali penanaman dan penyelidikan tentang lada, menurut peraturan-peraturan yang dibuat di bawah Akta ini.
+
+52. Fasal 54 bertujuan untuk memberi Menteri kuasa untuk melantik juruanalisis bagi memeriksa dan menguji lada atau keluaran lada dan untuk mengesahkan keadaan, jenis, cara pemprosesan, mutu, piawaian dan gred.
+
+53. Fasal 55 mengadakan peruntukan mengenai pemeriksaan dan pengujian berkadar lada yang disita.
+
+54. Fasal 56 bertujuan untuk mengadakan peruntukan bahawa kos memegang apa-apa yang disita di bawah Akta yang dicadangkan hendaklah menjadi hutang yang kena dibayar kepada Kerajaan dan boleh didapatkan sewajarnya jika orang itu didapati bersalah atas kesalahan.
+
+55. Fasal 57 mengadakan peruntukan bahawa tiada kos atau ganti rugi yang berbangkit daripada penyitaan apa-apa benda dalam penjalanan atau berupa penjalanan kuasa di bawah Akta yang dicadangkan boleh didapatkan dalam mana-mana prosiding mahkamah melainkan jika penyitaan itu dibuat tanpa sebab yang munasabah.
+
+56. Fasal 58 bertujuan untuk mengadakan peruntukan bagi kuasa tambahan pegawai yang diberi kuasa bagi maksud pelaksanaan Akta yang dicadangkan.
+
+57. Fasal 59 bertujuan untuk menjadikan suatu kesalahan bagi mana-mana orang yang menyerang, menghalang. merintangi atau mengganggu, dsb., mana- mana pegawai diberi kuasa dalam melaksanakan fungsinya di bawah Akta yang dicadangkan.
+
+<!-- page 60 -->
+
+58. Fasal 60 memperkatakan tentang kewajipan menyimpan rahsia.
+
+59. Fasal 61 bertujuan menjadikan suatu kesalahan bagi orang yang memberikan apa-apa maklumat palsu, dsb..
+
+60. Fasal 62 mengadakan peruntukan bagi kesalahan yang dilakukan oleh pertubuhan perbadanan.
+
+61. Fasal 63 bertujuan untuk menjadikan suatu kesalahan bagi mana-mana orang yang bersubahat atau cuba melakukan apa-apa kesalahan di bawah Akta yang dicadangkan.
+
+62. Fasal 64 bertujuan untuk memberi Ketua Pengarah kuasa untuk mengkompaun kesalahan dengan keizinan secara bertulis Pendakwa Raya,
+
+63. Fasal 65 bertujuan untuk mengadakan peruntukan bagi permulaan dan penjalanan pendakwaan.
+
+64. Fasal 66 bertujuan untuk mengadakan peruntukan mengenai bidang kuasa Mahkamah Majistret Kelas Pertama untuk membicarakan kesalahan di bawah Akta yang dicadangkan.
+
+65. Fasal 67 dan 69 memperkatakan tentang peruntukan yang berhubungan dengan perlindungan pegawai dan pemberi maklumat masing-masing dan fasal 68 memperkatakan tentang peruntukan yang berhubungan dengan hadiah.
+
+66. Fasal 70 dan 71 bertujuan untuk memberi Menteri kuasa untuk mengecualikan mana-mana orang daripada peruntukan Akta yang dicadangkan dan kuasa untuk meminda Jadual melalui perintah yang disiarkan dalam Warta.
+
+67. Fasal 72 bertujuan untuk memberi Menteri kuasa untuk membuat peraturan- peraturan dan fasal 73 bertujuan untuk memberi Menteri kuasa untuk membuat peraturan-peraturan mengenai pemasaran lada dan keluaran lada.
+
+68. Fasal 74 bertujuan untuk mengadakan peruntukan bagi pengesahan perbuatan yang dilakukan pada menjangkakan pembuatan Akta yang dicadangkan.
+
+## BAHAGIAN VIII
+
+69. Bahagian VIII mengandungi peruntukan mengenai pemansuhan, kecualian dan peralihan.
+
+## IMPLIKASI KEWANGAN
+
+Rang Undang-Undang ini akan melibatkan Kerajaan dalam perbelanjaan wang tambahan yang amaunnya belum dapat diketahui sekarang ini.
+
+[PN(U2)2416]

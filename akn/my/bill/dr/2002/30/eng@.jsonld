@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-30-2002",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply Bill 2003"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supply Act 2003. Issue and appropriation for the service of the year 2003"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding fifty-five billion three hundred and eighty-six million two hundred and forty-four thousand and eight hundred and fifty ringgit (RM55,386,244,850) from the Consolidated Fund for the service of the year 2003 is hereby authorised, and that sum is appropriated for purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2002/30/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. 1 Parliament B. 2 Office of the Keeper of the Rulers' Seal B. 3 Audit Department 2 Bill Purpose Title B. 4 Election Commission B. 5 Public Services Commission B. 6 Education Service Commission B. 7 Prime Minister's Department B. 8 Public Services Department B. 9 Statistics Department B. 10 Attorney General's Chambers B. 11 Anti-Corruption Agency B. 12 Office of the Federal Secretary Sabah B. 13 Office of the Federal Secretary Sarawak B. 14 Ministry of Housing and Local Govemment B. 15 Town and Country Planning Department B. 16 Fire and Rescue Department B. 17 Ministry of Youth and Sports B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture B. 20 Ministry of International Trade and Industry B. 21 Ministry of Domestic Trade and Consumer Affairs B. 22 Ministry of Culture, Arts and Tourism B. 23 Department of the National Archives B. 24 Museum and Antiquities Department B. 25 Ministry of Defence B. 26 Ministry of Education B. 27 Department of National Library B. 28 Treasury B. 29 Treasury General Services B. 30 Contribution to Statutory Funds B. 31 Royal Customs Department Malaysia B. 32 Valuation and Property Services Department B. 33 Ministry of Works B. 34 Ministry of Health B. 35 Ministry of Home Affairs B. 36 Ministry of Foreign Affairs B. 37 Ministry of Energy, Communications and Multimedia Supply Purpose Title B. 38 Ministry of Transport B. 39 Ministry of Entrepreneur Development B. 40 Ministry of Rural Development B. 41 Ministry of Women and Family Development B. 42 Ministry of National Unity and Social Development B. 43 Ministry of Land and Co-operative Development B. 44 Ministry of Information B. 45 Ministry of Human Resources B. 46 Ministry of Science, Technology and the Environment"
+      }
+    }
+  ]
+}

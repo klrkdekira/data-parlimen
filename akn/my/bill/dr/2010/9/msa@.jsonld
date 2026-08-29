@@ -1,0 +1,299 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-9-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Keretapi (Pindaan) 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Keretapi (Pindaan) 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, “tarikh yang ditetapkan” ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen 1(2). Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Keretapi 1991 [Akta 463], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 1, 4 dan 7 dengan menggantikan perkataan “Malaysia” di mana-mana jua terdapat dengan perkataan “Sabah, Sarawak dan Wilayah Persekutuan Labuan”. Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 1 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) Walau apa pun subseksyen (1), Bahagian XII hendaklah terpakai bagi semua keretapi di Malaysia.”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “keretapi”, dengan memotong perkataan “Keretapi Bukit Bendera dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Menteri”, dengan memasukkan selepas perkataan “keretapi” perkataan “di Sabah, Sarawak dan Wilayah Persekutuan Labuan”. Pindaan seksyen 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 66 Akta ibu dipinda dengan memasukkan selepas perkataan “dua puluh tahun” perkataan “atau kedua-duanya”. Pindaan seksyen 89"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 89 Akta ibu dipinda dalam perenggan (8)(b) dengan memotong perkataan “untuk menggalakkan dan”. Ketidakpakaian, kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh yang ditetapkan, Akta Keretapi 1991, yang kemudian daripada ini disebut “Akta”, hendaklah terhenti pemakaiannya bagi Semenanjung Malaysia, kecuali Bahagian XII."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun ketidakpakaian Akta Keretapi 1991 bagi Semenanjung Malaysia, semua perundangan subsidiari yang dibuat atau yang disifatkan sebagai telah dibuat atau mempunyai kesan di bawah Akta sebelum tarikh yang ditetapkan hendaklah, setakat yang semua perundangan subsidiari itu tidak tak konsisten dengan Akta Pengangkutan Awam Darat 2010 [Akta ], terus berkuat kuasa dan mempunyai kesan di Semenanjung Malaysia sehingga semua perundangan subsidiari itu dipinda atau dibatalkan oleh mana-mana perundangan subsidiari yang dibuat di bawah Akta Pengangkutan Awam Darat 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa lesen, kelulusan, arahan, perintah atau keputusan yang dibenarkan, dikeluarkan, diberikan atau dibuat di bawah atau mengikut Akta berkenaan dengan pemakaiannya bagi Semenanjung Malaysia sebelum tarikh yang ditetapkan hendaklah, setakat ia tidak tak konsisten dengan peruntukan Akta Pengangkutan Awam Darat 2010, terus berkuat kuasa dan mempunyai kesan sepenuhnya sehingga digantung atau dibatalkan di bawah Akta Pengangkutan Awam Darat 2010 atau sehingga habis tempoh lesen, kelulusan, arahan, perintah atau keputusan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua permohonan bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pembinaan sesuatu keretapi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberian kelulusan skim keretapi bagi sesuatu keretapi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluaran atau pembaharuan lesen untuk mengendalikan keretapi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberian kelulusan bagi membuka keretapi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemberian kelulusan bagi membuka semula keretapi yang ditutup; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengubahan syarat kelulusan atau lesen yang diperihalkan di bawah perenggan (b) dan (c), yang dibuat oleh mana-mana orang di bawah Akta berkenaan dengan pemakaiannya bagi Semenanjung Malaysia sebelum tarikh yang ditetapkan dan masih belum selesai pada tarikh itu hendaklah, pada tarikh itu, terhenti diuruskan di bawah Akta dan hendaklah diuruskan di bawah Akta Pengangkutan Awam Darat 2010 seolah-olah permohonan itu telah dibuat di bawah peruntukan Akta Pengangkutan Awam Darat 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada peruntukan Akta Pengangkutan Awam Darat 2010, tiada apa-apa yang terkandung dalam Akta atau Akta Pengangkutan Awam Darat 2010 boleh menjejaskan mana-mana orang yang bertanggungan untuk didakwa atau dihukum bagi kesalahan yang dilakukan di bawah peruntukan Akta berkenaan dengan pemakaiannya bagi Semenanjung Malaysia sebelum tarikh yang ditetapkan, atau apa-apa penyiasatan yang dibuat, prosiding yang diambil atau hukuman yang dikenakan sebelum hari itu berkenaan dengan kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu sebutan dalam mana-mana undang-undang bertulis atau dokumen yang berkuat kuasa, sebaik sebelum tarikh yang ditetapkan mengenai Ketua Pengarah Keretapi di bawah Akta berkenaan dengan pemakaiannya bagi Semenanjung Malaysia, hendaklah ditafsirkan sebagai sebutan mengenai Suruhanjaya Pengangkutan Awam Darat yang ditubuhkan di bawah Akta Suruhanjaya Pengangkutan Awam Darat 2010 [Akta ]."
+      }
+    }
+  ]
+}

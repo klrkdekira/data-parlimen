@@ -1,0 +1,145 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-21-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Zon Bebas (Pindaan) 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Zon Bebas (Pindaan) 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Seksyen baharu 17a dan 17b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Zon Bebas 1990 [Akta 438], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan dalam Bahagian IV sebelum seksyen 18 seksyen yang berikut: “Kuasa penguatkuasaan, penyiasatan dan pemeriksaan 17a. Bagi maksud Akta ini, seseorang pegawai kanan kastam hendaklah mempunyai segala kuasa seorang pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593] berhubung dengan penguatkuasaan, penyiasatan dan pemeriksaan, dan kuasa yang sedemikian hendaklah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan tidak mengurangkan kuasanya. Kuasa tambahan 17b. (1) Sebagai tambahan kepada dan tanpa menjejaskan kuasa sedia ada yang diberikan di bawah Akta ini, apabila membawa dan menjaga mana-mana orang dalam tahanan, seseorang pegawai kastam yang hak hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan kuasa seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seorang pegawai kanan kastam, dan bagi maksud itu, tempat yang perintah, perakuan atau perbuatan itu diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang pegawai kastam yang hak hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai suatu balai polis.”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3 a) Jika oleh sebab jenis, saiz atau amaunnya tidak praktikal untuk mengeluarkan apa-apa barang, bekas, bungkusan, bagasi, kenderaan, vesel atau pesawat udara yang disita di bawah seksyen ini, pegawai yang menyita itu boleh, dengan apa-apa cara, mengelak barang, bekas, bungkusan, bagasi, kenderaan, vesel atau pesawat udara itu, atau premis atau tempat yang di dalamnya barang, bekas, bungkusan, bagasi, kenderaan, vesel atau pesawat udara itu dijumpai. (3b) Seseorang yang, tanpa kuasa yang sah, memecah, menganggu atau merosakkan lak yang disebut dalam subseksyen (3a) atau mengeluarkan apa-apa barang, bekas, bungkusan, bagasi, kenderaan, vesel atau pesawat udara yang dilak itu, atau cuba untuk berbuat demikian, melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya.”. Seksyen baharu 30b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_4__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 30a seksyen yang berikut: “Keterangan ejen provokasi boleh diterima 30b. (1) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, tiada ejen provokasi boleh dianggap tidak boleh dipercayai hanya oleh sebab dia telah cuba bersubahat atau telah bersubahat dalam melakukan suatu kesalahan oleh mana-mana orang di bawah Akta ini jika cubaan untuk bersubahat atau persubahatan itu adalah semata-mata bagi maksud mendapatkan keterangan terhadap orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, dan ejen provokasi itu ialah seorang pegawai kastam atau pegawai polis tidak kira apa jua pangkatnya, apa-apa pernyataan, sama ada lisan atau bertulis, yang dibuat kepada ejen provokasi oleh mana-mana orang yang kemudiannya dipertuduh atas suatu kesalahan di bawah Akta ini boleh diterima sebagai keterangan semasa perbicaraannya.”."
+      }
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-34-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (1996) (No. 2) Bill 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (1996) (No. 2) Act 1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is authorised of a sum not exceeding one billion five hundred and seventy-one million nine hundred and eighty-four thousand one hundred and fifty-five ringgit (RM1,571,984,155) from the Consolidated Fund for expenditure on the services specified in the Schedule for the service of the year 1996, not provided for or not fully provided for by the Supply Act 1996 and the Supplementary Supply (1996) Act 1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The said sum is appropriated for the purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) Appropriation Purpose Title to Purpose RM B. 1 Parliament 359,855 B. 6 Education Service Commission 600,000 B. 7 Prime Minister's Department 30,000,000 B. 9 Statistics Department 7,292,000 Appropriation Purpose Title to Purpose B. 10 Attorney General's Chambers B. 11 Anti-Corruption Agency B. 15 Town and Country Planning Department B. 16 Fire Services Department 24,386,100 B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture 77,079,300 B. 23 Department of the National Archives B. 24 Museum and Antiquity Department B. 26 Ministry of Education 299,362,000 B.28 Treasury 14,523,700 B. 29 Treasury General Services 300,000,000 B. 30 Contribution to Statutory Funds 20,000,000 B. 31 Royal Customs and Excise Department 28,412,500 B. 32 Inland Revenue Department B. 33 Valuation and Property Services Department B. 34 Ministry of Health 264,219,000 B. 35 Ministry of Home Affairs B. 36 Royal Malaysia Police 243,600,000 B. 37 Immigration Department B. 39 National Registration Department B. 40 Prisons Department 29,865,700 B. 42 Ministry of National Unity and Social Development B. 46 Ministry of Science, Technology and Environment B. 47 Ministry of Transport 15,866,500 B. 48 Ministry of Rural Development 57,396,100 B. 51 Ministry of Foreign Affairs 61,300,000 B. 53 Ministry of Land and Co-operative 36,900,100 Development TOTAL 1,571,984,155 Supplementary Supply (1996) (No. 2)"
+      }
+    }
+  ]
+}

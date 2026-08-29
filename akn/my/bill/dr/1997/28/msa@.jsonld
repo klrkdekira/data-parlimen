@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-28-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Ahli Parlimen (Saraan) (Pindaan) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Ahli Parlimen"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Saraan) (Pindaan) 1997 dan hendaklah disifatkan telah mula berkuatkuasa pada 1 November 1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Ahli Parlimen (Saraan) 1980, yang disebut \"Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu\" dalam Akta ini, adalah dipinda dalam perenggan 4(c) dan 4(d) dengan menggantikan perkataan \"dua\" dengan perkataan \"tiga\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Walau apa pun seksyen 7 Akta ibu, elaun bulanan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang dinyatakan dalam pindaan kepada Akta ibu dalam seksyen 2 dan yang kena dibayar hendaklah bermula dari 1 November 1996 atau dari tarikh pelantikan atau pemilihan, mengikut mana-mana yang terkemudian, Timbalan Yang di-Pertua Dewan Negara atau Timbalan Yang di-Pertua Dewan Rakyat, mengikut mana-mana yang berkenaan."
+      }
+    }
+  ]
+}

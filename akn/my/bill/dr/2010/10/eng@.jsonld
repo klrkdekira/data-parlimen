@@ -1,0 +1,209 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-10-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Tourism Vehicles Licensing (Amendment) Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Tourism Vehicles Licensing (Amendment) Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, “appointed date” means the date appointed by the Minister under subsection 1(2). Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Tourism Vehicles Licensing Act 1999 [Act 594], which is referred to as the “principal Act” in this Act, is amended in subsection 1(2) by substituting for the words “throughout Malaysia” the words “to Sabah, Sarawak and the Federal Territory of Labuan”. Non-application, transitional and saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the appointed date, the Tourism Vehicles Licensing Act 1999 hereinafter referred to as “the Act”, shall cease to apply to Peninsular Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the non-application of the Act to Peninsular Malaysia, all subsidiary legislation made or deemed to have been made or having effect under the Act and in force or having effect on the appointed date shall, in so far as they are not inconsistent with the Land Public Transport Act 2010 [Act ], continue to be in force and have effect in Peninsular Malaysia as if they had been made under the Land Public Transport Act 2010 until they are amended, revoked or replaced by any subsidiary legislation made under the Land Public Transport Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any licence, approval, direction or exemption granted, issued or given under, or in accordance with, or by virtue of, the Act in respect of its application to Peninsular Malaysia, prior to the appointed date and expiring at any time thereafter, shall be deemed to have been granted, issued or given under, or in accordance with, or by virtue of the Land Public Transport Act 2010 and shall continue to be in full force and effect in relation to whom they apply until amended, suspended, revoked or cancelled under the Land Public Transport Act 2010 or until the date of the expiry of such licence, approval, direction or exemption."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All applications for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "issuance or renewals of licences in respect of tourism vehicles;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "variation of conditions of licences described under paragraph (a); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exemptions under any provision of the Act or any subsidiary legislation made thereunder, made by any person under the Act in respect of its application to Peninsular Malaysia before the appointed date and pending immediately before the appointed date shall, with effect from the appointed date, be dealt with under the Land Public Transport Act 2010 by the Commission as if such applications had been made to it under the provisions of the Land Public Transport Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any appeal in respect of a decision made under the Act was pending immediately before the appointed date before the Minister charged with the responsibility for tourism or where any right to appeal in respect of such decision had accrued, the proceedings in respect of the appeal or in respect of any appeal under the accrued right to appeal, shall be continued or had, as the case may be, with effect from the appointed date before the Appeal Tribunal under the Land Public Transport Act 2010 as if those proceedings were in respect of a decision under the Land Public Transport Act 2010, subject to all such directions or conditions as the Appeal Tribunal may deem fit or expedient to give or impose in the matter."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the provisions of the Land Public Transport Act 2010, nothing in the Act or in the Land Public Transport Act 2010 shall affect any person liable to be prosecuted or punished for offences committed under the Act before the appointed date, or any investigation made, application brought or sentence imposed before that day in respect of such offences."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A reference in any law or document in respect of a tourism vehicle in force immediately before the appointed date to the Commissioner of Tourism under the Act shall, to the extent of its application to Peninsular Malaysia, be construed as a reference to the Commission."
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-6-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (2010) Bill 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (2010) Act 2011. Additional expenditure for the year 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding thirteen billion one hundred and seventy million nine hundred and ninety- seven thousand and six hundred ringgit (RM13,170,997,600) from the Consolidated Fund for additional expenditure on the services and purposes specified in the Schedule for the year 2010 not provided for or not fully provided for by the Supply Act 2010 [Act A1361]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. 1 Parliament B. 4 Election Commission B. 5 Public Services Commission B. 6 Prime Minister’s Department B. 7 Public Services Department B. 8 Attorney General’s Chambers B. 9 Malaysian Anti-Corruption Commission B. 12 Contribution to Statutory Funds B. 20 Ministry of Plantation Industries and Commodities B. 21 Ministry of Agriculture and Agro-based Industry B. 22 Ministry of Rural and Regional Development B. 24 Ministry of International Trade and Industry B. 25 Ministry of Domestic Trade, Cooperatives and Consumerism B. 28 Ministry of Transport B. 30 Ministry of Science, Technology and Innovations B. 32 Ministry of the Federal Territories and Urban Wellbeing B. 41 Ministry of Education B. 42 Ministry of Health B. 45 Ministry of Youth and Sports B. 47 Ministry of Information, Communication and Culture B. 49 Ministry of Higher Education B. 60 Ministry of Defence B. 62 Ministry of Home Affairs TOTAL 13,170,997,600"
+      }
+    }
+  ]
+}

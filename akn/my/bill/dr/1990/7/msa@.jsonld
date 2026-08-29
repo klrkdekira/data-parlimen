@@ -1,0 +1,107 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-7-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Dadah Berbahaya (Langkah-langkah Pencegahan Khas) (Pindaan) 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Dadah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Berbahaya (Langkah-langkah Pencegahan Khas) (Pindaan) 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_2__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta Dadah Berbahaya (Langkah-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "langkah Pencegahan Khas) 1985, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda, dalam subseksyen"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": ", dengan memotong perkataan-perkataan \"dari tarikh perintah itu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika sesuatu perintah tahanan telah dibuat di Pengesahan perintah bawah subseksyen (1) seksyen 6 Akta ibu terhadap tahanan dan penahanan, mana-mana orang semasa tempoh di antara tarikh mula dan tanggung berkuatkuasanya Akta ibu dan tarikh mula rugi. berkuatkuasanya Akta ini (kemudian daripada ini disebut \"tempoh peralihan\"), maka perintah tahanan itu dan penahanan yang dibuat menurutnya semasa tempoh peralihan itu, dan penerusannya selepas itu, jika ada, adalah dengan ini diisytiharkan sebagai sah dan menurut undang-undang, dan hendaklah disifatkan sebagai, dan telah sentiasa dan pada setiap masa, sah dan menurut undang-undang walaupun tempoh yang telah diarahkan oleh perintah itu supaya orang itu ditahan telah bermula dari suatu tarikh yang lain daripada tarikh perintah tahanan itu dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan, guaman, pendakwaan, atau apa- apa jua presiding undang-undang lain daripada apa-apa perihalan atau dalam apa-apa bentuk boleh dibawa, dimulakan atau dikekalkan di mana-mana mahkamah atas apa-apa alasan selepas mula berkuatkuasanya Akta ini atau, jika dibawa atau dimulakan sebelum mula berkuatkuasanya Akta ini, terus dikekalkan, bagi atau disebabkan oleh, atau berkenaan dengan, apa-apa jua yang dilakukan dengan sahnya berhubungan dengan perintah tahanan atau penahanan yang diisytiharkan sebagai sah dan menurut undang-undang di bawah subseksyen (1), kecuali bahawa peruntukan- peruntukan subseksyen ini tidaklah terpakai bagi apa- apa presiding undang-undang sedemikian yang telah selesai dan keputusan muktamad mahkamah berkenaan dengannya telah diberikan sebelum mula berkuatkuasanya Akta ini, atau bagi apa-apa rayuan berkenaan dengan keputusan muktamad itu."
+      }
+    }
+  ]
+}

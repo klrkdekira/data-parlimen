@@ -1,0 +1,313 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-51-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbadanan Produktiviti Negara (Pemerbadanan)(Pindaan) 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua Jawatankuasa dan anggota Jawatankuasa itu yang dilantik oleh Perbadanan Produktiviti Negara di bawah seksyen 5B Akta ibu hendaklah, pada tarikh permulaan kuat kuasa, disifatkan sebagai Jawatankuasa dan anggotanya yang dilantik oleh Perbadanan Produktiviti Malaysia. Penerusan perkhidmatan pegawai, kakitangan, ejen, dll."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua pegawai dan kakitangan yang dilantik oleh Perbadanan Produktiviti Negara menurut seksyen 5 Akta ibu sebaik sebelum tarikh permulaan kuat kuasa hendaklah, pada tarikh permulaan kuat kuasa, disifatkan telah dilantik oleh Perbadanan Produktiviti Malaysia atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang terpakai bagi mereka sebaik sebelum tarikh permulaan kuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua ejen, penasihat teknik dan orang lain yang diambil kerja oleh Perbadanan Produktiviti Negara menurut seksyen 7A Akta ibu sebaik sebelum tarikh permulaan kuat kuasa hendaklah, pada tarikh permulaan kuat kuasa, disifatkan telah diambil kerja oleh Perbadanan Produktiviti Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbadanan Produktiviti Negara (Pemerbadanan) (Pindaan) 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini, \"tarikh permulaan kuat kuasa\" ertinya tarikh yang dinyatakan dalam subseksyen 1(2). Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Produktiviti Negara (Pemerbadanan) 1966, yang disebut \"Akta ibu\" dalam Akta ini, dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"NATIONAL\" dengan perkataan \"MALAYSIA\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"National\" di mana-mana jua terdapat dengan perkataan \"Malaysia\". Pentafsiran sebutan mengenai Akta ibu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika, pada dan selepas tarikh permuiaan kuat kuasa, sebutan dibuat dalam mana-mana undang-undang bertulis mengenai \"Akta Perbadanan Produktiviti Negara (Pemerbadanan) 1966\", sebutan itu hendaklah ditafsirkan sebagai sebutan mengenai \"Akta Perbadanan Produktiviti Malaysia (Pemerbadanan) 1966\". Perubahan nama Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan Produktiviti Negara yang ditubuhkan di bawah seksyen 3 Akta ibu hendaklah, pada dan selepas tarikh permuiaan kuat kuasa, dikenali sebagai \"Perbadanan Produktiviti Malaysia\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala sebutan mengenai Perbadanan Produktiviti Negara dalam mana-mana undang-undang bertulis atau dalam apa-apa surat cara, surat ikatan, hakmilik, dokumen, bon, perjanjian atau perkiraan kerja yang wujud sebaik sebelum tarikh permuiaan kuat kuasa hendaklah, pada dan selepas tarikh permuiaan kuat kuasa, ditafsirkan sebagai sebutan mengenai Perbadanan Produktiviti Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perubahan nama daripada \"Perbadanan Produktiviti Negara\" kepada \"Perbadanan Produktiviti Malaysia\" tidaklah menyentuh apa- apa kuasa, hak, keistimewaan, tanggungan, kewajipan atau obligasi Perbadanan Produktiviti Negara, atau menjadikan cacat apa-apa prosiding undang-undang oleh atau terhadapnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding undang-undang yang boleh diteruskan atau dimulakan oleh atau terhadap Perbadanan Produktiviti Negara sebelum tarikh permuiaan kuat kuasa boleh diteruskan atau dimulakan pada dan selepas tarikh permuiaan kuat kuasa atas nama Perbadanan Produktiviti Malaysia. Tanggungan boleh dikuatkuasakan terhadap Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala tanggungan yang sedia ada yang dilakukan oleh atau bagi pihak atau bagi maksud Perbadanan Produktiviti Negara boleh, pada dan selepas tarikh permuiaan kuat kuasa, dikuatkuasakan terhadap Perbadanan Produktiviti Malaysia. (Pemerbadanan) (Pindaan) Peletakhakan tanah, harta dan aset pada Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala tanah, harta dan aset yang sebaik sebelum tarikh permulaan kuat kuasa terletak hak pada atau dirizabkan bagi Perbadanan Produktiviti Negara atau mana-mana orang yang bertindak bagi pihaknya hendaklah, pada tarikh permulaan kuat kuasa, terletak hak pada atau dirizabkan bagi Perbadanan Produktiviti Malaysia atau mana-mana orang yang bertindak bagi pihaknya tanpa apa-apa pemindahhakan, penyerahhakan pemindahan hakmilik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala tanah, harta dan aset yang terletak hak pada atau dirizabkan bagi Perbadanan Produktiviti Malaysia menurut kuasa subseksyen (1) hendaklah terletak hak sedemikian pada atau dirizabkan sedemikian bagi Perbadanan Produktiviti Malaysia dengan hakmilik atau kepentingan yang serupa dan pemegangan yang serupa sebagaimana tanah, harta dan aset itu terletak hak atau dirizabkan sebaik sebelum tarikh permulaan kuat kuasa. Kumpulan Wang Perbadanan Produktiviti Negara dan kumpulan wang pinjaman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala wang yang terkandung dalam atau yang kena dibayar kepada Kumpulan Wang Perbadanan Produktiviti Negara yang ditubuhkan di bawah seksyen 10 Akta ibu hendaklah, pada tarikh permulaan kuat kuasa, dipindahkan ke dalam dan disifatkan menjadi sebahagian daripada Kumpulan Wang Perbadanan Produktiviti Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa harta lain kepunyaan Kumpulan Wang Perbadanan Produktiviti Negara sebaik sebelum tarikh permulaan kuat kuasa hendaklah menjadi, pada tarikh permulaan kuat kuasa, harta Kumpulan Wang Perbadanan Produktiviti Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala wang yang terkandung dalam kumpulan wang pinjaman dan mana-mana kumpulan wang lain Perbadanan Produktiviti Negara hendaklah, pada tarikh permulaan kuat kuasa, dipindahkan ke dalam dan disifatkan menjadi sebahagian daripada kumpulan wang pinjaman atau mana-mana kumpulan wang lain Perbadanan Produktiviti Malaysia. Ahli Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua ahli Perbadanan Produktiviti Negara hendaklah, pada tarikh permulaan kuat kuasa, disifatkan sebagai ahli Perbadanan Produktiviti Malaysia. Jawatankuasa"
+      }
+    }
+  ]
+}

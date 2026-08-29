@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-3-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Levi Keuntungan Luar Biasa (Pengesahan) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Levi Keuntungan Luar Biasa (Pengesahan) 2023. Pengesahan dan tanggung rugi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta Levi Keuntungan Luar Biasa 1998 [Akta 592], levi keuntungan luar biasa yang telah dikenakan, dilevi dan dipungut di seluruh Malaysia semasa tempoh dari 1 Januari 1999 hingga 31 Januari 2023 dan yang dikatakan telah dikenakan, dilevi dan dipungut di bawah kuasa Perintah Levi Keuntungan Luar Biasa (Minyak Kelapa Sawit Mentah dan Minyak Isirong Sawit Mentah) 1998 [P.U. (A) 494/1998], Perintah Levi Keuntungan Luar Biasa (Minyak Kelapa Sawit Mentah dan Minyak Isirung Sawit Mentah) 2008 [P.U. (A) 217/2008], Perintah Levi Keuntungan Luar Biasa (Buah Kelapa Sawit) 2008 [P.U. (A) 250/2008] dan Perintah Levi Keuntungan Luar Biasa (Elektrik) 2008 [P.U. (A) 234/2008], sebagaimana dipinda dari semasa ke semasa, hendaklah disifatkan telah dikenakan, dilevi dan dipungut dengan sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan atau prosiding undang-undang boleh dibawa, dimulakan atau dikekalkan terhadap Kerajaan Malaysia atau mana-mana pegawai Kerajaan Malaysia atau mana-mana orang yang bertindak di bawah mereka berkenaan dengan apa-apa levi keuntungan luar biasa yang telah dikenakan, dilevi dan dipungut yang levi keuntungan luar biasa itu dikatakan telah dikenakan, dilevi dan dipungut menurut kuasa Perintah Levi Keuntungan Luar Biasa (Minyak Kelapa Sawit Mentah dan Minyak Isirong Sawit Mentah) 1998 [P.U. (A) 494/1998], Perintah Levi Keuntungan Luar Biasa (Minyak Kelapa Sawit Mentah dan Minyak Isirung Sawit Mentah) 2008 [P.U. (A) 217/2008], Perintah Levi Keuntungan Luar Biasa (Buah Kelapa Sawit) 2008 [P.U. (A) 250/2008] dan Perintah Levi Keuntungan Luar Biasa (Elektrik) 2008 [P.U. (A) 234/2008], sebagaimana dipinda dari semasa ke semasa, dan jika apa-apa tindakan atau prosiding undang-undang sedemikian telah dibawa, dimulakan atau dikekalkan, ia hendaklah dibatalkan dan dijadikan tidak sah dan tiada pembayaran balik berkenaan dengan levi keuntungan luar biasa yang telah dikenakan, dilevi dan dipungut seperti yang dinyatakan dalam Akta ini boleh dibuat."
+      }
+    }
+  ]
+}

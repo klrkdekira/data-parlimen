@@ -1,0 +1,158 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-2004",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_4A"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Kumpulan Wang Pinjaman Perumahan (Pindaan) 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kumpulan Wang Pinjaman Perumahan (Pindaan) 2004."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kumpulan Wang Pinjaman Perumahan 1971 [Akta 42], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Maka\" dengan perkataan \"Tertakluk kepada seksyen 4A,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan \"bunga yang kena dibayar atasnya\" perkataan \"melainkan jika Menteri Kewangan membenarkan pembayaran apa-apa wang sedemikian kepada mana-mana orang menurut apa-apa perkiraan yang dibuat dengan orang itu yang di bawahnya apa-apa aset yang dibayar daripada wang Kumpulan Wang, atau apa-apa hak atau bunga yang diperoleh atau yang berbangkit daripada pemberian apa-apa pinjaman daripada wang Kumpulan Wang, telah dijual, dilupuskan atau dipindahkan kepada orang itu\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan memasukkan selepas perkataan \"Kumpulan Wang\" perkataan \"atau daripada atau menurut apa-apa perkiraan yang dibuat dengan mana- mana orang yang di bawahnya apa-apa aset yang dibayar daripada wang Kumpulan Wang, atau apa-apa hak atau bunga yang diperoleh atau yang berbangkit daripada pemberian apa-apa pinjaman daripada wang Kumpulan Wang, telah dijual, dilupuskan atau dipindahkan kepada orang itu\". Seksyen baru 4A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 4 seksyen yang berikut: \"Menteri boleh membenarkan pembayaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_4A",
+      "@type": "akn:clause",
+      "eli:number": "4A",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_4A__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_4A__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan seksyen 4 dan Akta Tatacara Kewangan 1957 [Akta 61], Menteri Kewangan boleh membenarkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_4A__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_4A",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pembayaran ke dalam Akaun Hasil Disatukan dalam Kumpulan Wang Disatukan Persekutuan kesemua atau mana-mana bahagian daripada mana-mana wang Kumpulan Wang yang diterima daripada atau menurut apa-apa perkiraan yang dibuat dengan mana-mana orang yang di bawahnya apa-apa aset yang dibayar daripada wang Kumpulan Wang, atau apa-apa hak atau bunga yang diperoleh atau yang berbangkit daripada pemberian apa-apa pinjaman daripada wang Kumpulan Wang, telah dijual, dilupuskan atau dipindahkan kepada orang itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_4A__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/11/msa@/~cl_4A",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pembayaran kepada mana-mana orang apa-apa wang Kumpulan Wang menurut apa-apa perkiraan yang dibuat dengan orang itu yang di bawahnya apa-apa aset yang dibayar daripada wang Kumpulan Wang, atau apa-apa hak atau bunga yang diperoleh atau yang berbangkit daripada pemberian apa-apa pinjaman daripada wang Kumpulan Wang, telah dijual, dilupuskan atau dipindahkan kepada orang itu.\"."
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-58-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kanun Tatacara Jenayah (Pindaan) (No.2) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kanun Tatacara Jenayah (Pindaan) (No. 2) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/58/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun Tatacara Jenayah [Akta 593] dipinda dalam Jadual Pertama"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas butiran yang berhubungan dengan seksyen 507a Kanun Keseksaan [Akta 574] dan butir-butir yang berhubungan dengannya butiran dan butir-butir yang berikut: Penal Offence Whether Whether a Whether Whether Code the police warrant or bailable compoundable may a summons or not or not ordinarily shall arrest ordinarily without issue in warrant the first or not instance “507b Causing do. do. do. harassment, distress, fear or alarm 507c Causing do. do. do. harassment, distress, fear or alarm to a person likely to feel harassed, distressed, fear or alarmed 507d(1) Causing do. do. do. a person to believe that harm will be caused 507d(2) To provoke do. do. do. a person to cause harm 507d(2) If the do. do. Not person bailable attempts to commit suicide or commits suicide 507e Publishing, do. do. Bailable etc., any identity information to cause harassment, distress, fear or alarm Penal Offence Whether Whether a Whether Code the police warrant or bailable may a summons or not ordinarily shall arrest ordinarily without issue in warrant the first or not instance 507f(1) Publishing, do. do. do. etc., any identity information to cause a person to believe that harm will be caused 507f(2) To do. do. do. facilitate causing of harm"
+      }
+    }
+  ]
+}

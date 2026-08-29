@@ -1,0 +1,196 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-3-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pentadbiran Undang-Undang Islam (Wilayah-Wilayah Persekutuan) (Pindaan) 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pentadbiran Undang-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Undang Islam (Wilayah-Wilayah Persekutuan) (Pindaan) 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_2__subsec_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pentadbiran Undang-Undang Islam (Wilayah-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Wilayah Persekutuan) 1993, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda dengan memasukkan selepas seksyen 8 seksyen yang berikut: \"Kuasa 8A. (1) Majlis boleh, dengan kelulusan Yang untuk me- di-Pertuan Agong, menubuhkan syarikat di bawah nubuhkan syankat Akta Syarikat 1965 untuk menjalankan mana- dan penge- mana aktiviti yang telah dirancang atau diusahakan sahan oleh Majlis dalam melaksanakan kewajipan atau syarikat yang di- kuasa-kuasanya di bawah seksyen 7. tubuhkan. Akta 125. (2) Tiap-tiap syarikat yang ditubuhkan atau berupa sebagai ditubuhkan oleh Majlis di bawah Akta Syarikat 1965 sebelum mula berkuatkuasanya seksyen ini hendaklah disifatkan telah ditubuhkan dengan sah dan hendaklah terus wujud seolah- olah ia telah ditubuhkan oleh Majlis di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa pembiayaan atau bantuan kewangan yang diberikan oleh Majlis di bawah subseksyen (2) seksyen 7 kepada sesuatu syarikat yang disebut dalam subseksyen (2) hendaklah disifatkan telah diberikan dengan sah.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 58 (2) Akta ibu adalah dipinda— seksyen 58."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"dan\" dengan koma; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"menjalankan\" perkataan \"atau memberhentikan\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 59. 59 dengan seksyen yang berikut: \"Peguam 59. (1) Tertakluk kepada subseksyen (2), Majlis Syarie. boleh menerima mana-mana orang yang mempunyai pengetahuan yang mencukupi tentang Hukum Syarak menjadi Peguam Syarie bagi mewakili pihak-pihak dalam apa-apa prosiding di dalam Mahkamah Syariah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh, dengan kelulusan Yang di- Pertuan Agong, membuat kaedah-kaedah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengadakan peruntukan bagi prosedur, kelayakan-kelayakan dan fee- fee bagi penerimaan Peguam Syarie; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawalselia, mengawal dan mengawasi kelakuan Peguam Syarie."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), Majlis boleh mengecualikan mana-mana anggota Perkhidmatan Kehakiman dan Perundangan Persekutuan atau mana-mana orang yang dilantik Akta 26. di bawah seksyen 3 Akta Bantuan Guaman 1971 daripada peruntukan seksyen ini. (WILAYAH-WILAYAH PERSEKUTUAN) (PINDAAN)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa jua yang terkandung dalam mana-mana undang-undang bertulis yang lain, tiada seorang pun selain daripada Peguam Syarie atau orang yang dikecualikan di bawah subseksyen (3), berhak hadir di dalam mana- mana Mahkamah Syariah bagi pihak mana-mana pihak kepada apa-apa prosiding di hadapannya.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 102 (2) Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggantikan perkataan \"section 95 (3)\" dengan perkataan \"subsection (3) of section 96\"."
+      }
+    }
+  ]
+}

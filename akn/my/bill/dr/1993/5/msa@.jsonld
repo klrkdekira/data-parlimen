@@ -1,0 +1,162 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-5-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perlembagaan (Pindaan) (No. 2) 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perlembagaan (Pindaan) (No. 2) 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 dan 4 Akta ini hendaklah disifatkan telah mula berkuatkuasa pada 20hb November 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 113 Perlembagaan Persekutuan adalah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas perkataan \"Suruhanjaya Pilihanraya hendaklah\" dalam perenggan (i) Fasal (3A), perkataan \", tertakluk kepada Fasal (3B),\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas Fasal (3A) Fasal baru yang berikut: \"(3s) Jika sesuatu pindaan kepada Perkara 46 atau suatu undang-undang diperbuat oleh 2 RANG UNDANG-UNDANG Dewan Undangan sesuatu Negeri yang disebut dalam perenggan (i) Fasal (3A) mula berkuat- kuasa selepas lapan tahun berlalu dari tarikh siapnya kajian semula yang terakhir di bawah Fasal (2) dan Suruhanjaya Pilihanraya berpendapat bahawa adalah perlu dijalankan suatu kajian semula di bawah Fasal (2), maka Suruhanjaya Pilihanraya tidak boleh men- jalankan kajian semula di bawah perenggan (i) Fasal (3A) tetapi sebaliknya hendaklah menjalankan kajian semula di bawah Fasal (2) dan dalam mengendalikan kajian semula sedemikian hendaklah mengambil kira mana- mana kawasan yang tersentuh berikutan dengan pindaan atau undang-undang yang disebut dalam perenggan (i) Fasal (3A).\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Kelapan kepada Perlembagaan Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah dipinda dengan memasukkan, selepas perkataan Kelapan. \"seksyen 1(2),\" dalam seksyen 22, perkataan \"seksyen lA,\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perlembagaan (Pindaan) 1992 adalah dipinda— Akta A837."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memansuhkan seksyen 3 seolah-olah seksyen itu tidak pernah menjadi sebahagian daripada Akta itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/5/msa@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam seksyen 4, dengan memotong perkataan \"berikutan dengan kajian semula yang dijalankan menurut Fasal (3A) Perkara 113 Perlembagaan Persekutuan dan Jadual Ketiga Belas tersebut\"."
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-3-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (2010) Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (2010) Act 2010. Additional expenditure for the year 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding nine billion two hundred and sixty-four million eight hundred and fourteen thousand and eight hundred ringgit (RM9,264,814,800) from the Consolidated Fund for additional expenditure on the services and purposes specified in the Schedule for the year 2010 not provided for or not fully provided for by the Supply Act 2010 [Act A/361]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~sched_1__para_8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. Parliament B. 4 Election Commission Prime Minister's Department B. 6 B. 7 Public Services Department B. 9 Malaysian Anti-Corruption Commission B. 10 Treasury B.ll Treasury General Services B. 12 Contribution to Statutory Funds B. 13 Ministry of Foreign Affairs B. 21 Ministry of Agriculture and Agro-based Industry B. 22 Ministry of Rural and Regional Development B.23 Ministry of Natural Resources and Environment B. 24 Ministry of International Trade and Industry B. 25 Ministry of Domestic Trade, Cooperatives and Consumerism B. 27 Ministry of Work"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/3/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "28 Ministry of Transport"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "B. 29 Ministry of Energy, Green Technology and Water B. 31 Ministry of Tourism B.4O Education Service Commission B. 41 Ministry of Education B.42 Ministry of Health B.48 Ministry of Women, Family and Community Development ~ B. 49 Ministry of Higher Education B.60 Ministry of Defence B. 62 Ministry of Home Affairs TOTAL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-36-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Perbekalan 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan 2011. Pengeluaran dan peruntukan untuk perkhidmatan bagi tahun 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengeluaran sejumlah wang yang tidak melebihi satu ratus dua puluh sembilan bilion empat ratus sembilan puluh tiga juta tujuh ratus lapan puluh tiga ribu dan tujuh ratus ringgit (RM129,493,783,700) daripada Kumpulan Wang Disatukan untuk perkhidmatan bagi tahun 2011 adalah dengan ini dibenarkan dan jumlah wang itu diperuntukkan bagi maksud-maksud yang dinyatakan dalam Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/36/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk B. 1 Parlimen B. 2 Pejabat Penyimpan Mohor Besar Raja-Raja B. 3 Jabatan Audit B. 4 Suruhanjaya Pilihan Raya B. 5 Suruhanjaya Perkhidmatan Awam B. 6 Jabatan Perdana Menteri B. 7 Jabatan Perkhidmatan Awam B. 8 Jabatan Peguam Negara B. 9 Suruhanjaya Pencegahan Rasuah Malaysia B. 10 Perbendaharaan B. 11 Perkhidmatan Am Perbendaharaan B. 12 Peruntukan kepada Kumpulan Wang Terkanun B. 13 Kementerian Luar Negeri B. 20 Kementerian Perusahaan Perladangan dan Komoditi B. 21 Kementerian Pertanian dan Industri Asas Tani B. 22 Kementerian Kemajuan Luar Bandar dan Wilayah B. 23 Kementerian Sumber Asli dan Alam Sekitar B. 24 Kementerian Perdagangan Antarabangsa dan Industri B. 25 Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan B. 27 Kementerian Kerja Raya B. 28 Kementerian Pengangkutan B. 29 Kementerian Tenaga, Teknologi Hijau dan Air B. 30 Kementerian Sains, Teknologi dan Inovasi B. 31 Kementerian Pelancongan Maksud Tajuk B. 32 Kementerian Wilayah Persekutuan dan Kesejahteraan Bandar B. 40 Suruhanjaya Perkhidmatan Pelajaran B. 41 Kementerian Pelajaran B. 42 Kementerian Kesihatan B. 43 Kementerian Perumahan dan Kerajaan Tempatan B. 45 Kementerian Belia dan Sukan B. 46 Kementerian Sumber Manusia B. 47 Kementerian Penerangan, Komunikasi dan Kebudayaan B. 48 Kementerian Pembangunan Wanita, Keluarga dan Masyarakat B. 49 Kementerian Pengajian Tinggi B. 60 Kementerian Pertahanan B. 62 Kementerian Dalam Negeri Jumlah"
+      }
+    }
+  ]
+}

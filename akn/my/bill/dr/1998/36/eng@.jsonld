@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-36-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply (1999) Bill 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supply Act 1999. Issue and appropriation for the service of the year 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding thirty-one billion nine hundred"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "and sixty-nine million five hundred and twenty-three thousand nine hundred and forty ringgit (RM31,969,523,940) from the Consolidated Fund for the service of the year 1999 is hereby authorised, and that sum is appropriated for the purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/36/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. 1 Parliament B. 2 Office of the Keeper of the Rulers' Seal B. 3 Audit Department B. 4 Election Commission B. 5 Public Services Commission Purpose Title B. 6 Education Service Commission B. 7 Prime Minister's Department B. 8 Public Services Department B. 9 Statistics Department B. 10 Attorney-General's Chambers B. 11 Anti-Corruption Agency B. 12 Office of the Federal Secretary Sabah B. 13 Office of the Federal Secretary Sarawak B. 14 Ministry of Housing and Local Government B. 15 Town and Country Planning Department B. 16 Fire and Rescue Department B. 17 Ministry of Youth and Sports B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture B. 20 Ministry of International Trade and Industry B. 21 Ministry of Domestic Trade and Consumer Affairs B. 22 Ministry of Culture, Arts and Tourism B. 23 Department of National Archives B. 24 Museum and Antiquities Department B. 25 Ministry of Defence B. 26 Ministry of Education B. 27 Department of National Library B. 28 Treasury B. 29 Treasury General Services B. 30 Contribution to Statutory Funds B. 31 Royal Customs and Excise Department B. 32 Inland Revenue Department B. 33 Valuation and Property Services Department B. 34 Ministry of Health B. 35 Ministry of Home Affairs B. 36 Royal Malaysia Police B. 37 Immigration Department B. 38 Registration of Societies Department Supply Purpose Title B. 39 National Registration Department B. 40 Prison Department B. 41 Civil Defence Department B. 42 Ministry of National Unity and Social Development B. 43 Ministry of Land and Co-operative Development B. 44 Ministry of Information B. 45 Ministry of Human Resources B. 46 Ministry of Science, Technology and the Environment B. 47 Ministry of Transport B. 48 Ministry of Rural Development B. 49 Ministry of Energy, Telecommunications and Posts B. 50 Ministry of Entrepreneur Development B. 51 Ministry of Foreign Affairs B. 52 Ministry of Works TOTAL"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-33-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Cukai Aktiviti Perniagaan Luar Pesisir Labuan (Pindaan) 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan (Pindaan) 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 hendaklah berkuatkuasa bagi tahun taksiran 1992 dan tahun-tahun taksiran yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1990 adalah dipinda dengan memasukkan, selepas sahaja seksyen 10, seksyen baru 10A yang berikut: \"Ketak- 10A. (1) Walau apa pun peruntukan- bolehkenaan peruntukan dalam Bahagian II, suatu syarikat cukai bagi aktiviti luar pesisir yang menjalankan suatu aktiviti perdagangan perniagaan luar pesisir yang adalah aktiviti luar pesisir. perdagangan luar pesisir tidaklah boleh dikenakan cukai bagi suatu tahun taksiran jika dalam tahun taksiran itu syarikat luar pesisir tersebut telah membayar suatu fee yang Akta 441 ditetapkan di bawah seksyen 151 Akta Syarikat Luar Pesisir 1990."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu syarikat luar pesisir yang tidak dikenakan cukai di bawah subseksyen (1) hendaklah dalam tempoh tiga bulan (atau apa- apa tempoh lanjutan yang dibenarkan oleh Ketua Pengarah) dari permulaan suatu tahun taksiran, menfailkan dengan Ketua Pengarah suatu akuan berkanun dalam borang yang ditetapkan.\"."
+      }
+    }
+  ]
+}

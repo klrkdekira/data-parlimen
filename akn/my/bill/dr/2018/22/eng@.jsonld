@@ -1,0 +1,246 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-22-2018",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Income Tax (Amendment) Bill 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 154(1)(c) of the principal Act is amended by substituting for the words “or 132b” the words “, 132b or 132c;”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Income Tax (Amendment) Act 2018."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 3, 4 and 5 have effect for the year of assessment 2019 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 2, 6, 7, 8, 9 and 10 come into operation on the coming into operation of this Act. Amendment of section 75b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967 [Act 53], which is referred to as the “principal Act” in this Act, is amended in subparagraph 75b(1)(a)(i) by inserting after the word “partnership” the words “or persons qualified to act as secretaries under the Companies Act 2016 who is a citizen or permanent resident of Malaysia and ordinarily resides in Malaysia;”. Amendment of section 77a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 77a of the principal Act is amended by substituting for subsection (4) the following subsection: “(4) The return furnished by a company under this section shall be based on financial statements made in accordance with the requirements of the Companies Act 2016.”. Amendment of section 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 82(5) of the principal Act is amended by substituting for the words “accounts audited by a professional accountant, together with a report made by that accountant which shall contain, in so far as they are relevant, the matters set out in subsections 174(1) and (2) of the Companies Act 1965” the words “financial statements made in accordance with the requirements of the Companies Act 2016.”. Amendment of section 99"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 99 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “A person” the words “Subject to subsection (1a), a person”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) A person who has failed to furnish a return for a basis period for a year of assessment in accordance with subsection 77a(1) may appeal against the assessment made by the Director General under subsection 90(3) by furnishing a return for that basis period for that year of assessment together with the written notice of appeal referred to in subsection (1) within the time stipulated for giving of the notice.”. Amendment of section 117"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 117 of the principal Act is amended by inserting after subsection (1) the following subsections: “(1 a) Any person who receives any classified material, knowing or having reasonable ground to believe at the time when he receives it that such classified material is communicated or disclosed to him in contravention of this Act, shall not use the classified material, or produce or disclose the classified material to any other person. (1b) Any person who contravenes subsection (1a), shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding four thousand ringgit or to imprisonment for a term not exceeding one year or to both.”. Amendment of section 132"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 132 of the principal Act is amended by inserting after subsection (1) the following subsection: “(1a) For the purposes of this section, arrangements made with a view to affording relief from double taxation include any arrangements which modify the effect of arrangements so made.”. Amendment of section 132b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 132b of the principal Act is amended by inserting after subsection (1) the following subsection: “(1a) Where any arrangements have effect by virtue of this section, section 138 shall not prevent the disclosure to a duly authorized servant or agent of the government with which the arrangements have been made of such information as is required to be disclosed under the arrangements.”. New section 132c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 132b the following section: “International obligations 132c. (1) Notwithstanding section 132, 132a or 132b, if the Minister by statutory order declares that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "arrangements specified in the order have been made by the Government to give effect to Malaysia’s international obligations in relation to tax under this Act or other taxes of every kind under any written law; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "it is expedient that those arrangements should have effect, then, so long as the order remains in force, notwithstanding anything in any written law, those arrangements shall have effect in relation to tax under this Act or other taxes of every kind under written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any arrangements have effect by virtue of this section, section 138 shall not prevent the disclosure to a duly authorized servant or agent of the government with which the arrangements have been made of such information as is required to be disclosed under the arrangements."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any order made under this section shall be laid before the Dewan Rakyat.”. Amendment of section 154"
+      }
+    }
+  ]
+}

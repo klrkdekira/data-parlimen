@@ -1,0 +1,223 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-21-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pencen Pihak- Pihak Berkuasa Berkanun dan Tempatan (Pindaan) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pencen Pihak- Pihak Berkuasa Berkanun dan Tempatan (Pindaan) 1994 dan hendaklah disifatkan telah mula berkuatkuasa pada 1hb Januari 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pencen Pihak-Pihak Berkuasa Berkanun dan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tempatan 1980, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"gaji yang akhir diterima\" takrif yang berikut: ' \"Kumpulan Wang Simpanan Pekerja\" ertinya kumpulan wang simpanan yang ditubuhkan di bawah Akta 452 Akta Kumpulan Wang Simpanan Pekerja 1991, termasuk sesuatu kumpulan wang diluluskan sebagaimana yang ditakrifkan dalam Akta itu;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"Skim Baru\", dengan memasukkan selepas perkataan \"kemudiannya yang dibuat\" perkataan \"atau diluluskan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung takrif \"Skim Baru\" dengan koma bernoktah dan memasukkan selepas takrif itu takrif yang berikut: ' \"Skim Kumpulan Wang Simpanan Pekerja\" ertinya suatu skim yang di bawahnya seseorang pekerja terhenti menjadi layak diberi taraf pekerja berpencen atau terhenti menjadi pekerja berpencen dan sebagai ganti dikehendaki mencarum, bersama-sama dengan majikannya, kepada Kumpulan Wang Simpanan Pekerja.'. Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 6A Akta ibu adalah dipinda dengan seksyen 6A. memotong subseksyen (7). Seksyen baru"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas 6A, 6C dan 6D. seksyen 6A seksyen yang berikut: Pekerja 6B. (1) Seseorang pekerja— berpencen boleh"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang telah diberi taraf pekerja memilih berpencen di bawah seksyen 6 atau Skim Kumpulan disifatkan menjadi pekerja berpencen di Wang Simpanan bawah perenggan ( a ), (b) atau (c) Pekerja. seksyen 7; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang telah dilantik sebelum 12hb April 1991 dan belum diberi taraf pekerja berpencen, boleh memilih Skim Kumpulan Wang Simpanan Pekerja. DAN TEMPATAN (PINDAAN)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Opsyen di bawah subseksyen ( 1) hendaklah dibuat kepada pihak berkuasa melantik yang berkenaan mengikut sesuatu cara yang diluluskan oleh pihak berkuasa pencen."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelaksanaan opsyen oleh seseorang pekerja di bawah seksyen ini hendaklah mula berkuatkuasa apabila opsyen itu disetuju terima oleh pihak berkuasa melantik yang berkenaan dan hendaklah pada ketika itu menjadi muktamad."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pekerja berpencen hendaklah terhenti menjadi pekerja berpencen apabila opsyennya mula berkuatkuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (6), peruntukan-peruntukan Akta ini, khususnya subseksyen (1) seksyen 8, hendaklah terhenti terpakai bagi seseorang pekerja berpencen apabila opsyennya mula berkuatkuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (5) dan (6) seksyen 6A dan seksyen 6C dan 6D hendaklah terpakai bagi seseorang pekerja yang memilih Skim Kumpulan Wang Simpanan Pekerja di bawah seksyen ini. Caruman ke- 6C. Seseorang majikan hendaklah membuat belakangan caruman, berkenaan dengan setiap pekerja kepada Kumpulan berpencen yang opsyennya telah mu!a Wang berkuatkuasa, kepada Kumpulan Wang Simpanan Simpanan Pekerja pada kadar tujuh belas Pekerja. peratus setengah daripada gaji bulanan pekerja itu bagi setiap bulan dalam tempoh yang bermula pada tarikh pekerja itu menjadi pekerja berpencen di bawah seksyen 6 atau seksyen 7 dan berakhir pada tarikh dia terhenti menjadi pekerja berpencen di bawah seksyen 6B. Majikan 6D. Bagi maksud Akta ini, adalah sah bagi boleh me- seseorang majikan menawarkan kepada nawarkan Skim pekerjanya opsyen untuk memilih Skim Kumpulan Kumpulan Wang Simpanan Pekerja di bawah Wang seksyen 6B.\". Simpanan Pekerja. Pengesahan,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_5__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "( 1) Tiap-tiap tawaran oleh seseorang majikan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepada seseorang pekerja untuk memilih Skim Kumpulan Wang Simpanan Pekerja dan tiap-tiap opsyen yang dibuat oleh seseorang pekerja yang memilih Skim itu yang menjadi sah jika peruntukan-peruntukan Akta ini telah berkuatkuasa pada masa tawaran atau opsyen itu dibuat adalah dengan ini disahkan dan diisytiharkan teiah dibuat dengan sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/21/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap pekerja yang telah memilih Skim Kumpulan Wang Simpanan Pekerja sebelum Akta ini mula berkuatkuasa dan yang opsyennya diisytiharkan di bawah subseksyen (1) telah dibuat dengan sah hendaklah disifatkan telah terhenti menjadi layak diberi taraf pekerja berpencen atau terhenti menjadi pekerja berpencen pada tarikh opsyen sedemikian mula berkuatkuasa."
+      }
+    }
+  ]
+}

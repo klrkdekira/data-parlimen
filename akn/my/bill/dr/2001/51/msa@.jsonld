@@ -1,0 +1,189 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-51-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Seri Pahlawan Gagah Perkasa (Elaun Kewangan (Pindaan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Seri Pahlawan Gagah Perkasa (Elaun Kenangan) (Pindaan) 2001. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Seri Pahlawan Gagah Perkasa (Elaun Kenangan) 1990 [Akta 439], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam subseksyen 3(1) dengan menggantikan perkataan \"dua ratus\" di mana-mana jua terdapat dengan perkataan \"empat ratus\". Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda dengan memasukkan selepas subseksyen (1), subseksyen yang berikut: \"(1A) Bagi maksud subseksyen (1), bulan yang hukuman itu dikenakan ertinya bulan yang hukuman itu dijatuhkan oleh mahkamah yang membicarakan atau jika ada rayuan terhadap hukuman itu bulan yang hukuman itu disahkan atas rayuan itu.\". Penghitungan dan cara pembayaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mengelakkan keraguan, apa-apa bayaran yang dibuat di bawah seksyen 3 Akta ibu sebelum permulaan kuat kuasa Akta ini hendaklah dikira sebagai sebahagian daripada bayaran yang kena dibayar di bawah seksyen 3 Akta ibu sebagaimana yang dipinda dalam Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbezaan antara amaun yang kena dibayar di bawah seksyen 3 Akta ibu sebagaimana yang dipinda dalam Akta ini dengan amaun yang kena dibayar di bawah seksyen 3 Akta ibu sebelum permulaan kuat kuasa Akta ini, hendaklah, apabila Akta ini mula berkuat kuasa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menjadi amaun yang kena dibayar kepada seseorang penerima; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dibayar mengikut apa-apa cara sebagaimana yang ditentukan oleh Perdana Menteri. Pemberian kepada waris kadim penerima yang mati sebelum permulaan kuat kuasa Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang penerima telah mati sebelum permulaan kuat kuasa Akta ini, elaun kenangan yang kena dibayar kepadanya di bawah subseksyen 4(2) Akta ini, jika ada, yang terhenti pada bulan kematian penerima itu berlaku, hendaklah dibayar—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepada isteri atau isteri-isteri atau suami dan anak-anak penerima yang mati itu yang masih hidup pada tarikh permulaan kuat kuasa Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pada tarikh permulaan kuat kuasa Akta ini tiada isteri, suami atau anak penerima yang mati itu yang masih hidup, kepada ibu bapa atau ibu atau bapa penerima yang mati itu yang masih hidup pada tarikh itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pada tarikh permulaan kuat kuasa Akta ini tiada isteri, suami, anak, ibu atau bapa penerima yang mati itu yang masih hidup, kepada datuk nenek atau datuk atau nenek penerima yang mati itu yang masih hidup pada tarikh itu. (Elaun Kenangan) (Pindaan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/51/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Amaun yang akan dibayar kepada isteri, isteri-isteri, suami, anak-anak, ibu bapa atau datuk nenek, mengikut mana-mana yang berkenaan, di bawah subseksyen (1) hendaklah mengikut apa-apa perkadaran yang ditentukan oleh Perdana Menteri."
+      }
+    }
+  ]
+}

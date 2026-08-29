@@ -1,0 +1,447 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-40-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pembatalan Pengecualian Daripada Bayaran Duti-Duti Setem 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pembatalan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengecualian Daripada Bayaran Duti-Duti Setem 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan dalam Akta-Akta dan Ordinan yang dinyatakan di dalam Jadual adalah dimansuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, dengan perintah yang disiarkan dalam Warta, menambah kepada Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pemansuhan peruntukan dalam Akta-Akta dan Ordinan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di bawah seksyen 2 (1) tidak akan menjejaskan apa-apa suratcara yang telah disempurnakan sebelum tarikh kuatkuasa Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1__para_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 2) PEMANSUHAN Nombor Peruntukan Tajuk ringkas dimansuhkan OrdinanlAkta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta474 Seksyen63 (B) Akta Kemajuan Tanah 1956"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 50 Ordinan Bank"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Ordinan 61/1958 Negara Malaysia 1958"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 22 Akta Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 380 (Kekompetenan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Badan Perundangan Negeri) 1962 Akta Majlis Amanah Seksyen 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 46 Seksyen 34 Pembangunan Bandar 1971"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 30 Akta Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta68 Kemajuan Pahang Tenggara 1972"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_12",
+      "@type": "akn:paragraph",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 69 Seksyen 30 Akta Lembaga Kemajuan Pertanian Kemubu 1972"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_13",
+      "@type": "akn:paragraph",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 70 Seksyen 30 Akta Lembaga Kemajuan Pertanian Muda 1972"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "BAYARAN DUTI-DUTI SETEM Nombor Tajuk ringkas Peruntukan OrdinanlAkta dimansuhkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_14",
+      "@type": "akn:paragraph",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta75 Akta Lembaga Seksyen 30 Kemajuan Johor Tenggara 1972"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_15",
+      "@type": "akn:paragraph",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 104 Akla Lembaga Seksyen 30 Kemajuan Trengganu Tengah 1973"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_16",
+      "@type": "akn:paragraph",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Aktall0 AktaLembaga Seksyen 32 Pertubuhan Peladang 1973"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_17",
+      "@type": "akn:paragraph",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta203 Akta Lembaga Seksyen 30 Kemajuan Kelaman Selatan 1978"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_18",
+      "@type": "akn:paragraph",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 218 Akta Penyelidikan Seksyen 13 dan Kemajuan Minyak Kelapa Sawit 1979"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_19",
+      "@type": "akn:paragraph",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 222 Akta Perbadanan Seksyen 33 Kemajuan Kraftangan Malaysia 1979"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_20",
+      "@type": "akn:paragraph",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 249 Akta Lembaga Seksyen 30 Kemajuan Wilayah Kedah 1981"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_21",
+      "@type": "akn:paragraph",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 278 Akta Lembaga Seksyen 53 LetrikSabah 1983"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_22",
+      "@type": "akn:paragraph",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 279 Akta Perbadanan Seksyen 31 Pembekalan Letrik Sarawak 1983"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_23",
+      "@type": "akn:paragraph",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 282 Akta Lembaga Seksyen31 Kemajuan Wilayah PulauPinang 1983"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_24",
+      "@type": "akn:paragraph",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 285 Akta Lembaga Seksyen31 Kemajuan Wilayah Jengka 1983"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_25",
+      "@type": "akn:paragraph",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta 319 Akta Lembaga Seksyen 18 Penyelidikan dan Pembangunan Perhutanan Malaysia 1985"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_26",
+      "@type": "akn:paragraph",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 343 Akta Lembaga Seksyen 21 Koko Malaysia (Pemerbadanan) 1988"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_27",
+      "@type": "akn:paragraph",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akla 423 Akta Lembaga Seksyen 29 Pembangunan Langkawi 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta20/1966 Ra'ayat 1966"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17 (1)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta 398 Akta Lembaga Pemulihan dan setakat ia Penyatuan Tanah berhubungan dengan Negara (Pemerbadanan) duti setem 1966 Seksyen 22 Akta Bernama 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 449"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 104 Akta Keselamatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta4 Sosial Pekerja 1969"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta 11 Seksyen 21 Akta Institut Penyelidikan dan Kemajuan Pertanian Malaysia 1969 Seksyen 29 (b) Akta Persatuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/40/msa@/~sched_2",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta 44 Nelayan 1971"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan"
+      }
+    }
+  ]
+}

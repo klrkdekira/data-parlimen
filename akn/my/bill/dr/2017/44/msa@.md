@@ -1,0 +1,203 @@
+<!-- page 1 -->
+
+### D.R. 44/2017
+
+## RANG UNDANG-UNDANG
+
+bernama
+
+Suatu Akta untuk meminda Akta Industri Pelancongan 1992. [ ]
+
+DIPERBUAT oleh Parlimen Malaysia seperti yang berikut:
+
+### Tajuk ringkas dan permulaan kuat kuasa
+
+1. (1) Akta ini bolehlah dinamakan Akta Industri Pelancongan (Pindaan) 2017.
+
+(2) Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta.
+
+### Pindaan seksyen 2
+
+2. Akta Industri Pelancongan 1992 [Akta 482], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2, dalam takrif “premis penginapan”, dengan menggantikan perkataan “dan rumah pemalaman,” dengan perkataan “, rumah pemalaman, dan struktur lain sama ada kekal atau sementara,”.
+
+<!-- page 2 -->
+
+### Pindaan seksyen 5
+
+3. Subseksyen 5(3) Akta ibu dipinda—
+
+(a) dengan menggantikan perkataan “lima puluh ribu” dengan perkataan “lima ratus ribu”; dan
+
+(b) dengan menggantikan perkataan “lima tahun” dengan perkataan “sepuluh tahun”.
+
+### Pindaan seksyen 8
+
+4. Seksyen 8 Akta ibu dipinda—
+
+(a) dalam nota bahu, dengan menggantikan perkataan
+
+### “Pembatalan” dengan perkataan “Penggantungan atau
+
+### pembatalan”;
+
+(b) dalam subseksyen (1), dengan memasukkan selepas perkataan “Pesuruhjaya boleh” perkataan “menggantung atau”;
+
+(c) dalam subseksyen (2)—
+
+(i) dengan memasukkan selepas perkataan “Sebelum” perkataan “menggantung atau”; dan
+
+(ii) dengan memasukkan selepas perkataan “patut” perkataan “digantung atau”;
+
+(d) dalam subseksyen (3), dengan memasukkan selepas perkataan “untuk” perkataan “menggantung atau”;
+
+(e) dalam subseksyen (4)—
+
+(i) dengan menggantikan perkataan “Pembatalan” dengan perkataan “Penggantungan atau pembatalan”;
+
+(ii) dalam perenggan (a)—
+
+(A) dengan memasukkan selepas perkataan “terhadap” perkataan “penggantungan atau”; dan
+
+(B) dengan memasukkan selepas perkataan “notis” perkataan “penggantungan atau notis”;
+
+<!-- page 3 -->
+
+(iii) dalam perenggan (b)—
+
+(A) dengan memasukkan selepas perkataan “terhadap” perkataan “penggantungan atau”; dan
+
+(B) dengan memasukkan selepas perkataan “apabila” perkataan “penggantungan atau”;
+
+(f) dalam subseksyen (5)—
+
+(i) dengan memasukkan selepas perkataan “terhadap” perkataan “penggantungan atau”;
+
+(ii) dengan memasukkan selepas perkataan “lesennya” perkataan “digantung atau”; dan
+
+(iii) dengan memasukkan selepas perkataan “dan” perkataan “penggantungan atau”;
+
+(g) dalam subseksyen (7)—
+
+(i) dengan memasukkan selepas perkataan “Jika” perkataan “penggantungan atau”;
+
+(ii) dengan memasukkan selepas perkataan “menyebabkan” perkataan “penggantungan atau”; dan
+
+(iii) dengan memasukkan selepas perkataan “Inggeris” perkataan “atau media elektronik, sebagaimana yang difikirkan patut oleh Pesuruhjaya,”; dan
+
+(h) dalam subseksyen (8)—
+
+(i) dengan memasukkan selepas perkataan “notis” perkataan “penggantungan atau notis”; dan
+
+(ii) dengan memasukkan selepas perkataan “keesahan” perkataan “penggantungan atau”.
+
+### Pindaan seksyen 9
+
+5. Subseksyen 9(1) Akta ibu dipinda—
+
+(a) dalam perenggan (b), dengan menggantikan perkataan “pembatalan” dengan perkataan “penggantungan atau pembatalan”; dan
+
+(b) dengan memasukkan selepas perkataan “notis keengganan” perkataan “, penggantungan”.
+
+<!-- page 4 -->
+
+### Pindaan seksyen 10
+
+6. Seksyen 10 Akta ibu dipinda dengan memotong subseksyen (3).
+
+### Pindaan seksyen 11
+
+7. Seksyen 11 Akta ibu dipinda—
+
+(a) dalam nota bahu, dengan memasukkan selepas perkataan
+
+### “Kesan” perkataan “penggantungan,”;
+
+(b) dengan memasukkan selepas subseksyen (1) subseksyen yang berikut:
+
+“(1a) Jika penggantungan sesuatu lesen di bawah seksyen 8 telah mula berkuat kuasa, maka pengusahaan pelancongan berlesen itu tidak boleh mengurusniagakan apa-apa perniagaan baharu dalam tempoh penggantungan itu.”; dan
+
+(c) dalam subseksyen (2)—
+
+(i) dengan memasukkan selepas perkataan “subseksyen (1)” perkataan “atau (1a)”;
+
+(ii) dengan menggantikan perkataan “lima puluh ribu” dengan perkataan “lima ratus ribu”; dan
+
+(iii) dengan menggantikan perkataan “lima tahun” dengan perkataan “sepuluh tahun”.
+
+### Pindaan seksyen 15
+
+8. Subseksyen 15(3) Akta ibu dipinda dengan menggantikan perkataan “dua puluh ribu” dengan perkataan “lima puluh ribu”.
+
+### Pindaan seksyen 32
+
+9. Seksyen 32 Akta ibu dipinda—
+
+(a) dengan memotong subseksyen (3); dan
+
+<!-- page 5 -->
+
+(b) dengan memasukkan selepas subseksyen (4) subseksyen yang berikut:
+
+“(5) Mana-mana orang yang melanggar subseksyen (1) adalah melakukan suatu kesalahan di bawah Akta ini.”.
+
+### Pindaan seksyen 34
+
+10. Seksyen 34 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut:
+
+“(3) Apa-apa peraturan-peraturan yang dibuat di bawah seksyen ini boleh menetapkan apa-apa perbuatan yang melanggar peraturan-peraturan sebagai suatu kesalahan dan boleh menetapkan penalti denda tidak melebihi satu ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya bagi kesalahan itu.”.
+
+### Pindaan seksyen 37
+
+11. Seksyen 37 Akta ibu dipinda dengan menggantikan perkataan “lima ribu” dengan perkataan “lima puluh ribu”.
+
+### Pindaan seksyen 39
+
+12. Subseksyen 39(1) Akta ibu dipinda dengan memasukkan selepas perkataan “Pesuruhjaya boleh” perkataan “, dengan keizinan bertulis Pendakwa Raya,”.
+
+### Penggantian seksyen 49
+
+13. Akta ibu dipinda dengan menggantikan seksyen 49 dengan seksyen yang berikut:
+
+### “Pendakwaan
+
+49. Tiada pendakwaan berkenaan dengan suatu kesalahan di bawah Akta ini boleh dimulakan kecuali oleh, atau dengan keizinan bertulis, Pendakwa Raya.”.
+
+<!-- page 6 -->
+
+## HURAIAN
+
+Rang Undang-Undang ini bertujuan untuk meminda Akta Industri Pelancongan 1992 (“Akta 482”).
+
+2. Fasal 1 mengandungi tajuk ringkas dan peruntukan tentang permulaan kuat kuasa Akta yang dicadangkan.
+
+3. Fasal 2 bertujuan untuk meminda takrif “premis penginapan” untuk meluaskan takrif itu bagi merangkumi apa-apa struktur kekal dan sementara.
+
+4. Fasal 3 bertujuan untuk meminda subseksyen 5(3) Akta 482 dengan menaikkan kadar penalti daripada denda sedia ada yang tidak melebihi lima puluh ribu ringgit atau pemenjaraan bagi suatu tempoh tidak melebihi lima tahun kepada suatu denda yang tidak melebihi lima ratus ribu ringgit atau pemenjaraan bagi suatu tempoh tidak melebihi sepuluh tahun.
+
+5. Fasal 4 bertujuan untuk meminda seksyen 8 Akta 482 untuk memperuntukkan tatacara penggantungan mana-mana lesen yang diberikan di bawah Akta 482. Di bawah pindaan yang dicadangkan, Pesuruhjaya mempunyai budi bicara sama ada untuk menggantung atau membatalkan mana-mana lesen yang diberikan kepada pengusahaan pelancongan berlesen di bawah Akta 482. Pindaan yang dicadangkan selanjutnya bertujuan untuk memudahkan kaedah mengiklankan suatu penggantungan atau pembatalan mana-mana lesen yang diberikan di bawah Akta 482. Dengan pindaan yang dicadangkan ini, Pesuruhjaya mempunyai pilihan untuk mengiklankan penggantungan atau pembatalan lesen sama ada dalam sekurang-kurangnya satu akhbar harian kebangsaan dalam Bahasa Malaysia dan Inggeris atau mana-mana media elektronik yang difikirkan patut oleh Pesuruhjaya.
+
+6. Fasal 5 bertujuan untuk meminda subseksyen 9(1) Akta 482 bagi membolehkan mana-mana pengusahaan pelancongan berlesen untuk merayu kepada Menteri terhadap penggantungan lesen mereka oleh Pesuruhjaya.
+
+7. Fasal 6 bertujuan untuk meminda seksyen 10 Akta 482 dengan memotong subseksyen 10(3) untuk mengetepikan kewajipan pengusahaan pelancongan berlesen mengiklankan penyerahan balik lesennya.
+
+8. Fasal 7 bertujuan untuk meminda seksyen 11 Akta 482 dengan memasukkan kesan suatu penggantungan lesen di bawah seksyen 8 Akta 482. Di bawah pindaan yang dicadangkan, pengusahaan pelancongan berlesen yang lesennya telah digantung tidak dibenarkan untuk berurus niaga apa-apa perniagaan baharu semasa tempoh penggantungan itu. Pindaan ini juga bertujuan untuk menaikkan penalti daripada denda sedia ada yang tidak melebihi lima puluh ribu ringgit atau pemenjaraan bagi suatu tempoh tidak melebihi lima tahun kepada denda yang tidak melebihi lima ratus ribu ringgit atau pemenjaraan bagi suatu tempoh tidak melebihi sepuluh tahun.
+
+9. Fasal 8 bertujuan untuk meminda subseksyen 15(3) dengan menaikkan kadar penalti daripada denda sedia ada yang tidak melebihi dua puluh ribu ringgit kepada denda yang tidak melebihi lima puluh ribu ringgit.
+
+<!-- page 7 -->
+
+10. Fasal 9 bertujuan untuk meminda seksyen 32 Akta 482 dengan memotong subseksyen 32(3) untuk mengetepikan kewajipan pengusahaan pelancongan berlesen mengiklankan niatnya untuk tidak memperbaharui lesen. Pindaan yang dicadangkan selanjutnya bertujuan untuk menjadikan mana-mana pelanggaran subseksyen 32(1) sebagai suatu kesalahan.
+
+11. Fasal 10 bertujuan untuk memasukkan subseksyen baharu 34(3) ke dalam Akta 482 untuk memberi Menteri kuasa untuk menetapkan penalti bagi pelanggaran atau kegagalan untuk mematuhi mana-mana peruntukan mana-mana peraturan-peraturan yang dibuat di bawah Akta 482. Penalti yang boleh ditetapkan ialah denda tidak melebihi satu ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya.
+
+12. Fasal 11 bertujuan untuk meminda seksyen 37 Akta 482 dengan menaikkan kadar penalti daripada denda sedia ada yang tidak melebihi lima ribu ringgit kepada denda yang tidak melebihi lima puluh ribu ringgit.
+
+13. Fasal 12 bertujuan untuk meminda subseksyen 39(1) Akta 482 dengan memperuntukkan bahawa keizinan bertulis Pendakwa Raya hendaklah diperoleh terlebih dahulu sebelum apa-apa kesalahan boleh dikompaun oleh Pesuruhjaya.
+
+14. Fasal 13 bertujuan untuk meminda seksyen 49 Akta 482 untuk memperuntukkan bahawa tiada pendakwaan berkenaan dengan apa-apa kesalahan di bawah Akta ini boleh dimulakan melainkan oleh, atau dengan keizinan bertulis, Pendakwa Raya.
+
+## IMPLIKASI KEWANGAN
+
+Rang Undang-Undang ini tidak akan melibatkan Kerajaan dalam apa-apa perbelanjaan tambahan.
+
+<!-- marginal: [PN(U2)3068] -->

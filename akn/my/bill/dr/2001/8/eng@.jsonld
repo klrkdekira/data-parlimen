@@ -1,0 +1,90 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-8-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "RUU Perbekalan Tambahan (2000 dan 2001) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (2000 and 2001) Act 2001. Further expenditure for the year 2000"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding five billion four hundred and sixty million seven hundred and twelve thousand eight hundred and twenty-one ringgit (RM5,460,712,821) from the Consolidated Fund for expenditure on the services and purposes specified in the First Schedule for the year 2000, not provided for or not fully provided for by the Supply Act 2000 [Act A1071], the Supplementary Supply (2000) Act 2000 [Act A 1083] and the Supplementary Supply (2000) (No. 2) Act 2000 [ActA1091]. Further expenditure for the year 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding three hundred million ringgit (RM300,000,000) from the Consolidated Fund for expenditure on the service and purpose specified in the Second Schedule for the year 2001, not provided for or not fully provided for by the Supply Act 2001 [Act A1092]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) Purpose Title Amount (RM) B. 7 Prime Minister's Department 15,000.000 B. 15 Town and Country Planning Department 180,700 B. 16 Fire and Rescue Department 2,961,400 B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture 1,077,845 B. 20 Ministry of International Trade and Industry 2,000,000 B. 23 Department of National Archives 357,000 B. 24 Museum and Antiquities Department 180,000 B. 26 Ministry of Education 462.803,500 B. 28 Treasury 4,328,420 B. 29 Treasury General Services 356,000,000 B. 30 Contribution to Statutory Funds 4,343,756,956 B. 31 Royal Customs and Excise Department 147,600 B. 35 Ministry of Home Affairs 13,355,700 B. 36 Royal Malaysia Police 236,283,300 B. 42 Ministry of National Unity and Social 500,000 Development B. 46 Ministry of Science, Technology and the 20,000,000 Environment B. 51 Ministry of Foreign Affairs 1,749,600 TOTAL 5,460,712,821"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/8/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 3) Purpose Title Amount (RM) B. 18 Ministry of Primary Industries 300,000,000 TOTAL 300,000,000"
+      }
+    }
+  ]
+}

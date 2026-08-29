@@ -1,0 +1,97 @@
+{
+  "node_types": [
+    {
+      "akn_attributes": {},
+      "akn_element": "chapter",
+      "eid_prefix": "chp_",
+      "labels": {
+        "en": "Chapter",
+        "ms": "Bab"
+      },
+      "type": "chapter"
+    },
+    {
+      "akn_attributes": {},
+      "akn_element": "clause",
+      "eid_prefix": "cl_",
+      "labels": {
+        "en": "Clause",
+        "ms": "Fasal"
+      },
+      "type": "clause"
+    },
+    {
+      "akn_attributes": {},
+      "akn_element": "paragraph",
+      "eid_prefix": "para_",
+      "labels": {
+        "en": "Paragraph",
+        "ms": "Perenggan"
+      },
+      "type": "paragraph"
+    },
+    {
+      "akn_attributes": {},
+      "akn_element": "part",
+      "eid_prefix": "part_",
+      "labels": {
+        "en": "Part",
+        "ms": "Bahagian"
+      },
+      "type": "part"
+    },
+    {
+      "akn_attributes": {},
+      "akn_element": "preamble",
+      "eid_prefix": null,
+      "labels": {
+        "en": "Preamble",
+        "ms": "Mukadimah"
+      },
+      "type": "preamble"
+    },
+    {
+      "akn_attributes": {
+        "name": "schedule"
+      },
+      "akn_element": "hcontainer",
+      "eid_prefix": "sched_",
+      "labels": {
+        "en": "Schedule",
+        "ms": "Jadual"
+      },
+      "type": "schedule"
+    },
+    {
+      "akn_attributes": {},
+      "akn_element": "section",
+      "eid_prefix": "sec_",
+      "labels": {
+        "en": "Section",
+        "ms": "Seksyen"
+      },
+      "type": "section"
+    },
+    {
+      "akn_attributes": {},
+      "akn_element": "subparagraph",
+      "eid_prefix": "subpara_",
+      "labels": {
+        "en": "Subparagraph",
+        "ms": "Subperenggan"
+      },
+      "type": "subparagraph"
+    },
+    {
+      "akn_attributes": {},
+      "akn_element": "subsection",
+      "eid_prefix": "subsec_",
+      "labels": {
+        "en": "Subsection",
+        "ms": "Subseksyen"
+      },
+      "type": "subsection"
+    }
+  ],
+  "title": "Malaysian legislative structural vocabulary (HANDOFF 26.2)"
+}

@@ -1,0 +1,182 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-3-2021",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Langkah-Langkah Sementara bagi Pembiayaan Kerajaan (Penyakit Koronavirus 2019 (COVID-19)) (Pinda"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Langkah-Langkah Sementara bagi Pembiayaan Kerajaan (Penyakit Koronavirus 2019 (COVID-19)) (Pindaan) 2021. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Langkah-Langkah Sementara bagi Pembiayaan Kerajaan (Penyakit Koronavirus 2019 (COVID-19)) 2020 [Akta 830], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 3(1) dengan menggantikan perkataan “enam puluh peratus” dengan perkataan “enam puluh lima peratus”. Pindaan Jadual"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam butiran 1, dalam ruang (2), dengan menggantikan perkataan “18,300,000,000” dengan perkataan “31,000,000,000”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam butiran 2, dalam ruang (2), dengan menggantikan perkataan “25,200,000,000” dengan perkataan “41,000,000,000”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam butiran 3, dalam ruang (2), dengan menggantikan perkataan “4,000,000,000” dengan perkataan “6,000,000,000”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam butiran 6, dalam ruang (2), dengan menggantikan perkataan “2,400,000,000” dengan perkataan “6,000,000,000”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam butiran 7—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam ruang (1), dengan memotong perkataan “di bawah Bank Simpanan Nasional dan TEKUN Nasional”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam ruang (2), dengan menggantikan perkataan “1,000,000,000” dengan perkataan “2,000,000,000”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam butiran 8, dalam ruang (2), dengan menggantikan perkataan “5,000,000,000” dengan perkataan “9,000,000,000”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam butiran 19, dalam ruang (2), dengan menggantikan perkataan “110,000,000” dengan perkataan “6,010,000,000”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “JUMLAH 65,000,000,000” dengan perkataan “JUMLAH 110,000,000,000”. (Penyakit Koronavirus 2019 (COVID-19)) (Pindaan)"
+      }
+    }
+  ]
+}

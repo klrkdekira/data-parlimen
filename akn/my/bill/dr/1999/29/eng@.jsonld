@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-29-1999",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (No. 2) Bill 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be citcd as the Supplementary Supply (1999) (No. 2} Act 1999. Further expenditure for the year 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding six hundred million eight hundred and twelve thousand and five hundred ringgit (RM600,812,500) from the Consolidated Fund for expenditure on the services and purposes specified in the Schedule for the year 1999, not provided for or not fully provided for by the Supply Act 1999 [ActA1044]. the Supplementary Supply (1998 and 1999) Act 1999 [ActA1047\\ and the Supplementary Supply (1999) Act 1999 [Act AI063]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpost' Title B. 4 Election Commission B. 8 Public Services Department B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture Bill Purpose Title B. 20 Ministry of International Trade and Industry B. 22 Ministry of Culture, Arts and Tourism 150,000,000 B. 29 Treasury General Services 151,000,000 B. 31 Royal Customs and Excise Department B. 51 Ministry of Foreign Affairs B. 52 Ministry of Works TOTAL 600,812,500"
+      }
+    }
+  ]
+}

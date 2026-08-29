@@ -1,0 +1,471 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Lembaga Pelesenan Kenderaan Perdagangan (Pindaan) 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa lesen atau pengecualian yang dikeluarkan atau diberikan di bawah Akta berkenaan dengan pelesenan kenderaan perdagangan sebelum tarikh yang ditetapkan dan tamat tempoh pada bila-bila masa selepas tarikh yang ditetapkan hendaklah, pada tarikh yang ditetapkan disifatkan sebagai dikeluarkan atau diberikan di bawah Akta Pengangkutan Awam Darat 2010 sehingga tamat tempoh lesen atau pengecualian itu jika lesen atau pengecualian itu didaftarkan dengan Suruhanjaya dalam masa enam bulan dari tarikh yang ditetapkan atau dalam apa-apa tempoh lain sebagaimana yang boleh dilanjutkan oleh Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa pun dalam seksyen ini boleh ditafsirkan sebagai melanjutkan tempoh atau jangka masa lesen atau pengecualian yang disebut dalam subseksyen (1) melebihi tarikh tamatnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun tempoh kesahan lesen atau pengecualian yang disebut dalam subseksyen (1), jika ia tidak didaftarkan dengan Suruhanjaya dalam tempoh bagi pendaftaran di bawah subseksyen (1), lesen atau pengecualian itu hendaklah luput pada tarikh tamat tempoh bagi pendaftaran itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu lesen atau pengecualian yang disebut di bawah subseksyen (1) adalah tertakluk kepada terma dan syarat yang ditentukan oleh Suruhanjaya, dan peruntukan Akta Pengangkutan Awam Darat 2010 yang berhubungan dengan pembatalan, penggantungan dan pembaharuan lesen dan pengecualian itu hendaklah terpakai bagi semua lesen yang dikeluarkan dan pengecualian yang diberikan di bawah Akta Pengangkutan Awam Darat 2010 menurut subseksyen (1). Status permohonan yang belum selesai di bawah Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua permohonan bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluaran atau pembaharuan lesen berkenaan dengan kenderaan perdagangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengubahan syarat lesen yang dikeluarkan atau diperbaharui sebagaimana yang diperihalkan di bawah perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengecualian di bawah Akta atau mana-mana perundangan subsidiari yang dibuat di bawahnya berkenaan dengan pelesenan kenderaan perdagangan, yang dibuat oleh mana-mana orang di bawah Akta sebelum tarikh yang ditetapkan dan belum selesai sebaik sebelum tarikh yang ditetapkan hendaklah, berkuat kuasa dari tarikh yang ditetapkan, diuruskan di bawah Akta Pengangkutan Awam Darat 2010 oleh Suruhanjaya seolah-olah permohonan itu telah dibuat kepadanya di bawah peruntukan Akta Pengangkutan Awam Darat 2010. Status rayuan yang belum selesai di bawah Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa rayuan berkenaan dengan suatu keputusan yang dibuat di bawah Akta masih belum selesai sebaik sebelum tarikh yang ditetapkan di hadapan Menteri yang dipertanggungkan dengan tanggungjawab bagi perkara yang berhubungan dengan pelesenan kenderaan perdagangan atau jika apa-apa hak untuk merayu berkenaan dengan keputusan itu telah terakru, prosiding berkenaan dengan rayuan atau berkenaan dengan apa-apa rayuan di bawah hak terakru untuk merayu, hendaklah diteruskan atau telah diteruskan, mengikut mana-mana yang berkenaan, berkuat kuasa dari tarikh yang ditetapkan di hadapan Tribunal Rayuan di bawah Akta Pengangkutan Awam Darat 2010 seolah-olah prosiding itu adalah berkenaan dengan keputusan di bawah Akta Pengangkutan Awam Darat 2010, tertakluk kepada semua arahan atau syarat yang difikirkan patut atau suai manfaat untuk diberikan atau dikenakan dalam perkara itu oleh Tribunal Rayuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Pelesenan Kenderaan Perdagangan (Pindaan) 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, “tarikh yang ditetapkan” ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen 1(2). Pindaan seksyen 1a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 [Akta 334], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan menggantikan seksyen 1a dengan seksyen yang berikut: “ Pemakaian 1 a. (1) Akta ini hendaklah terpakai hanya bagi Sabah, Sarawak dan Wilayah Persekutuan Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini tidak terpakai bagi mana-mana kenderaan perdagangan yang tertakluk kepada mana-mana undang-undang berhubungan dengan pelancongan atau industri pelancongan di Sabah, Sarawak dan Wilayah Persekutuan Labuan.”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Lembaga”, dengan memotong perkataan “Lembaga Pelesenan Kenderaan Perdagangan Semenanjung Malaysia,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Menteri”, dengan memasukkan selepas perkataan “kenderaan perdagangan” perkataan “di Sabah, Sarawak dan Wilayah Persekutuan Labuan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Setiausaha Lembaga”, dengan memotong perkataan “4,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Timbalan Pengerusi”, dengan memotong perkataan “4,”. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 3(1) Akta ibu dipinda dengan memotong perkataan “Malaysia Barat,” dan perkataan ‘ “Lembaga Pelesenan Kenderaan Perdagangan Semenanjung Malaysia”,’. Pemotongan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 4. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda dalam subseksyen (3) teks bahasa Inggeris dengan memotong perkataan “paragraph 4(e),”. Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda dengan menggantikan perkataan “tiga puluh hari berkenaan dengan Malaysia Barat dan sembilan puluh hari berkenaan dengan Sabah, Sarawak dan Wilayah Persekutuan Labuan,” dengan perkataan “sembilan puluh hari”. Pemansuhan, pembubaran, peralihan dan kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh yang ditetapkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada peruntukan Akta Pengangkutan Awam Darat 2010, tiada apa-apa yang terkandung dalam Akta atau Akta Pengangkutan Awam Darat 2010 boleh menjejaskan mana-mana orang yang bertanggungan untuk didakwa atau dihukum bagi kesalahan yang dilakukan di bawah Akta sebelum tarikh yang ditetapkan, atau apa-apa penyiasatan yang dibuat, prosiding yang diambil atau hukuman yang dikenakan sebelum hari itu berkenaan dengan kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu sebutan dalam mana-mana undang-undang bertulis yang berkuat kuasa sebaik sebelum tarikh yang ditetapkan mengenai Lembaga yang dibubarkan hendaklah, setakat pemakaiannya bagi Semenanjung Malaysia, ditafsirkan sebagai sebutan mengenai Suruhanjaya. Status lesen, dsb. yang ada di bawah Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pelesenan Kenderaan Perdagangan 1987, kemudian daripada ini disebut sebagai “Akta”, hendaklah terhenti pemakaiannya bagi Semenanjung Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga Pelesenan Kenderaan Perdagangan Semenanjung Malaysia, kemudian daripada ini disebut “Lembaga yang dibubarkan”, adalah dibubarkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun ketidakpakaian Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 bagi Semenanjung Malaysia, semua perundangan subsidiari yang dibuat atau yang disifatkan sebagai telah dibuat atau mempunyai kesan di bawah Akta dan berkuat kuasa atau mempunyai kesan pada tarikh yang ditetapkan hendaklah, setakat yang semua perundangan subsidiari itu tidak tak konsisten dengan Akta Pengangkutan Awam Darat 2010 [Akta ], terus berkuat kuasa dan mempunyai kesan di Semenanjung Malaysia seolah-olah perundangan subsidiari itu telah dibuat di bawah Akta Pengangkutan Awam Darat 2010 sehingga semua perundangan subsidiari itu dipinda, dibatalkan atau digantikan oleh mana-mana perundangan subsidiari yang dibuat di bawah Akta Pengangkutan Awam Darat 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan yang sebaik sebelum tarikh yang ditetapkan merupakan kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan yang dipunyai oleh Lembaga yang dibubarkan hendaklah turun kepada Suruhanjaya Pengangkutan Darat, kemudian daripada ini disebut sebagai “Suruhanjaya”, mulai tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua keputusan, arahan dan pemberitahuan yang dibuat atau diberi oleh Lembaga yang dibubarkan menurut Akta hendaklah disifatkan telah dibuat atau diberi oleh Suruhanjaya di bawah Akta Pengangkutan Awam Darat 2010 dan akan terus berkuat kuasa sehingga semua keputusan, arahan dan pemberitahuan itu dipinda, dibatalkan atau digantikan atau sehingga tarikh habis tempoh keputusan, arahan dan pemberitahuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun apa-apa yang berlawanan, anggota Lembaga yang dibubarkan dan anggota apa-apa jawatankuasa yang dilantik di bawah Akta dan memegang jawatan sebelum tarikh yang ditetapkan itu hendaklah terhenti daripada memegang jawatan itu pada tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang sebaik sebelum tarikh yang ditetapkan itu diambil kerja sebagai pegawai atau pekhidmat Lembaga yang dibubarkan, hendaklah pada tarikh yang ditetapkan itu diberi hak untuk memilih supaya diambil kerja oleh Suruhanjaya dengan terma dan syarat yang tidak kurang baiknya daripada apa yang dinikmatinya sebaik sebelum tarikh yang ditetapkan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sehinggalah terma dan syarat perkhidmatan termasuklah kelakuan dan tatatertib pekerja-pekerjanya dibuat oleh Suruhanjaya, skim dan terma dan syarat perkhidmatan termasuk kelakuan dan tatatertib pekerja Lembaga yang dibubarkan hendaklah terus terpakai secara mutatis mutandis bagi tiap-tiap orang yang telah memilih di bawah subseksyen (6) untuk diambil kerja oleh Suruhanjaya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala wang yang kena dibayar kepada Lembaga yang dibubarkan sebaik sebelum tarikh yang ditetapkan hendaklah kena dibayar kepada Suruhanjaya mulai tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding sama ada guaman atau jenayah atau kausa tindakan yang belum selesai atau yang ada sebaik sebelum tarikh yang ditetapkan, oleh atau terhadap Lembaga yang dibubarkan boleh diteruskan atau dimulakan oleh atau terhadap Suruhanjaya sebagaimana ia boleh diteruskan atau dimulakan oleh atau terhadap Lembaga yang dibubarkan seolah-olah Akta Pengangkutan Awam Darat 2010 tidak diluluskan."
+      }
+    }
+  ]
+}

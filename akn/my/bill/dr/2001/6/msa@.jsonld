@@ -1,0 +1,92 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-6-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Koperasi (Pindaan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Koperasi (Pindaan) 2001. Pindaan seksyen 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2__subsec_6B"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Koperasi 1993 [Akta 502] dipinda dalam seksyen 83—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6) dengan memotong semua perkataan yang terdapat selepas perkataan \"pihak-pihak\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: \"(6A) Jika suatu award telah dibuat oleh suatu tribunal, Setiausaha tribunal itu hendaklah atas permohonan pihak yang hendak menguatkuasakan award itu menghantar, dalam masa tiga puluh hari dari tarikh permohonan itu satu salinan yang diperakui award itu kepada Pendaftar Mahkamah Sesyen yang mempunyai bidang kuasa di tempat terletaknya pejabat berdaftar koperasi itu atau di tempat award itu dibuat dan Pendaftar itu hendaklah menyebabkan award itu direkodkan dan award itu hendaklah selepas itu bagi segala maksud boleh dikuatkuasakan sebagai penghakiman Mahkamah Sesyen itu, mengikut apa-apa kaedah mahkamah yang terpakai atau, sekiranya tidak ada kaedah sedemikian, mengikut apa-apa cara sebagaimana yang disifatkan adil atau suaimanfaat oleh Mahkamah Sesyen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2__subsec_6B",
+      "@type": "akn:subsection",
+      "eli:number": "6B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun tempoh yang dinyatakan dalam subperenggan ( 1 )( a) Aturan 31 kaedah 2 Kaedah-Kaedah Mahkamah Rendah 1980 [P.U. (A) 328/80], tempoh yang dinyatakan dalam subperenggan itu hendaklah, berhubung dengan award yang dibuat sebelum subseksyen (6A) mula berkuat kuasa, disifatkan bermula dari tarikh permulaan kuat kuasa subseksyen itu. (6c) Walau apa pun mana-mana undang-undang bertulis atau rukun undang-undang yang berlawanan, Mahkamah Sesyen hendaklah mempunyai kuasa untuk menguatkuasakan apa-apa award yang dibuat oleh tribunal.\"."
+      }
+    }
+  ]
+}

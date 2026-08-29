@@ -1,0 +1,161 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-19-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~part_VII"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Lembaga Pelabuhan Bintulu (Pindaan) 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Pelabuhan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bintulu (Pindaan) 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pelabuhan Bintulu 1981, yang disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda dalam seksyen 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen itu sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: \"(2) Walau apa pun subseksyen (1), seksyen 92 hendaklah disifatkan telah mula berkuatkuasa pada 16 Ogos 1981."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan atau perkara yang dilakukan atau apa-apa wang yang dipungut, dibelanjakan atau dilaburkan oleh Lembaga sebelum mula berkuatkuasanya Akta ini yang akan menjadi sah jika peruntukan-peruntukan Akta ini telah berkuatkuasa pada masa ia dilakukan adalah dengan ini disahkan dan diisytiharkan telah dilakukan atau dipungut, dibelanjakan atau dilaburkan olehnya secara sah.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 27A Akta ibu adalah dipinda— seksyen 27A."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dan (3) dengan menggantikan perkataan \"1989\" dengan perkataan \"1990\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(2A) Jika jawapan diterima daripada Lembaga mengenai memorandum yang dikemukakan di bawah subseksyen (1) menunjukkan keputusan Lembaga untuk tidak membenarkan perubahan kepada struktur caj yang sedia ada yang terdapat di dalam memorandum, mana- mana orang atau kumpulan orang yang terkilan dengan keputusan Lembaga boleh, dalam tempoh empat belas hari dari tarikh keputusan itu dibuat, merayu kepada Menteri dan keputusan Menteri itu adalah muktamad.\". Bahagian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas baru VIIA."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bahagian yang berikut:"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\" BAHAGIAN VIIA PERLUASAN FUNGSI-FUNGSI, DLL., LEMBAGA PELABUHAN KEPADA PELABUHAN-PELABUHAN LAIN Kuasa 66A. (1) Menteri boleh, melalui perintah yang Menteri disiarkan dalam Warta, memperluaskan fungsi- memperluas- kan fungsi fungsi, kuasa-kuasa, tugas-tugas dan bidang kuasa Lembaga Lembaga kepada pelabuhan-pelabuhan lain. kepada pelabuhan lain. (2) Suatu perintah yang dibuat di bawah subseksyen (1) boleh memperuntukkan bahawa Lembaga hendaklah, dalam menjalankan pentadbiran pelabuhan yang kepadanya kawalan Lembaga diperluaskan, memasukkan antara ahlinya mana-mana orang lain sebagaimana yang ditentukan dalam perintah itu sama ada melalui nama atau jawatan. (3) Jika suatu perintah dibuat di bawah subseksyen (1), Lembaga hendaklah bagi segala maksud disifatkan sebagai lembaga pelabuhan berkenaan dengan pelabuhan yang disebutkan dalam perintah itu seolah-olah ia adalah suatu lembaga pelabuhan yang ditubuhkan berkenaan dengan pelabuhan itu di bawah Akta ini dan hendaklah dalam menjalankan fungsi-fungsinya digelar dengan nama yang diperuntukkan dalam perintah itu. Lembaga 66B. Lembaga dalam menjalankan fungsi- dalam fungsinya berkenaan dengan pelabuhan yang menjalankan fungsinya kepadanya fungsi-fungsi itu diperluaskan yang hendaklah menjalankannya seolah-olah ia suatu diperluaskan hendaklah lembaga pelabuhan yang bebas yang ditubuhkan disifatkan sebagai berkenaan dengan pelabuhan itu. lembaga pelabuhan yang bebas. Kuasa 66c. Perintah Menteri di bawah seksyen 66A Menteri boleh mengandungi segala peruntukan yang membuat peruntukan dianggap oleh Menteri sebagai perlu untuk bagi membolehkan Lembaga menjalankan fungsi- Lembaga menjalankan fungsinya berhubungan dengan pelabuhan yang fungsinya. kepadanya fungsi-fungsi itu diperluaskan. Tafsiran. 66D. Bagi maksud-maksud Bahagian ini, \"pelabuhan\" ertinya pelabuhan Persekutuan atau tempat yang diisytiharkan sebagai pelabuhan Persekutuan oleh undang-undang Persekutuan.\"."
+      }
+    }
+  ]
+}

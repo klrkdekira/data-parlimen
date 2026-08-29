@@ -1,0 +1,245 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-24-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Criminal Procedure Code (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Criminal Procedure Code (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. New section 116d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Criminal Procedure Code [Act 593], which is referred"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to as the “Code” in this Act, is amended by inserting after section 116c the following section: “Power to seize or prohibit dealing in money 116d. (1) Any police officer not below the rank of Sergeant may seize or prohibit the dealing in, any money held or suspected to be held in any payment instrument or any account at a financial institution in respect of which—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the police officer has reasonable cause to suspect that an offence has been committed;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the police officer has reasonable cause to suspect that the money has been used or is intended to be used to commit an offence; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the police officer has reasonable cause to believe that the money constitutes evidence of an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of seizing or prohibiting the dealing in any money under subsection (1), the police officer may by written order—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "direct any person who has the possession, custody or control of the money to deliver the money to any police officer; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "direct any person who has the possession, custody or control of the money not to allow any dealing in respect of the money for such period as may be specified in the written order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any money held by any person who has the possession, custody or control is subject to a written order made by a police officer under subsection (2), any interest or other earnings derived from such money may be credited into the payment instrument or account at a financial institution after the date on which the written order was made and shall be deemed to be subjected to the written order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who has the possession, custody or control of the money who fails to comply with the written order made under subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The written order issued under subsection (2) may be varied or revoked by a Sessions Court on the application of the person named or described in the written order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In considering the application under subsection (5), the Sessions Court shall have regard to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the payment of debts incurred in good faith and due to any creditor before the making of the written order under subsection (2); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the provision of an allocation for reasonable subsistence and other expenses of the person named or described in the written order, his family or employees."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The written order issued under subsection (2) shall cease to have effect after the expiration of eighteen months from the date of the written order if no prosecution for any offence under any written law is instituted with regard to such money.”. Amendment of First Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/24/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The First Schedule to the Code is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after the item relating to section 424 of the Penal Code and the particulars relating to it the following items and particulars: 1 2 3 4 5 Penal Offence Whether Whether a Whether Code the police warrant or bailable may a summons or not ordinarily shall arrest ordinarily without issue in warrant the first or not instance “424a Possession May do. do. or control arrest of payment without instrument warrant or account Penal Offence Whether Whether a Whether Whether Code the police warrant or bailable compoundable may a summons or not or not ordinarily shall arrest ordinarily without issue in warrant the first or not instance 424b Giving do. do. do. do. possession or control of payment instrument or account to other person 424c(1) Engaging do. do. do. do. in transaction using his payment instrument or his account without lawful purpose 424c(2) Engaging do. do. do. do. in transaction using payment instrument of other person or account of other person without lawful authority or lawful purpose"
+      }
+    }
+  ]
+}

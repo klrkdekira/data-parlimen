@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-31-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supply Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supply Act 2024. Issue and appropriation for the service of the year 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue of a sum not exceeding two hundred and fourteen billion five hundred and fifty-four million two hundred and sixty-four thousand three hundred ringgit (RM214,554,264,300) from the Consolidated Fund for the service of the year 2024 is hereby authorized and that sum is appropriated for the purposes specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. 1 Parliament of Malaysia B. 2 Keeper of Rulers’ Seal Office B. 3 National Audit Department B. 4 Election Commission B. 5 Public Services Commission B. 6 Prime Minister’s Department B. 7 Public Service Department B. 8 Attorney General’s Chambers B. 9 Malaysian Anti-Corruption Commission B. 10 Treasury B. 11 Treasury General Services B. 12 Contribution to Statutory Funds B. 13 Ministry of Foreign Affairs B. 14 Ministry of National Unity B. 15 Ministry of Economy B. 20 Ministry of Plantation and Commodities B. 21 Ministry of Agriculture and Food Security B. 22 Ministry of Rural and Regional Development B. 23 Ministry of Natural Resources, Environment and Climate Change B. 24 Ministry of Investment, Trade and Industry B. 25 Ministry of Domestic Trade and Cost of Living B. 26 Ministry of Entrepreneur and Cooperatives Development B. 27 Ministry of Works B. 28 Ministry of Transport B. 30 Ministry of Science, Technology and Innovation Purpose Title B. 31 Ministry of Tourism, Arts and Culture B. 40 Education Service Commission B. 42 Ministry of Health B. 43 Ministry of Local Government Development B. 45 Ministry of Youth and Sports B. 46 Ministry of Human Resources B. 47 Ministry of Communications and Digital B. 48 Ministry of Women, Family and Community Development B. 60 Ministry of Defence B. 62 Ministry of Home Affairs B. 63 Ministry of Education B. 64 Ministry of Higher Education ToTal"
+      }
+    }
+  ]
+}

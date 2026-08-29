@@ -1,0 +1,307 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-32-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Suruhanjaya Penerbangan Malaysia (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Suruhanjaya Penerbangan Malaysia (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Suruhanjaya Penerbangan Malaysia 2015 [Akta 771], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “hak trafik udara” dengan takrif yang berikut: ‘ “hak trafik udara” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan laluan domestik, hak sesuatu syarikat penerbangan yang dilesenkan oleh Suruhanjaya untuk mengadakan perkhidmatan udara bagi perjalanan berjadual dalam Malaysia, dan termasuklah tempat yang hendak dihubungkan, jenis pesawat udara yang hendak digunakan dan kapasiti yang hendak diberikan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan laluan antarabangsa, hak sesuatu syarikat penerbangan yang dilesenkan oleh Suruhanjaya dan ditetapkan, dinamakan atau selainnya dibenarkan oleh Kerajaan untuk mengadakan perkhidmatan udara bagi perjalanan berjadual dari, ke atau merentas sesuatu negara di bawah suatu perjanjian perkhidmatan udara, dan termasuklah tempat yang hendak dihubungkan, laluan yang padanya perkhidmatan udara hendaklah diberikan, jenis pesawat udara yang hendak digunakan dan kapasiti yang hendak diberikan;’. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 18(2) Akta ibu dipinda dengan memasukkan selepas perenggan (f) perenggan yang berikut: “(fa) untuk mengenakan dan memungut caj ke atas penumpang di lapangan terbang di Malaysia bagi perkhidmatan pengawalseliaan yang diberikan oleh Suruhanjaya menurut Akta ini;”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 36(1) Akta ibu dipinda dalam teks bahasa Inggeris, dengan menggantikan perkataan “and under” dengan perkataan “and in accordance with”. Pindaan seksyen 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 65 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Suruhanjaya boleh mengenakan suatu penalti kewangan bagi apa-apa ketidakpatuhan terhadap mana-mana garis panduan yang dikeluarkan di bawah seksyen ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika seseorang itu merupakan seorang individu, setakat suatu amaun yang tidak melebihi satu juta ringgit; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika seseorang itu merupakan suatu pertubuhan perbadanan, setakat suatu amaun yang tidak melebihi lima peratus daripada pusing ganti tahunan pertubuhan perbadanan itu dari tahun kewangan yang sebelumnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini— “tahun kewangan” ertinya tempoh yang berkenaan dengannya apa-apa penyata kewangan yang disediakan sama ada tempoh itu genap satu tahun atau tidak; “pusing ganti tahunan” ertinya agregat semua jumlah wang yang diterima semasa menjalankan perniagaan sepanjang tahun kewangan, sebagaimana yang dinyatakan atau selainnya ditunjukkan dalam akaun perniagaan, termasuk pemberian daripada mana-mana Kerajaan Persekutuan atau Kerajaan Negeri.”. Pindaan seksyen 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 66(1) Akta ibu dipinda dengan menggantikan perkataan “yang diperoleh oleh Kementerian Pengangkutan” dengan perkataan “bagi kedua-dua laluan domestik dan antarabangsa”. Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 69(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d) dengan memotong perkataan “dan” di hujung perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: “( da) penentuan fi atau caj yang dikenakan ke atas pengguna oleh penyedia perkhidmatan penerbangan; dan”. Pindaan seksyen 98"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 98(2)(k) Akta ibu dipinda dengan memasukkan selepas perkataan “membayar fi itu” perkataan “, yang termasuklah mengecualikan secara sepenuhnya atau sebahagiannya bayaran apa-apa fi dan caj yang kena dibayar kepada Suruhanjaya di bawah Akta ini oleh mana-mana pesawat udara, penerbangan atau orang atau kelas pesawat udara, penerbangan, atau orang atas apa-apa terma dan syarat yang difikirkan patut oleh Suruhanjaya.”. Seksyen baharu 98a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 98 seksyen yang berikut: “Kuasa untuk mengeluarkan garis panduan, pekeliling, arahan, dsb. 98a. (1) Bagi maksud Akta ini atau perundangan subsidiari yang dibuat di bawah Akta ini, Suruhanjaya boleh mengeluarkan garis panduan, pekeliling, arahan, nota amalan atau notis sebagaimana yang difikirkannya sesuai untuk mengawal selia perkara ekonomi yang berhubungan dengan industri penerbangan awam dan boleh mengenakan apa-apa syarat atau sekatan sebagaimana yang difikirkannya patut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap garis panduan, pekeliling, arahan, nota amalan atau notis yang dikeluarkan di bawah Akta ini atau perundangan subsidiari yang dibuat di bawah Akta ini hendaklah disiarkan oleh Suruhanjaya mengikut apa-apa cara yang memastikan bahawa garis panduan, pekeliling, arahan, nota amalan atau notis itu dibawa kepada perhatian orang yang perlu mematuhi garis panduan, pekeliling, arahan, nota amalan atau notis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya boleh mengenakan suatu penalti kewangan bagi apa-apa ketidakpatuhan terhadap mana-mana garis panduan, pekeliling, arahan, nota amalan atau notis yang dikeluarkan di bawah seksyen ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika seseorang itu merupakan seorang individu, setakat suatu amaun yang tidak melebihi satu juta ringgit; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika seseorang itu merupakan suatu pertubuhan perbadanan, setakat suatu amaun yang tidak melebihi lima peratus daripada pusing ganti tahunan pertubuhan perbadanan itu dari tahun kewangan yang sebelumnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suruhanjaya boleh membatalkan, mengubah, menyemak semula atau meminda keseluruhan atau mana-mana bahagian mana-mana garis panduan, pekeliling, arahan, nota amalan atau notis yang dikeluarkan di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/32/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini— “tahun kewangan” ertinya tempoh yang berkenaan dengannya apa-apa penyata kewangan yang disediakan sama ada tempoh itu genap satu tahun atau tidak; “pusing ganti tahunan” ertinya agregat semua jumlah wang yang diterima semasa menjalankan perniagaan sepanjang tahun kewangan, sebagaimana yang dinyatakan atau selainnya ditunjukkan dalam akaun perniagaan, termasuk pemberian daripada mana-mana Kerajaan Persekutuan atau Kerajaan Negeri.”."
+      }
+    }
+  ]
+}

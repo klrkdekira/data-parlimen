@@ -1,0 +1,108 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-1-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (1996 and 1997) Bill 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(1996 and 1997) Act 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_2__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is authorised of a sum not exceeding fifteen billion three hundred and seventy-seven million nine hundred and twenty-three thousand one hundred and ninety-two ringgit (RM15,377,923,192) from the Consolidated Fund for expenditure on the services specified in the First Schedule for the service of the year 1996, not provided for or not fully provided for by the Supply Act 1996, the Supplementary Supply (1996) Act 1996 and the Supplementary Supply (1996) (No. 2) Act 1996. (2) The said sum is appropriated for the purposes specified in the First Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_3__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is authorised of a sum not exceeding three hundred and sixty-two million seven hundred and forty-five thousand ringgit (RM362,745,000) from the Consolidated Fund for expenditure on the service specified in the Second Schedule for the service of the year 1997, Act A976. not provided for or not fully provided for by the Supply Act 1997. (2) The said sum is appropriated for the purpose specified in the Second Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) Purpose Title B. 3 Audit Department B. 5 Public Services Commission B. 7 Prime Minister's Department B. 11 Anti-Corruption Agency B. 13 Office of the Federal Secretary Sarawak B. 15 Town and Country Planning Department B. 16 Fire Services Department B. 18 Ministry of Primary Industries B. 19 Ministry of Agriculture B. 22 Ministry of Culture, Arts and Tourism B. 23 Department of the National Archives B. 24 Museum and Antiquities Department B. 25 Ministry of Defence B. 26 Ministry of Education Purpose Title B. 27 Department of National Library B. 30 Contribution to Statutory Funds B. 33 Valuation and Property Services Department B. 34 Ministry of Health B. 35 Ministry of Home Affairs B. 37 Immigration Department B. 41 Civil Defence Department B. 42 Ministry of National Unity and Social Development B. 43 Department of Orang Asli Affairs B. 44 Ministry of Information B. 45 Ministry of Human Resources B. 48 Ministry of Rural Development B. 49 Ministry of Energy, Telecommunications and Posts TOTAL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 3) Purpose Title B. 34 Ministry of Health TOTAL"
+      }
+    }
+  ]
+}
