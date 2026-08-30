@@ -1,0 +1,360 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-32-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_14"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Prevention and Control of Infectious Disease (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 24 the following section: “General penalty 24. Any person who commits an offence under this Act for which no penalty is expressly provided shall, on conviction— (a) in the case of a person who is an individual, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years or to both; or (b) in the case of a body corporate, be liable to a fine not exceeding one hundred thousand ringgit.”. New section 24a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 24 the following section: “Jurisdiction to try offences 24a. Notwithstanding any written law to the contrary, a court of a First Class Magistrate shall have jurisdiction to try any offence under this Act and to impose punishment under this Act for any such offence.”. Substitution of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 25 the following section: “Compounding of offences 25. The Director General or any authorized officer authorized by the Director General in writing may, with the consent in writing of the Public Prosecutor, at any time before a charge is being instituted, compound any offence under this Act or any regulations made under this Act which has been prescribed by regulations as a compoundable offence by making a written offer to the person reasonably suspected of having committed the offence to compound the offence upon payment to the Director General— (a) in the case of a person who is an individual, a sum of money not exceeding five thousand ringgit; or (b) in the case of a body corporate, a sum of money not exceeding fifty thousand ringgit.”. Amendment of section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 26 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “Requisition of premises” the words “and its resources”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “any premises” the words “and its resources”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “by arbitration in accordance with the provisions of the Arbitration Act 1952 [Act 93]” the words “by the court”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(4) For the purposes of this section, “resources” includes the human resources, facilities, utilities and assets and the controller or manager of such human resources, facilities, utilities and assets.”. (Amendment) Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) Regulations made under this Act may prescribe any act in contravention of the regulations to be an offence and may prescribe penalties— (a) in the case of person who is an individual, a fine not exceeding eight thousand ringgit or to imprisonment for a term not exceeding two years or both; (b) in the case of a body corporate, a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or both.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Prevention and Control of Infectious Diseases (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Prevention and Control of Infectious Diseases Act 1988 [Act 342], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “health inspector”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “authorized officer”, by substituting for the words “any health inspector,” the words “any Environmental Health Officer,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Medical Officer of Health”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “airport and port limits thereof,” the words “airport, port and land frontier limits thereof,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the Deputy Director General of Health, the Director of Health Services, any Deputy Director of Health Services, any State Director of Medical and Health Services, any State Deputy Director of Medical and Health Services, the Sabah State Director of Medical Services and his Deputy and the Sarawak State Director of Medical Services and his Deputy” the words “any Deputy Director General of Health, the Director of Disease Control, any Deputy Director of Disease Control, the State Health Director and any Deputy State Health Director”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “disinsecting” the following definition: ‘ “Environmental Health Officer” means any Environmental Health Officer in the service of the Government or any local authority including the Assistant Environmental Health Officer;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “quarantine station”, by substituting for the words “an infectious disease hospital and any place” the words “any hospital and place”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 10(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or becomes aware of” the words “any person suffering from any infectious disease, or becomes aware of or has reason to believe or suspect”; and (Amendment)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “in the form prescribed by regulations made under this Act” the words “in any manner as determined by the Director General”. New section 14a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 14 the following section: “Isolation or surveillance of infected persons and suspects 14a. (1) An authorized officer may order any person who is infected or whom he has reason to believe has been infected with an infectious disease to undergo isolation or surveillance in such place for such period as the authorized officer may think fit or until such person may be discharged without danger to the public. (2) For the purposes of subsection (1), an authorized officer may use such force as may be necessary to ensure compliance with his order.”. New section 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 15 the following section: “Order for the purpose of tracking and monitoring 15a. (1) An authorized officer may, for the purpose of tracking and monitoring, issue any order to be complied with by a person who is infected or whom the authorized officer has reason to believe to be infected, or any contact, for such period as the authorized officer thinks fit or until such person no longer expose any danger to the public. (2) Without prejudice to the generality of the powers conferred by subsection (1), the order may include an order— (a) to wear, carry or use any form of tracking device provided by the authorized officer; and (b) to install and use any digital application in any digital device as determined by the authorized officer. (3) Any person who is ordered to wear, carry or use any form of tracking device shall ensure that the tracking device is in a good working condition and shall not destroy, damage, lose or tamper with the tracking device during the period stated in the order issued under subsection (1). (4) Any person who is ordered to wear, carry or use any form of tracking device shall return the tracking device to the authorized officer at the end of period stated in the order issued under subsection (1). (5) Any person who is ordered to install and use any digital application in any digital device— (a) shall ensure that the digital application is in a good working condition; (b) shall carry the digital device at all time; and (c) shall not move, manipulate, tamper or interfere with the digital application, during the period stated in the order issued under subsection (1). (6) Any person who contravenes this section commits an offence.”. New section 21a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 21 the following section: “Directions of Director General 21a. (1) The Director General may issue any directions in any manner, whether generally or specifically, to any person or class of persons to take such measures for the purpose of preventing and controlling any infectious disease. (Amendment) (2) The Director General may issue any directions, order or guideline to any medical practitioner for the purpose of preventing and controlling any infectious disease. (3) Any person who contravenes any directions, order or guideline issued under this section commits an offence.”. New Part IVa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after new section 21a the following part: “Part IVa ENFORCEMENT Power of investigation 21b. An authorized officer shall have all the powers necessary to carry out an investigation under this Act in accordance with the Criminal Procedure Code [Act 593]. Power to require information 21c. An authorized officer may require any person to furnish any information relating to the prevention and control of infectious diseases.”. New section 22a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 22 the following section: “Offences by body corporate 22a. (1) If a body corporate commits an offence under this Act, any person who at the time of the commission of the offence was a director, chief executive officer, chief operating officer, manager, secretary or other similar officer of the body corporate or was purporting to act in any such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the body corporate or was assisting in such management— (a) may be charged severally or jointly in the same proceedings with the body corporate; and (b) if the body corporate is found guilty of committing the offence, shall be deemed to be guilty of that offence unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves— (i) that the offence was committed without his knowledge, consent or connivance; and (ii) that he has taken all reasonable precautions and exercised due diligence to prevent the commission of the offence. (2) If any person would be liable under this Act to any punishment or penalty for his act, omission, neglect or default, he shall be liable to the same punishment or penalty for every such act, omission, neglect or default of any employee or agent of his, or of the employee of the agent, if the act, omission, neglect or default was committed by— (a) the person’s employee in the course of his employment; (b) the agent when acting on behalf of the person; or (c) the employee of the agent in the course of his employment by the agent or otherwise on behalf of the agent acting on behalf of that person.”. (Amendment) Substitution of section 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 23 the following section: “Prosecution 23. No prosecution for or in relation to any offence under this Act or any regulations made under this Act shall be instituted except by or with the written consent of the Public Prosecutor.”. Substitution of section 24"
+      }
+    }
+  ]
+}

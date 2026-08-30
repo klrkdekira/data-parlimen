@@ -1,0 +1,189 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-9-2009",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Suruhanjaya Hak Asasi Manusia Malaysia (Pindaan) 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Suruhanjaya Hak Asasi Manusia Malaysia (Pindaan) 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Penggantian seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Suruhanjaya Hak Asasi Manusia Malaysia 1999 [Akta 597], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan menggantikan seksyen 5 dengan seksyen yang berikut: “Anggota Suruhanjaya dan tempoh jawatan daripada dua puluh orang anggota. (2) Anggota Suruhanjaya hendaklah dilantik oleh Yang di-Pertuan Agong atas syor Perdana Menteri yang hendaklah, sebelum memberikan nasihatnya, berunding dengan jawatankuasa yang disebut dalam seksyen 11A. (3) Anggota Suruhanjaya hendaklah dilantik daripada kalangan lelaki dan wanita daripada pelbagai latar belakang agama, politik dan kaum yang mempunyai pengetahuan, atau pengalaman praktikal dalam, perkara hak asasi manusia. (4) Seseorang anggota Suruhanjaya hendaklah memegang jawatan selama tempoh tiga tahun dan layak untuk dilantik semula sekali sahaja bagi tempoh tiga tahun lagi. (5) Perdana Menteri boleh menentukan mekanisme yang sesuai, termasuk petunjuk-petunjuk prestasi utama, untuk menilai prestasi anggota-anggota Suruhanjaya dalam menjalankan fungsi dan kewajipan mereka di bawah Akta ini. (6) Penilaian itu hendaklah diambil kira – (a) oleh Perdana Menteri sebelum memberikan nasihatnya kepada Yang di-Pertuan Agong bagi pelantikan semula mana-mana anggota Suruhanjaya di bawah subseksyen (4); dan (b) bagi pemecatan mana-mana anggota Suruhanjaya di bawah seksyen 10.”. Seksyen baru 11A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 11 dalam Bahagian II seksyen yang berikut: “Jawatankuasa hendaklah dirujuk berhubung dengan pelantikan 11A. (1) Bagi maksud subseksyen 5(2), adalah dengan ini ditubuhkan suatu jawatankuasa yang terdiri daripada orang yang berikut: (a) Ketua Setiausaha Negara yang hendaklah menjadi Pengerusi; (b) Pengerusi Suruhanjaya; dan (c) tiga orang anggota lain, daripada kalangan orang yang terkemuka, yang akan dilantik oleh Perdana Menteri. (2) Anggota jawatankuasa yang disebut dalam subseksyen (1) hendaklah berkhidmat dengan jawatankuasa bagi apa-apa tempoh dan atas apa-apa terma dan syarat sebagaimana yang dinyatakan pelantikannya. (3) Anggota yang disebut dalam perenggan (1)(c) boleh termasuk bekas hakim dan bekas anggota Suruhanjaya. (4) Orang yang berikut tidak boleh dilantik sebagai anggota jawatankuasa di bawah perenggan (1)(c): (a) mana-mana orang yang terlibat secara aktif dalam politik dan berdaftar dengan mana- mana parti politik; dan (b) mana-mana orang yang sedang atau pernah menjadi pegawai penguat kuasa. (5) Jawatankuasa ini boleh menentukan perjalanan prosidingnya sendiri. (6) Apa-apa pendapat, pandangan atau jawatankuasa apabila dirundingi oleh Perdana Menteri di bawah subseksyen 5(2) tidak mengikat Perdana Menteri. (7) Bagi maksud seksyen kuasa” ertinya pegawai –"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana Kementerian, Jabatan, Agensi atau mana-mana badan lain yang dibentuk oleh Kerajaan Persekutuan, termasuk suatu unit, seksyen, bahagian, jabatan atau agensi Kementerian, Jabatan, Agensi atau badan itu, yang diberi fungsi penguatkuasaan oleh mana-mana undang-undang bertulis atau yang mempunyai kuasa penguatkuasaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu badan yang ditubuhkan oleh undang- undang Persekutuan yang diberi penguatkuasaan Persekutuan itu atau mana-mana undang- undang bertulis yang lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu unit, seksyen, bahagian, jabatan atau agensi sesuatu badan yang ditubuhkan oleh undang-undang mempunyai fungsi penguatkuasaan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkhidmatan bersama yang ditubuhkan di bawah Perkara 133 Perlembagaan Persekutuan yang melaksanakan penguatkuasaan.”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen 5(4) Akta ibu sebagaimana yang dimasukkan oleh Akta ini, anggota Suruhanjaya yang telah dilantik atau dilantik semula sebelum permulaan kuat kuasa Akta ini dan belum menamatkan tempoh jawatannya sebaik sebelum permulaan kuat kuasa Akta ini, boleh terus memegang jawatan bagi baki tempoh jawatannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen 5(4) Akta ibu sebagaimana yang dimasukkan oleh Akta ini –"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Suruhanjaya yang telah dilantik untuk kali pertama sebelum permulaan kuat kuasa Akta ini dan sedang memegang permulaan kuat kuasa Akta ini layak untuk dilantik semula sekali sahaja bagi tempoh tiga tahun di bawah subseksyen 5(4) Akta ibu sebagaimana yang dimasukkan oleh Akta ini apabila habis tempoh jawatannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/9/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Suruhanjaya yang telah dilantik semula sebelum permulaan kuat kuasa Akta ini tidak layak untuk dilantik semula di bawah subseksyen 5(4) Akta ibu sebagaimana yang dimasukkan oleh Akta ini apabila habis tempoh jawatannya di bawah pelantikan semula itu. _______________________"
+      }
+    }
+  ]
+}

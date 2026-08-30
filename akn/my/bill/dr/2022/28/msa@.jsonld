@@ -1,0 +1,491 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-28-2022",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Tabung Angkatan Tentera (Pindaan) 2022"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 15 dengan seksyen yang berikut: “Pelaburan oleh Lembaga 15. (1) Lembaga boleh, atas nasihat yang diberikan oleh Panel Pelaburan, melaburkan wang yang ada dalam Tabung dan dalam Kumpulan Wang Rizab berdasarkan perumpukan aset strategik sebagaimana yang diluluskan oleh Menteri dan Menteri Kewangan, setakat dan mengikut cara yang berikut: (a) dengan cara mendepositkan dalam apa-apa mata wang dalam— (i) Bank Negara Malaysia; (ii) mana-mana institusi kewangan yang dilesenkan di bawah Akta Perkhidmatan Kewangan 2013 [Akta 758]; (iii) mana-mana institusi kewangan pembangunan sebagaimana yang ditakrifkan di bawah Akta Institusi Kewangan Pembangunan 2002 [Akta 618]; (iv) mana-mana bank Islam yang dilesenkan di bawah Akta Perkhidmatan Kewangan Islam 2013 [Akta 759]; atau (v) mana-mana bank atau institusi kewangan yang ditubuhkan oleh atau di bawah mana-mana undang-undang bertulis di dalam atau di luar Malaysia; (b) dalam surat cara pasaran wang, termasuk bil perbendaharaan, penerimaan jurubank, perakuan deposit dan apa-apa surat cara yang diiktiraf oleh badan pengawal selia yang berkaitan dalam apa-apa mata wang; (c) dalam bon, nota perdagangan, sekuriti hutang persendirian, nota janji hutang dan bil pertukaran mengikut pengertian Akta Bil Pertukaran 1949 [Akta 204] dan surat cara boleh niaga lain yang serupa jenis atas terma yang menguntungkan Lembaga, berkenaan dengan mana-mana syarikat atau perbadanan atau berkenaan dengan mana-mana pihak berkuasa awam atau perbadanan yang Kerajaan Persekutuan mempunyai kepentingan dalamnya; (d) dalam sekuriti yang diterbitkan atau dijamin sepenuhnya oleh mana-mana kerajaan berdaulat, organisasi supranasional atau multilateral dan termasuklah sekuriti yang penanggung obligasinya adalah mana-mana kerajaan berdaulat, organisasi supranasional atau multilateral; (e) dalam sekuriti yang diterbitkan atau dijamin sepenuhnya oleh Kerajaan Malaysia, dijamin oleh mana-mana kerajaan berdaulat, organisasi supranasional atau multilateral dan termasuklah sekuriti yang penanggung obligasinya adalah mana-mana kerajaan berdaulat, organisasi supranasional atau multilateral dan apa-apa surat cara yang diterbitkan oleh Bank Negara Malaysia; (f) dalam pemerolehan atau langganan syer atau debentur dalam mana-mana syarikat awam yang sekuritinya disenaraikan atau telah diluluskan untuk disenaraikan di bursa saham di Malaysia, terbitan atau jualan yang telah diluluskan di bawah Akta Pasaran Modal dan Perkhidmatan 2007 [Akta 671] atau sekuriti dalam suatu syarikat yang telah diluluskan untuk disenaraikan di mana-mana bursa saham yang diiktiraf di luar Malaysia tertakluk kepada penyenaraian sekuriti tersebut telah diluluskan oleh undang-undang dalam bidang kuasa asing itu; (g) dalam sekuriti yang juga merangkumi bon, nota, kertas gadai janji, nota perdagangan dan lain-lain surat cara hutang syarikat atau perbadanan yang tidak disenaraikan dan disebut dalam mana-mana bursa saham yang ditubuhkan di Malaysia dan dalam sekuriti syarikat atau perbadanan yang ditubuhkan di dalam bidang kuasa asing; (h) dalam pemerolehan harta alih atau harta tak alih dan kepentingan dalamnya yang terletak di Malaysia atau di dalam mana-mana bidang kuasa asing; (i) dalam pembangunan bangunan dan infrastruktur yang terletak di Malaysia atau di dalam mana-mana bidang kuasa asing; (j) dalam membeli sekuriti atau melanggan apa-apa produk bagi maksud perlindungan nilai atau menjalankan urus niaga dalam apa-apa instrumen derivatif bagi pelaburan Tabung; (k) dalam dana yang berdomisil di Malaysia atau di dalam mana-mana bidang kuasa asing yang termasuk mandat berasingan yang melabur dalam aset di bawah seksyen ini; (l) di dalam produk sebagaimana yang diluluskan oleh Suruhanjaya Sekuriti Malaysia atau mana-mana pengawal selia lain yang berkaitan di dalam mana-mana bidang kuasa asing; (m) dalam penjualan, pembelian, pembelian semula, pinjaman atau pemberian pinjaman, atau urus niaga lain dalam, mata wang atau instrumen kewangan yang lain yang diniagakan dalam pasaran wang atau pasaran pertukaran asing bagi maksud menjalankan pelaburan yang telah diluluskan di bawah seksyen ini; dan (n) dalam apa-apa pelaburan lain dengan kelulusan Menteri dan Menteri Kewangan.”. Seksyen baharu 24 dan 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 23 seksyen yang berikut: “Lembaga boleh memperbadankan syarikat 24. Lembaga boleh, dengan kelulusan Menteri dan Menteri Kewangan, memperbadankan suatu syarikat untuk menjalankan atau terlibat dalam apa-apa aktiviti yang diluluskan atau diusahakan oleh Lembaga bagi maksud Akta ini. Peruntukan bagi pendahuluan daripada Kumpulan Wang Disatukan Persekutuan 25. Jika Lembaga pada bila-bila masa tidak berupaya untuk membayar apa-apa jumlah wang yang ada dalam kredit akaun pencarum kepada pencarum, waris atau waris kadim pencarum, sebagaimana yang dikehendaki di bawah Akta ini, jumlah wang yang dikehendaki dibayar sedemikian hendaklah dipertanggungkan ke atas dan didahulukan kepada Lembaga daripada Kumpulan Wang Disatukan Persekutuan dan Lembaga hendaklah, dengan seberapa segera yang praktik, membayar balik kepada Kerajaan Malaysia jumlah wang yang telah didahulukan sedemikian.”. Pindaan Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam Jadual Kedua—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subperenggan 1(1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan 2 perenggan yang berikut: “2a. Pengerusi atau, jika ketiadaannya, anggota yang dipilih oleh anggota Panel Pelaburan yang hadir, hendaklah mempengerusikan mesyuarat Panel Pelaburan itu.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Tabung Angkatan Tentera (Pindaan) 2022."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Tabung Angkatan Tentera 1973 [Akta 101], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif “skim anuiti veteran” takrif yang berikut: ‘ “syarikat” ertinya suatu syarikat yang diperbadankan di bawah Akta Syarikat 2016 [Akta 777], suatu syarikat amanah yang didaftarkan di bawah Akta Syarikat Amanah 1949 [Akta 100] atau mana-mana syarikat yang diperbadankan di bawah mana-mana undang-undang bertulis yang berbidang kuasa asing;’. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (3)(e), dengan memasukkan selepas perkataan “dilantik oleh Menteri” perkataan “atas nasihat Lembaga”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Dalam menentukan sama ada seseorang itu layak dan sesuai bagi maksud subseksyen (3), Menteri hendaklah mengambil kira— (a) kejujuran yang tidak diragui, kecekapan dan kewajaran pertimbangan orang itu dalam memenuhi tanggungjawabnya sebagai anggota Lembaga; dan (b) ketekunan yang membolehkan orang itu memenuhi tanggungjawabnya sebagai anggota Lembaga. (3b) Tanpa menjejaskan keluasan subseksyen (3), seseorang tidak layak untuk dilantik atau hilang kelayakan menjadi anggota Lembaga, jika dia— (a) seorang bankrap yang belum dilepaskan; (b) telah disabitkan atas suatu kesalahan yang berhubungan dengan penganjuran, penubuhan atau pengurusan suatu syarikat atau perbadanan; (c) telah disabitkan atas suatu kesalahan yang melibatkan sogokan, fraud atau kecurangan; (d) telah disabitkan atas suatu kesalahan di bawah mana-mana undang-undang bertulis yang dimaksudkan untuk melindungi orang awam; (e) telah hilang kelayakan melalui perintah mahkamah untuk bertindak sebagai pengarah di bawah mana-mana undang-undang bertulis; atau (f) telah terlibat dalam atau telah dikaitkan dengan, apa-apa amalan perniagaan, atau selainnya berkelakuan dengan sedemikian cara sehingga menimbulkan keraguan tentang kewibawaan dan kewajaran pertimbangannya. (3c) Hal keadaan yang disebut dalam subseksyen (3b) hendaklah terpakai bagi hal keadaan di dalam atau di luar Malaysia.”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)— “(ca) seorang wakil daripada Kementerian Pertahanan;”; “(d) seorang wakil daripada Kementerian Kewangan;”; dan “(e) empat orang anggota lain yang mempunyai pengalaman dan kepakaran dalam perniagaan, pelaburan, pengurusan risiko pelaburan, aktuari, perbankan, undang-undang atau kewangan yang hendaklah dilantik oleh Menteri atas nasihat Lembaga.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (d) dengan perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (e) dengan perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Bagi maksud perenggan (2)(a), Pengerusi tidak boleh menjadi Pengerusi Lembaga. (2b) Dalam menentukan sama ada seseorang itu layak dan sesuai bagi maksud subseksyen (2), Menteri hendaklah mengambil kira— (a) kejujuran yang tidak diragui, kecekapan dan kewajaran pertimbangan orang itu dalam memenuhi tanggungjawabnya sebagai anggota Panel Pelaburan; dan (b) ketekunan yang membolehkan orang itu memenuhi tanggungjawabnya sebagai anggota Panel Pelaburan. (2c) Tanpa menjejaskan keluasan subseksyen (2), seseorang tidak layak untuk dilantik atau hilang kelayakan menjadi anggota Panel Pelaburan, jika dia— (a) seorang bankrap yang belum dilepaskan; (b) telah disabitkan atas suatu kesalahan yang berhubungan dengan penganjuran, penubuhan atau pengurusan suatu syarikat atau perbadanan; (c) telah disabitkan atas suatu kesalahan yang melibatkan sogokan, fraud atau kecurangan; (d) telah disabitkan atas suatu kesalahan di bawah mana-mana undang-undang bertulis yang dimaksudkan untuk melindungi orang awam; (e) telah hilang kelayakan melalui perintah mahkamah untuk bertindak sebagai pengarah di bawah mana-mana undang-undang bertulis; atau (f) telah terlibat dalam atau telah dikaitkan dengan, apa-apa amalan perniagaan, atau selainnya berkelakuan dengan sedemikian cara sehingga menimbulkan keraguan tentang kewibawaan dan kewajaran pertimbangannya. (2d) Hal keadaan yang disebut dalam subseksyen (2c) hendaklah terpakai bagi hal keadaan di dalam atau di luar Malaysia.”. Penggantian seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 8 dengan seksyen yang berikut: “Kewajipan dan tanggungjawab anggota, dsb. 8. (1) Anggota Lembaga, anggota Panel Pelaburan, anggota jawatankuasa Lembaga, pegawai dan pekhidmat Lembaga hendaklah— (a) pada setiap masa, menjalankan kuasanya mengikut Akta ini bagi maksud yang sepatutnya dan dengan suci hati demi kepentingan Tabung; dan (b) menjalankan kewajipan dan tanggungjawabnya dengan ketelitian, kemahiran dan ketekunan yang munasabah berdasarkan pengetahuan, kemahiran dan pengalaman yang semunasabahnya dijangka daripada seorang yang mempunyai kewajipan dan tanggungjawab yang sama. (2) Anggota Lembaga, anggota Panel Pelaburan, anggota jawatankuasa Lembaga, pegawai dan pekhidmat Lembaga yang telah memungkiri atau gagal mematuhi, telah menyumbang kepada kemungkiran atau ketidakpatuhan atau telah melanggar mana-mana peruntukan Akta ini boleh, bagi apa-apa kerugian atau kerosakan disebabkan oleh tindakan atau peninggalannya, dipertanggungjawabkan secara sendiri.”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Caruman askar-lasykar”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Seorang askar-lasykar boleh juga memohon suatu pemotongan lanjut melebihi sepuluh peratus daripada gaji bulanannya sebagaimana yang ditentukan oleh askar-lasykar itu sebagai carumannya kepada Tabung dan amaun caruman itu hendaklah dikreditkan kepada akaun askar-lasykar itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (1)” di mana-mana jua terdapat dengan perkataan “subseksyen (1) dan (1a)”. Pindaan seksyen 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Caruman pegawai”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Seorang pegawai boleh juga memohon suatu pemotongan lanjut melebihi sepuluh peratus daripada gaji bulanannya sebagaimana yang ditentukan oleh pegawai itu sebagai carumannya kepada Tabung dan amaun caruman itu hendaklah dikreditkan kepada akaun pegawai itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “subseksyen (1)” di mana-mana jua terdapat dengan perkataan “subseksyen (1) dan (1a)”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Tertakluk kepada peruntukan seksyen ini, Lembaga boleh, dengan kelulusan Menteri, pada atau selepas berakhirnya tahun kewangan pada setiap tahun, mengisytiharkan suatu kadar keuntungan atas caruman kepada Tabung berdasarkan prestasi kewangan sebenar Lembaga bagi tahun itu.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)— “(c) Lembaga berpuas hati dengan kemampuan Tabung untuk membuat semua pembayaran yang dikehendaki untuk dibayar di bawah Akta ini tidak terancam dengan perisytiharan kadar itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (ba), dengan menggantikan perkataan “yang difikirkan cukup oleh aktuari” dengan perkataan “yang mencukupi”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “( 2a) Bagi maksud perisytiharan keuntungan di bawah subseksyen (1), Lembaga hendaklah dianggap sebagai solven sekiranya Lembaga berupaya untuk membayar hutangnya jika dan apabila hutang itu menjadi kena dibayar dalam masa dua belas bulan sebaik selepas perisytiharan itu dibuat. (2b) Lem baga boleh, dari semasa ke semasa sebagaimana yang difikirkannya perlu, melantik aktuari yang berkelayakan dan bebas untuk membantu Lembaga dalam membuat penilaian prestasi kewangannya menurut seksyen ini dan penilaian sedemikian boleh dijadikan sebagai panduan kepada Lembaga.”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Tertakluk kepada Akta ini, apa-apa amaun yang ada dalam kredit akaun seseorang pencarum di bawah Akta ini hanya boleh dikeluarkan— (a) apabila pencarum itu mati; (b) apabila pencarum itu telah diperakui sebagai tidak berupaya untuk berkhidmat dari segi fizikal atau mental; (c) apabila pencarum itu mencapai umur lima puluh tahun dan, jika pencarum itu ialah seorang pegawai, apabila pegawai itu mencapai umur persaraan wajib; (d) tiga puluh hari selepas pencarum itu bersara daripada perkhidmatan; atau (e) tiga puluh hari selepas pencarum itu diberhentikan daripada perkhidmatan.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1a), dengan menggantikan perkataan “perenggan (1)(b) atau (c)” dengan perkataan “perenggan (1)(c), (d) atau (e)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1a) subseksyen yang berikut: “(1b) Bagi maksud pengeluaran di bawah perenggan 12(1)(a) atau (b), Lembaga hendaklah membenarkan pengeluaran semua jumlah wang yang ada dalam kredit akaun pencarum di bawah Akta ini, sekiranya— (a) dimohon oleh waris pencarum apabila pencarum itu mati; atau (b) dimohon oleh waris kadim kepada pencarum yang telah diperakui sebagai tidak berupaya untuk berkhidmat dari segi fizikal atau mental.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Pencarum yang telah diberhentikan atau bersara daripada perkhidmatan boleh memilih untuk mengeluarkan atau menyimpan apa-apa amaun yang ada dalam kredit akaunnya dalam Tabung dan amaun yang ada itu berhak menerima kadar keuntungan bagi caruman yang disimpan dalam Tabung di bawah Akta ini.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “perenggan (1)(b)” dengan perkataan “perenggan (1)(d) dan (e)”. Penggantian seksyen 15"
+      }
+    }
+  ]
+}

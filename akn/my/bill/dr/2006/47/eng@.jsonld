@@ -1,0 +1,814 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-47-2006",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Street, Drainage and Building (Amendment) Bill 2006"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 123 the following section: \"Prosecution 123. No prosecution for an offence under this Act or any by-laws made thereunder shall be instituted except by or with the written consent of the Public Prosecutor.\". Amendment of section 127"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 127 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"two thousand\" the words \"ten thousand\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one hundred\" the words \"five hundred\". Amendment of section 133"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 133 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (xiia), by substituting for the words \"person qualified to submit the same\" the words \"principal submitting persons and submitting persons\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (xiig), by substituting for the words \"making applications for temporary certificate of fitness for occupation, partial certificate of fitness for occupation and certificate of fitness for occupation\" the words \"the issuance of the certificate of completion and compliance and partial certificate of completion and compliance\". Change in reference to certificate of fitness for occupation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the certificate of fitness for occupation or partial certificate of fitness for occupation in any written law or document shall, when this Act comes into operation, be construed as references to the certificate of completion and compliance and partial certificate of completion and compliance respectively. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall affect the past operation of, or anything done under the provisions of, any law relating to temporary certificate of fitness for occupation, partial certificate of fitness for occupation and certificate of fitness for occupation in local authority areas passed before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where on the date of coming into operation of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "building plans for the erection of buildings are pending before the local authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "building plans for the erection of buildings have been approved by the local authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "written directions was given by the local authority for plans and specifications in respect of any building to be amended and re-submitted; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "amended plans and specifications are pending before the local authority, the provisions of the principal Act applicable to the building plans shall continue to apply as if the principal Act has not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to any penalty that may be imposed, where on the date of coming into operation of this Act the work of erection of a building has not commenced within twelve months from the date on which the plans and specifications of the building were approved, the provisions of the principal Act applicable to the erection of the building shall continue to apply as if the principal Act has not been amended by this Act if the work of erection of the building is to commence on or after the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the work of erection of a building has commenced immediately before the date of coming into operation of this Act, the provisions of the principal Act applicable to the erection of the building shall continue to apply as if this principal Act has not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the work of erection of a building has been suspended immediately before the date of coming into operation of this Act and is to resume on or after the date of coming into operation of this Act, the provisions of the principal Act applicable to the erection of the building shall continue to apply as if the principal Act has not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to any penalty that may be imposed, the erection of a building without any approved plans and specifications by the local authority under this Act immediately before the date of coming into operation of this Act shall be subject to the provisions of the principal Act as if the principal Act has not been amended by this Act provided that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an application for the approval of the plans and specifications of the building is made to the local authority on or after the date of coming into operation of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_14__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the application referred to in paragraph (a) is approved."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Street, Drainage and Building (Amendment) Act 2006."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply only to Peninsular Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date as the Minister may, after consultation with the State Authority, appoint in relation to that State by notification in the Gazette and the Minister may, after consultation with the State Authority, appoint different dates —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of this Act in different local authority areas or parts of local authority areas;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of different provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the coming into operation of different provisions of this Act in different local authority areas or parts of local authority area."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (3), the State Authority may, by notification in the Gazette —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exempt any part of any local authority area from any or all of the provisions of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "extend any or all of the provisions of this Act to apply to the whole or any area or part of any area within the State which is not under any local authority; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "make such modifications, amendments or variations to the provisions of this Act as may be necessary for the purpose of its application under paragraph (b)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (3), in relation to the Federal Territory of Kuala Lumpur and Putrajaya, this Act shall come into operation on a date as the Minister may, by notification in the Gazette, appoint. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Street, Drainage and Building Act 1974 [Act 133], which is referred to as the \"principal Act\" in this Act, is amended in section 3 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"building\" the following definition: ' \"building plans\" means plans that include site plans, key plans, floor plans, sections and elevations as set out specifically in any by-laws made under this Act;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"Certificate of fitness for occupation, temporary certificate of fitness occupation and partial certificate of fitness for occupation\" the following definition: ' \"certificate of completion and compliance\" means the certificate given or granted under any by-laws made under this Act;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"owner\" the following definition: ' \"partial certificate of completion and compliance\" means the certificate given or granted under any by-laws made under this Act;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"premises\" the following definition: ■ ' \"principal submitting person\" means a qualified person who submits building plans to the local authority for approval in accordance with this Act or any by-laws made thereunder and includes any other qualified person who takes over the duties and responsibilities of or acts for the first mentioned qualified person;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"qualified person\" the following definition: ' \"qualified person\" means a Professional Architect, Professional Engineer or building draughtsman registered under any written law relating to the registration thereof;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"structural plan\" the following definition: ' \"submitting person\" means a qualified person who submits plans other than building plans to the local authority or relevant statutory authority in accordance with this Act or any by-laws made thereunder and includes any other qualified person who takes over the duties and responsibilities of or acts for the first mentioned qualified person;'. Amendment of section 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 58 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words \"any person submitting a plan or specification under section 70 relative to the erection or re-erection of any house or building\" the words \"a submitting person\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words \"any person submitting a plan or specification under section 70 relative to the erection or re-erection or any house or building\" the words \"a submitting person\". Amendment of section 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 65(1) of the principal Act is amended by substituting for the words \"person submitting the plan\" the words \"principal submitting person\". Amendment of section 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 70 of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word \"submit\" the words \"cause to be submitted by a principal submitting person or submitting person\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2(b), by deleting the words \"in respect of the sewerage system\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words \"person submitting a plan and specification\" the words \"principal submitting person or submitting person\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by substituting for the word \"person\" the words \"principal submitting person or submitting person\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8), by substituting for the words \"any person submitting the plan of a building\" the words \"the principal submitting person\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (11), by substituting for the words \"one thousand\" the words \"twenty-five thousand\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (12) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one thousand\" the words \"twenty-five thousand\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_g",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"one hundred\" the words \"five hundred\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (13) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"ten thousand ringgit\" the words \"fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii",
+      "@type": "akn:paragraph",
+      "eli:number": "ii",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"two hundred and fifty\" the words \"one thousand\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_ii",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (14), by inserting before the words \"in accordance with this Act\" the words \"by the principal submitting person or submitting person\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (18), by substituting for the words \"the person who has submitted the plan\" the words \"the principal submitting person or submitting person\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (19), by substituting for the words \"qualified person\" the words \"principal submitting person or submitting person and signed by the owner or his authorised agent and the principal submitting person or submitting person\"; and (/) by inserting after subsection (19) the following subsections: \"Issuance of certificate of completion and compliance (20) No certificate of completion and compliance shall be issued except by a principal submitting person in accordance with the time, manner and procedure for the issuance thereof as prescribed by this Act or any by-laws made thereunder. (21) Before the issuance of a certificate of completion and compliance, it shall be the duties and responsibilities of the principal submitting person to — (a) supervise the erection of the building to ensure that the erection is in conformity with the approved plans and the requirements of the provisions of this Act or any by-laws made thereunder; (b) ensure that the building has been duly constructed and completed in conformity with the approved plans and the requirements of this Act or any by-laws made thereunder and that all technical conditions imposed by the local authority has been duly complied with; and (c) ensure that the building is safe and fit for occupation. (22) Nothing contained in this Act shall affect the powers conferred on the local authority by this Act or any by-laws made thereunder pertaining to the erection and construction of a building for the purpose of ensuring that the erection and construction of such building are in conformity with the approved plans and the provisions of this Act or any by-law made thereunder. (23) If it appears to the local authority that a non- compliance with the approved plans and provisions of this Act or any by-laws made thereunder by the principal submitting person has occurred in the erection and construction of the building, the local authority may issue to the principal submitting person — (a) a notice in writing, requiring compliance within the period specified in the notice, as the local authority thinks fit, in order that the non- compliance be rectified; and (b) a directive in writing to withhold the issuance of the certificate of completion and compliance until such non-compliance has been rectified. (24) If the direction referred to in paragraph (23)(b) is not complied with by the principal submitting person, the local authority may itself cause any work to be executed or any measure to be taken if it considers such work or measure is necessary to rectify the non compliance. (25) The cost for executing such work or taking such measure as referred to in subsection (24) shall be borne by the owner of the building. (26) The amount of the costs to be so recovered by the local authority shall be certified by the local authority and the certificate of the local authority in this regard shall be conclusive proof of the matters stated therein and shall not be subject to any appeal or review in any court. (27) Any person who — (a) is not the principal submitting person but issues a certificate of completion and compliance; (b) issues a certificate of completion and compliance without the relevant forms as prescribed in any by-laws made under this Act; (c) issues a certificate of completion and compliance in contravention of a direction given by the local authority to withhold such issuance pending rectification of any non- compliance; (d) knowingly makes or produces or causes to be made any false or fraudulent declaration, certificate, application or representation of any form prescribed in any by-laws made under this Act; (e) uses any forged, altered or counterfeit declaration, certificate, application representation of any form prescribed in any by-laws made under this Act knowing the declaration, certificate, application representation have been forged, altered or counterfeited; or (f) occupies or permits to be occupied any building or any part thereof without a certificate of completion and compliance, . shall be liable on conviction to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding ten years or to both.\". Amendment of section 70A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 10A(\\7)(C) of the principal Act is amended by substituting for the words \"persons qualified to submit the same\" the words \"submitting persons\". Amendment of section 70B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 70B(3) of the principal Act is amended by substituting for the words \"qualified person\" appearing after the words \"other than the\" the words \"submitting person\". Amendment of section 75"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 75 of the principal Act is amended by substituting for the words \"person submitting the plan\" the word \"owner\" wherever it appears. Amendment of section 85A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 85A of the principal Act is amended —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) in the definition of \"engineer\", by substituting for the words \"professional engineer\" the words \"Professional Engineer\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(a), by substituting for the words \"first certificate of fitness for occupation\" the words \"certificate of completion and compliance\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (9) — Substitution of section 123"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"certificate of fitness for occupation\" the words \"certificate of completion and compliance\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/47/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"by the local authority\"."
+      }
+    }
+  ]
+}

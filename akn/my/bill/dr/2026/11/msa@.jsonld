@@ -59,89 +59,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
       "@type": "akn:clause",
       "eli:number": "10",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_d",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_4"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut: “Perwakilan fungsi dan kuasa Suruhanjaya 17a. (1) Suruhanjaya boleh, secara bertulis, mewakilkan mana-mana fungsi atau kuasanya di bawah undang-undang persaingan kepada—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Pengerusi;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana jawatankuasa;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana pegawai Suruhanjaya; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana pekerja Suruhanjaya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Pengerusi atau mana-mana jawatankuasa atau orang yang diwakilkan dengan fungsi atau kuasa di bawah subseksyen (1) hendaklah terikat untuk mematuhi dan mengambil kira segala syarat atau sekatan yang dikenakan oleh Suruhanjaya dan segala kehendak, tatacara dan perkara yang dinyatakan oleh Suruhanjaya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Apa-apa fungsi atau kuasa yang diwakilkan di bawah seksyen ini hendaklah dilaksanakan dan dijalankan atas nama dan bagi pihak Suruhanjaya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Perwakilan di bawah seksyen ini tidak menghalang Suruhanjaya daripada melaksanakan atau menjalankan sendiri mana-mana fungsi atau kuasa yang telah diwakilkan itu pada bila-bila masa.”. Pindaan seksyen 27"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut: “Perwakilan fungsi dan kuasa Suruhanjaya 17a. (1) Suruhanjaya boleh, secara bertulis, mewakilkan mana-mana fungsi atau kuasanya di bawah undang-undang persaingan kepada— (a) Pengerusi; (b) mana-mana jawatankuasa; (c) mana-mana pegawai Suruhanjaya; atau (d) mana-mana pekerja Suruhanjaya. (2) Pengerusi atau mana-mana jawatankuasa atau orang yang diwakilkan dengan fungsi atau kuasa di bawah subseksyen (1) hendaklah terikat untuk mematuhi dan mengambil kira segala syarat atau sekatan yang dikenakan oleh Suruhanjaya dan segala kehendak, tatacara dan perkara yang dinyatakan oleh Suruhanjaya. (3) Apa-apa fungsi atau kuasa yang diwakilkan di bawah seksyen ini hendaklah dilaksanakan dan dijalankan atas nama dan bagi pihak Suruhanjaya. (4) Perwakilan di bawah seksyen ini tidak menghalang Suruhanjaya daripada melaksanakan atau menjalankan sendiri mana-mana fungsi atau kuasa yang telah diwakilkan itu pada bila-bila masa.”. Pindaan seksyen 27"
       }
     },
     {

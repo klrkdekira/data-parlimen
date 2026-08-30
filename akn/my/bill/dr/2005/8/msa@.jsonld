@@ -67,34 +67,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/msa@/~cl_2__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/msa@/~cl_2__subpara_ii"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Eksais 1976 [Akta 176] dipinda dalam subseksyen 2( 1} dalam takrif \"nilai\" dengan menggantikan perenggan (b) dengan perenggan yang berikut: \"(b) berhubung dengan barang-barang yang diimport—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/msa@/~cl_2__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "nilai barang-barang itu bagi maksud duti kastam sebagaimana yang ditentukan mengikut Akta Kastam 1967;dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/msa@/~cl_2__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "amaun duti kastam, jika ada, yang kena dibayar atas barang-barang itu.\"."
+        "@value": "Akta Eksais 1976 [Akta 176] dipinda dalam subseksyen 2( 1} dalam takrif \"nilai\" dengan menggantikan perenggan (b) dengan perenggan yang berikut: \"(b) berhubung dengan barang-barang yang diimport— (i) nilai barang-barang itu bagi maksud duti kastam sebagaimana yang ditentukan mengikut Akta Kastam 1967;dan (ii) amaun duti kastam, jika ada, yang kena dibayar atas barang-barang itu.\"."
       }
     }
   ]

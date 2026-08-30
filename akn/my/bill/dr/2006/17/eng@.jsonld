@@ -1,0 +1,1167 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-17-2006",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Electronic Commerce Bill 2006"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "LEGAL"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "RECOGNITION OF ELECTRONIC MESSAGE Legal recognition of electronic message"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FULFILMENT OF LEGAL REQUIREMENTS BY ELECTRONIC MEANS Writing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires a seal to be affixed to a document, the requirement of the law is fulfilled, if the document is in the form of an electronic message, by a digital signature as provided under the Digital Signature Act 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the Minister may, by order in the Gazette, prescribe any other electronic signature that fulfills the requirement of affixing a seal in an electronic message. Witness"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires the signature of a witness on a document, the requirement of the law is fulfilled, if the document is in the form of an electronic message, by an electronic signature of the witness that complies with the requirements of section 9. Original"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires any document to be in its original form, the requirement of the law is fulfilled by a document in the form of an electronic message if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there exists a reliable assurance as to the integrity of the information contained in the electronic message from the time it is first generated in its final form; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the electronic message is accessible and intelligible so as to be usable for subsequent reference."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (l)(a) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the criteria for assessing the integrity of the information shall be whether the information has remained complete and unaltered, apart from the addition of any endorsement or any change which arises in the normal course of communication, storage and display; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the standard of reliability required shall be assessed in the light of the purpose for which the document was generated and in the light of all other relevant circumstances. Retention of document"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires any document to be retained, the requirement of the law is fulfilled by retaining the document in the form of an electronic message if the electronic message —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is retained in the format in which it is generated, sent or received, or in a format that does not materially change the information contained in the electronic message that was originally generated, sent or received;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is accessible and intelligible so as to be usable for subsequent reference; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "identifies the origin and destination of the electronic message and the date and time it is sent or received. Copy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires any document to be retained, served, sent or delivered in more than one copy, the requirement of the law is fulfilled, if the document is in the form of an electronic message, by retention, service, sending or delivery of the document in one copy. Prescribed form"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires any document to be in a prescribed form, the requirement of the law is fulfilled by a document in the form of an electronic message if the electronic message is —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "formatted in the same or substantially the same way as the prescribed form;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accessible and intelligible so as to be usable for subsequent reference; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "capable of being retained by the other person. Service and delivery"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires any document to be served, sent or delivered, the requirement of the law is fulfilled by the service, sending or delivery of the document by an electronic means if an information processing system is in place—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to identify the origin, destination, time and date of service, sending or delivery; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the acknowledgement of receipt, of the document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section does not apply to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any notice of default, notice of demand, notice to show cause, notice of repossession or any similar notices which are required to be served prior to commencing a legal proceeding; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any originating process, pleading, affidavit or other documents which are required to be served pursuant to a legal proceeding."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires information to be in writing, the requirement of the law is fulfilled if the information is contained in an electronic message that is accessible and intelligible so as to be usable for subsequent reference. Signature"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any law requires a signature of a person on a document, the requirement of the law is fulfilled, if the document is in the form of an electronic message, by an electronic signature which —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is attached to or is logically associated with the electronic message;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "adequately identifies the person and adequately indicates the person's approval of the information to which the signature relates; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is as reliable as is appropriate given the purpose for which, and the circumstances in which, the signature is required."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (l)(c), an electronic signature is as reliable as is appropriate if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the means of creating the electronic signature is linked to and under the control of that person only;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any alteration made to the electronic signature after the time of signing is detectable; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any alteration made to that document after the time of signing is detectable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Digital Signature Act 1997 [Act 562] shall continue to apply to any digital signature used as an electronic signature in any commercial transaction. Seal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any information shall not be denied legal effect, validity or enforceability on the ground that it is wholly or partly in an electronic form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any information shall not be denied legal effect, validity or enforceability on the ground that the information is not contained in the electronic message that gives rise to such legal effect, but is merely referred to in that electronic message, provided that the information being referred to is accessible to the person against whom the referred information might be used. Formation and validity of contract"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the formation of a contract, the communication of proposals, acceptance of proposals, and revocation of proposals and acceptances or any related communication may be expressed by an electronic message."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A contract shall not be denied legal effect, validity or enforceability on the ground that an electronic message is used in its formation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "COMMUNICATION OF ELECTRONIC MESSAGE Attribution of electronic message"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "( 1 ) An electronic message is that of the originator if it is sent by the originator himself."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "As between the originator and the addressee, an electronic message is deemed to be that of the originator if it is sent b y -"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who has the authority to act on behalf of the originator in respect of that electronic message; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an information processing system programmed by, or on behalf of, the originator to operate automatically."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "As between the originator and the addressee, the addressee is entitled to regard an electronic message as being that of the originator, and to act on that presumption, if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the addressee properly applies an authentication method agreed between the originator and the addressee for ascertaining whether the electronic message was that of the originator; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the electronic message as received by the addressee resulted from the actions of a person whose relationship with the originator or any agent of the originator enabled that person to gain access to an authentication method used by the originator to identify electronic message as its own."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (3) does not apply if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the addressee has received a notice from the originator that the electronic message is not that of the originator and has reasonable time to act accordingly; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_17__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the addressee knew or should have known that the electronic message was not that of the originator had he exercised reasonable care or used any authentication method agreed between the originator and the addressee. Contents of electronic.message"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an addressee receives an electronic message, the addressee is entitled to regard the electronic message as being what the originator intended to send, and to act on that presumption, unless the addressee knew or should have known, had he exercised reasonable care or used any agreed procedure, that the transmission resulted in any error in the electronic message as received. Each electronic message to be regarded separately"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an addressee receives an electronic message, the addressee is entitled to regard each electronic message received as a separate electronic message and to act on that presumption, unless the addressee knew or should have known, had he exercised reasonable care or used any agreed procedure, that the electronic message was a duplicate. Time of dispatch"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Unless otherwise agreed between the originator and the addressee, an electronic message is deemed sent when it enters an information processing system outside the control of the originator. Time of receipt"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Unless otherwise agreed between the originator and the addressee, an electronic message is deemed received—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the addressee has designated an information processing system for the purpose of receiving electronic messages, when the electronic message enters the designated information processing system; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the addressee has not designated an information processing system for the purpose of receiving electronic messages, when the electronic message comes to the knowledge of the addressee. Place of dispatch"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Unless otherwise agreed between the originator and the addressee, an electronic message is deemed sent from the originator's place of business, and —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the originator has more than one place of business, from the place of business that has the closest relationship with the transaction or where there is no place of business that has the closest relationship with the transaction, from the originator's principal place of business; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the originator does not have a place of business, from the originator's ordinary place of residence. Place of receipt"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Unless otherwise agreed between the originator and the addressee, an electronic message is deemed received at the addressee's place of business, and—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the addressee has more than one place of business, at the place of business that has the closest relationship with the transaction or where there is no place of business that has the closest relationship with the underlying transaction, at the addressee's principal place of business; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where the addressee does not have a place of business, at the addressee's ordinary place of residence. Acknowledgement of receipt"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section applies where, on or before sending an electronic message, or in the electronic message, the originator has requested or agreed with the addressee that receipt of the electronic message is to be acknowledged."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the originator has requested or agreed with the addressee that receipt of the electronic message is to be acknowledged, the electronic message is treated as though it has never been sent until the acknowledgement is received."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the originator has not agreed with the addressee that the acknowledgement be given in a particular form or by a particular method, an acknowledgement may be given by —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any communication by the addressee, automated or otherwise; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any conduct of the addressee sufficient to indicate to the originator that the electronic message has been received."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the acknowledgement has not been received by the originator within the time specified or agreed or, if no time has been specified or agreed, within a reasonable time, the originator may —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "give notice to the addressee stating that no acknowledgement has been received and specifying a reasonable time by which the acknowledgement must be received; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the acknowledgement is not received within the time specified in paragraph (a), give notice to the addressee to treat the electronic message as though it had never been sent and exercise any other rights he may have."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the originator receives the addressee's acknowledgement of receipt, it is presumed that the addressee received the related electronic message."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the received acknowledgement states that the related electronic message fulfills technical requirements, either agreed upon or set forth in applicable standards, it is presumed that those requirements have been fulfilled."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Electronic Commerce Act 2006."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to section 3, this Act shall apply to any commercial transaction conducted through electronic means including commercial transactions by the Federal and State Governments."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall not apply to the transactions or documents specified in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may by order amend, vary, delete from or add to the Schedule. Use not mandatory"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this Act shall make it mandatory for a person to use, provide or accept any electronic message in any commercial transaction unless the person consents to the using, providing or accepting of the electronic message."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person's consent to use, provide or accept any electronic message in any commercial transaction may be inferred from the person's conduct. Reference to other written laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The application of this Act shall be supplemental and without prejudice to any other laws regulating commercial transactions. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires —"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"electronic\" means the technology of utilizing electrical, optical, magnetic, electromagnetic, biometric, photonic or other similar technology; \"Minister\" means the Minister charged with the responsibility for domestic trade and consumer affairs; \"electronic message\" means an information generated, sent, received or stored by electronic means; \"originator\" means a person by whom or on whose behalf, the electronic message is generated or sent; \"addressee\" means a person who is intended by the originator to receive the electronic message; \"information processing system\" means an electronic system for generating, sending, receiving, storing or processing the electronic message; \"electronic signature\" means any letter, character, number, sound or any other symbol or any combination thereof created in an electronic form adopted by a person as a signature; \"commercial transactions\" means a single communication or multiple communications of a commercial nature, whether contractual or not, which includes any matters relating to the supply or exchange of goods or services, agency, investments, financing, banking and insurance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_V__cl_25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as are necessary or expedient for giving full effect to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1__para_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Section 2) This Act shall not apply to the following transactions or documents:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Power of attorney"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The creation of wills and codicils"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The creation of trusts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Negotiable instruments"
+      }
+    }
+  ]
+}

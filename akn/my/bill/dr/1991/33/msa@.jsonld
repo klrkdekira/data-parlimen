@@ -67,7 +67,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@",
       "schema:name": {
         "@language": "ms",
@@ -75,17 +74,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "1990 adalah dipinda dengan memasukkan, selepas sahaja seksyen 10, seksyen baru 10A yang berikut: \"Ketak- 10A. (1) Walau apa pun peruntukan- bolehkenaan peruntukan dalam Bahagian II, suatu syarikat cukai bagi aktiviti luar pesisir yang menjalankan suatu aktiviti perdagangan perniagaan luar pesisir yang adalah aktiviti luar pesisir. perdagangan luar pesisir tidaklah boleh dikenakan cukai bagi suatu tahun taksiran jika dalam tahun taksiran itu syarikat luar pesisir tersebut telah membayar suatu fee yang Akta 441 ditetapkan di bawah seksyen 151 Akta Syarikat Luar Pesisir 1990."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Suatu syarikat luar pesisir yang tidak dikenakan cukai di bawah subseksyen (1) hendaklah dalam tempoh tiga bulan (atau apa- apa tempoh lanjutan yang dibenarkan oleh Ketua Pengarah) dari permulaan suatu tahun taksiran, menfailkan dengan Ketua Pengarah suatu akuan berkanun dalam borang yang ditetapkan.\"."
+        "@value": "1990 adalah dipinda dengan memasukkan, selepas sahaja seksyen 10, seksyen baru 10A yang berikut: \"Ketak- 10A. (1) Walau apa pun peruntukan- bolehkenaan peruntukan dalam Bahagian II, suatu syarikat cukai bagi aktiviti luar pesisir yang menjalankan suatu aktiviti perdagangan perniagaan luar pesisir yang adalah aktiviti luar pesisir. perdagangan luar pesisir tidaklah boleh dikenakan cukai bagi suatu tahun taksiran jika dalam tahun taksiran itu syarikat luar pesisir tersebut telah membayar suatu fee yang Akta 441 ditetapkan di bawah seksyen 151 Akta Syarikat Luar Pesisir 1990. (2) Suatu syarikat luar pesisir yang tidak dikenakan cukai di bawah subseksyen (1) hendaklah dalam tempoh tiga bulan (atau apa- apa tempoh lanjutan yang dibenarkan oleh Ketua Pengarah) dari permulaan suatu tahun taksiran, menfailkan dengan Ketua Pengarah suatu akuan berkanun dalam borang yang ditetapkan.\"."
       }
     }
   ]

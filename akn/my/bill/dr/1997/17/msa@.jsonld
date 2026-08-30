@@ -1,0 +1,708 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Lembaga Pemulihan dan Penyatuan Tanah Negara (Penggantian dan Pembubaran) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Pemulihan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dan Penyatuan Tanah Negara (Penggantian dan Pembubaran) 1997 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (2), semua undang- undang bertulis, termasuk perundangan subsidiari, yang menyentuh atau bagi pelindungan Lembaga dan berkuatkuasa sebelum sahaja tarikh pembubaran hendaklah, sehingga dipinda atau dibatalkan oleh Menteri, terus berkuatkuasa dan ditafsirkan seolah-olah Akta ini tidak pernah diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa sebutan dalam mana-mana undang-undang bertulis tentang Lembaga, melainkan jika konteksnya menghendaki makna yang lain, hendaklah ditafsirkan sebagai sebutan tentang syarikat pengganti dan ungkapan- ungkapan yang memaksudkan sebutan sedemikian hendaklah ditafsirkan sewajarnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila Lembaga bubar, segala kuasa dan kewajipan Lembaga di bawah subseksyen 6(1) Akta Pemerbadanan hendaklah turun pada syarikat pengganti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (3), apa-apa ubahsuaian yang dinyatakan dalam subseksyen 6(2) Akta Pemerbadanan itu hendaklah terpakai kepada syarikat pengganti dan apa-apa sebutan tentang Lembaga dalam subseksyen itu, melainkan jika konteksnya menghendaki makna yang lain, hendaklah ditafsirkan sebagai sebutan tentang syarikat pengganti dan ungkapan-ungkapan yang memaksudkan sebutan sedemikian hendaklah ditafsirkan sewajarnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"hak\" ertinya segala hak, kuasa, keistimewaan dan kekebalan, sama ada sebenar, kontingen atau prospektif; \"harta\" termasuklah segala harta, sama ada alih atau tak alih, dan segala estet, kepentingan, isemen dan hak, sama ada di sisi ekuiti atau undang-undang dalam, pada atau daripada harta, hak dalam tindakan, wang dan nama baik; \"Lembaga\" ertinya Lembaga Penyatuan dan Pemulihan Akta 398. Tanah Persekutuan yang ditubuhkan di bawah Akta Lembaga Pemulihan dan Penyatuan Tanah Negara (Pemerbadanan) 1966; \"liabiliti\" ertinya segala jenis liabiliti, hutang, tanggungan, kewajipan dan obligasi (sama ada pada masa sekarang atau pada masa hadapan, sebenar atau kontingen, dan sama ada kena dibayar atau hendaklah dipatuhi atau dilaksanakan di Malaysia atau di tempat lain); \"Menteri\" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi pembangunan luar bandar; \"Perbadanan\" ertinya Menteri Kewangan yang Akta 375. diperbadankan melalui Akta Menteri Kewangan (Pemerbadanan) 1957; \"syarikat pengganti\" ertinya syarikat berhad menurut Akta 125. syer yang diperbadankan di bawah Akta Syarikat 1965, dan yang dinamakan oleh Menteri dalam perintah yang dibuat di bawah subseksyen 3(1), yang kepadanya harta, hak dan liabiliti Lembaga dipindahkan dan diletakhakkan di bawah subseksyen itu; \"tarikh peletakhakan\" ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen 3(1); \"terletakhak\", berhubungan dengan harta, termasuklah hak kepada harta masa hadapan atau kontingen dan hak perkembalian dan lebihan. Tanah Negara (Penggantian dan Pembubaran) II BAHAGIAN PELETAKHAKAN HARTA, DSB., PADA SYARIKAT PENGGANTI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan suatu tarikh peletakhakan dan pada tarikh itu segala harta, hak atau liabiliti Lembaga hendaklah menurut kuasa Akta ini berpindah kepada dan terletakhak pada suatu syarikat pengganti tanpa apa-apa pemindahhakan, penyerahhakan atau pemindahmilikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah menamakan syarikat pengganti dalam perintah yang dibuat di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap harta yang terletakhak menurut kuasa subseksyen (1) pada syarikat pengganti hendaklah terletakhak sedemikian pada syarikat itu dengan hakmilik atau kepentingan yang serupa sebagaimana harta itu telah terletakhak atau dipegang sebelum sahaja tarikh peletakhakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap hak dalam tindakan yang terletakhak menurut kuasa subseksyen (1) pada syarikat pengganti boleh, selepas tarikh peletakhakan, dituntut melalui guaman, didapatkan kembali atau dikuatkuasakan oleh syarikat pengganti itu atas namanya sendiri dan tidaklah perlu bagi syarikat pengganti itu atau bagi Lembaga untuk memberikan notis kepada orang yang terikat dengan hak dalam tindakan itu tentang peletakhakan yang dilaksanakan melalui subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap hak dan liabiliti yang terletakhak menurut kuasa subseksyen (1) pada syarikat pengganti boleh, pada dan selepas tarikh peletakhakan, dituntut melalui guaman, didapatkan kembali atau dikuatkuasakan oleh atau terhadap syarikat pengganti itu atas namanya sendiri dan tidaklah perlu bagi syarikat pengganti itu atau Lembaga untuk memberikan notis kepada orang yang hak atau liabilitinya tersentuh oleh peletakhakan di bawah subseksyen (1). 6 Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding undang-undang yang belum selesai oleh atau terhadap Lembaga yang berhubungan dengan apa-apa harta, hak atau liabiliti yang dipindahkan kepada dan terletakhak pada syarikat pengganti menurut kuasa subseksyen (1) boleh, pada dan selepas tarikh peletakhakan, diteruskan oleh atau terhadap syarikat pengganti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam hal hak dan liabiliti yang berbangkit di bawah mana-mana pinjaman yang terletakhak pada syarikat pengganti pada tarikh peletakhakan, syarikat pengganti itu boleh membuat apa-apa perkiraan atau perjanjian mengenai hak dan liabiliti sedemikian dengan Kerajaan atau mana-mana pihak ketiga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada dan selepas tarikh peletakhakan, apa-apa suratikatan, bon, perjanjian, suratcara dan perkiraan kerja yang berhubungan dengan mana-mana harta, hak dan liabiliti yang dipindahkan kepada dan terletakhak pada syarikat pengganti di bawah subseksyen (1) yang kepadanya Lembaga menjadi suatu pihak sebelum sahaja tarikh peletakhakan, sama ada secara bertulis atau tidak, dan sama ada atau tidak sedemikian sifatnya sehingga hak dan liabiliti di bawahnya boleh diserahhakkan oleh Lembaga, hendaklah mempunyai kesan seolah-olah syarikat itu telah menjadi suatu pihak kepada suratikatan, bon, perjanjian; suratcara dan perkiraan kerja itu. Pemegangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebagai akibat peletakhakan harta, hak dan liabiliti permulaan pada syarikat pengganti di bawah seksyen 3, syarikat Kerajaan dalam pengganti itu hendaklah menerbitkan apa-apa sekuriti syarikat syarikat itu sebagaimana yang diarahkan oleh Menteri pengganti. Kewangan dari semasa ke semasa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepada Perbadanan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepada mana-mana orang yang berhak kepada penerbitan sekuriti itu berikutan dengan penguntukan permulaan sekuriti itu kepada Perbadanan, Lembaga Pemulihan dan Penyatuan 7 Tanah Negara (Penggantian dan Pembubaran)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekuriti yang dikehendaki diterbitkan menurut seksyen ini hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "diterbitkan atau diuntukkan pada bila-bila masa dan atas apa-apa terma sebagaimana yang diarahkan oleh Menteri Kewangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempunyai nilai nominal sebagaimana yang diarahkan oleh Menteri Kewangan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "diterbitkan sebagai berbayar penuh dan dikira bagi maksud Akta Syarikat 1965 seolah-olah ia telah dibayar oleh sebab pembayaran nilai nominalnya kepada syarikat pengganti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri Kewangan boleh melupuskan mana-mana sekuriti yang diterbitkan atau mana-mana hak mengenai sekuriti yang diuntukkan pada mulanya kepada Perbadanan menurut seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa dividen atau jumlah wang lain yang diterima oleh Perbadanan sebagai hak pada, atas pelupusan atau selainnya berkaitan dengan, mana-mana sekuriti atau hak yang diperoleh menurut kuasa seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Disatukan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri Kewangan boleh, pada bila-bila masa, memperoleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sekuriti syarikat pengganti atau mana-mana subsidiari syarikat pengganti; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hak untuk memohon beli mana-mana sekuriti sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri Kewangan boleh melupuskan mana-mana sekuriti atau hak yang diperoleh di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa perbelanjaan yang dilakukan oleh Perbadanan berikutan dengan peruntukan seksyen ini hendaklah dikira sebagai pelaburan dan dibenarkan di bawah subperenggan 8(3)(a)(iv) Akta Prosedur Kewangan 1957."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa dividen atau jumlah wang lain yang diterima oleh Perbadanan sebagai hak pada, atas pelupusan atau selainnya berkaitan dengan, mana-mana sekuriti atau hak yang diperoleh di bawah seksyen ini hendaklah dibayar ke dalam Kumpulan Wang Disatukan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Duti setem tidaklah boleh dikenakan berkenaan dengan apa-apa pertambahan modal syarikat pengganti yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilaksanakan dengan penerbitan syer yang diuntukkan pada masa syarikat pengganti dipunyai pada keseluruhannya oleh Kerajaan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_5__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "diperakui oleh Perbendaharaan sebagai telah dilaksanakan dengan penerbitan syer yang dimohon beli oleh Menteri Kewangan di bawah perenggan (l)(b). Penjalanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri Kewangan boleh melantik mana-mana fungsi orang yang difikirkannya layak untuk bertindak sebagai Menteri Kewangan penamanya bagi maksud seksyen 4 atau 5 dan— melalui penama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sekuriti syarikat pengganti boleh diserahhakkan di bawah seksyen 4 kepada mana-mana penama Menteri Kewangan yang dilantik bagi maksud seksyen itu atau kepada mana-mana orang yang berhak kepada penerbitan sekuriti itu berikutan dengan penguntukan permulaan sekuriti itu kepada mana-mana penama itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana penama itu yang dilantik bagi maksud seksyen 5 boleh memperoleh sekuriti atau hak mengikut seksyen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang memegang mana-mana sekuriti atau hak sebagai penama Menteri Kewangan menurut kuasa subseksyen (1) hendaklah memegang dan menguruskannya atas apa-apa terma dan mengikut apa- apa cara sebagaimana yang diarahkan oleh Menteri Kewangan. Tanah Negara (Penggantian dan Pembubaran)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Menteri Kewangan mengarahkan sedemikian, pada bila-bila masa sebelum syarikat pengganti terhenti daripada dipunyai pada keseluruhannya oleh Kerajaan, apa-apa jumlah wang sebagaimana yang dinyatakan dalam arahan itu tetapi tidak melebihi keuntungan terhasil terkumpul Lembaga, hendaklah dibawa oleh syarikat itu kepada suatu rizab, yang dalam seksyen ini disebut \"rizab statutori\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Rizab statutori hanya boleh digunakan oleh syarikat pengganti untuk membayar syer belum terbit syarikat itu yang hendak diuntukkan kepada anggota-anggota syarikat itu sebagai syer bonus berbayar penuh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud mana-mana akaun statutori syarikat pengganti—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peletakhakan yang dikuatkuasakan menurut kuasa seksyen 3 hendaklah dikira sebagai suatu peletakhakan segala harta, hak dan liabiliti yang kepadanya Lembaga berhak dan tertakluk sebelum sahaja penghujung tahun perakaunan genap terakhir Lembaga, yang berakhir sebelum tarikh peletakhakan dan akan dikuatkuasakan kepada syarikat pengganti pada peletakhakan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "nilai mana-mana aset atau hak atau amaun mana- mana liabiliti Lembaga, yang dikira sebagai telah terletakhak pada syarikat pengganti itu menurut kuasa seksyen 3 hendaklah dikira sebagai nilai atau, mengikut mana-mana yang berkenaan, amaun yang diberikan kepada aset, hak atau liabiliti itu dalam penyata akaun yang disediakan oleh Lembaga, berkenaan dengan tahun perakaunan genap terakhir Lembaga, yang berakhir sebelum tarikh peletakhakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud mana-mana akaun statutori syarikat pengganti, amaun yang hendak dimasukkan berkenaan dengan mana-mana butiran hendaklah ditentukan seolah- olah apa-apa jua yang dilakukan oleh Lembaga, sama ada secara pemerolehan, penilaian semula atau pelupusan mana-mana aset atau penanggungan, penilaian semula atau pelepasan mana-mana liabiliti, atau dengan membawa apa-apa amaun kepada mana-mana peruntukan rizab, atau selainnya, telah dilakukan oleh syarikat pengganti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan peruntukan subseksyen (4), amaun yang hendak dimasukkan dari semasa ke semasa dalam mana-mana rizab syarikat pengganti sebagai merupakan keuntungan terhasil terkumpulnya hendaklah ditentukan seolah-olah apa-apa keuntungan yang dihasilkan dan disimpan oleh Lembaga telah dihasilkan dan disimpan oleh syarikat pengganti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebutan dalam seksyen ini tentang akaun statutori syarikat pengganti ialah sebutan tentang apa-apa akaun yang disediakan oleh syarikat pengganti bagi maksud Akta 125. mana-mana peruntukan Akta Syarikat 1965."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, \"tahun perakaunan genap\" ertinya sesuatu tahun perakaunan yang berakhir pada 31 Disember atau suatu tempoh yang ditentukan oleh Menteri Kewangan. III BAHAGIAN PERUNTUKAN BERHUBUNGAN DENGAN KAKITANGAN Kakitangan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Syarikat pengganti hendaklah menyetujuterima sebagai pekerjanya pada tarikh peletakhakan tiap-tiap orang yang sebelum sahaja tarikh itu ialah anggota kakitangan Lembaga dan yang telah diberi pilihan oleh Lembaga dan telah membuat pilihan untuk berkhidmat sebagai pekerja syarikat pengganti itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap orang yang telah membuat pilihan di bawah subseksyen (1) untuk berkhidmat sebagai pekerja syarikat pengganti hendaklah diambil kerja oleh syarikat pengganti itu atas terma dan syarat perkhidmatan yang tidak kurang baiknya daripada terma dan syarat perkhidmatan yang kepadanya dia berhak sebelum sahaja tarikh peletakhakan. Tanah Negara (Penggantian dan Pembubaran) IV BAHAGIAN PEMBUBARAN DAN PEMANSUHAN, PENERUSAN UNDANG-UNDANG, DSB."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan suatu tarikh, kemudian daripada ini disebut \"tarikh pembubaran\", bagi pembubaran Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh pembubaran, Lembaga hendaklah menjadi bubar dan Akta Lembaga Pemulihan dan Penyatuan Tanah Negara (Pemerbadanan) 1966 (kemudian daripada ini disebut \"Akta Pemerbadanan\") hendaklah menjadi mansuh."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Menghalang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa kesukaran atau anomali timbul kesukaran berkaitan dengan pelaksanaan Akta ini, Menteri boleh dan anomali. melalui perintah membuat apa-apa ubahsuaian kepada mana-mana peruntukan Akta ini sebagaimana yang didapatinya perlu bagi menghapuskan atau menghalang kesukaran atau anomali itu: Dengan syarat bahawa Menteri tidaklah boleh menjalankan kuasa yang diberikan oleh seksyen ini selepas habis tempoh tiga tahun dari tarikh pembubaran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/17/msa@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, \"ubahsuaian\" termasuklah pindaan, penambahan, pemotongan, penggantian, penyesuaian, perubahan, pengubahan dan ketakpakaian mana-mana peruntukan Akta ini."
+      }
+    }
+  ]
+}

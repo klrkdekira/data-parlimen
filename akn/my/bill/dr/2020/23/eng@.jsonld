@@ -162,58 +162,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 20 the following section: “Variation of registration 20a. (1) Where a registered person makes a notification under section 19, the Director General may vary the person’s registration or the particulars of the person’s registration from the date the registered person ceased to carry on business of providing any taxable service."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Where there is no notification made under section 19 and the Director General is satisfied that a registered person has ceased to provide any taxable service or has ceased to be liable to be registered under section 18, the Director General may vary the person’s registration or the particulars of the person’s registration from the date the registered person ceased to provide any taxable service."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Where the Director General is satisfied that on the day on which the person was registered—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "in the case of a person who was registered under section 13, the person was not liable to be registered under section 12, was not providing any taxable service or has ceased to provide any taxable service; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_5__subsec_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "in the case of a person who was registered under section 14, the person was not providing taxable service or has ceased to provide any taxable service, the Director General may vary the registration of such person or the particulars of registration of such person with effect from the date as determined by the Director General in the notification in writing to such person.”. Amendment of section 27"
+        "@value": "The principal Act is amended by inserting after section 20 the following section: “Variation of registration 20a. (1) Where a registered person makes a notification under section 19, the Director General may vary the person’s registration or the particulars of the person’s registration from the date the registered person ceased to carry on business of providing any taxable service. (2) Where there is no notification made under section 19 and the Director General is satisfied that a registered person has ceased to provide any taxable service or has ceased to be liable to be registered under section 18, the Director General may vary the person’s registration or the particulars of the person’s registration from the date the registered person ceased to provide any taxable service. (3) Where the Director General is satisfied that on the day on which the person was registered— (a) in the case of a person who was registered under section 13, the person was not liable to be registered under section 12, was not providing any taxable service or has ceased to provide any taxable service; or (b) in the case of a person who was registered under section 14, the person was not providing taxable service or has ceased to provide any taxable service, the Director General may vary the registration of such person or the particulars of registration of such person with effect from the date as determined by the Director General in the notification in writing to such person.”. Amendment of section 27"
       }
     },
     {
@@ -250,34 +202,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_9",
       "@type": "akn:clause",
       "eli:number": "9",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_9__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_9__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 34 the following section: “Refund by deduction of service tax 34a. (1) The Director General may direct any registered person to deduct the amount of refund against the amount of service tax to be paid from his return in section 26 if the registered person has been granted refund of service tax under paragraph 34(3)(b) or has made a deduction under section 23 or 39."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_9__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_9",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Where after the deduction has been made under subsection (1), there is any balance in the amount of refund, the balance shall be refunded to the registered person by the Director General."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_9__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~cl_9",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding subsection (2), the Director General may withhold the whole or any part of any amount refundable under subsection (2) to be credited to any following or subsequent taxable period and the Director General shall treat the amount credited as payment or part payment received from the registered person.”. Amendment of section 40"
+        "@value": "The principal Act is amended by inserting after section 34 the following section: “Refund by deduction of service tax 34a. (1) The Director General may direct any registered person to deduct the amount of refund against the amount of service tax to be paid from his return in section 26 if the registered person has been granted refund of service tax under paragraph 34(3)(b) or has made a deduction under section 23 or 39. (2) Where after the deduction has been made under subsection (1), there is any balance in the amount of refund, the balance shall be refunded to the registered person by the Director General. (3) Notwithstanding subsection (2), the Director General may withhold the whole or any part of any amount refundable under subsection (2) to be credited to any following or subsequent taxable period and the Director General shall treat the amount credited as payment or part payment received from the registered person.”. Amendment of section 40"
       }
     },
     {
@@ -405,121 +333,40 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_16",
       "@type": "akn:clause",
       "eli:number": "16",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_16__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 62 the following section: “Power to seal 62a. (1) Where by reason of its nature, size or amount it is not practicable to remove any goods, documents, articles or things seized under this Act, a proper officer of service tax may, by any means, seal the goods, documents, articles or things, or the places, premises, receptacles, packages or conveyances in which the goods, documents, articles or things are found."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_16__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_16",
-      "schema:text": {
-        "@language": "en",
-        "@value": "A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (1) or removes the goods, documents, articles, things, receptacles, packages or conveyances under seal, or attempts to do so, commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding one hundred thousand ringgit or to both.”. New sections 63a and 63b"
+        "@value": "The principal Act is amended by inserting after section 62 the following section: “Power to seal 62a. (1) Where by reason of its nature, size or amount it is not practicable to remove any goods, documents, articles or things seized under this Act, a proper officer of service tax may, by any means, seal the goods, documents, articles or things, or the places, premises, receptacles, packages or conveyances in which the goods, documents, articles or things are found. (2) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (1) or removes the goods, documents, articles, things, receptacles, packages or conveyances under seal, or attempts to do so, commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding one hundred thousand ringgit or to both.”. New sections 63a and 63b"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17",
       "@type": "akn:clause",
       "eli:number": "17",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 63 the following sections: “Additional powers 63a. (1) In addition to and without affecting the existing powers conferred under this Act, when escorting and guarding any person in custody, a proper officer of service tax shall have all the powers of a police officer of the rank of Corporal and below and the powers of a prison officer of the rank of Sergeant and below under the Prison Act 1995 [Act 537]."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17",
-      "schema:text": {
-        "@language": "en",
-        "@value": "For the purposes of this Act—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "where an order, a certificate or any other act is required to be given, issued or done by an officer in charge of a Police District under any written law, such order, certificate or act may be given, issued or done by a senior officer of service tax, and for such purpose, the place where the order, certificate or act was given, issued or done shall be deemed to be a Police District under his charge; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_17__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a proper officer of service tax shall have all the powers conferred on an officer in charge of a police station under any written law, and for such purpose the office of such officer shall be deemed to be a police station. Powers of enforcement, inspection and investigation 63b. For the purposes of this Act, a senior officer of service tax shall have all the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593] in relation to enforcement, inspection and investigation, and such powers shall be in addition to the powers provided for under this Act and not in derogation thereof.”. New section 65a"
+        "@value": "The principal Act is amended by inserting after section 63 the following sections: “Additional powers 63a. (1) In addition to and without affecting the existing powers conferred under this Act, when escorting and guarding any person in custody, a proper officer of service tax shall have all the powers of a police officer of the rank of Corporal and below and the powers of a prison officer of the rank of Sergeant and below under the Prison Act 1995 [Act 537]. (2) For the purposes of this Act— (a) where an order, a certificate or any other act is required to be given, issued or done by an officer in charge of a Police District under any written law, such order, certificate or act may be given, issued or done by a senior officer of service tax, and for such purpose, the place where the order, certificate or act was given, issued or done shall be deemed to be a Police District under his charge; and (b) a proper officer of service tax shall have all the powers conferred on an officer in charge of a police station under any written law, and for such purpose the office of such officer shall be deemed to be a police station. Powers of enforcement, inspection and investigation 63b. For the purposes of this Act, a senior officer of service tax shall have all the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593] in relation to enforcement, inspection and investigation, and such powers shall be in addition to the powers provided for under this Act and not in derogation thereof.”. New section 65a"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_18",
       "@type": "akn:clause",
       "eli:number": "18",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_18__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 65 the following section: “Evidence of agent provocateur admissible 65a. (1) Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, no agent provocateur shall be presumed to be unworthy of credit by reason only of his having attempted to abet or abetted the commission of an offence by any person under this Act if the attempt to abet or abetment was for the sole purpose of securing evidence against such person."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_18__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_18",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, and that the agent provocateur is a police officer of whatever rank or an officer of service tax, any statement, whether oral or in writing made to an agent provocateur by any person who subsequently is charged with an offence under this Act shall be admissible as evidence at his trial.”. New section 73a"
+        "@value": "The principal Act is amended by inserting after section 65 the following section: “Evidence of agent provocateur admissible 65a. (1) Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, no agent provocateur shall be presumed to be unworthy of credit by reason only of his having attempted to abet or abetted the commission of an offence by any person under this Act if the attempt to abet or abetment was for the sole purpose of securing evidence against such person. (2) Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, and that the agent provocateur is a police officer of whatever rank or an officer of service tax, any statement, whether oral or in writing made to an agent provocateur by any person who subsequently is charged with an offence under this Act shall be admissible as evidence at his trial.”. New section 73a"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_19",
       "@type": "akn:clause",
       "eli:number": "19",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_19__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_19__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 73 the following section: “Improperly obtaining deduction of service tax 73a. Any person who causes or attempts to cause the deduction of service tax under subsection 23(1), 34a(1) or 39(2) for himself or for any other person of any amount in excess of the amount properly so deductible for him or for that other person commits an offence and shall, on conviction, be liable—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_19__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_19",
-      "schema:text": {
-        "@language": "en",
-        "@value": "to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_19__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/eng@/~part_IX__cl_19",
-      "schema:text": {
-        "@language": "en",
-        "@value": "to a penalty of two times the amount deducted in excess of the amount properly so deductible.”. Amendment of section 82"
+        "@value": "The principal Act is amended by inserting after section 73 the following section: “Improperly obtaining deduction of service tax 73a. Any person who causes or attempts to cause the deduction of service tax under subsection 23(1), 34a(1) or 39(2) for himself or for any other person of any amount in excess of the amount properly so deductible for him or for that other person commits an offence and shall, on conviction, be liable— (a) to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both; and (b) to a penalty of two times the amount deducted in excess of the amount properly so deductible.”. Amendment of section 82"
       }
     },
     {

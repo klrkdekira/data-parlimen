@@ -1,0 +1,112 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-4-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Constitution (Amendment) Bill 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Constitution (Amendment) Act 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazette. Amendment of Article 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended in Article 43—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after Clause (2) the following Clause: “(2a) A person appointed as Prime Minister under paragraph (2)(a) shall not at any time hold the office of Prime Minister for periods amounting in the aggregate to more than ten years, either continuously or otherwise.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after Clause (4) the following Clauses: “(4a) If the Prime Minister appointed under Clause (2) has held his office for periods amounting in the aggregate to ten years, either continuously or otherwise, the Prime Minister shall cease to hold the office. (4b) If the Prime Minister ceases to hold office pursuant to Clause (4a), the members of the Cabinet shall cease to hold office. (4 c) The person who ceases to hold office as Prime Minister under Clause (4a) and the members of the Cabinet who cease to hold office under Clause (4b) shall continue to discharge the functions of their office until a new Prime Minister is appointed by virtue of paragraph (2)(a). (4 d) For the purpose of computing the periods amounting in the aggregate to ten years as referred to in Clause (4a)— (a) any period during which the person held the office of Prime Minister before the coming into operation of this provision shall be taken into account; and (b) any period during which the person performs the functions of Prime Minister following the dissolution of Parliament under Clause (2) of Article 55 shall not be taken into account.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (5), by inserting after the words “Clause (4)” the words “or Clause (4b)”."
+      }
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-43-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Employees Provident Fund (Amendment) Bill 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 55b of the principal Act is amended by inserting after subsection (2) the following subsection: “(3) This section shall not apply to a member of the Fund who has attained the age of fifty-five years who falls within the category of the member of the Fund under paragraph 54(1)(c) or (e) or paragraph 70c(1)(b) or (c).”. New Eighth Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the Seventh Schedule the following schedule: “Eighth SchEdulE [Sections 53d and 53E] ELECTION BY A MEMBER OF THE FUND TO TRANSFER HIS CONTRIBUTIONS Transfer of contributions of a member of the Fund into the account of another member of the Fund who is or are his lawful wife or wives (1) Subject to the criteria specified in columns (1) and (2) of the following table, a member of the Fund may elect to transfer his contributions at the rate specified in column (3) into the account of another member of the Fund who is or are his lawful wife or wives and their marriage has been registered under the laws of Malaysia. (2) The transfer of contributions may be ceased by the member of the Fund who elects to transfer his contributions upon the occurrence of any of the following circumstances: (a) dissolution of marriage between the member of the Fund who elects to transfer his contributions and the member of the Fund who receives the contributions transferred; (b) death of the member of the Fund who receives the contributions transferred. (1) (2) Criteria of a Criteria of a member of the member of contributions to be Fund who elects the Fund who transferred to transfer his receives the contributions contributions transferred The member of the The member of 2% Fund— the Fund is a Malaysian citizen 11% (a) is a Malaysian citizen or is not a Malaysian citizen; and (b) receives employer’s contributions on a monthly basis The total contributions which includes cents shall be rounded to the ”. next ringgit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Employees Provident Fund (Amendment) Act 2019."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Employees Provident Fund Act 1991 [Act 452], which is referred to as the “principal Act” in this Act, is amended in paragraph 4(1)(d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “eighteen” the word “twenty”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (i), by inserting before the word “five” the words “not more than”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ii), by inserting before the word “five” the words “not more than”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (iii), by inserting before the word “five” the words “not more than”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (iv)— Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “three” the words “not more than five”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “have” the words “knowledge or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “business” the words “, economy, social security”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_2__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “other relevant experience” the words “other relevant knowledge or experience”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1) as renumbered, by deleting the words “and shall be eligible for reappointment”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) A member of the Board referred to in subsection (1) shall be eligible for reappointment but no member shall hold office for a total term of more than twelve years.”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Quorum of the Board”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word “six” the word “eight”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 18(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (c); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e)— Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “three” the word “four”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “have” the words “knowledge or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “business” the words “, economy”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “other relevant experience” the words “other relevant knowledge or experience”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Preventing person from leaving Malaysia without paying contributions”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)— “(a) Where the chief executive officer has reason to believe that any person is about or is likely to leave Malaysia without paying any outstanding and due contributions under this Act, the chief executive officer may issue to the Director General of Immigration a certificate containing particulars of the person and the outstanding and due contributions with a request that the person be prevented from leaving Malaysia, unless he pays the outstanding and due contributions, or furnishes security to the satisfaction of the chief executive officer for its payment.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (a) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the words “banishment or immigration the Inspector General of Police or” the words “immigration,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the words “moneys due” the words “the outstanding and due contributions”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words “, a police officer”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “(3) Any person who, knowing that a certificate has been issued in respect of him under subsection (1), leaves Malaysia without paying all the outstanding and due contributions specified in the certificate or furnishing security to the satisfaction of the chief executive officer for its payment shall be guilty of an offence and shall, on conviction, be liable to imprisonment for a term not exceeding six months or to a fine not exceeding two thousand ringgit or to both. (4) For the purpose of this section, “contributions” includes any dividend or late payment charges due on any contributions.”. Amendment of section 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 43(8) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by inserting after the word “employee” the words “, whether or not”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the words “within the meaning of this Act” the words “, whether or not within the meaning of this Act,”. New Part Vb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part Va the following part: “Part Vb ELECTION BY MEMBER OF THE FUND TO TRANSFER HIS CONTRIBUTIONS Transfer of employee’s contributions 53c. The contributions of a member of the Fund affected by the transfer into the account of another member of the Fund under this Part shall be the employee’s contributions of the first mentioned member of the Fund. Election by member of the Fund to transfer his contributions 53d. (1) Notwithstanding section 51 and subject to the conditions and criteria as specified in the Eighth Schedule, a member of the Fund may elect to transfer his contributions at the rate specified in the Eighth Schedule into the account of another member of the Fund who is or are his lawful wife or wives. (2) A member of the Fund who elects to transfer his contributions shall make an application to the Board by submitting such particulars or documents, and in such manner, as determined by the Board. (3) After receiving an application under subsection (2), the Board shall transfer the contributions of the member of the Fund who elects to transfer his contributions into the account of another member of the Fund elected by him on a monthly basis or in accordance with such other period as determined by the Board subject to the availability of contributions in the account of the member of the Fund who makes the election. Cessation of transfer of contributions 53e. (1) Upon the occurrence of any circumstances specified in the Eighth Schedule in relation to a transfer of contributions, a member of the Fund who has elected to transfer his contributions under section 53d may apply to the Board to cease the transfer. (2) An application for cessation of transfer of contributions under subsection (1) shall be made to the Board by submitting such particulars or documents, and in such manner, as determined by the Board. (3) After receiving an application under subsection (2), the Board shall cease the transfer of the contributions. (4) Any amount that has been transferred into the account of the member of the Fund who receives the contributions transferred before the date of cessation of transfer of the contributions shall be retained in the account of such member of the Fund. Re-transfer of contributions 53f. Where contributions under section 53d have been erroneously transferred, the Board may re-transfer the contributions, including any dividend, into the account of the member of the Fund who has elected to transfer the contributions, subject to the amount standing to the credit of the member of the Fund who has erroneously received the contributions transferred.”. Amendment of section 55a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/43/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 55a(2) of the principal Act is amended by substituting for the words “Paragraphs 54(1)(c), (e) and subsection” the word “Subsection”. Amendment of section 55b"
+      }
+    }
+  ]
+}

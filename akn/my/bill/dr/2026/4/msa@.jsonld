@@ -1,0 +1,112 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-4-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perlembagaan (Pindaan) 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perlembagaan (Pindaan) 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta. Pindaan Perkara 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan dipinda dalam Perkara 43—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Fasal (2) Fasal yang berikut: “(2a) Seseorang yang dilantik sebagai Perdana Menteri di bawah perenggan (2)(a) tidak boleh pada bila-bila masa memegang jawatan Perdana Menteri selama tempoh yang pada agregatnya berjumlah lebih daripada sepuluh tahun, sama ada terus-menerus atau selainnya.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Fasal (4) Fasal yang berikut: “(4a) Jika Perdana Menteri yang dilantik di bawah Fasal (2) telah memegang jawatannya selama tempoh yang pada agregatnya berjumlah sepuluh tahun, sama ada terus-menerus atau selainnya, Perdana Menteri itu hendaklah terhenti memegang jawatan itu. (4b) Jika Perdana Menteri terhenti memegang jawatan menurut Fasal (4a), anggota-anggota Jemaah Menteri hendaklah terhenti memegang jawatan. (4c) Seseorang yang terhenti memegang jawatan sebagai Perdana Menteri di bawah Fasal (4a) dan anggota-anggota Jemaah Menteri yang terhenti memegang jawatan di bawah Fasal (4b) hendaklah terus menunaikan fungsi jawatan mereka sehingga seorang Perdana Menteri yang baharu dilantik menurut kuasa perenggan (2)(a). (4 d) Bagi maksud mengira tempoh yang pada agregatnya berjumlah sepuluh tahun sebagaimana yang disebut dalam Fasal (4a)— (a) apa-apa tempoh yang orang itu telah memegang jawatan Perdana Menteri sebelum permulaan kuat kuasa peruntukan ini hendaklah diambil kira; dan (b) apa-apa tempoh yang orang itu melaksanakan fungsi Perdana Menteri berikutan pembubaran Parlimen di bawah Fasal (2) Perkara 55 tidak boleh diambil kira.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (5), dengan memasukkan selepas perkataan “Fasal (4)” perkataan “atau Fasal (4b)”."
+      }
+    }
+  ]
+}

@@ -51,12 +51,7 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_d"
-      ],
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_a",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@",
       "schema:name": {
         "@language": "en",
@@ -74,37 +69,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": ", (b), (c) and (d) of subsection 1(1) the following: \"(a) for the first 50,000 persons at the rate of $60.00 per person; BILL"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "for the next 500,000 persons at the rate of $8.50 per person;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "for the next 500,000 persons at the rate of $9.00 per person;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/28/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "for the remainder at the rate of $9.50 per person,\"."
+        "@value": ", (b), (c) and (d) of subsection 1(1) the following: \"(a) for the first 50,000 persons at the rate of $60.00 per person; BILL (b) for the next 500,000 persons at the rate of $8.50 per person; (c) for the next 500,000 persons at the rate of $9.00 per person; (d) for the remainder at the rate of $9.50 per person,\"."
       }
     }
   ]

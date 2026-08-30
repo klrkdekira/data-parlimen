@@ -1,0 +1,186 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-19-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kumpulan Wang Simpanan Keretapi Tanah Melayu (Pembubaran) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kumpulan Wang Simpanan Keretapi Tanah Melayu (Pembubaran) 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"KTMB\" ertinya Keretapi Tanah Melayu Berhad; \"Kumpulan Wang\" ertinya Kumpulan Wang Simpanan Keretapi Tanah Melayu yang ditubuhkan di bawah Ord 21/1952. seksyen 3 Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952; \"Lembaga\" ertinya Lembaga pengurus yang ditubuhkan di bawah subseksyen 4(1) Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952; \"Menteri\" ertinya Menteri yang pada masa ini dipertanggungkan dengan tanggungjawab bagi pengangkutan. Pemansuhan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ordinan Kumpulan Wang Simpanan Keretapi Tanah dan Melayu 1952 adalah dimansuhkan dan Kumpulan Wang pemoubaran. yang ditubuhkan di bawahnya adalah dibubarkan. Pemindahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala harta alih dan aset yang sebelum sahaja mula harta. berkuatkuasanya Akta ini telah terletakhak pada Kumpulan Wang atau pada mana-mana orang bagi pihaknya hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada, KTMB. Pemindahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 7, semua wang yang ada wang. dalam Kumpulan Wang atau kena dibayar kepada Kumpulan Wang hendaklah, pada mula berkuatkuasanya Akta ini, dipindahkan kepada, dan diletakhakkan pada, KTMB. Kontrak yang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala suratikatan, bon, perjanjian, suratcara dan sedia ada. perkiraan kerja yang masih berkuatkuasa sebelum sahaja mula berkuatkuasanya Akta ini dan yang menyentuh apa- apa harta yang dipindahkan di bawah seksyen 4 dan 5, hendaklah mempunyai kuatkuasa dan kesan sepenuhnya terhadap atau untuk KTMB dan boleh dikuatkuasakan dengan sepenuhnya dan berkesan seolah-olah KTMB dan bukan Lembaga, Kumpulan Wang, Pentadbiran Keretapi Tanah Melayu itu, atau mana-mana orang atau badan yang bertindak bagi pihaknya, telah dinamakan di dalamnya atau telah menjadi suatu pihak kepadanya. TANAH MELAYU (PEMBUBARAN)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Segala amaun yang ada pada kredit setiap pendeposit"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Kumpulan Wang yang merupakan caruman kepada Kumpulan Wang itu oleh kedua-dua Pentadbiran Keretapi Tanah Melayu sebagai majikan dan pendeposit sejak 1hb Julai 1952 bersama-sama dengan apa-apa dividen, bonus dan bunga di atasnya hendaklah dipindahkan kepada Kumpulan Wang Simpanan Pekerja yang ditubuhkan di bawah subseksyen 24(1) Akta Kumpulan Wang Simpanan Pekerja 1991, dan hendaklah diuruskan mengikut peruntukan Akta itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana presiding sivil atau kausa tindakan yang belum selesai atau yang ada sebelum sahaja mula berkuatkuasanya Akta ini oleh atau terhadap Lembaga atau mana-mana orang yang bertindak bagi pihaknya boleh diteruskan atau dimulakan oleh atau terhadap KTMB sebagaimana ia boleh diteruskan atau dimulakan oleh atau terhadap Lembaga atau orang itu seolah-olah Akta ini telah tidak diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa rayuan yang dibawa atau apa-apa kebenaran untuk merayu yang dipohon pada atau selepas mula berkuatkuasanya Akta ini terhadap sesuatu keputusan sebelum mula berkuatkuasanya Akta ini dalam mana-mana presiding undang-undang yang kepadanya Lembaga atau mana-mana orang yang bertindak bagi pihaknya telah menjadi suatu pihak boleh dibawa oleh atau terhadap KTMB."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Semua kaedah yang dibuat di bawah seksyen 11"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ordinan Kumpulan Wang Simpanan Keretapi Tanah Melayu 1952 adalah dimansuhkan sebaik sahaja mula berkuatkuasanya Akta ini."
+      }
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-29-2014",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Pendidikan (Pindaan) 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pendidikan (Pindaan) 2014."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini disifatkan telah mula berkuat kuasa pada 1 Januari 2012. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_2__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pendidikan 1996 [Akta 550], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Ketua Pengarah” takrif yang berikut: “kolej vokasional” ertinya suatu institusi pendidikan yang ditubuhkan dan disenggarakan sepenuhnya oleh Menteri di bawah seksyen 33a; “Kurikulum Standard Kolej Vokasional” ertinya Kurikulum Standard Kolej Vokasional yang ditetapkan di bawah seksyen 33b;”; dan (b) dalam teks bahasa Inggeris, dalam takrif “upper secondary education”, dengan menggantikan noktah dengan koma bernoktah. Bab baru 5a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 33 Bab yang berikut: “Bab 5a – Kolej Vokasional Penubuhan dan penyenggaraan kolej vokasional 33a. (1) Tertakluk kepada peruntukan Akta ini, Menteri boleh menubuhkan dan menyenggarakan sepenuhnya kolej vokasional. (2) Kolej vokasional yang ditubuhkan di bawah subseksyen (1) hendaklah mengadakan pendidikan dan latihan teknik dan vokasional bagi murid yang sudah tamat mengikuti pendidikan menengah rendah. Kurikulum Standard Kolej Vokasional hendaklah digunakan oleh kolej vokasional 33b. Menteri hendaklah menetapkan suatu kurikulum, yang dikenali sebagai Kurikulum Standard Kolej Vokasional, yang hendaklah digunakan oleh semua kolej vokasional. Kerjasama dengan institusi, perbadanan atau organisasi perindustrian lain 33c. (1) Suatu kolej vokasional boleh bekerjasama dengan mana-mana institusi, perbadanan atau organisasi perindustrian bagi maksud— (a) melaksanakan Kurikulum Standard Kolej Vokasional; (b) meningkatkan kemahiran pendidikan dan latihan teknik dan vokasional murid; (c) melaksanakan pemindahan teknologi; dan (d) melaksanakan apa-apa pendidikan dan latihan teknik dan vokasional yang dianggap sesuai dan bermanfaat bagi kolej vokasional atau murid. (2) Mana-mana program atau latihan yang dijalankan dengan kerjasama suatu institusi, perbadanan atau organisasi perindustrian di bawah subseksyen (1) hendaklah menggunakan Kurikulum Standard Kolej Vokasional. Kuasa untuk membuat peraturan-peraturan berhubung dengan kolej vokasional 33d. Menteri boleh membuat peraturan-peraturan bagi melaksanakan peruntukan Bab ini dan tanpa menjejaskan keluasan kuasa itu, peraturan-peraturan itu boleh mengadakan peruntukan bagi— (a) Kurikulum Standard Kolej Vokasional yang hendaklah termasuk pengetahuan, kemahiran dan nilai yang dijangka akan diperoleh oleh murid pada akhir tempoh pendidikan vokasional; (b) penjalanan pengukuran atau penilaian dan pengendalian peperiksaan bagi kolej vokasional oleh Pengarah Peperiksaan; (c) penganugerahan sijil atau diploma; (d) disiplin pelajar, termasuk disiplin dan aktiviti murid semasa mengikuti kursus pengajian, latihan atau program di luar kolej vokasional; (e) tempoh semester kolej vokasional, hari dan waktu murid hendaklah hadir di kolej vokasional dan hari yang hendaklah dijadikan hari cuti oleh semua kolej vokasional atau mana-mana kolej vokasional; (f) penerimaan masuk murid ke kolej vokasional, penyimpanan daftar murid, had umur dan syarat yang membolehkan murid dikekalkan belajar di kolej vokasional atau dalam mana-mana kelas di kolej vokasional; (g) penubuhan, penyusunan, pengurusan, pengawalan dan pembubaran persatuan murid kolej vokasional; (h) apa-apa perkara lain sebagaimana yang difikirkan suai manfaat atau perlu oleh Menteri bagi maksud Bab ini.”. Pindaan seksyen 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “Pendidikan teknik” dengan perkataan “Pendidikan dan latihan teknik dan vokasional”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dan (2), dengan menggantikan perkataan “pendidikan teknik” dengan perkataan “pendidikan dan latihan teknik dan vokasional”. Pindaan seksyen 130"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 130(2) Akta ibu dipinda dengan memasukkan selepas perenggan (v) perenggan yang berikut: “(va) penubuhan, penyusunan, pengurusan, pengawalan dan pembubaran apa-apa majlis, badan atau jawatankuasa bagi pendidikan dan latihan teknik dan vokasional;”."
+      }
+    }
+  ]
+}

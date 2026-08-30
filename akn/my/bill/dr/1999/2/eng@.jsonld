@@ -1,0 +1,193 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-1999",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Diplomatic Privileges for Vienna Convention (Amendment) Bill 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Diplomatic Privileges (Vienna Convention) (Amendment) Act 1999. General amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Diplomatic Privileges (Vienna Convention) Act 1966 [Act 24/1996], which in this Act is referred to as the \"principal Act\", is amended by substituting for the words \"the Federation\" wherever they appear the word \"Malaysia\". Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 3(2) of the principal Act is amended by deleting the definition of \"head of mission\". Bill New sections 8 and 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 7 the following sections: 8. The Yang di-Pertuan Agong may provide that any tax, charge, duty or fee, imposed or collected under any written law in force in Malaysia or in any constituent State in Malaysia or any part thereof by the Government of Malaysia or of any such constituent State or by any Municipality, Town Board or other public authority in Malaysia, and payable by the Government of any State or by a head of mission or by a member of the diplomatic staff of the mission of that State, shall be remitted when, in the opinion of the Yang di-Pertuan Agong, such remission should be granted by reason of the treatment accorded to the Government of Malaysia by that State. 9. (1) Notwithstanding the provisions of any written law to the contrary it shall be lawful for land in any part of Malaysia or any interest in such land to be granted, alienated, leased or transferred to or owned or held by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any State—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purposes of the residence or offices of the head of mission of that State or of his diplomatic staff; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for such other diplomatic purposes as may be approved by the Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any State that is authorized or entitled to own or hold land or any interest in land in Malaysia under any treaty, convention or agreement to which Malaysia is a party, for any purpose specified in such treaty, convention or agreement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where by virtue of subsection (1), it is lawful for land or an interest in land to be granted, alienated, leased or transferred to or owned or held by any State, such land or interest may be granted, alienated, leased or transferred to or owned or held by that State in its own name or on (Amendment) its behalf to or by any person nominated for the purposes of this subsection either generally or in a particular case by writing addressed to the Minister by or on behalf of that State and that State or person, as the case may be, shall be registered accordingly as proprietor, lessee or otherwise, as the case may require, in any register kept u n d e r t h e p r o v i s i o n s o f t h e N a t i o n a l L a n d C o d e , t h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (2), a State may nominate a body corporate incorporated by or under the laws of Malaysia or of that State or an individual person nominated by name or by the title of any office held by him in the government of that State and where any person is nominated by the title of an office any right, power or obligation to which by virtue of his nomination he may be entitled or liable at the date of his vacating his office shall be deemed to pass to or be imposed on his successors for the time being in such office in all respects as if the holder of such office had been a corporation sole."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A nomination made under subsection (2) may at any time be cancelled and a fresh nomination made in the manner provided by that subsection and in that event any right, power or obligation to which by virtue of his nomination the person formerly nominated was at the date of the cancellation of his nomination entitled or liable shall be transferred to the person last nominated in such manner as may be provided by rules made under subsection (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of any dealing in any land or interest in any land vested in the name of a State, any person authorized for the purposes of this subsection either generally or in any particular case by writing addressed to the Minister by or on behalf of that State may, by virtue of such authorization execute all or any instruments and do any other act or thing for giving effect to any dealing with such land on behalf of that State in the same manner and to the like extent as if such Bill person had been authorized thereto by a valid power of attorney duly delivered under the provisions of the National Land Code, the Land Ordinance of Sabah or the Land Code of Sarawak, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may make rules for the purpose of carrying this section into effect.\". Repeal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Diplomatic and Consular Privileges Ordinance 1957 [P.M. 53/1957} is repealed."
+      }
+    }
+  ]
+}

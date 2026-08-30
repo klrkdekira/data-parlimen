@@ -1,0 +1,119 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-9-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Private Higher Educational Institutions (Amendment) Bill 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act may be cited as the Private Higher Educational institutions (amendment) act 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Private Higher Educational institutions act 1996 [Act 555], which is referred to as the “principal act” in this act, is amended in section 2 by inserting after the definition of “branch campus” the following definition: ‘ “Campus”, in relation to a private higher educational institution, means the registered premises of the private higher educational institution;’. Substitution of section 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal act is amended by substituting for section 47 the following section: “Activities of students or students’ society, organization, body or group 47. (1) Subject to subsection (2), a student of the private educational institution may become a member of any society, organization, body or group of persons, whether in or outside Malaysia, including any political party. (2) a student of the private educational institution shall not— (a) become a member of any unlawful society, organization, body or group of persons, whether in or outside Malaysia; (b) become a member of any society, organization, body or group of persons, not being a political party, which the Registrar General determines and specifies in writing to the chief executive of the private educational institution to be unsuitable to the interests and well-being of the students or the private educational institution; (c) stand for election to or hold any post in any society, organization, body or group of students in the Campus if the student holds any post in a political party; or (d) be involved in political party activities within the Campus. (3) a student of the private educational institution and any society, organization, body or group of students of the private educational institution which is established by, under or in accordance with the constitution, shall not express or do anything which may reasonably be construed as expressing support for or sympathy with or opposition to— (a) any unlawful society, organization, body or group of persons, whether in or outside Malaysia; or (b) any society, organization, body or group of persons which the Registrar General determines and specifies in writing to the chief executive of the private educational institution to be unsuitable to the interests and well- being of the students or the private educational institution. (4) Notwithstanding subsection (3), a student of the private educational institution shall not be prevented from— (a) making a statement on an academic matter which relates to a subject on which he is engaged in study or research; or (b) expressing himself on the subject referred to in paragraph (a) at a seminar, symposium or similar occasion that is not organized or sponsored by any unlawful society, organization, body or group of persons, whether in or outside Malaysia, or any society, organization, body or group of persons determined by the Registrar General under paragraph (3)(b) to be unsuitable to the interests and well-being of the students or the private educational institution. (5) The chief executive of the private higher educational institution shall comply with the directions of the Registrar General in regulating the activities of students or a society, an organization, a body or group of students of the private higher educational institution within the Campus. (6) any private higher educational institution which fails to comply with the directions of the Registrar General under subsection (5) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit.”. Savings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all disciplinary actions which are pending under subsection 47(4) of the principal act in relation to matters referred to in subparagraph 47(1)(a)(i) and paragraph 47(1c)(a) of the principal act against any student of the private higher educational institution shall, on the date of coming into operation of this act, be discontinued."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all actions which are pending under section 49 of the principal act in relation to matters referred to in paragraph 47(1c)(a) of the principal act against any organization, body or group of students of the private higher educational institution shall, on the date of coming into operation of this act, be discontinued."
+      }
+    }
+  ]
+}

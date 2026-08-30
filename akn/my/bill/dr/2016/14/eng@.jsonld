@@ -90,69 +90,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__subsec_2"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Town and Country Planning Act 1976 [Act 172], which is referred to as the “principal Act” in this Act, is amended by inserting after section 20a the following section: “Duty to seek advice 20b. (1) Without prejudice to section 20a, it shall be the duty of every Federal Government and State Government department or agency to seek advice from the Council on a development proposal relating to—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any coastal reclamation excluding reclamation for the construction of a jetty or beach rehabilitation; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_b__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_b__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any construction of a major national infrastructure including—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_b__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_b",
-      "schema:text": {
-        "@language": "en",
-        "@value": "airports, seaports, inland ports, railway transportation networks, highways, power stations, dams and toxic waste disposal sites; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_b__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__para_b",
-      "schema:text": {
-        "@language": "en",
-        "@value": "other infrastructure of national interest as determined by the Council."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "For the purpose of seeking the advice from the Council under subsection (1), the Federal Government and State Government department or agency shall submit to the Council the development proposal together with a social impact assessment report and other reports as determined by the Council.”. Amendment of section 21a"
+        "@value": "The Town and Country Planning Act 1976 [Act 172], which is referred to as the “principal Act” in this Act, is amended by inserting after section 20a the following section: “Duty to seek advice 20b. (1) Without prejudice to section 20a, it shall be the duty of every Federal Government and State Government department or agency to seek advice from the Council on a development proposal relating to— (a) any coastal reclamation excluding reclamation for the construction of a jetty or beach rehabilitation; and (b) any construction of a major national infrastructure including— (i) airports, seaports, inland ports, railway transportation networks, highways, power stations, dams and toxic waste disposal sites; and (ii) other infrastructure of national interest as determined by the Council. (2) For the purpose of seeking the advice from the Council under subsection (1), the Federal Government and State Government department or agency shall submit to the Council the development proposal together with a social impact assessment report and other reports as determined by the Council.”. Amendment of section 21a"
       }
     },
     {

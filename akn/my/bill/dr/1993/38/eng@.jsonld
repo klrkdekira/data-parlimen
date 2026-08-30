@@ -1,0 +1,197 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-38-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Promotion of Investments (Amendment) (No. 2) Bill 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Promotion of Investments (Amendment) (No. 2) Act 1993 and shall be deemed to have come into force on the 1st January 1993 and shall have effect for the year of assessment 1994 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), section 2 shall be deemed to have come into force on the 10th December 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Promotion of Investments Act 1986, which in"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "this Act is referred to as the \"principal Act\", is amended in section 29A—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (8) the following subsection: \"(8) For the purposes of this section and subject to subsection (9), the term \"capital expenditure\" has the meaning assigned to it under subsection (7) of section 29 and shall include capital expenditure incurred in respect of assets to be determined by the Minister with the concurrence in writing of the Minister of Finance by statutory order published in the Gazette\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (8) the following subsection: \"(9) Notwithstanding subsection (8), \"capital expenditure\" shall not include capital expenditure incurred on buildings (which are used as living accommodation for persons), plant and machinery where such buildings, plant or machinery are provided wholly or partly for the use of a director or an individual who is a member of the management, administrative or clerical staff.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended by of section 36. substituting for subsection (2) the following: \"(2) The amount of statutory income to be abated under subsection (1) shall be an amount ascertained by applying to the statutory income a rate which is equivalent to twenty-five per cent of export sales as bears to the total sales: Provided that where the basis period of a company for the year of assessment 1994 includes a period prior to 1st January 1993, the amount to be abated shall be the total of— (a) an amount ascertained by applying to the statutory income a rate which is equivalent to fifty per cent of export sales in the period prior to 1st January 1993 as bears to the total sales for the whole of the basis period; and (b) an amount ascertained by applying to the statutory income a rate which is equivalent to twenty-five per cent of export sales in the PROMOTION OF INVESTMENTS (AMENDMENT) (NO. 2) period after 31st December 1992 as bears to the total sales for the whole of the basis period: Provided further that where a company exports on or after 1st January 1994 and its basis period for the year of assessment 1995 includes a period prior to 1st January 1994, the company shall be given an abatement of its statutory income under subsection (1) and the amount to be abated under subsection (2) shall be an amount ascertained by applying to the statutory income a rate which is equivalent to twenty-five per cent of export sales in the period prior to 1st January 1994 as bears to the total sales for the whole of the basis period.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 38 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop at the end of paragraph (b) a semicolon and the word \"and\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: \"(c) a company in respect of exports made on or after 1st January 1994.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 39(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"five\" paragraph (b) the word \"three\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the full stop in sub- paragraph (b)(ii) a colon and inserting after subparagraph (ii) the following proviso: \"Provided that where the basis period of a company for the year of assessment 1994 includes a period prior to 1st January 1993, the amount of deduction to be made under subsection (1) shall be the total of— (A) an amount equal to five per cent of the gross income as ascertained under paragraph (2)(a) which is derived from the export of agricultural produce or the export by a trading company of products manufactured in Malaysia in the period prior to 1st January 1993; and (B) an amount equal to three per cent of the gross income as ascertained under paragraph (2)(a) which is derived from the export of agricultural produce or the export by a trading company of products manufactured in Malaysia in the period after 31st December 1992.\". New"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 40A. section 40 the following section: Non 40A. This Chapter shall not apply availabi- company in respect of exports made on or after lity of 1st January 1994.\". export allowance."
+      }
+    }
+  ]
+}

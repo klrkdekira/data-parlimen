@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-6-2011",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbekalan Tambahan (2010) 2011"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (2010)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2011. Perbelanjaan tambahan bagi tahun 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi tiga belas bilion seratus tujuh puluh juta sembilan ratus sembilan puluh tujuh ribu enam ratus ringgit (RM13,170,997,600) daripada Kumpulan Wang Disatukan bagi perbelanjaan tambahan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2010 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2010 [Akta A1361]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/6/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk B. 1 Parlimen B. 4 Suruhanjaya Pilihan Raya B. 5 Suruhanjaya Perkhidmatan Awam B. 6 Jabatan Perdana Menteri B. 7 Jabatan Perkhidmatan Awam B. 8 Jabatan Peguam Negara B. 9 Suruhanjaya Pencegahan Rasuah Malaysia B. 12 Peruntukan kepada Kumpulan Wang Terkanun B. 20 Kementerian Perusahaan Perladangan dan Komoditi B. 21 Kementerian Pertanian dan Industri Asas Tani B. 22 Kementerian Kemajuan Luar Bandar dan Wilayah B. 24 Kementerian Perdagangan Antarabangsa dan Industri B. 25 Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan B. 28 Kementerian Pengangkutan B. 30 Kementerian Sains, Teknologi dan Inovasi B. 32 Kementerian Wilayah Persekutuan dan Kesejahteraan Bandar B. 41 Kementerian Pelajaran B. 42 Kementerian Kesihatan B. 45 Kementerian Belia dan Sukan B. 47 Kementerian Penerangan, Komunikasi dan Kebudayaan B. 49 Kementerian Pengajian Tinggi B. 60 Kementerian Pertahanan B. 62 Kementerian Dalam Negeri JUMLAH 13,170,997,600"
+      }
+    }
+  ]
+}

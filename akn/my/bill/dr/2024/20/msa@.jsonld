@@ -107,21 +107,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan seksyen 34 dengan seksyen yang berikut: “Wakalah 34. (1) Pelantikan seseorang Peguam Syarie hendaklah dilafazkan oleh orang yang melantiknya dan diterima oleh Peguam Syarie yang dilantik sedemikian sebelum Peguam Syarie itu memulakan apa-apa tindakan bagi pihak orang yang melantiknya itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/20/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Pelantikan dan penerimaan pelantikan di bawah subseksyen (1) hendaklah dibuat dalam Borang MS 5 dan hendaklah difailkan di Mahkamah.”. Pindaan seksyen 100"
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 34 dengan seksyen yang berikut: “Wakalah 34. (1) Pelantikan seseorang Peguam Syarie hendaklah dilafazkan oleh orang yang melantiknya dan diterima oleh Peguam Syarie yang dilantik sedemikian sebelum Peguam Syarie itu memulakan apa-apa tindakan bagi pihak orang yang melantiknya itu. (2) Pelantikan dan penerimaan pelantikan di bawah subseksyen (1) hendaklah dibuat dalam Borang MS 5 dan hendaklah difailkan di Mahkamah.”. Pindaan seksyen 100"
       }
     },
     {

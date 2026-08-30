@@ -50,8 +50,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@/~cl_2__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@/~cl_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@/~cl_2__subsec_3"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@/~cl_2__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@",
       "schema:name": {
@@ -90,17 +89,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting, after subsection (1), the following new subsections (2) and (3): \"(2) Subsection (1) shall not have the effect of rendering applicable in respect of such provision any penalty for an offence with effect from a date other than the date immediately following the date of publication of this Act in the Gazette."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@/~cl_2__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any act or thing done or any money collected, ex^ended or invested by the Commission beCore the commencement of this Act that would have been lawful provisions of this Act had been in force at the time when it is done is hereby validated and declared to have been lawfully done or collected, expended or invested by it.\"."
+        "@value": "by inserting, after subsection (1), the following new subsections (2) and (3): \"(2) Subsection (1) shall not have the effect of rendering applicable in respect of such provision any penalty for an offence with effect from a date other than the date immediately following the date of publication of this Act in the Gazette. (3) Any act or thing done or any money collected, ex^ended or invested by the Commission beCore the commencement of this Act that would have been lawful provisions of this Act had been in force at the time when it is done is hereby validated and declared to have been lawfully done or collected, expended or invested by it.\"."
       }
     }
   ]

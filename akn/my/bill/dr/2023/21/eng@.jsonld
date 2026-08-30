@@ -1,0 +1,855 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-21-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_17"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Insolvency (Amendment) Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 48(1)(a)(ii) of the principal Act is amended by substituting for the words “not exceeding five thousand ringgit in the whole” the words “as may be prescribed”. Amendment of section 106"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 106 of the principal Act is amended by substituting for the words “ten thousand ringgit in value” the words “the value as may be prescribed,”. Amendment of section 107"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 107 of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) In this part “wage-earner” means a person who is or has been employed on a salary or wage of an amount as may be prescribed excluding any temporary allowance and whose other income, if any, exclusive of any pension he may receive, does not exceed the amount as may be prescribed and does not arise from any trade or business in the management of which he takes any part.”. Amendment of section 130"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 130 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “therewith” in the renumbered subsection (1) the words “or by electronic communication in accordance with the prescribed rules”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsection: “(2) Where a person has given his consent for a notice or other documents to be served on him through electronic communication, the notice or other documents shall be deemed to have been served at the time when the notice or other documents are transmitted to his account through the electronic communication.”. Amendment of Schedule A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule A to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph 1;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph 2 the following paragraph: “2. The Director General of Insolvency shall summon— (a) in the case of a debtor’s petition, the creditors mentioned in the bankrupt’s statement of affairs and the creditors who have filed the proof of debts, and the bankrupt; or (b) in the case of a creditor’s petition, the petitioner, the creditors mentioned in the bankrupt’s statement of affairs and the creditors who have filed the proof of debts, and the bankrupt, to a meeting of creditors by giving not less than seven days’ notice of the time and place thereof in the prescribed manner.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 4, by inserting after the words “at such place” the words “or in such manner including the use of remote communication technology”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “may at any time” the word “shall”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “, and shall do so”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 6— to the meeting mentioned in paragraph 2 shall be summoned by the Director General of Insolvency”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Meetings subsequent to the first meeting shall be summoned” the words “Any meeting of creditors subsequent"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the person summoning the meeting” the words “the Director General of Insolvency”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 7— Application of paragraphs 33b(2a)(e) and (f) to person adjudged bankrupt before the coming into operation of this Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “every meeting” the words “of creditors”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_14__para_f",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subsequent meeting” the words “meeting of creditors”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The new paragraphs 33b(2a)(e) and (f) as inserted by section 8 of this Act shall also apply to a person who has been adjudged bankrupt before the coming into operation of this Act. Application of section 33c to person adjudged bankrupt before the coming into operation of this Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 33c as amended by section 9 of this Act shall also apply to a person who has been adjudged bankrupt before the coming into operation of this Act subject to the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who has been adjudged bankrupt who has filed his statement of affairs shall be discharged automatically from bankruptcy—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if a person who has been adjudged bankrupt has paid the sum of money determined by the Director General of Insolvency, for the purposes of the administration of his estate, having regard to his financial ability; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if a person who has been adjudged bankrupt has complied with the requirement to render an account of moneys and property to the Director General of Insolvency under paragraph 38(1)(b) of the principal Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who has been adjudged bankrupt shall be suspended from the automatic discharge for a period not exceeding two years if the person who has been adjudged bankrupt has failed to comply with his duties and obligations under the principal Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purposes of automatic discharge, the Director General of Insolvency shall serve a notice of the automatic discharge on each creditor who has filed a proof of debts within twelve months after the coming into operation of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for the purposes of suspension of the automatic discharge, the Director General of Insolvency shall serve a notice of the suspension of the automatic discharge on the person who has been adjudged bankrupt and on each creditor who has filed a proof of debts within twelve months after the coming into operation of this Act. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding sections 15 and 16, any proceedings, actions or other matters required to be done under the principal Act which are still pending immediately before the coming into operation of this Act shall be continued or concluded under the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Insolvency (Amendment) Act 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Insolvency Act 1967 [Act 360], which is referred to as the “principal Act” in this Act, is amended in section 2 by inserting after the definition of “Registrar” the following definition: ‘ “remote communication technology” has the meaning assigned to it in the Courts of Judicature Act 1964 [Act 91];’. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “First and other meetings of creditors” the words “Meeting of creditors”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a general meeting of his creditors, in this Act referred to as the first meeting of creditors, shall” the words “, a meeting of creditors may”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “bankrupt’s property” the words “, and for any other purpose as may be prescribed”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “first and other meetings of creditors” the words “meeting of creditors”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 17(2) of the principal Act is amended by deleting the word “first”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “meeting of the creditors” the words “meeting of creditors”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “subsequent meeting” the words “of creditors”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the words “subsequent meeting” the words “of creditors”. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 25(1) of the principal Act is amended by substituting for the words “their first meeting or any adjournment thereof” the words “any meeting of creditors”. Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 27(1) of the principal Act is amended by substituting for the words “the first meeting of his creditors and any subsequent meeting of his creditors” the words “a meeting of creditors”. Amendment of section 33b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2a)— “(e) a bankrupt who is incapable of managing himself and his affairs due to any mental disorder, as certified by a psychiatrist from any government hospital; and (f) a bankrupt aged seventy years and above and in the opinion of the Director General of Insolvency, is incapable of contributing to the administration of his estate.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (d) the following paragraphs:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsection: “(7) For the purposes of paragraph (2 a)(e), “mental disorder” and “psychiatrist” have the meaning assigned to them in the Mental Health Act 2001 [Act 615].”. Amendment of section 33c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “Automatic discharge” the words “and suspension of automatic discharge”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) A bankrupt shall be— (a) discharged automatically from bankruptcy on the expiration of three years from the date of the submission of the statement of affairs under subsection 16(1)— (i) if the bankrupt has paid the sum of money determined by the Director General of Insolvency, for the purposes of the administration of the bankrupt’s estate, having regard to the financial ability of the bankrupt; and (ii) if the bankrupt has complied with the requirement to render an account of moneys and property to the Director General of Insolvency under paragraph 38(1)(b); or (b) suspended from the automatic discharge on the expiration of three years from the date of the submission of the statement of affairs under subsection 16(1) for a period not exceeding two years if the bankrupt has failed to comply with his duties and obligations under the Act.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)— “For the purposes of subparagraph (1)(a)(i), in determining the sum of money to be paid by the bankrupt,”; “(g) the debt provable in bankruptcy.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Contribution of the bankrupt’s provable debt referred to in paragraph (1)(a) shall be determined by the Director General of Insolvency and” the words"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by substituting for the full stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (f) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) For the purposes of subsection (2) and the administration of the bankrupt’s estate, the Director General of Insolvency may request the bankrupt to provide such further information as may be determined by the Director General of Insolvency including information in respect of the income, expected income and properties of the bankrupt.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a discharge under this section” the words “an automatic discharge under paragraph (1)(a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “the discharge to each of his creditors” the words “automatic discharge on each creditor who has filed a proof of debts”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subsection (1)” the words “paragraph (1)(a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “discharge under this section” wherever appearing the words “automatic discharge under paragraph (1)(a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (8) the following subsections: “(8a) For the purposes of suspension of an automatic discharge under paragraph (1)(b), the Director General of Insolvency shall serve a notice of the suspension of the automatic discharge on the bankrupt and on each creditor who has filed a proof of debts not less than six months before the expiration of the period referred to in paragraph (1)(b), but such notice shall not be served earlier than a year before the expiration of such period. (8b) The suspension of the automatic discharge shall be effective on the date stated in the notice under subsection (8a). (8c) Where the Director General of Insolvency suspends the automatic discharge under paragraph (1)(b), the bankrupt shall— (a) continue to fulfil his duties and obligations under this Act during that period; and (b) be discharged automatically at the end of the period of suspension.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (9)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “or” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_ii",
+      "@type": "akn:paragraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by substituting for the full stop at the end of the paragraph the words “; or ”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9__para_iii",
+      "@type": "akn:paragraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/21/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(c) on the expiration of the period referred to in paragraph (8c)(b).”. Amendment of section 48"
+      }
+    }
+  ]
+}

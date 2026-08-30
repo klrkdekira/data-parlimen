@@ -69,45 +69,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Free Zones Act 1990 [Act 438], which is referred to as the “principal Act” in this Act, is amended by inserting in Part IV before section 18 the following sections: “Powers of enforcement, investigation and inspection 17a. For the purposes of this Act, a senior officer of customs shall have all the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593] in relation to enforcement, investigation and inspection, and such powers shall be in addition to the powers provided for under this Act and not in derogation thereof. Additional powers 17b. (1) In addition to and without affecting the existing powers conferred under this Act, when escorting and guarding any person in custody, a proper officer of customs shall have all the powers of a police officer of the rank of Corporal and below and the powers of a prison officer of the rank of Sergeant and below under the Prison Act 1995 [Act 537]."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "For the purposes of this Act—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "where an order, a certificate or any other act is required to be given, issued or done by an officer in charge of a Police District under any written law, such order, certificate or act may be given, issued or done by a senior officer of customs, and for such purpose, the place where the order, certificate or act was given, issued or done shall be deemed to be a Police District under his charge; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a proper officer of customs shall have all the powers conferred on an officer in charge of a police station under any written law, and for such purpose the office of such officer shall be deemed to be a police station.”. Amendment of section 26"
+        "@value": "The Free Zones Act 1990 [Act 438], which is referred to as the “principal Act” in this Act, is amended by inserting in Part IV before section 18 the following sections: “Powers of enforcement, investigation and inspection 17a. For the purposes of this Act, a senior officer of customs shall have all the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593] in relation to enforcement, investigation and inspection, and such powers shall be in addition to the powers provided for under this Act and not in derogation thereof. Additional powers 17b. (1) In addition to and without affecting the existing powers conferred under this Act, when escorting and guarding any person in custody, a proper officer of customs shall have all the powers of a police officer of the rank of Corporal and below and the powers of a prison officer of the rank of Sergeant and below under the Prison Act 1995 [Act 537]. (2) For the purposes of this Act— (a) where an order, a certificate or any other act is required to be given, issued or done by an officer in charge of a Police District under any written law, such order, certificate or act may be given, issued or done by a senior officer of customs, and for such purpose, the place where the order, certificate or act was given, issued or done shall be deemed to be a Police District under his charge; and (b) a proper officer of customs shall have all the powers conferred on an officer in charge of a police station under any written law, and for such purpose the office of such officer shall be deemed to be a police station.”. Amendment of section 26"
       }
     },
     {
@@ -124,21 +89,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_4__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 30a the following section: “Evidence of agent provocateur admissible 30b. (1) Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, no agent provocateur shall be presumed to be unworthy of credit by reason only of his having attempted to abet or abetted the commission of an offence by any person under this Act if the attempt to abet or abetment was for the sole purpose of securing evidence against such person."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_4__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/21/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, and that the agent provocateur is an officer of customs or a police officer whatever his rank, any statement, whether oral or written, made to an agent provocateur by any person who subsequently is charged with an offence under this Act shall be admissible as evidence at his trial.”."
+        "@value": "The principal Act is amended by inserting after section 30a the following section: “Evidence of agent provocateur admissible 30b. (1) Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, no agent provocateur shall be presumed to be unworthy of credit by reason only of his having attempted to abet or abetted the commission of an offence by any person under this Act if the attempt to abet or abetment was for the sole purpose of securing evidence against such person. (2) Notwithstanding any rule of law or the provisions of this Act or any other written law to the contrary, and that the agent provocateur is an officer of customs or a police officer whatever his rank, any statement, whether oral or written, made to an agent provocateur by any person who subsequently is charged with an offence under this Act shall be admissible as evidence at his trial.”."
       }
     }
   ]

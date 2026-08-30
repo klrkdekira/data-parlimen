@@ -1,0 +1,358 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-14-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Tabung Angkatan Tentera and Tabung Bekas Perajurit (Amendment) Bill 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Tabung Angkatan Tentera and Tabung Bekas Perajurit (Amendment) Act 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Tabung Angkatan Tentera and Tabung Bekas"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Perajurit Act 1973, which in this Act is referred to as the \"principal Act\", is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"Angkatan Tentera\" wherever appearing therein except in the long title, short title, definition of \"Lembaga\" in section 2 and in the heading to Part II;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"and the Tabung Bekas Perajurit\", \"and Tabung Bekas Perajurit\" and \"or the Tabung Bekas Perajurit\" wherever appearing therein;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"General Manager\" wherever appearing therein the words \"Chief Executive\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"regular armed forces\" wherever appearing therein the words \"regular forces\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the of long title. long title the following long title: \"An Act to provide for the establishment of a fund to be known as the Tabung Angkatan Tentera for the primary purposes of providing superannuation and other benefits for contributors, and for the ancillary purposes of promoting the socio-economic development and welfare of, and providing other benefits for, retiring and retired personnel of the regular forces of Malaysia.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The short title of the principal Act is amended by of short title. deleting the words \"and Tabung Bekas Perajurit\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended by inserting of section 2. after the definition of \"serviceman\" the following definition: ' \"Tabung\" means the Tabung Angkatan Tentera established under section 3;'. Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The heading to Part II is amended by deleting the of heading to words \"AND TABUNG BEKAS PERAJURIT\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"Angkatan Tentera, the Tabung Bekas Perajurit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15(1) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "deleting the words \"Angkatan Tentera, Tabung Bekas Perajurit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Paragraph (ga) of section 22 of the principal Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is amended by deleting the words \"Bekas Perajurit\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the date of coming into force of this Act, the Tabung Bekas Perajurit established under section 3A of the principal Act shall be wound up and all the property rights and liabilities to which the said Tabung were entitled or subject to shall by virtue of this section become the property rights and liabilities of the Tabung Angkatan Tentera by operation of law without any necessity for any notice to be given to any party affected by such transfer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the date of coming into force of this Act, the corporations, companies and business and commercial activities and undertakings as well as any other property rights and liabilities whatsoever established, undertaken, acquired or accrued under the Tabung Bekas Perajurit shall by operation of law be deemed to have been established and undertaken by the Tabung Angkatan Tentera and shall continue to have effect under the said Tabung Angkatan Tentera."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The change of name of this Act shall not —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "affect the reference to the Tabung Angkatan Tentera or the Tabung Bekas Perajurit in any written law or in any instrument, deed, title, document, bond, agreement, or working arrangement subsisting immediately before the coming into force of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "affect any rights, privileges, liabilities, duties or obligations of the Lembaga Tabung Angkatan Tentera, or render defective any legal proceedings by or against it; and any legal proceedings that could have been continued or commenced by or against it prior to the coming into force of this Act may be so continued or commenced."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All subsidiary legislation made under the principal Act immediately before the coming into force of this Act shall upon the coming into force of this Act be deemed to have been made under the principal Act as amended by this Act, and shall continue to remain in force until amended or revoked under the said principal Act as amended by this Act, and for this purpose, any reference to the Tabung Bekas Perajurit is hereby deleted and be deemed to be a reference to the Tabung Angkatan Tentera and any reference to section 3A is hereby deleted and be deemed to be a reference to section 3. TABUNG BEKAS PERAJURIT (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended— of section 3."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsections: \"(1) There is hereby established a fund to be known as the \"Tabung Angkatan Tentera\" (hereinafter referred to as the \"Tabung\") for the following purposes: (a) the primary purposes of providing superannuation and other benefits including benefits under the scheme TABUNG BEKAS PERAJURIT (AMENDMENT) established under section 15A, t o persons specified under subsection (3)(a); and (b) the ancillary purposes of promoting the socio-economic development and welfare of persons specified under subsection (3)(b). (1A) The following shall be paid into the Tabung: (a) all contributions made as hereinafter provided and such other sums as are directed by this Act to be paid into the Tabung; (b) all moneys earned from investment or by the operation of any project, agency, scheme or enterprise financed from the Tabung and the Reserve Fund established under section 11; (bb) an annual grant from the Federal Consolidated Fund for the ancillary purposes and matters related thereto under subsection (l)(b); (c) all grants, donations, endowment, gifts, loans, contributions and bequests made to or in favour of the Tabung; (d) all sums from time to time falling due to the Tabung in respect of payments of any loan made from the Tabung and the interest payable in respect of any such loan; (e) monies earned or arising from any property, investment, mortgages, charges or debentures acquired by or vested in the Tabung; (f) all other sums which may in any manner become payable to or vested in the Tabung in respect of any matter incidental to its powers and duties.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2) by inserting after paragraph (ba) the following paragraphs: \"(bb) the socio-economic activities, welfare programmes and any other activities and benefits which would advance the socio-economic conditions of any retiring personnel or retired personnel, including loans to such personnel; (bc) defraying the expenditure incurred by the Lembaga or any other body including a corporation established under section 23, charged with the responsibility of undertaking the activities, programmes or benefits mentioned in paragraph (bb);\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: \"(3) For the purpose of this section— (a) superannuation and other benefits including benefits under the scheme established under section 15A shall be paid to— (i) servicemen; and (ii) other members of the regular forces of Malaysia who contribute to the Tabung; TABUNG BEKAS PERAJURIT (AMENDMENT) (b) ancillary benefits shall be paid to— (i) retiring personnel; and (ii) retired personnel, of the regular forces of Malaysia. (4) The Lembaga may only apply such monies from the Tabung for the purposes mentioned in subsections (l)(b), (2)(bb) and (bc) where the Lembaga has applied the monies referred to in subsection (1A)(bb) and where there are sufficient funds to discharge its obligations under section 11.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 3A of the principal Act is deleted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 5(3) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words \"Angkatan Tentera or the Tabung Bekas Perajurit all charges and expenses incurred under section 3 or 3A respectively\", the words \"all charges and expenses so incurred\"."
+      }
+    }
+  ]
+}

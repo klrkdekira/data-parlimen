@@ -1,0 +1,204 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-11-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Street, Drainage and Building (Amendment) Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Street, Drainage and Building (Amendment) Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply to Peninsular Malaysia and the Federal Territory of Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date as the Minister may, after consultation with the State Authority, appoint in relation to that State by notification in the Gazette and the Minister may, after consultation with the State Authority, appoint different dates for the coming into operation of this Act in different local authority areas or parts of local authority areas."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation in the Federal Territory of Kuala Lumpur, the Federal Territory of Putrajaya and the Federal Territory of Labuan on a date to be appointed by the Minister responsible for the Federal Territory of Kuala Lumpur, the Federal Territory of Putrajaya and the Federal Territory of Labuan by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (3), the State Authority may, by notification in the Gazette—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exempt any part of any local authority area from any of the provisions of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_1__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "extend any or all of the provisions of this Act to apply to the whole or any area or part of any area within the State which is not under any local authority. Amendment of section 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Street, Drainage and Building Act 1974 [Act 133], which is referred to as the “principal Act” in this Act, is amended in section 47—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five hundred ringgit” the words “two thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one thousand ringgit” the words “three thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: “Community service order (1a) Where a person is convicted of an offence under subsection (1), the court before which such person is convicted may, in addition to such fine that it may impose under subsection (1), make a community service order requiring the convicted person to perform community service not exceeding twelve hours in aggregate within the period not exceeding six months and for such number of hours each day not exceeding four as may be specified in such order. (1 b) Before making a community service order under subsection (1a), the court shall— (a) consider the physical and mental condition of the convicted person, if it is expedient for him to perform community service; and (b) explain to the convicted person in ordinary language— (i) the effect of the community service order; and (ii) the consequence of failure to comply with the community service order. (1c) Any officer or employee of the local authority authorized in writing in that behalf by the local authority shall, after a community service order is made under subsection (1a), determine the time and place for the performance of the community service and type of community service to be performed by the convicted person, and take reasonable steps to inform the convicted person ordered to perform the community service of such time and place, and the type of community service to be performed. (1d) During the period of the community service order, the performance of the community service by the convicted person shall be supervised by an officer or employee of the local authority authorized in writing in that behalf by the local authority. (1e) The supervision by the officer or employee of the local authority authorized in writing in that behalf by the local authority of the performance of the community service by the convicted person under subsection (1d) shall be in such manner as may be prescribed in any by-laws made under this Act. (1f) A local authority may make by-laws— (a) to prescribe the type of community service to be performed under a community service order; (b) to prescribe the manner of supervision of the performance of the community service under a community service order. (1g) Any person who fails to comply with the community service order made under subsection (1a) shall be guilty of an offence and shall be liable on conviction to a fine not less than two thousand ringgit and not exceeding ten thousand ringgit. (1 h) Where a community service order under subsection (1a) is made against a child found guilty of an offence under subsection (1), the provisions relating to community service order under the Child Act 2001 [Act 611] shall apply.”. Amendment of section 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 48 of the principal Act is amended by inserting before the definition of “garden refuse” the following definitions: ‘ “child” means a person who is under the age of eighteen years; “community service” means an unpaid work, service or course of instructions performed or undertaken for the purpose of maintaining or improving cleanliness of a public place;’. New section 125a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 125 the following section: “Power of supervision of community service 125 a. An officer or employee of the local authority authorized in writing in that behalf by the local authority shall have the power to supervise the performance of any community service under a community service order made under subsection 47(1a).”."
+      }
+    }
+  ]
+}

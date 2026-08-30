@@ -1,0 +1,196 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-44-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Legal Aid (Amendment) Bill 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Legal Aid (Amendment) Act 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Legal Aid Act 1971, which in this Act is referred"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to as the \"principal Act\", is amended in section 2 in the definition of \"judge\" by inserting after the words \"High Court\" the words \", the Court of Appeal or the Federal Court, as the case may be\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 15(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b)(i) by substituting for the words \"one thousand five hundred\" the words \"two thousand\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b)(ii) by substituting for the word \"two\" the word \"three\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 16(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b)(i) .by substituting for the words \"one thousand five hundred\" and the word \"eight\" the words \"two thousand\" and the word \"thirteen\" respectively; and 2 BILL"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (b)(ii) by substituting for the word \"two\" and the words \"seven thousand five hundred\" the word \"three\" and the words \"twelve thousand\" respectively. New section"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "16B. 16A the following section: \"Registra- 16s. Any person who has qualified for legal tion fee. aid under section 15, 16 or 16A shall be required to pay to the Director a sum of two ringgit as registration fee.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 17(1) of the principal Act is amended— of section 17."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"disposable capital\"— (i) by substituting for the word \"one\" appearing in paragraph (v) the word \"two\"; and (ii) by substituting for the word \"one\" appearing in paragraph (vi) the word \"three\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of \"disposable income\"— (i) by substituting for the words \"four hundred\", the words \"one thousand two hundred and fifty\" and the words \"one thousand\" appearing in paragraphs (i), (ii) and (iii) the words \"one thousand\", the words \"two thousand\" and the words \"one thousand five hundred\" respectively; (ii) by deleting the word \"and\" appearing at the end of paragraph (ii); (iii) by substituting for the full stop appearing at the end of paragraph (iii) the word \"; and\"; and (iv) by inserting after paragraph (iii) the following paragraph: \"(iv) the amount paid by the applicant and the spouse of the applicant towards the Employees Provident Fund and Employees Social Security.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/44/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Paragraph 29(4)(b) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"one\" the word \"two\"."
+      }
+    }
+  ]
+}

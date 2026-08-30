@@ -1,0 +1,533 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-4-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Free Zones (Amendment) Bill 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) When any information or document given or produced under subsection (1) is proved to be untrue or incorrect in whole or in part it shall be no defence to allege that the information or document or any part of the information or document was furnished inadvertently or without criminal or fraudulent intent, or was misinterpreted or not fully interpreted by an interpreter provided by the person who has given such information or produced such document.”. Amendment of section 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 19 of the principal Act is amended by substituting for the words “not exceeding five thousand ringgit” the words “not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both”. New section 20a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 20 the following section: “Access to shop or warehouse, or other building, place or premises 20a. (1) Any senior officer of customs shall for the purposes of this Act at all times have full and free access to any shop or warehouse, or other building, place or premises in the free zone where any person carries on his activity. (2) Where any senior officer of customs enters upon any shop or warehouse, or other building, place or premises in accordance with this section, he may— (a) require any person to produce any goods, document or thing which relates to the person’s activity and any documents and records which are required to be kept under section 10a; (b) examine any goods, document or thing; (c) seize and detain any goods, document or thing if in his opinion it may afford evidence of the commission of any offence under this Act or any regulations made thereunder; (d) require any person to answer any question relating to any goods, document or thing; (e) require any container, envelope or other receptacle in the shop or warehouse, or other building, place or premises to be opened; (f) at the risk and expense of the person carrying out activity in the shop or warehouse, or other building, place or premises, open and examine any package, or any goods or material in the shop or warehouse, or other building, place or premises; or (g) take samples of any goods or material and make copies or extracts of any document, if he deems it necessary. (3) Where any senior officer of customs is unable to obtain full and free access to the shop or warehouse, or other building, place or premises under subsection (1) or to any container, envelope or other receptacle contained therein, he may, at any time, enter the shop or warehouse, or other building, place or premises and open the container, envelope or other receptacle and by force, if necessary. (4) Any person who refuses to permit any senior officer of customs to enter upon any shop or warehouse, or other building, place or premises in accordance with this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 21 of the principal Act is amended by substituting for the words “shop, warehouse or other building or place”, “shop, warehouse, building or place” and \"place\" wherever appearing the words “shop or warehouse, or other building, place or premises”. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 22 of the principal Act is amended by substituting for the words “shop, warehouse or other building or place” wherever appearing the words “shop or warehouse, or other building, place or premises”. Amendment of section 23a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsections 23a(1) and (2) of the principal Act are amended by inserting after the words “his powers under sections” the word “20a,”. Substitution of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 33 the following section: “Compounding of offences 33. (1) Any senior officer of customs may, with the written consent of the Public Prosecutor, compound any offence committed by any person under this Act and prescribed by the Minister to be a compoundable offence by making a written offer to the person suspected of committing the offence to compound the offence on payment to the Director General of an amount of money not exceeding fifty per centum of the amount of the maximum fine for that offence within the time specified in the offer. (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted, and if the amount specified in the offer is not paid within the time specified in the offer or within any extended period as the Director General may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (3) Where an offence has been compounded under subsection (1), no prosecution shall after that be instituted in respect of the offence against the person to whom the offer to compound was made. (4) Upon payment of such compound under subsection (1), any property seized shall be released and no further proceedings shall be taken against such property except that if the property seized consists of goods the import of which into Malaysia is absolutely or conditionally prohibited under any written law and no import licence has been issued, such goods or the amount secured under paragraph 27(1)(a) or (b) or the amount realized by sale under paragraph 27(1)(c), as the case may be, shall be forfeited. (5) All sums of money received by the Director General under this section shall be paid into and form part of the Federal Consolidated Fund.”. New section 41a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 41 the following section: “Recovery of duty or tax as a civil debt 41a. (1) Without prejudice to any other remedy, any tax, duty or payment payable under this Act may be recovered as a civil debt due to the Government of Malaysia, or where the customs duty is a duty of a category assigned to the State by Article 112C of the Federal Constitution, to the Government of the State. (2) In any proceedings to recover any other remedy, any tax, duty or payment under subsection (1), the production of a certificate signed by the Director General— (a) stating that any other remedy, any tax, duty or payment shown in the certificate as payable, in any assessment or notice made under this Act from a person named in the certificate; and (b) giving the address of the person and purporting to be a copy of or an extract from any notice of assessment, shall be conclusive evidence of any other remedy, any tax, duty or payment as payable in any assessment or notice and shall be sufficient authority for the court to give judgement for that amount.”. Saving provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The amendment to sections 14 and 15 of the principal Act in sections 7 and 8 of this Act shall not affect—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any erection of building or other structures in a free commercial zone before the date of coming into operation of this Act which on the coming into operation of this Act is still under construction;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person who has taken, held or enjoyed movable and immovable property of every description in a free commercial zone before the date of coming into operation of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person who has been residing within a free commercial zone before the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the date of coming into operation of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such building or other structures mentioned in paragraph (1)(a) may be continued and completed as if section 14 of the principal Act had not been amended by this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such person mentioned in paragraph (1)(b) may continue to take, hold or enjoy such movable and immovable property, as if section 14 of the principal Act had not been amended by this Act, subject to such conditions as imposed by the Authority; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such person mentioned in paragraph (1)(c) may continue to reside within such free commercial zone, as if section 15 of the principal Act had not been amended by this Act, subject to such conditions as imposed by the Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any compounding of offences under the existing section 33 of the principal Act which is pending before the date of coming into operation of this Act shall, after the date of coming into operation of this Act, be continued and concluded as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Free Zones (Amendment) Act 2019."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Free Zones Act 1990 [Act 438], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)— ‘ “owner” in relation to goods, includes any person being or holding himself out to be the owner, importer, exporter, consignee, agent or person in possession of, or beneficially interested in, or having any control of, or power of disposition over, the goods; “Pangkor” shall have the same meaning assigned to it under section 163q of the Customs Act 1967;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “commercial activity”, by substituting for the words “, relabelling and transit” the words “and relabelling”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “operation” the following definitions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “principal customs area”, by substituting for the words “and Tioman” the words “, Tioman and Pangkor”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) For the purpose of the definition of “owner”, “exporter” and “importer” shall have the same meaning assigned respectively to them under section 2 of the Customs Act 1967.”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section 7 as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) Custom duty, if any, on any goods deemed to be exported from or imported into Malaysia shall be payable.”. New sections 8a and 8b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 8 the following sections: “Declaration to give full and true account 8a. Any person who makes any declaration under this Act or any regulations made thereunder for the purpose of obtaining approval from the proper officer of customs or proper officer of the Authority shall give a full and true account relating to— (a) the number and description of the packages; (b) the description of the goods; (c) the weight, measure or quantity of the goods; (d) the value of all of the goods; and (e) the country of origin of the goods. Goods unaccounted for 8b. (1) Where in any shop or warehouse, or other building, place or premises in a free zone the quantity of any goods which ought to be kept there, is found by a proper officer of customs to be short and the deficiency is not accounted for to the satisfaction of such officer, the owner of such goods or the operator of such shop or warehouse, or other building, place or premises shall, until the contrary is proved, be deemed to have illegally removed such goods from the free zone into the principal customs area, and shall, until the contrary is proved, be deemed to have knowledge of the removal. (2) Where the goods deemed illegally removed from the free zone into the principal customs area under subsection (1) are subject to taxes, duties or payment under any written law, the owner of such goods or the operator of such shop or warehouse, or other building, place or premises shall be liable to pay to the proper officer of customs such taxes, duties or payment on demand being made within six years from the date on which such taxes, duties or payment was payable or the deficient taxes, duties or payment was paid unless the owner of such goods or the operator of such shop or warehouse, or other building, place or premises can show to the satisfaction of the Director General that such deficiency has been caused by unavoidable leakage, breakage or other accident. (3) Nothing in subsection (2) prevents the Director General from making a demand at any time after six years whenever any payment of taxes, duties or payment is not paid or short paid due to any form of fraud or default committed by or on behalf of any person. (4) For the purposes of this section, “operator” means any person who has been given the approval under the regulations made under this Act to carry out any activity in a free zone.”. Substitution of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 9 the following section: “Penalty 9. (1) Any person who contravenes section 5, 6a or 8 shall be guilty of an offence and shall, on conviction, be liable— (a) for the first offence, to a fine of not less than ten times the value of the goods or fifty thousand ringgit, whichever is the greater amount, and of not more than twenty times the value of the goods or five hundred thousand ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding five years or to both; and (b) for a second offence or any subsequent offence, to a fine of not less than twenty times the value of the goods or one hundred thousand ringgit, whichever is the greater amount, and of not more than forty times the value of the goods or one million ringgit, whichever is the greater amount, or to imprisonment for a term not exceeding seven years or to both. (2) If the value of the goods under subsection (1) cannot be ascertained, the penalty may amount to a fine of not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.”. New section 10a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 10 the following section: “Record of activity 10a. (1) Every person carrying out any activity in a free zone who has possession of documents and records pertaining to the activity of importation, exportation or manufacturing of goods, shall preserve for a period of seven years all documents and records relating to such activity. (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended by deleting the word “industrial” wherever appearing. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the word “industrial”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by deleting the word “industrial”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “if so directed by the Minister shall present to him” the words “shall furnish to the Minister”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “prescribe” the word “direct”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) The reports and information referred to in subsection (2) shall be in such form as the Minister may specify.”. Amendment of section 18"
+      }
+    }
+  ]
+}

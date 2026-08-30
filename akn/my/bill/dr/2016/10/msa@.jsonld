@@ -1,0 +1,469 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-2016",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_14"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pengangkutan Jalan (Pindaan) 2016"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 52 Akta ibu dipinda dengan memotong perkataan “atau warden lalu lintas” di mana-mana jua terdapat. Pindaan seksyen 53a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 53a(1) Akta ibu dipinda dalam teks bahasa Inggeris, dengan menggantikan perkataan “shall” dengan perkataan “may”. Pindaan seksyen 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 65 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), (3), (5), (6) dan (7), dengan memasukkan selepas perkataan “Perbadanan Putrajaya” di mana-mana jua terdapat perkataan “, Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(ca) Yang Dipertua Majlis Perbandaran atau Pengerusi Majlis Perbandaran, jika yang menyebabkan kenderaan motor itu dialih ialah seorang warden lalu lintas atau mana-mana pegawai dalam perkhidmatan Majlis Perbandaran;”. Pindaan seksyen 120"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 120(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula perenggan (cc) sebagai perenggan (ca); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (ca) yang dinomborkan semula itu perenggan yang berikut: “(cb) Yang Dipertua Majlis Perbandaran atau Pengerusi Majlis Perbandaran atau pegawai Majlis Perbandaran yang khusus diberi kuasa secara bertulis dengan nama atau jawatan bagi maksud itu oleh Yang Dipertua Majlis Perbandaran atau Pengerusi Majlis Perbandaran;”. Pindaan seksyen 123"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 123 Akta ibu dipinda dalam subseksyen (1), dengan menggantikan perkataan “atau Perbadanan Putrajaya” dengan perkataan “, Perbadanan Putrajaya, Yang Dipertua Majlis Perbandaran atau Pengerusi Majlis Perbandaran”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pengangkutan Jalan (Pindaan) 2016."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Jalan 1987 [Akta 333], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Pengarah” takrif yang berikut: ‘ “Pengerusi Majlis Perbandaran” ertinya Pengerusi sesuatu Majlis Perbandaran yang disebut dalam seksyen 2 Ordinan Kerajaan Tempatan 1961 [Sabah No. 11 tahun 1991] dan subseksyen 2(1) Ordinan Pihak Berkuasa Tempatan 1996 [Sarawak Bab 20] dan termasuklah Timbalan Pengerusi Majlis Perbandaran itu;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “warden lalu lintas”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atau Perbadanan Putrajaya” dengan perkataan “, Perbadanan Putrajaya, Yang Dipertua Majlis Perbandaran atau Pengerusi Majlis Perbandaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan noktah dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “warden lalu lintas” takrif yang berikut: ‘ “Yang Dipertua Majlis Perbandaran” ertinya Presiden sebagaimana yang ditakrifkan dalam seksyen 2 Akta Kerajaan Tempatan 1976 [Akta 171].’. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dalam subseksyen (4), dengan menggantikan perkataan “beberapa” dengan perkataan “sekian bilangan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4a) subseksyen yang berikut: “( 4b) Yang Dipertua Majlis Perbandaran atau Pengerusi Majlis Perbandaran boleh melantik sekian bilangan orang dalam perkhidmatan Majlis Perbandaran sebagaimana yang difikirkannya perlu atau suai manfaat bagi maksud Akta ini untuk menjadi warden lalu lintas dan boleh, setelah berunding dengan Ketua Polis Negara, menetapkan pakaian seragam bagi pegawai tersebut.”. Pindaan seksyen 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan nota bahu dengan nota bahu yang berikut: “Pemberikuasaan kepada Datuk Bandar, Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran, pegawai Majlis Bandaraya atau Majlis Perbandaran, dsb.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Menteri boleh, melalui perintah yang disiarkan dalam Warta, apabila dibuat permohonan oleh Yang Dipertua Majlis Perbandaran atau Pengerusi Majlis Perbandaran, memberi kuasa kepada Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran dan pegawai atau orang dalam perkhidmatan Majlis Perbandaran itu untuk menjalankan kuasa yang diberikan dan melaksanakan tugas yang dikenakan oleh Akta ini ke atas Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran atau warden lalu lintas, mengikut mana-mana yang berkenaan. (3b) Perintah yang dibuat di bawah subseksyen (3a) boleh mengehadkan kuasa yang akan diberikan kepada dan tugas yang akan dilaksanakan oleh Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran dan pegawai atau orang dalam perkhidmatan Majlis Perbandaran itu. (3c) Apabila dibuat pemberikuasaan di bawah subseksyen (3a), Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran dan pegawai atau orang dalam perkhidmatan Majlis Perbandaran itu boleh menjalankan kuasa yang diberikan dan melaksanakan tugas yang dikenakan oleh Akta ini ke atas Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran atau warden lalu lintas, mengikut mana-mana yang berkenaan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)— ‘ “Majlis Perbandaran” ertinya Majlis Perbandaran bagi suatu kawasan pihak berkuasa tempatan yang telah diisytiharkan dan ditentukan mengikut perenggan 3(d) Akta Kerajaan Tempatan 1976, perenggan 6(1)(cc) Ordinan Kerajaan Tempatan 1961 dan perenggan 3(1)(e) Ordinan Pihak Berkuasa Tempatan 1996.’. Penggantian seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Majlis Bandaraya” takrif yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 4 dengan seksyen yang berikut: “Kuasa dan tugas Dato Bandar, Perbadanan Putrajaya, Yang Dipertua Majlis Perbandaran, dsb. 4. Kuasa dan tugas Dato Bandar, Perbadanan Putrajaya, Yang Dipertua Majlis Perbandaran, Pengerusi Majlis Perbandaran dan warden lalu lintas di bawah Akta ini tidak boleh dijalankan di luar atau berkenaan dengan kesalahan yang dilakukan di luar Wilayah Persekutuan Kuala Lumpur, Wilayah Persekutuan Putrajaya atau di luar bidang kuasa Majlis Perbandaran, masing-masing.”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(1) Akta ibu dipinda dengan menomborkan semula perenggan (bb) dan (bc) masing-masing sebagai perenggan (ba) dan (bb). Pindaan seksyen 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dan (4), dengan menggantikan perkataan “hendaklah” dengan perkataan “boleh”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “Akta ini” perkataan “atau seseorang yang dikenakan kompaun di bawah Akta ini dan telah membayar kompaun itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (8) dan (8a). Pindaan seksyen 35a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “hendaklah” dengan perkataan “boleh”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “di bawahnya” perkataan “atau seseorang yang dikenakan kompaun di bawah Akta ini dan telah membayar kompaun itu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (6) dan (7). Penggantian seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 37 dengan seksyen yang berikut: “Penggantungan atau pembatalan lesen memandu 37. (1) Apabila penggantungan atau pembatalan lesen memandu dibuat di bawah seksyen 35 atau apabila pembatalan lesen memandu percubaan dibuat di bawah seksyen 35a, Ketua Pengarah hendaklah memberi orang yang berkenaan suatu notis secara bertulis memaklumkan orang itu mengenai penggantungan atau pembatalan itu, mengikut mana-mana yang berkenaan, dan hendaklah menghendaki orang itu menyerahkan lesen memandu dalam tempoh dua puluh satu hari dari tarikh penyampaian notis itu. (2) Apabila tamatnya tempoh penggantungan di bawah subseksyen 35(1), lesen memandu yang diserahkan balik kepada Ketua Pengarah di bawah subseksyen (1) hendaklah dikembalikan kepada pemegangnya dan mata yang diberikan terhadapnya, jika ada, hendaklah dibatalkan. (3) Walau apa pun seksyen ini, apabila lesen memandu seseorang digantung atau dibatalkan di bawah seksyen 35 atau 35a, Ketua Pengarah boleh menolak atau menggantung apa-apa urusan atau transaksi yang terpakai bagi orang itu di bawah Akta ini.”. Pindaan seksyen 52"
+      }
+    }
+  ]
+}

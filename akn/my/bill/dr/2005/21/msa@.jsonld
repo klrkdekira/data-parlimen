@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-21-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbekalan Tambahan (2005) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (2005)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2005. Perbelanjaan tambahan bagi tahun 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi sembilan bilion satu ratus dua juta dua ratus enam puluh sembilan ribu sembilan ratus sembilan puluh dua ringgit (RM9,102,269,992) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2005 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2005 [Akta A1230]. Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "iaksud Tajuk Amaun (RM) B. 6 Jabatan Perdana Menteri 130,930,000 B. 11 Perkhidmatan Am Perbendaharaan 6,292,000,000 B. 12 Peruntukan kepada Kumpulan Wang 733,130,900 Terkanun B. 26 Kementerian Pembangunan Usahawan dan 282,340,000 Koperasi B. 30 Kementerian Sains, Teknologi dan Inovasi 5,500.000 B. 41 Kementerian Pelajaran 763,009,158 B. 42 Kementerian Kesihatan 524,000,000 B. 44 Kementerian Kebudayaan, Kesenian dan 19,235,800 War is an B. 45 Kementerian Belia dan Sukan 22,293,000 B. 46 Kementerian Sumber Manusia 100,000,000 B. 49 Kementerian Pengajian Tinggi 131,171,134 B. 62 Kementerian Keselamatan Dalam Negeri 98,660,000 JUMLAH 9,102,269,992"
+      }
+    }
+  ]
+}

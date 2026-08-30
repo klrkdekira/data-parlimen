@@ -1,0 +1,3449 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Public Sector Home Financing Board Bill 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PrELIMINarY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ESTABLISHMENT OF PUBLIC SECTOR HOME FINANCING BOARD Establishment of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "EMPLOYEES OF THE BOARD Chief Executive Officer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall, with the approval of the Minister, appoint a Chief Executive Officer on such conditions as the Board deems desirable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be paid such remuneration as the Board may determine with the approval of the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraphs 14(a), (b), (c), (d), (e), (f), (g) and (i) shall apply to the Chief Executive Officer. Appointment of employees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be a person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has the academic qualification and experience which will enable him to satisfactorily discharge his responsibilities;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has not held a position of responsibility in the management of a company which has been convicted of an offence under any written law during his tenure of office unless he proves that such offence was committed without his knowledge or consent and he was not in a position to prevent the offence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has not held a position of responsibility in the management of any company which during his tenure of office—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has defaulted in the payment of any judgment sum against the company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has suspended payment to or has compounded with, the creditors of the company; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has had a receiver or manager appointed in respect of the property of the company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is available for full time employment, and shall not carry on any other business or vocation, except as a non- executive director or shareholder of another company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has not caused a conflict of interest situation with that of the Board, either by himself or through his relative; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has not acted in a manner which may cast doubt on his fitness to hold the position of Chief Executive Officer, or acted in blatant disregard for proper professional conduct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall have such powers and duties as may be conferred or imposed upon him by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be responsible for the overall administration and management of the functions and the day-to-day affairs of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall have general control of the employees of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In discharging his duties, the Chief Executive Officer shall act under the general authority and direction of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (8), the Board may appoint temporarily any employee of the Board to act as the Chief Executive Officer for a period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Chief Executive Officer is vacant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Executive Officer is absent from duty or from Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Executive Officer is, for any other reason, unable to perform the duties of his office."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall obtain the approval of the Minister if the appointment under subsection (7) is for more than six months."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be an employee of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, from time to time, appoint and employ such number of employees as the Board deems necessary for carrying out the purposes of this Act. Conditions of service, conduct and discipline"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may determine the conditions of service of its employees."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have disciplinary authority over all its employees and shall exercise disciplinary control over the employees."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may prescribe regulations to provide for the conduct and discipline of its employees."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The regulations prescribed under this section may include—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provisions for the establishment of an appropriate disciplinary committee and the procedures to be complied with;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provisions for the establishment of a disciplinary appeal committee to hear appeals against the decision of a disciplinary committee and the procedures to be complied with; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provisions for— of an employee of the Board during the pendency of the disciplinary proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the interdiction with reduction in salary or other remuneration; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_4__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the suspension without salary or other remuneration,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The regulations prescribed under this section may create such disciplinary offences and provide for such disciplinary punishments as the Board deems appropriate, and the punishments so provided may extend to dismissal and reduction in rank."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The regulations prescribed under this section shall, in prescribing the procedure for disciplinary proceedings, provide for an opportunity for representations to be made by the employee of the Board against whom the disciplinary proceedings are taken before a decision is arrived at by the disciplinary committee on such disciplinary charge laid against such employee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Board shall be paid such allowances as the Minister may determine. Revocation and resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, at any time, revoke the appointment of any member of the Board appointed under paragraph 8(1)(e) or (f)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2__para_e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the Board appointed under paragraph 8(1)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "or (f) may, at any time, resign by giving a one-month written notice to the Minister. Meetings and procedures of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall convene its meetings at least twice in a year at such time and place as the Chairman may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All meetings of the Board shall be presided by the Chairman or, in the absence of the Chairman, the Deputy Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum of the meeting of the Board shall be five and shall consist of at least—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two members of the Board appointed under paragraphs 8(1)(b), (c) or (e), not including the Deputy Chairman if the meeting is presided by the Deputy Chairman; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "one member of the Board appointed under paragraph 8(1)(f)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The decisions of the Board shall be adopted by a simple majority of votes of the members present and voting, and in the case of an equality of votes, the Chairman shall have a casting vote in addition to his deliberative vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any minutes of meetings of the Board shall, if duly signed by the Chairman, be admissible as evidence of the facts stated therein in any legal proceedings and every meeting in respect of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall cause minutes of all its meetings to be maintained and kept in a proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A resolution is taken to have been passed—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "at a meeting of the Board, if all members of the Board have been informed of the proposed resolution, or reasonable efforts have been made to inform all members of the Board of the proposed resolution; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "without meeting, if all members of the Board indicate agreement with the resolution in accordance with the method determined by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (7) applies only if the Board—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "decides that the subsection applies; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "decides the method by which members of the Board are to indicate agreement with the resolution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may determine its own procedure. Committees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may establish any committee as the Board considers necessary or expedient to assist the Board in the performance of its functions or in the exercise of its powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any minutes of meetings of a committee shall, if duly signed by the chairman of the committee, be admissible as evidence of the facts stated therein in any legal proceedings, and every meeting in respect of which minutes have been so made shall be deemed to have been duly convened and held and all members thereat to have been duly qualified to act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of a committee may be paid such allowances as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_12",
+      "@type": "akn:subsection",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_13",
+      "@type": "akn:subsection",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall be subject to, and act in accordance with, any direction given to the committee by the Board. Vacation of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may elect any member of the Board or any other person to be the chairman of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of a committee may be appointed from amongst the members of the Board or such other persons as the Board deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee who is not a member of the Board shall hold office for such term as the Board may specify in his letter of appointment and shall be eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, at any time, revoke the appointment of any member of a committee who is not a member of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee who is not a member of the Board may, at any time, resign by giving a notice in writing to the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, at any time, discontinue or alter the constitution of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The meetings of a committee shall be held at such times and places as the chairman of the committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall cause—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "minutes of all its meetings to be maintained and kept in a proper form; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_13__subsec_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "copies of the minutes of all its meetings to be submitted to the Board as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The office of a member of the Board appointed under paragraph 8(1)(e) or (f) and the appointment of a member of a committee who is not a member of the Board shall be vacated if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there has been proved against him, or he has been convicted of, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment, whether in itself only or in addition to or in lieu of a fine, for more than two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes of unsound mind or otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes a member of the Senate or House of Representatives or of any Legislative Assembly of a State;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he holds any post in a political party;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of a member of the Board, he absents himself from three consecutive meetings of the Board without leave of the Chairman, and in respect of a member of a committee who is not a member of the Board, he absents himself from three consecutive meetings of the committee without leave of the chairman of the committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in respect of a member of the Board, his appointment is revoked by the Minister, and in respect of a member of a committee who is not a member of the Board, his appointment is revoked by the Board; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he resigns. Board and committee may invite others to meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board and committee may invite any person to attend any of the meetings of the Board or committee, as the case may be, for the purpose of advising the Board and committee on any matter under discussion, but such person shall not be entitled to vote at the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person invited under subsection (1) may be paid such allowances as the Minister may determine. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board or committee or any person invited to attend the meetings of the Board or committee having, directly or indirectly, any interest in relation to any matter under discussion by the Board or committee shall disclose to the Board or committee, as the case may be, the fact and nature of his interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (1) shall be recorded in the minutes of the meetings of the Board or committee, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After the disclosure under subsection (1), the member of the Board or committee or any person invited to attend the meetings of the Board or committee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not take part or be present in any deliberation or during the making of any decision of the Board or committee, as the case may be, relating to the matter; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_16__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be disregarded for the purpose of constituting a quorum of the Board or committee, as the case may be, in the deliberation or during the making of any decision relating to the matter. Validity of acts and proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act done or proceedings taken under this Act shall be questioned on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any vacancy in the membership of, or any defect in the constitution of, the Board or a committee; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any omission, defect or irregularity not affecting the merits of the case."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body corporate to be known by the name of “Public Sector Home Financing Board” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have perpetual succession and a common seal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may sue and be sued in its own name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to and for the purposes of this Act, the Board may, upon such terms as it deems fit—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into contracts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, purchase, take, hold or enjoy, as the case may be, any property, right, interest, obligation and liability of every description; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sell, convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer, lease or otherwise dispose of, or deal with, any property, right, interest, obligation and liability vested in the Board. Vesting provisions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Minister may, from time to time, by order published in the Gazette, appoint a vesting date and on such date all properties, rights, interests, obligations and liabilities of the Government specified by the Minister in such order relating to the administration of loan under the repealed Act shall, by virtue of this Act, be transferred to and vested in the Board without any conveyance, assignment or transfer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every property, right, interest, obligation and liability transferred to and vested in the Board by virtue of subsection (1) shall be so transferred to and vested in the Board for the like title, estate or interest and on the like tenure as the property, right, interest, obligation and liability were vested or held immediately before the vesting date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every chose in action, right, interest, obligation or liability vested in the Board by virtue of subsection (1) may, on and after the vesting date, be sued on, recovered or enforced by the Board in its own name and it shall not be necessary for the Board or the Government to give notice—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the person bound by the chose in action of; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to the person whose right, interest, obligation or liability is affected by, the vesting effected under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any pending legal proceedings by or against the Government which relates to any property, right, interest, obligation or liability transferred to and vested in the Board by virtue of subsection (1) may, on and after the vesting date, be continued by or against the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the case of rights, interests, obligations and liabilities arising under any loan which are vested in the Board on the vesting date, the Board may enter into such agreements or arrangements over such rights, interests, obligations and liabilities with the Government or any other person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where by virtue of subsection (1), any property is transferred to and vested in the Board, the provisions of Part Thirty of the National Land Code 1965 [Act 56 of 1965] shall, for the purpose of effecting the registration of such vesting, apply to the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On and after the vesting date, any agreement, deed or other arrangement relating to any property, right, interest, obligation and liability transferred to and vested in the Board under subsection (1) to which the Government was a party immediately before the vesting date, whether in writing or not, and whether or not of such a nature that property, right, interest, obligation and liability under the agreement, deed or other arrangement, as the case may be, could be assigned by the Government, shall have effect as if the Board had been a party to such agreement, deed or other arrangement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, “vesting date” means the date appointed by the Minister under subsection (1). Common seal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Board shall bear such device as the Board may approve and such seal may be broken, changed, altered and made anew by the Board as it deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Until a seal is provided by the Board, a stamp bearing the words “Public Sector Home Financing Board” may be used and shall be deemed to be the common seal of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Board shall be kept in the custody of the Chairman and shall be authenticated by any two members of the Board authorized by the Board, or by one member of the Board and the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, documents and other instruments purporting to be sealed with the common seal and authenticated in accordance with subsection (3) shall, until the contrary is proved, be deemed to have been validly executed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Board shall be officially and judicially noticed. Functions of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The functions of the Board are—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to manage the Fund and to administer the public sector home financing facility in accordance with the provisions of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Minister on matters relating to the public sector home financing facility; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things as may be required or permitted to do under this Act. Powers of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have the power to do all things necessary or expedient for or in connection with the performance of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the powers of the Board shall include the power—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to utilize all properties of the Board in such manner as the Board may think expedient including raising of moneys for the purposes of the Fund by securitizing or mortgaging the properties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to co-operate with the Federal Government, any State Government, local authority, statutory authority or body corporate for the purposes of performing the functions of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to subsection (3), to impose fees or charges for services rendered by the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to require the furnishing of information by any person to assist the Board in the performance of its functions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint such agents, advisors including experts, advocates and solicitors, bankers and consultants, and other persons as the Board deems fit to assist it in the performance of its functions; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to grant loans, scholarships and advances to employees of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, prescribe the fees and charges to be imposed by the Board. Membership of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of Treasury, as Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Attorney General or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Accountant General or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Executive Officer who is an ex-officio member;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than three members from amongst the officers of the federal public service who shall be appointed by the Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not less than two but not more than four other members who shall be appointed by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members appointed under paragraph (1)(f) shall be fit and proper persons from amongst persons who, in the opinion of the Minister, have standing and experience in banking, or financial or legal matters."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In determining whether a person is a fit and proper person for the purposes of subsection (2), the Minister shall have regard to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the probity, competence and soundness of judgment of the person in fulfilling his responsibilities as a member of the Board; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the diligence with which the person is likely to fulfil his responsibilities as a member of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (2), the Minister shall have regard to the previous business conduct and activities of the person and, in particular, to any evidence that he—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has been compounded of or charged with, an offence whether convicted or otherwise, which is punishable with—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "imprisonment for six months or more, whether by itself, or in lieu of, or in addition to, a fine; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a fine of ten thousand ringgit or more;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has contravened any provision under any written law which, in the opinion of the Minister, is designed for protecting members of the public against financial loss due to dishonesty, incompetence or malpractice or against financial loss due to the conduct of discharged or undischarged bankrupts; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has engaged in or has been associated with, any business practice, or otherwise conducted himself in such a way as to cast doubt on his competence and soundness of judgment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5__para_c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint a Deputy Chairman of the Board from amongst the members appointed under paragraphs (1)(b),"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_8__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "or (e). Tenure of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to such conditions as may be specified in his instrument of appointment, a member of the Board appointed under paragraph 8(1)(e) or (f) shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding two years and shall be eligible for reappointment for a maximum period of three consecutive terms. Allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PUBLIC SECTOR HOME FINANCING FACILITY Public sector home financing facility policy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, upon consultation with the Board, from time to time, formulate policies on the public sector home financing facility and the Board shall give effect to such policy. Allocation for public sector home financing facility"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall ensure that the sum allocated in the Fund for the purpose of public sector home financing facility in each financial year shall be sufficient to meet the demand of approved eligible persons, and such sum allocated shall be approved by the Minister. Granting of public sector home financing facility"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to such terms and conditions as may be determined by the Minister, the public sector home financing facility shall be granted to approved eligible persons for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the purchase of a completed dwelling house;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the construction of a dwelling house and, if applicable, access road to the dwelling house, on the land of the approved eligible persons and such land—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be free from encumbrances; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is being financed by a public sector home financing facility;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the purchase of a dwelling house under construction;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the purchase of land for the purpose of constructing a dwelling house and, if applicable, access road to the dwelling house;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the settlement in whole or in part of an existing loan from a bank or financial institution taken for the purpose of purchasing a land, with or without a dwelling house thereon, or constructing a dwelling house and road as a means of access to the dwelling house, prior to the granting of the public sector home financing facility; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the renovation of a dwelling house, the purchase or construction of which has been financed or settled by the public sector home financing facility."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (1), “dwelling house” includes a building or tenement wholly or principally used, constructed or adapted for use for human habitation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An eligible person referred to in subsection (1) shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a member of the public services referred to in Article 132 of the Federal Constitution;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a member of the administration in the Federation or a State as defined in Clause (2) of Article 160 of the Federal Constitution;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a judge of the Federal Court, Court of Appeal or High Court;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who continues to be a member of the Parliamentary Service under paragraph (e) of Article 7 of the Constitution (Amendment) Act 1992 [Act A837];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a member of either House of Parliament;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Speaker of the House of Representatives;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a member of a State Legislative Assembly;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an employee of any statutory body or local authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to subsection (5), a spouse of any deceased person who before his death was an eligible person under paragraphs (a) to (h), as the Minister, on the recommendation of the Board, may approve; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person or a class of persons whom the Minister may, by notification in the Gazette, specify upon the recommendation of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An eligible person who is entitled to apply for a home financing facility from a State Government, statutory body or local authority which has its own home financing scheme shall not be eligible for a public sector home financing facility."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The amount of the public sector home financing facility granted to an approved eligible person under paragraph (3)(i) shall not exceed the amount for which the deceased person was eligible before his death."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to Clause (7) of Article 125 of the Federal Constitution, any eligible person concurrently holding two or more posts or offices described in subsection (3) shall be entitled to apply for a public sector home financing facility in respect of one post or office only, and an approved eligible person shall not be entitled to apply for another public sector home financing facility in respect of any other post or office he may subsequently hold."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in subsection (6) shall be construed as precluding an approved eligible person from obtaining—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the balance of the amount of the public sector home financing facility for which he is eligible to apply; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_23__subsec_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the balance of or the difference in the amount of the public sector home financing facility for which he may become eligible to apply as a result of any change of post or office. Duty to maintain record"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall keep and maintain or cause to be kept and maintained a record of all public sector home financing facilities granted to approved eligible persons."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The record kept and maintained under subsection (1) shall include the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the particulars of the approved eligible person such as his identity card number, name and address;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the amount of the public sector home financing facility granted to the approved eligible person, its repayment schedule, the amount of each repayment required to be made, the date of the commencement of the repayment and the records of the repayment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a copy of the issue document of title of land to which the public sector home financing facility relates; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such other particulars as the Board deems necessary. Board to be responsible for collection and recovery of repayment of public sector home financing facility"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall be responsible for the collection and recovery of the repayment of the public sector home financing facility granted to an approved eligible person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any written law, the collection of the repayment of the public sector home financing facility by the Board may be made by way of deduction of salary or pension by giving a notice in writing of such deduction to the employer of the approved eligible person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "It shall be the duty of the employer of the approved eligible person to whom the notice under subsection (2) is given to deduct such amount of moneys as notified by the Board, being the monthly amount of repayment of the public sector home financing facility—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "from the salary of the approved eligible person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the amount of the public sector home financing facility remains outstanding upon the retirement of the approved eligible person, from the pension of the approved eligible person, and to remit the amount so deducted to the Board on a monthly basis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The sum of the public sector home financing facility which is not repaid or in arrears shall be treated as a civil debt owed by the approved eligible person to the Board and the Board may avail itself of such means under any applicable law for the recovery of such debt."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any written law, the sum of the public sector home financing facility which is not repaid or in arrears may be recoverable by means of deductions from the salary, pension or other retirement benefits of the approved eligible person and is entitled to a right of priority to any other deductions but immediately after the deduction for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any debt due and owing by the approved eligible person to the Federal Government and State Government;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the amount of taxes assessed under any written law; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all amounts due in respect of contributions payable under any written law relating to employees superannuation or provident funds or under any scheme of superannuation or retirement benefit which is an approved scheme under the federal law relating to income tax."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of deduction from the salary, pension or other retirement benefits of the approved eligible person under subsection (5), the Board shall give a notice in writing of such deduction to the employer of the approved eligible person, and it shall be the duty of the employer to deduct such amount of moneys as notified by the Board, being the amount of the public sector home financing facility not repaid or in arrears—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "from the salary of the approved eligible person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the amount of public sector home financing facility remains outstanding upon the retirement of the approved eligible person, from the pension or other retirement benefits of the approved eligible person, and to remit the amount so deducted to the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the event the deduction of salary, pension or other retirement benefits of the approved eligible person under subsection (3) or (6), as the case may be, is insufficient, the approved eligible person shall pay the difference of the repayment of, or the amount not repaid or in arrears of, the public sector home financing facility."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall not impose any additional interest or charges on the approved eligible person for any delay caused by the employer to make the deductions under subsections (3) and (6)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Public Sector Home Financing Board Act 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions or Parts of this Act. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“repealed Act” means the Housing Loans Fund Act 1971 [Act 42] repealed under section 45; “property” means any movable or immovable property and includes—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any right, interest, title, claim, chose in action, power or privilege, whether present or future, or whether vested or contingent, in relation to any property, or which is otherwise of value;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any conveyance executed for conveying, assigning, appointing, surrendering, or otherwise transferring or disposing of property where the person executing the conveyance is the proprietor or possessor, or wherein he is entitled to a contingent right, either for the whole or part of the interest;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any security, including any stock, share, debenture, bond, loan stock, transferable subscription right or warrant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any negotiable instrument, including any bank note, bearer note, Treasury bill, dividend warrant, bill of exchange, promissory note, cheque and negotiable certificate of deposit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any mortgage or charge, whether legal or equitable, guarantee, lien or pledge, whether actual or constructive, letter of hypothecation or trust receipt, indemnity, undertaking or other means of securing payment or discharge of a debt or liability, whether present or future, or whether vested or contingent; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other tangible or intangible property; “committee” means the committee of the Board established under section 13; “public sector home financing facility” means the facility granted by the Board to an approved eligible person; “Chief Executive Officer” means the Chief Executive Officer appointed under section 18 and includes an employee of the Board appointed under subsection 18(7) to act as the Chief Executive Officer; “Fund” means the Public Sector Home Financing Fund established under section 26; “Board” means the Public Sector Home Financing Board established under section 3; “Minister” means the Minister charged with the responsibility for finance; “eligible person” means any person referred to in subsection 23(3); “approved eligible person” means an eligible person whose application for public sector home financing facility has been approved by the Board; “Chairman” means the Chairman of the Board appointed under paragraph 8(1)(a) and includes the Deputy Chairman when he exercises the functions of the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FINANCIAL PROVISIONS The Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_34"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ADDITIONAL POWERS OF THE BOARD Power to borrow"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_43"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Delegation of powers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_47"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REPEAL, SAVINGS AND TRANSITIONAL Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Part, “appointed date” means the date appointed under subsection 1(2) for the coming into operation of Part VIII. Repeal of the Housing Loans Fund Act 1971"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the appointed date, the Housing Loans Fund Act 1971 is repealed. Savings and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application, approval, direction, decision, recommendation, specification, notice or other acts or things issued, made or done under the repealed Act and in force or having effect immediately before the appointed date, shall be deemed to have been issued, made or done under this Act, and shall continue to remain in force and have effect in relation to the person to whom it applied until amended or substituted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application, approval or decision under the repealed Act pending immediately before the appointed date shall, on the appointed date, be dealt with by the Board under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Neither the repeal of the repealed Act nor anything contained in this Act shall affect the liability of any person to be prosecuted or punished for offences committed under the repealed Act before the appointed date, or any proceedings brought or sentence imposed before that date in respect of such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, any proceedings whether civil or criminal, or cause of action by or against the Government or any person acting on its behalf, pending or existing immediately before the appointed date in relation to the repealed Act may be continued or instituted by or against the Board as it might have been by or against the Government or such person as if this Act had not been enacted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any appeal brought or any leave to appeal applied for on or after the appointed date against a decision given in any legal proceedings to which the Government was a party in relation to the repealed Act before the appointed date may be brought by or against the Board. Transfer of funds"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On the appointed date, the moneys standing to the credit of the Housing Loans Fund specified in the Second Schedule to the Financial Procedure Act 1957 [Act 61] shall be transferred into the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, in writing, delegate any of its functions and powers, other than its powers to borrow moneys and raise fund under this Act to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman or other member of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a committee; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an employee of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman, other member of the Board, a committee or an employee of the Board, as the case may be, delegated with such functions or powers shall be bound to observe and have regard to all conditions and restrictions imposed by the Board and all requirements, procedures and matters specified by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any function or power delegated under this section shall be performed and exercised in the name and on behalf of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation under this section shall not preclude the Board itself from performing or exercising at any time any of the delegated functions or powers. Power of Minister to give directions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may give to the Board directions of a general character consistent with this Act relating to the performance of the functions and the exercise of the powers of the Board and the Board shall give effect to such directions. Returns, reports, accounts and other information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_37__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall furnish to the Minister such returns, reports, accounts and other information as the Minister may, from time to time, require."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The returns, reports, accounts and other information shall be in such form and contain such particulars relating to the proceedings and policy of the Board and any other matters as the Minister may, from time to time, specify. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Board, any member of the Board or committee, or any employee of the Board in respect of any act, neglect or default done or committed or any omission by it or him in good faith, in such capacity. Public servants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All members of the Board and committee and employees of the Board, while discharging their duties under this Act, shall be deemed to be public servants within the meaning of the Penal Code [Act 574]. Representation in civil proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_40__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_40__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Notwithstanding any other written law—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_40__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any civil proceedings by or against the Board; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_40__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any other civil proceedings in which the Board is required or permitted by the court to be represented, or to be heard, or is otherwise entitled to be represented or to be heard, any person authorized by the Board for that purpose may, on behalf of the Board, institute such proceedings or appear in such proceedings and may make all appearances and applications and do all acts in respect of the proceedings on behalf of the Board. Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_41__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for the purposes of this Act or any civil or criminal proceedings under any written law or where otherwise authorized by the Board, no member of the Board or committee, or any employee or agent of the Board, or any person attending any meeting of the Board or committee, or any other person, who for any reason has, by any means, access to any information or document relating to the affairs of the Board shall give, divulge, reveal or otherwise disclose such information or document to any person."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding three years or to both. Things done in anticipation of the enactment of this Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All acts and things done on behalf of the Board in preparation for or in anticipation of the enactment of this Act and any expenditure incurred in relation thereto shall be deemed to have been authorized under this Act, provided that the acts and things done are consistent with the general intention and purposes of this Act; and all rights, interests, obligations and liabilities acquired or incurred as a result of the doing of those acts or things including any expenditure incurred in relation thereto shall upon the coming into operation of this Act be deemed to be the rights, interests, obligations and liabilities of the Board. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, with the recommendation of the Board, make such regulations as are necessary or expedient for the purposes of carrying out the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, with the prior approval of the Minister, borrow, at such rate of interest and for such period and upon such terms as to the time and method of repayment and otherwise as the Minister may approve, any money required by the Board for meeting any of its obligations or performing any of its functions. Power to invest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund may, in so far as they are not required to be expended by the Board under this Act, be invested with the approval of the Minister, in the following manner:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by depositing in—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Central Bank of Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "licensed banks or licensed investment banks licensed under the Financial Services Act 2013 [Act 758]; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "licensed Islamic banks licensed under the Islamic Financial Services Act 2013 [Act 759] but shall not include licensed international Islamic bank; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by investing in— Power to establish or acquire corporation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "securities issued by the Government;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "securities which are fully guaranteed by the Government;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "securities issued by the Central Bank of Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_33__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "securities which are fully guaranteed by the Central Bank of Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, with the approval of the Minister, establish or acquire any corporation established under the Companies Act 1965 [Act 125] and Trust Companies Act 1949 [Act 100] necessary for the purpose of raising of fund, provided that the corporation so established or acquired by the Board is prohibited from establishing subsidiary of the corporation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A fund to be known as the “Public Sector Home Financing Fund” is established and shall be administered and controlled by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sums as may be provided from time to time by Parliament;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys borrowed by the Board under section 32;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sums of public sector home financing facility as may be repaid from time to time to the Board and sums from time to time falling due to the Board in respect of the repayment of any public sector home financing facility;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sums representing the settlement of the principal of any public sector home financing facility and interest or profit due thereon, as the case may be, unless the Board authorizes the settlement of any such sums to any person pursuant to any arrangement entered into with such person under which any public sector home financing facility, or any right or interest derived or arising from the grant of any public sector home financing facility, is sold, disposed of or transferred to such person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys received from the sale or realization of any public sector home financing facility or any right or interest derived or arising from the grant of any public sector home financing facility, or from or pursuant to any arrangement entered into with any person under which any public sector home financing facility, or any right or interest derived or arising from the grant of a public sector home financing facility, is sold, disposed of or transferred to such person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fees and charges imposed by or payable to the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys derived as income from the investment by the Board under section 33;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys derived from the sale, disposal, lease or hire of, or any other dealings with, any property, right, interest, obligation and liability transferred to, vested in or acquired by the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other moneys and properties which may, in any manner, become payable to or vested in the Board in respect of the performance of its functions and exercise of its powers;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any cost paid to or recovered by the Board in any settlement of action or proceedings, civil or criminal; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys and properties lawfully received by the Board. Expenditure to be charged on the Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall be applied towards the grant of public sector home financing facilities to the approved eligible persons."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_j"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund may be applied for the purposes of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "repaying any moneys borrowed under section 32;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "settling the debts, obligations and liabilities transferred to and vested in the Board pursuant to section 4;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying for the allowances and other expenses to the members of the Board and committees, and any person invited to the meetings of the Board and committees;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying for the remuneration, allowances and other expenses of the employees of the Board, including the granting of loans, scholarships and advances, retirement benefits, medical benefits and other allowances;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the investment under section 33;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying expenses, costs or expenditure in relation to the procurement of goods and services, including the engagement of agents and advisors, legal fees and costs and other fees and costs, properly incurred or accepted by the Board in the performance of its functions and exercise of its powers;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "purchasing or hiring equipment, machinery and any other materials, acquiring land and any property, and erecting buildings, and carrying out any other works and undertakings in the performance of the functions or the exercise of the powers of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying expenses or moneys required to satisfy any judgment, decision or award by any court or tribunal against the Board, or any member of the Board or committee, or any employee or agent of the Board in respect of any act, neglect or default done or committed in the performance of the functions or the exercise of the powers of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "defraying the expenses, expenditure or costs properly and necessarily incurred by the Board in granting the public sector home financing facilities; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such other expenses and expenditure as may be permitted by this Act or any regulations made under this Act, or incurred in the performance of the functions or the exercise of the powers of the Board. Annual estimates"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall, not later than one month before the commencement of each financial year, lay before the Board an estimate of the expenditure of the Board including capital expenditure for the ensuing year in such form and containing such particulars as the Board may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A copy of the estimate referred to in subsection (1) shall be sent to each member of the Board not later than fourteen days prior to the meeting before which the estimate is to be laid. Bank accounts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall open and maintain an account or accounts with such bank or banks as the Board deems fit, and every such account shall be operated as far as practicable by cheques signed by any person as may, from time to time, be authorized by the Board. Statutory Bodies (Accounts and Annual Reports) Act 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Board. Financial procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/2/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to section 30, the Board shall determine its own financial procedure and may adopt with such modifications as it deems fit any regulations, rules, policies, circulars and directives made or issued by the Government on financial procedure."
+      }
+    }
+  ]
+}

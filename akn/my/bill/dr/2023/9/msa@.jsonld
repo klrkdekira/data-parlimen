@@ -1,0 +1,371 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-9-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_13"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pengangkutan Jalan (Pindaan) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 88b Akta ibu dipinda dengan memotong perkataan “, selain kenderaan barangan,”. Pindaan seksyen 117"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 117 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dalam subseksyen (6) dengan menggantikan perkataan “alat penimbang” di mana-mana jua terdapat dengan perkataan “mesin penimbang”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “(6a) Walau apa pun subseksyen (6), perenggan (6)(d) dan (6)(e) tidak terpakai berkenaan dengan suatu perakuan bagi maksud sistem penimbang semasa bergerak elektronik atau berkomputer yang dipasang pada mana-mana jalan.”. Pindaan seksyen 127"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 127(1)(i) Akta ibu dipinda dengan memotong perkataan “kepada pemandu dan konduktor kenderaan-kenderaan perkhidmatan awam, kenderaan-kenderaan pekerja dan kenderaan-kenderaan barangan”. Pengesahan dan tanggung rugi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ibu sebelum tarikh permulaan kuat kuasa Akta ini, fi yang dikenakan dan dipungut oleh Jabatan Pengangkutan Jalan berkenaan dengan pertukaran milikan interim kenderaan motor sepanjang tempoh mulai 4 Oktober 2011 sehingga hari sebelum tarikh permulaan kuat kuasa Akta ini hendaklah disifatkan telah dikenakan dan dipungut dengan sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan atau prosiding undang-undang boleh dibawa, dimulakan atau dikekalkan terhadap Kerajaan Malaysia, mana-mana pegawai Kerajaan Malaysia atau mana-mana orang yang bertindak di bawahnya berkenaan dengan apa-apa fi yang telah dikenakan dan dipungut semasa tempoh yang disebut dalam subseksyen (1), dan jika apa-apa tindakan atau prosiding undang-undang telah dibawa, dimulakan atau dikekalkan, ia hendaklah dibatalkan dan dijadikan tidak sah dan tiada pembayaran balik berkenaan dengan fi yang telah dikenakan dan dipungut sebagaimana yang dinyatakan dalam Akta ini boleh dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pengangkutan Jalan (Pindaan) 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Jalan 1987 [Akta 333], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “barangan” takrif yang berikut: ‘ “bas persiaran” hendaklah mempunyai erti yang sama seperti yang diberikan kepada ungkapan tersebut dalam Akta Pelesenan Kenderaan Pelancongan 1999 [Akta 594] dan dalam Jadual Kedua kepada Akta Pengangkutan Awam Darat 2010 [Akta 715];’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “lesen vokasional” dengan takrif yang berikut: ‘ “lesen vokasional” ertinya lesen untuk memandu atau bertindak sebagai konduktor yang diberikan di bawah seksyen 56 dan 57;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pemandu” takrif yang berikut: ‘ “pemandu pelancong” hendaklah mempunyai erti yang sama seperti yang diberikan kepada ungkapan tersebut dalam Akta Industri Pelancongan 1992 [Akta 482];’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “penumpang”— “(ba) berhubungan dengan orang yang dibawa dengan bas persiaran, tidak termasuk pemandu atau mana-mana pemandu pelancong yang berada dalam bas persiaran itu dalam menjalankan tugasnya; dan”. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dan” di hujung perenggan (b); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_2__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan— (a) pakaian seragam dan tanda pangkat bagi mana-mana pegawai pengangkutan jalan; dan (b) kad kuasa dan lencana yang akan dibawa oleh mana-mana pegawai pengangkutan jalan.”. Seksyen baharu 13a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 13 seksyen yang berikut: “Pertukaran milikan interim kenderaan motor 13a. (1) Walau apa pun seksyen 13, jika seorang pemunya berdaftar menjual kenderaan motornya kepada peniaga bagi maksud untuk dijual semula, pemunya berdaftar itu boleh memohon kepada Pengarah supaya suatu pertukaran milikan interim kenderaan motor itu dibuat daripada pemunya berdaftar kepada peniaga itu mengikut bentuk dan cara dan dengan bayaran fi sebagaimana yang ditetapkan. (2) Pengarah hendaklah, apabila menerima permohonan dan bayaran fi di bawah subseksyen (1), membuat catatan yang perlu dalam daftar yang berhubungan dengan pertukaran milikan interim itu. (3) Pertukaran milikan interim hendaklah berkuat kuasa bagi suatu tempoh yang ditetapkan. (4) Sekiranya peniaga tidak dapat menjual kenderaan motor itu kepada mana-mana orang selepas tamat tempoh yang ditetapkan di bawah subseksyen (3), peniaga itu hendaklah didaftarkan sebagai pemunya baharu kenderaan motor itu. (5) Bagi maksud subseksyen (4), Pengarah hendaklah membuat perubahan yang perlu dalam daftar dan perakuan pendaftaran yang berhubungan dengan kenderaan motor itu dan hendaklah menyerahkan perakuan pendaftaran yang telah diubah itu kepada peniaga itu. (6) Bagi maksud seksyen ini, “peniaga” ertinya suatu syarikat yang diperbadankan di bawah Akta Syarikat 2016 [Akta 777] atau suatu perniagaan yang didaftarkan di bawah Akta Pendaftaran Perniagaan 1956 [Akta 197] yang menjalankan urus niaga kenderaan motor terpakai.”. Pindaan subkepala dalam Bahagian II"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam Bahagian II dengan menggantikan subkepala “Pelesenan Pemandu dan Konduktor Kenderaan Perkhidmatan Awam, Kenderaan Pekerja dan Kenderaan Barangan” yang terdapat sebelum seksyen 56 dengan subkepala yang berikut: “Pelesenan Pemandu dan Konduktor Kenderaan Perkhidmatan Awam, Kenderaan Pekerja, Kenderaan Barangan dan Bas Persiaran”. Pindaan seksyen 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 56 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subsekysen (2) dengan subseksyen yang berikut: “(2) Pengarah tidak boleh mengeluarkan suatu lesen vokasional melainkan jika dia berpuas hati bahawa— (a) dalam hal lesen untuk memandu, pemohon berumur lebih daripada dua puluh satu tahun; (b) dalam hal lesen untuk bertindak sebagai seorang konduktor, pemohon berumur lebih daripada lapan belas tahun; (c) pemohon bukan merupakan pemegang lesen belajar memandu atau lesen memandu percubaan; (d) dalam hal pemohon yang merupakan orang bekerja sendiri, pemohon telah berdaftar dan membayar caruman di bawah Akta Keselamatan Sosial Pekerjaan Sendiri 2017 [Akta 789]; dan (e) pemohon memenuhi syarat-syarat yang lain sebagaimana yang ditetapkan.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)— “(aa) pemegang lesen vokasional itu ialah orang bekerja sendiri, pemegang lesen vokasional itu tidak berdaftar dan tidak mencarum di bawah Akta Keselamatan Sosial Pekerjaan Sendiri 2017; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memotong perkataan “atau” selepas perkataan “lesen itu;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (9) subseksyen yang berikut: “(10) Bagi maksud seksyen ini, “orang bekerja sendiri” hendaklah mempunyai erti yang sama seperti yang diberikan kepada ungkapan tersebut dalam Akta Keselamatan Sosial Pekerjaan Sendiri 2017.”. Penggantian seksyen 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 57 dengan seksyen yang berikut: “Lesen vokasional bagi kenderaan barangan, kenderaan pekerja dan bas persiaran 57. (1) Seksyen 56 hendaklah terpakai bagi kenderaan barangan, kenderaan pekerja dan bas persiaran yang ditetapkan oleh Menteri, sebagaimana ia terpakai bagi kenderaan perkhidmatan awam. (2) Bagi maksud subseksyen (1), sebutan dalam seksyen 56 bagi “kenderaan perkhidmatan awam” hendaklah ditafsirkan sebagai sebutan bagi kenderaan barangan, kenderaan pekerja atau bas persiaran dan perkataan “untuk membawa penumpang dengan sewa atau upah” yang terdapat dalam subseksyen 56(1) tidak diambil kira. (3) Walau apa pun subseksyen (1) dan (2) dan subseksyen 56(2), lesen vokasional bagi kenderaan barangan berkenaan dengan motosikal boleh dikeluarkan kepada pemohon yang berumur kurang daripada dua puluh satu tahun dan lebih daripada umur lapan belas tahun.”. Seksyen baharu 63a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: “Penimbangan kenderaan semasa bergerak 63a. (1) Walau apa pun seksyen 63, menjadi sah bagi sesuatu kenderaan motor jika ditimbang dengan menggunakan sistem penimbang semasa bergerak elektronik atau berkomputer yang dipasang pada mana-mana jalan. (2) Bagi maksud subseksyen (1), berat yang dipindahkan pada jalan oleh mana-mana bahagian kenderaan motor itu yang bersentuh dengan jalan semasa ia bergerak hendaklah disifatkan sebagai telah ditimbang dengan sempurna di bawah seksyen ini.”. Pindaan seksyen 66"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 66(1)(ll) Akta ibu dipinda dalam teks bahasa kebangsaan dengan menggantikan perkataan “alat penimbang” dengan perkataan “mesin penimbang”. Pindaan seksyen 88b"
+      }
+    }
+  ]
+}

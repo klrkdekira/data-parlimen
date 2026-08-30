@@ -1,0 +1,248 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-66-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Trustee (Incorporation) (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 21(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the full stop at the end of the paragraph a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (d) the following paragraph: “(e) any matter relating to beneficial owners of a trust; (f) any matter relating to the variation or revocation of the certificate of incorporation; (g) the offences which may be compounded and the forms to be used and the method and procedure for compounding the offences under this Act; and (h) any other matters required by this Act to be prescribed.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Trustees (Incorporation) (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 1a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Trustees (Incorporation) Act 1952 [Act 258], which is referred to as the “principal Act” in this Act, is amended in section 1a by inserting after the definition of “certificate of incorporation” the following definitions: ‘ “Minister ” means the Minister charged with the responsibility for law; “prescribed” means prescribed by the Minister by regulations made under this Act.’. New sections 2a and 2b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 2 the following sections: “Name of body corporate and change of name 2a. (1) No trustee shall be incorporated with a name which in the opinion of the Minister is undesirable or unacceptable. (2) The name of every body corporate registered under this Act shall include the words “registered” and “trustees”. (3) Subject to subsection (2), such body corporate may, with the written approval of the Minister, change its name. (4) The trust deed or any related instrument of such body corporate shall be amended to give effect to any change of name. (5) Where such body corporate changes its name, a new certificate of incorporation shall be issued in the form and manner as may be prescribed by the Minister. (6) Any change of name shall not affect the rights or obligations of the body corporate or render defective any legal proceedings by or against the body corporate. (7) Any proceedings which might have been continued or commenced by or against a body corporate by its former name may be continued or commenced by or against it, by its new name. Trustee to keep register of beneficial owners 2b. (1) A trustee shall keep a register of the beneficial owners of its trusts and shall enter into the register the following particulars: (a) the name and postal address of each beneficial owner; (b) the nature of the beneficial ownership; (c) the date on which each beneficial owner was entered into the register as a beneficial owner; (d) the date on which any beneficial owner ceased to be a beneficial owner; and (e) any other information as may be prescribed by the Minister. (2) The trustee shall ensure that the register of beneficial owners of the trusts shall be kept at the registered office of the trustees unless— (a) where the register is done at another office, it may be kept at the other office but such other office shall not be outside Peninsular Malaysia; or (b) where the register is done by another person on behalf of the trustees, it may be kept at the office of such person but such office shall not be outside Peninsular Malaysia. (3) The trustee shall send a notice to the Minister in the form and manner as may be determined by the Minister, of the place or any change of place where its register of beneficial owners is kept, within fourteen days after creating the register or changing the place, as the case may be. (4) The trustee shall, within fourteen days after creating the register of beneficial owners, transmit a copy of the register to the Minister in the form and manner as may be determined by the Minister. (5) Any trustee who contravenes this section commits an offence and shall, on conviction, be liable to a fine not exceeding fifteen thousand ringgit.”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “the trustees to the Minister” the words “within one month”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(3) Any trustee who contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding fifteen thousand ringgit.”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the renumbered subsection (1) the following subsections: “(2) Subject to subsection (1), the Minister may inspect or authorize any person to inspect a trustee if he is of the opinion that the property vested in the trustee is being misused. (3) If, as a result of the inspection carried out pursuant to subsection (2), the Minister finds that the property has been misused, or used in circumstances which are prejudicial to the interests of members of the body corporate in respect of which the trustee has been incorporated, he may— (a) suspend the trustee found in misuse of such property; and (b) refer the matter to law enforcement agencies for investigation.”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 15 of the principal Act is amended by inserting after subsection (4) the following subsections: “(5) Without prejudice to the provisions of subsections (1) and (2), the Minister may at any time by a notice in writing, order any trustee, to permit its accounts to be inspected by any relevant authority authorized by the Minister. (6) Any trustee who fails to comply with the order made under subsection (5)— (a) shall have its certificate of incorporation revoked under section 17; and (b) shall not be entitled to reapply for a certificate of incorporation under this Act for a period of five years. (7) Any trustee who contravenes subsection (3) or (4) commits an offence and shall, on conviction, be liable to a fine not exceeding fifteen thousand ringgit.”. New section 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 15 the following section: “Private and public disclosure 15a. (1) The Minister may, in the interest of the members of a body corporate incorporated under this Act, take such steps as may be necessary to provide any information furnished by or on behalf of such trust or trustees, to the members of the body corporate. (2) The Minister may, in the interest of the public, take such steps as may be necessary to publish any information furnished by or on behalf of such trust or trustees, in any form or manner as he thinks fit.”. Amendment of section 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 19(2) of the principal Act is amended by inserting after the words “the Public Trust Corporation Act 1995 [Act 532]” the words “or in any relevant authorities as may be determined by the Minister”. New section 20a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/66/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 20 the following section: “Compounding of offences 20a. (1) The Minister may, with the approval of the Public Prosecutor, make regulations prescribing— (a) any offence under this Act as an offence which may be compounded; and (b) the method and procedure for compounding such offence. (2) The Registrar may, with the consent in writing of the Public Prosecutor, compound any offence committed by any person under this Act prescribed to be a compoundable offence by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Registrar of an amount of money not exceeding fifty per centum of the amount of maximum fine for that offence within such time as may be specified in his written offer. (3) An offer under subsection (2) may be made at any time after the offence has been committed but before any prosecution for it has been instituted. (4) If the amount specified in the offer is not paid within the time specified in the offer, or such extended time as the Registrar may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (5) Where an offence has been compounded under subsection (2), no prosecution shall after that be instituted in respect of the offence against the person to whom the offer to compound was made. (6) All sums of money received by the Registrar under this section shall be paid into and form part of the Federal Consolidated Fund.”. Amendment of section 21"
+      }
+    }
+  ]
+}

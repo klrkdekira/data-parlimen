@@ -201,21 +201,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 [Akta 334], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan menggantikan seksyen 1a dengan seksyen yang berikut: “ Pemakaian 1 a. (1) Akta ini hendaklah terpakai hanya bagi Sabah, Sarawak dan Wilayah Persekutuan Labuan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Akta ini tidak terpakai bagi mana-mana kenderaan perdagangan yang tertakluk kepada mana-mana undang-undang berhubungan dengan pelancongan atau industri pelancongan di Sabah, Sarawak dan Wilayah Persekutuan Labuan.”. Pindaan seksyen 2"
+        "@value": "Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 [Akta 334], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan menggantikan seksyen 1a dengan seksyen yang berikut: “ Pemakaian 1 a. (1) Akta ini hendaklah terpakai hanya bagi Sabah, Sarawak dan Wilayah Persekutuan Labuan. (2) Akta ini tidak terpakai bagi mana-mana kenderaan perdagangan yang tertakluk kepada mana-mana undang-undang berhubungan dengan pelancongan atau industri pelancongan di Sabah, Sarawak dan Wilayah Persekutuan Labuan.”. Pindaan seksyen 2"
       }
     },
     {

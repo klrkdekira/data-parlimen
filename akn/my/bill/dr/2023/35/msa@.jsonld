@@ -105,80 +105,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
       "@type": "akn:clause",
       "eli:number": "13",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_5"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan menggantikan seksyen 29 a dengan seksyen yang berikut: “Larangan atas pembakaran terbuka 29a. (1) Walau apa pun apa-apa yang berlawanan yang terkandung dalam Akta ini, tiada seorang pun boleh melakukan, membenarkan, mengarahkan atau menyebabkan pembakaran terbuka di mana-mana premis."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Menteri boleh melalui perintah yang disiarkan dalam Warta mengisytiharkan bahawa apa-apa kebakaran, pembakaran atau pembaraan bagi maksud apa-apa aktiviti yang ditentukan dalam perintah itu bukan pembakaran terbuka sebagaimana yang ditakrifkan dalam Akta ini selagi aktiviti itu dijalankan mengikut atau di bawah syarat-syarat yang dinyatakan dalam perintah itu dan tidak di dalam tempat atau kawasan yang ditentukan dalam perintah itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walaupun apa-apa kebakaran, pembakaran atau pembaraan tidak termasuk dalam takrif pembakaran terbuka di bawah subseksyen (2) atau bahawa ia adalah bagi maksud apa-apa aktiviti yang ditentukan dalam perintah yang dibuat di bawah subseksyen (2), Menteri, dalam hal keadaan yang dia menganggap bahawa—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "kualiti udara di dalam kawasan itu telah mencapai tahap yang tidak sihat; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "kebakaran, pembakaran atau pembaraan bagi maksud apa-apa aktiviti selain aktiviti yang ditentukan dalam perintah itu akan membahayakan alam sekeliling, boleh mengarahkan Ketua Pengarah mengeluarkan perintah larangan dalam suatu tempoh yang ditentukan dengan apa-apa cara dan mengikut apa-apa kaedah sebagaimana yang difikirkannya suai manfaat."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Ketua Pengarah boleh membatalkan perintah larangan yang dibuat di bawah subseksyen (3) dengan apa-apa cara atau mengikut apa-apa kaedah sebagaimana yang difikirkannya suai manfaat."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13__subsec_5",
-      "@type": "akn:subsection",
-      "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/35/msa@/~cl_13",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Mana-mana orang yang melanggar subseksyen (1) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh lima ribu ringgit dan tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi lima ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya menghentikan perbuatan yang dinyatakan dalamnya itu.”. Pemotongan seksyen 29aa"
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 29 a dengan seksyen yang berikut: “Larangan atas pembakaran terbuka 29a. (1) Walau apa pun apa-apa yang berlawanan yang terkandung dalam Akta ini, tiada seorang pun boleh melakukan, membenarkan, mengarahkan atau menyebabkan pembakaran terbuka di mana-mana premis. (2) Menteri boleh melalui perintah yang disiarkan dalam Warta mengisytiharkan bahawa apa-apa kebakaran, pembakaran atau pembaraan bagi maksud apa-apa aktiviti yang ditentukan dalam perintah itu bukan pembakaran terbuka sebagaimana yang ditakrifkan dalam Akta ini selagi aktiviti itu dijalankan mengikut atau di bawah syarat-syarat yang dinyatakan dalam perintah itu dan tidak di dalam tempat atau kawasan yang ditentukan dalam perintah itu. (3) Walaupun apa-apa kebakaran, pembakaran atau pembaraan tidak termasuk dalam takrif pembakaran terbuka di bawah subseksyen (2) atau bahawa ia adalah bagi maksud apa-apa aktiviti yang ditentukan dalam perintah yang dibuat di bawah subseksyen (2), Menteri, dalam hal keadaan yang dia menganggap bahawa— (a) kualiti udara di dalam kawasan itu telah mencapai tahap yang tidak sihat; dan (b) kebakaran, pembakaran atau pembaraan bagi maksud apa-apa aktiviti selain aktiviti yang ditentukan dalam perintah itu akan membahayakan alam sekeliling, boleh mengarahkan Ketua Pengarah mengeluarkan perintah larangan dalam suatu tempoh yang ditentukan dengan apa-apa cara dan mengikut apa-apa kaedah sebagaimana yang difikirkannya suai manfaat. (4) Ketua Pengarah boleh membatalkan perintah larangan yang dibuat di bawah subseksyen (3) dengan apa-apa cara atau mengikut apa-apa kaedah sebagaimana yang difikirkannya suai manfaat. (5) Mana-mana orang yang melanggar subseksyen (1) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak kurang daripada dua puluh lima ribu ringgit dan tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya, dan boleh juga dikenakan denda tambahan tidak melebihi lima ribu ringgit bagi tiap-tiap hari selama kesalahan itu berterusan selepas disampaikan kepadanya suatu notis oleh Ketua Pengarah menghendakinya menghentikan perbuatan yang dinyatakan dalamnya itu.”. Pemotongan seksyen 29aa"
       }
     },
     {

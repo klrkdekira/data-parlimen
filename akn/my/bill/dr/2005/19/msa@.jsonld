@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-19-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Akta Bank dan Institusi-Institusi Kewangan (Pindaan) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Bank dan Institusi-Institusi Kewangan (Pindaan) 2005."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Bank dan Institusi-Institusi Kewangan 1989 [Akta 372],"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen 4 sebagai subseksyen (1) seksyen itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(2) Suatu bank atau syarikat kewangan yang dilesenkan di bawah subseksyen 6(4) hendaklah disifatkan sebagai suatu institusi anggota di bawah Akta Perbadanan Insurans Deposit Malaysia 2005 [Akta ].\". Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 7(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"atau\" di hujung perenggan (j)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung perenggan (k) dengan perkataan \"; atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (k) perenggan yang berikut: \"(I) bank berlesen dan syarikat kewangan berlesen yang telah terhenti menjadi suatu institusi anggota di bawah Akta Perbadanan Insurans Deposit Malaysia 2005.\". Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 45 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Seksyen ini tidak terpakai bagi mana-mana pemerolehan atau pelupusan oleh mana-mana orang di bawah Akta Perbadanan Insurans Deposit Malaysia 2005.\". Pindaan seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 46 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Subseksyen (1) tidak terpakai bagi mana-mana orang yang memegang kepentingan dalam syer suatu bank berlesen atau syarikat kewangan berlesen menurut peruntukan Akta Perbadanan Insurans Deposit Malaysia 2005.\". Pindaan seksyen 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 49 Akta ibu dipinda dengan memasukkan selepas subseksyen (9) subseksyen yang berikut: \"(9A) Subseksyen (9) tidak terpakai bagi mana-mana perjanjian atau perkiraan yang dijalankan oleh mana-mana orang menurut Akta Perbadanan Insurans Deposit Malaysia 2005.\". Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 69 Akta ibu dipinda dengan memasukkan selepas perkataan \"Bank hendaklah,\" perkataan \"sama ada di bawah Akta ini atau Akta Perbadanan Insurans Deposit Malaysia 2005,\". Pindaan seksyen 81"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 81 Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Tertakluk kepada seksyen 10 Akta Prosiding Kerajaan 1956 [Akta 359} dan subseksyen 74(5), jika sesuatu institusi berlesen menjadi tak berupaya untuk menunaikan kesemua atau mana-mana obligasinya, menggantung bayaran kepada apa-apa takat atau digulungkan di bawah perenggan 73(2)(c), maka harta institusi itu di Malaysia hendaklah tersedia ada untuk menunaikan semua liabiliti institusi itu berkenaan dengan kesemua deposit di Malaysia diutamakan atas semua liabiliti tak bercagar lain institusi itu di Malaysia.\". Seksyen baru 98A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 98 seksyen yang berikut: \"Pendedahan bagi memudahkan pelaksanaan fungsi oleh Perbadanan Insurans Deposit Malaysia 98A. Peruntukan seksyen 97 tidak terpakai bagi pendedahan apa-apa maklumat atau dokumen kepada mana-mana pengarah, pegawai, pekerja atau ejen Perbadanan Insurans Deposit Malaysia (selepas ini dalam seksyen ini disebut sebagai \"Perbadanan\") yang ditubuhkan di bawah Akta Perbadanan Insurans Deposit Malaysia 2005 yang pendedahan itu adalah bagi maksud penjalanan kuasa, pelaksanaan fungsi atau penunaian tugas Perbadanan atau pengarah, pegawai, pekerja atau ejen Perbadanan di bawah Akta itu.\"."
+      }
+    }
+  ]
+}

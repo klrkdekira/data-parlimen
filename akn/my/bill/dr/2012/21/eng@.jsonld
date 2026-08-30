@@ -1,0 +1,1066 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-21-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysia Volunteers Corps Bill 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ESTABLISHMENT AND APPOINTMENT OF MALAYSIA VOLUNTEERS CORPS (RELA) Establishment of Malaysia Volunteers Corps"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DUTIES AND POWERS OF RELA Duties of RELA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every officer and member of RELA shall have the following duties:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to assist any security force or authority established under written law upon request of the force or authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to give assistance to the relevant authority in controlling and diverting motor vehicle;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to take part in community service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to assist in protecting building, installation or other property belonging to the Federal or State Government or any other statutory body or such private property upon request of the owner of the building, installation or property; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out any orders and directions issued by the Director General not inconsistent with the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every officer and member of RELA shall perform the duties and exercise the powers as are by law imposed and shall obey all lawful directions which he may receive from his superior officer authorized by the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of exercising the duty under paragraph (1)(a), the officer and member of RELA shall be under the command of an officer of the security force or authority, as the case may be, who is present at the place. Power to control and divert motor vehicle"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of exercising the duty under paragraph 5(1)(b), the officer and member of RELA may divert any motor vehicle on a road, street and any place to which the public have access."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In exercising the powers under subsection (1), the officer and member of RELA shall be under the command of the police officer or traffic warden, as the case may be, who is present at the place."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There is established a Malaysia Volunteers Corps (RELA) that shall consist of such number of officers and members of RELA. Appointment of Director General, Deputy Director General and other officers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint, from among the members of the public service, a Director General of RELA who shall be subject to the control and direction of the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint, from among the members of the public service, such number of Deputies Director General of RELA and such other officers as may be necessary for the purpose of carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All officers appointed under subsection (2) and members of RELA enrolled under this Act shall be subject to the command, control and direction of the Director General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may in writing, subject to such conditions, limitations or restrictions as he thinks fit to impose, delegate all or any of his powers or functions under this Act to a Deputy Director General of RELA or to an officer of RELA."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MEMBER OF RELA AND ENROLMENT Enrolment as member of RELA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of RELA shall undergo training as the Director General may prescribe to fit him for the duties which he may be called upon to perform. Leave for training"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every employer shall, if any person in his employment who is a member of RELA is called up for training under this Act, grant such person leave for the duration of the period of the training to enable him to undergo the training."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The period of training shall not exceed ten days at any one time."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No employer shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "subject to subsection (4), make or cause to be made any undue transfer or deduction from the pay, other remuneration or annual leave of such person;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "impose or cause to be imposed upon, or exact from, such person any penalty; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "change the terms and conditions of the employment of such person to his prejudice, solely by reason of his absence from work during the period of training."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An employer who is within the definition of the Employment Act 1955 [Act 265], Labour Ordinance [Sabah Cap. 67] or Labour Ordinance [Sarawak Cap. 76] may deduct the pay or other remuneration of such person who undergoes the training under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An employer who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "directly or indirectly refuses or, by intimidation, undue influence or in any other manner, interferes with, the granting to any person of the period of leave required under subsection (1); or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "contravenes subsection (3), commits an offence and shall, on conviction, be liable to a fine not exceeding six thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court by which an employer is convicted of an offence under subsection (5) for the contravention of subsection (3) may order the employer to pay to the person referred to in subsection (3) the pay and other remuneration to which that person is entitled during the period of training. Prohibition of dismissal of employees by reason of training"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every employer who dismisses a person who is a member of RELA from his employment mainly by reason of the person being called up for training under this Act commits an offence and shall, on conviction, be liable to a fine not exceeding six thousand ringgit. Resignation of member"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of RELA may at any time resign as a member by giving written notice to the effect to the officer or member of RELA in immediate command of him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The officer or member of RELA, upon receipt of the notice under subsection (1), shall serve a notice on the member resigning informing him that he has been discharged from membership of RELA and thereupon such person shall cease to be a member of RELA."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who has ceased to be a member of RELA under subsection (2) shall, within fourteen days after he ceases to be a member, surrender the certificate of appointment issued to him under this Act. Termination of membership"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General or an officer of RELA authorized by him may terminate the membership of a member of RELA. Allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of RELA who is on duty shall be paid such allowances as the Minister may determine after consultation with the Minister of Finance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who is eighteen years old and above who is a citizen and not a member of the Armed Forces of Malaysia or any force or volunteer scheme established under any written law may apply in writing to the Director General to be enrolled as a member of RELA."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon such application, the Director General or an officer authorized by him may enrol or refuse to enrol the person as a member of RELA."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person shall be deemed to have been enrolled as a member of RELA upon service of a notice to him by the Director General or an officer authorized by the Director General that he has been selected for enrolment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of RELA who is below the age of eighteen on the coming into operation of this Act shall cease to be a member of RELA. Certificate of appointment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General shall issue a certificate of appointment in the form of a security card to every member of RELA. Period of membership"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The period of enrolment for every member of RELA shall be five years from the date of his enrolment and the Director General or an officer authorized by him may extend the period of enrolment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member whose period of enrolment is not extended shall have his name placed on a reserve list. Training"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Malaysia Volunteers Corps Act 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on 22 June 2012. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“member of RELA” means a volunteer member who has been enrolled as a member of RELA under subsection 7(1); “motor vehicle” has the same meaning assigned to it in section 2 of the Road Transport Act [Act 333]; “Director General” means the Director General of RELA appointed under subsection 4(1); “community service” means any work, service or course of instruction for the betterment of the public at large as directed by the Director General; “Minister” means the Minister charged with the responsibility for RELA; “Malaysia Volunteers Corps” or “RELA” means the volunteers corps established under this Act; “officer of RELA” means any person who has been appointed as an officer of RELA under subsections 4(1) and (2); “traffic warden” has the same meaning assigned to it in section 2 of the Road Transport Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OFFENCES Offence of possession of certificate of appointment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Uniform and equipment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every officer of RELA shall be issued with such uniform and equipment and wear such badges of rank as the Director General may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of RELA who is eligible for uniform and equipment shall be issued with such uniform and equipment and wear such badges of rank as the Director General may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The officer and member of RELA referred to in subsections (1) and (2) shall retain in his possession and maintain in good order such uniform and equipment. Uniform and equipment to be delivered up on ceasing to be member"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When an officer or a member of RELA ceases to be in RELA he shall, within fourteen days, deliver to the person appointed by the Director General for that purpose his uniform and equipment which has been supplied to him."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer or a member of RELA who, having ceased to be a member of RELA, without good cause fails to comply with subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three months or to both, and, in addition, shall be liable to pay the value of the property not delivered up, and such value may be ascertained by the court in a summary manner and shall be recoverable as a fine. RELA areas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may, from time to time, determine RELA areas for the purpose of administrative control by such officers and members of RELA as determined by the Director General. Rank of RELA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The ranks of RELA are as set out in the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, amend the Schedule. Honorary and associates ranks"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may grant an honorary or associate rank in RELA to any person as he may think fit. Director General’s Standing Orders"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General may issue administrative orders to be called “Standing Orders” not inconsistent with this Act or regulations made under this Act on the general control, duties and training of RELA officers and members. Public servants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Director General, Deputies Director General, officers and every member of RELA, while discharging the duties as such officer or member of RELA shall be deemed to be public servants within the meaning of the Penal Code [Act 574]. The Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Director General, Deputies Director General or any officer or member of RELA in respect of any act, neglect or default done or committed by him in good faith or any omission by him in good faith, in such capacity. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations not inconsistent with this Act for carrying out the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Minister may make regulations relating to all or any of the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the payment of gratuities, allowances, benefits, compensation and any other grants payable to members of RELA under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the description and issuance of uniforms and necessaries to be supplied to the officers and members of RELA;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the grant of honorary and associate ranks to persons and the occasions on which persons may wear the uniforms of such ranks; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_27__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "providing for such other matters as are contemplated by, or necessary for giving full effect to, the provisions of this Act. Savings provision"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The persons who were appointed under the Essential (Ikatan Relawan Rakyat) Regulations 1966 [P.U. 33/66] shall continue to be officers under this Act as if those persons had been appointed under subsections 4(1) and (2) of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection 7(4), the persons who were enrolled as members of the Ikatan Relawan Rakyat under the Essential (Ikatan Relawan Rakyat) Regulations 1966 shall continue to be members under this Act as if those persons had been enrolled under subsection 7(2) of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person, who is not a member of RELA, shall not have in his possession a certificate of appointment issued to any person under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding three thousand ringgit or to imprisonment for a term not exceeding three years or to both. Offence of obstruction"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who obstructs, dissuades or deters or attempts to obstruct, dissuade or deter or assists in obstructing, dissuading or deterring any person from enrolling in RELA or from performing his duties or exercising his powers as a member of RELA, commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both. Personation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person not being an officer or a member of RELA who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "pretends to be an officer or a member of RELA knowing that he is not;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "falsely personates an officer or a member of RELA; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in such assumed character does or attempts to do any act under colour of being an officer or a member of RELA, commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~sched_1__para_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 22] RANKS OF RELA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "OFFICER OF RELA"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "General Lieutenant General Major General Brigadier General Colonel Lieutenant Colonel Major"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/21/eng@/~sched_1",
+      "schema:name": {
+        "@language": "en",
+        "@value": "MEMBER OF RELA"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Captain Lieutenant Second Lieutenant Warrant Officer I Warrant Officer II Staff Sergeant Sergeant Corporal Lance Corporal Private"
+      }
+    }
+  ]
+}

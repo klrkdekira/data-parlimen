@@ -1,0 +1,2355 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-60-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perkongsian Data 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "JAWATANKUASA PERKONGSIAN DATA NEGARA Penubuhan Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KEWAJIPAN DAN KUASA KETUA PENGARAH Kewajipan dan kuasa Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah mempunyai kewajipan dan kuasa seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan dasar dan strategi yang berhubungan dengan perkongsian data yang dibuat oleh Jawatankuasa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelaras dan memudah cara perkongsian data di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihati dan membuat syor kepada Jawatankuasa mengenai perkara yang berhubungan dengan perkongsian data di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menghendaki mana-mana orang untuk mengemukakan apa-apa maklumat atau dokumen yang berkenaan bagi maksud melaksanakan kewajipan dan kuasanya di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengeluarkan pekeliling atau garis panduan bagi maksud Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan apa-apa tugasan lain sebagaimana yang diarahkan oleh Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah mempunyai semua kuasa yang perlu bagi, atau berkaitan dengan, atau semunasabahnya bersampingan dengan, penjalanan kewajipan dan kuasanya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh menubuhkan apa-apa jawatankuasa kecil sebagaimana yang difikirkannya perlu atau suai manfaat untuk membantu Jawatankuasa dalam pelaksanaan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh melantik mana-mana orang untuk menjadi anggota mana-mana jawatankuasa kecil yang ditubuhkan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh melantik mana-mana anggotanya untuk menjadi pengerusi jawatankuasa kecil yang ditubuhkan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa kecil adalah tertakluk kepada dan bertindak mengikut apa-apa arahan yang diberikan oleh Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa kecil hendaklah bermesyuarat pada masa, di tempat dan mengikut cara sebagaimana yang boleh ditentukan oleh pengerusi jawatankuasa kecil itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa kecil boleh mengundang mana-mana orang untuk menghadiri mesyuarat jawatankuasa kecil bagi menasihati jawatankuasa kecil mengenai apa-apa perkara yang sedang dibincangkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa kecil boleh menentukan tatacaranya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu jawatankuasa dengan nama “Jawatankuasa Perkongsian Data Negara” ditubuhkan dan hendaklah bertanggungjawab kepada Jemaah Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah terdiri daripada anggota seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha kementerian yang dipertanggungkan dengan tanggungjawab bagi perkara berkaitan digital, yang hendaklah menjadi Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil dari setiap kementerian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Jabatan Perdana Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Keselamatan Kerajaan Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Agensi Keselamatan Siber Negara; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Jabatan Perlindungan Data Peribadi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota Jawatankuasa yang disebut dalam perenggan (2)(b) hingga (f) hendaklah dilantik oleh Menteri dan Menteri boleh, berkenaan dengan setiap anggota itu, melantik seorang anggota silih ganti untuk menghadiri mesyuarat Jawatankuasa apabila anggota itu tidak dapat hadir atas apa-apa sebab."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi hendaklah melantik dalam kalangan anggota Jawatankuasa seorang Timbalan Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah menjadi setiausaha kepada Jawatankuasa. Fungsi Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah mempunyai fungsi seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat dasar dan strategi yang berhubungan dengan perkongsian data di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelia pelaksanaan yang berkesan Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengambil atau mengesyorkan langkah atau tindakan pentadbiran yang sesuai bagi menyelesaikan kesulitan atau isu pentadbiran yang timbul semasa pelaksanaan Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat dasar yang berhubungan dengan pangkalan data bagi maksud perkongsian data di bawah Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan apa-apa perkara lain yang timbul atau berbangkit daripada fungsi Jawatankuasa di bawah Akta ini selaras dengan maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dasar dan strategi yang disebut dalam subseksyen (1) boleh termasuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tatacara untuk memelihara privasi dan kerahsiaan data;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perlindungan yang berhubungan dengan pengendalian dan penyimpanan data;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kaedah bagi perkongsian data di bawah Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "rangka kerja pengurusan risiko bagi pengendalian dan penyimpanan data."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah mempunyai segala kuasa sebagaimana yang perlu bagi, atau berkaitan dengan, atau yang semunasabahnya bersampingan dengan, pelaksanaan fungsinya di bawah Akta ini. Penjalanan sementara fungsi Pengerusi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Pengerusi hendaklah bertindak sebagai Pengerusi selama tempoh apabila—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jawatan Pengerusi kosong; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi, atas apa-apa sebab, tidak boleh menjalankan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Pengerusi hendaklah, dalam tempoh dia menjalankan fungsi Pengerusi di bawah seksyen ini, disifatkan sebagai Pengerusi. Mesyuarat Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa hendaklah mengadakan mesyuaratnya sebagaimana yang boleh ditentukan oleh Pengerusi dan mesyuarat hendaklah diadakan pada masa, di tempat dan mengikut cara sebagaimana yang boleh ditentukan oleh Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi hendaklah mempengerusikan semua mesyuarat Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Pengerusi tidak hadir pada mana-mana mesyuarat Jawatankuasa, dia boleh mengarahkan Timbalan Pengerusi untuk menggantikannya sebagai pengerusi mesyuarat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lima belas orang anggota, termasuk Pengerusi, hendaklah membentuk kuorum mesyuarat Jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh menentukan tatacaranya sendiri. Jawatankuasa boleh mengundang orang lain untuk menghadiri mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh mengundang mana-mana orang untuk menghadiri mesyuarat Jawatankuasa bagi menasihati Jawatankuasa mengenai apa-apa perkara yang sedang dibincangkan. Jawatankuasa boleh menubuhkan jawatankuasa kecil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERKONGSIAN DATA Permintaan bagi perkongsian data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana agensi sektor awam boleh, mengikut apa-apa cara sebagaimana yang boleh ditentukan oleh Ketua Pengarah, meminta kepada agensi sektor awam lain bagi perkongsian data di bawah kawalan agensi sektor awam lain itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Permintaan yang disebut dalam subseksyen (1) hendaklah menyatakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "data yang diminta;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tujuan yang baginya data itu diminta;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "agensi sektor awam yang dihasratkan untuk menjadi penerima data dan pembekal data; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "cara pengendalian data yang diminta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), suatu agensi sektor awam dianggap mempunyai kawalan data jika data itu berada dalam milikan atau jagaan agensi sektor awam itu. Tujuan yang baginya data boleh dikongsi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu permintaan bagi perkongsian data boleh dibuat dan diberikan bagi tujuan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk meningkatkan kecekapan atau keberkesanan dasar, pengurusan program atau perancangan dan penyampaian perkhidmatan oleh agensi sektor awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengurangkan atau mencegah ancaman terhadap nyawa, kesihatan atau keselamatan seseorang, atau ancaman terhadap kesihatan atau keselamatan awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk bertindak balas terhadap kecemasan awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "demi kepentingan awam; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tujuan lain sebagaimana yang ditentukan oleh Jawatankuasa. Penilaian dan maklum balas agensi sektor awam yang menerima permintaan bagi perkongsian data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Agensi sektor awam yang kepadanya permintaan bagi perkongsian data dibuat di bawah seksyen 13 hendaklah, setelah menerima permintaan itu, membuat penilaian seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada tujuan yang baginya data itu diminta mewajarkan perkongsian data itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada perkongsian data itu adalah bertentangan dengan kepentingan awam; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sama ada agensi sektor awam yang meminta data itu mempunyai perlindungan keselamatan dan teknikal yang sesuai untuk memastikan data yang dikongsi tidak boleh diakses atau digunakan tanpa kebenaran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setelah penilaian di bawah subseksyen (1) dibuat, agensi sektor awam yang kepadanya permintaan bagi perkongsian data dibuat hendaklah, dalam masa empat belas hari daripada tarikh penerimaan permintaan itu memberi maklum balas sama ada data yang diminta boleh diberi, dengan atau tanpa syarat, atau ditolak di bawah seksyen 15."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika maklum balas yang dirujuk dalam subseksyen (2) tidak dapat diberikan dalam tempoh yang dinyatakan, agensi sektor awam yang kepadanya permintaan bagi perkongsian data dibuat hendaklah memaklumkan agensi sektor awam yang membuat permintaan itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebab maklum balas itu tidak dapat diberikan dalam tempoh yang dinyatakan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tempoh maklum balas itu akan diberikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maklum balas dan maklumat yang disebut dalam seksyen ini hendaklah diberikan mengikut apa-apa cara sebagaimana yang boleh ditentukan oleh Ketua Pengarah. Penolakan untuk berkongsi data yang diminta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Agensi sektor awam yang kepadanya permintaan bagi perkongsian data dibuat di bawah seksyen 12 boleh menolak untuk berkongsi sebahagian atau semua data yang diminta atas sebab-sebab seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "data yang diminta secara munasabahnya boleh dijangka akan menzahirkan, atau membolehkan seseorang untuk menentukan, identiti bagi suatu sumber maklumat yang sulit yang berhubungan dengan penguatkuasaan atau pentadbiran undang-undang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "data yang diminta secara munasabahnya boleh dijangka akan menzahirkan kewujudan atau identiti seseorang yang termasuk dalam program perlindungan saksi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "data yang diminta secara munasabahnya boleh dijangka akan menzahirkan langkah atau tatacara penyiasatan, termasuk metodologi pengumpulan risikan, teknik atau teknologi penyiasatan, amalan rahsia atau perkiraan perkongsian maklumat antara agensi penguatkuasaan undang-undang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perkongsian data yang diminta akan melanggar satu atau lebih daripada yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keistimewaan peguam cara dan klien atau keistimewaan profesional undang-undang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perjanjian atau kontrak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kewajipan kerahsiaan mengikut ekuiti; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perintah mahkamah atau tribunal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "data yang diminta melibatkan satu atau lebih daripada yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keselamatan atau pertahanan negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyiasatan pelanggaran, atau kemungkinan pelanggaran, mana-mana undang-undang bertulis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "inkues atau siasatan mengenai kematian; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "prosiding di hadapan mahkamah atau tribunal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "agensi sektor awam itu mempercayai atas alasan yang munasabah bahawa perkongsian data yang diminta berkemungkinan akan membahayakan kesihatan, keselamatan atau kebajikan satu atau lebih individu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "data yang diminta adalah bercanggah dengan tujuan di bawah seksyen 13 dan tidak wajar untuk dikongsi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "agensi sektor awam yang meminta data itu tidak mempunyai perlindungan keselamatan dan teknikal yang sesuai untuk memastikan data yang dikongsi tidak boleh diakses atau digunakan tanpa kebenaran; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa sebab lain sebagaimana yang boleh ditentukan oleh Jawatankuasa. Kewajipan yang berhubungan dengan perkongsian data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pembekal data dan penerima data hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memastikan bahawa data yang dikongsikan diurus dan disenggarakan dengan mematuhi apa-apa kehendak undang-undang berkenaan dengan jagaan dan kawalannya yang terpakai bagi data itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengambil langkah yang perlu untuk memastikan keselamatan dan privasi data termasuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perlindungan data daripada apa-apa kehilangan, penyalahgunaan, pengubahsuaian, akses atau penzahiran tanpa kebenaran atau tidak sengaja, pindaan atau pemusnahan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemeliharaan hak individu yang berhubungan dengan perlindungan data peribadi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyimpan rekod semua butir-butir yang berhubungan dengan data yang dikongsi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melaporkan apa-apa perkongsian data tanpa kebenaran kepada Ketua Pengarah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mematuhi apa-apa kehendak lain sebagaimana yang boleh ditentukan oleh Jawatankuasa. Kewajipan pihak ketiga untuk melindungi data yang dikongsi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika penerima data membuat perkiraan dengan pihak ketiga untuk menjalankan apa-apa pemindahan data, integrasi data atau kerja analitik data menggunakan data yang dikongsi di bawah Akta ini, penerima data hendaklah memastikan bahawa persetujuan pembekal data diperoleh sebelum data itu dikendalikan oleh pihak ketiga itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak ketiga yang disebut dalam subseksyen (1) hendaklah mengendalikan data itu dengan mematuhi Akta ini dan kehendak yang berhubungan dengan keselamatan data yang terpakai berkenaan dengan data yang dikongsi itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pihak ketiga yang melanggar subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. Sekatan terhadap penggunaan selanjutnya dan penzahiran data yang dikongsi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pegawai atau pekhidmat kepada penerima data tidak boleh menggunakan atau menzahirkan data yang dikongsi di bawah Akta ini selain bagi tujuan yang baginya data itu dikongsi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pegawai atau pekhidmat kepada penerima data yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau dipenjara selama tempoh tidak melebihi lima tahun atau kedua-duanya. Pengenaan fi di bawah undang-undang bertulis lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkongsian data di bawah Akta ini boleh, jika berkenaan, tertakluk kepada pembayaran fi sebagaimana yang boleh dikenakan oleh pembekal data di bawah mana-mana undang-undang bertulis lain. Perkongsian data terbuka"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perkongsian data terbuka, apa-apa data terbuka yang tersedia secara bebas oleh mana-mana agensi sektor awam boleh dicapai dan dikongsikan tidak kira sama ada suatu permintaan dibuat di bawah seksyen 12 atau tidak. Kewajipan untuk melaporkan butir-butir yang berhubungan dengan perkongsian data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Agensi sektor awam hendaklah menyediakan laporan secara bertulis kepada Ketua Pengarah mengenai perkara seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "butir-butir permintaan bagi perkongsian data yang dibuat oleh agensi sektor awam itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "maklum balas yang diberikan yang berhubungan dengan permintaan bagi perkongsian data itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika data yang diminta itu ditolak, sebab penolakan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa maklumat lain dalam kawalan agensi sektor awam itu seb agaiman a ya ng b ol e h di ke he n da ki o le h Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan yang disebut dalam subseksyen (1) hendaklah dikemukakan dari semasa ke semasa sebagaimana yang boleh dikehendaki oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perkongsian Data 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Akta ini mengikat Kerajaan Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mengikat Kerajaan Persekutuan. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“agensi sektor awam” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "agensi yang bertanggungjawab bagi perkhidmatan awam yang disebut dalam Fasal (1) Perkara 132 Perlembagaan Persekutuan, kecuali perkhidmatan yang disebut dalam perenggan (f) dan (g); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pihak berkuasa berkanun yang menjalankan kuasa yang terletak hak padanya menurut undang-undang persekutuan; “data” ertinya apa-apa fakta, statistik, arahan, konsep atau maklumat lain dalam bentuk yang boleh disampaikan, dianalisis atau diproses, sama ada oleh individu atau komputer atau cara lain; “dokumen” mempunyai erti yang sama yang diberikan kepadanya di bawah Akta Keterangan 1950 [Akta 56]; “integrasi data” ertinya proses gabungan data; “Jawatankuasa” ertinya Jawatankuasa Perkongsian Data Negara yang ditubuhkan di bawah seksyen 5; “kerja analitik data” ertinya pemeriksaan dan analisis data bagi maksud membuat kesimpulan hasil daripada pemeriksaan dan analisis itu; “Ketua Pengarah” ertinya Ketua Pengarah Jabatan Digital Negara; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi perkara berkaitan digital; “pembekal data” ertinya agensi sektor awam yang berkongsi data kepada penerima data di bawah Bahagian IV; “penerima data” ertinya agensi sektor awam yang kepadanya data dikongsikan di bawah Bahagian IV. Rukun perkongsian data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah dibaca bersama-sama peruntukan undang-undang bertulis lain yang membenarkan suatu perkongsian data dibuat, tertakluk kepada syarat yang diperuntukkan di bawah undang-undang bertulis itu, dan peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan undang-undang bertulis yang berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang berkongsi data di bawah Akta ini disifatkan telah membuat penzahiran menurut peruntukan yang dinyatakan dalam ruang (3) di bawah undang-undang yang dinyatakan dalam ruang (2) kepada Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa data agensi sektor awam hendaklah diurus selaras dengan Akta Rahsia Rasmi 1972 [Akta 88] dan apa-apa arahan yang berhubungan dengan keselamatan dokumen rasmi yang dikeluarkan oleh Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Kuasa penguatkuasaan, pemeriksaan dan penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini, seorang pegawai polis yang berpangkat tidak rendah daripada sarjan hendaklah mempunyai segala kuasa seorang pegawai polis yang apa jua pun pangkatnya sebagaimana yang diperuntukkan dalam Kanun Tatacara Jenayah [Akta 593] yang berhubungan dengan penguatkuasaan, pemeriksaan dan penyiasatan apa-apa kesalahan di bawah Akta ini. Kewajipan kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi mana-mana maksud Akta ini atau bagi maksud apa-apa prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis, mana-mana pegawai atau pekhidmat sesuatu agensi sektor awam, sama ada semasa atau selepas tempoh jawatan atau penggajiannya, tidak boleh menzahirkan apa-apa maklumat yang diperolehnya semasa melaksanakan kewajipannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu juta ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya. Perlindungan daripada guaman dan prosiding undang-undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan, guaman, pendakwaan atau prosiding lain boleh dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap Menteri, mana-mana anggota Jawatankuasa, Ketua Pengarah atau mana-mana pegawai atau pekhidmat agensi sektor awam atas sebab atau yang berkenaan dengan apa-apa perbuatan, kecuaian atau keingkaran yang dilakukan atau yang ditinggalkan olehnya dalam masa menjalankan kewajipannya di bawah Akta ini melainkan jika boleh dibuktikan bahawa perbuatan, kecuaian atau keingkaran itu telah dilakukan atau ditinggalkan dengan niat jahat dan tanpa sebab yang munasabah. Pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan bagi suatu kesalahan di bawah Akta ini boleh dimulakan kecuali oleh atau dengan keizinan bertulis Pendakwa Raya. Tanggungan pengarah, dsb., bagi badan berkanun"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana orang yang melakukan kesalahan di bawah Akta ini ialah suatu badan berkanun, seseorang yang pada masa pelakuan kesalahan itu ialah seorang pengarah, pegawai pematuhan, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi badan berkanun itu atau yang berupa sebagai bertindak atas sifat itu atau yang dengan apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal ehwal badan berkanun itu atau yang membantu dalam pengurusannya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama bersekali dengan badan berkanun itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika badan berkanun itu didapati bersalah atas kesalahan itu, hendaklah disifatkan bersalah atas kesalahan itu dan boleh dikenakan hukuman atau penalti yang sama sebagaimana seorang individu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan— Kuasa untuk mengecualikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahawa kesalahan itu telah dilakukan tanpa pengetahuannya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_26__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah mengambil segala langkah yang munasabah dan menjalankan usaha yang wajar untuk menghalang pelakuan kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, tertakluk kepada apa-apa syarat atau sekatan yang difikirkannya perlu atau suai manfaat untuk dikenakan, mengecualikan mana-mana orang atau golongan orang daripada mana-mana atau semua peruntukan Akta ini. Kuasa untuk memberi arahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh memberikan arahan kepada Ketua Pengarah selaras dengan peruntukan Akta ini dan Ketua Pengarah hendaklah melaksanakan arahan itu. Kuasa untuk meminda Jadual"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, selepas berunding dengan Menteri yang dipertanggungkan dengan tanggungjawab bagi sesuatu undang-undang bertulis yang berkaitan, melalui perintah yang disiarkan dalam Warta, meminda Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_45"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Subseksyen 4(2)] UNDANG-UNDANG BERTULIS (1) (2) Undang-Undang Bertulis Bil."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Banci 1960 [Akta 16]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Universiti Teknologi MARA 1976 [Akta 173]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Kelantan Selatan 1978"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 203]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_12",
+      "@type": "akn:paragraph",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Kemajuan Kraftangan Malaysia"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1979 [Akta 222]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_13",
+      "@type": "akn:paragraph",
+      "eli:number": "13",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_13__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Lebuh Raya Malaysia (Perbadanan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1980 [Akta 231]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(2) Undang-Undang Bertulis Bil."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_14",
+      "@type": "akn:paragraph",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Wilayah Pulau Pinang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1983 [Akta 282]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_15",
+      "@type": "akn:paragraph",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pelesenan Tenaga Atom 1984 [Akta 304]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_16",
+      "@type": "akn:paragraph",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Hakcipta 1987 [Akta 332]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_17",
+      "@type": "akn:paragraph",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Industri Malaysia"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pemerbadanan) 1965 [Akta 397]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_18",
+      "@type": "akn:paragraph",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Majlis Produktiviti Negara (Pemerbadanan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1966 [Akta 408]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_19",
+      "@type": "akn:paragraph",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pembangunan Langkawi 1990"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 423]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Audit 1957 [Akta 62]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_20",
+      "@type": "akn:paragraph",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Maktab Kerjasama (Pemerbadanan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1968 [Akta 437]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_21",
+      "@type": "akn:paragraph",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Penggalakan Pelancongan Malaysia"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1992 [Akta 481]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_22",
+      "@type": "akn:paragraph",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Industri Pelancongan 1992 [Akta 482]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_23",
+      "@type": "akn:paragraph",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Majlis Amanah Rakyat 1966 [Akta 489]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_24",
+      "@type": "akn:paragraph",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pembangunan Industri Pembinaan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Malaysia 1994 [Akta 520]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_25",
+      "@type": "akn:paragraph",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Kawalan Padi dan Beras 1994 [Akta 522]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_26",
+      "@type": "akn:paragraph",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Hasil Dalam Negeri Malaysia"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1995 [Akta 533]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_27",
+      "@type": "akn:paragraph",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Putrajaya 1995 [Akta 536]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_28",
+      "@type": "akn:paragraph",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Tabung Pendidikan Tinggi"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Nasional 1997 [Akta 566]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_29",
+      "@type": "akn:paragraph",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Minyak Sawit Malaysia 1998"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 582]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Pertanian Kemubu"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1972 [Akta 69]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_30",
+      "@type": "akn:paragraph",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Labuan 2001 [Akta 609]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_31",
+      "@type": "akn:paragraph",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pembangunan Sumber Manusia Berhad"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2001 [Akta 612]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_32",
+      "@type": "akn:paragraph",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Suruhanjaya Syarikat Malaysia 2001"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 614]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_33",
+      "@type": "akn:paragraph",
+      "eli:number": "33",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_33__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Harta Intelek Malaysia 2002"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 617]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(2) Undang-Undang Bertulis Bil."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_34",
+      "@type": "akn:paragraph",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Tabung Pembangunan Kemahiran 2004"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 640]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_35",
+      "@type": "akn:paragraph",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pembangunan Kemahiran Kebangsaan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2006 [Akta 652]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_36",
+      "@type": "akn:paragraph",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Akademi Seni Budaya dan Warisan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kebangsaan 2006 [Akta 653]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_37",
+      "@type": "akn:paragraph",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Lada Malaysia 2006 [Akta 656]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_38",
+      "@type": "akn:paragraph",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Wilayah Iskandar"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2007 [Akta 664]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_39",
+      "@type": "akn:paragraph",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Agensi Kelayakan Malaysia 2007 [Akta 679]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Pertanian Muda 1972"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 70]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_40",
+      "@type": "akn:paragraph",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Pihak Berkuasa Pelaksanaan Koridor Utara"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2008 [Akta 687]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_41",
+      "@type": "akn:paragraph",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Majlis Pembangunan Wilayah Ekonomi"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pantai Timur 2008 [Akta 688]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_42",
+      "@type": "akn:paragraph",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kenaf dan Tembakau Negara"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2009 [Akta 692]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_43",
+      "@type": "akn:paragraph",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Makanan Haiwan 2009 [Akta 698]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_44",
+      "@type": "akn:paragraph",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Perbadanan Stadium Malaysia 2010"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 717]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_45",
+      "@type": "akn:paragraph",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Institut Sukan Negara 2011 [Akta 729]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Terengganu Tengah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1973 [Akta 104]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Perindustrian Pembalakan Malaysia"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pemerbadanan) 1973 [Akta 105]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pertubuhan Peladang 1973"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Akta 110]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pemasaran Pertanian Persekutuan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1965 [Akta 141]"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/60/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Racun Makhluk Perosak 1974 [Akta 149]"
+      }
+    }
+  ]
+}

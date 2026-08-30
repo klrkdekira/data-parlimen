@@ -1,0 +1,400 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-9-2018",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Cukai Barang dan Perkhidmatan (Pemansuhan) 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana ejen cukai yang kelulusannya di bawah seksyen 170 Akta yang dimansuhkan masih sah sebaik sebelum tarikh yang ditetapkan boleh terus bertindak bagi pihak mana-mana orang bagi apa-apa perkara di bawah Akta yang dimansuhkan pada atau selepas tarikh yang ditetapkan sehingga kelulusan itu habis tempoh atau dibatalkan oleh Menteri, mengikut mana-mana yang lebih awal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Barang dan Perkhidmatan (Pemansuhan) 2018."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“Akta yang dimansuhkan” ertinya Akta Cukai Barang dan Perkhidmatan 2014 [Akta 762]; “cukai barang dan perkhidmatan” ertinya cukai barang dan perkhidmatan yang dikenakan dan dilevikan di bawah Akta yang dimansuhkan; “Ketua Pengarah” ertinya Ketua Pengarah Kastam dan Eksais yang dilantik di bawah seksyen 3 Akta Kastam 1967 [Akta 235]; “tarikh yang ditetapkan” ertinya tarikh yang ditetapkan di bawah subseksyen 1(2); “tempoh bercukai” ertinya tempoh bercukai yang dibenarkan atau ditetapkan semula oleh Ketua Pengarah di bawah seksyen 40 Akta yang dimansuhkan; “Tribunal Rayuan Cukai Barang dan Perkhidmatan” ertinya Tribunal Rayuan Cukai Barang dan Perkhidmatan yang ditubuhkan di bawah seksyen 125 Akta yang dimansuhkan; “Tribunal Rayuan Kastam” ertinya Tribunal Rayuan Kastam yang ditubuhkan di bawah seksyen 141b Akta Kastam 1967. Pemansuhan Akta Cukai Barang dan Perkhidmatan 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Barang dan Perkhidmatan 2014 dimansuhkan. Penerusan liabiliti, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walaupun Akta Cukai Barang dan Perkhidmatan 2014 dimansuhkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa liabiliti yang ditanggung boleh dikuatkuasakan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa cukai barang dan perkhidmatan yang genap masa, yang terlebih bayar atau yang terkhilaf bayar boleh dipungut, dibayar balik atau diremitkan, di bawah Akta yang dimansuhkan seolah-olah Akta yang dimansuhkan itu tidak dimansuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walaupun Akta Cukai Barang dan Perkhidmatan 2014 dimansuhkan, seksyen 178, 181 dan 191 Akta yang dimansuhkan hendaklah terus berkuat kuasa selepas tarikh yang ditetapkan. Permohonan untuk semakan yang belum selesai dan rayuan yang belum selesai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan untuk semakan di bawah subseksyen 124(1) Akta yang dimansuhkan yang belum selesai di hadapan Ketua Pengarah bagi keputusannya sebaik sebelum tarikh yang ditetapkan hendaklah, pada atau selepas tarikh yang ditetapkan, diuruskan di bawah Akta yang dimansuhkan seolah-olah Akta yang dimansuhkan itu tidak dimansuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa keputusan yang dibuat oleh Ketua Pengarah di bawah subseksyen 124(2) Akta yang dimansuhkan sebelum atau selepas tarikh yang ditetapkan, yang boleh dirayu kepada Tribunal Rayuan Cukai Barang dan Perkhidmatan, boleh dirayu oleh orang yang terkilan kepada Tribunal Rayuan Kastam dengan syarat bahawa rayuan itu dibuat dalam masa tiga puluh hari dari tarikh keputusan itu dimaklumkan kepada orang yang terkilan itu oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa rayuan di hadapan Tribunal Rayuan Cukai Barang dan Perkhidmatan yang belum selesai sebaik sebelum tarikh yang ditetapkan hendaklah, pada atau selepas tarikh yang ditetapkan, diteruskan untuk didengar dan diputuskan oleh Tribunal Rayuan Kastam. Pengemukaan penyata bagi tempoh bercukai terakhir dan pembayaran cukai barang dan perkhidmatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun seksyen 40 Akta yang dimansuhkan, apa-apa tempoh bercukai yang bermula sebelum tarikh yang ditetapkan dan berakhir selepas tarikh yang ditetapkan hendaklah disifatkan berakhir pada tarikh yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang yang berdaftar di bawah Akta yang dimansuhkan hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengemukakan penyata bagi semua pembekalan yang dibuat dalam tempoh bercukai yang disebut dalam subseksyen (1) setakat tarikh yang ditetapkan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar amaun cukai barang dan perkhidmatan yang genap masa dan kena dibayar yang berhubungan dengan pembekalan itu, kepada Ketua Pengarah tidak lewat daripada satu ratus dua puluh hari dari tarikh yang ditetapkan. Pengemukaan perisytiharan dan pembayaran cukai barang dan perkhidmatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walaupun Akta Cukai Barang dan Perkhidmatan 2014 dimansuhkan, mana-mana orang yang disebut dalam subseksyen 42(1) Akta yang dimansuhkan yang bertanggungan bagi cukai barang dan perkhidmatan dalam bulan sebelum tarikh yang ditetapkan hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengemukakan suatu perisytiharan di bawah seksyen 42 Akta yang dimansuhkan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar amaun cukai barang dan perkhidmatan yang genap masa dan kena dibayar, kepada Ketua Pengarah tidak lewat daripada tiga puluh hari selepas tarikh yang ditetapkan. Tuntutan bagi cukai input dan pembayaran balik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa cukai input di bawah Akta yang dimansuhkan yang belum dituntut sebelum tarikh yang ditetapkan hendaklah dituntut dalam penyata yang dikemukakan di bawah perenggan 6(2)(a) dalam masa satu ratus dua puluh hari dari tarikh yang ditetapkan, dan tuntutan itu hendaklah dianggap sebagai tuntutan muktamad bagi semua cukai input."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada penentusahan, audit atau siasatan, apa-apa pembayaran balik bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa cukai input di bawah seksyen 38 Akta yang dimansuhkan yang belum dibuat oleh Ketua Pengarah pada tarikh yang ditetapkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa cukai input yang berhubungan dengan tuntutan yang dibuat di bawah subseksyen (1), hendaklah dibayar oleh Ketua Pengarah dalam masa enam tahun dari tarikh yang ditetapkan. Penerusan pelantikan dan pekerjaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walaupun Akta Cukai Barang dan Perkhidmatan 2014 dimansuhkan dan bagi maksud seksyen 4, mana-mana orang selain pegawai kastam boleh dilantik oleh, atau diambil kerja dengan persetujuan, Ketua Pengarah di bawah subseksyen 5(3) Akta yang dimansuhkan, pada atau selepas tarikh yang ditetapkan, bagi apa-apa tugas atau perkhidmatan seolah-olah subseksyen itu tidak dimansuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang selain pegawai kastam yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah dilantik atau diambil kerja di bawah subseksyen 5(3) Akta yang dimansuhkan yang pelantikan atau pekerjaannya masih sah sebaik sebelum tarikh yang ditetapkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/9/msa@/~cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilantik atau diambil kerja di bawah subseksyen (1), hendaklah terus melaksanakan tugas atau perkhidmatan itu sehingga pelantikan atau pekerjaannya habis tempoh atau dibatalkan oleh Ketua Pengarah, mengikut mana-mana yang lebih awal. Ejen cukai"
+      }
+    }
+  ]
+}

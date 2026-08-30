@@ -58,34 +58,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/eng@/~cl_2__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/eng@/~cl_2__subpara_ii"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Excise Act 1976 [Act 176] is amended in subsection 2(1) in the definition of \"value\" by substituting for paragraph (b) the following paragraph: \"(b) in relation to imported goods—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/eng@/~cl_2__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the value of such goods for the purpose of customs duty determined in accordance with the Customs Act 1967; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/eng@/~cl_2__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/8/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the amount of customs duty, if any, payable on such goods.\"."
+        "@value": "The Excise Act 1976 [Act 176] is amended in subsection 2(1) in the definition of \"value\" by substituting for paragraph (b) the following paragraph: \"(b) in relation to imported goods— (i) the value of such goods for the purpose of customs duty determined in accordance with the Customs Act 1967; and (ii) the amount of customs duty, if any, payable on such goods.\"."
       }
     }
   ]

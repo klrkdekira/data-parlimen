@@ -56,8 +56,7 @@
       "eli:number": "2",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__subsec_3"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@",
       "schema:name": {
@@ -86,17 +85,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: \"(2) Walau apa pun subseksyen (1), seksyen 92 hendaklah disifatkan telah mula berkuatkuasa pada 16 Ogos 1981."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/19/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Apa-apa tindakan atau perkara yang dilakukan atau apa-apa wang yang dipungut, dibelanjakan atau dilaburkan oleh Lembaga sebelum mula berkuatkuasanya Akta ini yang akan menjadi sah jika peruntukan-peruntukan Akta ini telah berkuatkuasa pada masa ia dilakukan adalah dengan ini disahkan dan diisytiharkan telah dilakukan atau dipungut, dibelanjakan atau dilaburkan olehnya secara sah.\". Pindaan"
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: \"(2) Walau apa pun subseksyen (1), seksyen 92 hendaklah disifatkan telah mula berkuatkuasa pada 16 Ogos 1981. (3) Apa-apa tindakan atau perkara yang dilakukan atau apa-apa wang yang dipungut, dibelanjakan atau dilaburkan oleh Lembaga sebelum mula berkuatkuasanya Akta ini yang akan menjadi sah jika peruntukan-peruntukan Akta ini telah berkuatkuasa pada masa ia dilakukan adalah dengan ini disahkan dan diisytiharkan telah dilakukan atau dipungut, dibelanjakan atau dilaburkan olehnya secara sah.\". Pindaan"
       }
     },
     {

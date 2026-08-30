@@ -126,45 +126,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 50a seksyen yang berikut: “Kuasa tambahan 50b. (1) Sebagai tambahan kepada dan tanpa menjejaskan kuasa sedia ada yang diberikan di bawah Akta ini, apabila membawa dan menjaga mana-mana orang dalam tahanan, seseorang pegawai yang hak hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan kuasa seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537]."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud Akta ini—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seorang pegawai kanan eksais, dan bagi maksud itu, tempat yang perintah, perakuan atau perbuatan itu diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_4__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "seseorang pegawai yang hak hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai suatu balai polis.”. Pindaan seksyen 54"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 50a seksyen yang berikut: “Kuasa tambahan 50b. (1) Sebagai tambahan kepada dan tanpa menjejaskan kuasa sedia ada yang diberikan di bawah Akta ini, apabila membawa dan menjaga mana-mana orang dalam tahanan, seseorang pegawai yang hak hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan kuasa seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537]. (2) Bagi maksud Akta ini— (a) jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seorang pegawai kanan eksais, dan bagi maksud itu, tempat yang perintah, perakuan atau perbuatan itu diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; dan (b) seseorang pegawai yang hak hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai suatu balai polis.”. Pindaan seksyen 54"
       }
     },
     {
@@ -181,21 +146,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_6__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 56d seksyen yang berikut: “Keterangan ejen provokasi boleh diterima 56e. (1) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, tiada ejen provokasi boleh dianggap tidak boleh dipercayai hanya oleh sebab dia cuba untuk bersubahat atau telah bersubahat dalam melakukan suatu kesalahan oleh mana-mana orang di bawah Akta ini jika cubaan untuk bersubahat atau persubahatan itu adalah semata-mata bagi maksud mendapatkan keterangan terhadap orang itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_6__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/20/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, dan ejen provokasi itu ialah seorang pegawai eksais atau pegawai polis tidak kira apa jua pangkatnya, apa-apa pernyataan, sama ada lisan atau bertulis, yang dibuat kepada ejen provokasi oleh mana-mana orang yang kemudiannya dipertuduh atas suatu kesalahan di bawah Akta ini boleh diterima sebagai keterangan semasa perbicaraannya.”."
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 56d seksyen yang berikut: “Keterangan ejen provokasi boleh diterima 56e. (1) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, tiada ejen provokasi boleh dianggap tidak boleh dipercayai hanya oleh sebab dia cuba untuk bersubahat atau telah bersubahat dalam melakukan suatu kesalahan oleh mana-mana orang di bawah Akta ini jika cubaan untuk bersubahat atau persubahatan itu adalah semata-mata bagi maksud mendapatkan keterangan terhadap orang itu. (2) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, dan ejen provokasi itu ialah seorang pegawai eksais atau pegawai polis tidak kira apa jua pangkatnya, apa-apa pernyataan, sama ada lisan atau bertulis, yang dibuat kepada ejen provokasi oleh mana-mana orang yang kemudiannya dipertuduh atas suatu kesalahan di bawah Akta ini boleh diterima sebagai keterangan semasa perbicaraannya.”."
       }
     }
   ]

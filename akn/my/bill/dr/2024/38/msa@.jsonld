@@ -1,0 +1,439 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-38-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Timbang Tara (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bahagian III Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas kepala Bahagian III kepala yang berikut: “Bab 1 Prosiding dan pendengaran”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 41a(2)(c), dalam teks bahasa kebangsaan dengan memotong perkataan “penasihat” selepas perkataan “seorang”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas seksyen 46 bab yang berikut: “Bab 2 Pembiayaan pihak ketiga Takrif 46a. Dalam Bab ini— (a) “kos atau belanja timbang tara” termasuklah apa-apa kos atau belanja timbang tara yang dibuat sebelum permulaan timbang tara, atau semasa prosiding timbang tara atau prosiding mahkamah yang berhubungan dengan timbang tara itu; (b) “pembiaya pihak ketiga” ertinya seseorang yang merupakan pihak kepada perjanjian pembiayaan pihak ketiga yang menyediakan pembiayaan pihak ketiga kepada pihak yang dibiaya dan tidak mempunyai kepentingan yang diiktiraf oleh undang-undang dalam timbang tara pihak yang dibiaya, selain di bawah perjanjian pembiayaan pihak ketiga; (c) “pembiayaan pihak ketiga” ertinya suatu pembiayaan oleh pembiaya pihak ketiga bagi kesemua atau sebahagian daripada kos dan belanja timbang tara pihak yang dibiaya yang dibuat di bawah perjanjian pembiayaan pihak ketiga sebagai balasan bagi pembiaya pihak ketiga menerima suatu faedah kewangan hanya jika timbang tara itu berjaya mengikut pengertian perjanjian pembiayaan pihak ketiga; (d) “perjanjian pembiayaan pihak ketiga” ertinya suatu perjanjian secara bertulis bagi suatu pembiayaan pihak ketiga antara pihak yang dibiaya dengan pembiaya pihak ketiga; dan (e) “pihak yang dibiaya” ertinya seseorang yang pernah menjadi atau merupakan pihak, atau yang berkemungkinan menjadi pihak kepada suatu timbang tara dan merupakan pihak kepada perjanjian pembiayaan pihak ketiga. Ketidakpakaian Bab ini 46b. Bab ini tidak terpakai bagi mana-mana perjanjian pembiayaan pihak ketiga yang dibuat sebelum tarikh permulaan kuat kuasa Bab ini. Rukun menentang maintenance and champerty hendaklah terhenti terpakai 46c. (1) Rukun common law menentang maintenance and champerty hendaklah terhenti terpakai berhubung dengan pembiayaan pihak ketiga dan suatu perjanjian pembiayaan pihak ketiga tidak boleh dikira sebagai berlawanan dengan dasar awam atas alasan maintenance and champerty. (2) Pemberhentian pemakaian rukun common law menentang maintenance and champerty di bawah subseksyen (1) tidaklah menjejaskan mana-mana rukun undang-undang tentang hal-hal yang suatu kontrak dikira sebagai berlawanan dengan dasar awam atau selainnya menyalahi undang-undang. Tataamalan 46d. (1) Menteri boleh mengeluarkan suatu tataamalan yang memperuntukkan mengenai amalan dan standard yang berhubungan dengan pembiayaan pihak ketiga yang secara biasanya diharapkan akan dipatuhi oleh pembiaya pihak ketiga. (2) Tanpa menjejaskan keluasan subseksyen (1), tataamalan itu boleh memperuntukkan bagi— (a) kehendak mengenai promosi pembiayaan pihak ketiga; (b) kehendak mengenai suatu perjanjian pembiayaan pihak ketiga termasuk takat kawalan yang akan dipunyai oleh pembiaya pihak ketiga berhubung dengan suatu timbang tara, tanggungan pihak yang dibiaya dan penamatan perjanjian pembiayaan pihak ketiga; (c) kriteria bagi seseorang pembiaya pihak ketiga termasuk amaun modal minimum yang mencukupi yang perlu dipenuhi oleh pembiaya pihak ketiga; (d) tatacara untuk menangani konflik kepentingan kemungkinan, sebenar atau tanggapan oleh seseorang pembiaya pihak ketiga; dan (e) tatacara untuk meningkatkan perlindungan bagi pihak yang dibiaya. (3) Tataamalan yang dikeluarkan di bawah seksyen ini hendaklah disiarkan mengikut cara sebagaimana yang ditentukan oleh Menteri. (4) Menteri boleh membatalkan, mengubah, menyemak semula atau meminda keseluruhan atau sebahagian apa-apa tataamalan yang dikeluarkan di bawah seksyen ini. (5) Tataamalan yang dikeluarkan di bawah seksyen ini boleh diterima sebagai keterangan dalam prosiding di hadapan mana-mana mahkamah atau tribunal timbang tara. Ketidakpatuhan terhadap tataamalan 46e. (1) Apa-apa ketidakpatuhan terhadap mana-mana peruntukan tataamalan yang dikeluarkan di bawah seksyen 46d tidak boleh, dengan sendirinya, menyebabkan pembiaya pihak ketiga dikenakan apa-apa tindakan atau prosiding undang-undang. (2) Walau apa pun subseksyen (1), mana-mana pematuhan atau ketidakpatuhan terhadap mana-mana peruntukan tataamalan boleh diambil kira oleh mana-mana tribunal timbang tara atau mahkamah jika pematuhan atau ketidakpatuhan itu adalah berkaitan dengan persoalan yang sedang diputuskan oleh tribunal timbang tara atau mahkamah itu. Penzahiran maklumat bagi maksud mencari atau mendapatkan pembiayaan pihak ketiga 46f. (1) Walau apa pun seksyen 41a, apa-apa maklumat yang berhubungan dengan prosiding timbang tara di bawah perjanjian timbang tara atau suatu award yang dibuat dalam prosiding timbang tara itu boleh dizahirkan atau disampaikan oleh suatu pihak kepada mana-mana orang bagi maksud mencari atau mendapatkan pembiayaan pihak ketiga daripada orang itu. (2) Orang yang disebut dalam subseksyen (1) tidak boleh selanjutnya menzahirkan atau menyampaikan maklumat yang dizahirkan atau disampaikan kepadanya di bawah subseksyen itu melainkan jika penzahiran atau penyampaian lanjut itu— (a) dibuat untuk melindungi atau meneruskan suatu hak atau kepentingan di sisi undang-undang orang itu; (b) dibuat kepada mana-mana badan kerajaan, badan kawal selia, mahkamah atau tribunal dan orang itu berkewajipan di bawah undang-undang untuk membuat penzahiran atau penyampaian itu; atau (c) dibuat kepada seorang profesional atau mana-mana penasihat lain bagi maksud memperoleh nasihat yang berhubungan dengan pembiayaan pihak ketiga. (3) Jika suatu penzahiran atau penyampaian lanjut dibuat oleh orang yang disebut dalam subseksyen (1) itu kepada seorang profesional atau penasihat di bawah perenggan (2)(c), profesional atau penasihat itu tidak boleh selanjutnya menzahirkan atau menyampaikan maklumat yang diterima itu kecuali mengikut subseksyen (2). Penzahiran mengenai perjanjian pembiayaan pihak ketiga 46g. (1) Jika pihak yang dibiaya telah membuat suatu perjanjian pembiayaan pihak ketiga, pihak yang dibiaya itu hendaklah menzahirkan atau menyampaikan kepada pihak lain kepada timbang tara itu dan tribunal timbang tara atau mahkamah yang di hadapannya prosiding berkenaan dengan timbang tara itu dibawa, mengikut mana-mana yang berkenaan, fakta bahawa suatu perjanjian pembiayaan pihak ketiga telah dibuat dan nama pembiaya pihak ketiga dalam perjanjian pihak ketiga itu. (2) Penzahiran atau penyampaian di bawah subseksyen (1) hendaklah dibuat— (a) jika perjanjian pembiayaan pihak ketiga dibuat pada atau sebelum permulaan timbang tara atau prosiding mahkamah berkenaan dengan timbang tara, pada permulaan timbang tara atau prosiding mahkamah itu; atau (b) jika perjanjian pembiayaan pihak ketiga dibuat selepas permulaan timbang tara atau prosiding mahkamah berkenaan dengan timbang tara, dalam masa lima belas hari selepas perjanjian pembiayaan pihak ketiga itu dibuat. (3) Bagi maksud subseksyen (2), jika tiada tribunal timbang tara dilantik pada akhir tempoh yang dinyatakan dalam perenggan (2)(b), penzahiran atau penyampaian di bawah subseksyen (1) kepada tribunal timbang tara hendaklah dibuat dengan segera selepas tribunal timbang tara dilantik. Penzahiran mengenai penamatan atau berakhirnya perjanjian pembiayaan pihak ketiga 46h. Jika suatu perjanjian pembiayaan pihak ketiga ditamatkan atau telah berakhir, pihak yang dibiaya hendaklah, dalam masa lima belas hari selepas penamatan atau berakhirnya perjanjian pembiayaan pihak ketiga, menzahirkan atau menyampaikan kepada pihak lain kepada timbang tara itu, dan tribunal timbang tara atau mahkamah yang di hadapannya prosiding yang berkenaan dengan timbang tara dibawa, mengikut mana-mana yang berkenaan, jika ada, fakta bahawa perjanjian pembiayaan pihak ketiga telah ditamatkan atau telah berakhir dan tarikh penamatan perjanjian pembiayaan pihak ketiga itu atau tarikh perjanjian pembiayaan pihak ketiga itu berakhir. Ketidakpatuhan terhadap seksyen 46f, 46g dan 46h 46i. (1) Apa-apa ketidakpatuhan terhadap mana-mana peruntukan di bawah seksyen 46f, 46g dan 46h tidak boleh, dengan sendirinya, menyebabkan pembiaya pihak ketiga dikenakan apa-apa tindakan atau prosiding undang-undang. (2) Walau apa pun subseksyen (1), mana-mana pematuhan atau ketidakpatuhan terhadap mana-mana peruntukan di bawah seksyen 46f, 46g dan 46h boleh diambil kira oleh mana-mana tribunal timbang tara atau mahkamah jika pematuhan atau ketidakpatuhan itu adalah berkaitan dengan persoalan yang sedang diputuskan oleh tribunal timbang tara atau mahkamah itu.”. Pindaan seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 48 Akta ibu dipinda dengan menggantikan perkataan “Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia) atau mana-mana orang lain” dengan perkataan “Mana-mana orang”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua pelantikan, keputusan atau apa-apa tindakan lain yang dibuat, diberikan atau dilakukan oleh Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia) sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan telah dibuat, diberikan atau dilakukan oleh Presiden Mahkamah Timbang Tara Pusat Timbang Tara Antarabangsa Asia dan hendaklah terus berkuat kuasa dan mempunyai kesan sehingga dibatalkan, dipinda, dimansuhkan, ditamatkan atau diganti oleh Presiden Mahkamah Timbang Tara Pusat Timbang Tara Antarabangsa Asia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Undang-undang yang terpakai bagi suatu perjanjian timbang tara yang dibuat sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diuruskan di bawah Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Timbang Tara (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Timbang Tara 2005 [Akta 646], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2, dengan memasukkan selepas takrif “pihak” takrif yang berikut: ‘ “Presiden” ertinya Presiden Mahkamah Timbang Tara Pusat Timbang Tara Antarabangsa Asia;’. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “Bahagian I, II dan IV” dengan perkataan “Bahagian I dan II, Bab 2 Bahagian III dan Bahagian IV”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “Bahagian III” dengan perkataan “Bab 1 Bahagian III”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “Bahagian I, II dan IV” dengan perkataan “Bahagian I dan II, Bab 2 Bahagian III dan Bahagian IV”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “Bahagian III” dengan perkataan “Bab 1 Bahagian III”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Berkenaan dengan timbang tara antarabangsa, jika tempat timbang tara adalah bukan di Malaysia atau tiada tempat timbang tara tetapi apa-apa perkhidmatan berhubung dengan timbang tara itu diberikan di Malaysia, Bab 2 Bahagian III Akta ini hendaklah terpakai.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “Bahagian III” di mana-mana jua terdapat dengan perkataan “Bab 1 Bahagian III”. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 9(4)(b) Akta ibu dipinda dengan memasukkan selepas perkataan “pembelaan” perkataan “atau apa-apa dokumen lain”. Seksyen baharu 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 9 seksyen yang berikut: “Undang-undang yang terpakai bagi perjanjian timbang tara 9a. (1) Pihak-pihak adalah bebas untuk bersetuju mengenai undang-undang yang terpakai bagi perjanjian timbang tara. (2) Jika pihak-pihak gagal bersetuju di bawah subseksyen (1), undang-undang yang terpakai bagi perjanjian timbang tara ialah undang-undang tempat timbang tara. (3) Persetujuan oleh pihak-pihak mengenai undang-undang yang terpakai bagi suatu perjanjian yang perjanjian timbang tara menjadi sebahagian daripadanya tidaklah menjadi suatu persetujuan nyata bahawa undang-undang itu jugalah yang akan terpakai bagi perjanjian timbang tara itu.”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3a) Bagi maksud subseksyen (3), jika terdapat berbilang pihak menuntut atau berbilang responden, semua pihak menuntut hendaklah secara bersesama melantik seorang penimbang tara dan semua responden hendaklah secara bersesama melantik seorang penimbang tara.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia)” dengan perkataan “Presiden”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia)” dengan perkataan “Presiden”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan menggantikan perkataan “Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia)” dengan perkataan “Presiden”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7), dengan menggantikan perkataan “Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia)” dengan perkataan “Presiden”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (8), dengan menggantikan perkataan “Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia)” dengan perkataan “Presiden”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (9), dengan menggantikan perkataan “Pengarah Pusat Timbang Tara Antarabangsa Asia (Malaysia)” dengan perkataan “Presiden”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan subseksyen 17(2) dengan subseksyen yang berikut: “(2) Melainkan jika dipersetujui selainnya oleh pihak-pihak, jika mana-mana penimbang tara termasuk penimbang tara pengerusi diganti, pendengaran yang diadakan terdahulu boleh diulang mengikut budi bicara tribunal timbang tara.”. Pindaan seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 33 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Bagi maksud subseksyen (2), “tandatangan” termasuklah tandatangan digital dan tandatangan elektronik.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (8) subseksyen yang berikut: “(9) Dalam seksyen ini— (a) “tandatangan digital” mempunyai erti yang diberikan kepadanya dalam Akta Tandatangan Digital 1997 [Akta 562]; dan (b) “tandatangan elektronik” mempunyai erti yang diberikan kepadanya dalam Akta Perdagangan Elektronik 2006 [Akta 658].”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan subseksyen 38(1) dengan subseksyen yang berikut: “(1) Suatu award yang dibuat berkenaan dengan timbang tara jika tempat timbang tara adalah di Malaysia atau award dari suatu Negara asing hendaklah diiktiraf sebagai mengikat dan, atas permohonan secara bertulis kepada Mahkamah Tinggi, hendaklah dikuatkuasakan tertakluk kepada seksyen 39.”. Pindaan Bahagian III"
+      }
+    }
+  ]
+}

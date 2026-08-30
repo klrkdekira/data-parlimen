@@ -1,0 +1,149 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-37-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Agensi Penguatkuasaan Maritim Malaysia (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Agensi Penguatkuasaan Maritim Malaysia (Pindaan) 2017. Seksyen baharu 5a, 5b, 5c dan 5d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Agensi Penguatkuasaan Maritim Malaysia 2004 [Akta 633], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 5 seksyen yang berikut: “Penubuhan Pasukan Sukarelawan Maritim Malaysia 5a. Suatu badan ditubuhkan yang dikenali sebagai Pasukan Sukarelawan Maritim Malaysia. Anggota Pasukan Sukarelawan Maritim Malaysia 5b. (1) Mana-mana orang boleh memohon untuk menjadi anggota Pasukan Sukarelawan Maritim Malaysia jika— (a) dia berumur lapan belas tahun atau lebih; (b) dia seorang warganegara Malaysia; (c) dia mempunyai kelayakan yang ditentukan oleh Ketua Pengarah; dan (d) dia memenuhi kehendak lain yang ditentukan oleh Ketua Pengarah. (2) Suatu permohonan untuk menjadi anggota Pasukan Sukarelawan Maritim Malaysia hendaklah dibuat dalam borang dan mengikut cara yang ditentukan oleh Ketua Pengarah. (3) Ketua Pengarah boleh meluluskan atau menolak mana-mana orang menjadi anggota Pasukan Sukarelawan Maritim Malaysia. (4) Ketua Pengarah boleh memanggil mana-mana anggota Pasukan Sukarelawan Maritim Malaysia untuk melaksanakan secara sukarela apa-apa tugas yang ditentukan oleh Ketua Pengarah. (5) Seseorang anggota Pasukan Sukarelawan Maritim Malaysia adalah tertakluk kepada arahan, perintah dan kawalan Ketua Pengarah semasa melaksanakan apa-apa tugas di bawah subseksyen (4). (6) Seseorang anggota Pasukan Sukarelawan Maritim Malaysia— (a) boleh dibayar apa-apa elaun yang ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan; dan (b) tidak berhak kepada apa-apa saraan. (7) Seseorang anggota Pasukan Sukarelawan Maritim Malaysia semasa melaksanakan apa-apa tugas di bawah Akta ini hendaklah disifatkan sebagai penjawat awam mengikut pengertian Kanun Keseksaan [Akta 574]. Penubuhan Pasukan Kadet Maritim Malaysia 5c. Menteri boleh menubuhkan suatu badan yang dikenali sebagai Pasukan Kadet Maritim Malaysia bagi mana-mana kawasan di Malaysia. Pendaftaran ke dalam Pasukan Kadet Maritim Malaysia 5d. (1) Mana-mana orang boleh memohon untuk didaftarkan ke dalam Pasukan Kadet Maritim Malaysia jika— (a) tertakluk kepada Akta Pendidikan 1996 [Akta 550], dia seorang murid yang menjalani pelajaran sepenuh masa di mana-mana sekolah menengah yang ditentukan oleh Menteri setelah berunding dengan Menteri yang dipertanggungkan dengan tanggungjawab bagi pelajaran; atau (b) dia seorang pelajar— (i) yang berdaftar dan mengikuti bidang pengajian atau latihan sama ada sepenuh masa atau separuh masa di mana-mana institusi pengajian atau latihan yang ditentukan oleh Menteri setelah berunding dengan Menteri yang dipertanggungkan dengan tanggungjawab bagi institusi pengajian atau latihan itu; (ii) yang merupakan warganegara Malaysia; dan (iii) yang berumur di bawah tiga puluh tahun. (2) Suatu permohonan untuk didaftarkan ke dalam Pasukan Kadet Maritim Malaysia hendaklah dibuat dalam borang dan mengikut cara yang ditentukan oleh Ketua Pengarah. (3) Ketua Pengarah boleh mendaftarkan atau enggan mendaftarkan mana-mana orang ke dalam Pasukan Kadet Maritim Malaysia. (4) Mana-mana orang yang telah didaftarkan ke dalam Pasukan Kadet Maritim Malaysia tidak berhak kepada apa-apa elaun atau saraan.”. Seksyen baharu 7a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 7 seksyen yang berikut: “Kuasa tambahan 7a. (1) Sebagai tambahan kepada dan tanpa menjejaskan kuasa sedia ada Agensi di bawah Akta ini, apabila membawa dan menjaga mana-mana orang dalam tahanan Agensi, seseorang pegawai Agensi hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan kuasa seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537]. (2) Bagi maksud Akta ini— (a) jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai Agensi dan bagi maksud itu, tempat perintah, perakuan atau perbuatan itu diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; (b) seseorang pegawai Agensi hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai suatu balai polis; dan (c) seseorang pegawai Agensi hendaklah mempunyai segala kuasa seorang pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah dan Akta Pendaftaran Penjenayah dan Orang-Orang Yang Tidak Diingini 1969 [Akta 7], dan kuasa itu hendaklah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan bukan pengurangannya, tetapi sekiranya terdapat apa-apa ketidakselarasan atau percanggahan antara peruntukan Akta ini dengan peruntukan Kanun Tatacara Jenayah, peruntukan Akta ini hendaklah mengatasi peruntukan Kanun Tatacara Jenayah.”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda dengan memasukkan selepas perkataan “pegawai Agensi” perkataan “atau mana-mana anggota Pasukan Sukarelawan Maritim Malaysia”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pegawai Agensi” perkataan “dan anggota Pasukan Sukarelawan Maritim Malaysia”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pegawai” di mana-mana jua terdapat perkataan “atau anggota”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “officer of the Agency” perkataan “and member of the Malaysian Maritime Volunteer Corps”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda dengan memasukkan selepas perkataan “pegawai-pegawai Agensi” perkataan “dan anggota Pasukan Sukarelawan Maritim Malaysia”."
+      }
+    }
+  ]
+}

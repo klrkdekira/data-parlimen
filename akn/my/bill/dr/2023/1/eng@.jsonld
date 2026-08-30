@@ -1,0 +1,631 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-1-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_22"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Printing of Qur’anic Texts (Amendment) Bill 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 9(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by inserting after the word “imprisonment” the words “for a term”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), in the national language text, by deleting the words “atau rakaman Al-Qur’an” and “atau rakaman”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “two thousand ringgit or to imprisonment not exceeding six months” the words “fifty thousand ringgit or to imprisonment for a term not exceeding five years”. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 11(3) of the principal Act is amended by substituting for the words “five thousand ringgit or to imprisonment not exceeding one year” the words “fifty thousand ringgit or to imprisonment for a term not exceeding five years”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 13(2) of the principal Act is amended by substituting for the words “five thousand ringgit or to imprisonment not exceeding two years” the words “fifty thousand ringgit or to imprisonment for a term not exceeding five years”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “Printing” the words “, distribution and possession”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) No person shall print, publish, import, sell, offer for sale, distribute, or has in his possession, custody or control for the purpose of sale or distribution, any Qur’anic text or Qur’anic material which contains any error or is not in accordance with the writing method determined by the Lembaga in respect of the Qur’anic Verses contained in the Qur’anic text or Qur’anic material.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)— New section 14a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by inserting after the word “imprisonment” the words “for a term”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 14 the following section: “Power to investigate 14a. (1) Any police officer not below the rank of Inspector or any public officer authorized in writing by the Islamic Religious Council of any State or Federal Territory, may investigate any offence under this Act. (2) For the purposes of this Act, any public officer authorized in writing by the Islamic Religious Council of any State or Federal Territory, shall have all the powers of a police officer of whatever rank as provided for in the Criminal Procedure Code [Act 593] in relation to police investigation in seizable cases, and such powers shall be in addition to the powers provided for in this Act and not in derogation thereof.”. Amendment of section 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 15(1) of the principal Act is amended by substituting for the words “, that there is any error in the Qur’anic Verses contained in the Qur’anic text of Qur’anic material,” the words “that there is any error or it is not in accordance with the writing method determined by the Lembaga, in respect of the Qur’anic Verses contained in the Qur’anic text or Qur’anic material,”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “and detain” the words “, detain and search”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “published,” the words “imported,” wherever appearing; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (2), (3) and (4), by inserting after the words “publication,” the words “importation,”. Amendment of section 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 18 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the word “correct” the words “and in accordance with the writing method determined by the Lembaga”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the words “any error” the words “or that it is not in accordance with the writing method determined by the Lembaga”. New section 20a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 20 the following section: “Compounding of offences 20a. (1) The Minister may, with the approval of the Public Prosecutor, make regulations for prescribing— (a) any offence under this Act or any regulations made thereunder, as an offence which may be compounded; and (b) the method and procedure for compounding such offence. (2) The Chairman of the Lembaga or any public officer authorized in writing by the Chairman of the Lembaga may, with the consent in writing of the Public Prosecutor, at any time before a charge is being instituted, compound any offence prescribed as an offence which may be compounded under this Act by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Chairman of the Lembaga of an amount of money not exceeding fifty per centum of the amount of maximum fine for that offence within such time as may be specified in the written offer. (3) An offer under subsection (2) may be made at any time after the offence has been committed but before any prosecution for it has been instituted. (4) If the amount specified in the offer is not paid within the time specified in the offer or such extended time as the Chairman of the Lembaga may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (5) Where an offence has been compounded under subsection (2)— (a) no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made; and (b) any Qur’anic text or Qur’anic material, document, record or anything seized in connection with the offence may be forfeited and disposed of or released by the Chairman of the Lembaga, subject to such terms and conditions as the Chairman of the Lembaga thinks fit. (6) All moneys received by the Chairman of Lembaga under this section shall be paid into and form part of the Federal Consolidated Fund.”. New sections 21a and 21b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Printing of Qur’anic Texts (Amendment) Act 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Printing of Qur’anic Texts Act 1986 [Act 326], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 21 the following sections: “Public servant 21a. The members of the Lembaga while discharging their duties or performing their functions or exercising their powers under this Act or any regulations made under this Act shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Application of Public Authorities Protection Act 1948 21b. The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Lembaga or any member of the Lembaga in respect of any act, neglect or default done or committed by it or him in good faith or any omission by it or him in good faith, in such capacity.”. New section 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 25 the following section: “Power to issue guidelines or directives 26. (1) For the purposes of this Act or the subsidiary legislation made under this Act, the Lembaga may issue guideline or directive as it considers appropriate to regulate the printing, importation, publication, sale, distribution, disposal, translation or interpretation of Qur’anic text or Qur’anic material and may impose any condition or restriction as the Lembaga thinks fit. (2) Every guideline or directive issued under this Act or the subsidiary legislation made under this Act shall be published by the Lembaga in such manner as to ensure that the guideline or directive is brought to the attention of the person who has to comply with such guideline or directive. (3) The Lembaga may impose a financial penalty for any non-compliance of any guideline or directive issued under this section— (a) where such person is an individual, to an amount not exceeding twenty five thousand ringgit; or (b) where such person is a body corporate, to an amount not exceeding fifty thousand ringgit. (4) The Lembaga may amend or revoke any guideline or directive issued under this section.”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of this Act, the members of the Lembaga appointed before the date of coming into operation of this Act shall continue to hold office for a period of six months from the date of coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Qur’anic material”, by inserting after the words “any Qur’anic Verse,” the words “whether in Arabic writing or Braille,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Qur’anic text”, by inserting after the words “or any part thereof” the words “, whether in Arabic writing or Braille,”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (2) and (3), by substituting for the words “and Labuan” the words “, Labuan and Putrajaya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) Each appointed member shall serve for a term not exceeding three years and shall be eligible for reappointment.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: “(4a) A member of the Lembaga may, at any time, resign from his office by giving a written notice to the Lembaga and the Lembaga shall obtain the consent of the Yang di-Pertuan Agong or the respective Rulers, as the case may be.”. New section 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 3 the following section: “Alternate member 3 a. (1) The Yang di-Pertuan Agong or the respective Rulers may, in respect of each member appointed under subsection (3), appoint an alternate member who may attend any meeting of the Lembaga when the member whom he is an alternate member is for any reason unable to attend. (2) When attending the meeting of the Lembaga, an alternate member shall, for all purposes, be deemed to be a member of the Lembaga. (3) An alternate member may, at any time, resign from his office by giving a written notice to the Lembaga and the Lembaga shall obtain the consent of the Yang di-Pertuan Agong or the respective Rulers, as the case may be. (4) An alternate member shall, unless he sooner resigns under subsection (3) or his appointment is sooner revoked, cease to be an alternate member when the member in respect of whom he is an alternate member ceases to be a member of the Lembaga.”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by substituting for the words “ten thousand ringgit or to imprisonment not exceeding three years” the words “fifty thousand ringgit or to imprisonment for a term not exceeding five years”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7), by substituting for the words “five thousand ringgit or to imprisonment not exceeding one year” the words “fifty thousand ringgit or to imprisonment for a term not exceeding five years”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the word “correct” the words “and in accordance with the writing method determined by the Lembaga”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “ten thousand ringgit or to imprisonment not exceeding three years” the words “fifty thousand ringgit or to imprisonment for a term not exceeding five years”. Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the word “correct” the words “and in accordance with the writing method determined by the Lembaga”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “ten thousand ringgit or to imprisonment not exceeding three years” the words “fifty thousand ringgit or to imprisonment for a term not exceeding five years”. New sections 7a and 7b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 7 the following sections: “Withholding delivery of imported Qur’anic text which is not certified 7a. (1) Any police officer not below the rank of Inspector or any public officer authorized in writing by the Islamic Religious Council of any State or Federal Territory, may withhold the delivery of any imported Qur’anic text which is not certified in writing by the Lembaga under section 7. (2) Any Qur’anic text withheld under subsection (1) shall, as soon as practicable, be delivered to the Lembaga and be examined by the Lembaga. (3) Where the Lembaga certify that the Qur’anic text— (a) is correct and in accordance with the writing method determined by the Lembaga in respect of the Qur’anic Verses contained therein, the Lembaga shall allow the importation subject to the certification under section 7 and give notice in writing to the person from whom the Qur’anic text was withheld requiring the person to claim or collect the Qur’anic text not later than six months from the date of the notice; or (b) contains any error or is not in accordance with the writing method determined by the Lembaga in respect of the Qur’anic Verses contained therein, the Lembaga shall prohibit the importation and give notice in writing to the person from whom the Qur’anic text was withheld requiring the person to return the Qur’anic text to the sender outside Malaysia not later than three months from the date of the notice. (4) Where the person from whom the Qur’anic text was withheld fails to claim or collect the Qur’anic text within six months from the date of the notice under paragraph (3)(a) or fails to return the Qur’anic text to the sender outside Malaysia within three months from the date of the notice under paragraph (3)(b), as the case may be, the Qur’anic text shall be disposed of in any manner the Lembaga thinks fit. Withholding delivery of imported Qur’anic material 7b. (1) Any police officer not below the rank of Inspector or any public officer authorized in writing by the Islamic Religious Council of any State or Federal Territory, may withhold the delivery of any imported Qur’anic material if he has reasonable cause to believe that it contains any error or it is not in accordance with the writing method determined by the Lembaga in respect of the Qur’anic Verses contained in the Qur’anic material. (2) Any Qur’anic material withheld under subsection (1) shall, as soon as practicable, be delivered to the Lembaga and be examined by the Lembaga. (3) Where the Lembaga certify that the Qur’anic material— (a) is correct and in accordance with the writing method determined by the Lembaga in respect of the Qur’anic Verses contained therein, the Lembaga shall allow the importation and give notice in writing to the person from whom the Qur’anic material was withheld requiring the person to claim or collect the Qur’anic material not later than six months from the date of the notice; or (b) contains any error or is not in accordance with the writing method determined by the Lembaga in respect of the Qur’anic Verses contained therein, the Lembaga shall prohibit the importation and give notice in writing to the person from whom the Qur’anic material was withheld requiring the person to return the Qur’anic material to the sender outside Malaysia not later than three months of the date of the notice. (4) Where the person from whom the Qur’anic material was withheld fails to claim or collect the Qur’anic material within six months from the date of the notice under paragraph (3)(a) or fails to return the Qur’anic material to the sender outside Malaysia within three months of the notice under paragraph (3)(b), as the case may be, the Qur’anic material shall be disposed of in any manner as the Lembaga thinks fit.”. Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 8(3) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty thousand ringgit” the words “fifty thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by inserting after the word “imprisonment” the words “for a term”. Amendment of section 9"
+      }
+    }
+  ]
+}

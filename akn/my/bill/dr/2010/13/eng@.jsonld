@@ -1,0 +1,880 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-13-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_32"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Direct Sales (Amendment) Bill 2010-DR"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2A) Notwithstanding subsection (2), if there is no representation made by the licensee after the expiry of the period of fourteen days from the date of service of the notice under subsection (1), the Controller may decide to continue with the proposed action under subsection (1).”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “(2)” the words “or (2A)”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended by inserting after subsection (2) the following subsections: “(3) Notwithstanding subsections (1) and (2), where a licence is revoked, the licensee shall surrender its licence by personal service to the Controller within fourteen days from the date on which the written notice is served on the licensee under subsection 11(3). (4) Any person who contravenes subsection (3) shall be guilty of an offence and shall, on conviction, be liable— (a) if such person is a body corporate, partnership or society, to a fine not exceeding two hundred thousand ringgit; (b) if such person is not a body corporate, partnership or society, to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding six months or to both. (5) Where a person, being a director, manager, secretary or other similar officer of a body corporate, a partner in a partnership or an office-bearer in a society, as the case may be, is guilty of an offence under this section by virtue of section 38, he shall be liable to the penalty provided for under paragraph (4)(b).”. Amendment of Part III"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The heading of Part III of the principal Act is amended by substituting for the words “MAIL ORDER SALES” the words “, MAIL ORDER SALES AND SALES THROUGH ELECTRONIC TRANSACTIONS”. New section 19A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 19 the following section: “Sales through electronic transaction 19A. (1) No person shall supply by sale, or advertise for the supply of, through electronic transaction, any goods or services except in accordance with this Act or the regulations. (2) Any person who contravenes subsection (1) shall be guilty of an offence.”. New Part VA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after “Part V” the following Part: “PART VA PROHIBITION OF PYRAMID SCHEME Interpretation in relation to this Part In this Part, unless the context otherwise requires— 27A. “promote”, in relation to pyramid scheme prohibited by this Act, means— (a) to contrive, prepare, establish, plan, advertise, operate or conduct by using any medium, including electronic transaction; or (b) to induce or attempt to induce other persons to be a participant in such scheme by using any medium, including electronic transaction; “person” means an individual, body corporate, partnership or society; “participant” means a person who participates or gets benefits in a pyramid scheme; “pyramid scheme” means any scheme, arrangement, plan, operation or chain process having all or any of the features specified in the Schedule. Unlawful to promote or conduct pyramid scheme 27B. (1) No person shall promote or cause to be promoted a pyramid scheme. (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable— (a) where such person is a body corporate, partnership or society, to a fine of not less than one million ringgit and not more than ten million ringgit and, for a second or subsequent offence, to a fine of not less than ten million ringgit and not more than fifty million ringgit; (b) where such person is not a body corporate, partnership or society, to a fine of not less than five hundred thousand ringgit and not more than five million ringgit or to imprisonment for a term not exceeding five years or to both and, for a second or subsequent offence, to a fine of not less than one million ringgit and not more than ten million ringgit or to imprisonment for a term not exceeding ten years or to both. (3) Where a person, being a director, manager, secretary or other similar officer of a body corporate, a partner in a partnership or an office-bearer in a society, as the case may be, is guilty of an offence under this section by virtue of section 38, he shall be liable to the penalty provided for under paragraph (2)(b).”. Amendment of section 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 29 the following section: “Search and seizure with warrant 29. (1) If it appears to a Magistrate, upon written information on oath and after such inquiry as he considers necessary, that there is reasonable cause to believe that an offence under this Act or the regulations is being or has been committed on any premises, the Magistrate may issue a warrant authorizing any Assistant Controller named in the warrant to enter the premises at any reasonable time by day or by night, with or without assistance and if need be by force. (2) A warrant issued under subsection (1) may authorize the Assistant Controller to— (a) search the premises for, and seize any property, document or computerized data that is reasonably believed to furnish evidence of the commission of such offence; (b) remove from the premises any property, document or computerized data seized under paragraph (a) and detain it for such period as the Assistant Controller thinks necessary; (c) search any person who is found on such premises, if the Assistant Controller has reason to suspect that such person has on his person any property, document or computerized data, including personal document, that is reasonably believed to furnish evidence of the commission of such offence and seize such property, document or computerized data; (d) remove from a person searched under paragraph (c) such property, document or computerized data seized under that paragraph and detain it for such period as the Assistant Controller thinks necessary; and (e) inspect, make copies of, or take extracts from, any property, document or computerized data seized and detained under paragraphs (b), (c) and (d). (3) If it is necessary to do so, an Assistant Controller may in the exercise of his powers under subsection (1)— (a) break open any door of any premises and enter such premises; (b) forcibly enter any premises and every part of such premises; (c) break open, examine and search any article, container or receptacle; (d) remove by force any obstruction to such entry, search, seizure, detention or removal as he is empowered to effect; or (e) detain any person found on any premises until the search is completed. (4) If, by reason of its nature, size or amount, it is not practicable to remove any property, document or computerized data seized under subsection (1), the Assistant Controller shall, by any means, seal such property, document or computerized data in the premises or container in which it is found. (5) A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (4) or removes any property, document or computerized data under seal or attempts to do so shall be guilty of an offence.”. New sections 29A, 29B, 29C and 29D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 29 the following sections: “Search and seizure without warrant 29A. Where an Assistant Controller in any of the circumstances referred to in section 29 has reasonable cause to believe that by reason of delay in obtaining a search warrant under that section, the investigation would be adversely affected or evidence of the commission of an offence is likely to be tampered with, removed, damaged or destroyed, the Assistant Controller may enter the premises and exercise in, upon and in respect of the premises all the powers referred to in section 29 in as full and ample a manner as if he were authorized to do so by a warrant issued under that section. Assistant Controller may take other persons 29B. Any Assistant Controller entering any premises by virtue of section 29A may take with him such other persons and such equipment as may appear to him necessary, and on leaving any premises which he has entered in the exercise of his powers under this Part he shall, if the premises are unoccupied or where the occupier is temporarily absent, leave them as effectively secured against trespassers as he found them. Access to computerized data 29C. (1) An Assistant Controller conducting a search under this Act shall be given access to computerized data whether stored in a computer or otherwise. (2) For the purpose of this section, “access”— (a) includes being provided with the necessary password, encryption code, decryption code, software or hardware and any other means required to enable comprehension of such computerized data; and (b) has the same meaning assigned to it by subsections 2(2) and (5) of the Computer Crimes Act 1997 [Act 563]. List of things seized 29D. (1) Where any property, document or computerized data is seized under this Part, the Assistant Controller shall, as soon as practicable, prepare a list of the things seized and of the places in which they are respectively found and deliver a copy of the list signed by him to the occupier of the premises which has been searched, or to his agent or servant, at the premises. (2) Where the premises are unoccupied, the Assistant Controller shall whenever possible post a list of the things seized conspicuously on the premises.”. Amendment of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 30(1) of the principal Act is amended by deleting the words “if that person refuses to furnish his name and address or there are reasonable grounds for believing that he has furnished a false name and address”. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Any person who— (a) refuses any officer appointed under this Act or the other persons referred to in section 29B access to any premises, or fails to submit to a search of his person; (b) assaults, obstructs, hinders or delays or otherwise interferes with an officer appointed under this Act or the other persons referred to in section 29B in effecting any entry which he is entitled to effect or in the performance of his duties under this Part; (c) fails to comply with any lawful demands of any officer appointed under this Act in the performance of his duties under this Part; (d) refuses to give to any officer appointed under this Act any property, document or computerized data which may reasonably be required of him and which he has in his power to give; (e) fails to disclose any information or to produce to, or conceals or attempts to conceal from an officer appointed under this Act any property, document or computerized data which such officer requires; (f) rescues or attempts to rescue any thing which has been duly seized; (g) before or after any search or seizure, breaks or otherwise destroys any thing to prevent its seizure, or the securing of any property, document or computerized data; (h) without lawful authority, breaks, tampers with or damages the seal referred to in section 29 or removes any thing under seal or attempts to do so; or (i) obstructs in whatever manner any officer appointed under this Act acting in pursuance of this Act, shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding six months or to both.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (3). Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended by substituting for the words “goods or documents” the words “property, document or computerized data”. Amendment of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Direct Sales (Amendment) Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Direct Sales Act 1993 [Act 500], which is referred to as the “principal Act” in this Act, is amended in the long title by inserting after the words “direct selling,” the words “for prohibiting pyramid scheme or arrangement, chain distribution scheme or arrangement, or any similar scheme or arrangement,”. Amendment of short title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection (1) and inserting after the words “this Act” the words “or the regulations”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(2) An Assistant Controller investigating the commission of an offence under this Act or the regulations may exercise all or any of the powers in relation to police investigation in seizable cases as provided for under the Criminal Procedure Code [Act 593].”. New sections 33A, 33B and 33c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 33 the following sections: “Power to require attendance of person acquainted with case 33A. (1) An Assistant Controller making an investigation under this Act or the regulations may, by order in writing, require the attendance before himself of any person who appears to him to be acquainted with the facts and circumstances of the case, and such person shall attend as so required. (2) If any person refuses to attend as so required, the Assistant Controller may report such refusal to a Magistrate who shall issue a warrant to secure the attendance of such person as may be required by the order made under subsection (1). Examination of person acquainted with case 33B. (1) An Assistant Controller making an investigation under this Act or the regulations may examine orally any person supposed to be acquainted with the facts and circumstances of the case and shall reduce into writing any statement made by the person so examined. (2) The person examined under subsection (1) shall be legally bound to answer all questions relating to such case put to him by the Assistant Controller, but such person may refuse to answer any question the answer to which would have a tendency to expose him to a criminal charge or penalty or forfeiture. (3) A person making a statement under this section shall be legally bound to state the truth, whether or not such statement is made wholly or partly in answer to questions. (4) The Assistant Controller examining a person under subsection (1) shall first inform that person of the provisions of subsections (2) and (3). (5) A statement made by any person under this section shall, wherever possible, be reduced into writing and signed by the person making it or affixed with his thumbprint, as the case may be, after— (a) it has been read to him in the language in which he made it; and (b) he has been given an opportunity to make any correction he may wish. Admissibility of statement in evidence 33C. (1) Except as provided in this section, no statement made by any person to an Assistant Controller in the course of an investigation made under this Act or the regulations shall be used in evidence. (2) When any witness is called for the prosecution or for the defence, other than the accused, the court shall, on the request of the accused or the prosecutor, refer to any statement made by that witness to the Assistant Controller in the course of the investigation under this Act or the regulations and may then, if the court thinks fit in the interest of justice, direct the accused to be furnished with a copy of it and the statement may be used to impeach the credit of the witness in the manner provided by the Evidence Act 1950 [Act 56]. (3) Where the accused had made a statement during the course of an investigation, such statement may be admitted in evidence in support of his defence during the course of the trial. (4) Nothing in this section shall be deemed to apply to any statement made in the course of an identification parade or falling within section 27 or paragraphs 32(1)(a), (i) and (j) of the Evidence Act 1950. (5) When any person is charged with any offence in relation to— (a) the making; or (b) the contents, of any statement made by him to an Assistant Controller in the course of an investigation made under this Act or the regulations, that statement may be used as evidence in the prosecution’s case.”. Substitution of section 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 34 the following section: “Prosecution 34. No prosecution for or in relation to any offence under this Act or the regulations shall be instituted except by or with the written consent of the Public Prosecutor.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The amendment in subsection (1) shall not affect any criminal or civil proceedings pending in any court. Amendment of section 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 35 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the existing shoulder note the following shoulder note: “Forfeiture of property, etc.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsections (1), (2), (3), (4) and (6), by substituting for the word “goods” wherever appearing the words “property, document or computerized data”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (5) the following subsection: “(5) On receipt of the notice under subsection (4), the Assistant Controller shall refer the notice to the Controller or Deputy Controller, who may, after such enquiries as may be necessary, direct that such property, document or computerized data be released or forfeited or refer the matter to a Magistrate for his decision.”. Amendment of section 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended by substituting for the word “goods” the words “property, document or computerized data”. New section 36A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 36 the following section: “Cost of holding property, etc., seized 36A. Where any property, document or computerized data seized in the exercise of any power under this Act is held in the custody of the Government pending the completion of any proceedings in respect of an offence under this Act or the regulations, the cost of holding it in custody shall, in the event of any person being found guilty of an offence under this Act or the regulations, be a debt due to the Government by such person and shall be recoverable accordingly.”. Amendment of section 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 38 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the existing shoulder note the following shoulder note: “Offences by body corporate, etc.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)— Amendment of section 39"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “body corporate” wherever appearing the words “, partnership or society”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_26__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “other similar officer of the body corporate” the words “, a partner in the partnership or an office-bearer of the society, as the case may be,”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “twenty five thousand” the words “one hundred thousand”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “fifty thousand” the words “two hundred and fifty thousand”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “body corporate” the words “, partnership or society”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one hundred thousand” the words “two hundred and fifty thousand”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two hundred and fifty thousand” the words “five hundred thousand”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “a body corporate” the words “, a partner of a partnership or an office-bearer of a society, as the case may be,”. Amendment of section 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 41 of the principal Act is amended by substituting for the words “court of a Magistrate of the First Class” the words “Sessions court”. Amendment of section 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 42 of the principal Act is amended in paragraph (1)(b), by substituting for the words “handicapped person” the words “person with disability”. New section 43A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for the short title “Direct Sales Act 1993” the short title “Direct Sales and Anti-Pyramid Scheme Act 1993”. Reference to the principal Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 43 the following section: “Protection of informers 43A. (1) Except as provided in this section, no witness in any civil or criminal proceedings shall be obliged or permitted to disclose the name or address of any informer or the substance and nature of the information received from him or to state any matter which might lead to his discovery. (2) If any property, document or computerized data which is in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery. (3) If in a trial for any offence under this Act or the regulations, the court after full inquiry into the case believes that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceedings the court is of the opinion that justice cannot be fully done between the parties to the proceedings without the discovery of the informer, the court may require the production of the original complaint, if in writing, and permit inquiry and require full disclosure concerning the informer.”. New section 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 44 the following section: “Amendment of Schedule 45. The Minister may, by order published in the Gazette, amend the Schedule.”. New Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 45 the following Schedule: “SCHEDULE FEATURES OF PYRAMID SCHEME OR ARRANGEMENT [Section 27A] 1. The promotion of a scheme or the payment of bonus or other benefits is solely or primarily through recruitment or introduction of participants, into the pyramid scheme, plan, operation or chain process rather than the sale of goods, services or intangible property by the participants. 2. The bonus is paid to the participants or the other benefits are received by the participants solely or primarily through the recruitment or introduction of other persons into the pyramid scheme, plan, operation or chain process rather than the sale of goods, services or intangible property by the participants or other persons. 3. A written contract or statement which describes the material terms of the agreement is not provided to participants who join the pyramid scheme, plan, operation or chain process. 4. A mandatory purchase of goods, services or intangible property or a minimum payment or sale requirement is imposed as a condition to satisfy the eligibility or start-up requirement for participation or payment of bonus or other benefits in the pyramid scheme, plan, operation or chain process. 5. The participants are required to purchase goods, services or intangible property in unreasonable amount which exceeds the expectation to be resold or consumed within a reasonable period of time. The participants may not be given full liberty in buying but they are pressured to purchase selected goods packages to meet sales requirements to qualify them for position or bonus in the pyramid scheme, plan, operation or chain process. 6. The refund policy for goods, services or intangible property purchased by participants or consumers is not provided. 7. The buy-back policy by the operator of the pyramid scheme, plan, operation or chain process for currently marketable goods, services or intangible property upon the request of participants within reasonable terms or agreement is not allowed or provided for. 8. A strict or unreasonable structural requirements of the pyramid scheme, plan, operation or chain process for the eligibility of participants to be paid bonus or other benefits. 9. Withdrawal by participants from the pyramid scheme, plan, operation or chain process is not allowed. 10. The participants are allowed or encouraged to buy up more than one position or right to participate in the pyramid scheme, plan, operation or chain process. Explanation 1 - A reference to the word “bonus or other benefits” shall relate to return or profit gains from a pyramid scheme, plan, operation or chain process. Explanation 2 - A reference to the words “material terms” shall include buy-back policy, cooling-off period, warranty and refund policy. Explanation 3 - The goods or services shall not be considered as currently marketable and shall not be subject to the specified features if the goods or services are seasonal, discontinued or special promotional items which are disclosed to the participants at the time of sales.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Direct Sales Act 1993 in any written law or document shall, when this Act comes into operation, be construed as references to the Direct Sales and Anti-Pyramid Scheme Act 1993."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Direct Sales Act 1993 in any criminal, civil or court proceedings shall continue to apply and not be affected as if it had not been amended by this Act. Appointment made under the principal Act"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The change of name provided in section 3 of this Act shall not affect or render defective the appointment of the Controller of Direct Sales, Deputy Controllers of Direct Sales, Assistant Controllers of Direct Sales and other officers made under the principal Act before the commencement of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “door-to-door sale” the following definition: ‘ “electronic” means the technology of utilizing electrical, optical, magnetic, electromagnetic, biometric, photonic or other similar technology;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “prescribed” the following definition: ‘ “property” means movable property or immovable property of every description, whether tangible or intangible and includes an interest in any such movable property or immovable property, choses-in-action, negotiable instrument and money;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “direct sale”, by substituting for the words “and a mail order sale” the words “, a mail order sale or a sale through electronic transaction”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “purchaser” the following definition: ‘ “sales through electronic transaction” means sales of goods or services through electronic means by using marketing networks with the purpose of getting commission, bonus or any other economic advantage;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “mail order sale”, by inserting after the word “mail” the words “or any other means of mailing including through electronic means”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “services”, by inserting after the word “goods” the words ‘and the performance of work under a contract of service, and a reference to the word “services” in this Act shall relate to direct sales and pyramid scheme’. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by inserting after the words “body corporate,” wherever appearing the words “partnership or society,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two hundred and fifty thousand” the words “one million”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five hundred thousand” the words “two million”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (2)(b)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one hundred thousand” the words “two hundred and fifty thousand”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two hundred and fifty thousand” the words “five hundred thousand”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “three” the word “five”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “six” the word “ten”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “a body corporate,” the words “a partner in a partnership or an office-bearer of a society, as the case may be,”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended by inserting after subsection (3) the following subsection: “(4) Any licensee who fails to comply with any conditions of the licence imposed by the Controller under subsection (1) shall be guilty of an offence.”. Deletion of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/13/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 7. Amendment of section 11"
+      }
+    }
+  ]
+}

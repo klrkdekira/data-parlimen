@@ -47,21 +47,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2__subsec_1B",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Notaries Public Act 1959 is amended in section , 3 by inserting after subsection (1) the following subsections: \"(1 A) Notwithstanding any other law to the contrary, where any person has been appointed to be a notary public before the coming into force of this subsection and no period is specified in that appointment, the appointment shall cease to have effect upon the expiry of the period of two years from the date of coming into force of this subsection."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2__subsec_1B",
-      "@type": "akn:subsection",
-      "eli:number": "1B",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Nothing in subsection (1A) shall be construed as preventing the reappointment under subsection (1) of any person whose appointment has ceased to have effect by virtue of subsection (1A), and every such reappointment shall be deemed to be a new appointment.\". 2 Bill"
+        "@value": "The Notaries Public Act 1959 is amended in section , 3 by inserting after subsection (1) the following subsections: \"(1 A) Notwithstanding any other law to the contrary, where any person has been appointed to be a notary public before the coming into force of this subsection and no period is specified in that appointment, the appointment shall cease to have effect upon the expiry of the period of two years from the date of coming into force of this subsection. (1B) Nothing in subsection (1A) shall be construed as preventing the reappointment under subsection (1) of any person whose appointment has ceased to have effect by virtue of subsection (1A), and every such reappointment shall be deemed to be a new appointment.\". 2 Bill"
       }
     }
   ]

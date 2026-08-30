@@ -1,0 +1,2124 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-22-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kumpulan Wang Amanah Negara 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KUMPULAN WANG AMANAH NEGARA DAN TADBIR URUSNYA Penggal 1 Kumpulan Wang Amanah Negara Kumpulan Wang Amanah Negara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENGGUNAAN KUMPULAN WANG Pengambilgunaan Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang hanya boleh diambil guna bagi maksud yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pendidikan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penjagaan kesihatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mitigasi dan penyesuaian perubahan iklim. Had pengeluaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk pada subseksyen (2), amaun maksimum yang boleh dikeluarkan daripada Kumpulan Wang dalam mana-mana tahun kewangan ialah lima puluh peratus daripada jumlah keseluruhan kadar pulangan benar jangka masa panjang yang dijangka bagi tahun kewangan itu atas aset Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika dalam mana-mana tahun kewangan Menteri fikirkan perlu untuk membenarkan pengeluaran melebihi amaun maksimum yang ditentukan mengikut subseksyen (1), Menteri hendaklah, melalui suatu usul, mendapatkan kelulusan Dewan Rakyat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dewan Rakyat boleh, melalui suatu ketetapan, meluluskan usul yang disebut dalam subseksyen (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa amaun yang tersedia untuk dikeluarkan dalam sesuatu tahun kewangan yang tidak dikeluarkan tidak boleh dibawa kepada tahun kewangan berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, “kadar pulangan benar jangka masa panjang yang dijangka” ertinya kadar pulangan setahun, dilaraskan dengan inflasi atau deflasi, yang dijangkakan boleh diperoleh daripada pelaburan Kumpulan Wang bagi tempoh dua puluh tahun. Permohonan bagi pengeluaran daripada Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu permohonan bagi pengeluaran daripada Kumpulan Wang hendaklah dikemukakan kepada Menteri untuk kelulusan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri tidak boleh meluluskan apa-apa pengeluaran daripada Kumpulan Wang dalam sesuatu tahun kewangan jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluaran yang dimohon itu bukan bagi mana-mana maksud yang dinyatakan dalam seksyen 24; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluaran yang dimohon itu akan melebihi amaun maksimum yang tersedia untuk dikeluarkan bagi tahun kewangan itu yang ditentukan mengikut subseksyen 25(1) atau sebagaimana yang diluluskan melalui ketetapan Dewan Rakyat mengikut subseksyen 25(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Orang yang baginya permohonan bagi pengeluaran telah diluluskan di bawah seksyen ini hendaklah mengemukakan laporan kepada Menteri mengenai penggunaan dana dan takat hasil atau serahan yang diniatkan telah dicapai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan yang disebut dalam subseksyen (3) hendaklah dikemukakan pada akhir tahun kewangan Kumpulan Wang dan tahun-tahun kewangan yang berikutnya sehingga dana itu telah digunakan sepenuhnya bagi maksud yang diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan tahunan yang disediakan oleh Kumpulan Wang Amanah Negara (Diperbadankan) hendaklah menzahirkan pengeluaran daripada Kumpulan Wang yang diluluskan bagi tahun kewangan itu dan amaun sebenar yang digunakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan Kumpulan Wang Amanah Negara (Diperbadankan) hendaklah mempunyai suatu peranti yang diluluskan oleh Lembaga dan meterai itu boleh dari semasa ke semasa dipecahkan, ditukarkan, diubah dan dibuatkan baharu sebagaimana yang difikirkan patut oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan Kumpulan Wang Amanah Negara (Diperbadankan) hendaklah disimpan dalam jagaan Pengerusi dan hendaklah ditentusahkan sama ada oleh Pengerusi atau oleh mana-mana orang lain yang diberi kuasa secara bertulis oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua surat ikatan, dokumen dan surat cara lain yang berupa sebagai dimeteraikan dengan meterai perbadanan Kumpulan Wang Amanah Negara (Diperbadankan) dan ditentusahkan mengikut subseksyen (2) hendaklah, sehingga dibuktikan sebaliknya, disifatkan telah disempurnakan dengan sah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa surat ikatan, dokumen atau surat cara lain yang tidak dikehendaki supaya dimeteraikan boleh disempurnakan oleh seorang anggota Lembaga atau mana-mana pegawai atau pekhidmat Kumpulan Wang Amanah Negara (Diperbadankan) yang diberi kuasa bagi maksud itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan Kumpulan Wang Amanah Negara (Diperbadankan) hendaklah diberikan pengiktirafan rasmi dan kehakiman. Lembaga Kumpulan Wang Amanah Negara (Diperbadankan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik anggota Lembaga Kumpulan Wang Amanah Negara (Diperbadankan) seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang Timbalan Pengerusi yang hendaklah seorang pegawai Kementerian Kewangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang pegawai daripada Jabatan Perdana Menteri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak kurang daripada dua tetapi tidak lebih daripada empat orang anggota yang mempunyai pengetahuan, pengalaman dan kepakaran dalam perniagaan, pelaburan, perbankan atau kewangan. Kewajipan dan kuasa Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah mempunyai kewajipan dan kuasa yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk bertanggungjawab bagi pentadbiran dan pengurusan Kumpulan Wang Amanah Negara (Diperbadankan) dan pelaburan Kumpulan Wang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaburkan wang dalam Kumpulan Wang bagi memaksimumkan pulangan terlaras risiko jangka masa panjang atas dasar berhemat dan komersial dan dengan mengikut cara yang tidak memburukkan reputasi global Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk merangka dan mengemukakan Perumpukan Aset Strategik kepada Menteri untuk kelulusan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk merangka dasar pelaburan termasuk penanda aras dan standard untuk menilai prestasi dan pengurusan risiko pelaburan, dan untuk memantau pematuhan kepada dasar itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan segala aktiviti dan melakukan segala perkara yang perlu atau memberi faedah dan sesuai bagi pentadbiran Akta ini, atau bagi apa-apa maksud lain yang selaras dengan Akta ini sebagaimana yang diarahkan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh, secara bertulis, mewakilkan kuasanya yang berkaitan dengan pentadbiran dan pengurusan Kumpulan Wang Amanah Negara (Diperbadankan) kepada mana-mana orang yang diluluskan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu pewakilan kuasa di bawah subseksyen (2) tidaklah menghalang Lembaga sendiri daripada menjalankan apa-apa kuasa yang diwakilkan itu pada bila-bila masa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melantik wakil atau ejen dan penasihat teknikal termasuk aktuari, peguam bela dan peguam cara, jurubank, broker saham atau mana-mana pakar atau profesional lain untuk membuat apa-apa urusan atau melakukan apa-apa tindakan yang dikehendaki dibuat atau dilakukan dalam pelaksanaan kewajipannya dan penjalanan kuasanya atau bagi melaksanakan peruntukan Akta ini dengan lebih baik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar daripada Kumpulan Wang segala caj dan perbelanjaan yang dilakukan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh menubuhkan apa-apa jawatankuasa yang difikirkannya perlu atau suai manfaat untuk membantu dalam pelaksanaan kewajipannya dan penjalanan kuasanya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah, pada setiap masa, melaksanakan kewajipannya dan menjalankan kuasanya dengan suci hati demi kepentingan Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh mengeluarkan apa-apa garis panduan yang tidak berlawanan dengan peruntukan Akta ini bagi menjalankan kewajipan dan kuasanya atau bagi memberikan kuat kuasa sepenuhnya mana-mana peruntukan Akta ini. Saraan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota Lembaga hendaklah dibayar saraan sebagaimana yang ditentukan oleh Menteri. Tempoh jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Lembaga hendaklah, melainkan jika dia terlebih dahulu meletakkan jawatannya atau mengosongkan jawatannya atau pelantikannya dibatalkan terlebih dahulu, memegang jawatan selama tempoh tidak melebihi tiga tahun dan layak untuk dilantik semula."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), tiada seorang pun boleh memegang jawatan melebihi sembilan tahun secara keseluruhannya. Peletakan jawatan dan pembatalan pelantikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Lembaga boleh pada bila-bila masa meletakkan jawatannya dengan memberikan notis bertulis kepada Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh pada bila-bila masa membatalkan pelantikan mana-mana anggota Lembaga. Pengosongan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jawatan seseorang anggota Lembaga hendaklah menjadi kosong—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia mati; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atas kegagalannya untuk menghadiri tiga mesyuarat Lembaga secara berturut-turut tanpa kebenaran Pengerusi. Kehilangan kelayakan daripada keanggotaan Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang hendaklah hilang kelayakan daripada menjadi anggota Lembaga jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia tidak sempurna akal atau selainnya tidak berupaya untuk menunaikan kewajipannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia telah disabitkan atas suatu kesalahan dan dihukum dengan pemenjaraan selama tempoh tidak kurang daripada satu tahun;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia telah disabitkan atas suatu kesalahan yang melibatkan sogokan, fraud atau kecurangan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia seorang bankrap. Mesyuarat Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada mana-mana mesyuarat Lembaga, tiga orang anggota hendaklah membentuk suatu korum dan Pengerusi hendaklah mempengerusikan semua mesyuarat Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), semasa ketiadaan Pengerusi pada mana-mana mesyuarat Lembaga, seorang anggota yang dilantik oleh anggota yang hadir hendaklah mempengerusikan mesyuarat itu, dan boleh menjalankan kuasa Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu keputusan Lembaga hendaklah dibuat melalui undi majoriti biasa anggota yang hadir dan mengundi dalam mesyuarat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mengenai apa-apa persoalan yang hendak ditentukan oleh Lembaga terdapat undi yang sama banyak, Pengerusi hendaklah mempunyai undi pemutus sebagai tambahan kepada undi biasanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk pada Akta ini, Lembaga boleh mengawal selia tatacaranya sendiri dalam mesyuarat. Penzahiran kepentingan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Lembaga atau jawatankuasa yang sama ada secara langsung atau tidak langsung mempunyai sendiri, melalui pasangannya atau anaknya, apa-apa kepentingan dalam apa-apa perkara yang dibincangkan oleh Lembaga atau jawatankuasa hendaklah, dengan secepat yang dapat dilaksanakan selepas hakikat itu sampai ke pengetahuan anggota itu, menzahirkan hakikat dan jenis kepentingannya kepada Lembaga atau jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu penzahiran di bawah subseksyen (1) hendaklah direkodkan dalam minit mesyuarat Lembaga atau jawatankuasa, mengikut mana-mana yang berkenaan, yang dalamnya perkara itu dibincangkan dan, selepas penzahiran itu, anggota itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak boleh hadir atau mengambil bahagian dalam mana-mana perbincangan atau keputusan Lembaga atau jawatankuasa yang berhubungan dengan perkara itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak boleh dikira bagi maksud membentuk korum Lembaga atau jawatankuasa itu apabila perkara itu dibincangkan atau diputuskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Lembaga atau jawatankuasa yang tidak menzahirkan kepentingannya sebagaimana yang dikehendaki di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ratus lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada keputusan, tindakan atau prosiding Lembaga atau jawatankuasa boleh ditidaksahkan atas alasan bahawa mana-mana anggota Lembaga atau jawatankuasa telah melanggar seksyen ini. Ketua Pegawai Eksekutif"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk pada kelulusan Menteri, Lembaga boleh melantik seorang Ketua Pegawai Eksekutif atas apa-apa terma dan syarat yang difikirkan patut oleh Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Eksekutif—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ialah pegawai Kumpulan Wang Amanah Negara (Diperbadankan);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah mempunyai apa-apa kewajipan dan kuasa yang dikenakan atau diberikan kepadanya oleh Akta ini atau sebagaimana yang dikenakan atau diberikan oleh Lembaga dari semasa ke semasa sebagai tambahan kepada apa-apa kewajipan dan kuasa sebagaimana yang dinyatakan dalam kontrak pelantikannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah bertanggungjawab bagi pentadbiran dan pengurusan hal ehwal hari ke hari Kumpulan Wang Amanah Negara (Diperbadankan), termasuk pelaksanaan keputusan yang dibuat oleh Lembaga di bawah Akta ini dan kawalan pentadbiran pegawai dan pekhidmat Kumpulan Wang Amanah Negara (Diperbadankan)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Eksekutif hendaklah bertanggungan kepada Lembaga bagi pelaksanaan kewajipannya dan penjalanan kuasanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Eksekutif hendaklah dibayar saraan sebagaimana yang ditentukan oleh Lembaga, dengan kelulusan Menteri. Pelantikan pegawai dan pekhidmat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh melantik apa-apa bilangan pegawai dan pekhidmat sebagaimana yang perlu bagi penjalanan urusan Kumpulan Wang Amanah Negara (Diperbadankan) yang efisien."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pegawai dan pekhidmat Kumpulan Wang Amanah Negara (Diperbadankan) hendaklah memegang jawatan bagi apa-apa tempoh, menerima apa-apa saraan dan hendaklah tertakluk pada apa-apa peraturan mengenai kelakuan dan tatatertib dan terma dan syarat lain perkhidmatan sebagaimana yang ditentukan oleh Lembaga. Pekhidmat awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota Lembaga, anggota jawatankuasa, pegawai dan pekhidmat Kumpulan Wang Amanah Negara (Diperbadankan), yang bukan anggota perkhidmatan awam, semasa menunaikan kewajipannya di bawah Akta ini hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574]. Pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Lembaga, anggota Lembaga, jawatankuasa, anggota jawatankuasa, mana-mana pegawai, mana-mana pekhidmat atau mana-mana orang lain yang bertindak di bawah arahan Lembaga berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dibuat atau dilakukan olehnya dengan suci hati atau apa-apa peninggalan olehnya dengan suci hati atas sifat sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu kumpulan wang yang dikenali sebagai “Kumpulan Wang Amanah Negara” ditubuhkan. Sumbangan kepada Kumpulan Wang oleh Kerajaan Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan Persekutuan hendaklah membayar ke dalam Kumpulan Wang bagi setiap tahun kewangan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "minimum kosong perpuluhan satu peratus daripada unjuran hasil tahunan Kerajaan Persekutuan sebagaimana yang dinyatakan dalam penyata kewangan tahunan bagi tahun kewangan itu yang dibentangkan di Dewan Rakyat menurut Perkara 99 Perlembagaan Persekutuan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "minimum dua peratus daripada dividen yang diterima daripada Petroliam Nasional Berhad (PETRONAS) bagi tahun kewangan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "minimum dua peratus daripada duti eksport yang diterima oleh Kerajaan Persekutuan bagi tahun kewangan itu atas sumber menyusut di bawah mana-mana undang-undang bertulis, selepas ditolak apa-apa penyerahhakan kepada mana-mana Negeri di Malaysia berhubung dengan duti eksport itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Amaun yang hendaklah disumbangkan di bawah subseksyen (1) bagi sesuatu tahun kewangan hendaklah dimasukkan ke dalam penyata kewangan tahunan yang dibentangkan di Dewan Rakyat menurut Perkara 99 Perlembagaan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan Persekutuan hendaklah memindahkan amaun yang hendaklah disumbangkan itu ke dalam Kumpulan Wang selewat-lewatnya pada akhir tahun kewangan yang berkaitan. Sumbangan kepada Kumpulan Wang oleh sumber lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Hendaklah dibayar dari semasa ke semasa ke dalam Kumpulan Wang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa sumbangan sebagaimana yang dibuat oleh mana-mana Kerajaan Negeri di Malaysia yang mendapat apa-apa bentuk royalti daripada pengeksploitasian petroleum atau sumber menyusut yang lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala wang daripada apa-apa pelaburan Kumpulan Wang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "segala pemberian, derma, derma kekal, hadiah, sumbangan dan bekues yang boleh dibuat kepada atau bagi faedah Kumpulan Wang; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa sumbangan sebagaimana yang dibuat oleh mana-mana orang atau pihak berkuasa yang perniagaannya termasuklah penyelidikan atau pembangunan sesuatu sumber menyusut. Perbelanjaan yang hendaklah dipertanggungkan kepada Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang hendaklah dibelanjakan bagi maksud yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelaburan di bawah Bahagian IV Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar saraan, bayaran ganti dan perbelanjaan lain anggota Lembaga, pegawai dan pekhidmat Kumpulan Wang Amanah Negara (Diperbadankan);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar bayaran dan perbelanjaan yang dilakukan atau diterima secara sah oleh Kumpulan Wang Amanah Negara (Diperbadankan) dalam pelaksanaan kewajipannya atau penjalanan kuasanya di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar atau membelanjakan apa-apa kos, belanja atau bayaran lain yang boleh dikaitkan secara langsung dengan pentadbiran, pengurusan dan pelaburan Kumpulan Wang. Penyata, laporan, akaun dan maklumat lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah mengemukakan kepada Menteri apa-apa penyata, laporan, akaun dan maklumat lain berkenaan dengan aset dan aktiviti Kumpulan Wang sebagaimana yang dikehendaki oleh Menteri dari semasa ke semasa. Penggal 2 Kumpulan Wang Amanah Negara (Diperbadankan) Penubuhan Kumpulan Wang Amanah Negara (Diperbadankan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu pertubuhan perbadanan yang dinamakan “Kumpulan Wang Amanah Negara (Diperbadankan)” ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang Amanah Negara (Diperbadankan) hendaklah kekal turun-temurun dan mempunyai suatu meterai perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang Amanah Negara (Diperbadankan) boleh membawa guaman dan dibawa guaman terhadapnya atas nama perbadanannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk pada dan bagi maksud Akta ini, Kumpulan Wang Amanah Negara (Diperbadankan) boleh, atas apa-apa terma yang difikirkan patut olehnya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat kontrak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memperoleh, membeli, mengambil, memegang dan menikmati tiap-tiap jenis harta alih dan tak alih; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memindahhakkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadaijanjikan, mendemiskan, menyerahhakkan semula, memindahkan hakmilik, atau selainnya melupuskan, atau membuat apa-apa urusan mengenai, apa-apa harta alih atau harta tak alih atau apa-apa kepentingan mengenai harta itu yang terletak hak pada Kumpulan Wang Amanah Negara (Diperbadankan). Fungsi dan kuasa Kumpulan Wang Amanah Negara (Diperbadankan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fungsi Kumpulan Wang Amanah Negara (Diperbadankan) adalah untuk mentadbir, menguruskan dan melaburkan Kumpulan Wang mengikut dan bagi maksud yang dinyatakan dalam Akta ini dan untuk melakukan apa-apa perkara lain yang dikehendaki atau dibenarkan untuk dibuat di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang Amanah Negara (Diperbadankan) mempunyai kuasa untuk melaksanakan mana-mana atau semua fungsinya, secara keseluruhannya atau sebahagiannya, di dalam atau di luar Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang Amanah Negara (Diperbadankan) boleh, dengan kelulusan Menteri, menubuhkan syarikat bagi maksud pelaburan sebagaimana yang difikirkan patut oleh Lembaga. Meterai perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELABURAN KUMPULAN WANG Pelaburan Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Wang dalam Kumpulan Wang boleh dilaburkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam deposit wang atau emas di mana-mana bank atau, bank negara atau pihak berkuasa kewangan lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam instrumen pasaran wang, termasuk bil perbendaharaan, penerimaan jurubank dan perakuan deposit, dengan tempoh matang tidak melebihi satu tahun;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam sekuriti yang diterbitkan atau dijamin oleh mana-mana kerajaan berdaulat, agensi kerajaan itu, bank negara atau pihak berkuasa kewangan lain, atau organisasi supranasional atau multilateral, termasuk sekuriti yang penanggung obligasinya ialah mana-mana kerajaan berdaulat, agensi kerajaan itu, bank negara atau pihak berkuasa kewangan lain, atau organisasi supranasional atau multilateral;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam sekuriti yang diterbitkan oleh mana-mana syarikat atau perbadanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam saham mana-mana syarikat awam yang disenaraikan di mana-mana bursa saham;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam amanah pelaburan hartanah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam dana, termasuk skim amanah dan dana dagangan bursa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam logam berharga, termasuk emas, perak, platinum dan paladium;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam ekuiti persendirian, hartanah dan infrastruktur, melalui dana yang diuruskan oleh mana-mana syarikat pengurusan dana;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam derivatif; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam apa-apa pelaburan lain dengan kelulusan Menteri, didenominasikan dalam mana-mana mata wang, sama ada di dalam atau di luar Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud pelaburan di bawah seksyen ini, Lembaga hendaklah merangka suatu Perumpukan Aset Strategik yang menyatakan strategi pelaburan jangka masa panjang, yang termasuklah pulangan yang dijangka, kelas aset yang dibenarkan untuk pelaburan dan toleransi risiko kelas aset."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga hendaklah mengemukakan Perumpukan Aset Strategik yang disediakan di bawah subseksyen (2) kepada Menteri untuk kelulusan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perumpukan Aset Strategik yang diluluskan oleh Menteri hendaklah menjadi panduan bagi membuat pelaburan di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, “sekuriti” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "debentur, saham, syer atau bon;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "skim amanah atau dana dagangan bursa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa surat cara lain yang mewujudkan atau membuktikan suatu gadaian atau lien ke atas aset, termasuk sekuriti bersandarkan aset; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_27__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa sekuriti Islam, dan termasuklah apa-apa hak, opsyen atau kepentingan yang berkenaan dengannya. Pelantikan pengurus dana utama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, atas syor Lembaga, melalui perintah yang disiarkan dalam Warta, melantik pengurus dana utama untuk melaburkan Kumpulan Wang mengikut Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini atau mana-mana garis panduan yang dikeluarkan di bawah Akta ini. Pelantikan pengurus dana luar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga boleh, atas syor pengurus dana utama, melantik pengurus dana luar untuk melaburkan Kumpulan Wang mengikut Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini atau mana-mana garis panduan yang dikeluarkan di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kumpulan Wang Amanah Negara 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“Kumpulan Wang” ertinya Kumpulan Wang Amanah Negara yang ditubuhkan di bawah seksyen 3; “Kumpulan Wang Amanah Negara (Diperbadankan)” ertinya Kumpulan Wang Amanah Negara (Diperbadankan) yang ditubuhkan di bawah seksyen 8; “Lembaga” ertinya Lembaga Kumpulan Wang Amanah Negara (Diperbadankan) yang ditubuhkan di bawah seksyen 11; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan; “saraan” termasuklah gaji atau upah, elaun, faedah perubatan dan keistimewaan lain yang boleh dinilai dalam wang; “sumber menyusut” ertinya minyak mentah, bijih mineral, bijih besi atau apa-apa sumber asli lain yang mudah susut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELBAGAI Tatacara kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_44"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PEMANSUHAN, KECUALIAN DAN PERALIHAN Pemansuhan Akta Kumpulan Wang Amanah Negara 1988"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pada tarikh permulaan kuat kuasa Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kumpulan Wang Amanah Negara 1988 [Akta 339], yang disebut “Akta yang dimansuhkan” dalam Akta ini, dimansuhkan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang Amanah Negara dan Panel Kumpulan Wang Amanah Negara yang ditubuhkan di bawah Akta yang dimansuhkan hendaklah tidak lagi wujud. Penerusan undang-undang, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_37__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk pada Akta ini, segala undang-undang bertulis termasuk perundangan subsidiari yang menyentuh atau bagi perlindungan Kumpulan Wang Amanah Negara dan berkuat kuasa sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, sehingga dipinda atau dibatalkan oleh pihak berkuasa yang mempunyai kuasa untuk berbuat demikian, terus berkuat kuasa pada dan selepas tarikh permulaan kuat kuasa Akta ini dan ditafsirkan seolah-olah Akta ini tidak pernah diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa sebutan mengenai Panel Kumpulan Wang Amanah Negara dalam mana-mana undang-undang bertulis termasuk perundangan subsidiari atau dokumen pentadbiran hendaklah ditafsirkan sebagai sebutan mengenai Kumpulan Wang Amanah Negara (Diperbadankan). Anggota Panel Kumpulan Wang Amanah Negara disifatkan dilantik sebagai anggota Lembaga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_38__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang, sebaik sebelum tarikh permulaan kuat kuasa Akta ini, merupakan Pengerusi atau anggota lain Panel Kumpulan Wang Amanah Negara yang dilantik di bawah Akta yang dimansuhkan hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan telah dilantik sebagai Pengerusi atau anggota Lembaga, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tempoh semasa seseorang itu berkhidmat sebagai anggota Panel Kumpulan Wang Amanah Negara hendaklah diambil kira dalam menentukan tempoh perkhidmatannya sebagai anggota Lembaga di bawah Akta ini. Pemindahan kuasa, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk pada Akta ini, segala kuasa, hak, keistimewaan, kewajipan, liabiliti dan obligasi yang sebaik sebelum tarikh permulaan kuat kuasa Akta ini merupakan kuasa, hak, keistimewaan, kewajipan, liabiliti dan obligasi Panel Kumpulan Wang Amanah Negara hendaklah, pada tarikh permulaan kuat kuasa Akta ini, dipindahkan kepada Kumpulan Wang Amanah Negara (Diperbadankan). Pemindahan aset dan harta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk pada Akta ini dan apa-apa arahan oleh Menteri, segala aset dan apa jua harta lain, hak dan liabiliti yang Panel Kumpulan Wang Amanah Negara berhak atau tertakluk, yang, sebaik sebelum tarikh permulaan kuat kuasa Akta ini, terletak hak pada Panel Kumpulan Wang Amanah Negara atau pada mana-mana orang bagi pihak Panel Kumpulan Wang Amanah Negara hendaklah, pada tarikh permulaan kuat kuasa Akta ini, terletak hak pada Kumpulan Wang Amanah Negara (Diperbadankan)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap hak dalam tindakan yang terletak hak pada Kumpulan Wang Amanah Negara (Diperbadankan) menurut kuasa subseksyen (1) boleh, pada dan selepas tarikh permulaan kuat kuasa Akta ini, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh Kumpulan Wang Amanah Negara (Diperbadankan) atas namanya sendiri dan tidaklah perlu bagi Kumpulan Wang Amanah Negara (Diperbadankan) untuk memberikan notis kepada orang yang terikat dengan hak dalam tindakan itu mengenai peletakhakan yang dibuat oleh subseksyen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap hak dan liabiliti yang terletak hak pada Kumpulan Wang Amanah Negara (Diperbadankan) menurut kuasa subseksyen (1) boleh, pada dan selepas tarikh permulaan kuat kuasa Akta ini, dituntut melalui guaman, didapatkan atau dikuatkuasakan oleh atau terhadap Kumpulan Wang Amanah Negara (Diperbadankan) atas namanya sendiri dan tidaklah perlu bagi Kumpulan Wang Amanah Negara (Diperbadankan) untuk memberikan notis kepada orang yang hak atau liabilitinya tersentuh oleh peletakhakan yang dibuat oleh subseksyen itu. Kontrak sedia ada, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala perjanjian, surat ikatan, bon, dokumen dan surat cara lain dan perkiraan kerja yang wujud sebaik sebelum tarikh permulaan kuat kuasa Akta ini dan menyentuh mana-mana harta atau wang yang dipindahkan di bawah Akta ini hendaklah terus berkuat kuasa dan berkesan sepenuhnya, terhadap atau memihak kepada Kumpulan Wang Amanah Negara (Diperbadankan), dan boleh dikuatkuasakan sepenuhnya dan dengan berkesan seolah-olah, bukannya Panel Kumpulan Wang Amanah Negara, tetapi Kumpulan Wang Amanah Negara (Diperbadankan) yang telah dinamakan dalam perjanjian, surat ikatan, bon, dokumen dan surat cara lain dan perkiraan kerja itu dan telah menjadi suatu pihak kepada perjanjian, surat ikatan, bon, dokumen dan surat cara lain dan perkiraan kerja itu. Penerusan kewajipan dan tanggungjawab Bank Negara Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_42__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk pada Akta ini, Bank Negara Malaysia hendaklah, pada tarikh permulaan kuat kuasa Akta ini, terus menunaikan kewajipan dan tanggungjawabnya di bawah Akta yang dimansuhkan bagi apa-apa tempoh sebagaimana yang ditentukan oleh Menteri, atas syor Lembaga."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa pewakilan kuasa atau kewajipan kepada Bank Negara Malaysia di bawah Akta yang dimansuhkan hendaklah, pada tarikh permulaan kuat kuasa Akta ini, terus sah sehingga dibatalkan oleh Menteri, atas syor Lembaga. Penerusan prosiding sivil dan jenayah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana prosiding sama ada sivil atau jenayah, atau kausa tindakan yang belum selesai atau yang wujud sebaik sebelum tarikh permulaan kuat kuasa Akta ini oleh atau terhadap Panel Kumpulan Wang Amanah Negara atau mana-mana orang yang bertindak bagi pihaknya boleh diteruskan atau dimulakan oleh atau terhadap Kumpulan Wang Amanah Negara (Diperbadankan). Pemindahan Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala wang yang berada dalam, atau kena dibayar kepada, Kumpulan Wang Amanah Negara yang ditubuhkan di bawah Akta yang dimansuhkan hendaklah, pada tarikh permulaan kuat kuasa Akta ini, dipindahkan kepada Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang Amanah Negara (Diperbadankan) hendaklah menentukan tatacara kewangannya sendiri dan boleh menerima pakai dengan ubah suaian sebagaimana yang difikirkannya patut mana-mana peraturan-peraturan, kaedah-kaedah, polisi, pekeliling dan arahan yang dibuat atau dikeluarkan oleh Kerajaan Persekutuan berkenaan dengan tatacara kewangan. Tahun kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini, tahun kewangan Kumpulan Wang hendaklah bermula pada 1 Januari dan berakhir pada 31 Disember setiap tahun. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Kumpulan Wang Amanah Negara (Diperbadankan). Kuasa untuk membuat peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, atas syor Lembaga, membuat peraturan-peraturan sebagaimana yang perlu atau suai manfaat bagi menguatkuasakan dengan sepenuhnya peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan boleh dibuat berhubung dengan semua atau mana-mana perkara yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penggunaan Kumpulan Wang, dan cara serta tatacara bagi pengeluaran daripada Kumpulan Wang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kewajipan dan kuasa Lembaga di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran kepentingan oleh anggota Lembaga dan anggota jawatankuasa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kriteria bagi orang yang layak dan sesuai dan kriteria lain bagi pelantikan seseorang sebagai pengurus dana utama;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kelakuan dan tatatertib pegawai dan pekhidmat Kumpulan Wang Amanah Negara (Diperbadankan) dan penubuhan pihak berkuasa tatatertib yang sesuai bagi kategori pegawai dan pekhidmat yang berlainan. Arahan oleh Menteri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh memberi Lembaga apa-apa arahan yang bersifat am yang tidak berlawanan dengan peruntukan Akta ini berkenaan dengan pelaksanaan kewajipannya dan penjalanan kuasanya dan Lembaga hendaklah melaksanakan segala arahan itu. Obligasi kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi apa-apa maksud Akta ini atau bagi maksud apa-apa prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis atau jika selainnya dibenarkan oleh Lembaga, orang yang dinyatakan dalam subseksyen (2) tidak boleh menzahirkan apa-apa maklumat yang diperolehnya semasa melaksanakan kewajipannya dan yang tidak disiarkan menurut Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) hendaklah terpakai bagi orang yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "anggota Lembaga atau anggota jawatankuasa, pegawai atau pekhidmat Kumpulan Wang Amanah Negara (Diperbadankan), sama ada semasa atau selepas tempoh jawatannya atau pekerjaannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang menghadiri mana-mana mesyuarat Lembaga atau jawatankuasa;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengurus dana utama atau pengurus dana luar yang dilantik di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang lain yang dengan apa-apa cara mempunyai akses kepada apa-apa maklumat atau dokumen yang berhubungan dengan hal ehwal Kumpulan Wang Amanah Negara (Diperbadankan)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/msa@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya."
+      }
+    }
+  ]
+}

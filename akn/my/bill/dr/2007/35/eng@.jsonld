@@ -1,0 +1,200 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-35-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Takaful (Amendment) Bill 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Takaful (Amendment) Act 2007,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Takaful Act 1984 [Act 312], which is referred to as the \"principal Act\" in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"family solidarity\" the following definition: ' \"foreign company\" has the meaning assigned to it by the Companies Act 1965;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"foreign company\" the following definition: ' \"foreign institution\" means a foreign company which carries on business outside Malaysia which is similar to the takaful business as provided under this Act or a foreign company which carries on any other financial business as may be specified by the Director General;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of \"foreign institution\" the following definition: ' \"international takaful business\" means takaful business in currencies other than ringgit;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of \"operator\" the following definition: ' \"operator\" means a company or a society which carries on takaful business registered under section 8 and includes an international takaful operator registered under section 40B;'; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of ' \"takaful operator\", \"takaful agent\" and \"takaful broker\" ' the following definition: ' \"takaful operator\", \"international takaful operator\", \"takaful agent\" and \"takaful broker\" means a person who carries on takaful business as takaful operator, international takaful operator, takaful agent and takaful broker respectively;'. Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 8(8) of the principal Act is amended by substituting for the word \"business\" the word \"operator\". Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 11(1) of the principal Act is amended by substituting for paragraph (d) the following paragraph: \"(d) the operator has failed to maintain a surplus of assets over liabilities in accordance with paragraph 4(2)(b), or, in the case of an international takaful operator, the international takaful operator has failed to comply with the requirements of section 40c, as the case may be;\". New Part IIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part II the following Part: \"PART IIA INTERNATIONAL TAKAFUL BUSINESS Requirements for carrying on business as international takaful operator 40A. (1) No person, other than a takaful operator registered under section 8, shall carry on or transact or hold himself out as carrying on or transacting international takaful business unless that person is — (a) a company as defined in the Companies Act 1965; or (b) a foreign institution, and registered under this Part to carry on such business. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding eighty thousand ringgit, increased by sixteen thousand ringgit for each day on which he is proved to have done so, or to imprisonment for a term not exceeding twelve months or to both. Registration of international takaful operators by Director General 40B. (1) A company or a foreign institution making an application for a registration under this Part shall make such application in writing to the Director General and shall supply — (a) a copy of the memorandum of association and articles of association or other instrument under which the company or the foreign institution, as the case may be, is incorporated, duly verified by a statutory declaration made by a senior officer of the company or of the foreign institution, as the case may be; and (b) such other document or information as may be called upon by the Director General. (2) An application to be registered in respect of family solidarity business or general business may be made by an international takaful operator already registered in respect of the other. (3) The Director General shall not be required to consider an application under this Part unless he is satisfied that the aims and operations of the international takaful business which it is desired to carry on does not involve any element which is not approved by the Religion of Islam. (4) Where the Director General is satisfied that an applicant has complied with all the requirements of this section and of section 40c, the Director General shall refer the application to the Minister and unless the Minister directs otherwise, the Director General shall register the applicant in respect of family solidarity business or general business or both er subject to payment of the fees prescribed under section 9; and (b) with or without conditions as he may impose under section 10. (5) The Director General shall cause notice of any registration of an international takaful operator to be published in the Gazette. Minimum capital funds or net working funds 40c. (1) No person shall be registered under section 40B nor shall such person registered thereunder carry on business in Malaysia without the written consent of the Director General i f - (a) in the case of a company, its capital funds unimpaired by losses or otherwise is less than the minimum amount; or (b) in the case of a foreign institution, its net working funds unimpaired by losses or otherwise is less than the minimum amount. (2) For the purposes of this section — \"capital funds\" means paid-up capital and reserves and any other sources of capital as may be defined and computed in such manner as may be specified by notice in writing by the Director General; \"minimum amount\" means such amount of capital funds or such amount of net working funds to be maintained by an international takaful operator as may be prescribed by the Minister on the recommendation of the Director General by notification in the Gazette; and \"net working funds\" means such net liabilities of the foreign institution outside Malaysia as may be defined and computed in such manner as may be specified by notice in writing from time to time by the Director General. (3) The prescription of the minimum amount to be maintained under subsection (2) shall be complied with within such uniform period of grace being not less than three months as may be specified in the notification. (4) Any person who contravenes this section commits an offence and shall, on conviction, be liable to a fine not exceeding eighty thousand ringgit, increased by sixteen thousand ringgit for each day on which he is proved to have done so, or to imprisonment for a term not exceeding twelve months or to both. Power of the Minister to modify certain provisions to be made applicable to an international takaful operator 40D. ( 1 ) For the avoidance of doubt, it is declared that a takaful operator or an international takaful operator shall, in respect of the international takaful business carried on by it, be subject to the provisions of this Act and any provisions of this Act which apply to a takaful operator shall apply to an international takaful operator as if the references therein to a takaful operator were references to an international takaful operator. (2) The Minister may, on the recommendation of the Director General, in respect of the international takaful business carried on by a takaful operator or an international takaful operator, by order published in the Gazette make such modifications to any provisions of this Act as he may deem fit.\". Amendment of section 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 45(4) of the principal Act is amended by inserting after the words \"subsection 8(3)\" the words \"or in the case of an international takaful operator, subsection 40B(1)\". New section 59A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 59 the following section: \"Exemption 59A. The Minister may, on the recommendation of the Director General, if he considers it consistent with the purposes of this Act, by order published in the Gazette, exempt with or without conditions, any takaful operator, international takaful operator or person from all or any provision of this Act.\". New section 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/35/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 68 the following section: \"Power to issue guidelines, etc. 69. The Director General or the Minister may, from time to time, issue such guidelines, circulars or notes as the Director General or the Minister may deem expedient or necessary for carrying into effect the objects of this Act.\"."
+      }
+    }
+  ]
+}

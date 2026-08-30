@@ -57,103 +57,20 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10",
       "@type": "akn:clause",
       "eli:number": "10",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: “Perlindungan terhadap guaman dan prosiding undang-undang 63a. Tiada tindakan, guaman, pendakwaan atau prosiding lain boleh dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana pegawai penjara; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mana-mana orang lain bagi atau atas sebab atau berkenaan dengan apa-apa perbuatan yang dilakukan atau berupa dilakukan olehnya di bawah perintah, arahan atau suruhan Komisioner Jeneral, jika perbuatan, kecuaian atau keingkaran itu telah dibuat atau dilakukan olehnya dengan suci hati dan dengan mempercayai semunasabahnya bahawa ia perlu bagi maksud yang diniatkan untuk dicapai melaluinya dan bagi melaksanakan peruntukan Akta ini.”. Seksyen baharu 66a"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: “Perlindungan terhadap guaman dan prosiding undang-undang 63a. Tiada tindakan, guaman, pendakwaan atau prosiding lain boleh dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap— (a) mana-mana pegawai penjara; dan (b) mana-mana orang lain bagi atau atas sebab atau berkenaan dengan apa-apa perbuatan yang dilakukan atau berupa dilakukan olehnya di bawah perintah, arahan atau suruhan Komisioner Jeneral, jika perbuatan, kecuaian atau keingkaran itu telah dibuat atau dilakukan olehnya dengan suci hati dan dengan mempercayai semunasabahnya bahawa ia perlu bagi maksud yang diniatkan untuk dicapai melaluinya dan bagi melaksanakan peruntukan Akta ini.”. Seksyen baharu 66a"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
       "@type": "akn:clause",
       "eli:number": "11",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_4"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 66 seksyen yang berikut: “Sukarelawan 66a. (1) Komisioner Jeneral boleh melantik apa-apa bilangan sukarelawan sebagaimana yang perlu untuk membantu pegawai penjara untuk melaksanakan apa-apa program pemulihan di bawah Akta ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang sukarelawan adalah tertakluk kepada arahan, perintah dan kawalan Komisioner Jeneral."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang sukarelawan—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "boleh dibayar apa-apa elaun sebagaimana yang ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "tidak berhak kepada apa-apa saraan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_11",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang sukarelawan semasa menjalankan apa-apa kewajipan di bawah Akta ini hendaklah disifatkan sebagai seorang penjawat awam mengikut pengertian Kanun Keseksaan.”. Pindaan Jadual Pertama"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 66 seksyen yang berikut: “Sukarelawan 66a. (1) Komisioner Jeneral boleh melantik apa-apa bilangan sukarelawan sebagaimana yang perlu untuk membantu pegawai penjara untuk melaksanakan apa-apa program pemulihan di bawah Akta ini. (2) Seseorang sukarelawan adalah tertakluk kepada arahan, perintah dan kawalan Komisioner Jeneral. (3) Seseorang sukarelawan— (a) boleh dibayar apa-apa elaun sebagaimana yang ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan; dan (b) tidak berhak kepada apa-apa saraan. (4) Seseorang sukarelawan semasa menjalankan apa-apa kewajipan di bawah Akta ini hendaklah disifatkan sebagai seorang penjawat awam mengikut pengertian Kanun Keseksaan.”. Pindaan Jadual Pertama"
       }
     },
     {
@@ -324,56 +241,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_5"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian IVa bahagian yang berikut: “bahagian IVaa PERANTI PENGAWASAN ELEKTRONIK Pemasangan peranti pengawasan elektronik 46oa. (1) Komisioner Jeneral boleh, melalui perintah secara bertulis, mengarahkan supaya suatu peranti pengawasan elektronik dipasang pada mana-mana banduan yang dikurung dalam suatu penjara, dalam jagaan atau di bawah kawalan seorang pegawai penjara, dilepaskan secara lesen di bawah seksyen 43 atau dilepaskan secara parol di bawah seksyen 46h."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika Komisioner Jeneral membuat suatu perintah di bawah subseksyen (1), Komisioner Jeneral hendaklah menentukan terma dan syarat yang berhubungan dengan pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan peranti pengawasan elektronik itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika suatu peranti pengawasan elektronik diarahkan untuk dipasang pada seseorang banduan di bawah subseksyen (1), Pegawai yang Menjaga hendaklah menjelaskan terma dan syarat bagi pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan peranti pengawasan elektronik itu kepada banduan itu, dan peranti pengawasan elektronik itu hendaklah dipasang pada banduan itu oleh Pegawai yang Menjaga."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Mana-mana orang yang tidak mematuhi mana-mana terma dan syarat yang berhubungan dengan pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan suatu peranti pengawasan elektronik melakukan suatu kesalahan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6__subsec_5",
-      "@type": "akn:subsection",
-      "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Mana-mana orang yang mengganggu, merosakkan, memusnahkan atau menghilangkan suatu peranti pengawasan elektronik melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi tiga tahun, dan orang itu hendaklah bertanggungan untuk membayar apa-apa kerosakan atau kehilangan peranti pengawasan elektronik itu, dan mahkamah boleh mengarahkan jika dia ingkar membayar bagi kerosakan atau kehilangan itu, orang itu hendaklah dikenakan pemenjaraan selama tempoh tidak melebihi tiga tahun.”. Pindaan seksyen 47"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian IVa bahagian yang berikut: “bahagian IVaa PERANTI PENGAWASAN ELEKTRONIK Pemasangan peranti pengawasan elektronik 46oa. (1) Komisioner Jeneral boleh, melalui perintah secara bertulis, mengarahkan supaya suatu peranti pengawasan elektronik dipasang pada mana-mana banduan yang dikurung dalam suatu penjara, dalam jagaan atau di bawah kawalan seorang pegawai penjara, dilepaskan secara lesen di bawah seksyen 43 atau dilepaskan secara parol di bawah seksyen 46h. (2) Jika Komisioner Jeneral membuat suatu perintah di bawah subseksyen (1), Komisioner Jeneral hendaklah menentukan terma dan syarat yang berhubungan dengan pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan peranti pengawasan elektronik itu. (3) Jika suatu peranti pengawasan elektronik diarahkan untuk dipasang pada seseorang banduan di bawah subseksyen (1), Pegawai yang Menjaga hendaklah menjelaskan terma dan syarat bagi pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan peranti pengawasan elektronik itu kepada banduan itu, dan peranti pengawasan elektronik itu hendaklah dipasang pada banduan itu oleh Pegawai yang Menjaga. (4) Mana-mana orang yang tidak mematuhi mana-mana terma dan syarat yang berhubungan dengan pemasangan, penggunaan, pengendalian, penyenggaraan dan pengalihan suatu peranti pengawasan elektronik melakukan suatu kesalahan. (5) Mana-mana orang yang mengganggu, merosakkan, memusnahkan atau menghilangkan suatu peranti pengawasan elektronik melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi tiga tahun, dan orang itu hendaklah bertanggungan untuk membayar apa-apa kerosakan atau kehilangan peranti pengawasan elektronik itu, dan mahkamah boleh mengarahkan jika dia ingkar membayar bagi kerosakan atau kehilangan itu, orang itu hendaklah dikenakan pemenjaraan selama tempoh tidak melebihi tiga tahun.”. Pindaan seksyen 47"
       }
     },
     {
@@ -424,34 +295,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9",
       "@type": "akn:clause",
       "eli:number": "9",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9__subpara_ii"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Subseksyen 60(2) Akta ibu dipinda dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) semua wang— Seksyen baharu 63a"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "yang dirampas atau yang pemunyaannya tidak diketahui dan dijumpai, semasa sesuatu penggeledahan dalam sesuatu penjara; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/10/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "yang diperoleh daripada pelupusan mana-mana harta yang dirampas atau yang pemunyaannya tidak diketahui dan dijumpai, semasa sesuatu penggeledahan dalam sesuatu penjara.”."
+        "@value": "Subseksyen 60(2) Akta ibu dipinda dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) semua wang— (i) yang dirampas atau yang pemunyaannya tidak diketahui dan dijumpai, semasa sesuatu penggeledahan dalam sesuatu penjara; atau (ii) yang diperoleh daripada pelupusan mana-mana harta yang dirampas atau yang pemunyaannya tidak diketahui dan dijumpai, semasa sesuatu penggeledahan dalam sesuatu penjara.”. Seksyen baharu 63a"
       }
     }
   ]

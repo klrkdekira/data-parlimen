@@ -1,0 +1,372 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-33-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Membaharui Undang-Undang (Perkahwinan dan Perceraian) ( Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian) (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Membaharui Undang-Undang (Perkahwinan dan Perceraian) 1976 [Akta 164], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 3(3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “yang di hadapannya suatu petisyen perceraian telah dibuat di bawah seksyen 51 daripada” dengan perkataan “daripada mempunyai bidang kuasa eksklusif atas pembubaran sesuatu perkahwinan dan semua perkara yang berbangkit daripada itu termasuklah”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atas petisyen daripada satu pihak kepada suatu perkahwinan jika pihak yang satu lagi itu telah masuk Islam, dan dekri itu adalah, walau apa pun undang-undang bertulis lain yang berlawanan, sah terhadap pihak kepada perkahwinan itu yang telah masuk Islam sedemikian itu” dengan perkataan “atau perintah lain di bawah Bahagian VII dan Bahagian VIII bagi suatu petisyen perceraian di bawah seksyen 53 yang satu pihak masuk Islam selepas petisyen difailkan atau selepas dekri diisytiharkan, atau suatu petisyen perceraian di bawah seksyen 51, 52 atau 53 bagi petisyen oleh salah satu pihak atau kedua-dua pihak kepada suatu perkahwinan yang satu pihak telah masuk Islam, dan dekri itu dan perintah yang dibuat adalah, walau apa pun undang-undang bertulis lain yang berlawanan, sah terhadap pihak kepada perkahwinan itu yang telah masuk Islam sedemikian itu”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 12(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “bapanya” perkataan “atau ibunya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memotong perkataan “atau bapanya telah mati”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: “(c) jika orang itu ialah seorang anak angkat, bapa angkatnya atau ibu angkatnya; atau”. (Perkahwinan dan Perceraian) (Pindaan) Pindaan seksyen 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 51 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Jika satu pihak kepada sesuatu perkahwinan telah masuk Islam— (a) salah satu pihak boleh mempetisyen untuk perceraian di bawah seksyen ini atau seksyen 53; atau (b) kedua-dua pihak boleh mempetisyen untuk perceraian di bawah seksyen 52.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “membubarkan perkahwinan itu” perkataan “atau pada bila-bila masa,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “jika ada,” perkataan “di bawah Bahagian VII dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "dan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(c) dalam subseksyen (3), dengan menggantikan perkataan “di bawah seksyen ini” dengan perkataan “jika satu pihak telah masuk Islam”. Seksyen baharu 51a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 51 seksyen yang berikut: “Harta suami isteri selepas penukaran agama 51a. (1) Jika seseorang yang telah masuk Islam mati sebelum perkahwinan bukan Islam yang orang itu ialah suatu pihak telah dibubarkan, aset perkahwinan orang itu hendaklah dibahagikan oleh mahkamah antara pihak-pihak berkepentingan mengikut peruntukan seksyen ini apabila permohonan dibuat oleh mana-mana pihak berkepentingan. (2) Dalam menjalankan kuasa yang diberikan oleh subseksyen (1), mahkamah hendaklah memberi perhatian terhadap— (a) takat sumbangan yang telah diberikan oleh pihak-pihak berkepentingan itu dalam bentuk wang, harta atau kerja terhadap pemerolehan aset perkahwinan itu atau pembayaran perbelanjaan untuk faedah keluarga; (b) apa-apa hutang yang terhutang oleh si mati dan pihak berkepentingan yang telah dilakukan bagi faedah bersama mereka; (c) takat sumbangan kepada kebajikan keluarga dengan menjaga rumah atau menyayangi keluarga; (d) tempoh perkahwinan itu; (e) keperluan anak-anak, jika ada, daripada perkahwinan itu; dan (f) hak pihak berkepentingan di bawah Akta Pembahagian 1958 [Akta 300] jika si mati belum menukar agama. (3) Bagi maksud seksyen ini, “pihak berkepentingan” atau “pihak-pihak berkepentingan” ertinya pasangan yang menakat dan anak-anak yang menakat daripada sesuatu perkahwinan, jika ada, dan ibu bapa pasangan yang telah menukar agama yang telah meninggal dunia.”. Pindaan seksyen 76"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 76 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “dengan usaha bersama mereka”; (Perkahwinan dan Perceraian) (Pindaan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)— “(aa) takat sumbangan yang telah diberikan oleh pihak lain yang tidak memperoleh aset itu untuk kebajikan keluarga dengan menjaga rumah atau menyayangi keluarga;”; “(d) tempoh perkahwinan itu;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “aset itu” perkataan “atau pembayaran perbelanjaan untuk faedah keluarga”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan koma di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3) dan (4). Pindaan seksyen 95"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 95 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “hilang upaya dari segi jasmani atau otak” perkataan “atau sedang mengikuti pelajaran atau latihan lanjut atau lebih tinggi”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “tidak lagi berada dalam keadaan hilang upaya itu” perkataan “atau selesai pelajaran atau latihan lanjut atau lebih tinggi itu”. Peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/33/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan atau prosiding yang bermula atau belum selesai sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan di bawah peruntukan Akta ibu sebagaimana yang dipinda oleh Akta ini."
+      }
+    }
+  ]
+}

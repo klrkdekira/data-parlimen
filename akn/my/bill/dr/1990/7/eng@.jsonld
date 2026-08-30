@@ -1,0 +1,88 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-7-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Dangerous Drugs (Special Preventive Measures) (Amendment) Bill 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Dangerous Drugs (Special Preventive Measures) (Amendment) Act 1990. Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 6 of the Dangerous Drugs (Special of section 6. Preventive Measures) Act 1985, which in this Act is Act 316. referred to as the \"principal Act\", is amended, in subsection (1), by deleting the words \"from the date of such order\". Validation of"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a detention order was made under detention subsection (1) of section 6 of the principal Act against orders and any person during the period between the detentions, and commencement of the principal Act and the indemnity. commencement of this Act (hereinafter referred to as the \"transitional period\"), the detention order and the detention effected in pursuance thereof during the transitional period, and its continuation thereafter, if any, are hereby declared lawful and valid, and shall be deemed to be, and to have always and at all times been, lawful and valid, notwithstanding that the period for which it was directed by that order that such person be detained commenced from a date other than the date on which the detention order was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/7/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution, or other legal proceeding whatsoever of any description or in any form shall be brought, instituted or maintained in any court on any ground after the commencement of this Act or, if brought or instituted before commencement of this Act, shall continue to be maintained, for or on account of, or in respect of, anything lawfully done in relation to the detention order or the detention declared lawful and valid under subsection (1), save that the provisions of subsection shall not apply to any such legal proceeding which had concluded and the final decision in respect of which had been given before the commencement of this Act, or to any appeal in respect of such final decision."
+      }
+    }
+  ]
+}

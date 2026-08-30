@@ -1,0 +1,318 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Cukai Jualan (Pindaan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Jualan (Pindaan) 2001. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 48 dengan seksyen yang berikut: \"Pemeriksaan sebahagian barang-barang yang diambil hendaklah diterima oleh mahkamah 48. (1) Apabila apa-apa barang yang disyaki sebagai barang- barang kena cukai atau selainnya boleh kena diambil telah diambil, maka memadailah dibuka dan diperiksa lima peratus sahaja daripada setiap jenis bungkusan atau tempat muatan yang mengandungi barang-barang itu. (2) Jika didapati perlu untuk menguji mana-mana barang yang diambil di bawah Akta ini, maka memadailah diuji hanya suatu contoh yang tidak melebihi lima peratus isipadu atau berat barang-barang yang diperiksa di bawah subseksyen (1). (3) Mahkamah hendaklah menganggap bahawa barang-barang yang terkandung dalam bungkusan-bungkusan atau tempat- tempat muatan yang tidak dibuka itu adalah sama jenis, kuantiti dan kualitinya dengan barang-barang yang didapati dalam bungkusan-bungkusan atau tempat-tempat muatan seumpamanya yang telah dibuka itu.\". Seksyen baru 5lA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 51 seksyen yang berikut: \"Kewajipan kerahsiaan 5lA. (1) Kecuali sebagaimana yang diperuntukkan di bawah seksyen 52, nama dan alamat seseorang pemberi maklumat dan isi maklumat yang diterima daripada seseorang pemberi maklumat hendaklah dirahsiakan dan tidak boleh didedahkan oleh mana-mana pegawai yang hak atau mana-mana orang yang dalam perjalanan biasa tugasnya memperoleh atau mengawal atau mendapat akses kepada maklumat itu kepada mana-mana orang kecuali pegawai cukai jualan ditetapkan yang diberi kuasa oleh Ketua Pengarah. (2) Mana-mana orang yang tidak mematuhi subseksyen (1) adalah melakukan suatu kesalahan terhadap Akta ini dan boleh didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.\". Pindaan seksyen 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 62(2)(a) Akta ibu dipinda dengan menggantikan perkataan \"firma atau persatuan orang\" dengan perkataan \"suatu firma, suatu pertubuhan, suatu persatuan atau kumpulan orang yang lain\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Jualan 1972 [Akta 64], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 2 dalam takrif \"orang\" dengan menggantikan perkataan \"persatuan orang-orang\" dengan perkataan \"pertubuhan, persatuan\". Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 23(3) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"Akta Had Masa 1953,\" perkataan \"Ordinan Had Masa Sabah [Sabah Bab 72] atau Ordinan Had Masa Sarawak [Swk. Bab 49], mengikut mana-mana yang berkenaan,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"seksyen 6(4) Akta Had Masa 1953\" perkataan \", seksyen 3 Ordinan Had Masa Sabah atau seksyen 3 Ordinan Had Masa Sarawak, mengikut mana-mana yang berkenaan,\". Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: \"(c) pertubuhan, persatuan atau kumpulan orang yang lain,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"persatuan orang-orang\" yang kedua terdapat dengan perkataan \"pertubuhan, persatuan atau kumpulan orang yang lain\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"persatuan\" yang ketiga terdapat dengan perkataan \"pertubuhan, persatuan atau kumpulan orang yang lain\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"orang, syarikat, firma atau persatuan orang-orang yang bertanggung membayar cukai jualan, penalti atau surcaj\" dengan perkataan \", pertubuhan, persatuan atau kumpulan orang yang lain\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung seksyen itu dengan titik bertindih; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan di bawah peruntukan yang sedia ada proviso yang berikut: \"Dengan syarat bahawa berhubung dengan sesuatu syarikat yang sedang digulungkan, pengarah syarikat itu hanya bertanggungan sedemikian jika aset syarikat itu tidak mencukupi untuk menjelaskan amaun yang kena dibayar, selepas membayar apa-apa jumlah yang mempunyai keutamaan di bawah Akta Syarikat 1965 berhubung dengan penggunaan aset syarikat itu dalam penggulungan itu, berbanding cukai jualan, penalti atau surcaj itu.\". Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5__subsec_2A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu dipinda dengan memotong subseksyen"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5__subsec_2A",
+      "@type": "akn:subsection",
+      "eli:number": "2A",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dan (2B). Seksyen baru 39A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 39 seksyen yang berikut: \"Akses kepada maklumat berekod atau data berkomputer 39A. (1) Mana-mana pegawai kanan cukai jualan yang menjalankan kuasanya di bawah seksyen 36, 37, 38 dan 39 hendaklah diberi akses kepada apa-apa maklumat berekod atau data berkomputer, sama ada disimpan dalam komputer atau selainnya. (2) Sebagai tambahan, seseorang pegawai cukai jualan yang menjalankan kuasanya di bawah seksyen 36, 37, 38 dan 39— (a) boleh memeriksa dan meneliti pengendalian mana-mana komputer dan apa-apa perkakas atau bahan yang berkaitan yang dia mempunyai sebab yang munasabah untuk mengesyaki digunakan atau telah digunakan berkaitan dengan maklumat atau data itu; dan (b) boleh menghendaki— (i) orang yang pegawai cukai jualan itu mempunyai sebab yang munasabah untuk mengesyaki menggunakan atau telah menggunakan komputer itu atau yang bagi pihaknya komputer itu digunakan atau telah digunakan sedemikian; atau (ii) orang yang menjaga, atau selainnya terlibat dalam, pengendalian komputer, perkakas atau bahan itu, supaya memberinya bantuan yang munasabah sebagaimana yang dikehendaki olehnya bagi maksud seksyen ini, (3) Bagi maksud subseksyen (1), \"akses\" termasuklah diberi kata laluan, kod penyulitan, kod penyahsulitan, perisian atau perkakasan yang perlu dan apa-apa cara lain yang diperlukan untuk membolehkan maklumat berekod atau data berkomputer itu difahami.\". Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c) proviso kepada subseksyen (1), dengan memasukkan selepas perkataan \"seorang perempuan lain\" perkataan \"dengan betul-betul mengambil kira kehendak kesopanan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(5) Tiap-tiap orang yang ditangkap sedemikian boleh dilepaskan daripada jagaan— (a) apabila dia mendepositkan apa-apa jumlah wang yang munasabah sebagaimana yang dikehendaki oleh seorang pegawai yang hak; (b) apabila dia menyempurnakan suatu bon, dengan suatu penjamin atau penjamin-penjamin, sebagaimana yang dikehendaki oleh seorang pegawai yang hak; atau (c) apabila dia mendepositkan apa-apa jumlah wang yang munasabah sebagaimana yang dikehendaki oleh seorang pegawai yang hak dan dia menyempurnakan suatu bon, dengan suatu penjamin atau penjamin-penjamin, sebagaimana yang dikehendaki oleh seorang pegawai yang hak. (6) Mana-mana orang yang telah dilepaskan daripada jagaan di bawah subseksyen (5) boleh ditangkap tanpa waran oleh mana-mana pegawai cukai jualan— (a) jika pegawai itu mempunyai alasan yang munasabah untuk mempercayai bahawa mana- mana syarat yang berdasarkannya atau yang tertakluk kepadanya orang itu telah dilepaskan atau selainnya dibenarkan dijamin telah atau mungkin dilanggar; atau (b) apabila diberitahu secara bertulis oleh penjamin orang itu bahawa orang itu mungkin melanggar mana-mana syarat yang berdasarkannya atau yang tertakluk kepadanya orang itu telah dilepaskan dan bahawa penjamin itu hendak dibebaskan daripada obligasinya sebagai penjamin.\". Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 45(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"firma, persatuan atau lain-lain kumpulan orang\" yang pertama terdapat dengan perkataan \"firma, pertubuhan, persatuan atau kumpulan orang yang lain\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"persatuan atau lain-lain kumpulan orang\" yang kedua terdapat dengan perkataan \"pertubuhan, persatuan atau kumpulan orang yang lain\". Pemotongan seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 46. Penggantian seksyen 48"
+      }
+    }
+  ]
+}

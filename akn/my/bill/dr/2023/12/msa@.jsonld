@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-12-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perbekalan Tambahan (2022) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (2022)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2023. Perbelanjaan tambahan bagi tahun 2022"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi enam puluh bilion satu ratus tujuh puluh empat juta sembilan ratus dua puluh lapan ribu ringgit (RM60,174,928,000) daripada Kumpulan Wang Disatukan bagi perbelanjaan tambahan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2022 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2022 [Akta A1638]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk B. 4 Suruhanjaya Pilihan Raya B. 10 Perbendaharaan B. 11 Perkhidmatan Am Perbendaharaan B. 12 Peruntukan kepada Kumpulan Wang Terkanun B. 14 Kementerian Perpaduan Negara B. 21 Kementerian Pertanian dan Industri Makanan B. 25 Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna B. 42 Kementerian Kesihatan B. 60 Kementerian Pertahanan B. 63 Kementerian Pendidikan Jumlah"
+      }
+    }
+  ]
+}

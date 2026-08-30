@@ -1,0 +1,194 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-47-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Bills of Exchange (Amendment) Bill 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Bills of Exchange (Amendment) Act 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 3 shall be deemed to have come into force on 1 November 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 2, 4, 5 and 6 shall come into force on a date to be appointed by the Minister by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Bills of Exchange Act 1949, which in this Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "referred to as the \"principal Act\", is amended by inserting after section 73 the following section: \" Knowingly 73A. Notwithstanding section 24, where a or signature on a cheque is forged or placed thereon negligently without the authority of the person whose facilitating forgery. signature it purports to be, and that person whose signature it purports to be knowingly or negligently contributes to the forgery or the making of the unauthorized signature, the signature shall operate and shall be deemed to be the signature of the person it purports to be in favour of any person who in good faith pays the cheque or takes the cheque for value.\". 2 Bill New section"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3__subsec_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "74A. 74 the following section: \" 74A. (1) Notwithstanding section 45, a cheque Presentment of cheque is duly presented for payment if the cheque is through presented through a document image processing document image system. processing system. (2) For the purposes of this section, a \"document image processing system\" means a system which permits all forms of documents to be stored, recorded, retrieved, processed or produced by a computer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a cheque is presented for payment in accordance with this section, the paying bank may request the collecting bank to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide it with such further particulars in relation to the cheque as the paying bank deems necessary; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exhibit the cheque or a copy of the cheque.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 80 of the principal Act is amended by inserting of section 80. after the words \"a crossed cheque\" the words \"(including a cheque which under section 8lA or otherwise is not transferable)\". New section"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_5__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended under the heading"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "81A. \"Crossed Cheques\" by inserting after section 81 the following section: \" Non- 8lA. (1) Where a cheque is crossed and bears transferable across its face the words \"account payee\" or cheque. \"a/c payee\", either with or without the word \"only\", the cheque shall not be transferable, but shall only be valid as between the parties thereto."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of section 80, a banker is not to be treated as having been negligent by Bills of Exchange (Amendment) reason only of his failure to concern himself with any purported indorsement of a cheque which under subsection (1) or otherwise is not transferable.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/47/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Paragraph 85(2)(a) of the principal Act is amended"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"cheques\" the words \"(including cheques which under section 8lA or otherwise are not transferable)\"."
+      }
+    }
+  ]
+}

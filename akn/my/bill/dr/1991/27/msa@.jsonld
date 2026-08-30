@@ -51,10 +51,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@",
       "schema:name": {
         "@language": "ms",
@@ -62,27 +58,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "menggantikan seksyen 7 dengan yang berikut: \"Mendapat- 7. (1) Tertakluk kepada subseksyen (2), kan kembali seseorang yang berhak kepada pemilikan harta harta tak alih tak alih Spesifik boJeh mendapatkannya kembali spesifik. dengan cara yang ditetapkan oleh undang- undang yang berhubungan dengan prosedur sivil."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika sesuatu harta tak alih Spesifik telah disewakan menurut sesuatu penyewaan, dan penyewaan itu ditamatkan atau telah berakhir, tetapi penghuni itu masih terus menduduki harta itu atau bahagiannya, maka orang yang berhak kepada pemilikan harta itu tidaklah boleh menguatkuasakan haknya untuk mendapat- kannya kembali terhadap penghuni melainkan dengan presiding di mahkamah."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/27/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Dalam subseksyen (2) \"penghuni\" ertinya mana-mana orang yang secara sahnya men- duduki harta itu atau bahagiannya pada masa penamatan penyewaan itu.\"."
+        "@value": "menggantikan seksyen 7 dengan yang berikut: \"Mendapat- 7. (1) Tertakluk kepada subseksyen (2), kan kembali seseorang yang berhak kepada pemilikan harta harta tak alih tak alih Spesifik boJeh mendapatkannya kembali spesifik. dengan cara yang ditetapkan oleh undang- undang yang berhubungan dengan prosedur sivil. (2) Jika sesuatu harta tak alih Spesifik telah disewakan menurut sesuatu penyewaan, dan penyewaan itu ditamatkan atau telah berakhir, tetapi penghuni itu masih terus menduduki harta itu atau bahagiannya, maka orang yang berhak kepada pemilikan harta itu tidaklah boleh menguatkuasakan haknya untuk mendapat- kannya kembali terhadap penghuni melainkan dengan presiding di mahkamah. (3) Dalam subseksyen (2) \"penghuni\" ertinya mana-mana orang yang secara sahnya men- duduki harta itu atau bahagiannya pada masa penamatan penyewaan itu.\"."
       }
     }
   ]

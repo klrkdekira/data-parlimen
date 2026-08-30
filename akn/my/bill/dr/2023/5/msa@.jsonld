@@ -67,91 +67,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_4"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Kanun Keseksaan [Akta 574] dipinda dengan memasukkan selepas seksyen 507 seksyen yang berikut: “Stalking 507a. (1) Whoever repeatedly by any act of harassment, intending to cause, or knowing or ought to know that the act is likely to cause, distress, fear or alarm to any person of the person’s safety, commits an offence of stalking."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2__para_d"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "For the purposes of subsection (1), the act of harassment may include the following:"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "following or tracking a person in any manner or by any means;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "communicating or attempting to communicate with a person in any manner or by any means;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "loitering at the place of residence or business of a person;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "giving or sending any thing to a person in any manner or by any means."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Whoever commits the offence of stalking shall be punished with imprisonment for a term which may extend to three years or with fine or with both."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/5/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "In this section, “repeatedly” shall refer to at least two occasions.”."
+        "@value": "Kanun Keseksaan [Akta 574] dipinda dengan memasukkan selepas seksyen 507 seksyen yang berikut: “Stalking 507a. (1) Whoever repeatedly by any act of harassment, intending to cause, or knowing or ought to know that the act is likely to cause, distress, fear or alarm to any person of the person’s safety, commits an offence of stalking. (2) For the purposes of subsection (1), the act of harassment may include the following: (a) following or tracking a person in any manner or by any means; (b) communicating or attempting to communicate with a person in any manner or by any means; (c) loitering at the place of residence or business of a person; (d) giving or sending any thing to a person in any manner or by any means. (3) Whoever commits the offence of stalking shall be punished with imprisonment for a term which may extend to three years or with fine or with both. (4) In this section, “repeatedly” shall refer to at least two occasions.”."
       }
     }
   ]

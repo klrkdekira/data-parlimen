@@ -1,0 +1,213 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-34-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Bank Islam (Pindaan) 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Bank Islam (Pindaan) 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Bank Islam 1983 [Akta 276] yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"bank Islam\" takrif yang berikut: ' \"bank Islam antarabangsa\" ertinya mana-mana syarikat atau pejabat mana-mana institusi asing yang menjalankan perniagaan perbankan Islam antarabangsa dan memegang lesen yang sah di bawah seksyen 30B;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"deposit Islam\" takrif yang berikut: ' \"institusi asing\" ertinya suatu syarikat asing yang menjalankan perniagaan di luar Malaysia yang serupa dengan perniagaan bank Islam sebagaimana yang diperuntukkan di bawah Akta ini atau perniagaan mana-mana institusi berlesen di bawah subseksyen 6(4) Akta Bank dan Institusi-Institusi Kewangan 1989 [Akta 372];';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"lesen\" takrif yang berikut: ' \"pejabat\" termasuklah tempat utama perniagaan, suatu cawangan, agensi, tempat perniagaan bergerak, tempat perniagaan yang ditubuhkan dan disenggarakan bagi suatu tempoh yang terhad sahaja, terminal elektronik dan mana-mana tempat perniagaan lain;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"perniagaan bank Islam\" takrif yang berikut: \"perniagaan perbankan Islam antarabangsa\" ertinya perniagaan bank Islam dalam mata wang selain ringgit atau apa-apa perniagaan bank Islam lain sebagaimana yang ditentukan oleh Bank Negara;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"syarikat\" takrif yang berikut: \"syarikat asing\" mempunyai erti yang diberikan kepadanya oleh Akta Syarikat 1965;'. Bahagian baru VA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian V Bahagian yang berikut: \"BAHAGIAN VA PERNIAGAAN PERBANKAN ISLAM ANTARABANGSA Larangan menjalankan perniagaan perbankan Islam antarabangsa 30A. (1) Tiada seorang pun boleh menjalankan perniagaan perbankan Islam antarabangsa melainkan jika ia merupakan— (a) suatu bank Islam; atau (b) suatu syarikat atau institusi asing dan memegang lesen yang sah di bawah seksyen 30B untuk menjalankan perniagaan sedemikian. (2) Mana-mana orang yang melanggar peruntukan seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-dua denda dan penjara. Permohonan bagi lesen untuk menjalankan perniagaan perbankan Islam antarabangsa oleh orang selain bank Islam berlesen 30B. (1) Suatu syarikat atau institusi asing selain suatu bank Islam berlesen yang menghendakkan kuasa untuk menjalankan perniagaan perbankan Islam antarabangsa di Malaysia hendaklah memohon secara bertulis kepada Menteri melalui Bank Negara bagi suatu lesen di bawah Bahagian ini dan hendaklah mengemukakan — (a) suatu salinan memorandum persatuan dan artikel persatuan atau surat cara lain yang di bawahnya syarikat atau institusi asing itu, mengikut mana-mana yang berkenaan, diperbadankan, yang ditentusahkan dengan sewajarnya melalui akuan berkanun yang dibuat oleh pegawai kanan syarikat atau institusi asing itu, mengikut mana-mana yang berkenaan; dan (b) apa-apa dokumen atau maklumat lain yang diperlukan oleh Bank Negara atau Menteri, mengikut mana-mana yang berkenaan. (2) Apabila menerima suatu permohonan di bawah subseksyen (1) Bank Negara hendaklah menimbangkan permohonan itu dan membuat syor kepada Menteri menyatakan sama ada suatu lesen hendaklah diberikan atau tidak, dan syarat-syarat, jika ada, yang hendak dikenakan kepada lesen itu. (3) Apabila menerima suatu permohonan di bawah subseksyen (1) dan syor Bank Negara di bawah subseksyen (2), Menteri boleh, tertakluk kepada seksyen 30c, memberikan suatu lesen, dengan atau tanpa syarat, atau enggan memberikan suatu lesen. (4) Bank Negara tidak boleh mengesyorkan pemberian lesen dan Menteri tidak boleh memberikan suatu lesen, melainkan jika Bank Negara atau Menteri, mengikut mana-mana yang berkenaan, berpuas hati bahawa tujuan dan pengendalian perniagaan perbankan yang hendak dijalankan itu tidak melibatkan apa-apa unsur yang tidak diluluskan oleh Agama Islam. Menteri boleh mengubah atau membatalkan syarat lesen yang diberikan di bawah Bahagian ini 30c. (1) Menteri boleh pada bila-bila masa, atas syor Bank Negara, mengubah atau membatalkan apa-apa syarat yang sedia ada bagi sesuatu lesen atau mengenakan syarat atau syarat tambahan. (2) Menteri hendaklah, sebelum mengambil apa-apa tindakan di bawah subseksyen (1), memberitahu secara bertulis tentang niatnya hendak mengambil tindakan sedemikian ke atas bank Islam antarabangsa yang berkenaan dan hendaklah memberi bank Islam antarabangsa itu suatu peluang untuk mengemukakan, dalam apa-apa tempoh yang.tidak kurang daripada empat belas hari sebagaimana yang dinyatakan dalam pemberitahuan itu, sebab mengapa syarat lesen itu tidak patut diubah atau dibatalkan atau syarat atau syarat tambahan tidak patut dikenakan. (3) Jika suatu lesen adalah tertakluk kepada syarat, bank Islam antarabangsa hendaklah mematuhi syarat itu. (4) Mana-mana bank Islam antarabangsa yang tidak mematuhi mana-mana syarat lesennya melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit. Lesen di bawah Bahagian ini tidak boleh diberikan dalam hal tertentu 30D. (1) Tiada seorang pun boleh diberikan suatu lesen di bawah seksyen 30B dan tiada seorang pun yang dilesenkan di bawah seksyen itu boleh menjalankan perniagaan di Malaysia tanpa kebenaran bertulis Menteri jika— (a) dalam hal suatu syarikat, wang modalnya yang tidak terjejas oleh kerugian atau selainnya adalah kurang daripada amaun minimum; atau (b) dalam hal suatu institusi asing, wang kerja bersihnya yang tidak terjejas oleh kerugian atau selainnya adalah kurang daripada amaun minimum. (2) Bagi maksud seksyen ini— \"amaun minimum\" ertinya apa-apa amaun wang modal atau apa-apa amaun wang kerja bersih yang hendaklah disenggarakan oleh suatu bank Islam antarabangsa sebagaimana yang ditetapkan oleh Menteri atas syor Bank Negara melalui pemberitahuan dalam Wart a; \"wang kerja bersih\" ertinya apa-apa liabiliti bersih institusi asing di luar Malaysia sebagaimana yang ditakrifkan dan dikira mengikut apa-apa cara yang dinyatakan melalui notis secara bertulis dari semasa ke semasa oleh Bank Negara; dan \"wang modal\" ertinya modal berbayar dan rizab dan apa-apa sumber modal lain sebagaimana yang ditakrifkan dan dikira mengikut apa-apa cara yang dinyatakan melalui notis secara bertulis dari semasa ke semasa oleh Bank Negara. (3) Penetapan amaun minimum yang hendaklah disenggarakan di bawah subseksyen (2) hendaklah dipatuhi dalam apa-apa tempoh tangguhan yang sama yang tidak kurang daripada tiga bulan sebagaimana yang dinyatakan dalam pemberitahuan itu. Pemakaian peruntukan Akta ini kepada bank Islam antarabangsa 30E. (1) Bagi mengelakkan keraguan, diisytiharkan bahawa suatu bank Islam atau bank Islam antarabangsa hendaklah, berkenaan dengan perniagaan bank Islam antarabangsa yang dijalankan olehnya, menjadi tertakluk kepada peruntukan Akta ini, dan mana-mana peruntukan Akta ini yang terpakai bagi bank Islam hendaklah terpakai bagi bank Islam antarabangsa seolah-olah sebutan mengenai bank Islam dalamnya ialah sebutan mengenai bank Islam antarabangsa melainkan jika diperuntukkan secara khusus dalam Bahagian ini. (2) Bagi maksud subseksyen (1), Menteri atas syor Bank Negara boleh melalui perintah yang disiarkan dalam Warta membuat apa-apa ubah suaian kepada mana-mana peruntukan Akta ini sebagaimana yang difikirkannya patut.\". Pindaan seksyen 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 53(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan\" yang terdapat di hujung perenggan (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah yang terdapat di hujung subperenggan (e)(iii) dengan perkataan \"; dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: \"(f) untuk membuat peruntukan bagi apa-apa perkara yang berhubungan dengan pengawalseliaan dan pengawasan bank Islam antarabangsa.\". Seksyen baru 53A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 53 seksyen yang berikut: \"Kuasa untuk mengeluarkan garis panduan, dsb. 53A. Bank Negara atau Menteri boleh, dari semasa ke semasa, mengeluarkan apa-apa garis panduan, surat pekeliling atau nota sebagaimana yang difikirkan suai manfaat atau perlu oleh Bank Negara atau Menteri bagi menguatkuasakan tujuan Akta ini.\". Penggantian seksyen 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 56 dengan seksyen yang berikut: \"56. Menteri boleh, atas syor Bank Negara, jika difikirkannya selaras dengan maksud Akta ini, melalui perintah yang disiarkan dalam Warta, mengecualikan dengan atau tanpa syarat, mana- mana bank Islam, bank Islam antarabangsa atau orang daripada semua atau mana-mana peruntukan Akta ini.\"."
+      }
+    }
+  ]
+}

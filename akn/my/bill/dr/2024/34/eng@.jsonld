@@ -1,0 +1,200 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-34-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Excise (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 91u(2) of the principal Act is amended by substituting for the words “Subsections 6(2), (3), (4) and (5)” the words “Subsection 6(2)”. New Part XVe"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 91z the following part: “Part XVe SPECIAL PROVISIONS DEALING WITH PULAU 1 Interpretation 91aa. In this Part, unless the context otherwise requires, “principal customs area” means Malaysia exclusive of Labuan, Langkawi, Tioman, Pangkor and Pulau 1. Retail trade in Pulau 1 91ab. (1) No person shall sell by retail any goods declared by the Minister under paragraph 91af(1)(a) in Pulau 1 without approval of the Minister. (2) An application for the approval under subsection (1) shall be made in the manner as prescribed by the Minister in the regulations. (3) Any person who contravenes this section shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both. Non-application of Part IV and Part V 91ac. The provisions of Part IV and V of this Act shall not apply to goods declared by the Minister under paragraph 91af(1)(a) which are manufactured in Pulau 1. Application of Customs Act 1967 91ad. (1) Goods declared by the Minister under paragraph 91af(1)(a) which are manufactured in Pulau 1 shall be deemed to have been manufactured outside Malaysia. (2) The provisions of the Customs Act 1967 shall apply to goods declared by the Minister under paragraph 91af(1)(a)— (a) when the goods are transported to the principal customs area from Pulau 1 as if such transportation to the principal customs area were importation into Malaysia; and (b) when the goods are transported to Pulau 1 from the principal customs area as if such transportation to Pulau 1 were exportation from Malaysia. Goods manufactured in principal customs area shall be deemed to have been exported when transported to Pulau 1 91ae. Goods declared by the Minister under paragraph 91af(1)(a) which are manufactured in the principal customs area when transported to Pulau 1 shall be deemed to have been exported from the principal customs area to a place outside Malaysia for the purposes of section 19 and paragraph 28(d). Excise duties relating to Pulau 1 91af. (1) Excise duty shall be payable upon— (a) all dutiable goods manufactured in or imported into Pulau 1, other than goods which the Minister may from time to time declare by order published in the Gazette; and (b) all goods declared by the Minister under paragraph (a) transported to the principal customs area from Pulau 1 as if such transportation to the principal customs area were importation into Malaysia. (2) The Minister may, by order, prescribe the meaning of the word “value” in relation to goods transported from Pulau 1 to the principal customs area. (3) Subsection 6(2) shall apply to any order made by the Minister under subsection (1). Goods deemed to be non-dutiable while in Pulau 1 91ag. Any goods declared by the Minister under paragraph 91af(1)(a) shall, while in Pulau 1, be deemed to be non-dutiable goods and the provisions of this Act shall be construed accordingly. Collection of duties 91ah. In making regulations under section 85 the Minister may provide— (a) for the collection in Pulau 1 of excise duties payable in respect of goods imported into Pulau 1, or transported or about to be transported from or to Pulau 1 to or from the principal customs area; (b) for the limitation or restriction of vehicle, vessel and aircraft which may be used to transport such goods; and (c) for the licensing or control of persons or vehicle, vessel or aircraft transporting such goods.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Excise (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Excise Act 1976 [Act 176], which is referred to as the “principal Act” in this Act, is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 2(1), by inserting after the definition of “public ruling” the following definition: ‘ “Pulau 1” has the meaning assigned to it under subsection 2(1) of the Customs Act 1967;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 2(1b), in the definition of “principal customs area”, by substituting for the words “and Pangkor” the words “, Pangkor and Pulau 1”. Amendment of section 87"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 87 of the principal Act is amended in the definition of “principal customs area” by substituting for the words “and Pangkor” the words “, Pangkor and Pulau 1”. Amendment of section 90a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 90a(2) of the principal Act is amended by substituting for the words “Subsections 6(2), (3), (4) and (5)” the words “Subsection 6(2)”. Amendment of section 91a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 91a of the principal Act is amended in the definition of “principal customs area” by substituting for the words “and Pangkor” the words “, Pangkor and Pulau 1”. Amendment of section 91da"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 91da(2) of the principal Act is amended by substituting for the words “Subsections 6(2), (3), (4) and (5)” the words “Subsection 6(2)”. Amendment of section 91e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 91e of the principal Act is amended in the definition of “principal customs area” by substituting for the words “and Pangkor” the words “, Pangkor and Pulau 1”. Amendment of section 91i"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 91i(2) of the principal Act is amended by substituting for the words “Subsections 6(2), (3), (4) and (5)” the words “Subsection 6(2)”. Amendment of section 91q"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 91q of the principal Act is amended in the definition of “principal customs area” by substituting for the words “and Pangkor” the words “, Pangkor and Pulau 1”. Amendment of section 91u"
+      }
+    }
+  ]
+}

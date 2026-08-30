@@ -130,7 +130,9 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__para_e"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@",
       "schema:name": {
@@ -155,49 +157,34 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan subseksyen (3) dan (4) dengan subseksyen yang berikut: \"(3) Jika seseorang pekerja mencapai umur persaraan paksa lima puluh lima, lima puluh enam atau lima puluh lapan tahun, mengikut mana-mana yang berkenaan, dan suatu prosiding jenayah atau tatatertib yang mungkin berkeputusan dengan pekerja itu disabitkan atau dibuang kerja belum lagi selesai, perkhidmatannya hendaklah disifatkan sebagai telah dilanjutkan melampaui mana-mana umur itu, mengikut mana-mana yang berkenaan, tetapi dikira cuti tanpa gaji sehingga kesnya diputuskan."
+        "@value": "dengan menggantikan subseksyen (3) dan (4) dengan subseksyen yang berikut: \"(3) Jika seseorang pekerja mencapai umur persaraan paksa lima puluh lima, lima puluh enam atau lima puluh lapan tahun, mengikut mana-mana yang berkenaan, dan suatu prosiding jenayah atau tatatertib yang mungkin berkeputusan dengan pekerja itu disabitkan atau dibuang kerja belum lagi selesai, perkhidmatannya hendaklah disifatkan sebagai telah dilanjutkan melampaui mana-mana umur itu, mengikut mana-mana yang berkenaan, tetapi dikira cuti tanpa gaji sehingga kesnya diputuskan. (4) Jika prosiding jenayah atau tatatertib di bawah subseksyen (3) itu tidak berkeputusan dengan dia disabitkan atau dibuang kerja, dia hendaklah bersara apabila mencapai umur lima puluh lima, lima puluh enam atau lima puluh lapan tahun, mengikut mana- Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan (Pindaan) mana yang berkenaan dengan umur persaraan paksanya, dan tempoh perkhidmatan selepas mana-mana umur ini, mengikut mana-mana yang berkenaan, tidak dikira sebagai perkhidmatan yang boleh dimasukira.\";"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4__para_d",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4__para_e"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika prosiding jenayah atau tatatertib di bawah subseksyen (3) itu tidak berkeputusan dengan dia disabitkan atau dibuang kerja, dia hendaklah bersara apabila mencapai umur lima puluh lima, lima puluh enam atau lima puluh lapan tahun, mengikut mana- Pencen Pihak-Pihak Berkuasa Berkanun dan Tempatan (Pindaan) mana yang berkenaan dengan umur persaraan paksanya, dan tempoh perkhidmatan selepas mana-mana umur ini, mengikut mana-mana yang berkenaan, tidak dikira sebagai perkhidmatan yang boleh dimasukira.\";"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4__para_c",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__para_c",
       "@type": "akn:paragraph",
       "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
         "@value": "dalam subseksyen (7), dengan menggantikan perkataan \"lima puluh enam\" dan \"1 Oktober 2 0 0 1\" masing- masing dengan perkataan \"lima puluh lapan\" dan \"1 Julai 2008\";"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4__para_d",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__para_d",
       "@type": "akn:paragraph",
       "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
         "@value": "dalam subseksyen (8), dengan menggantikan perkataan \"lima puluh enam\" di mana-mana jua perkataan itu terdapat dan perkataan \"1 Oktober 2 0 0 1\" masing-masing dengan perkataan \"lima puluh lapan\" dan \"1 Julai 2008\"; dan"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4__para_e",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__para_e",
       "@type": "akn:paragraph",
       "eli:number": "e",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3__subsec_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/9/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
         "@value": "dalam subseksyen (9), dengan menggantikan perkataan \"lima puluh enam\" dengan perkataan \"lima puluh lapan\". Pindaan seksyen 12"

@@ -200,34 +200,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_5__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_5__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "Section 65 of the principal Act is amended by of section 65. substituting for subsection (1) the following subsection: \"(1) Subject to the Hmitations contained in this Act, a Sessions Court shall have—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_5__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "unlimited jurisdiction to try all actions and suits of a civil nature in respect of motor vehicle accidents, landlord and tenant and distress; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_5__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/16/eng@/~cl_5",
-      "schema:text": {
-        "@language": "en",
-        "@value": "jurisdiction to try all other actions and suits of a civil nature where the amount in dispute or the value of the subject-matter does not exceed two hundred and fifty thousand ringgit.\". Amendment"
+        "@value": "Section 65 of the principal Act is amended by of section 65. substituting for subsection (1) the following subsection: \"(1) Subject to the Hmitations contained in this Act, a Sessions Court shall have— (a) unlimited jurisdiction to try all actions and suits of a civil nature in respect of motor vehicle accidents, landlord and tenant and distress; and (b) jurisdiction to try all other actions and suits of a civil nature where the amount in dispute or the value of the subject-matter does not exceed two hundred and fifty thousand ringgit.\". Amendment"
       }
     },
     {

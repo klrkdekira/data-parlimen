@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-1994",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kaedah-Kaedah Mahkamah Rendah (Pindaan) 1994"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kaedah-Kaedah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah Rendah (Pindaan) 1994."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Kaedah-Kaedah Mahkamah Rendah 1955"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah dipinda dalam seksyen 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dan (3) dengan subseksyen yang berikut: \"(2) Jawatankuasa itu hendaklah daripada orang yang berikut: (a) Ketua Hakim Negara, yang hendaklah menjadi Pengerusi Jawatankuasa itu; (b) Presiden; (c) Hakim-Hakim Besar; (d) empat orang Hakim yang hendaklah dilantik oleh Ketua Hakim Negara bagi apa-apa tempoh yang ditentukannya secara bertulis; RANG UNDANG-UNDANG (e) Peguam Negara, atau penamanya; (f) Hakim Kanan Mahlcamah Sesyen ICuala Lumpur; (g) tiga orang peguambela, seorang yang menjalankan amalan di Negeri-Negeri di Malaysia Barat, seorang yang menjalankan amalan di Sabah dan seorang yang menjalankan amalan di Sarawak, yang dilantik oleh Ketua Hakim Negara bagi apa-apa tempoh yang ditentukannya secara bertulis; dan (h) Ketua Setiausaha Kementerian Undang- Undang, atau penamanya. (3) Sekiranya Ketua Hakim Negara tidak hadir, Presiden atau Hakim Besar Mahkamah Tinggi di Malaya atau Hakim Besar Mahkamah Tinggi di Sabah dan Sarawak yang hadir hendaklah menjadi Pengerusi Jawatankuasa itu.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1994/17/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan \"Ketua Hakim Negara\" perkataan \", Presiden\"."
+      }
+    }
+  ]
+}

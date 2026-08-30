@@ -1,0 +1,311 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-14-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Free Zones (Amendment) Bill 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Free Zones (Amendment) Act 2001. New section 23A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Free Zones Act 1990 [Act 438], which in this Act is referred to as the \"principal Act\", is amended by inserting after section 23 the following section: \" Access to 23A. (1) Any officer of customs exercising his powers recorded under sections 21, 22 and 23 shall be given access to any informa- tion or recorded information or computerised data, whether stored compute- in a computer or otherwise. rised data."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In addition, an officer of customs exercising his powers under sections 21, 22 and 23—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may inspect and check the operation of any computer and any associated apparatus or material which he has reasonable cause to suspect is or has been used in connection with that information or data; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may require— to provide him with such reasonable assistance as he may require for the purposes of this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person by whom or on whose behalf the officer of customs has reasonable cause to suspect the computer is or has been so used; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person having charge of, or is otherwise concerned with, the operation of the computer, apparatus or material,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (1), \"access\" includes being provided with the necessary password, encryption code, decryption code, software or hardware and any other means required to enable comprehension of recorded information or computerised data.\". Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph (c) of the proviso to section 25 of the principal Act is amended by substituting for the words \"a female officer of customs or police officer\" the words \"another female with strict regard to decency\". Amendment of section 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 27(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by inserting after the words \"section 39\" the words \", or in the event of such amount being forfeited under section 33, as the case may be\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words \"pending the result of any prosecution or claim and in relation to such proceeds of sale to abide by the outcome of such prosecution or claim\" the words \"to abide the result of any prosecution or claim, or a forfeiture under section 33, as the case may be\". Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1) of that section;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the proviso to subsection (1), by substituting for the words \"a female officer of customs or police officer\" the words \"another female with strict regard to decency\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsections: \"(2) Every person so arrested may be released from custody— (a) on his depositing such reasonable sum of money as the proper officer of customs may require; (b) on his executing a bond, with such surety or sureties, as the proper officer of customs may require; or (c) on his depositing such reasonable sum of money as the proper officer of customs may require and his executing a bond, with such surety or sureties as the proper officer of customs may require. (3) Any person who has been released from custody under subsection (2) may be arrested without warrant by any officer of customs— (a) if such officer has reasonable grounds for believing that any condition on or subject to which such person was released or otherwise admitted to bail has been or is likely to be breached; or (b) on being notified in writing by the surety of such person that such person is likely to breach any condition on or subject to which such person was released and that the surety wishes to be relieved of his obligation as surety.\". Deletion of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 30. New section 30A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_7__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 30 the following section: \" Obligation 30A. (1) Except as provided under section 31, the name of secrecy. and address of an informer and the substance of the information received from an informer shall be kept secret and shall not be disclosed by any proper officer of customs or any person who in the ordinary course of his duties comes into possession of or has control of or access to such information to any person except the designated officer of customs authorised by the Director-General."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) shall be guilty of an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding five years or to both.\". Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 32(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"firm, society or other body of persons\" first appearing the words \"a firm, a society, an association or other body of persons\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or other body of persons\" second appearing the words \", association or other body of persons\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"or other body of persons\" third appearing the words \", association or other body of persons\". Amendment of section 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 33 of the principal Act is amended by substituting for subsection (2) the following subsection: \"(2) On the payment of such sum of money— (a) the person reasonably suspected of having committed an offence, if in custody, shall be discharged and no further proceedings shall be taken against such person; and (b) any property seized shall be released and no further proceedings shall be taken against such property except that if the property seized consists of goods the import of which into Malaysia is absolutely or conditionally prohibited under any written law and no import licence has been issued, such goods or the amount secured under paragraph (a) or (b) of subsection (1) of section 27 or the amount realised by sale under paragraph (c) of subsection (1) of section 27, as the case may be, shall be forfeited.\"."
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-20-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Supplementary Supply (2001) Bill 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Supplementary Supply (2001) Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "2001. Further expenditure for the year 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The issue is hereby authorised of a sum not exceeding one hundred and thirty million six hundred and twenty-two thousand and seven hundred ringgit (RM130,622,700) from the Consolidated Fund for expenditure on the services and purposes specified in the Schedule for the year 2001, not provided for or not fully provided for by the Supply Act 2001 [Act A1092] and the Supplementary Supply (2000 and 2001) Act 2001 [Act A1100]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Purpose Title B. 28 Treasury B. 29 Treasury General Services B. 49 Ministry of Energy, Communications and Multimedia TOTAL 130,622,700"
+      }
+    }
+  ]
+}

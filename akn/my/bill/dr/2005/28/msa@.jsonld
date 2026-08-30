@@ -1,0 +1,147 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-28-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Majlis Peperiksaan Malaysia (Pindaan) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_1__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(l) Akta ini bolehlah dinamakan Akta Majlis Peperiksaan Malaysia (Pindaan) 2005."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang telah ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Majlis Peperiksaan Malaysia 1980 [Akta 225], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 7 dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: Rang Undang-Undang \"(5) Tanpa menjejaskan subseksyen (1), (2), (3) dan (4), Majlis boleh, dengan kelulusan Menteri, mengelolakan apa-apa pcperiksaan, selain peperiksaan tertentu, dan semua perkara lain yang perlu atau bersampingan dengan peperiksaan itu, bagi mana-mana orang, badan, organisasi, institusi atau pihak berkuasa di dalam atau di luar Malaysia. (6) Walau apa pun mana-mana peruntukan lain dalam Akta ini atau perenggan 69(4)(b) Akta Pendidikan 1996 [Akta 550], mana-mana orang, badan, organisasi, institusi atau pihak berkuasa di dalam atau di luar Malaysia tidak boleh mengelolakan apa-apa peperiksaan, selain peperiksaan tertentu yang berhubungan dengan perkara akademik, tanpa suatu kelulusan bertulis Pengarah Peperiksaan sebagaimanayang dikehendaki di bawah subseksyen 69(1) Akta Pendidikan 1996.\". Pindaan seksyen 12A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 12A(1) Akta ibu dipinda dengan menggantikan perkataan \"seksyen 12\" dengan perkataan \"seksyen 16\". Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 26(1) Akta ibu dipinda dengan menggantikan \"peperiksaan tertentu\" dengan perkataan \"peperiksaan yang dikelolakan oleh Majlis\". Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 28 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"peperiksaan tertentu\" di mana-mana jua terdapat dengan perkataan \"peperiksaan yang dikelolakan oleh Majlis\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan \"peperiksaan tertentu\" dengan perkataan \"peperiksaan yang dikelolakan oleh Majlis\". Pemotongan seksyen 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 30. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 31 (d) Akta ibu dipinda dengan menggantikan perkataan \"peperiksaan-peperiksaan tertentu\" dengan perkataan \"mana-mana peperiksaan yang dikelolakan oleh Majlis\"."
+      }
+    }
+  ]
+}

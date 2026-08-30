@@ -1,0 +1,1156 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-1-2021",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kerja (Pindaan) 2021"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Bahagian VIII. Pindaan Bahagian IX"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian IX Akta ibu dipinda dalam kepala dengan menggantikan perkataan “MATERNITY PROTECTION” dengan perkataan “PREGNANCY AND MATERNITY”. Pindaan seksyen 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 37 Akta ibu dipinda dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (aa) dengan perenggan yang berikut: “(aa) Where a female employee is entitled to maternity leave under subparagraph (a)(i), whether or not she is entitled to receive maternity allowance from her employer for the eligible period under paragraph (c), or whether or not she has fulfilled the conditions set out in paragraph (2)(a), she may, with the consent of her employer, commence work at any time during the eligible period if she has been certified fit to resume work by a registered medical practitioner.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (d)(ii), dengan menggantikan perkataan “sixty” dengan perkataan “ninety”. Seksyen baharu 41a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 41 seksyen yang berikut: “Restriction on termination of pregnant female employee 41a. (1) Where a female employee is pregnant or is suffering from an illness arising out of her pregnancy, it shall be an offence for her employer to terminate her services or give her notice of termination of service, except on the grounds of— (a) wilful breach of a condition of the contract of service under subsection 13(2); (b) misconduct under subsection 14(1); or (c) closure of the employer’s business. (2) Where the service of a female employee under subsection (1) is terminated, the burden of proving that such termination is not on the ground of her pregnancy or on the ground of illness arising out of her pregnancy, shall rest on the employer.”. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu dipinda dalam nota bahu dengan menggantikan perkataan “dismissal” dengan perkataan “termination”. Pemotongan seksyen 44a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 44a. Pindaan Bahagian XI"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian XI Akta ibu dipinda dalam kepala dengan menggantikan perkataan “SERVANTS” dengan perkataan “EMPLOYEES”. Pindaan seksyen 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 57 Akta ibu dipinda dengan menggantikan perkataan “servant” di mana-mana jua terdapat dengan perkataan “employee”. Pindaan seksyen 57a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 57a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu dan subseksyen (1), dengan menggantikan perkataan “servant” dengan perkataan “employee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “ten thousand ringgit” dengan perkataan “fifty thousand ringgit”. Pindaan seksyen 57b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 57b Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu dan subseksyen (1) dan (2), dengan menggantikan perkataan “servant” di mana-mana jua terdapat dengan perkataan “employee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “ten thousand ringgit” dengan perkataan “fifty thousand ringgit”. Pindaan seksyen 60a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kerja (Pindaan) 2021."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kerja 1955 [Akta 265], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 60a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “work” perkataan “and working at night”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “forty-eight” di mana-mana jua terdapat dengan perkataan “forty-five”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan memasukkan selepas perkataan “rates” perkataan “and prescribing matters relating to working at night”. Pindaan seksyen 60c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 60c Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “forty-eight” di mana-mana jua terdapat dengan perkataan “forty-five”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) The Minister may make regulations relating to the entitlement of allowance during shift work.”. Pindaan seksyen 60f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 60f(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong proviso pertama; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso lanjut, dengan menggantikan perkataan “And provided further” dengan perkataan “Provided”. Seksyen baharu 60fa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 60f seksyen yang berikut: “Paternity leave 60 fa. (1) Subject to subsection (3), a married male employee shall be entitled to a paid paternity leave at his ordinary rate of pay for a period of three consecutive days in respect of each confinement. (2) The paternity leave under subsection (1) shall be restricted to five confinements irrespective of the number of spouses. (3) A married male employee shall be entitled to paternity leave from his employer if— (a) he has been employed by the same employer at least twelve months immediately before the commencement of such paternity leave; and (b) he has notified his employer of the pregnancy of his spouse at least thirty days from the expected confinement or as early as possible after the birth.”. Penggantian seksyen 60k"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 60k dengan seksyen yang berikut: “Employment of foreign employee 60k. (1) No employer shall employ a foreign employee unless prior approval has been obtained from the Director General. (2) An application for the approval under subsection (1) shall be made in the form and manner as may be determined by the Director General. (3) Upon approval of the Director General under this section, an employer shall, within fourteen days from the date of the employment of a foreign employee, furnish the Director General with the particulars relating to the foreign employee in such manner as the Director General may direct. (4) The Director General may, subject to any written law, approve an application under this section if the employer complies with the following conditions: (a) the employer satisfies the Director General that on the date on which he makes the application— (i) he has no outstanding matter relating to any decision, order or directive issued under this Act; or (ii) he has no outstanding matter or case relating to any conviction for any offence under this Act, the Employees’ Social Security Act 1969 [Act 4], the Employees’ Minimum Standards of Housing, Accommodations and Amenities Act 1990 [Act 446] or the National Wages Consultative Council Act 2011 [Act 732]; or (b) the employer has not been convicted of any offence under any written law in relation to anti-trafficking in persons and forced labour. (5) An employer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both.”. Seksyen baharu 60ka"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 60k seksyen yang berikut: “Termination of employment of foreign employee, etc. 60ka. (1) If the service of a foreign employee is terminated— (a) by his employer; (b) by reason of the expiry of the employment pass issued by the Immigration Department of Malaysia to the foreign employee; or (c) by reason of the repatriation or deportation of the foreign employee, the employer shall, within thirty days of the termination of service, inform the Director General of the termination in the manner as may be determined by the Director General. (2) If a foreign employee terminates his service or absconds from his place of employment, the employer shall, within fourteen days of the termination of service or after the foreign employee’s absence, inform the Director General in the manner as may be determined by the Director General.”. Pemotongan seksyen 60l"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 60l. Bahagian baharu XIIc"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian XIIb bahagian yang berikut: “Part XIIC FLEXIBLE WORKING ARRANGEMENT Flexible working arrangement 60p. (1) Subject to Part XII or anything contained in the contract of service, an employee may apply to an employer for a flexible working arrangement to vary the hours of work, days of work or place of work in relation to his employment. (2) Where there is a collective agreement, any application made by the employee under subsection (1) shall be consistent with the terms and conditions in the collective agreement. Application for flexible working arrangement 60q. (1) The employee shall make an application for flexible working arrangement under section 60P in writing and in the form and manner as may be determined by the Director General. (2) Upon the application made under subsection (1), an employer shall, within sixty days from the date such application is received, approve or refuse the application. (3) The employer shall inform the employee in writing of the employer’s approval or refusal of the application under subsection (1) and in the case of a refusal, the employer shall state the ground of such refusal.”. Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 69 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (2)(ii), dengan memasukkan selepas perkataan “against a” perkataan “principal,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4)— Pemotongan seksyen 69b, 69c, 69d dan 69e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ten thousand ringgit” dengan perkataan “fifty thousand ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “one hundred ringgit” dengan perkataan “one thousand ringgit”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 69b, 69c, 69d dan 69e. Seksyen baharu 69f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “agricultural undertaking” takrif yang berikut: ‘ “apprentice” means any person who has entered into an apprenticeship contract;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “apprenticeship contract”, dengan menggantikan perkataan “shall not be less than two years” dengan perkataan “shall be for a minimum period of six months and a maximum period of twenty four months”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “domestic servant”, dengan menggantikan perkataan “domestic servant” dengan perkataan “domestic employee”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “foreign domestic servant”, dengan menggantikan perkataan “servant” di mana-mana jua terdapat dengan perkataan “employee”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 69e seksyen yang berikut: “Discrimination in employment 69f. (1) The Director General may inquire into and decide any dispute between an employee and his employer in respect of any matter relating to discrimination in employment, and the Director General may, pursuant to such decision, make an order. (2) An employer who fails to comply with any order of the Director General issued under subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit; and shall also, in the case of a continuing offence, be liable to a daily fine not exceeding one thousand ringgit for each day the offence continues after conviction.”. Pindaan seksyen 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 70 Akta ibu dipinda dengan menggantikan perkataan “, 69b and 69c” dengan perkataan “and 60f”. Pindaan seksyen 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 73(1) Akta ibu dipinda dengan menggantikan perkataan “, 69b or 69c” dengan perkataan “or 69f”. Pindaan seksyen 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subsekyen 77(1) Akta ibu dipinda dengan menggantikan perkataan “69b, 69c, 73” dengan perkataan “69f or 73,”. Pindaan seksyen 81f"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 81f Akta ibu dipinda dengan menggantikan perkataan “ten thousand ringgit” dengan perkataan “fifty thousand ringgit”. Pemotongan seksyen 81g"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 81g. Seksyen baharu 81h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 81g seksyen yang berikut: “Notice on sexual harassment 81h. An employer shall, at all times, exhibit conspicuously at the place of employment, a notice to raise awareness on sexual harassment.”. Pindaan seksyen 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 82 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “issued under Part XV”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)— Pindaan seksyen 84"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “under Part XV”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_37__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b) proviso, dengan menggantikan perkataan “servant” dengan perkataan “employee”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 84 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinombor semula subseksyen yang berikut: “(2) Notwithstanding the provisions of any written law to the contrary, the court of a First Class Magistrate shall have jurisdiction to try any offence under this Act and to award the full punishment for any such offence.”. Pindaan seksyen 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 86 Akta ibu dipinda dengan menggantikan perkataan “, 69b, 69c” dengan perkataan “or 69f,”. Seksyen baharu 87a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “, 69b, 69c,” dengan perkataan “or”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “fourteen” dengan perkataan “twenty-one”. Seksyen baharu 18a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 18 seksyen yang berikut: “Calculation of wages for incomplete month’s work 18a. Notwithstanding section 60i, an employee who is employed on a monthly rate of pay and has not completed a whole month of service— (a) where he commenced employment after the first day of the month; (b) where his employment was terminated before the end of the month; (c) where he took leave of absence without pay for one or more days of the month; or (d) where he took leave of absence by reason of having been called up for national service under the National Service Act 1952 [Act 425], to present himself for national service training as required under the National Service Training Act 2003 [Act 628] or to comply with any other written law relating to national service, shall be paid wages due to him for that month calculated according to the following formula: Monthly wages X Number of days of the particular wage period Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 87 seksyen yang berikut: “Court order for payments due to employee 87a. (1) Where an employer has been convicted of an offence relating to the payment of wages or any other payments payable to an employee under this Act, the court before which he is convicted may order the employer to pay any payment due to the employee in relation to that offence. (2) Where an employer fails to comply with an order made under subsection (1), the court shall, on the application of the employee, issue a warrant to levy the employer’s property for any payments due under that subsection in the following manner: (a) by way of distress and sale of employer’s property in accordance with the same procedure of execution under the Rules of Court 2012 [P.U.(A) 205/2012] and this execution shall apply mutatis mutandis notwithstanding the amount in the order; or (b) in the same manner as a fine as provided under section 283 of the Criminal Procedure Code [Act 593].”. Seksyen baharu 90b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam Bahagian XVII dengan memasukkan sebelum seksyen 91 seksyen yang berikut: “Forced labour 90b. Any employer who threatens, deceives or forces an employee to do any activity, service or work and prevents that employee from proceeding beyond the place or area where such activity, service or work is done, commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both.”. Pemotongan seksyen 93"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 93. Pindaan seksyen 99a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 99a Akta ibu dipinda dengan menggantikan perkataan “ten thousand ringgit” dengan perkataan “fifty thousand ringgit”. Seksyen baharu 101c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 101b seksyen yang berikut: “Presumption as to who is an employee and employer 101c. (1) In any proceeding for an offence under this Act, in the absence of a written contract of service relating to any category of employee under the First Schedule, it shall be presumed until the contrary is proved that a person is an employee— (a) where his manner of work is subject to the control or direction of another person; (b) where his hours of work are subject to the control or direction of another person; (c) where he is provided with tools, materials or equipments by another person to execute work; (d) where his work constitutes an integral part of another person’s business; (e) where his work is performed solely for the benefit of another person; or (f) where payment is made to him in return for work done by him at regular intervals and such payment constitutes the majority of his income. (2) For the purpose of subsection (1), it shall be presumed until the contrary is proved that a person is an employer— (a) where he controls or directs the manner of work of another person; (b) where he controls or directs the hours of work of another person; (c) where he provides tools, materials or equipments to another person to execute work; (d) where the work of another person constitutes an integral part of his business; (e) where another person performs work solely for his benefit; or (f) whether or not payment is made by him in return for work done for him by another person. (3) The first-mentioned person in subsection (2) includes the agent, manager or factor of such first-mentioned person.”. Pindaan seksyen 102"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 102(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (f) perenggan yang berikut: “(fa) prescribing matters relating to rest day; (fb) prescribing matters relating to flexible working arrangement;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (i), dengan menggantikan perkataan “under section 69, 69b or 69c” dengan perkataan “, and proceedings under section 69 and 69f,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perenggan (k); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (m), dengan menggantikan perkataan “servant” dengan perkataan “employee”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa aduan, penyiasatan, siasatan, perbicaraan, pendakwaan, prosiding atau rayuan yang dibuat, diambil atau dimulakan di bawah Akta ibu sebaik sebelum tarikh permulaan kuat kuasa Akta ini, hendaklah diuruskan, diteruskan dan diselesaikan di bawah dan mengikut peruntukan Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan bagi kelulusan yang dibuat di bawah subseksyen 25a(2) Akta ibu yang belum selesai sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diuruskan mengikut peruntukan Akta ibu sebagaimana yang dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana majikan yang, sebelum tarikh permulaan kuat kuasa Akta ini, telah menggaji mana-mana pekerja asing tetapi belum memenuhi apa-apa kehendak di bawah seksyen 60k Akta ibu hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diuruskan mengikut peruntukan Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 22(2) Akta ibu dipinda dengan memasukkan selepas perkataan “parents,” perkataan “spouse,”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “bank” dengan perkataan “financial institution”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “at a bank, finance company, financial institution or other institutions licensed or established under the Banking and Financial Institutions Act 1989 [Act 372] or any other written law, in any part of Malaysia” dengan perkataan “opened by a financial institution,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) For the purposes of this Part, “financial institution” includes— (a) a licensed bank and an approved issuer of a designated payment instrument under the Financial Services Act 2013 [Act 758]; (b) a licensed Islamic bank and an approved issuer of a designated Islamic payment instrument under the Islamic Financial Services Act 2013 [Act 759]; and (c) a prescribed institution under the Development Financial Institutions Act 2002 [Act 618]. (4) The Minister may, by order, specify any approved issuer of a designated payment instrument or any approved issuer of a designated Islamic payment instrument under paragraphs 3(a) and (b) to be a recognized approved issuer of a designated payment instrument or approved issuer of a designated Islamic payment instrument for the purpose of payment of wages under this Part.”. Pindaan seksyen 25a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “bank” dengan perkataan “financial institution”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “, other than a domestic servant” dengan perkataan “and subject to subsection (2)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) The employer shall, upon the written request of his employee under subsection (1), obtain approval from the Director General for the payment of wages to be paid in legal tender or by cheque.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “( 2a) The Director General may impose any condition as he may deem fit on the approval granted under subsection (2).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), (5) dan (6), dengan menggantikan perkataan “subsections (1) and (2)” di mana-mana jua terdapat dengan perkataan “subsection (1)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan memasukkan selepas perkataan “employer” perkataan “upon obtaining the approval under subsection (2)”. Pindaan Bahagian VII"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian VII Akta ibu dipinda dalam kepala dengan menggantikan perkataan “CONTRACTORS, PRINCIPALS AND CONTRACTORS FOR LABOUR” dengan perkataan “PRINCIPALS, CONTRACTORS, SUB-CONTRACTORS AND CONTRACTORS FOR LABOUR”. Pindaan seksyen 33a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 33a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) A contractor for labour referred to in subsection (1) who supplies any employee to a principal, contractor or sub-contractor shall enter into a contract in writing and shall make such contract or any other document relating to such contract available for inspection.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)— “(aa) fails to make such contract or any other document relating to such contract available for inspection as required under subsection (1a); or”; dan Pemotongan Bahagian VIII"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “or” di hujung perenggan (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/1/msa@/~cl_9__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ten” dengan perkataan “fifty”."
+      }
+    }
+  ]
+}

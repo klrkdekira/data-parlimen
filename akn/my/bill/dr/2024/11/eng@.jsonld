@@ -1,0 +1,182 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-11-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Employees&#039; Social Security (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Employees’ Social Security (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Employees’ Social Security Act 1969 [ Act 4], which is referred to as the “principal Act” in this Act, is amended in subsection 5(2) by substituting for the words “five thousand ringgit” wherever appearing the words “six thousand ringgit”. Amendment of Third Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Third Schedule to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2— Monthly Wages Employer’s Employee’s Contribution Contribution “55. When RM88.35 RM25.25 RM113.60”; and wages exceed RM5,000 but not RM5,100 Monthly Wages Employer’s Employee’s Contribution Contribution “56. When RM90.15 RM25.75 RM115.90 wages exceed RM5,100 but not RM5,200 57. When RM91.85 RM26.25 RM118.10 wages exceed RM5,200 but not RM5,300 58. When RM93.65 RM26.75 RM120.40 wages exceed RM5,300 but not RM5,400 59. When RM95.35 RM27.25 RM122.60 wages exceed RM5,400 but not RM5,500 Monthly Wages Employer’s Contribution Contribution 60. When RM97.15 wages exceed RM5,500 but not RM5,600 61. When RM98.85 wages exceed RM5,600 but not RM5,700 62. When RM100.65 RM28.75 RM129.40 wages exceed RM5,700 but not RM5,800 63. When RM102.35 RM29.25 RM131.60 wages exceed RM5,800 but not RM5,900 64. When RM104.15 RM29.75 RM133.90 wages exceed RM5,900 but not RM6,000 65. When RM104.15 RM29.75 RM133.90”; and wages exceed RM6,000"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 55 the following item:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after item 55 the following items:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_b__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 4— Monthly Wages “55. When wages exceed RM5,000 but not RM5,100 (ii) by inserting after item 55 the following items: Monthly Wages “56. When wages exceed RM5,100 but not RM5,200 57. When wages exceed RM5,200 but not RM5,300 58. When wages exceed RM5,300 but not RM5,400 59. When wages exceed RM5,400 but not RM5,500 60. When wages exceed RM5,500 but not RM5,600 61. When wages exceed RM5,600 but not RM5,700 62. When wages exceed RM5,700 but not RM5,800 63. When wages exceed RM5,800 but not RM5,900 64. When wages exceed RM5,900 but not RM6,000 65. When wages exceed RM6,000 RM74.40”. Amendment of Fourth Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 55 the following item:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Fourth Schedule to the principal Act is amended in paragraph 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 55 the following item: Actual monthly wage First Second of the month Category Category “55. When wages RM113.60 RM63.10 RM5,050”; and exceed RM5,000 but not RM5,100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after item 55 the following items: Actual monthly wage First Second of the month Category Category “56. When wages RM115.90 RM64.40 exceed RM5,100 but not RM5,200 57. When wages RM118.10 RM65.60 exceed RM5,200 but not RM5,300 58. When wages RM120.40 RM66.90 exceed RM5,300 but not RM5,400 59. When wages RM122.60 RM68.10 exceed RM5,400 but not RM5,500 60. When wages RM124.90 RM69.40 exceed RM5,500 but not RM5,600 61. When wages RM127.10 RM70.60 exceed RM5,600 but not RM5,700 62. When wages RM129.40 RM71.90 exceed RM5,700 but not RM5,800 63. When wages RM131.60 RM73.10 exceed RM5,800 but not RM5,900 64. When wages RM133.90 RM74.40 exceed RM5,900 but not RM6,000 65. When wages RM133.90 RM74.40 exceed RM6,000"
+      }
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-32-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_14"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pencegahan dan Pengawalan Penyakit Berjangkit (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 24 dengan seksyen yang berikut: “Penalti am 24. Mana-mana orang yang melakukan suatu kesalahan di bawah Akta ini yang tiada penalti diperuntukkan dengan nyata boleh, apabila disabitkan— (a) dalam hal seseorang itu merupakan seorang individu, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya; atau (b) dalam hal sesuatu pertubuhan perbadanan, didenda tidak melebihi satu ratus ribu ringgit.”. Seksyen baharu 24a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 24 seksyen yang berikut: “Bidang kuasa untuk membicarakan kesalahan 24a. Walau apa pun apa-apa undang-undang bertulis yang berlawanan, mahkamah Majistret Kelas Pertama hendaklah mempunyai bidang kuasa untuk membicarakan apa-apa kesalahan di bawah Akta ini dan mengenakan hukuman bagi apa-apa kesalahan di bawah Akta ini.”. Penggantian seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 25 dengan seksyen yang berikut: “Pengkompaunan kesalahan 25. Ketua Pengarah atau mana-mana pegawai diberi kuasa yang diberi kuasa oleh Ketua Pengarah secara bertulis boleh, dengan keizinan secara bertulis Pendakwa Raya, pada bila-bila (Pindaan) masa sebelum sesuatu pertuduhan dimulakan, mengkompaun mana-mana kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini yang telah ditetapkan oleh peraturan-peraturan sebagai suatu kesalahan yang boleh dikompaun dengan membuat suatu tawaran bertulis kepada orang yang disyaki dengan munasabah telah melakukan kesalahan itu untuk mengkompaun kesalahan itu apabila dibayar kepada Ketua Pengarah— (a) dalam hal seseorang itu merupakan seorang individu, suatu jumlah wang yang tidak melebihi lima ribu ringgit; atau (b) dalam hal sesuatu pertubuhan perbadanan, suatu jumlah wang yang tidak melebihi lima puluh ribu ringgit.”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “Rekuisisi premis” perkataan “dan sumbernya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “mana-mana premis” perkataan “dan sumbernya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “melalui timbang tara menurut peruntukan Akta Timbang Tara 1952 [Akta 93]” dengan perkataan “oleh mahkamah”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Bagi maksud seksyen ini, “sumber” termasuklah sumber manusia, kemudahan, utiliti dan aset dan pengawal atau pengurus sumber manusia, kemudahan, utiliti atau aset itu.”. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Peraturan-peraturan yang dibuat di bawah Akta ini boleh menetapkan apa-apa perbuatan yang melanggar peraturan-peraturan itu menjadi suatu kesalahan dan boleh menetapkan penalti— (a) dalam hal seseorang itu merupakan seorang individu, didenda tidak melebihi lapan ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya; (b) dalam hal sesuatu pertubuhan perbadanan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pencegahan dan Pengawalan Penyakit Berjangkit (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pencegahan dan Pengawalan Penyakit Berjangkit 1988 [Akta 342], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “inspektor kesihatan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pegawai diberi kuasa”, dengan menggantikan perkataan “mana-mana inspektor kesihatan,” dengan perkataan “mana-mana Pegawai Kesihatan Persekitaran,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Pegawai Kesihatan”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “had lapangan terbang dan pelabuhannya,” dengan perkataan “had lapangan terbang, pelabuhan dan sempadan daratnya,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Timbalan Ketua Pengarah Kesihatan, Pengarah Perkhidmatan Kesihatan, mana-mana Timbalan Pengarah Perkhidmatan Kesihatan, mana-mana Pengarah Perkhidmatan Perubatan dan Kesihatan Negeri, mana-mana Timbalan Pengarah Perkhidmatan Perubatan dan Kesihatan Negeri, Pengarah Perkhidmatan Perubatan Negeri Sabah dan Timbalannya dan Pengarah Perkhidmatan Perubatan Negeri Sarawak dan Timbalannya” dengan perkataan “mana-mana Timbalan Ketua Pengarah Kesihatan, Pengarah Kawalan Penyakit, mana-mana Timbalan Pengarah Kawalan Penyakit, Pengarah Kesihatan Negeri dan mana-mana Timbalan Pengarah Kesihatan Negeri”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Pegawai Kesihatan” takrif yang berikut: ‘ “Pegawai Kesihatan Persekitaran” ertinya mana-mana Pegawai Kesihatan Persekitaran dalam perkhidmatan Kerajaan atau mana-mana pihak berkuasa tempatan termasuk Penolong Pegawai Kesihatan Persekitaran;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “stesen kuarantin”, dengan menggantikan perkataan “sesuatu hospital penyakit berjangkit dan mana-mana tempat” dengan perkataan “mana-mana hospital dan tempat”. (Pindaan) Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 10(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atau mendapat tahu” dengan perkataan “mana-mana orang yang menghidap penyakit berjangkit, atau mendapat tahu atau mempunyai sebab untuk percaya atau mengesyaki”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dalam borang yang ditetapkan oleh peraturan-peraturan yang dibuat di bawah Akta ini” dengan perkataan “dalam apa-apa cara sebagaimana yang ditentukan oleh Ketua Pengarah”. Seksyen baharu 14a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 14 seksyen yang berikut: “Pengasingan atau pengawasan orang yang dijangkiti dan orang yang disyaki 14a. (1) Seseorang pegawai diberi kuasa boleh memerintahkan mana-mana orang yang dijangkiti atau yang dia mempunyai sebab untuk percaya telah dijangkiti oleh sesuatu penyakit berjangkit untuk menjalani pengasingan atau pengawasan di mana-mana tempat bagi apa-apa tempoh sebagaimana yang difikirkan patut oleh pegawai diberi kuasa atau sehingga orang itu boleh dilepaskan tanpa membahayakan orang ramai. (2) Bagi maksud subseksyen (1), seseorang pegawai diberi kuasa boleh menggunakan kekerasan yang perlu untuk memastikan perintahnya dipatuhi.”. Seksyen baharu 15a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 15 seksyen yang berikut: “Perintah bagi maksud pengesanan dan pemantauan 15a. (1) Seseorang pegawai diberi kuasa boleh, bagi maksud pengesanan dan pemantauan, mengeluarkan apa-apa perintah untuk dipatuhi oleh orang yang dijangkiti atau yang pegawai diberi kuasa itu mempunyai sebab untuk percaya telah dijangkiti, atau mana-mana kontak, bagi apa-apa tempoh sebagaimana yang difikirkan patut oleh pegawai diberi kuasa atau sehingga orang itu tidak lagi membahayakan orang ramai. (2) Tanpa menjejaskan keluasan kuasa yang diberikan oleh subseksyen (1), perintah itu boleh termasuk suatu perintah— (a) untuk memakai, membawa atau menggunakan apa-apa bentuk peranti pengesanan yang disediakan oleh pegawai diberi kuasa; dan (b) untuk memasang dan menggunakan apa-apa aplikasi digital dalam apa-apa peranti digital sebagaimana yang ditentukan oleh pegawai diberi kuasa itu. (3) Mana-mana orang yang diperintahkan untuk memakai, membawa atau menggunakan apa-apa bentuk peranti pengesanan hendaklah memastikan bahawa peranti pengesanan itu dalam keadaan baik dan tidak boleh memusnahkan, merosakkan, menghilangkan atau mengubah peranti pengesanan itu semasa tempoh yang dinyatakan dalam perintah yang dikeluarkan di bawah subseksyen (1). (4) Mana-mana orang yang diperintahkan untuk memakai, membawa atau menggunakan apa-apa bentuk peranti pengesanan hendaklah mengembalikan peranti pengesanan itu kepada pegawai diberi kuasa pada akhir tempoh yang dinyatakan dalam perintah yang dikeluarkan di bawah subseksyen (1). (Pindaan) (5) Mana-mana orang yang diperintahkan untuk memasang dan menggunakan apa-apa aplikasi digital dalam mana-mana peranti digital— (a) hendaklah memastikan bahawa aplikasi digital itu berfungsi dalam keadaan baik; (b) hendaklah membawa peranti digital itu pada setiap masa; dan (c) tidak boleh memindahkan, memanipulasi, mengubah atau menganggu aplikasi digital itu, semasa tempoh yang dinyatakan dalam perintah yang dikeluarkan di bawah subseksyen (1). (6) Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan.”. Seksyen baharu 21a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 21 seksyen yang berikut: “Arahan Ketua Pengarah 21a. (1) Ketua Pengarah boleh mengeluarkan apa-apa arahan mengikut apa-apa cara, sama ada secara am atau khusus, kepada mana-mana orang atau golongan orang supaya mengambil apa-apa langkah bagi maksud mencegah dan mengawal apa-apa penyakit berjangkit. (2) Ketua Pengarah boleh mengeluarkan apa-apa arahan, perintah atau garis panduan kepada mana-mana pengamal perubatan bagi maksud mencegah dan mengawal apa-apa penyakit berjangkit. (3) Mana-mana orang yang melanggar apa-apa arahan, perintah atau garis panduan yang dikeluarkan di bawah seksyen ini melakukan suatu kesalahan.”. Bahagian baharu IVa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen baharu 21a bahagian yang berikut: “Bahagian IVa PENGUATKUASAAN Kuasa penyiasatan 21b. Seseorang pegawai diberi kuasa hendaklah mempunyai segala kuasa yang perlu untuk menjalankan penyiasatan di bawah Akta ini mengikut Kanun Tatacara Jenayah [Akta 593]. Kuasa untuk menghendaki maklumat 21c. Seseorang pegawai diberi kuasa boleh menghendaki mana-mana orang untuk memberikan apa-apa maklumat yang berhubungan dengan pencegahan dan pengawalan penyakit berjangkit.”. Seksyen baharu 22a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 22 seksyen yang berikut: “Kesalahan oleh pertubuhan perbadanan 22a. (1) Jika sesuatu pertubuhan perbadanan melakukan suatu kesalahan di bawah Akta ini, mana-mana orang yang pada masa pelakuan kesalahan itu ialah seorang pengarah, ketua pegawai eksekutif, ketua pegawai operasi, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi pertubuhan perbadanan itu atau yang berupa bertindak atas mana-mana sifat sedemikian atau yang mengikut apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal ehwal pertubuhan perbadanan itu atau yang membantu dalam pengurusan sedemikian— (a) boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama bersekali dengan pertubuhan perbadanan itu; dan (Pindaan) (b) jika pertubuhan perbadanan itu didapati bersalah melakukan kesalahan itu, hendaklah disifatkan bersalah melakukan kesalahan itu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan— (i) bahawa kesalahan itu telah dilakukan tanpa pengetahuan, persetujuan atau pembiarannya; dan (ii) bahawa dia telah mengambil segala langkah berjaga-jaga yang munasabah dan telah menjalankan segala usaha yang wajar untuk mengelakkan pelakuan kesalahan itu. (2) Jika mana-mana orang boleh dikenakan di bawah Akta ini apa-apa hukuman atau penalti bagi perbuatan, peninggalan, pengabaian atau keingkarannya, dia boleh dikenakan hukuman atau penalti yang sama bagi tiap-tiap perbuatan, peninggalan, pengabaian atau keingkaran mana-mana pekerja atau ejennya, atau pekerja ejen itu, jika perbuatan, peninggalan, pengabaian atau keingkaran itu telah dilakukan oleh— (a) pekerja orang itu dalam masa penggajiannya; (b) ejen itu semasa bertindak bagi pihak orang itu; atau (c) pekerja ejen itu dalam masa penggajian pekerja itu oleh ejen itu atau selainnya bagi pihak ejen yang bertindak bagi pihak orang itu.”. Penggantian seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/32/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 23 dengan seksyen yang berikut: “Pendakwaan 23. Tiada pendakwaan bagi atau berhubung dengan apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini boleh dimulakan kecuali oleh atau dengan keizinan bertulis Pendakwa Raya.”. Penggantian seksyen 24"
+      }
+    }
+  ]
+}

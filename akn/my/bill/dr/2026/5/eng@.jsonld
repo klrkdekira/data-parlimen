@@ -1,0 +1,375 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-5-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Constitution (Amendment) (No. 2) Bill 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Constitution (Amendment) (No. 2) Act 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazette and the Yang di-Pertuan Agong may appoint different dates for the coming into operation of different provisions of this Act. Amendment of Article 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended in Article 42—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (5), by substituting for the words “Attorney General” wherever appearing the words “Public Prosecutor”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (9), by substituting for the words “Attorney General” the words “Public Prosecutor”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (12), in subparagraph (b)(ii), by substituting for the words “Attorney General” the words “Public Prosecutor”. Amendment of Article 132"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 132 of the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (3), by inserting after paragraph (c) the following paragraphs: “(ca) the office of the Attorney General; or (cb) the office of the Public Prosecutor; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (4), in paragraph (b), by deleting the words “the Attorney General or,”. Amendment of Article 138"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 138 of the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after Clause (1) the following Clause: “(1a) The Judicial and Legal Service Commission shall also exercise any other functions as provided for under any other Article of this Constitution including recommending a person to be appointed as the Public Prosecutor for the Federation under Clause (1) of Article 145a.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2)— “(aa) the Chief Judge of the High Court in Malaya; (ab) the Chief Judge of the High Court in Sabah and Sarawak;”; “(b) the Attorney General, provided that he is not a member of Parliament;”; “(ba) the Public Prosecutor; (bb) the Solicitor General; and”; and “(c) a member who shall be appointed by the Yang di-Pertuan Agong in his discretion, after consultation with the Chief Justice of the Federal Court, from among persons who are or have been or are qualified to be a judge of the Federal Court, Court of Appeal or a High Court.”. Amendment of Article 145"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraphs:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraphs:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (c) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 145 of the Federal Constitution is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after Clause (1) the following Clause: “(1 a) The Yang di-Pertuan Agong may require a member of the judicial and legal service of the Federation selected for appointment as the Attorney General to retire at any age on the grounds of national interest.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in Clause (2), by inserting after the words “such other duties of a legal character” the words “except advising on all matters and performing such duties of a legal character relating to criminal law and criminal procedure”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting Clauses (3) and (3a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for Clause (5) the following Clause: “(5) The Attorney General shall hold office during the pleasure of the Yang di-Pertuan Agong and may at any time resign his office.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after Clause (5) the following Clauses: “(5 a) Parliament shall by law provide for the remuneration of the Attorney General, and the remuneration so provided shall be charged on the Consolidated Fund. (5 b) If the Attorney General is a member of the Cabinet, he shall not be entitled to the remuneration so provided under the federal law referred to in Clause (5a). (5c) The remuneration and other terms of office (including pension rights) of the Attorney General shall not be altered to his disadvantage after his appointment.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting Clause (6). New Articles 145a and 145b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Constitution is amended by inserting after Article 145 the following Articles: “Public Prosecutor 145a. (1) The Yang di-Pertuan Agong shall in his discretion, on the recommendation of the Judicial and Legal Service Commission and after consultation with the Conference of Rulers, appoint a person qualified under Clause (2) to be the Public Prosecutor for the Federation. (2) A person is qualified for appointment under Clause (1) if he is a citizen and has at least ten years’ experience in litigation. (3) A member of Parliament shall not be eligible for appointment as a Public Prosecutor. (4) The Yang di-Pertuan Agong may require a member of the judicial and legal service of the Federation selected for appointment as the Public Prosecutor to retire at any age on the grounds of national interest. (5) Subject to Clause (8), the term of office of the Public Prosecutor shall be seven years. (6) Parliament shall by law provide for the remuneration of the Public Prosecutor, and the remuneration so provided shall be charged on the Consolidated Fund. (7) The remuneration and other terms of office (including pension rights) of the Public Prosecutor shall not be altered to his disadvantage after his appointment. (8) The Public Prosecutor may at any time resign his office by writing under his hand addressed to the Yang di-Pertuan Agong but shall not be removed from office except in accordance with Clauses (9), (10), (11), (12) and (13) of this Article. (9) If the Judicial and Legal Service Commission represents to the Yang di-Pertuan Agong that the Public Prosecutor ought to be removed on the grounds of inability, from infirmity of body or mind, properly to discharge the functions of his office, or of misconduct or misbehaviour, the Yang di-Pertuan Agong shall appoint a tribunal in accordance with Clause (10) and refer the representation to it; and may on the recommendation of the tribunal remove the Public Prosecutor from office. (10) The tribunal appointed under Clause (9) shall consist of— (a) a person who has held the office of Attorney General, who shall preside over the tribunal; (b) a person who has held the office of Public Prosecutor; (c) a person who has held the office of Chief Secretary of the Federation; and (d) not less than three other members who have held the office as judge of the Federal Court. (11) If the tribunal cannot be constituted in accordance with Clause (10), the Yang di-Pertuan Agong may appoint any person who has held the office as judge of the Federal Court to constitute the tribunal. (12) If the person who has held the office of Attorney General or the person appointed under Clause (11) as a member of the tribunal under paragraph (a) of Clause (10) is unable for any reason to preside over the tribunal, the tribunal shall be presided by a member elected from among the members present during the tribunal. (13) The tribunal shall not consist of members of the Judicial and Legal Service Commission and of the judicial and legal service of the Federation. (14) The tribunal shall regulate its own procedure. (15) Pending any reference and report under Clause (9) the Yang di-Pertuan Agong may, on the recommendation of the Judicial and Legal Service Commission, suspend the Public Prosecutor from the exercise of his functions. (16) For the purposes of Clauses (9) and (15), the Judicial and Legal Service Commission shall consist of the Chairman, the Chief Judge of the High Court in Malaya, the Chief Judge of the High Court in Sabah and Sarawak and the member appointed by the Yang di-Pertuan Agong under paragraph (c) of Clause (2) of Article 138. (17) For the purposes of the appointment— (a) of the first Public Prosecutor under Clause (1), the Judicial and Legal Service Commission shall consist of the Chairman, the Solicitor General and the member appointed by the Yang di-Pertuan Agong under paragraph (c) of Clause (2) of Article 138; and (b) of subsequent Public Prosecutor under Clause (1), the Judicial and Legal Service Commission shall consist of the Chairman, the Public Prosecutor, the Solicitor General and the member appointed by the Yang di-Pertuan Agong under paragraph (c) of Clause (2) of Article 138. (18) The Yang di-Pertuan Agong may by regulations provide for matters relating to the appointment and the procedure to be followed under this Article. Powers and duties of Public Prosecutor 145b. (1) The Public Prosecutor shall have power, exercisable at his discretion, to institute, conduct or discontinue any proceedings for an offence, other than proceedings before a Syariah court, a native court or a court-martial. (2) Where the consent of the Attorney General personally is required for the institution of criminal action under this Constitution, such consent shall not be given except with the consent of the Public Prosecutor personally. (3) Federal law may confer on the Public Prosecutor power to determine the courts in which or the venue at which any proceedings which he has power under Clause (1) to institute shall be instituted or to which such proceedings shall be transferred. (4) In the performance of his duties, the Public Prosecutor shall have the right of audience in, and shall take precedence over any other person appearing before, any court in the Federation, however if the Public Prosecutor and Attorney General are in the same court, the Attorney General may take precedence over the Public Prosecutor. (5) The Public Prosecutor shall— (a) be consulted on any matters relating to criminal law and criminal procedure and may render his advice to the Yang di-Pertuan Agong or the Cabinet or any Minister on such matters; and (b) discharge the functions conferred on him by or under this Constitution or any other written law. (6) Unless in any written law it is otherwise expressly provided, the Senior Deputy Public Prosecutor may perform any of the duties and may exercise any of the powers of the Public Prosecutor.”. Amendment of Article 160"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Article 160 of the Federal Constitution is amended in Clause (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “office of profit”, by inserting after paragraph (a) the following paragraph: “(aa) the office of Public Prosecutor; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “public authority” the following definition: ‘ “Public Prosecutor” means the Public Prosecutor of the Federation;’. Transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the coming into operation of this Act, the functions of the Public Prosecutor shall be exercised by the Attorney General until the Public Prosecutor is appointed under the Federal Constitution as amended by this Act. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the coming into operation of this Act, the person holding the office of the Attorney General immediately prior to the coming into operation of this Act shall continue to hold office on terms and conditions not less favourable than those applicable to him immediately before this Act comes into operation."
+      }
+    }
+  ]
+}

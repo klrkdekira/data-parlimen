@@ -1,0 +1,1207 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-21-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Statistik 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "JABATAN STATISTIK MALAYSIA Jabatan Statistik Malaysia dan pegawainya"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "MAJLIS STATISTIK NEGARA Penubuhan Majlis Statistik Negara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah mengadakan mesyuaratnya seberapa kerap sebagaimana yang ditentukan oleh Pengerusi dan mesyuarat itu hendaklah diadakan pada masa dan di tempat sebagaimana yang ditentukan oleh Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi hendaklah mempengerusikan semua mesyuarat Majlis tetapi jika Pengerusi tidak hadir pada mana-mana mesyuarat Majlis, anggota yang hadir hendaklah memilih seorang daripada kalangan mereka untuk mempengerusikan mesyuarat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tujuh orang anggota, termasuk Pengerusi, hendaklah membentuk kuorum bagi sesuatu mesyuarat Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi boleh membenarkan penggunaan suatu rangkaian video secara langsung, rangkaian televisyen secara langsung atau apa-apa cara komunikasi elektronik yang lain bagi maksud apa-apa mesyuarat Majlis, dan mana-mana anggota yang menghadiri mesyuarat itu melalui cara sedemikian hendaklah disifatkan hadir dalam mesyuarat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh menentukan tatacaranya sendiri. Jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh menubuhkan apa-apa jawatankuasa sebagaimana yang difikirkan perlu atau suai manfaat oleh Majlis untuk membantu Majlis dalam melaksanakan fungsinya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh melantik mana-mana orang untuk menjadi anggota apa-apa jawatankuasa yang ditubuhkan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh melantik mana-mana anggotanya untuk menjadi pengerusi apa-apa jawatankuasa yang ditubuhkan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota sesuatu jawatankuasa hendaklah memegang jawatan selama apa-apa tempoh sebagaimana yang dinyatakan oleh Majlis dalam surat pelantikannya dan layak untuk dilantik semula."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa hendaklah tertakluk pada, dan bertindak mengikut, apa-apa arahan yang diberikan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa hendaklah bermesyuarat seberapa kerap yang perlu pada masa dan di tempat yang ditentukan oleh pengerusi jawatankuasa itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa boleh mengundang mana-mana orang untuk menghadiri mana-mana mesyuaratnya untuk menasihati jawatankuasa itu mengenai apa-apa perkara yang sedang dibincangkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa boleh menentukan tatacaranya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis Statistik Negara ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perdana Menteri sebagai Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada lapan orang Menteri Kerajaan Persekutuan yang dilantik oleh Perdana Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Perkhidmatan Awam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Kementerian yang dipertanggungkan dengan tanggungjawab bagi perkara yang berhubungan dengan statistik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Perangkawan sebagai Setiausaha. Majlis boleh mengundang mana-mana orang untuk menghadiri mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh mengundang mana-mana orang untuk menghadiri mana-mana mesyuaratnya untuk menasihati Majlis mengenai apa-apa perkara yang sedang dibincangkan, tetapi orang itu tidak berhak untuk mengundi dalam mesyuarat itu. Fungsi Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fungsi Majlis adalah seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk bertindak sebagai badan penasihat utama bagi memberikan panduan dan arahan berkenaan dengan perkara yang berhubungan dengan statistik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menilai dan mengesahkan standard dan tatacara statistik di Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan apa-apa perkara lain yang timbul daripada atau bersampingan dengan fungsi Majlis di bawah Akta ini. Mesyuarat Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jabatan Perangkaan hendaklah dikenali sebagai Jabatan Statistik Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Yang di-Pertuan Agong hendaklah melantik seorang Ketua Perangkawan daripada kalangan pegawai yang sedang berkhidmat dalam perkhidmatan awam persekutuan yang mempunyai kelayakan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memegang ijazah sarjana atau ijazah kedoktoran falsafah dalam bidang statistik, ekonomi, sains data, matematik, atau bidang lain yang berhubungan dengan statistik, daripada universiti yang diiktiraf oleh Kerajaan Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempunyai sekurang-kurangnya dua puluh tahun pengalaman kerja dalam bidang statistik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempunyai pengetahuan, kemahiran teknikal dan kepakaran dalam penghasilan dan penyebaran statistik dalam bidang sosial, ekonomi, atau bidang lain yang berhubungan dengan statistik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempunyai pengetahuan, kemahiran dan pengalaman dalam menjalankan banci atau tinjauan kependudukan, ekonomi, pertanian dan isi rumah di peringkat kebangsaan atau negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hendaklah dilantik apa-apa bilangan Timbalan Ketua Perangkawan, dan pegawai lain Jabatan Statistik Malaysia sebagaimana yang perlu bagi maksud melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap Timbalan Ketua Perangkawan dan pegawai Jabatan Statistik Malaysia hendaklah tertakluk pada kawalan dan arahan Ketua Perangkawan. Fungsi Jabatan Statistik Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fungsi Jabatan Statistik Malaysia adalah seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjadi pusat repositori bagi data dan statistik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengumpul, menyusun, menganalisis dan mentafsir data bagi maksud mengemukakan maklumat yang diperlukan untuk membentuk atau menjalankan dasar Kerajaan atau selainnya yang diperlukan bagi maksud Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyebarkan data dan statistik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membangunkan dan menetapkan standard dan tatacara statistik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan kualiti, integriti dan kebolehpercayaan statistik rasmi bagi Kerajaan Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menasihatkan mana-mana entiti Kerajaan atau mana-mana orang dalam perkara yang berhubungan dengan statistik;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelaras aktiviti statistik bagi mana-mana entiti Kerajaan atau mana-mana orang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyediakan latihan yang berhubungan dengan statistik; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan apa-apa fungsi lain yang berhubungan dengan data dan statistik sebagaimana yang perlu bagi maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Perangkawan hendaklah mempunyai semua kuasa yang perlu, atau berkaitan dengan, atau yang bersampingan dengan pelaksanaan fungsi Jabatan Statistik Malaysia di bawah Akta ini. Pewakilan kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Perangkawan boleh, secara bertulis, mewakilkan mana-mana kuasanya di bawah Akta ini kepada mana-mana Timbalan Ketua Perangkawan atau pegawai lain Jabatan Statistik Malaysia tertakluk pada apa-apa syarat, had atau sekatan sebagaimana yang difikirkan oleh Ketua Perangkawan patut dikenakan kecuali kuasa pewakilan di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pewakilan mana-mana kuasa di bawah seksyen ini tidak menghalang Ketua Perangkawan daripada menjalankan kuasa yang diwakilkan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENGUMPULAN, PENERBITAN DAN KOMUNIKASI DATA Arahan untuk mengemukakan data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Perangkawan boleh, melalui notis secara bertulis, mengarahkan mana-mana orang untuk mengemukakan apa-apa data yang dalam pengetahuan orang itu atau yang semunasabahnya orang itu boleh dapatkan, dalam bentuk dan mengikut cara dan tempoh sebagaimana yang dinyatakan dalam notis itu atau tempoh lanjutan yang dibenarkan oleh Ketua Perangkawan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Notis di bawah subseksyen (1) hendaklah disampaikan kepada orang itu sama ada secara peribadi, melalui pos berdaftar, atau melalui cara elektronik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang diarahkan untuk mengemukakan data di bawah subseksyen (1) hendaklah memastikan bahawa data yang dikemukakan itu adalah benar, tepat dan lengkap, dan hendaklah memberikan pernyataan yang jelas mengenai perkara itu, termasuk suatu perisytiharan bahawa orang itu tidak mengetahui apa-apa data lain yang akan menjadikan data yang dikemukakan itu tidak benar atau mengelirukan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika orang yang diarahkan untuk mengemukakan data di bawah subseksyen (1) tidak mempunyai data itu, atau data itu tidak lengkap, orang itu hendaklah memaklumkan Ketua Perangkawan dalam bentuk dan mengikut cara dan dalam tempoh sebagaimana yang dinyatakan dalam notis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit dan dalam hal kesalahan yang berterusan, didenda selanjutnya tidak melebihi dua ribu ringgit bagi setiap hari selama kesalahan itu berterusan selepas disabitkan. Permintaan bagi data"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Perangkawan boleh meminta apa-apa data daripada mana-mana entiti Kerajaan melalui notis secara bertulis mengarahkan ketua entiti Kerajaan itu untuk mengemukakan data itu. Penerbitan dan komunikasi data dan statistik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada data atau statistik yang diperoleh di bawah Akta ini boleh diterbitkan atau dikomunikasikan kepada mana-mana orang lain kecuali mengikut kehendak yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kelulusan terdahulu Ketua Perangkawan telah diperoleh;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penerbitan atau komunikasi dibuat dalam tempoh atau pada masa yang dinyatakan oleh Ketua Perangkawan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penerbitan atau komunikasi dibuat mengikut apa-apa cara untuk memastikan bahawa identiti mana-mana orang yang berkaitan dengan data atau statistik yang diterima itu tidak didedahkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada data atau statistik boleh digunakan oleh mana-mana orang bagi maksud menentukan apa-apa tanggungjawab terhadap apa-apa bentuk cukai atau levi, sama ada Persekutuan, Negeri, atau selainnya atau dikomunikasikan kepada mana-mana pihak berkuasa atau orang yang berkemungkinan untuk menggunakan data atau statistik itu bagi maksud itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang boleh memohon apa-apa data atau statistik, atau apa-apa penerbitan fizikal atau digital yang dikeluarkan, oleh Jabatan Statistik Malaysia, dalam bentuk dan mengikut cara yang ditentukan oleh Ketua Perangkawan dan apabila dibayar fi yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Statistik 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Akta ini mengikat Kerajaan Persekutuan dan Kerajaan Negeri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mengikat Kerajaan Persekutuan dan Kerajaan Negeri. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“data” ertinya butir-butir atau maklumat dalam apa-apa bentuk; “ditetapkan” ertinya ditetapkan oleh Menteri melalui peraturan-peraturan yang dibuat di bawah Akta ini; “entiti Kerajaan” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana kementerian, jabatan, pejabat, pihak berkuasa atau agensi, Kerajaan Persekutuan atau Kerajaan Negeri, atau mana-mana entiti lain dalam perkhidmatan Kerajaan Persekutuan atau Kerajaan Negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana badan berkanun Kerajaan Persekutuan atau Kerajaan Negeri yang ditubuhkan di bawah mana-mana undang-undang bertulis; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pihak berkuasa tempatan; “ketua entiti Kerajaan” ertinya mana-mana pegawai yang bertanggungjawab bagi sesuatu entiti Kerajaan, termasuk mana-mana pegawai yang diberi kuasa secara bertulis oleh ketua entiti Kerajaan itu untuk bertindak bagi pihaknya; “Ketua Perangkawan” ertinya Ketua Perangkawan yang dilantik di bawah subseksyen 4(2); “Majlis” ertinya Majlis Statistik Negara yang ditubuhkan di bawah seksyen 7; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab yang berhubungan dengan statistik; “statistik” ertinya nilai atau angka yang dihasilkan daripada proses pengumpulan, penyusunan, analisis dan tafsiran data."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Obligasi kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PEMANSUHAN Pemansuhan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perangkaan 1965 [Akta 415] dimansuhkan. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa notis yang dikeluarkan di bawah Akta Perangkaan 1965 hendaklah, pada tarikh permulaan kuat kuasa Akta ini, terus sah dan disifatkan telah dikeluarkan di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pegawai dan pekhidmat Jabatan Statistik yang dilantik sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, terus kekal menjadi pegawai Jabatan Statistik Malaysia dan hendaklah tertakluk pada undang-undang yang sedang berkuat kuasa yang berhubungan dengan perkhidmatan awam Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa sebutan mengenai Jabatan Perangkaan dalam mana-mana undang-undang bertulis atau dokumen hendaklah, pada tarikh permulaan kuat kuasa Akta ini, ditafsirkan sebagai suatu sebutan mengenai Jabatan Statistik Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi maksud Akta ini atau bagi maksud apa-apa prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis, mana-mana Timbalan Ketua Perangkawan atau pegawai lain Jabatan Statistik Malaysia, semasa atau selepas tempoh jawatan atau penggajiannya, tidak boleh menzahirkan apa-apa data dan statistik yang diperolehnya semasa menjalankan kewajipannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan bagi tempoh tidak melebihi dua tahun atau kedua-duanya. Perlindungan terhadap guaman dan prosiding undang-undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan, guaman, pendakwaan atau prosiding lain boleh dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap Menteri, mana-mana anggota Majlis, Ketua Perangkawan, mana-mana Timbalan Ketua Perangkawan atau pegawai Jabatan Statistik Malaysia berkenaan dengan apa-apa perbuatan, kecuaian atau keingkaran yang dilakukan atau ditinggalkan olehnya semasa menjalankan kewajipannya di bawah Akta ini melainkan jika boleh dibuktikan bahawa perbuatan, kecuaian atau keingkaran itu telah dilakukan atau ditinggalkan dengan niat jahat dan tanpa sebab yang munasabah. Tanggungan pengarah, dsb., bagi syarikat, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana orang yang melakukan suatu kesalahan di bawah Akta ini ialah suatu syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain, seseorang yang pada masa perlakuan kesalahan itu ialah seorang pengarah, pegawai pematuhan, pekongsi, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu atau yang berupa sebagai bertindak atas sifat itu atau yang dengan apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan apa-apa hal ehwal syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu atau yang membantu dalam pengurusannya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama bersekali dengan syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika syarikat, perkongsian liabiliti terhad, firma, pertubuhan atau kumpulan orang yang lain itu didapati bersalah atas kesalahan itu, hendaklah disifatkan bersalah atas kesalahan itu dan boleh dikenakan hukuman atau penalti yang sama sebagaimana seorang individu melainkan jika, dengan mengambil kira jenis fungsinya atas sifat itu dan segala hal keadaan, dia membuktikan— Kuasa untuk membuat peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahawa kesalahan itu telah dilakukan tanpa pengetahuannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_17__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bahawa kesalahan itu telah dilakukan tanpa persetujuan atau pembiarannya dan bahawa dia telah mengambil segala langkah yang munasabah dan menjalankan usaha yang wajar untuk menghalang perlakuan kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat peraturan-peraturan sebagaimana yang perlu atau suai manfaat bagi maksud pelaksanaan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), Menteri boleh membuat peraturan-peraturan untuk menetapkan apa-apa fi yang kena dibayar di bawah Akta ini, termasuk apa-apa fi pemprosesan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana peraturan-peraturan yang dibuat di bawah Akta ini boleh menetapkan apa-apa perbuatan yang melanggar peraturan-peraturan itu sebagai suatu kesalahan dan boleh menetapkan penalti—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "denda yang tidak melebihi sepuluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi dua belas bulan atau kedua-duanya jika orang itu ialah seorang individu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_18__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "denda yang tidak melebihi dua puluh ribu ringgit jika orang itu ialah suatu pertubuhan perbadanan. Kuasa untuk mengeluarkan arahan, pekeliling dan garis panduan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Perangkawan boleh mengeluarkan apa-apa arahan, pekeliling atau garis panduan sebagaimana yang difikirkan perlu atau suai manfaat oleh Ketua Perangkawan bagi maksud melaksanakan peruntukan Akta ini. Pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/21/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan bagi sesuatu kesalahan di bawah Akta ini boleh dimulakan tanpa keizinan secara bertulis Pendakwa Raya."
+      }
+    }
+  ]
+}

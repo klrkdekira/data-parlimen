@@ -1,0 +1,103 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-29-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pembahagian (Pindaan) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pembahagian Tajuk ringkas. (Pindaan) 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pembahagian 1958, yang disebut \"Akta ibu\" Pindaan dalam Akta ini, adalah dipinda dalam seksyen 3 dengan seksyen 3 memasukkan selepas takrif \"anak\" takrif yang berikut: Akta 300 ' \"ibu\" atau \"bapa\" ertinya ibu atau bapa sebenar seseorang anak, atau ibu atau bapa yang Akta 257. sah seseorang anak di bawah Akta Pengangkatan 1952;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 6(1) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (i), (ii), (iii) dan (iv) dengan perenggan yang berikut: \"(a) jika seseorang si mati tak berwasiat mati dengan meninggalkan seorang pasangan dan tidak meninggalkan zuriat dan ibu atau bapa atau ibu dan bapa, pasangan yang menakat adalah berhak kepada kesemua harta pusaka itu; Rang Undang-Undang (b) jika seseorang si mati tak berwasiat mati dengan tidak meninggalkan zuriat tetapi meninggalkan seorang pasangan dan ibu atau bapa atau ibu dan bapa, pasangan yang menakat adalah berhak kepada setengah daripada harta pusaka itu dan ibu atau bapa atau ibu dan bapa yang menakat adalah berhak kepada baki yang setengah lagi; (c) jika seseorang si mati tak berwasiat mati dengan meninggalkan zuriat tetapi tidak meninggalkan pasangan dan ibu atau bapa atau ibu dan bapa, zuriat yang menakat adalah berhak kepada kesemua harta pusaka itu; (d) jika seseorang si mati tak berwasiat mati dengan tidak meninggalkan pasangan dan zuriat tetapi meninggalkan ibu atau bapa atau ibu dan bapa, ibu atau bapa atau ibu dan bapa yang menakat adalah berhak kepada kesemua harta pusaka itu; (e) jika seseorang si mati tak berwasiat mati dengan meninggalkan seorang pasangan dan zuriat tetapi tidak meninggalkan ibu atau bapa atau ibu dan bapa, pasangan yang menakat adalah berhak kepada satu per tiga daripada harta pusaka itu dan zuriat itu berhak kepada baki yang dua per tiga lagi; (f) jika seseorang si mati tak berwasiat mati dengan tidak meninggalkan pasangan tetapi meninggalkan zuriat dan ibu atau bapa atau ibu dan bapa, zuriat yang menakat adalah berhak kepada dua per tiga daripada harta pusaka itu dan ibu atau bapa atau ibu dan bapa itu berhak kepada baki yang satu per tiga lagi; (g) jika seseorang si mati tak berwasiat mati dengan meninggalkan seorang pasangan, zuriat dan ibu atau bapa atau ibu dan bapa, pasangan yang menakat adalah berhak kepada satu per empat daripada harta pusaka itu, zuriat adalah berhak kepada setengah daripada harta pusaka itu dan ibu atau bapa atau ibu dan bapa itu berhak kepada baki yang satu per empat lagi; (h) tertakluk kepada hak-hak seseorang pasangan atau seseorang ibu atau bapa atau ibu dan bapa yang menakat, mengikut mana-mana yang berkenaan, harta pusaka seseorang si mati tak berwasiat yang meninggalkan zuriat hendaklah dipegang atas amanah yang dinyatakan dalam seksyen 7 bagi zuriat itu; (i) jika seseorang si mati tak berwasiat mati dengan tidak meninggalkan pasangan, zuriat, ibu atau bapa atau ibu dan bapa, kesemua harta pusaka si mati tak berwasiat itu hendaklah dipegang atas amanah bagi orang yang berikut yang hidup pada masa kematian si mati tak berwasiat dan mengikut susunan dan cara yang berikut, iaitu: Pertama, atas amanah yang dinyatakan dalam seksyen 7 bagi adik beradik lelaki dan perempuan si mati tak berwasiat dalam bahagian yang sama banyak; tetapi jika tiada seorang pun mendapat kepentingan yang terletakhak secara mutlak di bawah amanah sedemikian, maka Kedua, bagi datuk nenek si mati tak berwasiat, dan jika lebih daripada seorang menakat si mati tak berwasiat dalam bahagian yang sama banyak secara mutlak; tetapi jika tiada datuk nenek yang menakat, maka Ketiga, atas amanah yang dinyatakan dalam seksyen 7 bagi bapa saudara dan ibu saudara si mati tak berwasiat dalam bahagian yang sama banyak; tetapi jika tiada seorang pun mendapat kepentingan yang terletakhak secara mutlak di bawah amanah sedemikian, maka Rang Undang-Undang Keempat, bagi moyang-moyang si mati tak berwasiat dan jika lebih daripada seorang menakat si mati tak berwasiat dalam bahagian yang sama banyak secara mutlak; tetapi jika tiada moyang-moyang sedemikian yang menakat, maka Kelima, atas amanah yang dinyatakan dalam seksyen 7 bagi moyang saudara si mati tak berwasiat dalam bahagian yang sama banyak.\"; dan dengan menomborkan semula perenggan (v)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sebagai perenggan (j). Peruntukan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa pembahagian harta seseorang si mati tak kecualian. berwasiat yang telah dimulakan sebelum Akta ini mula berkuatkuasa hendaklah diteruskan atau diselesaikan dari segala segi seolah-olah Akta ini tidak pernah diluluskan."
+      }
+    }
+  ]
+}

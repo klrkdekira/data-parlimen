@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-16-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kastam (Pindaan) 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kastam (Pindaan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Kastam 1967, yang disebut \"Akta ibu\" dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini, adalah dipinda dalam subseksyen 2(1) dengan memasukkan selepas takrif \"in transit\" takrif yang berikut: ' \"Joint Development Area\" has the meaning Act 440. assigned thereto in section 2 of the Malaysia- Thailand Joint Authority Act 1990;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 142 Akta ibu adalah dipinda dengan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memasukkan selepas perenggan (35) perenggan yang berikut: \"(35A) to regulate the movement of goods into and from the Joint Development Area;\". Bahagian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas baru XIXB. Bahagian XIXA Bahagian yang berikut: \" PART XIXB SPECIAL PROVISIONS DEALING WITH THE JOINT DEVELOPMENT AREA Movement 163H. (1) The movement of goods from a of goods country other than Malaysia or the Kingdom into or from Joint of Thailand or from a licensed warehouse of Develop- Malaysia or the Kingdom of Thailand into the ment Area. Joint Development Area shall be deemed to be an importation of such goods into the Joint Development Area."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "The movement of goods produced in the Joint Development Area from the Joint Development Area into Malaysia, the Kingdom of Thailand or any other country shall be deemed to be an exportation of such goods from the Joint Development Area."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/16/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "The movement of goods from Malaysia or the Kingdom of Thailand into the Joint Development Area for use in the Joint Development Area and the movement of such goods from the Joint Development Area into Malaysia or the Kingdom of Thailand shall be deemed to be an internal movement of such goods. Customs 163I. (1) Import duty shall be payable on all duty payable goods imported into the Joint Development Area. on importa- tion into or exportation (2) Export duty shall be payable on all goods from Joint exported from the Joint Development Area.\". Develop- ment Area."
+      }
+    }
+  ]
+}

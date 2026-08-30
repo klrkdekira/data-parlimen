@@ -1,0 +1,198 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-33-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Saraan Hakim (Pindaan) 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Saraan Hakim"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pindaan) 1993 dan hendaklah disifatkan telah mula berkuatkuasa pada 1hb Januari 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Saraan Hakim 1971, yang disebut \"Akta ibu\""
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Akta ini, adalah dipinda, dalam seksyen 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(2) Bagi maksud subseksyen (1), jika seseorang Hakim— (a) telah, sebagaimana yang dikehendaki oleh Yang di-Pertuan Agong di bawah 8c, melepaskan jawatannya untuk berkhidmat dalam suatu jawatan yang lain selama apa- apa tempoh demi kepentingan negara; dan (b) selepas menamatkan tempoh per- khidmatannya dalam jawatan yang lain itu dilantik semula serta-merta untuk memegang jawatan Hakim, tempoh perkhidmatannya sebagai Hakim sebelum, dan tempoh dia berkhidmat dalam jawatan yang lain itu selepas, dia melepaskan jawatannya sebagai Hakim hendaklah dihitung sebagai tempoh perkhidmatan sebagai Hakim.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen SB Akta ibu adalah dipinda dalam seksyen 8B. subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"Hakim Mahkamah Agung\" yang mula-mula terdapat dalam subseksyen itu perkataan \"atau Mahkamah Tinggi\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"Mahkamah Agung dan Mahkamah Tinggi\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas baru 8c seksyen 8B seksyen yang berikut: Pelepasan 8c. Seseorang Hakim Mahkamah Agung atau jawatan Mahkamah Tinggi yang belum mencapai umur demi enam puluh tahun boleh dikehendaki oleh kepen- tingan Yang di-Pertuan Agong supaya melepaskan negara jawatan Hakim untuk berkhidmat dalam suatu jawatan yang lain selama apa-apa tempoh demi kepentingan negara.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu adalah dipinda dengan seksyen 12. memasukkan selepas subseksyen (3o) subseksyen yang berikut: SARAAN HAKIM (PINDAAN) jawatan yang lain selama apa-apa tempoh demi kepentingan negara, dan masih berkhidmat dalam jawatan itu apabila dia mencapai umur lima puluh tahun.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu adalah dipinda dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "subseksyen (2) dengan menggantikan perkataan \"Jadual Pertama dan Kedua\" dengan perkataan \"Jadual Pertama, Kedua dan Kelima.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen 19 seksyen yang berikut: Saraan 19A. Seseorang yang dilantik menjadi Pesuruh- Pesuruhjaya Kehakiman di bawah Perkara jaya 122A Perlembagaan Persekutuan adalah berhak Keha- kiman. menerima apa-apa saraan yang diperuntukkan dalam Jadual Kelima.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~sched_1__para_8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/33/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Keempat Jadual yang berikut: \"JADUAL KELIMA (Seksyen 19A) 1. GAJI: RM8,100 sebulan 2. ELAUN KERAIAN: RM2,500 sebulan 3. ELAUN KEHAKIMAN KHAS: RM2,400 sebulan 4. TEMPAT TINGGAL: Rumah khas percuma berperabot lengkap sebagaimana yang disediakan untuk Hakim Mahkamah Tinggi atau sebagai gantinya suatu subsidi sewa rumah sebanyak RM2,000 sebulan. 5. ELAUN DAN KEISTIMEWAAN LAIN: Elaun dan keistimewaan yang dinyatakan dalam perenggan \\(b)(ii), 3, 3A, 4, 5, 6, 6A, 7, 8, 10, 11, 12, 13 dan 15 Jadual Kedua.\"."
+      }
+    }
+  ]
+}

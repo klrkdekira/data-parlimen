@@ -70,10 +70,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@/~cl_2__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@",
       "schema:name": {
         "@language": "en",
@@ -81,27 +77,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "referred to as the \"principal Act\", is amended in section 16 by inserting after subsection (2) the following subsection: \"(3) For all outbound tour packages, the licensed tour operator shall—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "purchase insurance policy; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "cause a deposit in the form of cash or bank guarantee to be made to the Commissioner, as the case may be, as directed by the Commissioner.\"."
+        "@value": "referred to as the \"principal Act\", is amended in section 16 by inserting after subsection (2) the following subsection: \"(3) For all outbound tour packages, the licensed tour operator shall— (a) purchase insurance policy; or (b) cause a deposit in the form of cash or bank guarantee to be made to the Commissioner, as the case may be, as directed by the Commissioner.\"."
       }
     },
     {

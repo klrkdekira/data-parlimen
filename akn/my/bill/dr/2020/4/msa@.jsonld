@@ -1,0 +1,696 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-4-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Langkah-Langkah Sementara bagi Pembiayaan Kerajaan (Penyakit Koronavirus 2019 (COVID-19)) 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Langkah-Langkah Sementara bagi Pembiayaan Kerajaan (Penyakit Koronavirus 2019 (COVID-19)) 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi seksyen 3, Akta ini disifatkan telah mula berkuat kuasa pada 27 Februari 2020 dan hendaklah terus berkuat kuasa hingga 31 Disember 2022. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan. Kenaikan had amaun wang yang diperdapat dan wang yang diterima"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Had amaun bagi jumlah amaun wang yang boleh diperdapat di bawah subseksyen 3(1) Akta Pinjaman (Tempatan) 1959 dan jumlah amaun wang yang boleh diterima di bawah subseksyen 3(1) Akta Pendanaan Kerajaan 1983 yang ditetapkan dalam Perintah Pinjaman (Tempatan) (Had Statutori Pinjaman) dan Pendanaan Kerajaan (Had Statutori Wang yang Diterima) 2009 [P.U. (A) 241/2009] pada kadar lima puluh lima peratus daripada Keluaran Dalam Negara Kasar Malaysia, dinaikkan sehingga enam puluh peratus daripada Keluaran Dalam Negara Kasar Malaysia, apabila dikira bersama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) hendaklah berkuat kuasa bagi tempoh mulai tarikh Akta ini disiarkan dalam Warta hingga 31 Disember 2022 dan semasa tempoh itu Perintah Pinjaman (Tempatan) (Had Statutori Pinjaman) dan Pendanaan Kerajaan (Had Statutori Wang yang Diterima) 2009 adalah digantung."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud seksyen ini, “Keluaran Dalam Negara Kasar Malaysia” ertinya Keluaran Dalam Negara Kasar Malaysia yang terkini yang disahkan oleh Menteri. Penubuhan Kumpulan Wang COVID-19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu kumpulan wang yang dikenali sebagai Kumpulan Wang COVID-19 ditubuhkan dan hendaklah dinyatakan dan dimasukkan ke dalam Jadual Kedua kepada Akta Tatacara Kewangan 1957 [Akta 61]. Kerajaan (Penyakit Koronavirus 2019 (COVID-19))"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen 5(1) Akta Pinjaman (Tempatan) 1959 dan seksyen 4 Akta Pendanaan Kerajaan 1983, mana-mana wang yang diperdapat di bawah subseksyen 3(1) Akta Pinjaman (Tempatan) 1959 dan mana-mana wang yang diterima di bawah subseksyen 3(1) Akta Pendanaan Kerajaan 1983 boleh dibayar ke dalam Kumpulan Wang COVID-19 bagi maksud penggunaannya di bawah seksyen 5. Penggunaan Kumpulan Wang COVID-19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Wang dalam Kumpulan Wang COVID-19 hendaklah digunakan dan diuntukkan bagi maksud program di bawah pakej rangsangan ekonomi dan pelan pemulihan ekonomi yang dinyatakan dalam ruang (1) Jadual mengikut amaun yang dinyatakan dalam ruang (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), Menteri boleh, jika difikirkan patut olehnya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengehadkan atau menggantung amaun untuk digunakan dan diuntukkan bagi maksud apa-apa program; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengarahkan mana-mana jumlah yang diuntukkan bagi suatu program supaya diuntukkan bagi menampung apa-apa program lain yang jumlah yang diuntukkan baginya mungkin tidak mencukupi suatu amaun tambahan daripada apa-apa lebihan daripada program yang mula-mula disebut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah memastikan bahawa penggunaan dan penguntukan wang dalam Kumpulan Wang COVID-19 digunakan hanya bagi program yang dinyatakan dalam ruang (1) Jadual, dengan mengambil kira apa-apa yang dibuat di bawah subseksyen (2), dan tidak melebihi jumlah amaun yang diperuntukkan bagi program-program itu. Wang yang dibayar, digunakan dan diuntukkan mulai 27 Februari 2020 hingga tarikh penyiaran Akta disifatkan sah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa wang yang diperdapat di bawah subseksyen 3(1) Akta Pinjaman (Tempatan) 1959 dan wang yang diterima di bawah subseksyen 3(1) Akta Pendanaan Kerajaan 1983 yang dibayar ke dalam, digunakan dan diuntukkan bagi maksud, Kumpulan Wang COVID-19, bagi tempoh mulai 27 Februari 2020 hingga tarikh Akta ini disiarkan dalam Warta, hendaklah disifatkan telah dibayar, digunakan dan diuntukkan dengan sah sedemikian. Penyata tahunan Kumpulan Wang COVID-19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, dengan secepat yang dapat dilaksanakan selepas berakhirnya setiap tahun kewangan, menyediakan berkenaan dengan tahun kewangan itu suatu penyata terimaan dan perbelanjaan wang yang diakaunkan dalam Kumpulan Wang COVID-19 sebagaimana yang dikehendaki di bawah perenggan 16(1)(c) Akta Tatacara Kewangan 1957. Urusan Kumpulan Wang COVID-19 apabila habis tempoh Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila habis tempoh Akta ini, jika terdapat apa-apa wang yang kena dibayar daripada Kumpulan Wang COVID-19, wang itu hendaklah dibayar dalam tempoh enam bulan dari tarikh habis tempoh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika terdapat apa-apa baki wang dalam Kumpulan Wang COVID-19 selepas semua bayaran dibuat di bawah subseksyen (1), walau apa pun subseksyen 10(3) Akta Tatacara Kewangan 1957, baki wang itu hendaklah dibayar oleh Menteri ke dalam Kumpulan Wang Pembangunan yang dinyatakan dalam Jadual Kedua kepada Akta Tatacara Kewangan 1957."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas baki wang dalam Kumpulan Wang COVID-19 dibayar menurut subseksyen (2), Kumpulan Wang COVID-19 itu hendaklah disifatkan terbubar dan Dewan Rakyat boleh, melalui suatu ketetapan, memotong Kumpulan Wang COVID-19 daripada Jadual Kedua kepada Akta Tatacara Kewangan 1957. Kerajaan (Penyakit Koronavirus 2019 (COVID-19))"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_31"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Subseksyen 5(1)] PROGRAM DI BAWAH PAKEJ RANGSANGAN EKONOMI DAN PELAN PEMULIHAN EKONOMI (1) Program"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Program subsidi upah, insentif pengekalan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pekerjaan dan pengambilan pekerja, dan bantuan latihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Elaun khas COVID-19 bagi barisan hadapan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dana PENJANA Nasional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_12",
+      "@type": "akn:paragraph",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "ePENJANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_13",
+      "@type": "akn:paragraph",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Diskaun bil elektrik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14",
+      "@type": "akn:paragraph",
+      "eli:number": "14",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14__para_BSH",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Tambahan RM100 bagi Bantuan Sara Hidup"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14__para_BSH",
+      "@type": "akn:paragraph",
+      "eli:number": "BSH",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_14"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_15",
+      "@type": "akn:paragraph",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bantuan khas untuk pelajar institusi pendidikan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tinggi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_16",
+      "@type": "akn:paragraph",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pembiayaan Mudah Bumiputera"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_17",
+      "@type": "akn:paragraph",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subsidi pengangkutan awam MY30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_18",
+      "@type": "akn:paragraph",
+      "eli:number": "18",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_18__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bantuan khas untuk pemandu teksi, pemandu"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bas sekolah, pemandu bas pelancong, pemandu pelancong, pengayuh beca dan pemandu e-hailing"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Program"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_19",
+      "@type": "akn:paragraph",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Sokongan bantuan sosial untuk golongan mudah"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terjejas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bantuan Prihatin Nasional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_20",
+      "@type": "akn:paragraph",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Geran automasi pintar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_21",
+      "@type": "akn:paragraph",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pinjaman mudah di bawah MyCreative Venture"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_22",
+      "@type": "akn:paragraph",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perlindungan sosial dan latihan bagi pekerja"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ekonomi gig"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_23",
+      "@type": "akn:paragraph",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kempen e-Dagang bagi PKS dan perusahaan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mikro"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_24",
+      "@type": "akn:paragraph",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "“Shop Malaysia Online” bagi perbelanjaan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam talian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_25",
+      "@type": "akn:paragraph",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Sokongan penjagaan kesihatan PEKA B40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_26",
+      "@type": "akn:paragraph",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Geran bagi pusat jagaan kanak-kanak dan tadika"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_27",
+      "@type": "akn:paragraph",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dana kandungan digital"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_28",
+      "@type": "akn:paragraph",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bantuan untuk pertubuhan bukan kerajaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_29",
+      "@type": "akn:paragraph",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pendigitalan penyampaian perkhidmatan kerajaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Projek berskala kecil"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_30",
+      "@type": "akn:paragraph",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dana pemasaran dan promosi pendigitalan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "di bawah Agensi Pembangunan Ekonomi Kebudayaan (CENDANA)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_31",
+      "@type": "akn:paragraph",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pusat Sehenti PKS MyAssist"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "JUMLAH"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Program kemahiran dan peningkatan kemahiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pembiayaan PKS PENJANA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Geran PRIHATIN PKS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pinjaman mikro kredit di bawah Bank Simpanan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Nasional dan TEKUN Nasional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Peruntukan bagi Kementerian Kesihatan bagi"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perbelanjaan berkaitan COVID-19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/4/msa@/~sched_1",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dana jaminan makanan"
+      }
+    }
+  ]
+}

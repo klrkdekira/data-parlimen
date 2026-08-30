@@ -1,0 +1,235 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-2-2004",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pemegang Amanah (Permerdanan)(Pindaan) 2004"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"25th day of March\" dengan perkataan \"30th day of June\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), (3) dan (4), dengan menggantikan perkataan \"Attorney General\" di mana-mana jua terdapat dengan perkataan \"Minister\". Seksyen baru 17, 18, 19, 20 dan 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 16 seksyen yang berikut: \"Revocation or suspension of certificate of incorporation 17. (1) The Minister may by order revoke the certificate of incorporation if— (a) the incorporation was effected as a result of fraud or mistake or misrepresentation in any material particular; (b) the body or association of persons by whom the trustee or trustees constituting the body corporate are appointed is likely to be used for unlawful purposes or purposes prejudicial to or incompatible with the security of Malaysia or public order or morality in Malaysia or any part thereof; (c) the body or association of persons by whom the trustee or trustees constituting the body corporate are appointed is found to have pursued objectives other than those for which it was originally established; (d) the body corporate has wilfully contravened any provision of this Act or any regulations made under this Act; or (e) if the body corporate does any act or omits to do any act the doing or omission of which is an offence under any law and punishable with a fine of not less than one thousand ringgit or with imprisonment for a term of not less than one year or to both. (2) The Minister shall notify the body corporate of his intention to revoke the certificate of incorporation of the body corporate. (3) No certificate of incorporation shall be revoked under this section without the body corporate being given the opportunity to show cause in writing within a period of thirty days from the date of receipt of a notice to show cause as to why the certificate should not be revoked. (4) During the period specified in subsection (3), the Minister may by order in writing suspend all or any of the activities of the body corporate — (a) in order to restrain the body corporate from further infringing or violating any provision of this Act or any regulations made under this Act; or (b) if he thinks it is necessary to do so in the interest of the public or of the body corporate or the body or association of persons by whom the trustee or trustees constituting the body corporate are appointed. (5) An order made under subsection (4) may contain such conditions as the Minister thinks necessary or expedient and shall continue to be in force until the order or the certificate of incorporation is revoked. (6) The revocation of the certificate of registration of any body corporate by the Minister under this section shall come into force on the date the notification of such revocation is communicated to the trustee, or if there is more than one trustee, at least one of the trustees, and it shall be final and conclusive. Voluntary dissolution of body corporate 18. (1) A body corporate may be dissolved voluntarily in either of the following ways: (a) upon the happening of any event as specified in the trust deed which amounts to the dissolution of the body corporate; or (b) by the decision of the trustee, or if there is more than one trustee, the unanimous agreement of the trustees, testified by the trustee or trustees constituting the body corporate signing an instrument of dissolution and with the consent of the body or association of persons by whom the trustee or trustees are appointed. (2) The trustee or trustees shall immediately inform the Minister of the happening of the event referred to in paragraph (l)(a) or the decision or agreement referred to in paragraph (l)(b). 6 Rang Undang-Undang (3) The Minister shall make an order revoking the certificate of incorporation as from such date as is specified in the order. Consequences of revocation of certificate of incorporation 19. (1) Upon an order being made under subsection 17(1) or 18(3)- (a) the body corporate is dissolved; (b) any assets or liabilities of the body or association of persons vested in the body corporate shall vest in such trustee or trustees as may be appointed by the body or association of persons, or if the trustee or trustees are the same trustee or trustees who had been incorporated as the body corporate before its dissolution, in such trustee or trustees, in trust for such body or association; and (c) any legal proceeding that might have been continued or instituted by or against the body corporate with respect to any asset or liability vested in the body corporate may be continued or instituted by or against the trustee or trustees in whom the asset or liability is vested subsequent to the dissolution. (2) Notwithstanding subsection ( l ) , i n the absence of such trustee or trustees as are referred to in subsection (1) any property vested in such body corporate shall vest in the Amanah Raya Berhad, a body corporate established under the Public Trust Corporation Act 1995 [Act 532], in trust for the body or association of persons by whom the trustee or trustees who had been incorporated as the body corporate before its dissolution was appointed, until the appointment by the body or association of persons of a new trustee or trustees; and upon such appointment the property shall be transferred to and vest in such trustee or trustees. Appointment of Registrar, Deputy Registrars and Assistant Registrars 20. (1) The Minister may appoint a Registrar and such number of Deputy Registrars and Assistant Registrars as he may consider necessary for the purposes of this Act. Pemegang Amanah (Pemerbadanan) (Pindaan) 7 (2) The Registrar, Deputy Registrars and Assistant Registrars shall perform such functions as may be specified by the Minister in writing for the purpose of giving effect to and carrying out the provisions of this Act. (3) The Registrar, Deputy Registrars and Assistant Registrars shall be deemed to be public servants for the purposes of the Penal Code [Act 574]. (4) Nothing done or omitted to be done by the Registrar, Deputy Registrars and Assistant Registrars shall, if done or omitted to be done in good faith for the purpose of executing the provisions of this Act, subject any of them to any action, liability, claim or demand. Regulations 21. ( 1 ) The Minister may make such regulations as are necessary or expedient to give full effect to or for carrying out the provisions of this Act. (2) In particular and without prejudice to the generality of subsection (1), regulations may be made for prescribing— (a) the manner of making applications to register a trustee or trustees as a body corporate; (b) the procedure to be followed in registering a trustee or trustees as a body corporate; (c) the information to be furnished to the Minister; and (d) the fees which can be imposed and collected for the purposes of this Act.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pemegang Amanah (Pemerbadanan) (Pindaan) 2004."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pemegang Amanah (Pemerbadanan) 1952 [Akta 258], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 1 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan \", definition\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"West\" dengan perkataan \"Peninsular\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3). Pindaan am"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan perkataan \"corporate body\" di mana-mana jua terdapat dengan perkataan \"body corporate\". Seksyen baru 1A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 1 seksyen yang berikut: \"Interpretation 1A. In this Act, unless the context otherwise requires — \"certificate of incorporation\" means the certificate of registration of a trustee or trustees as a body corporate that may be granted under section 2.\". Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) The Minister may refuse to grant a certificate of incorporation under this Act if he is not satisfied that the application has complied with the provisions of this Act or the regulations made under this Act.\". Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda dalam subseksyen (2) dengan menggantikan perkataan \"five years\" dengan perkataan \"one year\". Seksyen baru 6A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut: \"Disqualification of trustees 6A. Where a certificate of incorporation has been granted under this Act in respect of a trustee or trustees, a person shall be disqualified from being, and shall not become or remain, such trustee or one of such trustees if— (a) he has been convicted of any offence under any law and sentenced to a fine of not less than one thousand ringgit or to imprisonment for a term of not less than one year or to both; (b) there has been made and is in force against him any order of detention, supervision, restricted residence, banishment or deportation, or if there has been imposed on him any form of restriction or supervision, by bond or otherwise, under any law relating to the security of Malaysia or any part thereof, the prevention of crime, preventive detention, restricted residence, banishment or immigration; (c) he is an undischarged bankrupt; or (d) he is, or has been found or declared to be, of unsound mind.\". Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda dengan memasukkan selepas perkataan \"so granted shall\" perkataan \"until and unless it is revoked\". Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2004/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda dengan menggantikan perkataan \"ten\" dengan perkataan \"thirty\". Pindaan seksyen 15"
+      }
+    }
+  ]
+}

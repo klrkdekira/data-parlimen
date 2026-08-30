@@ -1,0 +1,336 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-31-2018",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_15"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Eksais (Pindaan) 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 76 Akta ibu dipinda dengan menggantikan perkataan “lima” dengan perkataan “lima puluh”. Pindaan seksyen 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 77 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “menyerang atau menghalang” dengan perkataan “menyerang, menghalang, menggalang, mengugut atau mencabul”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “sewajarnya” perkataan “atau mana-mana orang yang telah ditahan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (i), dengan menggantikan perkataan “selama tempoh tidak lebih daripada tiga tahun atau denda tidak lebih daripada sepuluh ribu ringgit” dengan perkataan “selama tempoh tidak melebihi lima tahun atau denda tidak melebihi lima ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (ii), dengan menggantikan perkataan “selama tempoh tidak lebih daripada lima tahun atau denda tidak lebih daripada dua puluh ribu ringgit” dengan perkataan “selama tempoh tidak melebihi tujuh tahun atau denda tidak melebihi satu juta ringgit”. Pindaan seksyen 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 78(1) Akta ibu dipinda dengan menggantikan perkataan “denda tidak melebihi sepuluh ribu ringgit” dengan perkataan “denda tidak melebihi lima ratus ribu ringgit”. Pindaan seksyen 79"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 79 Akta ibu dipinda dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”. Seksyen baharu 82a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 82 seksyen yang berikut: “Duti eksais, dsb., hendaklah kena dibayar walau apa pun apa-apa prosiding, dsb. 82a. Permulaan prosiding atau pengenaan suatu penalti, denda atau tempoh pemenjaraan di bawah Akta ini, atau pengkompaunan suatu kesalahan di bawah seksyen 69, tidak melepaskan mana-mana orang daripada tanggungan untuk membayar duti eksais, penalti atau surcaj di bawah Akta ini.”. Pindaan seksyen 85"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 85(2) Akta ibu dipinda dengan memasukkan selepas perenggan (bc) perenggan yang berikut: “(bd) menentukan nilai bagi maksud pungutan duti eksais;”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Eksais (Pindaan) 2018."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Eksais 1976 [Akta 176], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 2(1) dalam takrif “nilai” dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) berhubung dengan barang-barang yang dikilangkan secara tempatan, nilai ditentukan di bawah perenggan 85(2)(bd);”. Pindaan seksyen 5b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 5b(3)(c) Akta ibu dipinda dengan memasukkan sebelum perkataan “suatu rayuan” perkataan “suatu kajian semula atau”. Penggantian seksyen 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 47 dengan seksyen berikut: “Kajian semula dan rayuan terhadap keputusan Ketua Pengarah 47. (1) Tertakluk kepada subseksyen (4), mana-mana orang yang terkilan dengan apa-apa keputusan Ketua Pengarah boleh memohon kepada Ketua Pengarah untuk mengkaji semula mana-mana keputusannya dalam masa tiga puluh hari dari tarikh orang itu diberitahu tentang keputusan itu dengan syarat bahawa tiada rayuan telah dibuat ke atas keputusan yang sama kepada Tribunal atau Mahkamah Tinggi. (2) Permohonan di bawah subseksyen (1) hendaklah dibuat dalam borang yang ditetapkan. (3) Jika suatu permohonan bagi kajian semula telah dibuat di bawah subseksyen (1), Ketua Pengarah hendaklah, jika boleh dilaksanakan dalam masa enam puluh hari dari tarikh permohonan itu diterima, menjalankan kajian semula dan memberitahu keputusan kajian semula itu kepada orang itu. (4) Tiada kajian semula boleh dibuat dalam apa-apa perkara yang berhubungan dengan kompaun atau subseksyen 67(3). (5) Mana-mana orang yang terkilan dengan apa-apa keputusan Ketua Pengarah di bawah subseksyen (3) atau mana-mana peruntukan lain Akta ini, kecuali apa-apa perkara yang berhubungan dengan kompaun atau subseksyen 67(3), boleh merayu kepada Tribunal dalam masa tiga puluh hari dari tarikh pemberitahuan secara bertulis mengenai keputusan itu kepada orang yang terkilan itu. (6) Apa-apa duti eksais yang kena dibayar di bawah Akta ini hendaklah dibayar pada tarikh genap masa walau apa pun apa-apa kajian semula atau rayuan telah dibuat di bawah seksyen ini. (7) Semua peruntukan yang berhubungan dengan Tribunal Rayuan Kastam hendaklah terpakai bagi Akta ini.”. Penggantian seksyen 50a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 50a dengan seksyen yang berikut: “Kuasa penguatkuasaan, penyiasatan dan pemeriksaan 50a. Bagi maksud Akta ini, seorang pegawai kanan eksais hendaklah mempunyai segala kuasa seorang pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593] berhubung dengan penguatkuasaan, penyiasatan dan pemeriksaan, dan kuasa yang sedemikian hendaklah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan tidak mengurangkan kuasanya.”. Seksyen baharu 59a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 59 seksyen yang berikut: “Perintah mahkamah 59a. (1) Jika mana-mana orang didapati bersalah atas suatu kesalahan di bawah Akta ini, mahkamah yang di hadapannya orang itu didapati bersalah hendaklah memerintahkan orang itu supaya membayar kepada Ketua Pengarah amaun duti eksais yang genap masa dan kena dibayar atau penalti yang kena dibayar di bawah Akta ini, jika ada, sebagaimana yang diperakukan oleh Ketua Pengarah dan duti eksais atau penalti itu boleh didapatkan mengikut cara yang sama sebagaimana yang diperuntukkan di bawah seksyen 283 Kanun Tatacara Jenayah. (2) Bagi maksud subseksyen (1), mahkamah mempunyai bidang kuasa sivil setakat amaun duti eksais yang genap masa dan kena dibayar, dan perintah itu boleh dikuatkuasakan dalam semua keadaan sebagai suatu penghakiman muktamad mahkamah yang memihak kepada Ketua Pengarah. (3) Jika mana-mana orang didapati tidak bersalah atas suatu kesalahan di bawah Akta ini telah membayar amaun duti eksais yang genap masa dan kena dibayar atau penalti yang kena dibayar menurut seksyen 82a berkenaan dengan kesalahan yang dipertuduh, mahkamah boleh memerintahkan supaya amaun yang telah dibayar itu dibayar balik kepada orang itu jika tiada notis rayuan difailkan.”. Pindaan seksyen 71"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 71 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut: “(c) melancung atau menyebabkan dilancungkan atau memalsukan atau menyebabkan dipalsukan apa-apa dokumen yang dikehendaki atau mungkin dikehendaki di bawah Akta ini atau digunakan dalam transaksi apa-apa urusan atau perkara yang berhubungan dengan eksais, atau menggunakan atau menyebabkan digunakan atau dalam apa-apa cara membantu dalam penggunaan dokumen yang dilancungkan atau dipalsukan itu;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “boleh, apabila disabitkan,” dengan perkataan “melakukan kesalahan dan boleh, apabila disabitkan,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “lima tahun” dengan perkataan “tujuh tahun”. Pindaan seksyen 73"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 73(1) Akta ibu dipinda dengan menggantikan perkataan “tidak lebih daripada enam bulan atau denda tidak lebih daripada dua ribu ringgit atau penjara dan denda itu kedua-duanya” dengan perkataan “tidak melebihi lima tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya”. Pindaan seksyen 74"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 74(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (i) dengan subperenggan yang berikut: “(i) dalam hal barang-barang yang dikilangkan secara tempatan selain rokok yang mengandungi tembakau dan liquor yang memabukkan— (A) bagi kesalahan pertama, denda tidak kurang daripada sepuluh kali amaun duti eksais atau lima puluh ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada dua puluh kali amaun duti eksais atau lima ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya; dan (B) bagi kesalahan kedua atau apa-apa kesalahan yang berikutnya, denda tidak kurang daripada dua puluh kali amaun duti eksais atau satu ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada empat puluh kali amaun duti eksais atau satu juta ringgit, mengikut mana-mana amaun yang lebih besar, atau pemenjaraan selama tempoh tidak melebihi tujuh tahun atau kedua-duanya: Dengan syarat bahawa apabila tiada duti eksais terlibat atau amaun duti eksais tidak dapat ditentukan, penalti itu boleh merupakan denda tidak melebihi lima ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (ii) dengan subperenggan yang berikut: “(ii) dalam hal barang-barang yang diimport selain rokok yang mengandungi tembakau dan liquor yang memabukkan— (A) bagi kesalahan pertama, denda tidak kurang daripada sepuluh kali amaun duti eksais atau lima puluh ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada dua puluh kali amaun duti eksais atau lima ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, atau pemenjaraan selama tempoh tidak melebihi lima tahun, atau kedua-duanya; dan (B) bagi kesalahan kedua atau mana-mana kesalahan yang berikutnya, denda tidak kurang daripada dua puluh kali amaun duti eksais atau satu ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada empat puluh kali amaun duti eksais atau satu juta ringgit, mengikut mana-mana amaun yang lebih besar, atau pemenjaraan selama tempoh tidak melebihi tujuh tahun, atau kedua-duanya: Dengan syarat bahawa jika amaun duti eksais itu tidak dapat ditentukan, penalti itu boleh merupakan denda tidak melebihi lima ratus ribu ringgit atau pemenjaraan selama tempoh tidak melebihi lima tahun atau kedua-duanya;” dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/31/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas proviso kepada subperenggan (ii) subperenggan yang berikut: “(iii) dalam hal rokok yang mengandungi tembakau atau liquor yang memabukkan yang dikilangkan secara tempatan— (A) bagi kesalahan pertama, denda tidak kurang daripada sepuluh kali amaun duti eksais atau satu ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada dua puluh kali amaun duti eksais atau lima ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, atau pemenjaraan selama tempoh tidak kurang daripada enam bulan dan tidak melebihi lima tahun atau kedua-duanya, dan hendaklah dihukum dengan sebatan tidak melebihi tiga sebatan; dan (B) bagi kesalahan kedua atau mana-mana kesalahan yang berikutnya, denda tidak kurang daripada dua puluh kali amaun duti eksais atau dua ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada empat puluh kali amaun duti eksais atau satu juta ringgit, mengikut mana-mana amaun yang lebih besar, atau pemenjaraan selama tempoh tidak kurang daripada enam bulan dan tidak melebihi lima tahun atau kedua-duanya, dan hendaklah dihukum dengan sebatan tidak melebihi tiga sebatan; dan (iv) dalam hal rokok yang mengandungi tembakau atau liquor yang memabukkan yang diimport— (A) bagi kesalahan pertama, denda tidak kurang daripada sepuluh kali amaun duti eksais atau satu ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada dua puluh kali amaun duti eksais atau lima ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, atau pemenjaraan selama tempoh tidak kurang daripada enam bulan dan tidak melebihi lima tahun atau kedua-duanya, dan hendaklah dihukum dengan sebatan tidak melebihi tiga sebatan; dan (B) bagi kesalahan kedua atau mana-mana kesalahan yang berikutnya, denda tidak kurang daripada dua puluh kali amaun duti eksais atau dua ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada empat puluh kali amaun duti eksais atau satu juta ringgit, mengikut mana-mana amaun yang lebih besar, atau pemenjaraan selama tempoh tidak kurang daripada enam bulan dan tidak melebihi lima tahun, atau kedua-duanya, dan hendaklah dihukum dengan sebatan tidak melebihi tiga sebatan.”. Pindaan seksyen 76"
+      }
+    }
+  ]
+}

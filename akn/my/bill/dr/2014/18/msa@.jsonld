@@ -1,0 +1,152 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-18-2014",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-undang Perkongsian Liabiliti Terhad (Pindaan) 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perkongsian Liabiliti Terhad (Pindaan) 2014."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perkongsian Liabiliti Terhad 2012 [Akta 743], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “Pendaftar” dengan takrif yang berikut: ‘ “Pendaftar” ertinya Pendaftar yang ditetapkan di bawah subseksyen 20a(1) Akta Suruhanjaya Syarikat Malaysia 2001 [Akta 614];’. Pemotongan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 5. Penggantian seksyen 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 48 dengan seksyen yang berikut: “Pelikuidasian atau pembubaran perkongsian liabiliti terhad asing di tempat permerbadanan, penubuhan atau tempat asal 48. (1) Jika suatu perkongsian liabiliti terhad asing dilikuidasikan atau dibubarkan di tempat pemerbadanannya, penubuhannya atau di tempat asalnya, setiap orang yang merupakan pegawai pematuhan sebaik sebelum permulaan prosiding pelikuidasian hendaklah, dalam masa satu bulan selepas permulaan pelikuidasian atau pembubaran atau dalam apa-apa tempoh lanjutan yang dibenarkan oleh Pendaftar dalam hal keadaan khas, menyerah simpan atau menyebabkan supaya diserah simpan dengan Pendaftar— (a) suatu notis mengenai pelikuidasian atau pembubaran itu; dan (b) jika seorang pelikuidasi asing dilantik bagi perkongsian liabiliti terhad asing itu di tempat pemerbadanannya, penubuhannya atau di tempat asalnya, suatu notis mengenai pelantikan itu. (2) Seorang pelikuidasi asing yang dilantik di bawah perenggan (1)(b) hendaklah mempunyai kuasa dan fungsi seorang pelikuidasi yang diluluskan sehingga seorang pelikuidasi yang diluluskan bagi perkongsian liabiliti terhad asing itu di Malaysia dilantik dengan sewajarnya oleh Mahkamah. (3) Seorang pelikuidasi yang diluluskan bagi suatu perkongsian liabiliti terhad asing di Malaysia yang dilantik oleh Mahkamah atau seseorang yang menjalankan kuasa dan fungsi pelikuidasi itu— (a) hendaklah, sebelum apa-apa pembahagian aset perkongsian liabiliti terhad asing itu dibuat, melalui iklan dalam suatu surat khabar yang diedarkan secara meluas di setiap negara di mana perkongsian liabiliti terhad asing itu menjalankan perniagaan sebelum pelikuidasian jika tiada pelikuidasi dilantik bagi tempat itu, mempelawa semua pemiutang untuk membuat tuntutan mereka terhadap perkongsian liabiliti terhad asing itu dalam masa yang munasabah sebelum pembahagian itu; (b) tidak boleh membayar mana-mana pemiutang sehingga mengetepikan mana-mana pemiutang lain bagi perkongsian liabiliti terhad asing itu tanpa memperoleh suatu perintah Mahkamah kecuali sebagaimana yang diperuntukkan selainnya dalam subseksyen (7); dan (c) hendaklah, melainkan jika diperintahkan selainnya oleh Mahkamah— (i) hanya mendapatkan dan merealisasikan aset perkongsian liabiliti terhad asing itu di Malaysia; dan (ii) tertakluk kepada subseksyen (7), membayar amaun bersih yang didapatkan dan direalisasikan sedemikian kepada pelikuidasi perkongsian liabiliti terhad asing itu bagi tempat di mana ia ditubuhkan atau diperbadankan selepas membayar apa-apa hutang dan menyelesaikan apa-apa liabiliti yang dilakukan di Malaysia oleh perkongsian liabiliti terhad asing. (4) Jika sesuatu perkongsian liabiliti terhad asing telah digulung, setakat yang berkenaan dengan asetnya di Malaysia dan tiada pelikuidasi bagi tempat perkongsian liabiliti terhad itu diperbadankan atau tempat asalnya, pelikuidasi boleh memohon kepada Mahkamah bagi arahan mengenai pelupusan amaun bersih yang didapatkan menurut subseksyen (3). (5) Apabila diterima suatu notis daripada pegawai pematuhan bahawa perkongsian liabiliti terhad asing itu telah dibubarkan, Pendaftar hendaklah mengeluarkan nama perkongsian liabiliti terhad asing itu daripada daftar. (6) Jika Pendaftar mempunyai sebab yang munasabah untuk mempercayai bahawa sesuatu perkongsian liabiliti terhad asing berhenti menjalankan perniagaan atau mempunyai tempat perniagaan di Malaysia, peruntukan Akta ini yang berhubungan dengan pemotongan nama di bawah seksyen 51 hendaklah terpakai dengan sewajarnya dengan apa-apa pengubahsuaian yang perlu. (7) Sebelum membayar atau memindahkan hakmilik apa-apa harta yang ada di Malaysia kepada pelikuidasi asing yang disebut dalam subseksyen (1), pelikuidasi yang diluluskan bagi perkongsian liabiliti terhad asing itu di Malaysia hendaklah membuat bayaran mengikut susunan yang berikut: (a) pertama, saraan bagi pelikuidasi yang diluluskan bagi perkongsian liabiliti terhad asing itu di Malaysia; (b) kedua, semua penalti, kos, fi dan caj yang kena dibayar dan terhutang kepada Pendaftar; (c) ketiga, semua upah dan gaji bagi mana-mana pekerja perkongsian liabiliti terhad asing itu, pada masa pelantikan pelikuidasi yang diluluskan itu, suatu jumlah yang tidak melebihi lima belas ribu ringgit; (d) keempat, semua amaun yang berkenaan dengan pampasan pekerja, skim persaraan atau kumpulan wang simpanan pekerja, atau sumbangan keselamatan sosial di bawah mana-mana undang-undang bertulis yang berhubungan dengan pampasan pekerja, skim persaraan atau kumpulan wang simpanan pekerja, atau sumbangan keselamatan sosial yang terakru sebelum pelantikan pelikuidasi yang diluluskan itu; (e) kelima, semua saraan yang kena dibayar kepada mana- mana pekerja berkenaan dengan cuti rehat atau dalam hal kematiannya kepada mana-mana orang lain yang berhak, yang terakru berkenaan dengan apa-apa tempoh sebelum pelantikan pelikuidasi yang diluluskan itu; dan (f) keenam, amaun yang kena dibayar bagi semua cukai persekutuan yang ditaksirkan di bawah mana-mana undang-undang bertulis. (8) Penalti, kos, fi, caj, cukai dan hutang yang disebut dalam subseksyen (7) hendaklah menjadi suatu tanggungan ke atas harta perkongsian liabiliti terhad asing itu sebagai keutamaan kepada semua tanggungan dan tuntutan yang lain. (9) Perkongsian liabiliti terhad asing itu hendaklah disifatkan terus wujud di Malaysia sehinggalah penggulungan hal ehwalnya di Malaysia selesai.”. Pemotongan Bahagian VIII, dan seksyen 77, 78, 82, 83, 84, 85, 87, 88 dan 89"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Bahagian Viii, dan seksyen 77, 78, 82, 83, 84, 85, 87, 88 dan 89. Pindaan seksyen 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam seksyen 91 dengan memotong perenggan (1)(a). Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa perbuatan, perkara atau prosiding, sama ada sivil atau jenayah, rayuan, penyiasatan atau pemeriksaan yang belum selesai atau sedia ada di bawah seksyen yang dipotong sebaik sebelum permulaan kuat kuasa Akta ini, hendaklah diteruskan di bawah Akta ibu seolah-olah Akta ibu tidak dipinda."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana peruntukan dalam perundangan subsidiari yang dibuat di bawah perenggan 91(1)(a) Akta ibu yang dipotong hendaklah terus berkuat kuasa sehingga dibatalkan atau digantikan dengan perundangan subsidiari yang dibuat di bawah Akta Suruhanjaya Syarikat Malaysia 2001 [Akta 614]."
+      }
+    }
+  ]
+}

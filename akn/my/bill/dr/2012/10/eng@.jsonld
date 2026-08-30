@@ -1,0 +1,119 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-10-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Educational Institutions (Discipline) (Amendment) Bill 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Educational Institutions (Discipline) (Amendment) Act 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Educational Institutions (Discipline) Act 1976 [Act 174], which is referred to as the “principal Act” in this Act, is amended in section 2 by deleting the definition of “Campus”. Substitution of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 10 the following section: “Activities of students or students’ society, organization, body or group 10. (1) Subject to subsection (2), a student of an Institution may become a member of any society, organization, body or group of persons, whether in or outside Malaysia, including any political party. (2) A student of the Institution shall not— (a) become a member of any unlawful society, organization, body or group of persons, whether in or outside Malaysia; (b) become a member of any society, organization, body or group of persons, not being a political party, which the Minister, after consultation with the Executive Head, determines and specifies in writing to the Executive Head to be unsuitable to the interests and well-being of the students or the Institution; (c) stand for election to or hold any post in any society, organization, body or group of students in the campus if the student holds any post in a political party; or (d) be involved in political party activities within the campus. (3) A student of the Institution and any society, organization, body or group of students of the Institution which is established by, under or in accordance with the Constitution, shall not express or do anything which may reasonably be construed as expressing support for or sympathy with or opposition to— (a) any unlawful society, organization, body or group of persons, whether in or outside Malaysia; or (b) any society, organization, body or group of persons which the Minister, after consultation with the Executive Head, determines and specifies in writing to the Executive Head to be unsuitable to the interests and well-being of the students or the Institution. (4) Notwithstanding subsection (3), a student of the Institution shall not be prevented from— (a) making a statement on an academic matter which relates to a subject on which he is engaged in study or research; or (b) expressing himself on the subject referred to in paragraph (a) at a seminar, symposium or similar occasion that is not organized or sponsored by any unlawful society, organization, body or group of persons, whether in or outside Malaysia, or any society, organization, body or group of persons determined by the Minister under paragraph (3)(b) to be unsuitable to the interests and well-being of the students or the Institution. (5) The Institution shall regulate the activities of students and a society, an organization, a body or group of students of the Institution within the campus.”. Savings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All disciplinary actions which are pending under subsection 10(7) of the principal Act in relation to matters referred to in paragraphs 10(1)(a) and 10(5)(a) of the principal Act against any student of the Institution shall, on the date of coming into operation of this Act, be discontinued."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/10/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All actions which are pending under section 9 of the Act in relation to matters referred to in paragraph 10(5)(a) of the principal Act against any organization, body or group of students of the Institution shall, on the date of coming into operation of this Act, be discontinued."
+      }
+    }
+  ]
+}

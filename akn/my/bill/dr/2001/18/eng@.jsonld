@@ -1,0 +1,417 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-18-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Employees Provident Fund (Amendment) Bill 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Employees Provident Fund (Amendment) Act 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 5(b) and sections 8 and 9 shall be deemed to have come into operation on 1 July 2000."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraphs 5(a) and (e) and sections 6 and 7 shall be deemed to have come into operation on 1 January 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 3 and 4 and paragraphs 5(c), (d) and (f) shall come into operation on a date to be appointed by the Minister by notification in the Gazette, Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Employees Provident Fund Act 1991 [Act 452], which is referred to as the \"principal Act\" in this Act, is amended in section 2, in the definition of \"employee\", by substituting for the word \"and\" appearing after the words \"First Schedule,\" the word \"who\". Amendment of section 26B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 26B of the principal Act is amended by substituting for subsection (3) the following subsection: \"(3) For the purpose of this section, securities issued by the Government of Malaysia shall include— (a) loans which are fully guaranteed by the Government of Malaysia; (b) negotiable securities or instruments which are fully guaranteed by the Government of Malaysia including negotiable securities or instruments issued by a corporation fully owned by the Government of Malaysia; (c) Bank Negara Malaysia papers; (d) negotiable securities or instruments which are fully guaranteed by Bank Negara Malaysia including negotiable securities or instruments issued by a corporation which is fully owned by Bank Negara Malaysia; (e) any commercial instrument (with elements of negotiability) issued by a State Government or a local authority with a maturity period of at least three years from the date of issue; and (f) any deposit in advance subscription account in Bank Negara Malaysia under section 26(1)(a)(i).\". Substitution of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 44 the following section: \" Remit- 44. (1) In addition to section 43, an employer or any tance of other person may at any time, with the consent of the funds in connection employee, remit to the Board— with retirement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any funds being retirement benefits of the employee; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any funds from any other retirement scheme or plan relating to the employee, in any manner as may be prescribed by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An employee or any other person may at any time remit to the Board any funds from any retirement scheme or plan relating to the employee or person in any manner as may be prescribed by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon the Board receiving the funds as remitted under subsection (1) or (2), the Board shall cause the funds to be paid into the Fund in accordance with section 50.\". Amendment of section 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 54 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_a__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting the word \"or\" at the end of paragraph (c); and (ii) by deleting paragraph (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the word \"55A\" wherever it appears the word \"58B\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: \"(4) Notwithstanding subsection (3), a member of the Fund who, before 1 August 1995, has made a withdrawal of all sums of money standing to his credit in the Fund on the grounds that he is about to leave Malaysia with no intention of returning to Malaysia or with the intention of residing in the Republic of Singapore shall be treated as an employee under this Act if he has given to the Board and his employer a notice in such manner as may be prescribed by the Board of his intention to contribute to the Fund.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (4) the following subsection: \"(4A) Subsection (5) shall not apply to a member of the Fund mentioned in subsection (4).\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6)— \"(ba) the member of the Fund has sold the house that was purchased or built using a withdrawal under paragraph (b) and subsequently has purchased or built another house;\"; \"(da) the member of the Fund has sold the house charged as security for the loan under paragraph (d) and has subsequently purchased or built another house and has taken another loan and the new house has been charged as security for the other loan;\"; \"(g) the member of the Fund requires financing for higher learning for himself or for his child;\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (d) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (g) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h), by substituting for the words \"a child of his who has attained the age of ten years or above\" the word \"himself; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsection: \"(7) Notwithstanding section 54(6), the Minister may, if he thinks it expedient and after consulting the Board, by order published in the Gazette, add to, vary or modify the purposes for which a member of the Fund may make a withdrawal under subsection (6).\". New section 54c the following section:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 54B \" Withdrawal 54c. (1) Subject to section 56, the Board may authorize by a member of the Fund who is a pensionable employee pensionable employees. and who has not attained the age of fifty-five years and is still employed with the Government of Malaysia, any State Government or any statutory or local authority to withdraw all sums of money standing to his credit upon such terms and conditions as may be prescribed by the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), the Board may authorize a member of the Fund who is a pensionable employee and who has not attained the age of fifty-five years to withdraw all or part of the sums of money standing to his credit upon any terms and conditions as may be prescribed by the Board if the Board is satisfied that the member of the Fund has been required to retire or has opted for retirement under sections 10, 11, 12 and 12A Act 227 of the Pensions Act 1980 or sections 10, 11, 12 and 13 Act 239. of the Statutory and Local Authorities Pensions Act 1980."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When a member of the Fund has made a withdrawal under subsection (1) or (2), the member of the Fund shall not be treated as an employee under this Act unless the member of the Fund has not attained the age of fifty-five years and is employed by an employer other than the Government of Malaysia, any State Government or any statutory or local authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of subsection (2), \"part of the sums of money standing to his credit\" means the amount of money standing to the credit of the member of the Fund up to the date when the written notification of the member's retirement received by the Board under section 56 comes into effect.\". Amendment of section 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_7__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 56(2) of the principal Act is amended by substituting for the words \"section 54(1 )(d)\" the words \"section 54c(1) and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "\". Amendment of Part VIA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Part VIA of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering section 55A as section 58B; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection 58B(3), by substituting for the words \"Section 55A\" the words \"This section\". Amendment of section 70E"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 70E of the principal Act is amended by substituting for the words \"55A and 58\" the words \"58 and 58B\"."
+      }
+    }
+  ]
+}

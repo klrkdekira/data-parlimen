@@ -170,8 +170,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2__para_e",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2__para_f",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2__para_g",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2__para_h",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2__para_i"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2__para_h"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@",
       "schema:text": {
@@ -256,17 +255,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting before the definition of \"authorized officer\" the following definition: \" \"appointed date\" has the same meaning as is assigned to that expression in the Intellectual Act Property Corporation of Malaysia Act 2001;'; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2__para_i",
-      "@type": "akn:paragraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/30/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "by inserting after the definition of \"Court\" the following definition: ' \" Deputy Registrar\" means the person appointed or deemed to have been appointed to be a Deputy Registrar under subsection (2) or (3) of section 8;'. Deletion of Part II"
+        "@value": "by inserting before the definition of \"authorized officer\" the following definition: \" \"appointed date\" has the same meaning as is assigned to that expression in the Intellectual Act Property Corporation of Malaysia Act 2001;'; and (i) by inserting after the definition of \"Court\" the following definition: ' \" Deputy Registrar\" means the person appointed or deemed to have been appointed to be a Deputy Registrar under subsection (2) or (3) of section 8;'. Deletion of Part II"
       }
     },
     {

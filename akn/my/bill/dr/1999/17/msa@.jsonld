@@ -1,0 +1,134 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-1999",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Badan Berkanun (Kuasa Meminjam) 1999"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Badan Berkanun (Kuasa Meminjam) 1999. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"badan berkanun\" ertinya mana-mana pertubuhan yang ditubuhkan oleh undang-undang persekutuan; \"Menteri\", berhubung dengan sesuatu badan berkanun, ertinya Menteri yang pada masa ini bertanggungjawab bagi badan berkanun itu; \"perbadanan\" ertinya sesuatu perbadanan yang ditubuhkan oleh suatu badan berkanun menurut kuasa yang diberikan kepada badan berkanun itu di bawah undang-undang persekutuan yang menubuhkan badan berkanun itu; \"syarikat\" ertinya sesuatu syarikat yang diperbadankan di bawah subseksyen 4(1) Akta Syarikat 1965 [Akta 125] oleh suatu badan berkanun menurut kuasa yang diberikan kepada badan berkanun itu di bawah undang-undang persekutuan yang menubuhkan badan berkanun itu. Rang Undang-Undang Pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah terpakai bagi semua badan berkanun dan semua syarikat dan perbadanan yang ditubuhkan oleh badan berkanun itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan Akta ini hendaklah dibaca bersama dan ditafsirkan sebagai satu dengan peruntukan undang-undang persekutuan yang menubuhkan badan berkanun itu atau perbadanannya. Percanggahan atau ketidakselarasan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya ada apa-apa percanggahan atau ketidakselarasan antara peruntukan Akta ini dengan peruntukan undang-undang persekutuan yang menubuhkan badan berkanun itu atau perbadanannya, maka peruntukan Akta ini hendaklah menggantikan peruntukan yang bercanggah atau tidak selaras dalam undang- undang persekutuan itu setakat percanggahan atau ketidakselarasan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan mana-mana undang-undang persekutuan yang selaras atau tidak bercanggah dengan peruntukan Akta ini hendaklah terus terpakai. Kelulusan Menteri dan Menteri Kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu badan berkanun atau sesuatu syarikat atau perbadanan yang ditubuhkan oleh suatu badan berkanun tidak boleh meminjam wang tanpa terlebih dahulu mendapat kelulusan Menteri dan Menteri Kewangan."
+      }
+    }
+  ]
+}

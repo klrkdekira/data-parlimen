@@ -1,0 +1,259 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-25-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Bantuan Guaman (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 32(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (ca), dengan memotong perkataan “dan” di hujung perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (ca) perenggan yang berikut: “(cb) untuk mengawal selia amalan dan tatacara khidmat pendamping guaman; dan”. Jadual baharu Kelima"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Keempat Jadual yang berikut: “Jadual Kelima [Subseksyen 29g(1)] PERIHAL KESALAHAN YANG BERKENAAN DENGANNYA KHIDMAT PENDAMPING GUAMAN BOLEH DIBERIKAN Semua kesalahan seksual terhadap kanak-kanak yang diperuntukkan dalam mana-mana undang-undang bertulis.”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana permohonan yang telah dibuat atau tindakan yang dimulakan di bawah Akta ibu yang belum selesai sebelum mula berkuatkuasanya Akta ini hendaklah terus menjadi sah dan hendaklah diuruskan di bawah Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Bantuan Guaman (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Bantuan Guaman 1971 [Akta 26], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum takrif “hakim” takrif yang berikut: ‘ “bantuan guaman” ertinya khidmat bantuan guaman sebagaimana yang diperuntukkan dalam seksyen 2a;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “hakim” takrif yang berikut: ‘ “kanak-kanak” mempunyai erti yang diberikan kepadanya dalam Akta Kanak-Kanak 2001 [Akta 611];’. Bahagian baharu Ia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian I Bahagian yang berikut: “Bahagian ia KHIDMAT BANTUAN GUAMAN Khidmat bantuan guaman 2a. (1) Khidmat bantuan guaman yang diberikan di bawah Akta ini hendaklah terdiri daripada yang berikut: (a) bantuan guaman dalam kes jenayah sebagaimana yang diperuntukkan dalam Bahagian III; (b) bantuan guaman dalam tindakan sivil sebagaimana yang diperuntukkan dalam Bahagian IV; (c) nasihat guaman sebagaimana yang diperuntukkan dalam Bahagian V; (d) khidmat pengantaraan sebagaimana yang diperuntukkan dalam Bahagian Va; dan (e) khidmat pendamping guaman sebagaimana yang diperuntukkan dalam Bahagian VB. (2) Khidmat bantuan guaman yang disebut dalam subseksyen (1) boleh diberi kepada warganegara Malaysia sahaja. Fi pendaftaran 2b. (1) Mana-mana orang yang telah layak bagi bantuan guaman di bawah Akta ini adalah dikehendaki untuk membayar kepada Ketua Pengarah Bantuan Guaman fi pendaftaran sebagaimana yang ditetapkan oleh Menteri. (2) Fi pendaftaran yang dibayar di bawah subseksyen (1) hendaklah dibelanjakan bagi maksud mentadbir khidmat bantuan guaman.”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda dengan menggantikan perenggan 15(2)(b) dengan perenggan yang berikut: “(b) dia berpuas hati bahawa pemohon itu memenuhi kriteria dan ujian kemampuan sebagaimana yang ditetapkan oleh Menteri.”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda dengan menggantikan perenggan 16(1)(b) dengan perenggan yang berikut: “(b) dia berpuas hati bahawa pemohon itu memenuhi kriteria dan ujian kemampuan sebagaimana yang ditetapkan oleh Menteri.”. Pemotongan seksyen 16b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 16B. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 18(1) Akta ibu dipinda dengan menggantikan perkataan “sekali gus atau secara ansuran” dengan perkataan “bagi suatu jumlah wang sebagaimana yang ditetapkan oleh Menteri bagi maksud mentadbir khidmat bantuan guaman”. Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “orang yang bermastautin dan berada di” dengan perkataan “warganegara”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Seseorang yang meminta nasihat guaman hendaklah memohon kepada Ketua Pengarah Bantuan Guaman dan adalah dikehendaki untuk memuaskan hati Ketua Pengarah Bantuan Guaman bahawa dia tidak mampu untuk mendapatkan nasihat guaman itu mengikut cara biasa.”. Bahagian baharu Vb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian Va Bahagian yang berikut: “Bahagian VB KHIDMAT PENDAMPING GUAMAN Penyediaan khidmat pendamping guaman 29g. (1) Tertakluk kepada Bahagian ini, khidmat pendamping guaman berhubung dengan mana-mana prosiding bagi perihal kesalahan yang dinyatakan dalam Jadual Kelima boleh disediakan bagi mana-mana orang. (2) Menteri boleh melalui perintah meminda Jadual Kelima. Kelayakan bagi khidmat pendamping guaman 29h. (1) Mana-mana orang layak untuk membuat permohonan kepada Ketua Pengarah Bantuan Guaman untuk mendapatkan khidmat pendamping guaman jika— (a) dia ialah seorang kanak-kanak yang menjadi mangsa mana-mana kesalahan sebagaimana yang dinyatakan dalam Jadual Kelima; dan (b) dia masih seorang kanak-kanak pada masa prosiding dimulakan di mahkamah. (2) Ketua Pengarah Bantuan Guaman boleh memberikan suatu perakuan bantuan guaman kepada seseorang pemohon yang berhak di bawah Bahagian ini kepada khidmat pendamping guaman apabila dia berpuas hati bahawa pemohon itu telah memenuhi kehendak dalam subseksyen (1). (3) Mana-mana orang yang diberikan perakuan bantuan guaman di bawah subseksyen (2) boleh dikehendaki untuk membayar kepada Ketua Pengarah Bantuan Guaman suatu sumbangan bagi suatu jumlah wang sebagaimana yang ditetapkan oleh Menteri. (4) Sumbangan yang dibayar di bawah subseksyen (3) hendaklah dibelanjakan bagi maksud mentadbir khidmat bantuan guaman. Khidmat pendamping guaman 29I. (1) Khidmat pendamping guaman boleh diberi bagi maksud yang berikut: (a) untuk menasihati penjaga, atau pelindung orang yang dibantu yang dibenarkan di bawah mana-mana undang-undang bertulis mengenai perkara undang-undang; (b) untuk mendapatkan maklumat yang berkaitan yang berhubungan dengan pertuduhan terhadap mana-mana orang tertuduh dalam mana-mana prosiding jenayah yang orang yang dibantu merupakan mangsa; (c) untuk mendampingi orang yang dibantu dalam mana-mana prosiding di mahkamah, dan dengan kebenaran mahkamah, untuk bercakap bagi pihak orang yang dibantu, jika perlu; dan (d) untuk menasihati penjaga, atau pelindung orang yang dibantu yang dibenarkan di bawah mana-mana undang-undang bertulis mengenai apa-apa perkara yang berhubungan dengan apa-apa tindakan sivil yang boleh dibawa atau dimulakan oleh orang yang dibantu, jika ada. (2) Ketua Pengarah Bantuan Guaman boleh pada bila-bila masa memberhentikan khidmat pendamping guaman yang diberi kepada orang yang dibantu.”. Pindaan seksyen 32"
+      }
+    }
+  ]
+}

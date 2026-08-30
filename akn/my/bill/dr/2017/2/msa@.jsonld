@@ -1,0 +1,1017 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-2-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Institusi Pendidikan Tinggi Swasta (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 30 dengan seksyen yang berikut: “Perlembagaan 30. (1) Perlembagaan sesuatu institusi pendidikan tinggi swasta hendaklah mengandungi peruntukan bagi apa-apa perkara yang boleh ditetapkan. (2) Tertakluk kepada peruntukan Akta ini, tiap-tiap institusi pendidikan tinggi swasta hendaklah diuruskan dengan mengikuti perlembagaannya secara tegas. (3) Perlembagaan tidak boleh dipinda tanpa mendapat kelulusan Ketua Pendaftar terlebih dahulu. (4) Mana-mana institusi pendidikan tinggi swasta yang melanggar peruntukan seksyen ini melakukan suatu kesalahan.”. Pindaan seksyen 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Tiap-tiap institusi pendidikan tinggi swasta hendaklah mempunyai ketua eksekutif yang dilantik oleh syarikat.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “ketua eksekutif hendaklah” perkataan “memohon supaya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3)— “(f) atas apa-apa sebab lain yang difikirkan wajar oleh Ketua Pendaftar demi kepentingan orang awam atau pelajar.”; dan “(4) Tiada seorang pun boleh menjalankan tugas atau fungsi seorang ketua eksekutif di bawah Akta ini jika– (a) orang itu tidak didaftarkan sebagai ketua eksekutif; atau (b) pendaftarannya sebagai ketua eksekutif telah dikanselkan di bawah subseksyen (3) atau perenggan 37(1)(bb). (5) Mana-mana orang yang melanggar peruntukan subseksyen (4) melakukan suatu kesalahan.”. Seksyen baharu 33a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memotong perkataan “atau” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_11__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 33 seksyen yang berikut: “Kewajipan untuk menyenggara daftar 33a. (1) Tiap-tiap institusi pendidikan tinggi swasta hendaklah menyimpan dan menyenggara suatu daftar yang mengandungi maklumat mengenai– (a) pelajar; (b) orang yang telah dilantik untuk mengajar di institusi pendidikan tinggi swasta itu; (c) program yang dikendalikan atau disediakan oleh institusi pendidikan tinggi swasta itu; (d) orang yang telah diberikan ijazah peringkat kedoktoran, termasuk ijazah kedoktoran kehormat; (e) orang yang telah dilantik sebagai profesor dan termasuklah orang yang telah diberikan gelaran Profesor Emeritus; dan (f) apa-apa perkara lain yang berhubungan dengan institusi pendidikan tinggi swasta yang difikirkan perlu oleh Ketua Pendaftar. (2) Daftar yang mengandungi maklumat dalam subseksyen (1) hendaklah mengikut apa-apa bentuk dan cara yang ditentukan oleh Ketua Pendaftar dan hendaklah dijadikan boleh diakses oleh Ketua Pendaftar sebagaimana dan apabila Ketua Pendaftar menghendakinya. (3) Daftar yang mengandungi maklumat di bawah subseksyen (1) hendaklah dikemaskinikan secara berkala sebagaimana yang ditentukan oleh Ketua Pendaftar. (4) Mana-mana institusi pendidikan tinggi swasta yang melanggar peruntukan seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh yang tidak melebihi enam bulan atau kedua-duanya. (5) Mana-mana institusi pendidikan tinggi swasta yang memberikan maklumat palsu atau dengan sengaja menyembunyikan apa-apa fakta material atau memberikan apa-apa maklumat sebagaimana yang dikehendaki di bawah subseksyen (1) yang mengelirukan melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh yang tidak melebihi enam bulan atau kedua-duanya.”. Pindaan seksyen 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya.”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Tiada kursus pengajian atau program latihan boleh dikendalikan oleh institusi pendidikan tinggi swasta melainkan jika institusi pendidikan tinggi swasta itu telah didaftarkan di bawah seksyen 24.”. Pindaan seksyen 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 40 Akta ibu dipinda dengan memasukkan selepas subseksyen (1e) subseksyen yang berikut: “(1f) Ketua Pendaftar boleh menambah, meminda, membatalkan atau mengubah mana-mana syarat yang disebut dalam subseksyen (1) sebagaimana yang difikirkannya patut; (1g) Institusi pendidikan tinggi swasta boleh memohon kepada Ketua Pendaftar untuk pindaan atau pengubahan mana-mana syarat yang dinyatakan dalam subseksyen (1); dan (1h) Permohonan yang disebut dalam subseksyen (1g) boleh dibuat dalam borang yang ditetapkan dan mengikut cara yang ditetapkan.”. Seksyen baharu 40a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 40 seksyen yang berikut: “Pembaharuan kelulusan untuk mengendalikan kursus pengajian atau program latihan 40a. (1) Institusi pendidikan tinggi swasta boleh mengemukakan permohonan dalam borang yang ditetapkan dan mengikut cara yang ditetapkan kepada Ketua Pendaftar bagi pembaharuan kelulusan untuk mengendalikan kursus pengajian atau program latihan tidak lewat daripada enam bulan sebelum habis tempoh kelulusan itu. (2) Mana-mana permohonan bagi pembaharuan kelulusan untuk mengendalikan kursus pengajian atau program latihan yang tidak dibuat dalam masa yang ditetapkan dalam subseksyen (1) hendaklah tertakluk kepada suatu bayaran penalti sebagaimana yang ditentukan oleh Ketua Pendaftar. (3) Ketua Pendaftar hendaklah memperbaharui sesuatu kelulusan untuk mengendalikan kursus pengajian atau program latihan jika pemohon telah mematuhi semua syarat yang dikenakan oleh Ketua Pendaftar di bawah subseksyen 40(1). (4) Ketua Pendaftar boleh mengenakan syarat baharu atau meminda, membatalkan, mengubah atau menambah kepada mana-mana syarat yang dikenakan di bawah subseksyen 40(1) apabila memperbaharui sesuatu kelulusan untuk mengendalikan kursus pengajian atau program latihan. (5) Sesuatu pembaharuan kelulusan untuk mengendalikan kursus pengajian atau program latihan hendaklah tertakluk kepada bayaran fi yang ditetapkan.”. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 42(1) Akta ibu dipinda dengan menggantikan perkataan “perenggan 41(3)(a)” dengan perkataan “subseksyen 41(3)”. Pindaan seksyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 43 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Tertakluk kepada apa-apa syarat yang boleh dikenakan, Ketua Pendaftar boleh mengecualikan mana-mana pelajar daripada mengikuti apa-apa mata pelajaran wajib.”. Penggantian seksyen 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 44 dengan seksyen yang berikut: “Penganugerahan ijazah 44. Tiada institusi pendidikan tinggi swasta boleh menganugerahkan ijazah melainkan jika institusi pendidikan tinggi swasta itu merupakan Universiti atau Kolej Universiti atau kampus cawangan luar negeri.”. Pindaan seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Institusi Pendidikan Tinggi Swasta (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Institusi Pendidikan Tinggi Swasta 1996 [Akta 555], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 46 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Ketua eksekutif” dan “ketua eksekutif” di mana-mana jua terdapat masing- masing dengan perkataan “Pihak berkuasa disiplin” dan “pihak berkuasa disiplin”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Pihak berkuasa disiplin bagi institusi pendidikan tinggi swasta berkenaan dengan tiap-tiap pelajar institusi pendidikan tinggi swasta itu ialah ketua eksekutif.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Pihak berkuasa disiplin hendaklah mempunyai kuasa untuk mengambil apa-apa tindakan tatatertib dan mengenakan apa-apa hukuman tatatertib sebagaimana yang diperuntukkan di bawah mana-mana kaedah-kaedah tatatertib yang boleh dibuat oleh institusi pendidikan tinggi swasta.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Pihak berkuasa disiplin boleh mewakilkan fungsi, kuasa atau kewajipan tatatertibnya kepada mana- mana pekerja institusi pendidikan tinggi swasta yang bertanggungjawab bagi hal ehwal pelajar, berkenaan dengan mana-mana pelajar tertentu atau mana-mana golongan atau kategori pelajar institusi pendidikan tinggi swasta itu.”. Pindaan seksyen 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 51 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4a) Ketua Pendaftar boleh mengenakan apa-apa syarat lain sebagaimana yang difikirkannya patut semasa mengeluarkan permit di bawah subseksyen (4).”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “mata pelajaran atau mata pelajaran-mata pelajaran” dengan perkataan “bidang atau bidang-bidang pengajian”. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 54(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memotong perkataan “atau” di hujung perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: “(da) bahawa institusi pendidikan tinggi swasta itu telah gagal untuk membaharui pendaftarannya di bawah seksyen 24a; atau”. Pindaan seksyen 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 61(1) Akta ibu dipinda dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Jika sesuatu institusi pendidikan tinggi swasta menghentikan kegiatan perniagaannya menurut— (a) perenggan 59(a), perenggan 59(b), subperenggan 59(d)(ii) atau perenggan 59(e), lembaga pengarah hendaklah memastikan bahawa kehendak sebagaimana yang ditentukan oleh Ketua Pendaftar bagi penerusan pembelajaran pelajar dipatuhi dalam suatu tempoh masa sebagaimana yang ditentukan oleh Ketua Pendaftar; atau (b) perenggan 59(c) atau subperenggan 59(d)(i), lembaga pengarah hendaklah memastikan bahawa kehendak sebagaimana yang ditentukan oleh Ketua Pendaftar bagi penerusan pembelajaran pelajar dipatuhi dalam masa enam bulan sebelum penutupan sesuatu institusi pendidikan tinggi swasta itu.”. Pindaan seksyen 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 62 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Apabila perakuan pendaftaran institusi pendidikan tinggi swasta itu dipulangkan, kelulusan institusi pendidikan tinggi swasta itu hendaklah disifatkan telah dibatalkan.”. Seksyen baharu 75a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 75 seksyen yang berikut: “Obligasi untuk mematuhi 75a. Jika Akta ini menghendaki institusi pendidikan tinggi swasta untuk melakukan atau melarangnya daripada melakukan sesuatu, obligasi untuk mematuhi dikenakan ke atas syarikat yang kepadanya kelulusan telah diberikan untuk menubuhkan institusi pendidikan tinggi swasta itu.”. Pindaan seksyen 76"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 76(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memotong perkataan “atau” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan koma di hujung perenggan itu dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(d) mengeluarkan sijil, diploma atau ijazah kepada seseorang tanpa orang itu menamatkan dengan jayanya kursus pengajiannya; atau (e) menjalankan apa-apa aktiviti lain berkaitan dengan pendidikan tinggi,”. Pindaan seksyen 77"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 77 Akta ibu dipinda dengan menggantikan perkataan “seksyen 44” dengan perkataan “Akta ini”. Pindaan seksyen 78"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 78 Akta ibu dipinda dengan menggantikan perkataan “dan pendaftarannya” dengan perkataan “atau pendaftarannya atau mana-mana syarat yang dikenakan dalam pembaharuan pendaftarannya”. Pindaan seksyen 79"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 79 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memotong perkataan “atau” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan koma di hujung perenggan itu dengan perkataan “; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: “(c) orang yang, semasa membuat apa-apa permohonan,”. Penggantian seksyen 82"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “cawangan” takrif yang berikut: ‘ “dana permulaan” ertinya suatu akaun yang mengandungi sumbangan tunai yang hendaklah dipunyai oleh syarikat berhad menurut jaminan sebelum pendaftaran di bawah seksyen 24;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “institusi pendidikan tinggi swasta”, dengan menggantikan perkataan “Kolej Universiti atau kampus cawangan” dengan perkataan “Kolej Universiti atau kampus cawangan luar negeri atau Kolej”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “kampus cawangan”, dengan memotong perkataan “dan termasuklah cawangan Universiti atau Kolej Universiti luar negeri,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “kampus cawangan” takrif yang berikut: ‘ “kampus cawangan luar negeri” ertinya cawangan Universiti atau Kolej Universiti luar negeri yang ditubuhkan di bawah Akta ini;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Ketua Pendaftar” takrif yang berikut: ‘ “Kolej” ertinya institusi pendidikan tinggi swasta yang tidak bertaraf Universiti atau Kolej Universiti atau kampus cawangan luar negeri;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Kolej Universiti” dan “Universiti”, dengan memotong perkataan “, dan termasuklah institusi pendidikan tinggi swasta yang bergabung dengan Universiti atau Kolej Universiti sama ada di dalam atau di luar Malaysia, yang diberikan taraf Universiti atau Kolej Universiti”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “lembaga pengarah” takrif yang berikut: ‘ “ Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi pendidikan tinggi;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “sijil” takrif yang berikut: ‘ “struktur fi” ertinya suatu amaun bayaran terperinci yang dikenakan kepada pelajar bagi mengikuti kursus pengajian atau program latihan;’. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 82 dengan seksyen yang berikut: “Penalti am 82. Mana-mana orang yang melanggar atau tidak mematuhi mana-mana peruntukan Akta ini yang berkenaan dengannya tiada penalti diperuntukkan dengan nyata melakukan suatu kesalahan dan boleh, apabila disabitkan,— (a) dalam hal seseorang yang merupakan seorang individu, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya; atau (b) dalam hal suatu syarikat, didenda tidak melebihi lima puluh ribu ringgit.”. Pindaan seksyen 83"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 83 Akta ibu dipinda dengan menggantikan perkataan “lima ratus” dengan perkataan “satu ribu”. Pindaan seksyen 85"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 85(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (g), dengan memotong perkataan “atau” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (h), dengan menggantikan koma di hujung perenggan itu dengan perkataan “; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (h) perenggan yang berikut: “(i) ialah seorang yang berupa bertindak atas apa-apa kapasiti dalam perenggan (1)(a) hingga (h), atau dengan apa-apa cara atau sehingga apa-apa takat bertanggungjawab bagi pengurusan mana-mana hal ehwal institusi pendidikan tinggi swasta itu, atau membantu dalam pengurusan itu,”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “, sama ada ia suatu syarikat yang diperbadankan di dalam negeri atau selainnya,”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 1(c), dengan memasukkan selepas perkataan “swasta” perkataan “dan hendaklah mengandungi peruntukan bagi apa-apa perkara yang boleh ditetapkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Jika pemohon yang berjaya itu merupakan suatu syarikat berhad menurut jaminan, pemohon itu hendaklah memastikan bahawa— (a) dana permulaannya hendaklah merupakan suatu amaun sebagaimana yang ditentukan oleh Menteri; (b) sumber dana permulaannya hendaklah dizahirkan kepada dan diluluskan oleh Menteri; (c) keanggotaan lembaga pengarahnya hendaklah sebagaimana yang ditentukan oleh Menteri; dan (d) tujuan tunggal memorandum persatuan dan perkara-perkara persatuan pemohon hendaklah untuk menubuhkan dan menguruskan institusi pendidikan tinggi swasta dan hendaklah mengandungi peruntukan bagi apa-apa perkara yang boleh ditetapkan.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan menggantikan perkataan “dan 17” dengan perkataan “, 17 dan 19”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) yang dinomborkan semula itu dengan subseksyen yang berikut: “(1) Kelulusan Ketua Pendaftar hendaklah didapatkan sebelum suatu syarikat menukar atau mengubah— (a) namanya; (b) modal terbitan dan berbayarnya; (c) amaun dana permulaannya; (d) penyertaan ekuitinya; (e) keanggotaan lembaga pengarahnya; dan (f) memorandum dan perkara-perkara persatuannya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) yang dinomborkan semula itu subseksyen yang berikut: “(2) Permohonan bagi mendapatkan kelulusan di bawah subseksyen (1) hendaklah dibuat kepada Ketua Pendaftar— (a) dalam borang yang ditetapkan dan mengikut cara yang ditetapkan; dan (b) disertai fi yang ditetapkan. (3) Pada bila-bila masa selepas menerima permohonan itu dan sebelum ia ditentukan, Ketua Pendaftar boleh melalui notis bertulis menghendaki syarikat itu untuk memberikan maklumat, butir-butir atau dokumen tambahan. (4) Jika apa-apa maklumat, butir-butir atau dokumen tambahan yang dikehendaki di bawah subseksyen (3) tidak diberikan dalam masa yang ditetapkan dalam kehendak itu atau apa-apa lanjutan masa, permohonan itu— (a) hendaklah disifatkan telah ditarik balik; dan (b) tidak boleh diteruskan, tanpa menjejaskan hak syarikat untuk membuat permohonan baharu. (5) Ketua Pendaftar hendaklah, apabila permohonan dibuat dengan sewajarnya di bawah seksyen ini dan selepas diberikan kesemua maklumat, butir-butir dan dokumen yang dikehendakinya di bawah subseksyen (3)— (a) meluluskan permohonan itu dengan atau tanpa apa-apa ubah suaian, pindaan atau syarat; atau (b) menolak permohonan itu tanpa memberikan apa-apa sebab bagi penolakan itu. (6) Jika Ketua Pendaftar menolak permohonan itu, Ketua Pendaftar hendaklah memberitahu syarikat tentang penolakan itu secara bertulis. (7) Mana-mana orang yang melanggar peruntukan seksyen ini melakukan suatu kesalahan di bawah Akta ini.”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “Institusi pendidikan tinggi swasta” dengan perkataan “Syarikat”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (8), dengan menggantikan perkataan “institusi pendidikan tinggi swasta itu” dengan perkataan “syarikat itu”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 24(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memotong perkataan “dan” di hujung perenggan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan noktah di hujung perenggan itu dengan perkataan “; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (d) perenggan yang berikut: “(e) apa-apa maklumat, butir-butir atau dokumen lain sebagaimana yang dikehendaki oleh Ketua Pendaftar.”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “pendaftaran” perkataan “, dsb.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “digunakan” dengan perkataan “didaftarkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “institusi pendidikan tinggi swasta itu” perkataan “, dan butir-butir premis yang didaftarkan bagi maksudnya dan struktur fi yang diluluskan bagi kursus pengajian atau program latihan hendaklah dijadikan tersedia dan boleh diakses oleh orang awam dengan apa jua cara”. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “tidak boleh berpindah” perkataan “, menambah atau mengubah suai”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/2/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “pendaftaran premis baru” perkataan “, tambahan atau yang diubah suai”. Penggantian seksyen 30"
+      }
+    }
+  ]
+}

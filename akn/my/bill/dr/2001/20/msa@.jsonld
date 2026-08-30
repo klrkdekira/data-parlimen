@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-20-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perbekalan Tambahan (2001) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (2001)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2001. Perbelanjaan tambahan bagi tahun 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi satu ratus tiga puluh juta enam ratus dua puluh dua ribu tujuh ratus ringgit (RM130,622,700) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi perkhidmatan tahun 2001 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2001 [Akta A1092] dan Akta Perbekalan Tambahan (2000 dan 2001) 2001 [Akta A1100]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk B. 28 Perbendaharaan B. 29 Perkhidmatan Am Perbendaharaan B. 49 Kementerian Tenaga, Komunikasi dan Multimedia JUMLAH"
+      }
+    }
+  ]
+}

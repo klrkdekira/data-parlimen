@@ -67,104 +67,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Penal Code [Act 574] is amended by inserting after section 424 the following sections: “Possession or control of payment instrument or account 424a. Whoever, without lawful authority or lawful purpose, has in his possession or control any payment instrument of other person or any account of other person at a financial institution, shall be punished with fine of not less than five thousand ringgit but not exceeding fifty thousand ringgit or with imprisonment for a term of not less than six months but not exceeding five years or with both. Giving possession or control of payment instrument or account to other person 424b. Whoever, directly or indirectly, without lawful authority or lawful purpose, gives possession or control of his payment instrument or his account at a financial institution to any other person, shall be punished with fine of not less than ten thousand ringgit but not exceeding one hundred thousand ringgit or with imprisonment for a term of not less than one year but not exceeding seven years or with both. Engaging in transaction in payment instrument or account 424c. (1) Whoever, directly or indirectly, without lawful purpose, engages in any transaction using his payment instrument or his account at a financial institution, shall be punished with imprisonment for a term of not less than three years but not exceeding ten years or with fine of not less than ten thousand ringgit but not exceeding one hundred and fifty thousand ringgit or with both."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Whoever, directly or indirectly, without lawful authority or lawful purpose, engages in any transaction using any payment instrument of other person or any account of other person at a financial institution, shall be punished with imprisonment for a term of not less than three years but not exceeding ten years or with fine of not less than ten thousand ringgit but not exceeding one hundred and fifty thousand ringgit or with both. Definition of “financial institution” and “payment instrument” 424d. For the purposes of sections 424a, 424b and 424c—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a__subpara_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a__subpara_iii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "“financial institution” means— the Development Financial Institutions Act 2002 [Act 618]; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a licensed bank under the Financial Services Act 2013 [Act 758];"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a licensed Islamic bank under the Islamic Financial Services Act 2013 [Act 759]; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a__subpara_iii",
-      "@type": "akn:subparagraph",
-      "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_a",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a prescribed"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_b__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_b__subpara_ii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "“payment instrument” means—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_b__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_b",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a prescribed designated payment instrument under the Financial Services Act 2013; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_b__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/23/eng@/~cl_2__subsec_2__para_b",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a prescribed designated Islamic payment instrument under the Islamic Financial Services Act 2013.”."
+        "@value": "The Penal Code [Act 574] is amended by inserting after section 424 the following sections: “Possession or control of payment instrument or account 424a. Whoever, without lawful authority or lawful purpose, has in his possession or control any payment instrument of other person or any account of other person at a financial institution, shall be punished with fine of not less than five thousand ringgit but not exceeding fifty thousand ringgit or with imprisonment for a term of not less than six months but not exceeding five years or with both. Giving possession or control of payment instrument or account to other person 424b. Whoever, directly or indirectly, without lawful authority or lawful purpose, gives possession or control of his payment instrument or his account at a financial institution to any other person, shall be punished with fine of not less than ten thousand ringgit but not exceeding one hundred thousand ringgit or with imprisonment for a term of not less than one year but not exceeding seven years or with both. Engaging in transaction in payment instrument or account 424c. (1) Whoever, directly or indirectly, without lawful purpose, engages in any transaction using his payment instrument or his account at a financial institution, shall be punished with imprisonment for a term of not less than three years but not exceeding ten years or with fine of not less than ten thousand ringgit but not exceeding one hundred and fifty thousand ringgit or with both. (2) Whoever, directly or indirectly, without lawful authority or lawful purpose, engages in any transaction using any payment instrument of other person or any account of other person at a financial institution, shall be punished with imprisonment for a term of not less than three years but not exceeding ten years or with fine of not less than ten thousand ringgit but not exceeding one hundred and fifty thousand ringgit or with both. Definition of “financial institution” and “payment instrument” 424d. For the purposes of sections 424a, 424b and 424c— (a) “financial institution” means— (i) a licensed bank under the Financial Services Act 2013 [Act 758]; (ii) a licensed Islamic bank under the Islamic Financial Services Act 2013 [Act 759]; and (iii) a prescribed the Development Financial Institutions Act 2002 [Act 618]; and (b) “payment instrument” means— (i) a prescribed designated payment instrument under the Financial Services Act 2013; and (ii) a prescribed designated Islamic payment instrument under the Islamic Financial Services Act 2013.”."
       }
     }
   ]

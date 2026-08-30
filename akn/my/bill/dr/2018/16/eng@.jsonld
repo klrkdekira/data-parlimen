@@ -1,0 +1,262 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-16-2018",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Suruhanjaya Pengangkutan Awam Darat (Dissolution) Bill 2018"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Suruhanjaya Pengangkutan Awam Darat (Dissolution) Act 2018."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“Minister” means the Minister charged with the responsibility for transport; “Federal Lands Commissioner” means the Federal Lands Commissioner appointed under the Federal Lands Commissioner Act 1957 [Act 349]; “Commission” means the Suruhanjaya Pengangkutan Awam Darat established under section 3 of the Suruhanjaya Pengangkutan Awam Darat Act 2010 [Act 714]. Repeal and dissolution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Suruhanjaya Pengangkutan Awam Darat Act 2010 is repealed and the Commission established under the Act is dissolved. Transfer of powers, rights, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All powers, rights, duties, liabilities and obligations which immediately before the date of commencement of this Act were the powers, rights, duties, liabilities and obligations of the Commission shall, on the date of commencement of this Act, be devolved on the Government. Transfer of Suruhanjaya Pengangkutan Awam Darat Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All moneys standing in, or due to be paid to, the Suruhanjaya Pengangkutan Awam Darat Fund, on the date of commencement of this Act, shall be transferred to the Government. Existing contracts, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All agreements, deeds, documents and other instruments subsisting immediately before the date of commencement of this Act and affecting any property or money transferred under this Act shall continue to remain in full force and effect, against or in favour of the Government, and enforceable as fully and effectually as if, instead of the Commission, the Government had been named in the agreements, deeds, documents and other instruments and had been a party to the agreements, deeds, documents and other instruments. Continuance of proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any proceedings or cause of action pending or exists immediately before the date of commencement of this Act by or against the Commission may be continued or instituted by or against the Government as the proceedings might have been continued or instituted by or against the Commission if this Act had not been passed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any appeal brought, or any leave to appeal applied for, on or after the date of commencement of this Act, against a decision given before the date of commencement of this Act in any legal proceedings in which the Commission was a party may be brought by or against the Government as the legal proceedings might have been brought by or against the Commission if this Act had not been passed. Continuance of laws, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, all written laws including subsidiary legislation in force immediately before the date of commencement of this Act shall, until amended or revoked, continue in force and be construed as if this Act had not been passed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any reference in any written law including subsidiary legislation or document to the Commission shall be construed as a reference to the Government. Vesting of property, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Minister may, from time to time, by order published in the Gazette, appoint a vesting date and on such date all properties, rights, interests, obligations and liabilities of the Commission specified by the Minister in the order shall, by virtue of this Act, be transferred to and vested in the Government without any conveyance, assignment or transfer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every property, rights, interest, obligation and liability transferred to and vested in the Commission shall be transferred to and vested in the Government for the like title, estate or interest and on the like tenure as the property, rights, interest, obligation and liability were vested or held immediately before the vesting date."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any land which immediately before the date of commencement of this Act were vested in the Commission shall, on the vesting date, be vested in the Federal Lands Commissioner for the purposes of the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where by virtue of subsection (1), any property is transferred to and vested in the Government, the provisions of Part Thirty of the National Land Code 1965 [Act 56 of 1965] shall, for the purpose of effecting the registration of such vesting, apply to the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any property and asset other than land which immediately before the date of commencement of this Act were vested in the Commission shall, on the vesting date, be vested in the Government."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/16/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the case of rights, interests, obligations and liabilities arising under any loan which are vested in the Government on the vesting date, the Government may enter into agreements or arrangements over the rights, interests, obligations and liabilities with any other person."
+      }
+    }
+  ]
+}

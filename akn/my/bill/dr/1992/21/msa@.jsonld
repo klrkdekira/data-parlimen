@@ -54,8 +54,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@/~cl_2__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@/~cl_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@/~cl_2__subsec_3"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@/~cl_2__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@",
       "schema:name": {
@@ -94,17 +93,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan, selepas subseksyen (1), subseksyen baru (2) dan (3) yang berikut: \"(2) Subseksyen (1) tidaklah mempunyai kuatkuasa untuk menjadikan boleh terpakai, berkenaan dengan peruntukan penalti bagi sesuatu kesalahan mulai dari tarikh selain daripada tarikh yang berikutan sebaik sahaja tarikh tersiarnya Akta ini dalam Warta."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@/~cl_2__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1992/21/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Apa-apa tindakan atau perkara yang dilakukan atau apa-apa wang yang dipungut, dibelanjakan atau dilabur oleh Suruhanjaya sebelum mula berkuatkuasanya Akta ini yang akan menjadi sah di sisi undang-undang jika peruntukan-peruntukan Akta berkuatkuasa pada masa ia dilakukan adalah dengan ini disahkan dan diisytiharkan sebagai telah dilakukan atau dipungut, dibelanjakan atau dilabur olehnya secara sah di sisi undang- undang.\"."
+        "@value": "dengan memasukkan, selepas subseksyen (1), subseksyen baru (2) dan (3) yang berikut: \"(2) Subseksyen (1) tidaklah mempunyai kuatkuasa untuk menjadikan boleh terpakai, berkenaan dengan peruntukan penalti bagi sesuatu kesalahan mulai dari tarikh selain daripada tarikh yang berikutan sebaik sahaja tarikh tersiarnya Akta ini dalam Warta. (3) Apa-apa tindakan atau perkara yang dilakukan atau apa-apa wang yang dipungut, dibelanjakan atau dilabur oleh Suruhanjaya sebelum mula berkuatkuasanya Akta ini yang akan menjadi sah di sisi undang-undang jika peruntukan-peruntukan Akta berkuatkuasa pada masa ia dilakukan adalah dengan ini disahkan dan diisytiharkan sebagai telah dilakukan atau dipungut, dibelanjakan atau dilabur olehnya secara sah di sisi undang- undang.\"."
       }
     }
   ]

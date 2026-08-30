@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kesihatan Mental (Pindaan) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kesihatan Mental (Pindaan) 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Penggantian seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kesihatan Mental 2001 [Akta 615] dipinda dengan menggantikan seksyen 11 dengan seksyen yang berikut: “Penangkapan orang yang bercelaru mental, dsb. 11. (1) Mana-mana pegawai intervensi krisis boleh menangkap— (a) mana-mana orang yang dia mempunyai sebab untuk percaya bercelaru mental dan kecelaruan mental itu berbahaya kepada dirinya atau kepada orang lain atau harta; atau (b) mana-mana orang yang cuba membunuh diri. (2) Pegawai intervensi krisis hendaklah mempunyai kuasa untuk memasuki mana-mana premis pada bila-bila masa perlu untuk berbuat sedemikian bagi maksud penangkapan di bawah seksyen ini. (3) Pegawai intervensi krisis boleh, semasa menjalankan kuasa di bawah subseksyen (2)— (a) memecah buka mana-mana pintu atau tingkap luar atau dalam mana-mana premis dan masuk ke dalam, atau selainnya masuk secara paksa ke dalam premis dan mana-mana bahagian premis itu; atau (b) memindahkan secara paksa apa-apa halangan kepada laluan masuk itu. (4) Pegawai intervensi krisis yang telah menangkap orang di bawah subseksyen (1) hendaklah, dengan seberapa segera yang praktik, tetapi tidak lewat daripada dua puluh empat jam selepas penangkapan itu, membawa orang itu kepada pegawai perubatan di hospital psikiatri kerajaan atau pengamal perubatan berdaftar di hospital psikiatri swasta yang diwartakan untuk pemeriksaan. (5) Bagi maksud seksyen ini, “pegawai intervensi krisis” ertinya mana-mana— (a) pegawai polis; (b) pegawai Agensi Penguatkuasaan Maritim Malaysia yang mempunyai erti yang sama sebagaimana yang diberikan kepadanya dalam Akta Agensi Penguatkuasaan Maritim Malaysia 2004 [Akta 633]; (c) Pegawai Bomba dan Pegawai Bomba Bantuan yang mempunyai erti yang sama sebagaimana yang diberikan kepadanya dalam Akta Perkhidmatan Bomba 1988 [Akta 341] dan Pegawai Bomba Sukarela yang dilantik di bawah seksyen 4a Akta Perkhidmatan Bomba 1988; (d) anggota Angkatan Pertahanan Awam Malaysia yang ditubuhkan di bawah Akta Angkatan Pertahanan Awam Malaysia 1951 [Akta 221]; dan (e) pegawai kebajikan masyarakat.”."
+      }
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-34-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Offshore Companies (Amendment) Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Offshore Companies"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Amendment) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting, sections immediately after section 149, the following new 150, 151 and 152. sections 150, 151 and 152: \"Power of 150. The Minister may, on the recommen- exemption. dation of the Registrar, on an application in writing, exempt any offshore company or foreign offshore company or class of offshore companies or foreign offshore companies from any of the provisions of this Act and may, in granting such exemption, impose such terms and conditions as the Minister thinks fit. Additional 151. (1) An offshore company or foreign fee. offshore company carrying on an offshore business activity which is an offshore trading Act 445. activity as defined in Labuan Offshore Business Activity Tax Act 1990 may, in addition to any other fee payable under this Act, pay a fee of twenty thousand ringgit to the Registrar. (2) Such fee shall be paid not later than the 31st day of March of a calendar year. Non- 152. (1) The Yang di-Pertuan Agong may, by application order published in the Gazette, provide that any of specified written written law, or part thereof, specified in the laws. order, shall not apply in relation to an offshore company, a foreign offshore company, a trust company, or a person who holds a valid licence granted under either section 6 (2) of the Act 443. Offshore Banking Act 1990 or section 9 (1) of Act 444. the Offshore Insurance Act 1990, or shall apply thereto with such modifications as may be set out in the order. (2) The modifications made to a written law by an order made under subsection (1) shall be deemed to be an integral part of such written law for the purposes of the order. (3) An order under subsection (1) may be made to have retrospective effect from such date as may be specified in the order. (4) In this section \"modification\" includes amendment, adaptation, alteration, variation, addition, deletion, substitution, or exclusion.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Offshore Companies Act 1990, which in this Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "is referred to as the \"principal Act\", is amended by substituting for section 6 the following: \"Prohi- 6. No resident, other than— bition on share- (a) a domestic or foreign company granted holding in off- a licence or registered under the— shore company. (i) Insurance Act 1963; Act 89. Act 276. (ii) Islamic Banking Act 1983; Act 3J2. (iii) Takaful Act 1984; or Act 372. (iv) Banking and Financial Insti- tutions Act 1989; or (b) a trust company, may hold shares, either individually or with another person, in an offshore company, but a trust company which is a domestic company may only hold such shares as trustee or nominee.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_3__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 29 of the principal Act is amended by of section 29. substituting for the words \"and any person\" in subsection"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the words \"except by an offshore company or foreign offshore company granted a licence under the Offshore Banking Act 1990 and any person, other than an offshore company or foreign offshore company so granted a licence under that Act,\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended by of section 31. substituting for subsection (6) the following: \"(6) In this section, \"prescribed company\" means— (a) an offshore company or a foreign offshore company granted a licence under the Offshore Banking Act 1990; or (b) an offshore company or a foreign offshore company or a trust company which has been declared by the Minister by notice published in the Gazette to be a prescribed company for the purposes of this section.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 87 of the principal Act is amended by of section 87. substituting for the full stop at the end of subsection (2) a colon and inserting immediately thereafter the following new proviso: \"Provided that an officer of a domestic or foreign company granted a licence or registered under the Insurance Act 1963, Islamic Banking Act 1983, Takaful Act 1984 or the Banking and Financial Institutions Act 1989 made available for the appointment by such domestic or foreign company, as the case may be, may act or be appointed as a resident director of an offshore company in which such domestic or foreign company holds shares.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 109 of the principal Act is amended— of section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "109."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"The\" in subsection (4) the words \"Subject to section 113A, the\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the words \"in subsection (4)\" in subsection (5), the words \"or the company's unaudited accounts, as the case may be,\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 111 of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "inserting, immediately after the words \"audited accounts\" in lines three and four of subsection (1), the words \"or unaudited accounts, as the case may be,\" and \"or unaudited accounts\" respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 112 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the word \"accounts\", the words \"or unaudited accounts, as the case may be,\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting, immediately after the word \"thereon\", the words \"(if applicable)\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word \"fourteen\" the word \"seven\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/34/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "immediately after section 113, the following new section 1 1 3 A! \"Auditor 113A. An offshore company shall not be not required to appoint an auditor so long as— required in certain circum- stances. (a) it is not a company licensed under the Offshore Banking Act 1990 or the Act 443. Act 444. Offshore Insurance Act 1990; (b) the company or an officer, director, agent or any person on behalf of the company does not— (i) issue an invitation or distribute forms of application to the public or to any member of the public to subscribe for shares or debentures in the company; or (ii) issue an invitation to the public or to any member of the public to deposit money with, or lend money to, the company; and (c) the members of the company so resolve at a meeting of members of the company that such an appointment need not be made in respect of each financial year.\". New"
+      }
+    }
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-48-1996",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Criminal Procedure Code (Amendment) Bill 1996"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Criminal Procedure"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Code (Amendment) Act 1996."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Criminal Procedure Code, which in this Act is"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "referred to as the \"Code\", is amended in section 173—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: \"(b) If the accused pleads guilty to the charge, whether as originally framed or as amended, the plea shall be recorded and he may be convicted thereon and the Court shall pass sentence according to law: Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by deleting the words \"to hear the complainant (if any) and\"; 2 Bill"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (f) the following paragraph: \"(f) (1) When the case for the prosecution is concluded the Court shall consider whether the prosecution has made out a prima facie case against the accused. (2) If the Court finds that the prosecution has not made out a prima facie case against the accused, the Court shall record an order of acquittal.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (h) the following paragraph: \"(h) (1) If the Court finds that a prima facie case has been made out against the accused on the offence charged, the Court shall call upon the accused to enter on his defence. (2) If the Court finds that a prima facie case has been made out against the accused on an offence other than the offence charged which such Court is competent to try and which in the opinion of the Court it ought to try, the Court shall amend the charge.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (i), by substituting for the words \"or has any defence to make\" the words \"of the offence in the charge as amended\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (j) the following paragraph: \"(j) (1) If the accused pleads guilty to the charge as amended, the plea shall be recorded and he may be convicted thereon and the Court shall pass sentence according to law: Provided that before a plea of guilty is recorded the Court shall ascertain that the understands the nature consequences of his plea and intends to admit, without qualification, the offence alleged against him. (2) If the accused does not plead guilty to the charge as amended, the accused shall be called upon to enter on his defence. (3) When the accused is called upon to enter on his defence, he may produce his evidence and shall be allowed to recall and cross-examine any witness present in the Court or its precincts: Provided that if the accused elects to be called as a witness, his evidence shall be taken before that of other witnesses for the defence: Provided further that any accused person who elects to be called as a witness may be cross-examined on behalf of any other accused person.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (m) the following paragraph: \"(m) (1) At the conclusion of the trial, the Court shall consider all the evidence adduced before it and shall decide whether the prosecution has proved its case beyond reasonable doubt. 4 Bill (2) If the Court finds prosecution has proved its case beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon and the Court shall pass sentence according to law. (3) If the Court finds prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.\". Amendment of ."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 178 of the Code is amended in subsection section 178 (ii) by substituting for the full stop at the end of the subsection a colon and by adding thereafter the following proviso: \"Provided that before a plea of guilty is recorded the Court shall ascertain that the accused understands the nature and consequences of his plea and intends to admit, without qualification, the offence alleged against him.\". Amendment of"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4__para_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4__para_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by substituting for section 180 section 180. the following section: \" Procedure 180. (i) When the case for the prosecution is after concluded, the Court shall consider whether the conclusion of case for prosecution has made out a prima facie case prosecu- against the accused. tion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4__para_ii",
+      "@type": "akn:paragraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Court finds that the prosecution has not made out a prima facie case against the accused, the Court shall record an order of acquittal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4__para_iii",
+      "@type": "akn:paragraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Court finds that a prima facie case has been made out against the accused on the offence charged the Court shall call upon the accused to enter on his defence.\". Criminal Procedure Code (Amendment)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 181 of the Code is amended in subsection (i)"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words \"The accused\" the words \"When the accused is called upon to enter on his defence he\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6__para_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6__para_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 182"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the following section: \" Procedure 182A. (i) At the conclusion of the trial, the Court at the shall consider all the evidence adduced before conclusion of the trial. it and shall decide whether the prosecution has proved its case beyond reasonable doubt."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6__para_ii",
+      "@type": "akn:paragraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Court finds that the prosecution has proved its case beyond reasonable doubt, the Court shall find the accused guilty and he may be convicted thereon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6__para_iii",
+      "@type": "akn:paragraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Court finds that the prosecution has not proved its case beyond reasonable doubt, the Court shall record an order of acquittal.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1996/48/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by substituting for section 183"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "the following section: \" Sentence. 183. If the accused is convicted, the Court shall pass sentence according to law.\"."
+      }
+    }
+  ]
+}

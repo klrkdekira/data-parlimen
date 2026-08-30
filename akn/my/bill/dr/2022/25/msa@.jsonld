@@ -72,101 +72,20 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_5"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Levi Keuntungan Luar Biasa 1998 [Akta 592], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 3 seksyen yang berikut: “Kuasa untuk melanjutkan tempoh 3a. Jika, melalui Akta ini, suatu tempoh dinyatakan yang dalamnya sesuatu perbuatan atau benda hendaklah dilakukan oleh seseorang, dan Menteri berpuas hati bahawa perbuatan atau benda itu tidak dapat disempurnakan dalam tempoh itu disebabkan oleh berlakunya kecemasan awam atau krisis kesihatan awam, Menteri boleh, mengikut terma dan syarat yang difikirkannya patut, melanjutkan tempoh untuk menyempurnakan perbuatan atau benda itu sebelum habis tempoh itu. Kuasa untuk mengubah suai terma dan syarat 3b. (1) Jika terma dan syarat dikenakan menurut Akta ini, Menteri boleh, atas nasihat Ketua Pengarah, dari semasa ke semasa mengubah suai terma dan syarat bagi maksud melaksanakan tujuan Akta ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Sebelum mengubah suai terma dan syarat, notis hendaklah diberikan kepada orang yang terikat dengan terma dan syarat itu menyatakan—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "terma dan syarat sebagaimana diubah suai; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "tarikh terma dan syarat sebagaimana diubah suai itu berkuat kuasa."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Terma dan syarat yang diubah suai tidak boleh berkuat kuasa kurang daripada empat belas hari dari tarikh notis di bawah subseksyen (2) dikeluarkan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika terma dan syarat itu pada mulanya dikenakan oleh Ketua Pengarah menurut Akta ini, terma dan syarat sebagaimana diubah suai oleh Menteri hendaklah disifatkan telah dikenakan oleh Ketua Pengarah."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2__subsec_5",
-      "@type": "akn:subsection",
-      "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud seksyen ini, “ubah suai” ertinya tambah, potong atau ubah.”. Seksyen baharu 6a"
+        "@value": "Akta Levi Keuntungan Luar Biasa 1998 [Akta 592], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 3 seksyen yang berikut: “Kuasa untuk melanjutkan tempoh 3a. Jika, melalui Akta ini, suatu tempoh dinyatakan yang dalamnya sesuatu perbuatan atau benda hendaklah dilakukan oleh seseorang, dan Menteri berpuas hati bahawa perbuatan atau benda itu tidak dapat disempurnakan dalam tempoh itu disebabkan oleh berlakunya kecemasan awam atau krisis kesihatan awam, Menteri boleh, mengikut terma dan syarat yang difikirkannya patut, melanjutkan tempoh untuk menyempurnakan perbuatan atau benda itu sebelum habis tempoh itu. Kuasa untuk mengubah suai terma dan syarat 3b. (1) Jika terma dan syarat dikenakan menurut Akta ini, Menteri boleh, atas nasihat Ketua Pengarah, dari semasa ke semasa mengubah suai terma dan syarat bagi maksud melaksanakan tujuan Akta ini. (2) Sebelum mengubah suai terma dan syarat, notis hendaklah diberikan kepada orang yang terikat dengan terma dan syarat itu menyatakan— (a) terma dan syarat sebagaimana diubah suai; dan (b) tarikh terma dan syarat sebagaimana diubah suai itu berkuat kuasa. (3) Terma dan syarat yang diubah suai tidak boleh berkuat kuasa kurang daripada empat belas hari dari tarikh notis di bawah subseksyen (2) dikeluarkan. (4) Jika terma dan syarat itu pada mulanya dikenakan oleh Ketua Pengarah menurut Akta ini, terma dan syarat sebagaimana diubah suai oleh Menteri hendaklah disifatkan telah dikenakan oleh Ketua Pengarah. (5) Bagi maksud seksyen ini, “ubah suai” ertinya tambah, potong atau ubah.”. Seksyen baharu 6a"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut: “Ketetapan umum 6a. (1) Ketua Pengarah boleh, pada bila-bila masa, membuat suatu ketetapan umum atas pemakaian mana-mana peruntukan Akta ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/25/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Ketua Pengarah boleh menarik balik, sama ada sepenuhnya atau sebahagiannya, apa-apa ketetapan umum yang dibuat di bawah seksyen ini.”. Pindaan seksyen 11"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 6 seksyen yang berikut: “Ketetapan umum 6a. (1) Ketua Pengarah boleh, pada bila-bila masa, membuat suatu ketetapan umum atas pemakaian mana-mana peruntukan Akta ini. (2) Ketua Pengarah boleh menarik balik, sama ada sepenuhnya atau sebahagiannya, apa-apa ketetapan umum yang dibuat di bawah seksyen ini.”. Pindaan seksyen 11"
       }
     },
     {

@@ -115,45 +115,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13",
       "@type": "akn:clause",
       "eli:number": "13",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13__para_c"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "Section 50c of the principal Act is amended by inserting after subsection (1) the following subsections: “(1a) The Commission may, from time to time, issue any guidelines in writing on any matter relating to the importation of electricity and exportation of electricity. (1b) The Commission may, from time to time, issue any guidelines in writing on any matter relating to green attributes including—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the determination of ownership of green attributes;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the verification of the amount of green attributes; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_13",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the certification of green attributes from the electricity generated or supplied from any renewable energy sources.”. Amendment of section 50e"
+        "@value": "Section 50c of the principal Act is amended by inserting after subsection (1) the following subsections: “(1a) The Commission may, from time to time, issue any guidelines in writing on any matter relating to the importation of electricity and exportation of electricity. (1b) The Commission may, from time to time, issue any guidelines in writing on any matter relating to green attributes including— (a) the determination of ownership of green attributes; (b) the verification of the amount of green attributes; and (c) the certification of green attributes from the electricity generated or supplied from any renewable energy sources.”. Amendment of section 50e"
       }
     },
     {
@@ -335,8 +300,7 @@
       "eli:number": "4",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_4__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_4__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_4__para_le"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_4__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@",
       "schema:name": {
@@ -361,17 +325,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (lc) the following paragraphs: “(ld) to issue importation of electricity or exportation of electricity licence under section 22d of this Act;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_4__para_le",
-      "@type": "akn:paragraph",
-      "eli:number": "le",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "to exercise regulatory functions in respect of the importation of electricity and exportation of electricity; and”. Amendment of section 9e"
+        "@value": "by inserting after paragraph (lc) the following paragraphs: “(ld) to issue importation of electricity or exportation of electricity licence under section 22d of this Act; (le) to exercise regulatory functions in respect of the importation of electricity and exportation of electricity; and”. Amendment of section 9e"
       }
     },
     {
@@ -412,180 +366,20 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_6__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_6__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 22b the following section: “Market Operator 22c. (1) The Minister may, upon the recommendation of the Commission, authorize or revoke the authorization of any person or a unit, department or division to be a Market Operator by order published in the Gazette."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_6__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_6",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Market Operator shall comply with any regulations, codes, guidelines or directions with regards to its functions as may be made or issued by the Minister or the Commission, as the case may be, under this Act."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_6__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_6",
-      "schema:text": {
-        "@language": "en",
-        "@value": "A Market Operator, pursuant to discharging its functions under this Act, shall ensure non-discriminatory conduct and optimal operation of such power system to the extent that it does not compromise the reliability, security and safety of the power system.”. New Part IVa"
+        "@value": "The principal Act is amended by inserting after section 22b the following section: “Market Operator 22c. (1) The Minister may, upon the recommendation of the Commission, authorize or revoke the authorization of any person or a unit, department or division to be a Market Operator by order published in the Gazette. (2) The Market Operator shall comply with any regulations, codes, guidelines or directions with regards to its functions as may be made or issued by the Minister or the Commission, as the case may be, under this Act. (3) A Market Operator, pursuant to discharging its functions under this Act, shall ensure non-discriminatory conduct and optimal operation of such power system to the extent that it does not compromise the reliability, security and safety of the power system.”. New Part IVa"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
       "@type": "akn:clause",
       "eli:number": "7",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_5",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_6",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_7",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_8",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_9"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after new section 22c the following part: “Part IVa IMPORTATION OF ELECTRICITY AND EXPORTATION OF ELECTRICITY Licence required for importation of electricity and exportation of electricity 22d. (1) Subject to any exemptions as may be granted under this Act, no person shall—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "import any electricity from any person or place outside Malaysia; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "export any electricity to any person or place outside Malaysia, whether generated in, or imported from outside, Malaysia, except under and in accordance with the terms and conditions of importation of electricity or exportation of electricity licence as may be prescribed authorizing the importation of electricity or exportation of electricity, as the case may be."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The importation of electricity or exportation of electricity licence may be granted by the Commission with the approval of the Minister upon payment of such fees and upon such terms and conditions as appear to be requisite or expedient having regard to the duties imposed by section 4."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Commission may, whether a notice has been served or not, levy a surcharge for the late payment of fees due from an importation of electricity or exportation of electricity licensee to the Commission, at a rate of one per cent per month or part of a month on such fees or at any other rate as may be prescribed."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding subsection (2), the Commission may grant an importation of electricity or exportation of electricity licence upon payment of fees and upon such conditions as appear to be requisite or expedient having regard to the duties imposed by section 4 in respect of any importation of electricity and exportation of electricity as may be prescribed."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_5",
-      "@type": "akn:subsection",
-      "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "No importation of electricity or exportation of electricity licence shall be capable of being transferred unless the written consent of the Minister has been given."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_6",
-      "@type": "akn:subsection",
-      "eli:number": "6",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An importation of electricity or exportation of electricity licence may be for such period as the Commission may approve provided that no licence shall, without the express approval of the Minister, be for a period exceeding twenty-one years."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_7",
-      "@type": "akn:subsection",
-      "eli:number": "7",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The duration of the importation of electricity or exportation of electricity licence shall be set out therein."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_8",
-      "@type": "akn:subsection",
-      "eli:number": "8",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_8__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_8__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Commission may, with the approval of the Minister, at any time—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_8__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_8",
-      "schema:text": {
-        "@language": "en",
-        "@value": "impose any additional terms or conditions on the importation of electricity or exportation of electricity licence; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_8__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_8",
-      "schema:text": {
-        "@language": "en",
-        "@value": "amend any terms or conditions imposed on the importation of electricity or exportation of electricity licence, in accordance with the procedure as may be prescribed."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7__subsec_9",
-      "@type": "akn:subsection",
-      "eli:number": "9",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/6/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "All provisions of the Act applicable to a licensee under section 9 shall also be applicable to an importation of electricity or exportation of electricity licensee under this section.”. Amendment of section 26"
+        "@value": "The principal Act is amended by inserting after new section 22c the following part: “Part IVa IMPORTATION OF ELECTRICITY AND EXPORTATION OF ELECTRICITY Licence required for importation of electricity and exportation of electricity 22d. (1) Subject to any exemptions as may be granted under this Act, no person shall— (a) import any electricity from any person or place outside Malaysia; or (b) export any electricity to any person or place outside Malaysia, whether generated in, or imported from outside, Malaysia, except under and in accordance with the terms and conditions of importation of electricity or exportation of electricity licence as may be prescribed authorizing the importation of electricity or exportation of electricity, as the case may be. (2) The importation of electricity or exportation of electricity licence may be granted by the Commission with the approval of the Minister upon payment of such fees and upon such terms and conditions as appear to be requisite or expedient having regard to the duties imposed by section 4. (3) The Commission may, whether a notice has been served or not, levy a surcharge for the late payment of fees due from an importation of electricity or exportation of electricity licensee to the Commission, at a rate of one per cent per month or part of a month on such fees or at any other rate as may be prescribed. (4) Notwithstanding subsection (2), the Commission may grant an importation of electricity or exportation of electricity licence upon payment of fees and upon such conditions as appear to be requisite or expedient having regard to the duties imposed by section 4 in respect of any importation of electricity and exportation of electricity as may be prescribed. (5) No importation of electricity or exportation of electricity licence shall be capable of being transferred unless the written consent of the Minister has been given. (6) An importation of electricity or exportation of electricity licence may be for such period as the Commission may approve provided that no licence shall, without the express approval of the Minister, be for a period exceeding twenty-one years. (7) The duration of the importation of electricity or exportation of electricity licence shall be set out therein. (8) The Commission may, with the approval of the Minister, at any time— (a) impose any additional terms or conditions on the importation of electricity or exportation of electricity licence; or (b) amend any terms or conditions imposed on the importation of electricity or exportation of electricity licence, in accordance with the procedure as may be prescribed. (9) All provisions of the Act applicable to a licensee under section 9 shall also be applicable to an importation of electricity or exportation of electricity licensee under this section.”. Amendment of section 26"
       }
     },
     {

@@ -126,102 +126,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian IVa Bahagian yang berikut: “BAHAGIAN IVb PEREDARAN ANTARABANGSA KENDERAAN PERDAGANGAN Permit, lesen, dsb., di bawah perjanjian antarabangsa 26h. (1) Bagi maksud melaksanakan mana-mana perjanjian antarabangsa berhubung dengan memudahkan peredaran antarabangsa bagi mana-mana kenderaan perdagangan, Menteri boleh membuat apa-apa kaedah-kaedah yang suai manfaat atau perlu bagi melaksanakan peruntukan Bahagian ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_d"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Tanpa menjejaskan keluasan subseksyen (1), kaedah-kaedah boleh dibuat bagi maksud yang berikut:"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mengiktiraf permit, lesen, pas, perakuan atau dokumen rasmi lain bagi mana-mana kenderaan perdagangan yang dibawa sementara ke Malaysia oleh orang yang bermastautin di luar negara dan bercadang untuk tinggal sementara sahaja di Malaysia, termasuklah memuatkan dan memunggahkan barangan atau penumpang dan transit;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mengawal selia permit, lesen, pas, perakuan atau dokumen rasmi lain bagi mana-mana kenderaan perdagangan yang dibawa sementara ke luar negara oleh orang yang bermastautin di Malaysia dan bercadang untuk tinggal sementara sahaja di luar negara, termasuklah memuatkan dan memunggahkan barangan atau penumpang dan transit;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c__subpara_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c__subpara_iii"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mengawal selia penggunaan, operasi dan kehendak teknikal bagi kenderaan perdagangan yang disebut dalam subperenggan (a) dan (b), termasuklah—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "takat, jam, kekerapan dan laluan atau kawasan yang akan digunakan atau yang hendak diberikan perkhidmatan;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "jenis dan bentuk dokumen yang perlu dibawa dan maklumat yang akan dipamerkan di setiap kenderaan perdagangan; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c__subpara_iii",
-      "@type": "akn:subparagraph",
-      "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "akaun, dokumen dan rekod berkaitan dengan seksyen ini untuk disimpan dan dikemukakan apabila diminta bagi pemeriksaan dan penentusahan; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/11/msa@/~cl_5__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "menetapkan fi atau caj yang kena dibayar berkaitan dengan seksyen ini dan cara pembayarannya.”. Pindaan seksyen 34"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian IVa Bahagian yang berikut: “BAHAGIAN IVb PEREDARAN ANTARABANGSA KENDERAAN PERDAGANGAN Permit, lesen, dsb., di bawah perjanjian antarabangsa 26h. (1) Bagi maksud melaksanakan mana-mana perjanjian antarabangsa berhubung dengan memudahkan peredaran antarabangsa bagi mana-mana kenderaan perdagangan, Menteri boleh membuat apa-apa kaedah-kaedah yang suai manfaat atau perlu bagi melaksanakan peruntukan Bahagian ini. (2) Tanpa menjejaskan keluasan subseksyen (1), kaedah-kaedah boleh dibuat bagi maksud yang berikut: (a) mengiktiraf permit, lesen, pas, perakuan atau dokumen rasmi lain bagi mana-mana kenderaan perdagangan yang dibawa sementara ke Malaysia oleh orang yang bermastautin di luar negara dan bercadang untuk tinggal sementara sahaja di Malaysia, termasuklah memuatkan dan memunggahkan barangan atau penumpang dan transit; (b) mengawal selia permit, lesen, pas, perakuan atau dokumen rasmi lain bagi mana-mana kenderaan perdagangan yang dibawa sementara ke luar negara oleh orang yang bermastautin di Malaysia dan bercadang untuk tinggal sementara sahaja di luar negara, termasuklah memuatkan dan memunggahkan barangan atau penumpang dan transit; (c) mengawal selia penggunaan, operasi dan kehendak teknikal bagi kenderaan perdagangan yang disebut dalam subperenggan (a) dan (b), termasuklah— (i) takat, jam, kekerapan dan laluan atau kawasan yang akan digunakan atau yang hendak diberikan perkhidmatan; (ii) jenis dan bentuk dokumen yang perlu dibawa dan maklumat yang akan dipamerkan di setiap kenderaan perdagangan; dan (iii) akaun, dokumen dan rekod berkaitan dengan seksyen ini untuk disimpan dan dikemukakan apabila diminta bagi pemeriksaan dan penentusahan; dan (d) menetapkan fi atau caj yang kena dibayar berkaitan dengan seksyen ini dan cara pembayarannya.”. Pindaan seksyen 34"
       }
     },
     {

@@ -1,0 +1,123 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-31-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Bill of Exchange (Amendment) Bill 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Bills of Exchange (Amendment) Act 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Substitution of section 74A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Bills of Exchange Act 1949 [Act 204], which is referred to as the \"principal Act\" in this Act, is amended by substituting for section 74A the following section: \"Presentment of cheque through electronic means 74A. ( 1) Notwithstanding section 45, a cheque is duly presented for payment if the image and the electronic payment information of the cheque is presented through an electronic means. (2) Notwithstanding subsection (1), if at any time before payment is made, the paying bank request the collecting bank to present the cheque itself, the presentment under subsection (1) shall be disregarded, and section 74B shall not apply. (3) A request under subsection (2) for the presentment of cheque shall not constitute dishonour of the cheque by non payment. (4) Subsection 52(4) shall not apply — (a) in relation to presenting a bill for payment, to presenting a cheque for payment under subsection (3); and, (b) in relation to a bill which is paid, to a cheque which is paid following presentment under subsection (1). (5) For the avoidance of doubt, any payment made upon presentment in accordance with this section shall not be taken to have been made outside of the ordinary course of business, in bad faith or negligently only because it is made upon transmission of an image and the electronic payment information of the cheque rather than presentment of the cheque itself. (6) Where the presentment of a cheque is made under this section, the collecting bank and the paying bank shall be subject to the same duties in relation to the collection and payment of the cheque as if the cheque itself had been presented for payment.\". New sections 74B and 74c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 74A the following new sections: \"Image return document 74B. (1) Where the cheque presented for payment in accordance with section 74A is dishonoured by non-payment, the collecting bank shall, unless the collecting bank returns the cheque itself or the holder requests the return of the cheque itself, issue to the holder an image return document. Bills of Exchange (Amendment) (2) Subject to subsection (4), an image return document may be presented for payment to the collecting bank by the holder to whom the image returned document was issued as if that document were the cheque to which it relates. (3) An image return document shall be deemed to be the cheque to which it relates for the purpose of presentment under subsection (2). (4) An image return document may be presented under subsection (2) for payment by the holder only if— (a) the collecting bank states in that document that it is valid for presentment; and (b) the presentment is made within six months from the date of the cheque or as specified on the cheque. Regulations relating to cheque truncation 74c. The Minister may make such regulations as may be necessary or expedient to give effect to the provisions of this Act in respect of any matters relating to cheque truncation.\". Amendment of section 86"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 86 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing provision as subsection ( 1 ) ; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/31/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection ( 1 ) the following subsections: \"(2) Sections 74A and 74B shall, so far as applicable, have effect in relation to instruments referred to in paragraph 85(2)(b) as they have effect in relation to cheques. (3) Section 74A shall, so far as applicable, have effect in relation to instruments referred to in paragraph 85(2)(c) as they have effect in relation to cheques.\"."
+      }
+    }
+  ]
+}

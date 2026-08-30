@@ -1,0 +1,301 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-24-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Penyelarasan Pencen (Pindaan) 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penyelarasan Pencen (Pindaan) 2008."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (3), Akta ini mula berkuat kuasa pada 1 Januari 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 dan 3 dan subseksyen 9(4) disifatkan telah mula berkuat kuasa pada 1 Januari 2008. Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Penyelarasan Pencen 1980 [Akta 238], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan koma di hujung perenggan itu dengan noktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “yang bermastautin di Malaysia.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3) dan (4). Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda dengan memotong takrif “bermastautin di Malaysia”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 4(3) Akta ibu dipinda dengan menggantikan perkataan “mana-mana tempoh yang tersebut dalam subperenggan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": ", (b) atau (c) perenggan 1 Jadual Kedua” dengan perkataan “tempoh dua belas tahun setengah dari tarikh persaraan seseorang pegawai atau tarikh sebaik selepas tarikh kematian pegawai dalam perkhidmatan”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “Jadual Ketiga” dengan perkataan “Jadual Kedua”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “dan Jadual Ketiga, pembayaran pencen terbitan atau elaun persaraan terbitan itu selepas habisnya mana-mana tempoh yang tersebut dalam subperenggan (a), (b), (c) atau (d) perenggan 1 Jadual Ketiga” dengan perkataan “dan Jadual Kedua, pembayaran pencen terbitan atau elaun persaraan terbitan itu selepas habisnya tempoh dua belas tahun setengah dari tarikh persaraan pegawai atau tarikh sebaik selepas tarikh kematian pegawai dalam perkhidmatan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan menggantikan perkataan “Jadual Ketiga” dengan perkataan “Jadual Kedua”. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Pertama kepada Akta ibu dipinda dengan menggantikan angka “300” di mana-mana jua ia terdapat dengan angka “360”. Penggantian Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan Jadual Kedua dengan jadual yang berikut: “Jadual Kedua [Seksyen 4 dan 5] Jenis Faedah 1. Pencen terbitan hendaklah dibayar atau adalah kena dibayar untuk seumur hidup— (a) dari tarikh yang sebaik selepas 1/600 x bilangan bulan perkhidmatan tarikh kematian pegawai yang boleh dimasukira (tertakluk dalam perkhidmatan pada kepada tidak lebih daripada 360 atau selepas 1 Julai 1980; bulan) x gaji bersamaan yang akhir atau diterima; tetapi amaun pencen terbitan, sebagaimana yang diselaraskan, yang (b) dari tarikh sebaik selepas dibayar atau kena dibayar apabila tarikh kematian pegawai dalam pegawai itu mati dalam perkhidmatan persaraan pada atau selepas tidaklah boleh kurang daripada 1/5 1 Julai 1980. daripada gaji bersamaan yang akhir diterima oleh pegawai itu. 2. Jika tiada pencen terbitan dibayar Diselaraskan berdasarkan formula atau kena dibayar di bawah perenggan yang sama seperti yang diperuntukkan 1, elaun persaraan terbitan hendaklah berkenaan dengan subperenggan (a) dibayar atau adalah kena dibayar dan (b) perenggan 1 tetapi terhad mengikut mana-mana hal keadaan kepada 3/4 daripada amaun yang yang tersebut dalam subperenggan ditentukan dalam tiap-tiap satu hal (a) atau (b) perenggan 1. itu.”. Pemotongan Jadual Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Jadual Ketiga. Peruntukan kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (2), mana-mana pegawai atau orang tanggungannya yang layak bagi penyelarasan pencen, pencen terbitan, elaun persaraan atau elaun persaraan terbitan di bawah Akta ibu sebelum 1 Januari 2009 tetapi penyelarasan itu tidak dibuat sebelum tarikh itu, pencen, pencen terbitan, elaun persaraan atau elaun persaraan terbitan sedemikian hendaklah diselaraskan sehingga 31 Disember 2008 sebagaimana yang diperuntukkan dalam Jadual kepada Akta ibu seolah-olah Jadual itu tidak pernah dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pencen, pencen terbitan, elaun persaraan atau elaun persaraan terbitan pegawai atau orang tanggungannya hendaklah, dari 1 Januari 2009, dikira berdasarkan Jadual sebagaimana yang dipinda oleh Akta ini dan hendaklah kena dibayar mulai tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mana-mana pegawai atau orang tanggungannya yang pencen, pencen terbitan, elaun persaraan atau elaun persaraan terbitannya telah diselaraskan sebaik sebelum 1 Januari 2009, pencen, pencen terbitan, elaun persaraan atau elaun persaraan terbitan itu hendaklah, dari 1 Januari 2009, dikira berdasarkan Jadual sebagaimana yang dipinda oleh Akta ini dan hendaklah kena dibayar mulai tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/24/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam hal penghapusan kehendak pemastautinan di Malaysia, pemberian atau penyelarasan pencen, pencen terbitan, elaun persaraan atau elaun persaraan terbitan sebelum 1 Januari 2008 hendaklah berdasarkan Akta ibu seolah-olah Akta ibu tidak dipinda oleh Akta ini dan pemberian atau penyelarasan pencen, pencen terbitan, elaun persaraan atau elaun persaraan terbitan itu hendaklah berdasarkan pindaan yang dibuat kepada Akta ibu oleh Akta ini hanya mulai 1 Januari 2008 dan hendaklah kena dibayar mulai tarikh itu."
+      }
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-18-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Akta Bank Islam (Pindaan) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Bank Islam (Pindaan) 2005."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Bank Islam 1983 [Akta 276], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 2 —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"cawangan\" takrif yang berikut: ' \"deposit Islam\" ertinya suatu jumlah wang atau nilai wang yang diterima oleh atau dibayar kepada mana-mana orang, di mana penerimaan dan pembayaran itu adalah mengikut terma suatu perjanjian yang dibuat di bawah mana-mana prinsip Syariah atas apa-apa asas termasuk jagaan atau perkongsian untung;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"liabiliti akaun pelaburan\", \"liabiliti akaun simpanan\", \"liabiliti bermasa\", \"liabiliti deposit lain\" dan \"liabiliti semasa\". Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda dengan memasukkan selepas subseksyen (5) subseksyen yang berikut: \"(5A) Mana-mana bank Islam yang dilesenkan di bawah seksyen ini hendaklah disifatkan sebagai suatu institusi anggota di bawah Akta Perbadanan Insurans Deposit Malaysia 2005 [Akta ].\". Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 11(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"atau\" di hujung perenggan (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan koma di hujung perenggan (e) dengan perkataan \"; atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: \"(f) telah terhenti menjadi suatu institusi anggota di bawah Akta Perbadanan Insurans Deposit Malaysia 2005,\". Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subsekysen yang berikut: \"(2) Jumlah atau jumlah minimum aset yang ditetapkan untuk dipegang hendaklah dinyatakan dalam bentuk suatu peratusan yang aset itu hendaklah mengandungi deposit Islam setiap bank Islam.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan liabiliti semasa, liabiliti akaun simpanan, liabiliti akaun pelaburan, liabiliti bermasa dan liabiliti deposit lain\" dengan perkataan \"deposit Islam\". Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) Subseksyen (1) tidak terpakai bagi mana-mana perkiraan, perjanjian atau skim yang dijalankan oleh mana-mana bank Islam di bawah Akta Perbadanan Insurans Deposit Malaysia 2005.\". Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu dipinda dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: \"(4) Subseksyen (3) tidak terpakai bagi pendedahan maklumat atau dokumen kepada— (a) mana-mana pengarah, pegawai, pekerja atau ejen Perbadanan Insurans Deposit Malaysia (selepas ini dalam perenggan ini disebut sebagai \"Perbadanan\") yang ditubuhkan di bawah Akta Perbadanan Insurans Deposit Malaysia 2005 jika pendedahan itu adalah bagi maksud penjalanan kuasa, pelaksanaan fungsi atau penunaian tugas Perbadanan atau pengarah, pegawai, pekerja atau ejen Perbadanan di bawah Akta itu; atau (b) juruaudit yang dilantik di bawah seksyen 17, pegawai dan pekerja bank yang bermastautin di Malaysia.\". Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 45 dengan seksyen yang berikut: \"Keutamaan deposit Islam 45. (1) Jika suatu bank Islam digulung di bawah perenggan 37(2)0), hasil likuidasi bank Islam itu hendaklah, tertakluk kepada seksyen 10 Akta Prosiding Kerajaan 1956 [Akta 359] dan subseksyen (2), dibayar kepada pendeposit diutamakan atas semua liabiliti tak bercagar lain mengikut cara yang berikut: (a) deposit Islam berdasarkan jagaan; dan (b) deposit Islam lain. Rang Undang-Undang (2) Jika seseorang telah dilantik di bawah perenggan 31(2)(d) atau (e), mengikut mana-mana yang berkenaan, atau suatu bank Islam digulungkan di bawah perenggan 37(2)(/}, segala kos, caj dan perbelanjaan wajar, termasuklah saraan, orang yang dilantik itu hendaklah kena dibayar daripada aset bank Islam diutamakan atas segala tuntutan yang lain.\"."
+      }
+    }
+  ]
+}

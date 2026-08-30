@@ -1,0 +1,2604 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-63-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Malaysian Media Council Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MALAYSIAN MEDIA COUNCIL Establishment of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "BOARD OF COUNCIL Board of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to any condition as may be determined, a member of the Board shall, unless he sooner resigns or vacates his office or his appointment is revoked, hold office for a term not exceeding two years and eligible for reappointment for a further term of two years upon the expiry of his term of office."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a member of the Board receives a note of censure or his membership is terminated, he shall cease to be a member of the Board under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board shall be deemed to have vacated his office if he absents himself from three consecutive meetings of the Board without leave of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman may resign from office by giving notice in writing to the Board, and other members of the Board may resign from office by giving notice in writing to the Chairman, and upon such resignation being accepted by the Board or the Chairman, as the case may be, the Chairman or such member shall be deemed to have vacated his office."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any vacancy of members of the Board shall be filled, as soon as may be, by nomination in the same manner such member of the Board who vacated the office was nominated and elected and such member so nominated and subsequently elected, shall hold office such for the remaining tenure of the preceding member of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (1), any member of the Board who has held office for a period of four years consecutively, is eligible to be re-elected after a period of two years lapsed from the last date such member of the Board had held office as the member of the Board. Remuneration and allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall be paid such remuneration and allowances as the Council may determine in the general meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All members of the Board shall be paid such allowances at such rates as the Council may determine in the general meeting. Secretary of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may appoint a Secretary to the Council who shall be deemed to be an employee of the Council and be subject to the terms and conditions of service as the Council may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall vest in the Secretary such powers and impose upon him such duties as the Board may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall act under the general authority and directions of the Board which shall be consistent with this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be responsible for the overall administration and management of the functions, activities and day-to-day affairs of the Council in accordance with the policy determined by the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "exercise supervision and control over all employees of the Council; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "perform such other duties and undertake such other responsibilities as the Board may determine or direct from time to time."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary shall perform his duties with reasonable care, skill, diligence, and make proper judgment in performing his duties under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary may establish a central and regional offices or branch offices as he may deem necessary and expedient, subject to the approval of the Board. Employees of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may appoint such number of employees as may be necessary to assist the Secretary in discharging its functions effectively and efficiently for the purpose of carrying into effect the provisions of this Act and the employees shall hold office for such period, receive such salaries, allowances and benefits, and shall be subject to such terms and conditions of service as the Board may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An employee of the Council shall, at all times, act in good faith and comply with any requirements, standards, duties and code of conduct as the Board may determine. Committees"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may establish any committee as the Board considers necessary or expedient to assist the Board in the performance of its functions and in the exercise of its powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee may determine its own procedure and shall make the reporting to the Board accordingly."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the committee and any person invited under subsection (7) shall be paid such allowances and other expenses as the Council may determine by a resolution of a simple majority of votes of the members present and voting in the general meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may elect any member of the Council to be the chairperson of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may appoint any person to be a member of any committee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee shall hold office for such term as the Board may specify in his letter of appointment and is eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee may, at any time, resign his office by giving a notice in writing to the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any committee established under subsection (1) shall be subject to and act in accordance with any direction issued to the committee from time to time by the Board and the Board may, at any time, discontinue or alter the composition of or dissolve the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The committee may invite any person to attend any meeting of the committee to advise the committee on any matter under discussion but that person shall not be entitled to vote at the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The committee shall meet as often as may be necessary at the time and place as the chairperson of the committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee shall cause—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "minutes of its meetings to be maintained and kept in a proper form; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_14__subsec_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "copies of minutes of its meetings to be submitted to the Board as soon as practicable."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of carrying out the functions of the Council and managing the affairs of the Council, a Board shall be established comprising of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two members to be nominated by the Minister, representing the Government;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members of the Board representing members of the Council in the category as specified under paragraph 7(1)(a), which shall be nominated and elected by the members of the Council in such category, and shall comprise of, at least one woman representative and one representative from Sabah or Sarawak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members of the Board representing members of the Council in the category as specified under paragraph 7(1)(b), which shall be nominated and elected by the members of the Council in such category, with at least one member from a media association, and shall comprise of, at least one woman representative and one representative from Sabah or Sarawak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members of the Board representing members of the Council in the category as specified under paragraph 7(1)(c), which shall be nominated and elected by the members of the Council in such category, and shall comprise of, at least one woman representative and one representative from Sabah or Sarawak; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "six additional members of the Board appointed, among the members of the Council, by the Board members stated in paragraphs (c), (d) and (e) to ensure equal representation from the aspect of gender, locality and diversity of media by the languages and the formats."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A media company which is deemed to have a common ownership with other media companies shall not have more than one member of the Board nominated and elected under paragraph (1)(c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (2), a media company is deemed to have a common ownership with other media companies in the case where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two or more media companies have the same shareholder who holds more than half of the total number of issued shares in the media company respectively;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the media company has control over other related media companies; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the media company is a subsidiary company and is under the control of a holding company or a group of companies."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The nomination and election of the members of the Board under paragraphs (1)(c), (d) and (e) shall be conducted in the general meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsections (1) and (4), the Minister shall appoint the members of the Board that shall act as the founding Board, by notification published in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The provisions in the First Schedule shall apply to the Board. Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Board shall appoint a Chairman who will preside over the Board and the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the legislature, or any person who is actively involved in politics or registered with any political party, or any member of the public services, shall not be appointed as the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall be deemed to be a member of the Council, and shall have a casting vote in all deliberations of the Board and the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A Deputy Chairman shall be elected by the members of the Board from among themselves."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Chairman is unable to perform his functions for any reason, or during any period of vacancy in the office of the Chairman, the Deputy Chairman shall perform the functions of the Chairman. Tenure of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body corporate by the name of “Malaysian Media Council” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have perpetual succession and a common seal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may sue and be sued in its corporate name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to and for the purposes of this Act, the Council may, upon such terms as it deems fit—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into contracts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, purchase, take, lease, hold, sell and enjoy any movable and immovable property of every description or any interest in such property vested in the Council; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property or any interest in such property vested in the Council. Common seal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have a common seal which shall bear such device as the Council may approve and such seal may from time to time be broken, changed, altered and made anew as the Council thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Until a common seal is provided by the Council, a stamp bearing the words “Malaysian Media Council” may be used and shall be deemed to be the common seal of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Council shall be kept in the custody of the Chairman or such other person as may be authorized by the Board, and shall be authenticated by the Chairman or by any two members of the Board as authorized by the Chairman in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, documents and other instruments purporting to be sealed with the common seal of the Council and authenticated in accordance with subsection (3) shall, until the contrary is proved, be deemed to have been validly executed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any deed, document and other instrument which, if executed by a person not being a body corporate, is not required to be under seal may in like manner be executed by a member of the Board or employee of the Council as authorized in that behalf."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the Council shall be officially and judicially noticed. Functions of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to set standards and establish a code of conduct for media practitioner and independent media practitioner in accordance with the standards of ethical and responsible journalism;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote the highest standards of ethical and responsible journalism, media independence and the rights of media practitioner;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to regulate the ethics and professional conduct of the media practitioner and independent media practitioner;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to encourage communication between media practitioners, the Government and the public;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to suggest any reforms to laws relating to media independence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to facilitate and coordinate matters in respect of training, capacity building and professional development of journalists and media organizations among members of the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to establish, manage and maintain a database which contains information of media practitioners and independent media practitioners for the purpose of collecting data and statistics, for the continued development of media industry and journalism;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine any grievance mechanism and disciplinary proceeding against member of the Council; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things arising out of or consequential to the functions of the Council under this Act which are consistent with the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Council under subsection (1) shall be performed by the Board subject to a resolution passed from time to time by the Council in the general meeting. Powers of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may do all things necessary or expedient for, or in connection with, the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Council may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "establish standards of ethical and responsible journalism, including a code of conduct for media practitioner and independent media practitioner;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "determine matters in respect of membership, administration and management of the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "determine and impose any fees, charges or payments in relation to membership of the Council and services rendered by the Council under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "conduct inquiry on any complaint or information received against media practitioner and independent media practitioner through grievance mechanism;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "utilize all properties of the Council in such manner as the Council may think expedient including raising of money for the purposes of the Malaysian Media Council Fund by securitizing or mortgaging the properties; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "require member of the Council to furnish any information for the purpose of performing its function under the Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Powers of the Council under paragraphs (2)(a), (b), (c) and (d) shall be exercised by the Board subject to a resolution passed from time to time by the Council in the general meeting. Membership of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of the Council shall consist of any person, association or media company as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a category consisting of media company, represented by their respective media publisher or nominated senior management;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a category consisting of media association, represented by any nominated member of association, media practitioner and independent media practitioner; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a category consisting of non-media member."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Each application for membership of the Council shall be made to the Board together with the payment of fees as the Council may determine under paragraph 6(2)(c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Membership of the Council shall be renewable every year together with the payment of fees as the Council may determine under paragraph 6(2)(c)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GRIEVANCE MECHANISM AND DISCIPLINARY PROCEEDINGS Grievance mechanism"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may establish a mechanism to regulate procedures relating to complaints of grievance that should function for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "as an intermediary between the Council, members of the Council and the public;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine process and procedure for a complaint system;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to establish an efficient and swift dispute resolution system to ensure public confidence in the members of the Council and the media industry; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote understanding and compliance of the ethical and responsible journalism."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The determination of the regulatory mechanism for procedures relating to complaints of grievance shall be made and adopted by the Council from time to time, by a resolution of a simple majority of votes of the members present and voting at the general meeting. Matters in respect of disciplinary powers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have disciplinary powers over its members and may exercise disciplinary powers against members who have contravened any provisions of this Act or alleged to have committed a misconduct as stipulated in the code of conduct, guideline, instruction or circular issued by the Council or the Board, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_IV__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall, establish any disciplinary offences, impose any disciplinary penalties and determine the procedures for disciplinary proceedings, by a resolution of a simple majority of votes of the members present and voting at the general meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Malaysian Media Council Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“member” means a member of the Council admitted as a member from any categories of membership as specified in section 7, and includes the Chairman of the Board as specified under subsection 9(3); “non-media member” means individual including academician, media trainer, non-governmental organization, and public not from the media industry; “media industry” means any—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "news agency, which is a news organization incorporated under any Malaysian law for the purpose of collecting, verifying, and disseminating news, information, images, and videos;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "newspaper organization, which is a news organization that publishes printed or digital reading materials on a daily or periodic basis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "broadcaster, which is a radio or television station that broadcasts for public listening or viewing, including materials available in digital format via the internet;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "media practitioner;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "independent media practitioner;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "foreign media, which is a media company owned or controlled by foreign media organizations, who has media practitioners in Malaysia and publish news and journalism content in Malaysia or particularly about Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "media publisher;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "media company; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "media association, but does not include the advertising industry, online service providers and entities that aggregate or develop news from other sources; “journalism” means the practice of collecting, organizing, analysing and conveying information or news to the public done by journalists, bloggers, analysts or any person involved in publishing and shared whether in printed or digital form through any medium of publication, radio and television broadcasts, or digital media; “Board” means the Board of Malaysian Media Council established under section 8 of this Act; “Council” means the Malaysian Media Council established under section 3 of this Act; “Minister” means the Minister charged with the responsibility for communications; “media publisher” means an individual who is responsible for overseeing the publication or broadcasting of news content in print, online and broadcast media, in preparation of final published edition to the public; “media practitioner” means a journalist, editor, photographer, videographer and graphic designer or any person involved in the creation, production and dissemination of content for a media company and such person shall be an employee of a media publisher; “independent media practitioner” means a person producing news content for a media company but is not an employee or a person publishing news content and commentaries which are hosted on online media; “Chairman” means the Chairman of the Council appointed under section 9 of this Act; “media association” means any non-profit entity, trade union or association consist of media practitioners representing the interests and welfare of the media parties; “media company” means an organization or business entity that creates, produces, distributes and manages media content in printed, broadcast or digital form, and shall have not less than ten media practitioners as employees of that media company."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "FINANCE Malaysian Media Council Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL General meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall convene a general meeting as provided in the Second Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, upon the recommendation of the Board, by order published in the Gazette, amend the Second Schedule. Safekeeping of records and accounts of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Council shall keep minutes of its proceedings including—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "minutes of the meeting of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "minutes of the general meeting of the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "papers considered for all resolutions in the meetings of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "papers considered for all resolutions in the general meeting; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accounts and records of accounts as will sufficiently explain the transactions of the accounts to enable a true and fair balance sheet, income and expenditure statement and profit and loss statement to be prepared. Guideline, directive, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may issue any guideline, directive, circular, standard and notice as the Council may consider necessary or expedient, which shall be complied with by all members."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member who fails to comply with the guideline, directive, circular, standard and notice is subject to the disciplinary proceedings of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Such guideline, directive, circular, standard and notice shall be made and adopted by the Council by a resolution of a simple majority of votes of the members present and voting in the general meeting. Code of conduct"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may establish a code of conduct which shall be observed by its members."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The code of conduct shall be made and adopted by the Council by a resolution of a simple majority of votes of the members present and voting in the general meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If it comes to the knowledge of the Council that there is an alleged breach of the code of conduct committed by any member of the Council, the matter shall be dealt with by the grievance mechanism and disciplinary proceedings established under Part IV. Protection against suits and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or other proceedings shall be brought, instituted or maintained in any court against the Board or any committee established by the Board on account of or in respect of any act, neglect or default done or omitted by them in the course of carrying out their duties under this Act unless it can be proven that the act, neglect or default was done or omitted in bad faith and without reasonable cause."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A fund to be known as the “Malaysian Media Council Fund” is established and shall be administered and controlled by the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysian Media Council Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such sums as may be provided by Parliament from time to time for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all moneys earned by the fees collected, operation of any project or scheme financed from the Malaysian Media Council Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all moneys earned or arising from any property, mortgage, lease, tenancy, charge or debenture acquired by or vested in the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "moneys received by the Council by way of grants or donations that are lawfully received by the Council; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all other sums and properties which may in any manner become payable to or vested in the Council in respect of any matter incidental to the performance of its functions and the exercise of its powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of paragraph (2)(a), for any period that the Council received any sums provided by the Parliament for the purposes of this Act, the Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall not receive any foreign fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (4), the Council may receive foreign fund without any conditions from any individual or foreign organization for the purpose of promoting awareness and providing education in relation to media industry, subject to the approval of the Minister. Expenditure to be charged on Malaysian Media Council Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysian Media Council Fund shall be expended for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any expenditure lawfully incurred by the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying the remuneration, allowances and other expenses of the members of the Board, committees and employees of the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "financing research activities in relation to the development of the media industry;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any membership fees to any bodies or associations, within or outside of Malaysia, of which the Council is a member as the Board may determine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "making contributions to bodies or organizations, within or outside Malaysia, related to journalism activities as the Board may determine; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying any other expenses, costs or expenditure in relation to the procurement of goods and services, including the engagement of consultants, fees and legal costs and other fees and costs, properly incurred or accepted by the Council in the performance of its functions and exercise of its powers under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding paragraph (1)(e), any contributions to bodies or organizations outside Malaysia shall be subject to the approval of the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Subsection 8(6)] Founding Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 8 of this Act, members of the founding Board appointed by the Minister are as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members of the Board consisting of media companies represented by their respective media publisher or nominated senior management;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members of the Board consisting of media associations represented by any nominated member of the association, media practitioner and independent media practitioner; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members of the Board consisting of non-media members."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the founding Board appointed by the Minister shall appoint a Chairman which shall head the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The founding Board shall perform the functions and powers of the Board from the date of appointment of the founding Board until the nomination and election of the members of the Board under subsection 8(4) of this Act be conducted."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The founding Board shall be responsible to hold the first general meeting of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The tenure of office of the members of the founding Board is not subject to the tenure of office as provided in section 10 of this Act. Meetings of the Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall meet at least once in every three months at such times and places as the Chairman may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at all meetings of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Chairman is absent at any meeting of the Board, the Chairman may direct the Deputy Chairman to replace him as the chairperson of the meeting and if the Chairman and the Deputy Chairman are absent, the Board shall elect from among themselves to preside at the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum of the Board for the meetings shall be eleven members, including the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall determine its own procedure of meetings. The Board may invite others to meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may invite any person to attend a meeting of the Board for the purpose of advising the Board on any matter under discussion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person invited under subparagraph (1) may be paid such allowances and other expenses as the Council may determine by a resolution of a simple majority of votes of the members present and voting in the general meeting. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board or any person invited to attend the meeting of the Board, who has or acquires a direct or indirect interest, in relation to any matter under discussion by the Board shall disclose to the Board, the fact of his interest and nature of that interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subparagraph (1) shall be recorded in the minutes of the meeting of the Board in which the matter is discussed and, after the disclosure, the member—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be present or take part in any discussion or decision of the Board about the matter; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_4__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be disregarded for the purpose of constituting a quorum of the Board when the matter is discussed or decided upon. Minutes"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The minutes of the meeting of the Board duly signed by the chairperson of the meeting shall be admissible in any legal proceedings as a prima facie evidence of the facts stated in the minutes without further proof."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2",
+      "@type": "akn:schedule",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "[Section 19] GENERAL MEETINGS First general meeting"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The first general meeting of the Council shall be convened within the period of six months from the date of appointment of the members of the founding Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notice of the first general meeting shall be sent to the members of the Council, in such manner as the founding Board may determine, not less than thirty days before the date of the meeting, and not more than sixty days."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum for the first general meeting shall be one third of the membership of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The agenda for the first general meeting shall include the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to elect the members of the Board of the Council under subsection 8(4) of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine the procedure in relation to conducting an annual general meeting of the Council; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to determine fees and other matters relating to the membership of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The founding Board shall cause to be prepared and presented to the first general meeting—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any matters to be determined for the purpose of performing the functions of the Council under section 5 of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any matters to be determined for the purpose of exercising the powers of the Council under subsection 6(3) of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Matters that require decision in the first general meeting shall be determined by a resolution of a simple majority of votes of the members present and voting in the general meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where there is an equality of votes, the chairperson of the meeting shall have a casting vote in addition to his deliberative vote. Annual general meeting"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An annual general meeting after the first general meeting shall be convened on the frequency of once in a calendar year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where there is an equality of votes, the chairperson of the meeting shall have a casting vote in addition to his deliberative vote. Extraordinary general meeting"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notice of an annual general meeting shall be sent to the members of the Council, in such manner as the Council may determine, not less than thirty days before the date of the meeting, and not more than sixty days."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notice of an annual general meeting shall include but not limited to the following particulars:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "place, date and time of the meeting; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "every matter proposed to be determined at that meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notice of an annual general meeting shall be accompanied with—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a copy of the minutes of the last general meeting;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a copy of the audited accounts together with the auditor’s report on the Malaysian Media Council Fund; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other documents to be determined in that meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the Council may, in such manner as the Board may determine, submit any motion to be considered at an annual general meeting, and such motion shall be submitted to the Board at least twenty days before the annual general meeting is held."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum for an annual general meeting shall be one third of the membership of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a quorum referred to in subparagraph (6) is not present within one hour from the time appointed for holding the meeting, the meeting shall be adjourned to the following day at the same time and place unless otherwise notified, and if the quorum is not present at such adjourned meeting within one hour from the time appointed, the members present and entitled to vote, whatever their number, shall constitute a quorum and may conduct the business for which the meeting was convened."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall cause to be prepared and presented to an annual general meeting—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "reports on the activities of the Council during the tenure of office of the Board;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "audited account for one calendar year for the last year immediately before the annual general meeting;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any matters to be determined for the purpose of performing the functions of the Council under section 5 of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any matters to be determined for the purpose of exercising the powers of the Council under subsection 6(3) of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matters to be determined at that annual general meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Matters that require a decision in an annual general meeting shall be determined by a resolution of a simple majority of votes of the members present and voting in the annual general meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An extraordinary general meeting of the Council may be convened at any time by the Council and shall be held on a request of not less than one fifth of the total membership of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/63/eng@/~sched_2__para_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Procedures in relation to an extraordinary general meeting of the Council are as determined by the Council."
+      }
+    }
+  ]
+}

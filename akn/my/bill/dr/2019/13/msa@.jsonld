@@ -169,45 +169,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8",
       "@type": "akn:clause",
       "eli:number": "8",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8__subsec_4"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 21 seksyen yang berikut: “Kuasa untuk mengkompaun kesalahan 21a. (1) Pegawai yang Menjaga Daerah Polis boleh, dengan keizinan secara bertulis oleh Pendakwa Raya, mengkompaun mana-mana kesalahan yang boleh dihukum di bawah seksyen 9 atau 15 dengan membuat suatu tawaran bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaun kesalahan itu apabila dibayar kepada Pegawai yang Menjaga Daerah Polis apa-apa amaun wang yang tidak melebihi lima ribu ringgit dalam apa-apa masa sebagaimana yang dinyatakan dalam tawaran bertulis itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Suatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum apa-apa pendakwaan baginya telah dimulakan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu, atau apa-apa tempoh lanjutan sebagaimana yang diberikan oleh Pegawai yang Menjaga Daerah Polis, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/13/msa@/~cl_8",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika suatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat, dan apa-apa dokumen atau benda yang disita berkaitan dengan kesalahan itu boleh dilepaskan oleh Pegawai yang Menjaga Daerah Polis, tertakluk kepada apa-apa terma sebagaimana yang difikirkan patut oleh Pegawai yang Menjaga Daerah Polis.”. Kecualian"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 21 seksyen yang berikut: “Kuasa untuk mengkompaun kesalahan 21a. (1) Pegawai yang Menjaga Daerah Polis boleh, dengan keizinan secara bertulis oleh Pendakwa Raya, mengkompaun mana-mana kesalahan yang boleh dihukum di bawah seksyen 9 atau 15 dengan membuat suatu tawaran bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaun kesalahan itu apabila dibayar kepada Pegawai yang Menjaga Daerah Polis apa-apa amaun wang yang tidak melebihi lima ribu ringgit dalam apa-apa masa sebagaimana yang dinyatakan dalam tawaran bertulis itu. (2) Suatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan tetapi sebelum apa-apa pendakwaan baginya telah dimulakan. (3) Jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu, atau apa-apa tempoh lanjutan sebagaimana yang diberikan oleh Pegawai yang Menjaga Daerah Polis, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat. (4) Jika suatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat, dan apa-apa dokumen atau benda yang disita berkaitan dengan kesalahan itu boleh dilepaskan oleh Pegawai yang Menjaga Daerah Polis, tertakluk kepada apa-apa terma sebagaimana yang difikirkan patut oleh Pegawai yang Menjaga Daerah Polis.”. Kecualian"
       }
     },
     {

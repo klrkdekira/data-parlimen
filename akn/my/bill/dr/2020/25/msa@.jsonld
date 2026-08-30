@@ -1,0 +1,778 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-25-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_21"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Cukai Pelancongan (Pindaan) 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Bahagian V bahagian yang berikut: “Bahagian Va PEMBERI PERKHIDMATAN PLATFORM DIGITAL Pengenaan cukai pelancongan 20a. (1) Walau apa pun seksyen 6, cukai pelancongan hendaklah dikenakan dan dilevikan ke atas pelancong yang menginap di mana-mana premis penginapan yang disediakan melalui perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian yang diberikan oleh pemberi perkhidmatan platform digital pada kadar yang ditetapkan mengikut seksyen 8. (2) Adalah menjadi kewajipan pelancong itu untuk membayar cukai pelancongan kepada pemberi perkhidmatan platform digital. (3) Jika cukai pelancongan bagi premis penginapan yang disediakan melalui perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian telah dibayar oleh pelancong kepada pemberi perkhidmatan platform digital, pengendali tidak boleh memungut cukai pelancongan daripada pelancong itu, dengan syarat bahawa pelancong itu hendaklah mengemukakan bukti pembayaran. Kewajipan pemberi perkhidmatan platform digital untuk memungut cukai pelancongan dan membayar cukai pelancongan yang dipungut kepada Ketua Pengarah 20b. (1) Tiap-tiap pemberi perkhidmatan platform digital yang menyediakan premis penginapan melalui perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian hendaklah memungut cukai pelancongan daripada pelancong. (2) Tiap-tiap pemberi perkhidmatan platform digital hendaklah membayar cukai pelancongan yang dipungut atau kena dipungut di bawah Akta ini kepada Ketua Pengarah. Tanggungan pemberi perkhidmatan platform digital untuk mendaftar 20c. (1) Tiap-tiap pemberi perkhidmatan platform digital hendaklah bertanggungan untuk mendaftar di bawah Bahagian ini dan bagi maksud itu hendaklah memohon kepada Ketua Pengarah untuk didaftarkan, mengikut cara sebagaimana yang ditetapkan. (2) Permohonan untuk pendaftaran yang disebut dalam subseksyen (1) hendaklah dibuat dalam tempoh tiga puluh hari dari tarikh pemberi perkhidmatan platform digital itu memberikan perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian yang premis penginapan itu di dalam Malaysia. (3) Tiap-tiap pemberi perkhidmatan platform digital yang memberikan perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian yang premis penginapan itu di dalam Malaysia sebelum Bahagian ini mula berkuat kuasa, hendaklah tidak lewat daripada tiga bulan sebelum tarikh Bahagian ini mula berkuat kuasa, memohon kepada Ketua Pengarah untuk didaftarkan mengikut cara sebagaimana yang ditetapkan. (4) Mana-mana pemberi perkhidmatan platform digital yang melanggar subseksyen (1) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. Pendaftaran pemberi perkhidmatan platform digital 20d. (1) Ketua Pengarah hendaklah mendaftarkan mana-mana pemberi perkhidmatan platform digital yang membuat permohonan untuk didaftarkan di bawah subseksyen 20c(1) atau (3) berkuat kuasa dari hari pertama bulan yang berikutnya selepas permohonan itu dikemukakan kepada Ketua Pengarah. (2) Walau apa pun subseksyen (1), Ketua Pengarah hendaklah mempunyai kuasa untuk mendaftarkan mana-mana pemberi perkhidmatan platform digital yang tidak berdaftar di bawah subseksyen (1) berkuat kuasa dari hari pertama bulan yang berikutnya selepas maklumat yang berhubungan dengan pengendalian pemberi perkhidmatan platform digital diketahui atau diberitahu kepada Ketua Pengarah. Pembatalan pendaftaran 20e. (1) Mana-mana pemberi perkhidmatan platform digital yang berhenti memberikan perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian di dalam Malaysia atau dikecualikan di bawah seksyen 9 daripada kehendak untuk mendaftar di bawah Bahagian Va hendaklah memberitahu Ketua Pengarah secara bertulis tentang hakikat itu dan tarikhnya dalam tempoh tiga puluh hari dari tarikh pemberhentian. (2) Apabila pemberitahuan di bawah subseksyen (1) diterima, Ketua Pengarah boleh membatalkan pendaftaran pemberi perkhidmatan platform digital itu dari tarikh yang ditentukan oleh Ketua Pengarah. (3) Jika tiada pemberitahuan dibuat di bawah subseksyen (1) dan Ketua Pengarah berpuas hati bahawa pemberi perkhidmatan platform digital telah berhenti memberikan perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian di dalam Malaysia atau dikecualikan di bawah seksyen 9 daripada kehendak untuk mendaftar di bawah Bahagian Va, Ketua Pengarah boleh membatalkan pendaftarannya dari tarikh pemberi perkhidmatan platform digital berhenti memberikan perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian di dalam Malaysia atau dari tarikh pemberi perkhidmatan platform digital dikecualikan daripada kehendak untuk mendaftar atau dari tarikh yang terkemudian sedemikian sebagaimana yang ditentukan oleh Ketua Pengarah, mengikut mana-mana yang berkenaan. Invois, resit atau dokumen lain 20f. (1) Tiap-tiap pemberi perkhidmatan platform digital hendaklah, dalam tempoh tiga puluh hari dari tarikh premis penginapan yang disediakan atau tempoh lanjutan sebagaimana yang diluluskan oleh Ketua Pengarah, mengeluarkan suatu invois, resit atau dokumen lain dalam bahasa kebangsaan atau dalam bahasa Inggeris kepada pelancong berkenaan dengan premis penginapan yang disediakan melalui perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian dan hendaklah menyatakan amaun cukai pelancongan yang kena dibayar secara berasingan daripada apa-apa caj lain yang dikenakan ke atas pelancong itu. (2) Invois, resit atau dokumen lain yang disebut dalam subseksyen (1) boleh dikeluarkan secara elektronik atau dalam bentuk fizikal. (3) Mana-mana pemberi perkhidmatan platform digital yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. Nota kredit dan nota debit 20g. Jika seseorang pemberi perkhidmatan platform digital mengeluarkan nota kredit atau nota debit yang mengandungi butir-butir yang ditetapkan dalam hal keadaan dan mengikut syarat yang ditetapkan, pemberi perkhidmatan platform digital itu hendaklah membuat pelarasan dalam penyatanya dengan sewajarnya. Tempoh bercukai 20 h. (1) Tempoh bercukai bagi seseorang pemberi perkhidmatan platform digital hendaklah suatu tempoh tiga bulan yang berakhir pada hari terakhir mana-mana bulan bagi mana-mana tahun kalendar. (2) Pemberi perkhidmatan platform digital itu boleh memohon secara bertulis kepada Ketua Pengarah untuk suatu tempoh bercukai selain tempoh yang sebagaimana ditentukan di bawah subseksyen (1). (3) Ketua Pengarah boleh, apabila apa-apa permohonan di bawah subseksyen (2) diterima— (a) membenarkan permohonan itu dan tempoh bercukai hendaklah tempoh sebagaimana yang dipohon; (b) menolak permohonan itu dan tempoh bercukai hendaklah kekal sebagaimana yang ditentukan di bawah subseksyen (1); atau (c) mengubah tempoh bagi tempoh bercukai atau tarikh tempoh bercukai bermula atau berakhir. (4) Ketua Pengarah boleh, jika difikirkan patut, menetapkan semula pemberi perkhidmatan platform digital itu kepada apa-apa tempoh bercukai selain tempoh yang telah ditentukan sebelum itu di bawah subseksyen (1) atau (3). Pengemukaan penyata dan pembayaran cukai pelancongan 20i. (1) Tiap-tiap pemberi perkhidmatan platform digital hendaklah, berkenaan dengan tempoh bercukainya, mengakaunkan cukai pelancongan yang diterima dalam suatu penyata sebagaimana yang ditetapkan dan penyata itu hendaklah dikemukakan kepada Ketua Pengarah mengikut cara yang ditetapkan tidak lewat daripada hari terakhir bulan berikutnya selepas berakhirnya tempoh bercukai pemberi perkhidmatan platform digital itu yang berkaitan dengan penyata itu. (2) Mana-mana pemberi perkhidmatan platform digital yang dikehendaki untuk mengemukakan suatu penyata di bawah seksyen ini hendaklah membayar kepada Ketua Pengarah amaun cukai pelancongan yang genap masa dan kena dibayar oleh pemberi perkhidmatan platform digital berkenaan dengan tempoh bercukai yang berkaitan dengan penyata itu tidak lewat daripada hari terakhir yang pemberi perkhidmatan platform digital itu dikehendaki untuk mengemukakan penyata itu. (3) Mana-mana pemberi perkhidmatan platform digital yang terhenti daripada berdaftar di bawah seksyen 20d hendaklah, tidak lewat daripada tiga puluh hari selepas terhenti daripada berdaftar atau apa-apa tarikh yang kemudian dari itu sebagaimana yang dibenarkan oleh Ketua Pengarah, mengemukakan suatu penyata yang mengandungi butir-butir sebagaimana yang ditentukan oleh Ketua Pengarah berkenaan dengan bahagian tempoh bercukai yang terakhir yang pemberi perkhidmatan platform digital itu berdaftar. (4) Penyata yang disebut dalam subseksyen (1) hendaklah dikemukakan sama ada atau tidak terdapat cukai pelancongan yang kena dibayar. (5) Mana-mana pemberi perkhidmatan platform digital yang gagal mengemukakan penyata yang dikehendaki di bawah subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. (6) Mana-mana pemberi perkhidmatan platform digital yang gagal membayar kepada Ketua Pengarah amaun cukai pelancongan yang genap masa dan kena dibayar di bawah subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. (7) Jika apa-apa cukai pelancongan yang genap masa dan kena dibayar tidak dibayar sepenuhnya atau sebahagiannya oleh mana-mana pemberi perkhidmatan platform digital selepas hari terakhir yang ia genap masa dan kena dibayar di bawah subseksyen (2) dan tiada pendakwaan dimulakan, pemberi perkhidmatan platform digital itu hendaklah membayar— (a) bagi tempoh tiga puluh hari yang pertama yang cukai pelancongan itu tidak dibayar sepenuhnya atau sebahagiannya selepas tamat tempoh yang dinyatakan di bawah subseksyen (2), penalti sebanyak sepuluh peratus daripada amaun cukai pelancongan itu yang masih belum dibayar; (b) bagi tempoh tiga puluh hari yang kedua yang cukai pelancongan itu tidak dibayar sepenuhnya atau sebahagiannya selepas tamat tempoh yang dinyatakan di bawah subseksyen (2), penalti tambahan sebanyak sepuluh peratus daripada amaun cukai pelancongan itu yang masih belum dibayar; dan (c) bagi tempoh tiga puluh hari yang ketiga yang cukai pelancongan itu tidak dibayar sepenuhnya atau sebahagiannya selepas tamat tempoh yang dinyatakan di bawah subseksyen (2), penalti tambahan sebanyak sepuluh peratus daripada amaun cukai pelancongan itu yang masih belum dibayar. (8) Tertakluk kepada subseksyen (10), pendakwaan bagi suatu kesalahan di bawah subseksyen (6) boleh dimulakan selepas tamat tempoh yang dinyatakan dalam perenggan (7)(c). (9) Mahkamah boleh memerintahkan seorang pemberi perkhidmatan platform digital yang disabitkan bagi suatu kesalahan di bawah subseksyen (6) membayar penalti yang dinyatakan dalam subseksyen (7). (10) Tiada pendakwaan bagi kesalahan di bawah subseksyen (6) boleh dimulakan terhadap pemberi perkhidmatan platform digital yang telah membayar amaun cukai pelancongan yang genap masa dan kena dibayar dan penalti yang dinyatakan dalam subseksyen (7) dalam tempoh yang dinyatakan dalam subseksyen (7). Kewajipan untuk menyimpan rekod 20j. (1) Tiap-tiap pemberi perkhidmatan platform digital hendaklah menyimpan rekod yang lengkap, benar dan kemas kini bagi segala transaksi yang menyentuh atau mungkin menyentuh tanggungannya untuk memungut cukai pelancongan dalam buku akaun atau rekod lain sebagaimana yang diarahkan oleh Ketua Pengarah. (2) Apa-apa rekod yang disimpan di bawah seksyen ini hendaklah dipelihara bagi tempoh tujuh tahun dari tarikh terakhir yang berkaitan dengan rekod itu dan hendaklah tersedia untuk pemeriksaan oleh mana-mana pegawai kanan kastam. (3) Jika rekod itu adalah dalam bentuk yang boleh dibaca secara elektronik, rekod itu hendaklah disimpan mengikut apa-apa cara yang membolehkan rekod itu menjadi tersedia boleh diakses dan ditukar ke dalam tulisan. (4) Mana-mana pemberi perkhidmatan platform digital yang melanggar seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi tiga puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. Penyampaian notis, dsb 20k. Tiap-tiap notis, arahan atau apa-apa dokumen lain yang dikehendaki oleh Akta ini untuk disampaikan kepada pemberi perkhidmatan platform digital boleh disampaikan melalui perkhidmatan elektronik di bawah seksyen 62.”. Pindaan seksyen 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 24 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pengendali” perkataan “atau pemberi perkhidmatan platform digital”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “penyata cukai pengendali” perkataan “atau penyata cukai pemberi perkhidmatan platform digital”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “subseksyen 19(1)” perkataan “atau subseksyen 20i(1)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “pengendali” perkataan “atau pemberi perkhidmatan platform digital”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “pengendali” perkataan “atau pemberi perkhidmatan platform digital”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam subseksyen (1), dengan memasukkan selepas perkataan “an operator” perkataan “or a digital platform service provider”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “kebenaran pengendali” dengan perkataan “kebenaran pengendali atau pemberi perkhidmatan platform digital”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dalam subseksyen (1), (2) dan (3), dengan memasukkan selepas perkataan “pengendali” di mana-mana jua terdapat perkataan “atau pemberi perkhidmatan platform digital”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “the operator” di mana-mana jua terdapat perkataan “or digital platform service provider”. Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 29 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam subseksyen (1), dengan memasukkan selepas perkataan “an operator” perkataan “or a digital platform service provider”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan memasukkan selepas perkataan “pengendali” di mana-mana jua terdapat perkataan “atau pemberi perkhidmatan platform digital”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam subseksyen (2), dengan memasukkan selepas perkataan “the operator” di mana-mana jua terdapat perkataan “or digital platform service provider”. Pindaan seksyen 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 30(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “seksyen 14” perkataan “atau seksyen 20f”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) invois, resit dan dokumen lain itu telah dikeluarkan oleh seseorang yang bukan— (i) pengendali yang berdaftar di bawah seksyen 12; atau (ii) pemberi perkhidmatan platform digital yang berdaftar di bawah seksyen 20d, yang baginya suatu amaun yang berupa sebagai cukai pelancongan boleh dikenakan; atau”. Pindaan seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 33 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “premis penginapan” perkataan “atau penyediaan perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “premis penginapan” perkataan “, memberikan perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (3)(a)— Pindaan seksyen 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pengendali” perkataan “, pemberi perkhidmatan platform digital”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “perniagaan pengendali” dengan perkataan “perniagaan pengendali atau pemberi perkhidmatan platform digital”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “seksyen 17” perkataan “atau 20j”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 41(1) Akta ibu dipinda dengan memasukkan selepas perkataan “bagi pihaknya” perkataan “atau mana-mana penginapan yang disediakan melalui perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian”. Pemotongan seksyen 64"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 64. Pindaan seksyen 65"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 65 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “pengendali” perkataan “atau pemberi perkhidmatan platform digital”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “an operator” di mana-mana jua terdapat perkataan “or a digital platform service provider”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam subseksyen (2), dengan memasukkan selepas perkataan “the operator” di mana- mana jua terdapat perkataan “or digital platform service provider”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dalam subseksyen (1) dan (2), dengan memasukkan selepas perkataan “pengendali” di mana-mana jua terdapat perkataan “pemberi perkhidmatan platform digital”. Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 69(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “di bawah seksyen 12” perkataan “atau seseorang pemberi perkhidmatan platform digital yang berdaftar di bawah seksyen 20d”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pengendali itu” di mana-mana jua terdapat perkataan “atau pemberi perkhidmatan platform digital”. Pindaan seksyen 70"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Pelancongan (Pindaan) 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa Bahagian yang berlainan atau peruntukan yang berlainan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (2), Menteri boleh, melalui pemberitahuan dalam Warta, menetapkan tarikh efektif bagi mengenakan dan melevikan cukai pelancongan ke atas premis penginapan yang disediakan melalui perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian di bawah Akta ini. Seksyen baharu 1a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Pelancongan 2017 [Akta 791], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 1 seksyen yang berikut: “Pemakaian wilayah dan luar wilayah 1a. (1) Akta ini dan perundangan subsidiarinya hendaklah terpakai kedua-duanya di dalam dan di luar Malaysia. (2) Walau apa pun subseksyen (1), Akta ini dan perundangan subsidiarinya hendaklah terpakai bagi mana-mana orang walau apa pun kerakyatan atau kewarganegaraan, di luar had geografi Malaysia dan perairan wilayah Malaysia, jika orang itu ialah seorang pemberi perkhidmatan platform digital yang berdaftar di bawah seksyen 20d.”. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 70(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memotong perkataan “dan” di hujung perenggan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan menggantikan noktah di hujung perenggan dengan perkataan “; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (e) perenggan yang berikut: “(f) untuk menetapkan perkara yang berhubungan dengan pemberi perkhidmatan platform digital.”. Tempahan premis penginapan dalam talian sebelum tarikh efektif"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa tempahan premis penginapan dibuat oleh pelancong dengan pemberi perkhidmatan platform digital melalui perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian sebelum tarikh efektif yang dinyatakan dalam subseksyen 1(3) dan pelancong itu menginap di premis penginapan itu pada atau selepas tarikh efektif itu, tiada cukai pelancongan boleh dikenakan ke atas pelancong itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pengendali” takrif yang berikut: ‘ “pemberi perkhidmatan platform digital” ertinya mana-mana orang yang memberikan perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian kepada seseorang pelancong sama ada orang itu di dalam atau di luar Malaysia;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “premis penginapan” takrif yang berikut: ‘ “perkhidmatan yang berhubungan dengan tempahan premis penginapan dalam talian” ertinya apa-apa perkhidmatan dalam talian yang berhubungan dengan tempahan premis penginapan yang dihantar secara automatik melalui internet atau apa-apa rangkaian elektronik yang lain;’. Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 9(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan “atau golongan pengendali” dengan perkataan “, golongan pengendali, pemberi perkhidmatan platform digital atau golongan pemberi perkhidmatan platform digital”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c)— Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “atau golongan pengendali” dengan perkataan “, golongan pengendali, pemberi perkhidmatan platform digital atau golongan pemberi perkhidmatan platform digital”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Bahagian IV” perkataan “atau Bahagian Va”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Jika tiada pemberitahuan dibuat di bawah subseksyen (1) dan Ketua Pengarah berpuas hati bahawa pengendali itu telah berhenti mengendalikan premis penginapan atau dikecualikan di bawah seksyen 9, Ketua Pengarah boleh membatalkan pendaftaran pengendali itu dari tarikh pengendali itu berhenti mengendalikan premis penginapan atau dari tarikh pengendali itu dikecualikan atau dari tarikh kemudian sedemikian sebagaimana yang ditentukan oleh Ketua Pengarah, mengikut mana-mana yang berkenaan.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 14(1) Akta ibu dipinda dengan memasukkan selepas perkataan “pengendali hendaklah” perkataan “, dalam tempoh tiga puluh hari dari tarikh penginapan itu disediakan atau apa-apa tempoh lanjutan sebagaimana yang diluluskan oleh Ketua Pengarah,”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda dengan memasukkan selepas perkataan “pengendali” perkataan “atau pemberi perkhidmatan platform digital”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Walau apa pun subseksyen (1), seseorang pengendali boleh memohon secara bertulis kepada Ketua Pengarah untuk suatu tempoh bercukai yang lain. (4) Ketua Pengarah boleh, apabila apa-apa permohonan di bawah subseksyen (3) diterima— (a) membenarkan permohonan itu dan tempoh bercukai hendaklah tempoh sebagaimana yang dipohon; (b) menolak permohonan itu dan tempoh bercukai hendaklah kekal sebagaimana yang ditentukan di bawah subseksyen (1); atau (c) mengubah tempoh bagi tempoh bercukai atau tarikh tempoh bercukai itu bermula atau berakhir. (5) Walau apa pun subseksyen (1) atau (4), Ketua Pengarah boleh, sebagaimana yang difikirkan patut, menetapkan semula apa-apa tempoh bercukai lain untuk pengendali itu.”. Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan menggantikan perkataan “atau 11” dengan perkataan “, 11 atau 20c”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “19” perkataan “atau 20i”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “19(8)” perkataan “atau 20i(6)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/25/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pengendali” di mana-mana jua terdapat perkataan “atau pemberi perkhidmatan platform digital”. Bahagian baharu Va"
+      }
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-44-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~chp_203"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pembekalan Air (Wilayah Persekutuan Kuala Lumpur) 1997"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~chp_203",
+      "@type": "akn:chapter",
+      "eli:number": "203",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(2) Perintah (Enakmen Bekalan Air) Wilayah P.U. (A) 153/74. Persekutuan 1974 adalah dibatalkan. (3) Perundangan subsidiari yang dibuat di bawah Enakmen Bekalan Air dan yang berkuatkuasa dalam Wilayah Persekutuan Kuala Lumpur hendaklah terus berkuatkuasa sehingga dibatalkan, dipinda atau digantikan dengan perundangan subsidiari yang dibuat berkenaan dengan Wilayah Persekutuan Kuala Lumpur di bawah undang-undang yang berhubungan dengan pembekalan dan pembahagian air dalam Wilayah Persekutuan Kuala Lumpur."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pembekalan Air"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Wilayah Persekutuan Kuala Lumpur) 1997 dan hendaklah mula berkuatkuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Undang-undang yang berhubungan dengan pembekalan dan pembahagian air dalam Negeri Selangor hendaklah terpakai bagi Wilayah Persekutuan Kuala Lumpur tetapi dengan ubahsuaian yang perlu, mengikut kehendak konteks."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), Menteri boleh melalui perintah membuat apa-apa ubahsuaian yang perlu kepada mana-mana peruntukan undang-undang yang disebut dalam subseksyen (1) bagi maksud menghapuskan kesulitan dalam pemakaiannya bagi Wilayah Persekutuan Kuala Lumpur."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak berkuasa yang bertanggungjawab bagi Pihak berkuasa yang pembekalan dan pembahagian air dalam Negeri Selangor bertanggung- hendaklah menjalankan, bagi pihak Kerajaan Persekutuan, jawab bagi Wilayah kuasa dan fungsi di bawah undang-undang yang terpakai Persekutuan bagi Wilayah Persekutuan Kuala Lumpur mengenai Kuala Lumpur perkara-perkara yang berhubungan dengan pembekalan mengenai dan pembahagian air dalam Wilayah Persekutuan Kuala perkara- perkara air. Lumpur."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam subseksyen (1) boleh menghalang Kerajaan Persekutuan daripada menjalankan bagi pihaknya sendiri kuasa dan fungsi yang berhubungan dengan pembekalan dan pembahagian air di bawah undang- undang yang terpakai bagi Wilayah Persekutuan Kuala Lumpur. Pemansuhan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_4__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/44/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Enakmen Bekalan Air hendaklah terhenti terpakai N.M.B. bagi Wilayah Persekutuan Kuala Lumpur."
+      }
+    }
+  ]
+}

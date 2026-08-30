@@ -1,0 +1,288 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-5-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Dangerous Drugs (Amendment) Bill 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Dangerous Drugs short title (Amendment) Act 1998 and shall come into force on a and date to be appointed by the Minister by notification in commence the Gazette. ment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Dangerous Drugs Act 1952, which in this Act Amendment is referred to as the \"principal Act\", is amended in section of section 2 2 by inserting after the definition of \"in transit\" the act 234 following definition: '\"licensed pharmacist\" means a registered pharmacist who is the holder of a Type A Licence Act 366. issued under the Poisons Act 1952;'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3) by substituting for the word \"twenty\" the words \"one hundred\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: \"(4) Any person who is a public officer employed at any prison, rehabilitation centre, police lock-up or place of detention shall, on his conviction under subsection (3) for contravening the provisions of subsection (2), be liable to whipping of not more than three strokes in addition to the punishment to which he is liable under subsection (3).\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 16(2) of the principal Act is amended by"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Amendment of section substituting for the words \"person who is licensed to 16. sell by retail poisons\" the words \"licensed pharmacist\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Paragraph 37(da) of the principal Act is amended— of section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "37."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ix) by deleting the word \"or\" at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (x) by substituting for the comma a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (x) the following subparagraphs: \"(xi) 50 grammes or more in weight of 2- Amino-1 -(2, 5-dimethoxy-4-methyl) phenylpropane; (xii) 50 grammes or more in weight of Amphetamine; (xiii) 50 grammes or more in weight of 2, 5-Dimethoxyamphetamine (DMA); (xiv) 50 grammes or more in weight of Dimethoxybromoamphetamine (DOB); (xv) 50 grammes or more in weight of 2,5- Dimethoxy-4-ethylamphetamine (DOET); (xvi) 50 grammes or more in weight of Methamphetamine; (xvii) 50 grammes or m o re weight of 5-Methoxy-3, 4- Methylenedioxyamphetamine (MMDA); (xviii) 50 grammes or more in weight of Methylenedioxyamphetamine (MDA); (xix) 50 grammes or more in weight of N-ethyl MDA; (xx) 50 grammes or more in weight of N-hydroxy MDA; (xxi) 50 grammes or more weight of N-methyl-l-(3, 4- methylenedioxyphenyl)-2-butanamine; (xxii) 50 grammes or more in weight of 3,4- Methylenedioxymethamphetamine (MDMA); (xxiii) 50 grammes or more in weight of Paramethoxyamphetamine (PMA); or (xxiv) 50 grammes or more in weight of 3,4,5- Trimethoxyamphetamine (3, 4, 5- TMA),\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section Amendment 38A the following section: of section 38A \"powers of 38A. Where any person below the age of the court eighteen years is found guilty of an offence in respect of drug against this Act other than an offence under dependants section 6B or 39B or other than in a case where below the a person is found guilty of an offence against age of which the punishment shall be under eighteen section 39A, the Court may, if it is satisfied that such person is a drug dependant as certified by a government medical officer or a registered medical practitioner and that it is inexpedient to inflict the punishment provided, deal with Act 283. such person under section 6 of the Drug Dependants (Treatment and Rehabilitation) Act 1983.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section of section 38B the following section: 38B. \"powers of 38B. (1) Where a person is found guilty of the Court an offence under section 15, he shall, in respect immediately after having undergone the of punishment imposed upon him in respect thereof, persons undergo supervision by an officer as defined found under section 2 of the Drug Dependants under (Treatment and Rehabilitation) Act 1983 for a section period of notlees than two and not more than 15 three years as may be determined by the Court. (2) A person required to undergo supervision under subsection (1) shall be deemed to have been placed under such supervision under paragraph (b) of subsection (1) of section 6 of the Drug Dependants (Treatment and Rehabilitation) Act 1983.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 39A of the principal Act is amended—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "of section 39A."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)— \"(m) 5 grammes or more but less than 30 grammes in weight of 2- Amino-l-(2, 5-dimethoxy-4 methyl) phenylpropane; (n) 5 grammes or more but less than 30 grammes in weight of Amphetamine; (o) 5 grammes or more but less than 30 grammes in weight of 2,5- Dimethoxyamphetamine (DMA); (p) 5 grammes or more but less than 30 grammes in weight of Dimethoxybromoamphetamine (DOB); (q) 5 grammes or more but less than 30 grammes in weight of 2,5- Dimethoxy-4-ethylamphetamine (DOET); (r) 5 grammes or more but less than 30 grammes in weight of Methamphetamine; (s) 5 grammes or more but less than 30 grammes weight of 5-Methoxy-3, 4- Methylenedioxy amphetamine (MMDA); (t) 5 grammes or more but less than 30 grammes in weight of Methylenedioxyamphetamine (MDA); (u) 5 grammes or more but less than 30 grammes in weight of N-ethyl MDA; (v) 5 grammes or more but less than 30 grammes in weight of N-hydroxy MDA; (w) 5 grammes or more but less than 30 grammes in weight of N-methyl-l-(3,4- methylenedioxyphenyl)-2- butanamine; (x) 5 grammes or more but less than 30 grammes in weight of 3, 4- Methylenedioxymethamphetamine (MDMA); (y) 5 grammes or more but less than 30 grammes in weight of Paramethoxyamphetamine (PMA); or (z) 5 grammes or more but less than 30 grammes in weight of 3,4,5- Trimethoxyamphetamine (3,4,5- TMA),\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (k) by deleting the word \"or\" at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (I) by substituting for the comma a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (I) the following paragraphs:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)— \"(m) 30 grammes or more in weight of 2-Amino-l-(2, 5-dimethoxy- 4-methyl) phenylpropane; (n) 30 grammes or more in weight of Amphetamine; (o) 30 grammes or more in weight of 2,5-Dimethoxyamphetamine (DMA); (p) 30 grammes or more in weight of Dimethoxybromoamphetamine (DOB); (q) 30 grammes or more weight of 2, 5-Dimethoxy-4- ethylamphetamine (DOET); (r) 30 grammes or more in weight of Methamphetamine; (s) 30 grammes or more weight of 5-Methoxy-3,4- Methylenedioxy amphetamine (MMDA); (t) 30 grammes or more in weight of Methylenedioxyamphetamine (MDA); (u) 30-grammes or more in weight of N-ethyl MDA; (v) 30-grammes or more in weight of N-hydroxy MDA; (w) 30 grammes or more in weight of N-methyl-l-(3, 4-Methylenedioxyphenyl)- 2-butanamine; (x) 30 grammes or more in weight of 3, 4-Methylenedioxymethamphetamine (MDMA); (y) 30 grammes or more in weight of Paramethoxy amphetamine (PMA); or (z) 30 grammes or more in weight of 3,4,5-Trimethoxyamphetamine (3,4,5-TMA),\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (k) by deleting the word \"or\" at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (I) by substituting for the comma a semicolon; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/5/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (I) the following paragraphs:"
+      }
+    }
+  ]
+}

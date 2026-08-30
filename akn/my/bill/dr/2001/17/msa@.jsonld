@@ -127,7 +127,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__subsec_1B"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@",
       "schema:name": {
@@ -152,25 +152,14 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) The Commission may appoint, on such terms and conditions as it may determine, from amongst persons in the employment of the Commission such number of Regional Registrars, Deputy Registrars, Assistant Registrars, clerks and servants for the proper administration of this Act, and may revoke the appointment of any person so appointed or deemed to have been so appointed under subsection (1B)."
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) The Commission may appoint, on such terms and conditions as it may determine, from amongst persons in the employment of the Commission such number of Regional Registrars, Deputy Registrars, Assistant Registrars, clerks and servants for the proper administration of this Act, and may revoke the appointment of any person so appointed or deemed to have been so appointed under subsection (1B). (1B) The persons holding office as Regional Registrars, Deputy Registrars, Assistant Registrars, clerks and servants under this Act before the appointed date who were given an option by the Government of Malaysia and have opted to serve as employees of the Commission shall, on the appointed date, be deemed to have been appointed Regional Registrars, Deputy Registrars, Assistant Registrars, clerks and servants by the Commission.\"; dan"
       }
     },
     {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__subsec_1B",
-      "@type": "akn:subsection",
-      "eli:number": "1B",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__subsec_1B__para_c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The persons holding office as Regional Registrars, Deputy Registrars, Assistant Registrars, clerks and servants under this Act before the appointed date who were given an option by the Government of Malaysia and have opted to serve as employees of the Commission shall, on the appointed date, be deemed to have been appointed Regional Registrars, Deputy Registrars, Assistant Registrars, clerks and servants by the Commission.\"; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__subsec_1B__para_c",
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__para_c",
       "@type": "akn:paragraph",
       "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3__subsec_1B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/17/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
         "@value": "dalam subseksyen (13), dengan menggantikan perkataan \"No person appointed by the Minister under subsection (1)\" dengan perkataan \"Neither the Registrar nor any person appointed by the Commission under subsection (1A) or deemed to have been appointed under subsection (1B)\"."

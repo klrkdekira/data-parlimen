@@ -190,56 +190,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9",
       "@type": "akn:clause",
       "eli:number": "9",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 132b seksyen yang berikut: “International obligations 132c. (1) Notwithstanding section 132, 132a or 132b, if the Minister by statutory order declares that—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "arrangements specified in the order have been made by the Government to give effect to Malaysia’s international obligations in relation to tax under this Act or other taxes of every kind under any written law; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "it is expedient that those arrangements should have effect, then, so long as the order remains in force, notwithstanding anything in any written law, those arrangements shall have effect in relation to tax under this Act or other taxes of every kind under written law."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Where any arrangements have effect by virtue of this section, section 138 shall not prevent the disclosure to a duly authorized servant or agent of the government with which the arrangements have been made of such information as is required to be disclosed under the arrangements."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2018/22/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Any order made under this section shall be laid before the Dewan Rakyat.”. Pindaan seksyen 154"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 132b seksyen yang berikut: “International obligations 132c. (1) Notwithstanding section 132, 132a or 132b, if the Minister by statutory order declares that— (a) arrangements specified in the order have been made by the Government to give effect to Malaysia’s international obligations in relation to tax under this Act or other taxes of every kind under any written law; and (b) it is expedient that those arrangements should have effect, then, so long as the order remains in force, notwithstanding anything in any written law, those arrangements shall have effect in relation to tax under this Act or other taxes of every kind under written law. (2) Where any arrangements have effect by virtue of this section, section 138 shall not prevent the disclosure to a duly authorized servant or agent of the government with which the arrangements have been made of such information as is required to be disclosed under the arrangements. (3) Any order made under this section shall be laid before the Dewan Rakyat.”. Pindaan seksyen 154"
       }
     }
   ]

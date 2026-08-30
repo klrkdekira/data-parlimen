@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-2-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbekalan Tambahan (2009) 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (2009)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2010. Perbelanjaan tambahan bagi tahun 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang tidak melebihi enam bilion empat ratus tujuh puluh tiga juta lapan ratus empat ribu sembilan ratus enam puluh ringgit (RM6,473,804,960) daripada Kumpulan Wang Disatukan bagi perbelanjaan tambahan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2009 yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2009 [Akta A1340]. 2 Rang Undang-Undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/2/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk B. 1 Parlimen B. 4 Suruhanjaya Pilihan Raya B. 5 Suruhanjaya Perkhidmatan Awam B. 6 Jabatan Perdana Menteri B. 7 Jabatan Perkhidmatan Awam B. 9 Suruhanjaya Pencegahan Rasuah Malaysia B. 12 Peruntukan kepada Kumpulan Wang Terkanun B. 13 Kementerian Luar Negeri B. 22 Kementerian Kemajuan Luar Bandar dan Wilayah B. 25 Kementerian Perdagangan Dalam Negeri, Koperasi dan Kepenggunaan B. 27 Kementerian Kerja Raya B. 28 Kementerian Pengangkutan B. 29 Kementerian Tenaga, Teknologi Hijau dan Air B. 31 Kementerian Pelancongan B. 41 Kementerian Pelajaran B. 42 Kementerian Kesihatan B. 45 Kementerian Belia dan Sukan B. 46 Kementerian Sumber Manusia B. 47 Kementerian Penerangan, Komunikasi dan Kebudayaan B. 48 Kementerian Pembangunan Wanita, Keluarga dan Masyarakat B. 49 Kementerian Pengajian Tinggi B. 60 Kementerian Pertahanan B. 62 Kementerian Dalam Negeri JUMLAH Perbekalan Tambahan"
+      }
+    }
+  ]
+}

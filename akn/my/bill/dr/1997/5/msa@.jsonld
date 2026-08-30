@@ -47,21 +47,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/msa@/~cl_2__subsec_1B",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Notari Awam 1959 adalah dipinda dalam seksyen 3 dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Walau apa pun mana-mana undang-undang lain yang bedawanan, jika mana-mana orang telah dilantik menjadi notari awam sebelum subseksyen ini mula berkuatkuasa dan tiada tempoh dinyatakan dalam pelantikan itu, pelantikan itu hendaklah terhenti berkuatkuasa apabila tamat tempoh dua tahun dari tarikh subseksyen ini mula berkuatkuasa."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/msa@/~cl_2__subsec_1B",
-      "@type": "akn:subsection",
-      "eli:number": "1B",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/5/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Tiada apa-apa jua dalam subseksyen (1A) boleh ditafsirkan sebagai menghalang pelantikan semula di bawah subseksyen (1) mana-mana orang yang pelantikannya telah terhenti berkuatkuasa menurut Rang Undang-Undang kuasa subseksyen (1A), dan tiap-tiap pelantikan semula sedemikian hendaklah disifatkan sebagai suatu pelantikan baru.\"."
+        "@value": "Akta Notari Awam 1959 adalah dipinda dalam seksyen 3 dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Walau apa pun mana-mana undang-undang lain yang bedawanan, jika mana-mana orang telah dilantik menjadi notari awam sebelum subseksyen ini mula berkuatkuasa dan tiada tempoh dinyatakan dalam pelantikan itu, pelantikan itu hendaklah terhenti berkuatkuasa apabila tamat tempoh dua tahun dari tarikh subseksyen ini mula berkuatkuasa. (1B) Tiada apa-apa jua dalam subseksyen (1A) boleh ditafsirkan sebagai menghalang pelantikan semula di bawah subseksyen (1) mana-mana orang yang pelantikannya telah terhenti berkuatkuasa menurut Rang Undang-Undang kuasa subseksyen (1A), dan tiap-tiap pelantikan semula sedemikian hendaklah disifatkan sebagai suatu pelantikan baru.\"."
       }
     }
   ]

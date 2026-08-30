@@ -1,0 +1,448 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-6-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Special Measures Against Terrorism in Foreign Countries Bill 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations as may be necessary or expedient for giving full effect to or for carrying out the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Special Measures Against Terrorism in Foreign Countries Act 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“Director General of Immigration” means the Director General of Immigration appointed under section 3 of the Immigration Act 1959/63 [Act 155]; “listed terrorist organization” means any specified entity declared under sections 66b and 66c of the Anti-Money Laundering, Anti- Terrorism Financing and Proceeds of Unlawful Activities Act 2001 [Act 613]; “Minister” means the Minister charged with the responsibility for home affairs; “property” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "assets of every kind, whether corporeal or incorporeal, moveable or immovable, tangible or intangible, however acquired; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including currency, bank credits, deposits and other financial resources, traveller’s cheques, bank cheques, money orders, capital market products, drafts and letters of credit, whether situated within or outside Malaysia, and includes a legal or equitable interest, whether full or partial, in any such property; “terrorist act” has the same meaning assigned to it by the Penal Code [Act 574]; “travel document” means a passport or any form of valid document of identity issued by any government for the purpose of travel across international boundaries. Extra-territorial application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall, in relation to any person, whatever his nationality or citizenship, have effect outside as well as within Malaysia, and where an offence under this Act is committed by any person in any place outside Malaysia, he may be dealt with in respect of such offence as if the offence was committed at any place within Malaysia. Foreign Countries Terrorist acts in foreign country"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The special measures under this Act shall apply to any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "travels to Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "travels or intends to travel to a foreign country or any part of a foreign country from or through Malaysia, to engage in the commission or support of terrorist acts involving listed terrorist organizations in a foreign country or any part of a foreign country. Suspension or revocation of Malaysian travel documents"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On a request by the Inspector General of Police, the Director General of Immigration may by order suspend or revoke all Malaysian travel documents that have been issued to a person and shall notify the person to whom the travel documents have been issued of the suspension or revocation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Inspector General of Police may make a request under subsection (1) if the Inspector General of Police—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "suspects that the person may leave Malaysia to engage in the commission or support of terrorist acts involving listed terrorist organizations in a foreign country or any part of a foreign country; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "believes that such suspension or revocation is necessary to prevent the person from carrying out such acts."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person whose travel documents have been suspended or revoked may make an application in writing to the Director General of Immigration for the cancellation of the suspension or revocation order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On an application under subsection (3), the Director General of Immigration may cancel or maintain the suspension or revocation order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person whose Malaysian travel documents have been suspended or revoked under this Act may obtain replacement or temporary Malaysian travel documents while the suspension or revocation order under subsection (1) is in force."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who contravenes subsection (5) commits an offence and shall be punished with imprisonment for a term which may extend to two years. Request for surrender of foreign travel documents"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On a request by the Inspector General of Police, the Minister may order the surrender of a person’s foreign travel documents for fourteen days if the Minister is satisfied that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person may leave Malaysia to engage in the commission or support of terrorist acts involving listed terrorist organizations in a foreign country or any part of a foreign country; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the surrender of the person’s foreign travel documents is necessary to prevent the person from carrying out such acts."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Inspector General of Police may make a request under subsection (1) if the Inspector General of Police—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "suspects that the person may leave Malaysia to engage in the commission or support of terrorist acts involving listed terrorist organizations in a foreign country or any part of a foreign country; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "believes that the surrender of the person’s foreign travel documents is necessary to prevent the person from carrying out such acts."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Minister has made an order under subsection (1), a subsequent request under this section in relation to the same person shall not be made unless the Inspector General of Police provides additional information to support the request. Demand for surrender of foreign travel documents"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Minister has made an order under section 6, a police officer may demand that the person surrender to the police officer the person’s foreign travel documents. Foreign Countries"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the person does not immediately surrender the person’s foreign travel documents, the police officer may seize the person’s foreign travel documents, whether or not the foreign travel documents are in his possession or control."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person commits an offence if the person fails to surrender the travel documents to the police officer immediately upon a demand being made under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A foreign travel document obtained by a police officer under this section shall be immediately returned to the person to whom it was issued upon the expiry of the order made by the Minister under section 6 relating to that document unless the retention of such foreign travel documents is required under any other written law."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person whose foreign travel documents have been seized under this section may obtain replacement or temporary foreign travel documents while the existing travel documents are seized."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who contravenes subsection (3) or (5) commits an offence and shall be punished with imprisonment for a term which may extend to two years. Institution of prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution for or in relation to any offence under this Act shall be instituted except by or with the written consent of the Public Prosecutor. Non-application of Offenders Compulsory Attendance Act 1954 and sections 173a, 293 and 294 of the Criminal Procedure Code"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Offenders Compulsory Attendance Act 1954 [Act 461] and sections 173a, 293 and 294 of the Criminal Procedure Code [Act 593] shall not apply to an offence under this Act. Regulations"
+      }
+    }
+  ]
+}

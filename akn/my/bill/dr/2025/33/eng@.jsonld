@@ -1,0 +1,402 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-33-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Employment Insurance System (Amendment) Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 45 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the words “establish centre or institute” the words “, or co-operate with any person”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “establish any centre or institute” the words “, or co-operate with any person, ”. New Parts VIa and VIb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 45 the following parts: “Part VIa EMPLOYMENT SERVICES Application of this Part 45a. Notwithstanding subsection 2(2), this Part shall apply to any person. Interpretation 45b. For the purposes of this Part, “employment brokerage” means a service to assist any person to find suitable employment and to assist employers to find suitable employees. Employment services 45c. The Organization may provide the following employment services to any person in the manner as determined by the Organization: (a) carry out employment brokerage including advertisement, job matching, job counselling and career advice; and (b) perform any other function relating to employment services as the Organization thinks fit. Appointment of employment agent 45d. The Organization may appoint any person licensed under the Private Employment Agencies Act 1981 [Act 246] as employment agent for the purposes of employment brokerage subject to any terms and conditions and in the manner as determined by the Organization. Registration of employment services 45e. (1) The Organization may register any person who has attained the age of eighteen years for the purposes of employment services in the manner as determined by the Organization. (2) Notwithstanding subsection (1), any person may register himself with the Organization for the purposes of employment services in the manner as determined by the Organization. Duty of employer to notify job vacancy and new position 45f. (1) For the purposes of employment brokerage, every employer shall notify the Organization in writing about a job vacancy or new position before the hiring of an employee to fill the job vacancy or new position. (2) The Organization may obtain, use or advertise information of any job vacancy or new position obtained by newspaper, publication, radio, television or any other form of mass communication, including electronic or digital platforms, in the manner as determined by the Organization. (3) Where the job vacancy or new position has been filled, the employer shall notify the Organization in writing of that fact within the period of seven days after the job vacancy or new position is filled. (4) Any employer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit. Part VIb ACTIVE LABOUR MARKET Application of this Part 45g. Notwithstanding subsection 2(2), this Part shall apply to any person. Implementation of active labour market programme, etc. 45h. (1) The Organization may implement any programme, scheme, measure or financial assistance relating to the active labour market if instructed by the Government. (2) For the purposes of subsection (1), the Organization shall not incur any expenditure from the Fund for the programme, scheme, measure or financial assistance implemented.”. Amendment of section 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 47(e) of the principal Act is amended by inserting after the word “institutes” the words “, or co-operate with any person,”. Amendment of section 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 59 of the principal Act is amended by inserting after subsection (3) the following subsections: “(4) The Evidence Act 1950 [Act 56] shall not apply to proceedings of the Appellate Board. (5) The Appellate Board may regulate its own proceedings.”. Amendment of section 67"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 67(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) to carry out the employment services;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the words “and provide” the words “, provide and disseminate”. New sections 81a and 81b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 81 the following sections: “Protection against suits and legal proceedings 81a. No action, suit, prosecution or other proceedings shall be brought, instituted or maintained in any court against the Organization, the Chairman of the Board, Director General, Deputy Director General, any member of the Board, the Committee or committees established under section 9, Employment Services Officers and officers and servants of the Organization on account of or in respect of any act, neglect or default done or omitted by it or him in the course of carrying out it or his duties under this Act unless it can be proven that the act, neglect or default was done or omitted in bad faith and without reasonable cause. Application of Public Authorities Protection Act 1948 81b. The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Organization, the Chairman of the Board, Director General, Deputy Director General, any member of the Board, the Committee or committees established under section 9, Employment Services Officers and officers and servants of the Organization in respect of any act, neglect or default done or committed by it or him in good faith or any omission by it or him in good faith in such capacity.”. Amendment of Third Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Third Schedule to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 2, by substituting for the words “twenty-five percent (25%)” wherever appearing the words “fifty percent (50%)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 4, by substituting for subparagraph (a) the following subparagraph: “(a) shall be paid at the rate of thirty ringgit per day; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 5, by substituting for the words “four thousand ringgit” the words “seven thousand ringgit”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph 5 the following paragraph: “5a. The amount of the mobility assistance allowance shall be one thousand ringgit.”. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Employment Insurance System Act 2017 in any written law or document shall, when this Act comes into operation, be construed as references to the Employment Insurance System and Employment Services Act 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any approval, decision or other act granted, made or done before the date of coming into operation of this Act shall be deemed to have been granted, made or done under this Act and shall continue in full force and effect in relation to whom they apply as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where on the date of coming into operation of this Act, the claim for benefits under section 27 of the principal Act is pending before the Organization, the provisions of the principal Act relating to claim for benefits as amended by this Act shall apply."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Employment Insurance System (Amendment) Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Employment Insurance System Act 2017 [Act 800], which is referred to as the “principal Act” in this Act, is amended in the long title by inserting after the words “in the event of loss of employment” the words “, and employment services for any person,”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 1(1) of the principal Act is amended by inserting after the words “Employment Insurance System” the words “and Employment Services”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “contribution” the following definition: ‘ “mobility assistance allowance” means a lump sum payment to an insured person to assist the re-employment placement of the insured person who has accepted an offer of employment;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “benefit”, by substituting for the words “and a training fee” the words “, a training fee and a mobility assistance allowance”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the definition of “waiting period” the following definition: ‘ “waiting period” means a period which starts from the date of submission of a claim for benefits under section 27 until the date of approval of a claim for benefits under section 33;’. Amendment of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 8(3) of the principal Act is amended by substituting for paragraph (a) the following paragraph: “(a) a Chairman who shall be appointed by the Minister;”. Amendment of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 20 of the principal Act is amended by inserting after subsection (1) the following subsections: “(1 a) An employer shall be entitled to recover an employee’s contribution from the employee by deducting from the wages payable to the employee and not otherwise. (1b) An employer shall not deduct the employer’s contribution from any wages payable to an employee or recover the employer’s contribution from the employee in any manner.”. Amendment of section 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 36(1)(b) of the principal Act is amended by substituting for the words “or an early re-employment allowance” the words “, an early re-employment allowance or a mobility assistance allowance”. New section 37a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 37 the following section: “Mobility assistance allowance 37a. If the claim for benefits in respect of an insured person has been approved under section 33 and the insured person accepts a new offer of employment and— (a) has reported duty for work within a period not exceeding twelve months after receiving the last job search allowance; or (b) has reported duty for work within a period not exceeding twelve months after receiving the early re-employment allowance, the insured person shall be entitled to a mobility assistance allowance at the rate as specified in the Third Schedule in such manner as prescribed and shall be subject to the terms and conditions as determined by the Organization.”. Amendment of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/33/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 44 of the principal Act is amended by inserting after subsection (1) the following subsection: “(1a) Notwithstanding subsection (1), the Organization may provide a re-employment placement programme for an insured person who has made a claim for benefits under this Act in such manner as determined by the Organization.”. Amendment of section 45"
+      }
+    }
+  ]
+}

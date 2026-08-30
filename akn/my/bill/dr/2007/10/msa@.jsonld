@@ -1,0 +1,281 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbadanan Kewangan Perdagangan Islam Antarabangsa 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbadanan Kewangan Perdagangan Islam Antarabangsa 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh Perjanjian mula berkuat kuasa bagi Kerajaan Malaysia menurut Perkara 53 Perjanjian itu. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain —"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Anggota\" ertinya sesuatu negara atau institusi yang merupakan anggota Perbadanan; \"Kerajaan\" ertinya Kerajaan Malaysia; \"Ketua Pegawai Eksekutif ertinya Ketua Pegawai Eksekutif Perbadanan; \"Lembaga Pengarah\" ertinya Lembaga Pengarah Perbadanan; \"Menteri\" ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan; \"Perbadanan\" ertinya Perbadanan Kewangan Perdagangan Islam Antarabangsa yang ditubuhkan melalui Perjanjian; \"Perhimpunan Agung\" ertinya Perhimpunan Agung Perbadanan; \"Perjanjian\" ertinya perjanjian antarabangsa bagi penubuhan dan pengendalian Perbadanan Kewangan Perdagangan Islam Antarabangsa yang ditandatangani di Bandar Kuwait, Kuwait pada 30 Mei 2006. Keperibadian juridikal Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbadanan hendaklah mempunyai keperibadian juridikal dan apa-apa keupayaan undang-undang yang perlu bagi menjalankan kuasanya dan melaksanakan fungsinya mengikut Perjanjian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan makna subseksyen (1), Perbadanan hendaklah mempunyai keupayaan untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat kontrak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memperoleh, memegang dan melupuskan harta alih dan harta tak alih; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memulakan prosiding undang-undang atas namanya dan membela apa-apa tindakan yang dibawa terhadap Perbadanan dalam suatu mahkamah yang mempunyai bidane kuasa berwibawa. Kuasa untuk memohon beli syer saham modal Perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Menteri diberi kuasa untuk memohon beli bagi pihak Kerajaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "syer saham modal dibenarkan Perbadanan mengikut perenggan (1) Perkara 10 Perjanjian bagi apa-apa amaun yang tidak melebihi amaun yang sama nilai dengan tiga puluh juta dolar Amerika Syarikat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika saham modal dibenarkan Perbadanan ditambah atas permintaan Perhimpunan Agung mengikut perenggan (3) Perkara 10 Perjanjian, sebanyak suatu kadar daripada pertambahan saham sebagaimana yang diperuntukkan dalam perenggan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika syer Kerajaan telah ditambah atas permintaan Kerajaan di bawah perenggan (6) Perkara 11 Perjanjian, sebanyak amaun pertambahan itu. Jumlah wang yang kena dibayar kepada Perbadanan hendaklah dipertanggungkan pada Kumpulan Wang Disatukan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Hendaklah dipertanggungkan pada Kumpulan Wang Disatukan Kerajaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua jumlah wang yang kena dibayar kepada Perbadanan dengan cara permohonan beli saham modalnya di bawah dan mengikut cara pembayarannya sebagaimana yang diperuntukkan dalam Perkara 12 Perjanjian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua jumlah wang yang kena dibayar kepada Perbadanan dengan cara permohonan beli tambahan oleh Kerajaan bagi saham modal Perbadanan mengikut perenggan (6) Perkara 11 Perjanjian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa jumlah wang yang hendak dijadikan oleh Kerajaan sebagai deposit dengan Perbadanan di bawah subperenggan (2)(b) Perkara 8 Perjanjian; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua jumlah wang yang kena dibayar kepada Perbadanan di bawah mana-mana peruntukan lain Perjanjian itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua jumlah wang yang dipertanggungkan pada Kumpulan Wang Disatukan Kerajaan di bawah seksyen ini hendaklah dibayar dalam dolar Amerika Syarikat. Penerimaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua jumlah wang yang diterima oleh atau bagi pihak Kerajaan daripada Perbadanan hendaklah dibayar ke dalam Kumpulan Wang Disatukan bagi Kerajaan."
+      }
+    }
+  ]
+}

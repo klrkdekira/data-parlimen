@@ -1,0 +1,264 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-38-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Reka Bentuk Perindustrian (Pindaan) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 46 seksyen yang berikut: “Jurnal Rasmi Harta Intelek 46A. (1) Pendaftar hendaklah menerbitkan suatu Jurnal Rasmi Harta Intelek yang hendaklah mengandungi— (a) semua perkara yang berhubungan dengan reka bentuk perindustrian yang dikehendaki untuk disiarkan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini; dan (b) apa-apa maklumat atau perkara lain yang berhubungan dengan reka bentuk perindustrian yang didapati berguna atau penting secara amnya oleh Pendaftar. (2) Jurnal Rasmi hendaklah disediakan kepada awam apabila fi yang ditetapkan dibayar. (3) Penyiaran dalam Jurnal Rasmi hendaklah menjadi notis yang mencukupi bagi apa-apa perkara yang dikehendaki untuk disiarkan di bawah Akta ini atau mana-mana peraturan- peraturan yang dibuat di bawah Akta ini. (4) Sesalinan Jurnal Rasmi hendaklah atas pengemukaannya diterima dalam prosiding undang-undang sebagai keterangan tanpa bukti lanjut diberikan bahawa salinan itu telah disiarkan sedemikian. (5) Sesalinan Jurnal Rasmi hendaklah menjadi keterangan prima facie tentang fakta yang dinyatakan dalamnya. (6) Jika Jurnal Rasmi diterbitkan dalam lebih daripada satu bentuk, tarikh penyiaran Jurnal Rasmi hendaklah disifatkan sebagai tarikh Jurnal Rasmi pertama disiarkan dalam apa-apa bentuk.”. Pindaan seksyen 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 47(2) Akta ibu dipinda dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(ca) mengawal selia prosedur bagi merekodkan perkara yang dikehendaki di bawah seksyen 30; (cb) menetapkan apa-apa perkara atau maklumat yang dikehendaki untuk disiarkan dalam Jurnal Rasmi;”. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding undang-undang yang belum selesai sebelum tarikh permulaan kuat kuasa Akta ini hendaklah diteruskan seolah-olah Akta ini tidak diperbuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa perkara yang dikehendaki untuk disiarkan dalam Warta sebelum tarikh permulaan kuat kuasa Akta ini hendaklah disiarkan dengan sewajarnya dalam Warta seolah-olah Akta ini tidak diperbuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan bagi pendaftaran sesuatu reka bentuk perindustrian yang belum selesai pada tarikh permulaan kuat kuasa Akta ini hendaklah diuruskan di bawah Akta ibu sebagaimana yang dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi reka bentuk perindustrian berdaftar yang dikecualikan di bawah seksyen 49 Akta ibu, sesuatu reka bentuk perindustrian yang telah didaftarkan di bawah Akta ibu sebelum tarikh permulaan kuat kuasa Akta ini boleh, atas suatu permohonan di bawah seksyen 25 Akta ibu sebagaimana yang dipinda oleh Akta ini, dilanjutkan bagi tempoh berturut-turut lanjutan yang ada selama lima tahun bagi setiap kali lanjutan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa perkara yang disiarkan dalam Warta di bawah Akta ibu hendaklah disifatkan disiarkan dalam Jurnal Rasmi dan seksyen 46A hendaklah terpakai dengan sewajarnya tanpa menjejaskan mana-mana undang-undang bertulis yang lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Reka Bentuk Perindustrian (Pindaan) 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Reka Bentuk Perindustrian 1996 [Akta 552], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 3(1) dengan memasukkan selepas takrif “ditetapkan” takrif yang berikut: ‘ “Jurnal Rasmi” ertinya Jurnal Rasmi Harta Intelek yang diterbitkan oleh Pendaftar di bawah seksyen 46A;’. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 12(2)(a) Akta ibu dipinda dengan memasukkan selepas perkataan “Malaysia” perkataan “atau di tempat lain”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 22(2) Akta ibu dipinda dengan menggantikan perkataan “Warta” dengan perkataan “Jurnal Rasmi”. Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “dua” dengan perkataan “empat”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “Warta” dengan perkataan “Jurnal Rasmi”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda dengan menggantikan perkataan “Warta” di mana-mana jua ia terdapat dengan perkataan “Jurnal Rasmi”. Pindaan tajuk Bahagian V"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan tajuk Bahagian V dengan tajuk yang berikut: “REKA BENTUK PERINDUSTRIAN BERDAFTAR SEBAGAI HARTA SENDIRI”. Penggantian seksyen 29 dan 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 29 dan 30 dengan seksyen yang berikut: “Reka bentuk perindustrian berdaftar adalah harta sendiri 29. (1) Sesuatu reka bentuk perindustrian berdaftar adalah harta sendiri dan boleh diserahhakkan, dipindahkan atau diuruskan melalui kuat kuasa undang-undang sebagaimana harta sendiri atau harta alih yang lain, tertakluk kepada peruntukan seksyen ini. (2) Apa-apa perpindahan reka bentuk perindustrian berdaftar atau permohonan bagi pendaftaran sesuatu reka bentuk perindustrian adalah tertakluk kepada apa-apa hak yang diletakhakkan pada mana-mana orang lain yang notis mengenainya telah dicatatkan dalam Daftar atau yang notis mengenainya telah diberikan kepada Pendaftar. (3) Sesuatu penyerahhakan reka bentuk perindustrian berdaftar atau permohonan bagi pendaftaran sesuatu reka bentuk perindustrian tidak berkuat kuasa melainkan jika penyerahhakan itu adalah secara bertulis dan ditandatangani oleh atau bagi pihak penyerah hak dan pemegang serah hak atau, mengikut mana-mana yang berkenaan, wakil dirinya. (4) Subseksyen (3) hendaklah terpakai bagi penyerahhakan sebagai sekuriti sebagaimana yang berhubungan dengan mana- mana penyerahhakan yang lain. (5) Sesuatu reka bentuk perindustrian berdaftar boleh menjadi subjek suatu kepentingan sekuriti sebagaimana harta sendiri atau harta alih yang lain. (6) Pemunya reka bentuk perindustrian berdaftar boleh memberi lesen kepada mana-mana orang untuk menggunakan reka bentuk perindustrian berdaftar itu. (7) Apa-apa hak berkenaan dengan sesuatu reka bentuk perindustrian berdaftar boleh dikuatkuasakan sebagaimana berkenaan dengan harta sendiri atau harta alih yang lain. Perekodan penyerahhakan, dsb. 30. (1) Jika seseorang menjadi berhak kepada sesuatu reka bentuk perindustrian berdaftar melalui penyerahhakan atau perpindahan atau melalui kuat kuasa undang-undang atau melalui urus niaga kepentingan sekuriti, dia hendaklah memohon kepada Pendaftar mengikut cara yang ditetapkan untuk merekodkan hakmilik atau kepentingannya dalam Daftar. (2) Pendaftar hendaklah merekodkan butir-butir mengenai hakmilik atau kepentingan yang disebut dalam subseksyen (1) dalam Daftar. (3) Tiada penyerahhakan atau perpindahan atau kuat kuasa undang-undang atau urus niaga kepentingan sekuriti berkenaan dengan sesuatu reka bentuk perindustrian berdaftar boleh berkuat kuasa terhadap pihak ketiga melainkan jika direkodkan dalam Daftar.”. Pindaan seksyen 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Mahkamah hendaklah enggan mengawardkan kos kepada pemunya sesuatu reka bentuk perindustrian berdaftar yang menjadi berhak kepada reka bentuk perindustrian berdaftar itu melalui penyerahhakan atau perpindahan atau melalui kuat kuasa undang-undang atau melalui urus niaga kepentingan sekuriti berkenaan dengan sesuatu pelanggaran melainkan jika— (a) suatu permohonan untuk merekodkan hakmilik atau kepentingannya telah dibuat di bawah seksyen 30 sebelum berakhirnya tempoh enam bulan yang bermula dari tarikh urus niaga yang berkenaan; atau (b) Mahkamah berpuas hati bahawa adalah tidak praktik bagi permohonan tersebut dibuat sebelum berakhirnya tempoh tersebut dan bahawa suatu permohonan telah dibuat dengan secepat yang praktik selepas itu.”. Seksyen baru 46A"
+      }
+    }
+  ]
+}

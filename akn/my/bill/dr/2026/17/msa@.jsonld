@@ -1,0 +1,944 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_IV"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Bidang Kuasa Admiralti 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "BIDANG KUASA ADMIRALTI MAHKAMAH TINGGI Bidang kuasa admiralti Mahkamah Tinggi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "CARA PELAKSANAAN BIDANG KUASA ADMIRALTI Tindakan in personam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 6, semua tuntutan atau pertikaian di bawah Akta ini boleh dimulakan di Mahkamah Tinggi sebagai suatu tindakan in personam. Sekatan atas tindakan in personam dalam kes tertentu"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tuntutan yang disebut di bawah perenggan 4(1)(g) hanya boleh dimulakan di Mahkamah Tinggi sebagai suatu tindakan in personam jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "defendan itu secara lazimnya bermastautin atau mempunyai tempat perniagaan di Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kausa tindakan itu berbangkit dalam perairan wilayah Malaysia, perairan darat Malaysia atau had suatu pelabuhan di Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu tindakan yang berbangkit daripada kejadian yang sama atau beberapa siri kejadian yang sedang dalam prosiding di Mahkamah Tinggi atau telah didengar dan ditentukan di Mahkamah Tinggi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan untuk melaksanakan suatu tuntutan di bawah perenggan 4(1)(g) tidak boleh dimulakan di Mahkamah Tinggi sebagai suatu tindakan in personam sehingga apa-apa prosiding yang sebelumnya dimulakan oleh plaintif di mana-mana mahkamah di luar Malaysia terhadap defendan yang sama berkenaan dengan kejadian atau siri kejadian yang sama telah dihentikan atau selainnya telah berakhir."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) dan (2) hendaklah terpakai bagi tuntutan balas kecuali bagi tuntutan balas dalam prosiding yang berbangkit daripada kejadian atau siri kejadian yang sama."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (1) dan (2) tidak terpakai bagi apa-apa tindakan atau tuntutan balas jika defendan patuh atau bersetuju untuk patuh kepada bidang kuasa Mahkamah Tinggi. Tindakan in rem"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tuntutan atau pertikaian yang disebut dalam perenggan 4(1)(a), (b), (c) atau (v) boleh dimulakan di Mahkamah Tinggi sebagai suatu tindakan in rem terhadap kapal atau harta yang berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu tindakan in rem boleh dimulakan terhadap suatu kapal, pesawat udara atau harta di Mahkamah Tinggi jika terdapat suatu lien maritim atau gadaian lain ke atas kapal, pesawat udara atau harta itu bagi suatu amaun yang dituntut itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa tuntutan atau pertikaian yang disebut dalam perenggan 4(1)(e), (f), (h), (j) hingga (o) dan (q) hingga (u) berbangkit berkaitan dengan suatu kapal dan orang yang akan bertanggungan ke atas tuntutan dalam suatu tindakan in personam ialah, apabila kausa tindakan berbangkit, pemunya, pencarter, yang mempunyai pemilikan ke atas atau yang mempunyai kawalan ke atas kapal itu, suatu tindakan in rem boleh, tanpa mengambil kira sama ada tuntutan itu menimbulkan lien maritim ke atas kapal atau tidak, dimulakan terhadap—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kapal itu, jika pada masa tindakan dibawa, sama ada orang itu merupakan pemunya benefisial kapal itu dan semua syer dalam kapal itu atau pencarter kapal itu di bawah suatu perjanjian carter kapal kosong; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana kapalnya yang lain, jika pada masa tindakan dibawa, sama ada orang itu merupakan pemunya benefisial kapal itu dan semua syer dalam kapal itu atau pencarter kapal itu di bawah suatu perjanjian carter kapal kosong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud tuntutan di bawah perenggan 4(1)(m) dan (n) berkenaan dengan suatu pesawat udara, suatu tindakan in rem boleh dibawa di Mahkamah Tinggi terhadap pesawat udara itu jika pada masa tindakan itu dibawa, pesawat udara itu dimiliki secara benefisial oleh orang yang akan bertanggungan atas tuntutan dalam suatu tindakan in personam."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana tuntutan yang disebut dalam perenggan 4(1)(m) atau (n) timbul berkaitan dengan suatu pesawat udara dan orang yang akan bertanggungan dalam suatu tindakan in personam merupakan, pada masa kausa tindakan berbangkit, pemilik benefisial pesawat udara itu, tindakan in rem boleh dibawa terhadap pesawat udara itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam menentukan sama ada seseorang itu bertanggungan ke atas suatu tuntutan dalam suatu tindakan in personam di bawah subseksyen (3) dan (4), orang itu hendaklah dianggap secara lazimnya bermastautin atau mempunyai tempat perniagaan di Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu kapal atau harta telah dijual di bawah Akta ini, apa-apa tindakan in rem yang mungkin boleh dibawa terhadap kapal atau harta itu boleh dibawa terhadap hasil jualan kapal atau harta itu dengan syarat bahawa hasil jualan itu masih dipegangsimpan oleh Mahkamah Tinggi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8__para_h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa penyampaian waran penahanan bagi tindakan in rem terhadap sesuatu kapal di bawah perenggan 4(1)(e), (f),"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_7__subsec_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": ", (j) hingga (o) dan (q) hingga (u) hendaklah mengecualikan penyampaian waran penahanan terhadap mana-mana kapal lain dalam suatu tindakan yang sama tanpa menjejaskan hak orang yang menuntut untuk mengeluarkan writ menamakan beberapa kapal atau mengeluarkan beberapa writ yang setiap satu menamakan kapal yang berasingan. Tindakan bagi upah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam Akta ini boleh ditafsirkan sebagai mengehadkan bidang kuasa Mahkamah Tinggi untuk enggan mendengar suatu tindakan bagi upah yang dimulakan oleh pelaut atau warisnya, jika tindakan itu melibatkan suatu kapal selain kapal Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_v",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_w"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah Tinggi hendaklah mempunyai bidang kuasa admiralti untuk mendengar dan menentukan tuntutan atau pertikaian yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan yang berhubungan dengan pemilikan suatu kapal, hak milik bagi atau pemunyaan sesuatu kapal atau syer dalam suatu kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan atau pertikaian yang berbangkit antara pemilik bersama suatu kapal mengenai pemilikan, penggajian atau hasil kapal itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan berhubung dengan gadai janji suatu kapal atau syer dalam suatu kapal atau gadai janji tambang muatan kapal atau gadaian atas kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan bagi kerosakan yang berlaku kepada suatu kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan bagi kerosakan yang dilakukan oleh suatu kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan bagi kehilangan nyawa atau kecederaan diri yang dialami berbangkit daripada apa-apa kecacatan dalam suatu kapal atau dalam peralatan atau kelengkapannya, atau berbangkit daripada perbuatan salah, kecuaian atau keingkaran— yang merupakan suatu perbuatan, kecuaian atau keingkaran dalam pelayaran atau pengurusan kapal itu, semasa pemuatan barang-barang ke atas, pemunggahan barang-barang dari atau pengangkutan barang-barang ke atas, kapal itu atau semasa kenaikan orang ke atas, pelepasan keluar orang daripada, dan pengangkutan orang di atas, kapal itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pemunya, pencarter atau orang yang dalam pemilikan atau kawalan suatu kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pelaut atas suatu kapal; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang lain yang perbuatan salah, kecuaian atau keingkarannya menyebabkan pemunya, pencarter atau orang yang memiliki atau mengawal kapal itu menjadi bertanggungjawab,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan bagi, atau suatu tindakan untuk menguatkuasakan apa-apa tuntutan bagi, apa-apa kerosakan, kehilangan nyawa atau kecederaan diri yang berbangkit daripada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu pelanggaran antara kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penjalanan atau peninggalan untuk menjalankan manuver dalam hal satu atau dua atau lebih kapal; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_g",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ketidakpatuhan, oleh satu atau dua atau lebih kapal, kepada peraturan-peraturan pelanggaran yang dibuat di bawah mana-mana undang-undang bertulis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan bagi kerugian atau kerosakan kepada barang-barang yang diangkut di atas suatu kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan yang berbangkit daripada apa-apa perjanjian yang berhubungan dengan pengangkutan barang melalui laut di dalam suatu kapal atau penggunaan atau penyewaan suatu kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pertikaian yang berbangkit daripada kontrak penjualan suatu kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan bagi apa-apa premium insurans berkenaan dengan kapal, yang kena dibayar oleh atau bagi pihak kapal oleh pemunya atau pencarter demis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan atas sifat penyelamatan suatu kapal atau pesawat udara dalam wilayah perairan Malaysia, termasuk apa-apa tuntutan yang berhubungan dengan perkongsian atau pembahagian penyelamatan itu, apa-apa tuntutan oleh mana-mana orang yang berhak berkenaan dengan harta yang diselamatkan dan apa-apa tuntutan bagi perkhidmatan yang diberikan dalam menyelamatkan nyawa daripada suatu kapal atau pesawat udara atau dalam kargo, peralatan atau bangkai kapal yang dipelihara, melainkan jika diperuntukkan selainnya di bawah mana-mana undang-undang bertulis yang berkaitan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan atas sifat penundaan berkenaan dengan suatu kapal atau pesawat udara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan atas sifat pemaliman berkenaan dengan kapal atau pesawat udara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan berkenaan dengan barang atau material yang dibekalkan atau perkhidmatan yang diberikan kepada suatu kapal bagi pengendalian, pengurusan, pemeliharaan atau penyelenggaraannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pertikaian berhubung dengan apa-apa tindakan yang diambil oleh pemilik kapal atau orang lain di bawah mana-mana undang-undang bertulis bagi had amaun tanggungannya berkaitan dengan suatu kapal atau harta lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan oleh pelaut yang berbangkit daripada penggajian mereka di atas kapal, termasuk tuntutan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi upah, atau apa-apa jumlah yang boleh didapatkan semula sebagai upah, di bawah suatu kontrak perkhidmatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi apa-apa pembayaran lain atau harta yang kena dibayar, termasuk kos penghantaran pulang dan caruman insurans sosial yang kena dibayar bagi pihaknya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_q",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terhadap penyedia kontrak insurans atau jaminan kewangan lain bagi maksud memenuhi kewajipan berkanun pemilik kapal di bawah mana-mana undang-undang bertulis untuk menghantar pulang pelaut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan oleh waris dan tanggungan pelaut bagi upah di bawah suatu kontrak perkhidmatan yang dibuat oleh pelaut yang mati;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan oleh nakhoda, pengirim, pencarter atau agen berkenaan dengan pembayaran yang dibuat atas akaun suatu kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan yang berbangkit daripada suatu perbuatan yang merupakan atau dikatakan suatu tindakan averaj am;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan yang berbangkit daripada botomri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan bagi pelucuthakan atau pengkondeman suatu kapal atau barang yang dibawa atau telah dibawa, atau cuba dibawa, dalam suatu kapal, atau bagi pemulihan suatu kapal atau apa-apa barang selepas sitaan, atau bagi hak admiralti; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1__para_w",
+      "@type": "akn:paragraph",
+      "eli:number": "w",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa tuntutan bagi kos atau perbelanjaan yang berhubungan dengan penimbulan, pengalihan, mendapatkan semula, pemusnahan atau menjadikan tidak mudarat bagi suatu kapal yang tenggelam, karam, terkandas atau ditinggalkan, termasuk apa-apa jua yang berada atau telah berada atas kapal itu, dan kos atau perbelanjaan yang berhubungan dengan pemeliharaan suatu kapal yang ditinggalkan dan tanggungan anak kapalnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam menentukan persoalan di bawah perenggan (1)(b), Mahkamah Tinggi boleh memerintahkan kapal atau apa-apa syer kapal itu dijual bagi maksud menyelesaikan apa-apa akaun yang tertunggak dan tidak selesai antara pihak-pihak berhubung dengan kapal itu, atau membuat apa-apa perintah lain yang difikirkan sesuai oleh Mahkamah Tinggi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam menjalankan bidang kuasanya di bawah Akta ini dan tertakluk kepada Kaedah-Kaedah Mahkamah 2012, Mahkamah Tinggi boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat apa-apa perintah bagi penggantungan atau penolakan apa-apa prosiding admiralti;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengeluarkan suatu waran bagi penahanan suatu kapal atau harta untuk mengadakan jaminan bagi suatu tuntutan sebelum penghakiman atau untuk menjamin suatu hutang penghakiman selepas penghakiman dibuat dengan syarat tiada jaminan atau sekuriti yang mencukupi telah dikemukakan sebelum itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memerintahkan mana-mana kapal, pesawat udara atau harta lain untuk dijual, dan membuat apa-apa perintah lain berhubung dengan hak milik atau hak terhadap hasil penjualan sebagaimana yang difikirkan sesuai oleh Mahkamah Tinggi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan (1)(c), gadai janji atau gadaian termasuklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu gadai janji atau gadaian yang tidak didaftarkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu gadai janji atau gadaian ekuiti; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu gadai janji atau gadaian yang dibuat di bawah mana-mana undang-undang asing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan (1)(e), kerosakan yang dilakukan oleh kapal termasuklah kerosakan kepada alam sekitar disebabkan oleh pencemaran minyak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan (1)(h), barang termasuklah bagasi dan barangan peribadi pelaut yang diangkut di atas kapal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan (1)(t), tindakan averaj am ertinya apa-apa pengorbanan atau perbelanjaan luar biasa yang dibuat atau ditanggung secara sukarela dan munasabah pada waktu bahaya bagi keselamatan bersama untuk melindungi kapal serta kargonya daripada suatu bahaya biasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_IV__cl_9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Tatacara bagi prosiding admiralti"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua prosiding admiralti hendaklah dijalankan mengikut kaedah-kaedah Mahkamah yang terpakai."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Bidang Kuasa Admiralti 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Akta hendaklah dibaca bersama dengan Akta Mahkamah Kehakiman 1964, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah dibaca bersama Akta Mahkamah Kehakiman 1964 [Akta 91] dan Kaedah-Kaedah Mahkamah 2012 [P.U. (A) 205/2012] dan peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan Akta Mahkamah Kehakiman 1964 dan Kaedah-Kaedah Mahkamah 2012. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“harta” termasuklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keseluruhan atau mana-mana bahagian kelengkapan, perabot, stor atau bunker kapal;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "keseluruhan atau mana-mana bahagian kargo; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/17/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tambang muatan; “kapal” termasuklah tiap-tiap perihalan vesel yang digunakan dalam pelayaran di air tanpa mengambil kira tempat kapal itu didaftarkan; “nakhoda” ertinya mana-mana orang yang mempunyai kawalan atas atau tanggungjawab bagi suatu kapal; “pelaut” ertinya nakhoda dan anak kapal yang diambil kerja dalam pengendalian atau perkhidmatan suatu kapal; “pesawat udara” termasuklah tiap-tiap perihal pesawat yang digunakan mengikut jalan udara tanpa mengambil kira tempat pesawat udara itu didaftarkan."
+      }
+    }
+  ]
+}

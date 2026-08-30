@@ -1,0 +1,3246 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-3-2016",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Institut Penyelidikan Perhutanan Malaysia 2016"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "INSTITUT DAN FUNGSINYA, KUASANYA, DSB. Institut yang ditubuhkan di bawah Akta Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia 1985"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_22"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KETUA PENGARAH, PEGAWAI DAN PEKHIDMAT INSTITUT Kuasa dan kewajipan Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik seorang Ketua Pengarah Institut atas apa-apa terma dan syarat sebagaimana yang ditentukan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah meletakhakkan kepada Ketua Pengarah apa-apa kuasa dan hendaklah mengenakan ke atasnya apa-apa kewajipan sebagaimana yang ditentukan oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah adalah bertanggungjawab bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pentadbiran dan pengurusan sewajarnya hal ehwal Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyediaan program, skim, projek dan aktiviti untuk dipertimbangkan oleh Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelaksanaan semua program, skim, projek dan aktiviti Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memastikan Institut diberitahu sepenuhnya mengenai kemajuan program, skim, projek dan aktiviti Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluaran garis panduan dasar dan penjelasan keputusan Institut kepada pegawai dan pekhidmat Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melaksanakan keputusan dasar Institut; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengawalseliaan dan kawalan ke atas pelaksanaan keputusan Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah mempunyai kawalan am ke atas pegawai dan pekhidmat Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah melaksanakan apa-apa kewajipan tambahan sebagaimana yang diarahkan oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam menunaikan kewajipannya, Ketua Pengarah hendaklah bertindak di bawah kuasa dan arahan am Institut. Pelantikan Timbalan Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh melantik apa-apa bilangan Timbalan Ketua Pengarah daripada kalangan pegawai yang dilantik di bawah seksyen 17 untuk membantu Ketua Pengarah dalam penjalanan kuasanya dan pelaksanaan kewajipannya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika atas apa-apa sebab Ketua Pengarah tidak dapat menjalankan kuasanya dan melaksanakan kewajipannya, Institut boleh melantik seorang daripada Timbalan Ketua Pengarah untuk menjalankan kuasa dan melaksanakan kewajipan Ketua Pengarah. Pelantikan pegawai dan pekhidmat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh melantik dan mengambil khidmat apa-apa bilangan pegawai dan pekhidmat yang difikirkan perlu oleh Institut dan atas apa-apa terma dan syarat yang difikirkan sesuai oleh Institut bagi melaksanakan maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun layak untuk diambil khidmat sebagai pegawai dan pekhidmat Institut jika dia mempunyai, secara langsung atau tidak langsung, dengan sendiri atau melalui pekongsinya, apa-apa syer atau kepentingan dalam mana-mana kontrak atau kontrak yang dicadangkan dengan, bagi atau bagi pihak Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, dengan kelulusan Menteri, Perbendaharaan dan Jabatan Perkhidmatan Awam, menentukan terma dan syarat perkhidmatan bagi pegawai dan pekhidmat Institut. Akta Badan Berkanun (Tatatertib dan Surcaj) 2000"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Badan Berkanun (Tatatertib dan Surcaj) 2000 [Akta 605] hendaklah terpakai bagi Institut. Pinjaman, biasiswa dan pendahuluan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh memberikan pinjaman, biasiswa dan pendahuluan kepada pegawai dan pekhidmat Institut bagi apa-apa maksud dan atas apa-apa terma dan syarat sebagaimana yang ditentukan oleh Institut. Pembayaran faedah persaraan, ganjaran, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh membuat perkiraan bagi pembayaran kepada pegawai dan pekhidmat Institut dan orang tanggungan mereka apa-apa faedah persaraan, ganjaran dan elaun lain sebagaimana yang ditentukan oleh Institut. Institut boleh menerima pakai peraturan-peraturan, kaedah-kaedah, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, dengan kelulusan Menteri, menerima pakai dengan apa-apa ubah suaian yang difikirkan patut oleh Institut mana-mana peraturan-peraturan, kaedah-kaedah, dasar, pekeliling dan arahan yang diperbuat atau dikeluarkan oleh Kerajaan Persekutuan. Pewakilan kewajipan Ketua Pengarah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_22__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah boleh secara bertulis mewakilkan mana-mana kuasa atau kewajipan yang diberikan kepadanya di bawah Akta ini, tidak termasuk kuasa yang diwakilkan sedemikian daripada Institut, kepada mana-mana pegawai Institut, tertakluk kepada apa-apa syarat yang difikirkan patut oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu pewakilan di bawah seksyen ini tidaklah menghalang Ketua Pengarah sendiri daripada melaksanakan atau menjalankan pada bila-bila masa mana-mana kuasa atau kewajipan yang diwakilkan sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Pengerusi atas apa-apa sebab tidak dapat melaksanakan fungsinya atau semasa apa-apa tempoh kekosongan jawatan Pengerusi, Menteri boleh melantik mana-mana anggota Institut, selain Ketua Pengarah, untuk melaksanakan fungsi Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sehingga suatu pelantikan di bawah subseksyen (1) dibuat atau jika tiada pelantikan sedemikian atau jika Pengerusi tidak hadir pada mana-mana mesyuarat Institut, anggota Institut yang dilantik di bawah perenggan 7(b) hendaklah melaksanakan fungsi Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota yang dilantik di bawah subseksyen (1) atau anggota yang disebut dalam subseksyen (2) hendaklah disifatkan sebagai Pengerusi semasa tempoh dia melaksanakan fungsi Pengerusi di bawah seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pada mana-mana mesyuarat Institut, Pengerusi mahupun orang yang menjalankan fungsi Pengerusi tidak hadir, anggota yang hadir hendaklah melantik seorang daripada kalangan anggota yang hadir itu, selain Ketua Pengarah, untuk mempengerusikan mesyuarat itu. Arahan oleh Menteri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah bertanggungjawab kepada Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, selepas berunding dengan Institut, memberi Institut arahan yang bersifat am selaras dengan peruntukan Akta ini dan Institut hendaklah melaksanakan arahan itu. Penyata, laporan, akaun dan maklumat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah memberi Menteri, dan mana-mana pihak berkuasa awam sebagaimana yang diarahkan oleh Menteri, apa-apa penyata, laporan, akaun dan maklumat mengenai harta dan aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), Institut hendaklah, dengan seberapa segera yang dapat dilaksanakan selepas berakhir setiap tahun kewangan, menyebabkan supaya dibuat dan dihantar kepada Menteri dan, jika diarahkan sedemikian oleh Menteri, kepada mana-mana pihak berkuasa awam yang lain, suatu laporan yang menyatakan aktiviti Institut sepanjang tahun kewangan yang sebelumnya dan laporan itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa-apa maklumat yang berhubungan dengan prosiding dan dasar Institut sebagaimana yang ditentukan oleh Menteri. Setiausaha"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah hendaklah melantik seorang daripada kalangan pegawai yang dilantik di bawah seksyen 17 untuk menjadi Setiausaha kepada Institut. Institut boleh menubuhkan jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh menubuhkan apa-apa jawatankuasa yang difikirkannya perlu atau suai manfaat untuk membantunya dalam melaksanakan fungsinya dan menjalankan kuasanya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh melantik mana-mana orang untuk menjadi anggota mana-mana jawatankuasa yang ditubuhkan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini boleh memilih mana-mana daripada anggotanya untuk menjadi pengerusi dan boleh mengawal selia tatacaranya sendiri dan, pada menjalankan kuasanya di bawah subseksyen ini, mana-mana jawatankuasa itu hendaklah tertakluk kepada dan bertindak mengikut apa-apa arahan yang diberikan kepada jawatankuasa oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mesyuarat sesuatu jawatankuasa yang ditubuhkan di bawah seksyen ini hendaklah diadakan pada bila-bila masa dan di mana-mana tempat sebagaimana yang ditentukan oleh pengerusi jawatankuasa itu, tertakluk kepada subseksyen (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu jawatankuasa boleh mengundang mana-mana orang yang bukan anggota jawatankuasa untuk menghadiri mana-mana mesyuarat jawatankuasa bagi maksud menasihatinya mengenai apa-apa perkara yang dibincangkan tetapi orang itu tidak berhak untuk mengundi pada mesyuarat itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota sesuatu jawatankuasa atau mana-mana orang yang diundang untuk menghadiri mesyuarat jawatankuasa itu di bawah subseksyen (5) boleh dibayar apa-apa elaun dan belanja lain sebagaimana yang ditentukan oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota sesuatu jawatankuasa hendaklah memegang jawatan bagi apa-apa tempoh sebagaimana yang dinyatakan dalam surat cara pelantikannya dan layak untuk dilantik semula."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelantikan mana-mana anggota jawatankuasa boleh pada bila-bila masa dibatalkan oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota sesuatu jawatankuasa boleh, pada bila-bila masa, meletakkan jawatannya dengan memberikan notis bertulis yang ditujukan kepada Pengerusi Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walaupun Akta Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia 1985 dimansuhkan dan Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia yang ditubuhkan di bawah Akta yang dimansuhkan dibubarkan oleh seksyen 46, Institut Penyelidikan Perhutanan Malaysia yang ditubuhkan oleh Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia di bawah Akta yang dimansuhkan hendaklah terus wujud di bawah dan tertakluk kepada peruntukan Akta ini dan dengan pertukaran nama dalam bahasa Inggeris kepada “Forest Research Institute Malaysia”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pertukaran nama di bawah subseksyen (1) tidak boleh menyentuh identiti Institut atau apa-apa hak atau obligasi Institut atau mencacatkan apa-apa prosiding undang-undang oleh atau terhadap Institut, dan apa-apa prosiding undang-undang yang telah diteruskan atau dimulakan oleh atau terhadap Institut atas namanya yang dahulu boleh diteruskan atau dimulakan oleh atau terhadapnya atas namanya yang baharu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah menjadi pertubuhan perbadanan dan terus kekal turun-temurun dan mempunyai suatu meterai perbadanan, dan boleh membawa guaman dan dibawa guaman atas nama perbadanannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan Jadual hendaklah terpakai bagi Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh meminda peruntukan Jadual melalui perintah yang disiarkan dalam Warta. Fungsi Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_m"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Fungsi Institut adalah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan dasar mengenai program penyelidikan dan pembangunan bagi menjamin pertumbuhan dan kemampanan hutan dan industri berasaskan hutan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan dan menggalakkan penyelidikan mengenai pelbagai peranan dan fungsi hutan, termasuk legeh, bioteknologi, kepelbagaian biologi dan penggunaannya secara mampan, pemuliharaan, ekopelancongan, penghijauan kawasan, kesan bahan pencemar dan perubahan iklim, sesuai dengan pendekatan yang rasional dan holistik bagi pembangunan hutan yang mampan dan mesra alam;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menggalakkan, merangsang, memudahkan, mengusahakan dan mengkomersialkan dapatan penyelidikan bagi membangunkan dan menggunakan secara berkesan dapatan penyelidikan itu demi kepentingan pembangunan industri berasaskan hutan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan dan menggalakkan penyelidikan mengenai pembangunan hutan termasuk pengeluaran, pengekstrakan, pemprosesan, penyimpanan, pengangkutan dan penggunaan hasil hutan, dan bidang lain yang sesuai dengan pembangunan berterusan sektor perhutanan dan pemuliharaan asas sumber;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mendapatkan, apabila kepentingan awam atau kepentingan pembangunan hutan dan industri berasaskan hutan berkehendakkan sedemikian, pembangunan dan kemajuan dapatan penyelidikan yang didapati oleh Institut masih belum dibangunkan atau diteroka atau dibangunkan atau diteroka dengan cukup;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawal, menyelaraskan dan memantau aktiviti mana-mana orang yang mengusahakan program penyelidikan dan pembangunan dan apa-apa program, skim, projek dan aktiviti lain yang dibiayai keseluruhan atau terutamanya daripada Kumpulan Wang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyediakan perkhidmatan teknikal, nasihat, pakar runding dan apa-apa perkhidmatan lain berhubung dengan hutan dan industri berasaskan hutan kepada mana-mana kerajaan, badan atau organisasi di dalam dan di luar Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mentadbir dan mengurus Kumpulan Wang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memungut, mengumpul semak dan menyebarkan maklumat yang berhubungan dengan dapatan penyelidikan, pembangunan hutan, hasil hutan dan penggunaannya melalui penyiaran atau menaja penerbitan berkala, jurnal, buku, buku kecil dan apa-apa cara lain yang ada;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyediakan kursus pengajian dan program latihan dalam bidang perhutanan atau apa-apa bidang lain yang berkaitan, dan mengambil apa-apa langkah lain yang didapati perlu atau wajar untuk pendidikan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk bertindak sebagai suatu badan pengujian dan suatu badan pensijilan bagi hasil hutan apabila diakreditasikan sebagai badan penilaian pematuhan di bawah Akta Standard Malaysia 1996 [Akta 549] atau diakreditasikan oleh mana-mana badan akreditasi lain di luar Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk berhubung, menyelaraskan dan bekerjasama dengan Kerajaan Persekutuan, mana-mana Kerajaan Negeri dan apa-apa badan dan organisasi lain dalam program penyelidikan dan pembangunan demi kepentingan hutan dan industri berasaskan hutan termasuk menjadi anggota apa-apa badan atau organisasi di dalam dan di luar Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan apa-apa perkara lain yang difikirkan patut oleh Institut bagi membolehkannya melaksanakan fungsinya dengan berkesan atau yang bersampingan dengan pelaksanaan fungsinya. Kuasa Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah mempunyai kuasa untuk melakukan semua perkara yang suai manfaat atau munasabah bagi dan bersampingan dengan pelaksanaan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_o"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kuasa Institut hendaklah termasuk kuasa—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat kontrak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memperoleh, membeli, mengambil, memegang dan menikmati tiap-tiap jenis harta alih dan harta tak alih;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memindahkan, menyerahhakkan, menyerahkan balik, memulangkan, menggadaikan, menggadai janji, mendemis, menyerahhakkan semula, memindahkan hakmilik atau selainnya melupuskan atau membuat apa-apa urusan dengan apa-apa harta alih atau harta tak alih dan apa-apa kepentingan dalam harta alih atau harta tak alih, yang terletak hak pada Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mendapatkan dan menerima bagi maksud Institut apa-apa wang, tanah atau harta lain daripada mana-mana orang melalui pemberian, subsidi, derma, hadiah, langganan, endowmen atau selainnya, dan jika ia menerima mana-mana wang, tanah atau harta lain itu, menyampaikan kepada orang itu apa-apa konsesi atau faedah yang difikirkan patut oleh Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memperoleh, memegang, melupuskan atau memberikan hak berkaitan dengan dapatan penyelidikan daripada apa-apa aktiviti penyelidikan dan pembangunan yang dijalankan oleh atau bagi Institut atau oleh mana-mana orang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengusahakan, menyelaraskan atau memberikan kepada mana-mana orang untuk mengusahakan atau menyelaraskan aktiviti penyelidikan dan pembangunan yang berhubungan dengan perhutanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menentukan keutamaan aktiviti penyelidikan dan pembangunan Institut dan meluluskan program tahunan penyelidikan dan anggaran perbelanjaan yang diperlukan untuk melaksanakan program, skim, projek dan aktiviti dan bagi pentadbiran Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memastikan bahawa program, skim, projek dan aktiviti yang diluluskan oleh Institut dijalankan dengan sewajarnya dan perbelanjaan yang dilakukan adalah mengikut anggaran perbelanjaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengutip dan menerima apa-apa wang bagi perkhidmatan yang disediakan oleh Institut dan penggunaan kemudahannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat perundingan, perjanjian atau perkiraan yang difikirkan patut oleh Institut bagi pelaksanaan fungsinya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan kursus atau latihan teknikal dan bukan teknikal dalam bidang perhutanan atau apa-apa bidang lain yang berkaitan dan untuk memberikan perakuan kepada orang yang telah mengikuti kursus atau latihan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk berusaha sesama dengan mana-mana institusi atau organisasi di dalam atau di luar Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menganugerahkan biasiswa, dermasiswa, pingat, hadiah dan bentuk kepujian, award atau bantuan lain kepada mana-mana orang berkenaan dengan kursus atau latihan teknikal dan bukan teknikal yang disebut dalam perenggan (k) dan usaha sama yang disebut dalam perenggan (l) atau mana-mana kursus pengajian atau program latihan yang dijalankan oleh mana-mana institusi pengajian tinggi, sama ada awam atau swasta, di dalam atau di luar Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengusahakan dan menyelaraskan apa-apa aktiviti yang difikirkan perlu oleh Institut bagi maksud melindungi dan memajukan kepentingan hutan dan industri berasaskan hutan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan semua perkara yang suai manfaat atau perlu atau bersampingan dengan pelaksanaan fungsinya dan penjalanan kuasanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh mewakilkan mana-mana kuasanya di bawah Akta ini kepada Ketua Pengarah Institut. Cawangan dan pusat penyelidikan Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh menubuhkan cawangan atau pusat penyelidikan Institut di dalam atau di luar Malaysia bagi maksud melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Cawangan atau pusat penyelidikan itu hendaklah diketuai oleh pegawai yang dilantik oleh Ketua Pengarah daripada kalangan pegawai yang dilantik di bawah seksyen 17."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua cawangan atau ketua pusat penyelidikan hendaklah bertanggungjawab kepada Ketua Pengarah dan hendaklah melaksanakan apa-apa kewajipan sebagaimana yang diberikan kepadanya oleh Ketua Pengarah. Keanggotaan Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_l"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah terdiri daripada anggota yang berikut yang hendaklah dilantik oleh Menteri:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Kementerian yang bertanggungjawab bagi perhutanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Perbendaharaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Jabatan atau Unit yang bertanggungjawab bagi pembangunan sosioekonomi negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Kementerian yang bertanggungjawab bagi industri perladangan dan komoditi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Jabatan Perhutanan Semenanjung Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Kerajaan Negeri Sabah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Kerajaan Negeri Sarawak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang wakil Lembaga Perindustrian Kayu Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dua orang wakil industri berasaskan hutan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada empat orang lain yang, pada pendapat Menteri, boleh menyumbang kepada penyelidikan dan pembangunan perhutanan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah. Tempoh jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8__para_j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Institut yang dilantik di bawah perenggan 7(a),"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atau (k) hendaklah, melainkan jika dia terlebih dahulu meletakkan atau mengosongkan jawatannya, memegang jawatan selama tempoh tidak melebihi dua tahun atas apa-apa syarat sebagaimana yang dinyatakan dalam surat cara pelantikannya dan dia hendaklah layak untuk dilantik semula. Anggota silih ganti"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana anggota Institut yang dilantik di bawah perenggan 7(b) hingga (i) boleh melantik anggota silih ganti untuk menghadiri mesyuarat Institut jika anggota Institut itu atas apa-apa sebab tidak dapat hadir."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila menghadiri mesyuarat Institut, anggota silih ganti hendaklah bagi segala maksud disifatkan sebagai anggota Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota silih ganti hendaklah, melainkan jika dia terlebih dahulu mengosongkan jawatannya, terhenti menjadi anggota silih ganti apabila anggota yang berkenaan dengannya dia seorang anggota silih ganti meletakkan atau mengosongkan jawatannya. Penjalanan sementara fungsi Pengerusi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KEWANGAN Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini, suatu kumpulan wang yang hendaklah dikenali sebagai “Kumpulan Wang Institut Penyelidikan Perhutanan Malaysia” ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang itu hendaklah dikawal, disenggarakan dan dikendalikan oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang itu hendaklah terdiri daripada—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa jumlah wang sebagaimana yang diperuntukkan oleh Kerajaan Persekutuan atau mana-mana Kerajaan Negeri bagi maksud Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang dikutip di bawah seksyen 29;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang diagihkan sebagai dividen daripada syarikat yang ditubuhkan di bawah seksyen 30;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fi, royalti dan balasan lain di bawah seksyen 31 dan 37 dan wang yang diperoleh daripada apa-apa hak harta intelek, syer, ekuiti dan perjanjian pelesenan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang diperoleh daripada fi kemasukan dan apa-apa fi atau caj lain bagi perkhidmatan yang disediakan oleh Institut dan penggunaan kemudahannya di bawah seksyen 32;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang dipinjam oleh Institut di bawah seksyen 33;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang diperoleh daripada pengendalian apa-apa program, skim, projek atau aktiviti yang dibiayai daripada Kumpulan Wang;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang yang diperoleh atau berbangkit daripada apa-apa jualan, pelupusan, pelaburan, gadai janji, pajakan, sewaan, gadaian atau debentur atau apa-apa urusan lain dengan mana-mana harta, yang diperoleh atau yang terletak hak pada Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wang daripada mana-mana sumber, sumbangan, endowmen, hadiah atau bekues sebagaimana yang dibuat kepada atau berpihak kepada Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "derma dan sumbangan yang diterima daripada mana-mana kerajaan, badan atau organisasi di dalam atau di luar Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua wang, jumlah wang atau harta lain yang dengan apa-apa cara menjadi kena dibayar kepada atau terletak hak pada Institut berkenaan dengan apa-apa perkara yang bersampingan dengan fungsinya dan kuasanya. Perbelanjaan hendaklah dipertanggungkan pada Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang hendaklah dibelanjakan bagi maksud—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_iv",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar apa-apa perbelanjaan yang dilakukan dengan sah oleh Institut, termasuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "elaun dan belanja lain anggota Institut atau mana-mana jawatankuasanya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "saraan pegawai dan pekhidmat Institut, termasuk pemberian pinjaman, biasiswa dan pendahuluan, faedah persaraan, ganjaran dan elaun;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perlindungan insurans bagi pegawai dan pekhidmat Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kos yang ditanggung dalam memberikan bantuan bagi kebajikan pegawai dan pekhidmat Institut; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a__subpara_v",
+      "@type": "akn:subparagraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar apa-apa belanja, kos dan perbelanjaan lain berhubung dengan pemerolehan barang dan perkhidmatan, termasuk pengambilan perunding, fi dan kos guaman, dan fi dan kos lain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membiayai aktiviti penyelidikan dan pembangunan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan wang kepada mana-mana badan atau organisasi yang difikirkan suai manfaat oleh Institut untuk menjalankan aktiviti penyelidikan dan pembangunan, projek pembangunan atau aktiviti publisiti;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyumbang kepada mana-mana badan atau organisasi di dalam atau di luar Malaysia yang menggalakkan penyelidikan dan pembangunan dalam pembangunan hutan dan industri berasaskan hutan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membiayai apa-apa biasiswa bagi pengajian tinggi, zamalah pembantu penyelidik, pemberian saintis, fellowship, pingat, hadiah dan bentuk kepujian lain, award atau bantuan bagi pegawai dan pekhidmat Institut yang sedang berkhidmat atau bakal berkhidmat;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar apa-apa belanja, kos atau perbelanjaan lain yang dilakukan atau diterima dengan sewajarnya oleh Institut dalam pelaksanaan fungsinya atau penjalanan kuasanya di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memenuhi belanja yang ditanggung oleh Institut dalam penubuhan cawangan atau pusat penyelidikan Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membeli atau menyewa kelengkapan, jentera dan apa-apa bahan lain, memperoleh tanah dan mendirikan bangunan, dan menjalankan apa-apa kerja atau pengusahaan lain dalam pelaksanaan fungsinya atau penjalanan kuasanya di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan pinjaman kepada atau mengadakan modal bagi syarikat yang ditubuhkan di bawah seksyen 30;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membayar balik apa-apa wang yang dipinjam di bawah seksyen 33 dan bunga yang kena dibayar atas wang itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara amnya, membayar apa-apa belanja untuk melaksanakan peruntukan Akta ini. Pemeliharaan Kumpulan Wang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menjadi kewajipan Institut untuk memelihara Kumpulan Wang dengan melaksanakan fungsinya dan menjalankan kuasanya di bawah Akta ini dengan sedemikian cara untuk memastikan bahawa jumlah hasil Institut mencukupi untuk membayar semua jumlah wang yang dipertanggungkan dengan sepatutnya pada akaun hasilnya, termasuk susut nilai dan bunga atas modal, dari setahun ke setahun. Perbelanjaan dan penyediaan anggaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perbelanjaan Institut setakat apa-apa amaun yang dibenarkan oleh Menteri bagi mana-mana satu tahun hendaklah dibayar daripada Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebelum mulanya bulan Jun setiap tahun, Institut hendaklah mengemukakan kepada Menteri suatu anggaran perbelanjaan (termasuk perbelanjaan bagi aktiviti penyelidikan dan pembangunan dan projek pembangunan) bagi tahun yang berikutnya dalam apa-apa bentuk dan yang mengandungi apa-apa butir sebagaimana yang diarahkan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah, sebelum permulaan bulan Disember tahun itu, memberitahu Institut amaun yang dibenarkan bagi perbelanjaan secara amnya atau amaun yang dibenarkan bagi setiap perihalan perbelanjaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, pada bila-bila masa, mengemukakan kepada Menteri suatu anggaran tambahan perbelanjaannya bagi mana-mana satu tahun dan Menteri boleh membenarkan keseluruhan atau mana-mana bahagian daripada perbelanjaan tambahan itu dimasukkan dalam anggaran tambahan. Kumpulan wang rizab"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah menubuhkan dan menyenggarakan suatu kumpulan wang rizab dalam Kumpulan Wang. Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Badan Berkanun (Akaun dan Laporan Tahunan) 1980 [Akta 240] hendaklah terpakai bagi Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Institut Penyelidikan Perhutanan Malaysia 2016. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“Akta yang dimansuhkan” ertinya Akta Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia 1985 [Akta 319] yang dimansuhkan di bawah subseksyen 46(1); “anggota Institut” ertinya anggota Institut yang dilantik di bawah seksyen 7 dan termasuklah anggota silih ganti yang dilantik di bawah seksyen 9; “dapatan penyelidikan” ertinya apa-apa hasil daripada apa-apa aktiviti penyelidikan dan pembangunan, dan termasuklah penemuan, rekaan, inovasi dan kemajuan dalam apa-apa proses, radas, mesin atau teknik; “hasil hutan” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hasil dalam bentuk yang belum diproses atau telah diproses sebahagiannya, dan termasuklah kayu balak, kayu jaras, kayu api, kayu getah, batang dan gentian kelapa sawit dan sisanya, batang kelapa dan batang palma lain, kayu gaharu dan kayu lain yang berbau, gam, damar dan oleoresin, minyak kayu, daun, rotan, buluh, biji benih, kacang, pucuk, akar, mengkuang, tumbuhan ubatan, tumbuhan beraroma, tanih, mikroorganisma dan apa-apa jenis hasil lain yang seumpamanya sama ada sekarang atau pada masa hadapan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hasil yang telah menjalani pemprosesan atau yang bentuknya telah diubah, dan termasuklah kayu gergaji, arang kayu, minyak pati, kayu serpai dan tatal kayu, kayu kisar, kayu terolah dan kayu kumai, papan lapis dan venir, papan partikel dan papan gentian, papan cantum, papan lamin dan hasil panel lain berasaskan kayu yang diubah suai, kayu pulpa, kertas dan hasil daripada kertas, kayu glu lam, tumbuhan kultur tisu, ekstrak kimia dan protein, bahan atau terbitan bagi penghasilan farmaseutikal, neutraseutikal, kosmeseutikal dan makanan fungsian dan hasil lain yang diproses atau diubah yang berasal daripada hasil sebagaimana yang dinyatakan dalam perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hasil dalam bentuk yang telah siap, dan termasuklah atap, kayu landasan kereta api dan trem, perabot, kraftangan dan mainan daripada kayu, pemegang alat daripada kayu, cerucuk, pancang dan kayu pancang, bingkai gambar daripada kayu, kotak bungkusan daripada kayu, perkakas rumah daripada kayu, bakul, barang anyaman dan barang lain daripada anyaman, pensil dan hasil siap lain yang keseluruhannya atau sebahagiannya dibuat daripada hasil sebagaimana yang dinyatakan dalam perenggan (a) atau (b); “industri berasaskan hutan” ertinya semua industri yang terlibat dengan penuaian, pengekstrakan, pengujian, pemprosesan, pengilangan, pengawetan dan pengeringan hasil hutan, dan perkhidmatan berhubungan dengannya; “Institut” ertinya Institut Penyelidikan Perhutanan Malaysia yang terus wujud dan dengan pertukaran nama dalam bahasa Inggeris kepada “Forest Research Institute Malaysia” di bawah seksyen 3; “Ketua Pengarah” ertinya Ketua Pengarah yang dilantik di bawah seksyen 15; “Kumpulan Wang” ertinya Kumpulan Wang Institut Penyelidikan Perhutanan Malaysia yang ditubuhkan di bawah seksyen 23; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi perhutanan; “pembangunan hutan” ertinya dasar dan aktiviti pengurusan dan pembangunan bagi semua hutan semula jadi dan buatan manusia berdasarkan prinsip ekologi dan sosioekonomi yang kukuh bagi maksud yang khusus untuk kedua-dua pengeluaran hasil hutan dan perlindungan alam sekitar; “pemuliharaan” ertinya melindungi sumber genetik, kepelbagaian spesies dan ekosistem, dan juga penggunaan mampan sumber biologi dan perkongsian faedah sumber biologi secara saksama bagi memenuhi keperluan dan aspirasi generasi masa kini dan akan datang; “Pengerusi” ertinya Pengerusi Institut yang dilantik di bawah perenggan 7(a) dan termasuklah mana-mana anggota Institut yang dilantik untuk melaksanakan fungsi Pengerusi di bawah seksyen 10."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_36"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KUASA LAIN INSTITUT Kuasa untuk mengenakan, dsb., ses penyelidikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_44"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELBAGAI Harta dalam dapatan penyelidikan, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_56"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERUNTUKAN PEMANSUHAN, PEMBUBARAN, KECUALIAN DAN PERALIHAN, DSB. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_45__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bagi maksud Bahagian ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“Lembaga yang dibubarkan” ertinya Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia yang dibubarkan di bawah subseksyen 46(2);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“tarikh permulaan kuat kuasa” ertinya tarikh Akta ini mula berkuat kuasa. Pemansuhan dan pembubaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_46__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia 1985 dimansuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_46",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia yang ditubuhkan di bawah Akta yang dimansuhkan dibubarkan. Pemindahan kuasa, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Segala kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan yang sebelum tarikh permulaan kuat kuasa merupakan kuasa, hak, keistimewaan, liabiliti, obligasi dan kewajipan Lembaga yang dibubarkan hendaklah dari tarikh permulaan kuat kuasa turun kepada Institut. Pemindahmilikan harta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_48__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_48__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_48__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua tanah yang sebelum tarikh permulaan kuat kuasa terletak hak pada, atau dirizabkan di bawah mana-mana undang-undang bertulis yang berhubungan dengan tanah bagi maksud Lembaga yang dibubarkan hendaklah pada tarikh permulaan kuat kuasa terletak hak pada atau disifatkan sebagai dirizabkan bagi maksud Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_48__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_48",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua harta dan aset, selain tanah, yang sebelum tarikh permulaan kuat kuasa terletak hak pada Lembaga yang dibubarkan atau pada mana-mana orang bagi pihak Lembaga yang dibubarkan hendaklah pada tarikh permulaan kuat kuasa terletak hak pada Institut. Kontrak sedia ada"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua surat ikatan, bon, perjanjian, surat cara dan perkiraan kerja yang wujud sebelum tarikh permulaan kuat kuasa dan yang menyentuh apa-apa harta yang dipindahmilikkan di bawah seksyen 48 hendaklah mempunyai kuat kuasa dan kesan sepenuhnya terhadap atau memihak kepada Institut dan bolehlah dikuatkuasakan dengan sepenuhnya dan berkesan seolah-olah, sebagai ganti Lembaga yang dibubarkan atau mana-mana orang yang bertindak bagi pihak Lembaga yang dibubarkan, Institut yang dinamakan dalamnya atau menjadi pihak kepadanya. Pembubaran Kumpulan Wang Penyelidikan dan Pembangunan Perhutanan, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_50__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_50__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_50__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kumpulan Wang Penyelidikan dan Pembangunan Perhutanan yang ditubuhkan di bawah Akta yang dimansuhkan dibubarkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_50__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_50",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua wang yang ada dalam atau kena dibayar kepada Kumpulan Wang Penyelidikan dan Pembangunan Perhutanan hendaklah pada tarikh permulaan kuat kuasa dipindahkan dan terletak hak pada dan disifatkan menjadi sebahagian daripada Kumpulan Wang. Keanggotaan Lembaga yang dibubarkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua anggota dan anggota silih ganti Lembaga yang dibubarkan yang dilantik di bawah Akta yang dimansuhkan dan semua anggota mana-mana jawatankuasa yang ditubuhkan di bawah Akta yang dimansuhkan, yang memegang jawatan sebelum tarikh permulaan kuat kuasa hendaklah terhenti memegang jawatan pada tarikh permulaan kuat kuasa itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam subseksyen (1) boleh menjejaskan kebertanggungjawaban anggota Lembaga yang dibubarkan yang tamat tempoh jawatannya dan dengan seberapa segera yang boleh dilaksanakan selepas tarikh permulaan kuat kuasa, Lembaga yang dibubarkan hendaklah menyediakan dan mengemukakan kepada Menteri suatu laporan termasuk penyata kewangan yang dikehendaki di bawah Akta yang dimansuhkan, tetapi laporan itu hendaklah terhad kepada tempoh dari 1 Januari tahun yang berkenaan sehingga tarikh sebelum tarikh permulaan kuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_51",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), Lembaga yang dibubarkan hendaklah terus wujud bagi maksud subseksyen (2). Pegawai terus memegang jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua orang yang memegang jawatan di bawah Akta yang dimansuhkan sebaik sebelum tarikh permulaan kuat kuasa sebagai—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Ketua Pengarah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_52",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pegawai dan pekhidmat Institut, hendaklah disifatkan telah dilantik di bawah Akta ini dan hendaklah terus memegang jawatan sedemikian atas terma dan syarat yang sama bagi tempoh yang akan tamat pada tarikh yang pelantikannya di bawah Akta yang dimansuhkan sepatutnya tamat tempoh. Penerusan permohonan, dsb., yang belum selesai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua permohonan, kelulusan dan keputusan, atas rayuan atau selainnya, yang belum selesai di hadapan Lembaga yang dibubarkan hendaklah pada tarikh permulaan kuat kuasa diuruskan oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua permohonan, kelulusan dan keputusan, atas rayuan atau selainnya, yang belum selesai di hadapan Menteri di bawah Akta yang dimansuhkan hendaklah pada tarikh permulaan kuat kuasa diuruskan oleh Menteri di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_53",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua surat cara, perakuan dan dokumen yang diserah simpan dengan Lembaga yang dibubarkan sebelum tarikh permulaan kuat kuasa hendaklah pada tarikh permulaan kuat kuasa diserah simpan dengan Institut. Penerusan prosiding sivil dan jenayah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa yang terkandung dalam Akta ini boleh menyentuh liabiliti mana-mana orang untuk didakwa atau dihukum bagi kesalahan yang dilakukan sebelum tarikh permulaan kuat kuasa, atau apa-apa prosiding yang dibawa sebelum tarikh permulaan kuat kuasa berkenaan dengan kesalahan sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding, sama ada sivil atau jenayah, atau kausa tindakan yang belum selesai atau yang wujud sebelum tarikh permulaan kuat kuasa oleh atau terhadap Lembaga yang dibubarkan atau mana-mana orang yang bertindak bagi pihak Lembaga yang dibubarkan boleh diteruskan atau dimulakan oleh atau terhadap Institut sebagaimana ia boleh diteruskan atau dimulakan oleh atau terhadap Institut atau orang sedemikian jika Akta ini tidak dibuat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_54",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa rayuan yang dibawa atau apa-apa kebenaran merayu yang dipohon pada atau selepas tarikh permulaan kuat kuasa terhadap suatu keputusan yang diberikan sebelum tarikh permulaan kuat kuasa itu dalam mana-mana prosiding undang-undang yang Lembaga yang dibubarkan menjadi pihak kepadanya boleh dibawa oleh atau terhadap Institut. Pengesahan dan tanggung rugi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun tiada apa-apa peruntukan tentang pengenaan dan pemungutan fi oleh Lembaga yang dibubarkan kecuali bagi penetapan fi di bawah seksyen 22 Akta Lembaga Penyelidikan dan Pembangunan Perhutanan Malaysia 1985, fi yang berikut hendaklah disifatkan telah dikenakan dan dipungut dengan sah:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fi kemasukan yang telah dikenakan dan dipungut oleh Lembaga yang dibubarkan sepanjang tempoh dari 1 November 1996; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fi atau caj lain bagi apa-apa penggunaan kemudahan yang telah dikenakan dan dipungut oleh Lembaga yang dibubarkan sepanjang tempoh dari 1 Januari 1986, sehingga hari sebelum tarikh permulaan kuat kuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_55",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan atau prosiding undang-undang boleh dibawa, dimulakan atau dikekalkan terhadap Lembaga yang dibubarkan atau mana-mana pegawai Lembaga yang dibubarkan atau mana-mana orang yang bertindak di bawahnya berkenaan dengan apa-apa fi atau caj yang dikenakan dan dipungut, dan jika apa-apa tindakan atau prosiding undang-undang sedemikian telah dibawa, dimulakan atau dikekalkan, ia hendaklah dibatalkan dan dijadikan tidak sah dan tiada pembayaran balik berkenaan dengan fi atau caj yang telah dikenakan dan dipungut sebagaimana yang dinyatakan dalam Akta ini boleh dibuat. Sebutan dalam undang-undang atau dokumen mengenai Lembaga yang dibubarkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu sebutan dalam mana-mana undang-undang atau dokumen yang berkuat kuasa sebelum tarikh permulaan kuat kuasa mengenai Lembaga yang dibubarkan hendaklah ditafsirkan sebagai sebutan mengenai Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika aktiviti penyelidikan dan pembangunan yang dijalankan oleh Institut dibiayai oleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan Persekutuan, harta dalam tiap-tiap dapatan penyelidikan daripada aktiviti penyelidikan dan pembangunan itu hendaklah terletak hak pada Institut; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana Kerajaan Negeri, orang perseorangan, syarikat, badan atau organisasi, harta dalam tiap-tiap dapatan penyelidikan daripada aktiviti penyelidikan dan pembangunan itu hendaklah terletak hak mengikut perjanjian antara Institut dengan Kerajaan Negeri, orang perseorangan, syarikat, badan atau organisasi itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika aktiviti penyelidikan dan pembangunan dijalankan oleh pegawai atau pekhidmat Institut semasa menjalankan tugasnya, harta dalam tiap-tiap dapatan penyelidikan daripada aktiviti penyelidikan dan pembangunan itu hendaklah terletak hak pada Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, sebagaimana yang difikirkannya patut, memberikan ganjaran atau insentif kepada pegawai atau pekhidmat Institut yang disebut dalam subseksyen (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh menyediakan apa-apa dapatan penyelidikan yang harta dalam dapatan penyelidikan itu terletak hak pada Institut kepada Kerajaan Persekutuan atau mana-mana Kerajaan Negeri, orang perseorangan, syarikat, badan atau organisasi tertakluk kepada apa-apa syarat dan kepada pembayaran apa-apa fi, royalti atau balasan lain, jika ada, sebagaimana yang ditentukan oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (4) adalah sebagai tambahan kepada dan bukan untuk mengurangkan peruntukan seksyen 31. Akses kepada dapatan penyelidikan dan kemudahan, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, tertakluk kepada apa-apa syarat, sekatan atau had yang ditentukan oleh Institut, termasuklah pengenaan fi, membenarkan akses kepada dapatan penyelidikan, premis dan kemudahan Institut. Larangan terhadap pengeluaran semula atau penerbitan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun boleh mengeluarkan semula atau menerbitkan atau menyebabkan dikeluarkan semula atau diterbitkan kandungan mana-mana dapatan penyelidikan atau mana-mana bahagiannya kecuali—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan persetujuan bertulis terlebih dahulu Ketua Pengarah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengikut apa-apa terma dan syarat sebagaimana yang ditentukan oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi maksud Akta ini atau bagi apa-apa prosiding, mana-mana anggota Institut atau jawatankuasanya atau mana-mana pegawai, pekhidmat atau ejen Institut tidak boleh menzahirkan apa-apa maklumat yang berhubungan dengan apa-apa perkara yang diperolehnya semasa melaksanakan kewajipannya dan yang tidak disiarkan menurut Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua maklumat yang diperoleh oleh mana-mana anggota Institut atau jawatankuasanya, atau mana-mana pegawai, pekhidmat atau ejen Institut berkenaan dengan apa-apa rumusan, proses atau amalan berkaitan dengan pentadbiran Akta ini hendaklah disifatkan sebagai rahsia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi satu ratus ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya. Sekatan penggunaan perkataan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_41__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali dengan kelulusan Institut, tiada seorang pun boleh menggunakan bagi apa-apa jua maksud nama yang mengandungi perkataan “Institut Penyelidikan Perhutanan Malaysia”, “Forest Research Institute Malaysia”, “Forest Research Institute of Malaysia” atau abjad “FRIM” atau apa-apa singkatan atau singkatan yang mengelirukan padanya atau apa-apa tanda Institut atau apa-apa yang menyerupainya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ratus ribu ringgit. Perlindungan terhadap tindakan guaman dan prosiding undang-undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_42__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_42__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tindakan, guaman, pendakwaan atau prosiding tidak boleh diambil atau dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_42__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terhadap Institut; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_42__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terhadap mana-mana anggota Institut atau jawatankuasanya, atau mana-mana pegawai, pekhidmat atau ejen Institut, berkenaan dengan apa-apa perbuatan, keabaian, keingkaran atau peninggalan yang dilakukan atau ditinggalkan olehnya dengan suci hati atas sifat sedemikian. Akta Perlindungan Pihak Berkuasa Awam 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Institut atau terhadap mana-mana anggota Institut atau jawatankuasanya, atau mana-mana pegawai, pekhidmat atau ejen Institut berkenaan dengan apa-apa perbuatan, keabaian atau keingkaran yang dibuat atau dilakukan olehnya atas sifat sedemikian. Pekhidmat awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota Institut atau mana-mana jawatankuasanya, atau mana-mana pegawai, pekhidmat atau ejen Institut, semasa melaksanakan kewajipannya sebagai anggota, pegawai, pekhidmat atau ejen sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, dengan persetujuan Menteri Kewangan, membuat perintah bagi pengenaan, pengubahan atau pembatalan ses penyelidikan atas pengeksportan semua atau mana-mana hasil hutan, dan perintah itu boleh menyatakan jenis, amaun dan kadar ses, orang atau golongan orang yang ke atasnya ses itu dikenakan dan cara kutipan ses itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perintah yang dibuat di bawah subseksyen (1) hendaklah disiarkan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Melainkan jika diperuntukkan selainnya dalam perintah yang dibuat di bawah subseksyen (1), ses itu hendaklah disifatkan sebagai duti kastam yang dikenakan di bawah Akta Kastam 1967 [Akta 235] bagi maksud mengutip dan menguatkuasakan pengutipan ses itu. Kuasa untuk menubuhkan syarikat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_30__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_30__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, dengan kelulusan Menteri dan Menteri Kewangan, menubuhkan atau memajukan atau menggalakkan penubuhan atau pembesaran syarikat di bawah Akta Syarikat 1965 [Akta 125]—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_30__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melaksanakan mana-mana fungsi atau menjalankan apa-apa kuasa Institut; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_30__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan dan menjaga, mengelolakan dan menguruskan apa-apa program, skim, projek atau aktiviti yang telah dirancangkan atau diusahakan oleh Institut dalam melaksanakan fungsinya atau menjalankan kuasanya. Kuasa untuk mengkomersialkan dapatan penyelidikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, tertakluk kepada apa-apa terma dan syarat dan pembayaran apa-apa fi, royalti atau balasan lain, jika ada, sebagaimana yang ditentukan oleh Institut, mengkomersialkan atau menyebabkan dikomersialkan apa-apa dapatan penyelidikan atau menyediakan apa-apa dapatan penyelidikan kepada mana-mana orang bagi maksud pengkomersialan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), Institut boleh membuat apa-apa perkiraan bagi perkongsian keuntungan, gabungan kepentingan, kerjasama, usaha sama atau penyertaan ekuiti dengan mana-mana orang. Kuasa untuk mengenakan fi dan caj"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh mengenakan fi kemasukan dan apa-apa fi atau caj lain yang difikirkan patut oleh Institut bagi apa-apa perkhidmatan teknikal, nasihat, pakar runding dan apa-apa perkhidmatan lain berhubung dengan hutan dan industri berasaskan hutan, dan apa-apa perkhidmatan lain yang disediakan oleh Institut dan penggunaan kemudahannya. Kuasa untuk meminjam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, dengan kelulusan Menteri dan Menteri Kewangan, meminjam apa-apa jumlah wang yang dikehendaki oleh Institut bagi pelaksanaan fungsinya atau penjalanan kuasanya sewajarnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Badan Berkanun (Kuasa Meminjam) 1999 [Akta 598] hendaklah terpakai bagi Institut. Kuasa untuk melabur, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, dengan kelulusan Menteri dan Menteri Kewangan, melabur Kumpulan Wang atau mana-mana bahagian daripadanya, yang tidak dikehendaki serta-merta untuk dibelanjakan di bawah Akta ini, dalam mana-mana pelaburan atau sekuriti."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh menyimpan, sama ada atas akaun deposit atau akaun semasa, apa-apa wang yang pada masa itu tidak dilaburkan, dalam—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana bank berlesen atau bank pelaburan berlesen di bawah Akta Perkhidmatan Kewangan 2013 [Akta 758]; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_34__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana bank Islam berlesen di bawah Akta Perkhidmatan Kewangan Islam 2013 [Akta 759]. Kuasa untuk mengambil khidmat ejen, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh mengambil khidmat dan membayar ejen, perunding dan penasihat teknikal, termasuk peguam bela dan peguam cara, jurubank, broker saham, juruukur, penilai dan mana-mana orang lain, untuk melakukan semua perkara yang suai manfaat atau perlu atau bersampingan dengan pelaksanaan fungsi atau penjalanan kuasa Institut. Kuasa untuk membuat peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh, dengan kelulusan Menteri, membuat apa-apa peraturan-peraturan sebagaimana yang perlu atau suai manfaat untuk melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Subseksyen 3(4)] Pembatalan pelantikan dan peletakan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Akta ini, Institut boleh menentukan tatacaranya sendiri. Anggota Institut hendaklah memberikan tumpuan kepada urusan Institut"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota hendaklah menumpukan masa kepada urusan Institut sebagaimana yang perlu untuk menunaikan kewajipannya dengan berkesan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelantikan mana-mana anggota Institut boleh pada bila-bila masa dibatalkan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subperenggan (3), anggota Institut boleh pada bila-bila masa meletakkan jawatannya dengan memberikan notis bertulis yang ditujukan kepada Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, apabila menerima notis di bawah subperenggan (2), menerima atau menolak peletakan jawatan anggota Institut itu. Pengosongan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatan seseorang anggota Institut hendaklah menjadi kosong jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia mati;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "telah dibuktikan terhadapnya, atau dia telah disabitkan atas, suatu pertuduhan berkenaan dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan yang melibatkan fraud, kecurangan atau keburukan akhlak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan (sama ada pemenjaraan sahaja atau sebagai tambahan kepada atau sebagai ganti denda) selama lebih daripada dua tahun;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia menjadi bankrap;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kelakuannya, sama ada yang berkaitan dengan kewajipannya sebagai anggota Institut atau selainnya, ialah kelakuan yang memburukkan nama baik Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia tidak sempurna akal atau selainnya tidak berupaya menunaikan kewajipannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia tidak menghadiri mesyuarat Institut tiga kali berturut-turut tanpa kebenaran Pengerusi atau, dalam hal Pengerusi tanpa kebenaran Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "peletakan jawatannya diterima oleh Menteri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelantikannya dibatalkan oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika jawatan mana-mana anggota Institut menjadi kosong oleh apa-apa sebab yang disebut dalam subperenggan (1), Menteri boleh melantik seorang lain untuk memenuhi kekosongan itu. Mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah bermesyuarat sekurang-kurangnya empat kali setahun pada bila-bila masa dan di mana-mana tempat sebagaimana yang ditetapkan oleh Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekurang-kurangnya notis bertulis empat belas hari hendaklah diberikan kepada anggota."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi hendaklah mempengerusikan mesyuarat Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kuorum Institut ialah enam orang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap anggota yang hadir berhak kepada satu undi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika dalam persoalan yang hendak diputuskan oleh Institut terdapat undi yang sama banyak, Pengerusi hendaklah mempunyai undi pemutus. Elaun"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi dan semua anggota lain Institut hendaklah dibayar apa-apa elaun mesyuarat dengan apa-apa kadar sebagaimana yang ditentukan oleh Menteri. Institut boleh mengundang orang lain untuk menghadiri mesyuarat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut boleh mengundang mana-mana orang untuk menghadiri mesyuarat atau penimbangtelitian Institut bagi maksud menasihatinya mengenai apa-apa perkara yang dibincangkan tetapi orang itu tidak berhak untuk mengundi dalam mesyuarat atau penimbangtelitian itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang diundang di bawah subperenggan (1) boleh dibayar apa-apa fi sebagaimana yang ditentukan oleh Institut. Penzahiran kepentingan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Institut yang mempunyai, secara langsung atau tidak langsung, dengan sendiri atau melalui pekongsinya, apa-apa kepentingan dalam mana-mana syarikat atau pengusahaan yang dengannya Institut bercadang untuk membuat apa-apa kontrak atau yang mempunyai apa-apa kepentingan dalam mana-mana kontrak itu atau dalam apa-apa perkara yang sedang dibincangkan oleh Institut hendaklah menzahirkan kepada Institut hakikat kepentingan dan jenis kepentingannya itu, dan penzahiran yang sedemikian hendaklah direkodkan dalam minit Institut dan, melainkan jika dibenarkan secara khusus kepadanya oleh Pengerusi, anggota itu tidak boleh mengambil bahagian dalam apa-apa penimbangtelitian atau keputusan Institut yang berhubungan dengan kontrak atau perkara itu. Kesahan tindakan dan prosiding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan yang dilakukan atau prosiding yang diambil di bawah Akta ini boleh dipersoalkan atas alasan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sesuatu kekosongan dalam keanggotaan atau sesuatu kecacatan dalam penubuhan Institut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelanggaran perenggan 6 oleh mana-mana anggota Institut; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sesuatu peninggalan, kecacatan atau ketidakteraturan yang tidak menyentuh merit hal itu. Meterai perbadanan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah mempunyai suatu meterai perbadanan yang hendaklah mengandungi suatu tanda yang diluluskan oleh Institut dan meterai itu boleh dipecahkan, ditukar, diubah atau dibuat baru sebagaimana yang difikirkan patut oleh Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan itu hendaklah disimpan dalam jagaan Ketua Pengarah atau mana-mana orang lain yang diberi kuasa oleh Institut, dan hendaklah disahkan oleh Ketua Pengarah atau orang yang diberi kuasa itu atau oleh mana-mana pegawai diberi kuasa oleh salah seorang daripada mereka secara bertulis, dan semua surat ikatan, dokumen dan surat cara lain yang berupa sebagai dimeteraikan dengan meterai itu, yang disahkan sebagaimana yang disebut terdahulu, hendaklah, disifatkan telah disempurnakan dengan sah sehingga dibuktikan sebaliknya: Dengan syarat bahawa apa-apa dokumen atau surat cara yang jika disempurnakan oleh seseorang yang bukan suatu pertubuhan perbadanan tidak dikehendaki supaya dimeteraikan boleh disempurnakan dengan cara yang sama oleh Institut, dan apa-apa dokumen atau surat cara itu boleh disempurnakan bagi pihak Institut oleh mana-mana pegawai atau pekhidmat Institut yang diberi kuasa secara am atau khusus oleh Institut bagi maksud itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Meterai perbadanan Institut hendaklah diberi pengiktirafan rasmi dan kehakiman. Minit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Minit mesyuarat Institut hendaklah disediakan oleh Setiausaha kepada Institut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Institut hendaklah menyebabkan minit semua mesyuaratnya disenggarakan dan disimpan dalam bentuk yang sepatutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Minit yang dibuat mengenai mesyuarat Institut hendaklah, jika ditandatangani dengan sewajarnya, diterima dalam keterangan dalam semua prosiding undang-undang tanpa bukti lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/3/msa@/~sched_1__para_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap mesyuarat Institut yang berkenaan dengan prosidingnya minit telah dibuat sedemikian hendaklah disifatkan telah dipanggil dan diadakan dengan sewajarnya dan semua anggota dalam mesyuarat itu layak dengan sewajarnya untuk bertindak. Tatacara"
+      }
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-7-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Zon Bebas (Pindaan) 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Zon Bebas (Pindaan)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Zon Bebas 1990, yang disebut \"Akta ibu\" dalam"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini, adalah dipinda dalam subseksyen 2(1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Langkawi\" takrif yang berikut: ' \"lapangan terbang kastam\" hendaklah mempunyai erti yang sama yang diberikan kepadanya di bawah Akta Kastam 1967;';"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"nilai\" takrif yang berikut: ' \"pegawai Pihak Berkuasa yang hak\" ertinya mana-mana pegawai Pihak Berkuasa yang bertindak bagi menunaikan tugas- tugasnya di bawah Akta, sama ada tugas-tugas itu ditugaskan kepadanya secara khas atau am, atau secara nyata atau tersirat;'; dan 2 RANG UNDANG-UNDANG"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"Pihak Berkuasa\" takrif yang berikut: \"tempat import atau eksport yang ditetapkan\" ertinya apa-apa tempat yang ditetapkan di bawah seksyen 142 Akta Kastam 1967 sebagai suatu tempat bagi import dan eksport barang-barang melalui jalan dan keretapi; \"tempat pendaratan yang sah di sisi undang- undang\" hendaklah mempunyai erti yang sama yang diberikan kepadanya di bawah Akta Kastam 1967;'. Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(1) Akta ibu adalah dipinda dengan subseksyen memotong perkataan \"perindustrian\" yang terdapat selepas 17(1). perkataan \"zon\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 42 Akta ibu adalah dipinda dengan seksyen 42. menomborkannya semula sebagai subseksyen (1) seksyen itu dan dengan memasukkan selepas subseksyen (1) yang telah dinomborkan semula itu subseksyen yang berikut: \"(2) Apa-apa pemindahan dari kapal ke kapal dalam had-had pelabuhan zon bebas hendaklah disifatkan telah dilakukan dalam zon itu.\". Seksyen baru"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "42A. 42B seksyen 42 seksyen yang berikut: dan 42c Pemin- 42A. (1) Tiada barang-barang boleh dibawa dahan masuk ke, atau dimuatkan atau diangkut melalui barang- barang ke air untuk dimuatkan bagi dibawa keluar dari, dalam dan mana-mana zon bebas melalui laut— dari zon bebas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kecuali di suatu tempat pendaratan yang melalui laut. sah di sisi undang-undang; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sehingga kebenaran untuk berbuat sedemikian telah diterima daripada pegawai Pihak Berkuasa yang hak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/7/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali dengan kebenaran pegawai Pihak Berkuasa yang hak, tiada barang-barang sedemikian, selepas didaratkan dipunggahkan, boleh dipindahkapalkan. Pemindahan 42B. Tiada barang-barang boleh dibawa masuk barang- ke, atau dibawa keluar dari, mana-mana zon barang ke dalam dan bebas melalui udara kecuali di suatu lapangan dari zon terbang kastam. bebas melalui udara. Pemindahan 42c. Tiada barang-barang boleh dibawa masuk barang- ke, atau dibawa keluar dari, mana-mana zon barang ke dalam dan bebas melalui jalan atau keretapi kecuali di dari zon tempat import atau eksport yang ditetapkan dan, bebas jika suatu laluan telah ditetapkan, melalui laluan melalui jalan atau itu.\". keretapi."
+      }
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pemerangkapan, Penggunaan dan Penyimpanan Karbon 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_III__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian III Akta yang dicadangkan memperkatakan tentang pemerangkapan karbon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 15 dan 16 bertujuan untuk mengadakan peruntukan bagi pendaftaran dan permohonan pendaftaran pepasangan pemerangkapan karbon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 9 bertujuan untuk memperuntukkan bahawa Menteri boleh pada bila-bila masa membatalkan pelantikan mana-mana anggota dan anggota itu juga boleh meletakkan jawatannya dengan memberikan satu bulan notis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 10 bertujuan untuk mengadakan peruntukan bagi pengosongan jawatan anggota."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 11 bertujuan untuk mengadakan peruntukan bagi mesyuarat dan Agensi boleh menentukan tatacaranya sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 12 bertujuan untuk memperuntukkan bahawa Agensi boleh mengundang orang lain untuk menghadiri mesyuarat tetapi orang itu tidak berhak untuk mengundi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 13 memperuntukkan bahawa Kementerian yang bertanggungjawab bagi Agensi hendaklah mengadakan kepada Agensi kakitangan, dana dan kemudahan lain yang perlu bagi membolehkan Agensi menjalankan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 14 bertujuan untuk memperuntukkan bahawa Menteri boleh melantik suatu entiti teknikal kompeten yang berasingan untuk menasihati Agensi tentang pemerangkapan karbon, pengangkutan karbon dioksida, penggunaan karbon dioksida, penyimpanan luar pesisir karbon dioksida dan penyimpanan daratan karbon dioksida. Fasal ini juga memperuntukkan bahawa entiti teknikal kompeten yang dilantik hendaklah menasihati Agensi tentang apa-apa perkara teknikal dan pengoperasian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian II Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan Agensi Pemerangkapan, Penggunaan dan Penyimpanan Karbon Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 6, 7 dan 8 bertujuan untuk mengadakan peruntukan bagi penubuhan, keanggotaan, fungsi dan kuasa, Agensi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV__cl_21"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian IV Akta yang dicadangkan memperkatakan tentang pengangkutan dan pengimportan karbon dioksida."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 17 dan 18 bertujuan untuk mengadakan peruntukan bagi kehendak pendaftaran dan permohonan bagi pendaftaran untuk mengangkut mana-mana karbon dioksida yang diperangkap, sama ada melalui jalan kereta api, air, talian paip atau melalui apa-apa cara lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 19 bertujuan untuk memperuntukkan bahawa pengimportan karbon dioksida untuk penyimpanan kekal yang diperolehi melalui pemerangkapan carbon di luar Malaysia hendaklah mematuhi kriteria arus karbon dioksida yang dinyatakan dalam fasal 28 Akta yang dicadangkan. Kegagalan untuk mematuhi fasal ini merupakan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 20 bertujuan untuk memperuntukkan bahawa pengimportan mana-mana karbon dioksida yang diperangkap di luar Malaysia hendaklah hanya dibuat dengan suatu permit import. Kegagalan untuk mematuhi fasal ini merupakan suatu kesalahan. Karbon"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX",
+      "@type": "akn:part",
+      "eli:number": "IX",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX__cl_51"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian IX Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan penguatkuasaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 45 bertujuan untuk memberi Menteri kuasa, secara bertulis, untuk membenarkan mana-mana pegawai awam untuk menjalankan kuasa penguatkuasaan di bawah Akta yang dicadangkan ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_IX",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 46 bertujuan untuk memperuntukkan bahawa seorang pegawai polis yang pangkatnya tidak rendah daripada Inspektor atau seorang pegawai kanan kastam boleh menjalankan semua kuasa penguatkuasaan di bawah Akta yang dicadangkan ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian I Akta yang dicadangkan memperkatakan mengenai perkara permulaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 1 mengandungi tajuk ringkas dan peruntukan mengenai permulaan kuat kuasa Akta yang dicadangkan. Bahagian VII Akta ini mula berkuat kuasa di suatu Negeri pada tarikh yang ditetapkan oleh Menteri, setelah berunding dengan Kerajaan Negeri masing-masing, melalui pemberitahuan dalam Warta."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 2 bertujuan untuk memperuntukkan bahawa Akta yang dicadangkan hendaklah terpakai bagi Semenanjung Malaysia dan Wilayah Persekutuan Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 3 bertujuan untuk memperuntukkan bahawa Akta yang dicadangkan hendaklah dibaca bersama-sama dengan undang-undang bertulis yang berkaitan dan peruntukan Akta ini hendaklah menjadi tambahan kepada, dan tidak mengurangkan, peruntukan undang-undang bertulis yang berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 4 mengandungi takrif bagi perkataan dan ungkapan tertentu yang digunakan dalam Akta yang dicadangkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 5 bertujuan untuk memperuntukkan bahawa amalan pemerangkapan, penggunaan dan penyimpanan karbon yang berhemah hendaklah mengikut apa-apa amalan, kaedah, langkah dan standard yang secara amnya diikuti oleh industri pemerangkapan, penggunaan dan penyimpanan karbon global."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_34"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_43"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_48"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian VIII Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan Kumpulan Wang Pengawasan Pasca-Penutupan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 41 bertujuan untuk mewujudkan Kumpulan Wang Pengawasan Pasca-Penutupan yang hendaklah dikawal dan dikendalikan oleh Agensi. Fasal ini juga bertujuan untuk memperuntukkan bahawa Kumpulan Wang ini hendaklah terdiri daripada apa-apa jumlah wang yang diperuntukkan oleh Kerajaan, apa-apa levi suntikan yang dibuat oleh pengendali luar pesisir kepada Agensi bagi maksud mengadakan sokongan kewangan kepada Kerajaan dan semua wang yang diperoleh daripada pelaburan yang dibiayai daripada Kumpulan Wang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 42 bertujuan untuk memperuntukkan bahawa suatu Kumpulan Wang itu hendaklah dibelanjakan bagi maksud menampung kos yang perlu ditanggung oleh Kerajaan untuk pengawasan jangka panjang bagi tapak penyimpanan selepas pemindahan tanggungjawab kepada Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 43 bertujuan untuk memberi Agensi kuasa untuk melabur wang dalam Kumpulan Wang, tertakluk kepada terma dan syarat yang ditentukan oleh Menteri dengan persetujuan Menteri Kewangan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VIII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 44 bertujuan untuk mengenakan tanggungjawab ke atas Agensi untuk menyimpan akaun yang sepatutnya bagi Kumpulan Wang itu dan keperluan untuk mengemukakan suatu salinan penyata akaun yang disahkan oleh juruaudit kepada Menteri, dan Menteri hendaklah membentangkan penyataan itu di hadapan setiap Majlis Parlimen."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian VII Akta yang dicadangkan memperkatakan tentang peruntukan yang berhubungan dengan penilaian dan penyimpanan kekal karbon dioksida di kawasan daratan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 33 bertujuan untuk memperuntukkan bahawa apa-apa penilaian geologi daratan bagi apa-apa kompleks penyimpanan atau bentukan geologi yang berpotensi di kawasan daratan hanya boleh dijalankan dengan permit penilaian Karbon daratan yang diberikan oleh Agensi. Pemberian permit tertakluk kepada fi yang dikenakan oleh Agensi. Kegagalan mematuhi fasal ini merupakan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 34 bertujuan untuk memperuntukkan bahawa selepas menimbangkan permohonan bagi permit penilaian daratan di bawah fasal 33, Agensi boleh memberi atau menolak pengeluaran permit penilaian daratan itu kepada pemohon. Pemberian permit tertakluk kepada syarat yang ditetapkan oleh Agensi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 35 bertujuan untuk memperuntukkan bahawa apa-apa pengendalian tapak penyimpanan di kawasan daratan di Malaysia bagi maksud penyimpanan kekal karbon dioksida yang diperangkap di dalam atau di luar Malaysia hanya boleh dijalankan dengan lesen penyimpanan daratan yang diberikan oleh Agensi. Pemberian lesen tertakluk kepada fi yang dikenakan oleh Agensi. Kegagalan mematuhi fasal ini merupakan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 36 bertujuan untuk memperuntukkan bahawa selepas menimbangkan permohonan bagi lesen penyimpanan daratan di bawah fasal 35, Agensi boleh memberi atau menolak pengeluaran lesen penyimpanan daratan itu kepada pemohon. Pemberian lesen tertakluk kepada syarat yang ditetapkan oleh Agensi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 37 bertujuan untuk mengenakan ke atas pengendali daratan kehendak untuk mematuhi kriteria penerimaan arus karbon dioksida bagi penerimaan atau penyuntikan arus karbon dioksida ke dalam tapak penyimpanan di kawasan daratan. Fasal ini juga bertujuan untuk memperuntukkan bahawa pengendali daratan hendaklah menyimpan suatu daftar kuantiti atau arus karbon dioksida yang diterima dan disuntik, termasuk komposisi aras itu. Kegagalan mematuhi fasal ini merupakan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 38 bertujuan untuk memperuntukkan bahawa obligasi pengendalian berhubung dengan penyimpanan luar pesisir yang dinyatakan dalam fasal 29 hendaklah terpakai mutatis mutandis bagi obligasi pengendalian yang dikenakan atas pengendali daratan dalam hal penyimpanan daratan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 39 bertujuan untuk memperuntukkan bahawa obligasi penutupan dan pasca-penutupan berhubung dengan penyimpanan luar pesisir yang dinyatakan dalam fasal 31 hendaklah terpakai mutatis mutandis bagi obligasi penutupan dan pasca-penutupan yang dikenakan atas pengendali daratan dalam hal penyimpanan daratan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 40 bertujuan untuk memperuntukkan bahawa pemindahan obligasi yang berhubungan dengan pemantauan, langkah pembetulan dan langkah pemulihan tapak penyimpanan di kawasan daratan yang ditutup menurut fasal 39, hendaklah ditentukan oleh Menteri, selepas berunding dengan Kerajaan Negeri, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian VI Akta yang dicadangkan memperkatakan peruntukan tentang yang berhubungan dengan penilaian dan penyimpanan kekal karbon dioksida di kawasan luar pesisir."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 24 bertujuan untuk memperuntukkan bahawa apa-apa penilaian geologi luar pesisir bagi apa-apa kompleks penyimpanan atau bentukan geologi yang berpotensi di kawasan luar pesisir hanya boleh dijalankan dengan permit penilaian luar pesisir yang diberikan oleh Agensi. Pemberian permit tertakluk kepada fi yang dikenakan oleh Agensi. Kegagalan mematuhi fasal ini merupakan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 25 bertujuan untuk memperuntukkan bahawa selepas menimbangkan permohonan bagi permit penilaian luar pesisir di bawah fasal 24, Agensi boleh memberi atau menolak pengeluaran permit penilaian luar pesisir itu kepada pemohon. Pemberian permit tertakluk kepada syarat yang ditetapkan oleh Agensi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 26 bertujuan untuk memperuntukkan bahawa apa-apa pengendalian tapak penyimpanan di kawasan luar pesisir Malaysia bagi penyimpanan kekal karbon dioksida yang diperangkap di dalam atau di luar Malaysia hanya boleh dijalankan dengan lesen penyimpanan luar pesisir yang diberikan oleh Agensi. Pemberian lesen tertakluk kepada fi yang dikenakan oleh Agensi. Kegagalan mematuhi fasal ini merupakan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 27 bertujuan untuk memperuntukkan bahawa selepas menimbangkan permohonan bagi lesen penyimpanan luar pesisir di bawah fasal 26, Agensi boleh memberi atau menolak pengeluaran lesen penyimpanan luar pesisir itu kepada pemohon. Pemberian lesen tertakluk kepada syarat yang ditetapkan oleh Agensi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 28 bertujuan untuk mengenakan ke atas pengendali luar pesisir kehendak untuk mematuhi kriteria penerimaan arus karbon dioksida bagi penerimaan dan penyuntikan arus karbon dioksida ke dalam tapak penyimpanan di kawasan luar pesisir. Fasal ini juga bertujuan untuk memperuntukkan bahawa pengendali luar pesisir hendaklah menyimpan suatu daftar kuantiti atau arus karbon dioksida yang diterima dan disuntik, termasuk komposisi aras itu. Kegagalan mematuhi fasal ini merupakan suatu kesalahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 29 bertujuan untuk memperuntukkan bahawa pengendali luar pesisir, apabila menjalankan pengendalian suatu tapak penyimpanan, hendaklah bertindak mengikut amalan pemerangkapan, penggunaan dan penyimpanan karbon yang berhemat yang dinyatakan dalam fasal 5, dan menyediakan maklumat yang berkenaan bagi maksud menilai pematuhan syarat lesen penyimpanan di luar pesisir, memantau kompleks penyimpanan dan alam sekeliling di sekitarnya, menjalankan apa-apa langkah pembetulan dan pemulihan dan mengemukakan laporan yang berkaitan kepada Agensi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 30 bertujuan untuk memberi Menteri kuasa untuk menentukan kadar levi suntikan yang hendaklah dibayar oleh pengendali luar pesisir bagi maksud pemantauan jangka masa panjang setiap tapak penyimpanan oleh Kerajaan. Fasal ini juga memperuntukkan bahawa kadar levi suntikan hendaklah ditentukan berdasarkan risiko dan kebarangkalian risiko setiap tapak penyimpanan dan tidak boleh dinaikkan disebabkan oleh pengeluaran daripada Kumpulan Wang atau risiko yang dikaitkan dengan projek penyimpanan luar pesisir yang lain, dan kadar levi suntikan juga tertakluk kepada kajian semula."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 31 bertujuan untuk memperuntukkan bahawa penutupan mana-mana tapak penyimpanan dan pengeluaran sijil penutupan hanya boleh dibuat selepas syarat bagi penutupan yang ditetapkan telah dipatuhi. Fasal ini juga bertujuan untuk memperuntukkan bahawa pengendali luar pesisir hendaklah tetap bertanggungjawab bagi pemantauan tapak penyimpanan, apa-apa langkah pembetulan, langkah pemulihan dan apa-apa aktiviti lain yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 32 bertujuan untuk memperuntukkan bahawa suatu tapak penyimpanan telah ditutup menurut fasal 31, obligasi yang berhubungan dengan pemantauan, langkah pembetulan dan langkah pemulihan tapak penyimpanan itu hendaklah dipindahkan kepada Kerajaan dan Kerajaan hendaklah mengeluarkan suatu sijil kepada pengendali luar pesisir untuk mendokumenkan pemindahan obligasi itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian V Akta yang dicadangkan memperkatakan tentang penggunaan karbon dioksida."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 21 dan 22 bertujuan untuk mengadakan peruntukan bagi kehendak pendaftaran dan permohonan bagi pendaftaran untuk penggunaan mana-mana karbon dioksida yang diperangkap melalui pemerangkapan karbon dalam Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 23 bertujuan untuk mengadakan peruntukan bagi larangan untuk menggunakan karbon dioksida yang diperangkap di luar Malaysia bagi maksud penyimpanan kekal di Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "@type": "akn:part",
+      "eli:number": "X",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_53",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_59"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian X Akta yang dicadangkan memperkatakan peruntukan am."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 47 bertujuan untuk membenarkan mana-mana pemohon yang terkilan dengan apa-apa keengganan menurut fasal 25, 27, 34 dan 36, atau berhubung dengan apa-apa pengenaan apa-apa syarat, batasan atau sekatan atau apa-apa pembatalan, penggantungan atau pengubahan, untuk merayu kepada Menteri terhadap keputusan itu dalam tempoh tiga puluh hari selepas dimaklumkan secara bertulis berkenaan keputusan itu. Karbon"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 48 bertujuan untuk memperuntukkan bahawa pendakwaan yang dibuat di bawah Akta yang dicadangkan atau apa-apa peraturan-peraturan yang dibuat di bawah Akta yang dicadangkan hanya boleh dimulakan dengan keizinan bertulis Pendakwa Raya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 49 bertujuan untuk mengadakan peruntukan bagi perlindungan terhadap Menteri, mana-mana anggota Agensi, Pengerusi atau mana-mana pegawai yang diberi kuasa daripada liabiliti dalam melaksanakan tanggungjawabnya di bawah Akta yang dicadangkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 50 bertujuan untuk mengadakan peruntukan bagi tanggungan pengarah, pegawai pematuhan, pekongsi, pengurus, setiausaha atau pegawai lain yang seumpamanya bagi suatu pertubuhan perbadanan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 51 bertujuan untuk memberi Menteri kuasa, melalui perintah yang disiarkan dalam Warta, mengecualikan mana-mana kawasan geografi, orang atau golongan orang, kenderaan atau kelas kenderaan, atau premis atau kelas premis, daripada mana-mana atau semua peruntukan Akta yang dicadangkan atau mana-mana peraturan-peraturan yang dibuat di bawah Akta yang dicadangkan, tertakluk kepada syarat atau sekatan yang dikenakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 52 bertujuan untuk memberi Menteri kuasa untuk membuat peraturan-peraturan bagi maksud Akta yang dicadangkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/msa@/~part_X",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Fasal 53 bertujuan untuk memberi Menteri kuasa untuk mengeluarkan apa-apa standard, garis panduan, spesifikasi, amalan, langkah dan kehendak pelaporan dan apa-apa perkara lain berkenaan dengan pemerangkapan karbon, pengangkutan, penggunaan dan penyimpanan karbon dioksida."
+      }
+    }
+  ]
+}

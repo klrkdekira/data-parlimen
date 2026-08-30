@@ -1,0 +1,346 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-14-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Tabung Angkatan Tentera dan Tabung Bekas Perajurit (Pindaan) 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Tabung Angkatan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tentera dan Tabung Bekas Perajurit (Pindaan) 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Tabung Angkatan Tentera dan Tabung Bekas"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perajurit 1973, yang disebut \"Akta ibu\" dalam Akta ini, adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"Angkatan Tentera\" di mana-mana jua terdapat di dalamnya kecuali dalam tajuk panjang, tajuk ringkas, takrif \"Lembaga\" dalam seksyen 2 dan dalam tajuk kepada Bahagian II;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan Tabung Bekas Perajurit\" dan \"atau Tabung Bekas Perajurit\" di mana-mana jua terdapat di dalamnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"Pengurus Besar\" di mana-mana jua terdapat di dalamnya dengan perkataan \"Ketua Eksekutif' ; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"angkatan tentera tetap'1 di mana-mana jua terdapat di dalamnya dengan perkataan \"angkatan tetap\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan tajuk tajuk panjang dengan tajuk panjang yang berikut: panjang. \"Suatu Akta untuk mengadakan peruntukan bagi penubuhan suatu kumpulan wang yang dikenali sebagai Tabung Angkatan Tentera bagi maksud-maksud utama mengadakan faedah-faedah persaraan dan lain-lain faedah bagi pencarum, dan bagi maksud-maksud sampingan menggalakkan pembangunan sosio ekonomi dan kebajikan, dan menyediakan lain- lain faedah bagi, personel akan bersara dan personel bersara angkatan tetap Malaysia.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tajuk ringkas Akta ibu adalah dipinda dengan tajuk memotong perkataan \"dan Tabung Bekas Perajurit\". ringkas. Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu adalah dipinda dengan seksyen 2. menggantikan noktah yang terdapat di hujung takrif \"skim itu\" dengan koma bertitik dan memasukkan selepasnya takrif yang berikut: ' \"Tabung\" ertinya Tabung Angkatan Tentera yang ditubuhkan di bawah seksyen 3.'. Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tajuk kepada Bahagian II adalah dipinda dengan tajuk kepada memotong perkataan \"DAN TABUNG BEKAS"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERAJURIT\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 6(1) Akta ibu adalah dipinda dengan seksyen 6. memotong perkataan \"Angkatan Tentera, Tabung Bekas Perajurit\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 15(1) Akta ibu adalah dipinda dengan seksyen 15. memotong perkataan \"Angkatan Tentera, Tabung Bekas Perajurit\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan (ga) seksyen 22 Akta ibu adalah dipinda seksyen 22. dengan memotong perkataan \"Bekas Perajurit\". Pemindahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh mula berkuatkuasanya Akta ini, hak harta Tabung Bekas Perajurit yang ditubuhkan di bawah seksyen dan tanggungan. 3A Akta ibu hendaklah digulung dan semua hak hart a peruntukan dan tanggungan yang menjadi hak atau tertakluk kepada pengecualian Tabung itu hendaklah menurut seksyen ini menjadi hak dan peralihan. harta dan tanggungan Tabung Angkatan Tentera melalui kuatkuasa undang-undang tanpa apa-apa keperluan untuk memberi apa-apa notis kepada mana-mana pihak yang terlibat dengan pemindahan ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh mula berkuatkuasanya Akta ini, perbadanan, syarikat dan aktiviti dan akujanji perniagaan dan komersial dan juga apa-apa jua hak harta lain dan tanggungan yang ditubuhkan, diakujanjikan, diperolehi atau terakru di bawah Tabung Bekas Perajurit hendaklah melalui kuatkuasa undang-undang disifatkan telah ditubuhkan dan diakujanji oleh Tabung Angkatan Tentera dan hendaklah terus berkuatkuasa di bawah Tabung Angkatan Tentera itu. TABUNG BEKAS PERAJURIT (PINDAAN)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penukaran nama Akta ini tidaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyentuh sebutan mengenai Tabung Angkatan Tentera atau Tabung Bekas Perajurit dalam mana-mana undang-undang bertulis atau dalam apa-apa suratcara, suratikatan, hakmilik, dokumen, bon, perjanjian atau perkiraan pengusahaan yang wujud sebelum sahaja Akta ini mula berkuatkuasa; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyentuh apa-apa hak, keistimewaan, tanggungan, kewajipan atau obligasi Lembaga Tabung Angkatan Tentera, atau menjadikan cacat apa-apa prosiding undang-undang oleh atau terhadapnya, dan apa-apa prosiding undang-undang yang boleh diteruskan atau dimulakan oleh atau terhadapnya sebelum Akta ini mula berkuatkuasa boleh diteruskan atau dimulakan sedemikian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua perundangan subsidiari yang dibuat di bawah Akta ibu sebelum sahaja mula berkuatkuasanya Akta ini hendaklah pada tarikh mula berkuatkuasanya Akta ini disifatkan telah dibuat di bawah Akta ibu sebagaimana yang dipinda oleh Akta ini, dan hendaklah terus berkuatkuasa sehingga dipinda atau dibatalkan di bawah Akta ibu sebagaimana yang dipinda oleh Akta ini, dan bagi maksud ini, apa-apa sebutan mengenai Tabung Bekas Perajurit adalah dengan ini dibatalkan dan disifatkan sebagai suatu sebutan mengenai Tabung Angkatan Tentera dan apa-apa sebutan mengenai seksyen 3A adalah dengan ini dibatalkan dan disifatkan sebagai sebutan mengenai seksyen 3."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu adalah dipinda — seksyen 3."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Adalah dengan ini ditubuhkan suatu kumpulan wang yang dikenali sebagai \"Tabung Angkatan Tentera\" (kemudian daripada ini TABUNG BEKAS PERAJURIT (PINDAAN) disebut \"Tabung\") bagi maksud-maksud yang berikut : (a) bagi maksud-maksud utama me- ngadakan faedah-faedah persaraan dan lain-lain faedah termasuk faedah-faedah di bawah skim yang ditubuhkan di bawah seksyen 15A, kepada orang-orang yang dinyatakan di bawah subseksyen (3)(a); dan (b) bagi maksud-maksud sampingan menggalakkan pembangunan sosio ekonomi dan kebajikan orang-orang yang dinyatakan di bawah sub- seksyen (3)(b). (1A) Yang berikut hendaklah dibayar ke dalam Tabung: (a) semua caruman yang dibayar sebagaimana yang diperuntukkan kemudian daripada ini dan apa-apa jumlah wang lain sebagaimana yang diarahkan oleh Akta ini untuk dibayar ke dalam Tabung; (b) semua wang yang didapati daripada pelaburan atau melalui pengendalian sesuatu projek, agensi, skim atau enterpris yang dibiayai daripada Tabung dan Kumpulan Wang Rizab yang ditubuhkan di bawah seksyen 11; (bb) suatu pemberian tahunan dari- pada Kumpulan Wang Disatukan Persekutuan bagi maksud-maksud dan perkara-perkara sampingan yang berhubungan dengannya di bawah subseksyen (1)(b); (c) semua pemberian, derma, endowmen, hadiah, pinjaman, caruman dan pemberian wasiat yang diberi kepada atau untuk Tabung ; (d) semua jumlah wang yang dari semasa ke semasa genap masanya dibayar kepada Tabung berkenaan dengan pembayaran bagi sesuatu pinjaman yang telah diberi daripada Tabung dan bunga yang kena dibayar berkenaan dengan sesuatu pinjaman itu; (e) wang yang didapati atau timbul daripada sesuatu harta, pelaburan, gadai-janji, gadaian atau debentur yang diperolehi oleh atau terletakhak pada Tabung; (f) semua jumlah wang lain yang boleh dengan apa-apa cara menjadi kena dibayar atau terletakhak pada Tabung berkenaan dengan apa-apa perkara yang bersampingan dengan kuasa- kuasa dan kewajipan-kewajipannya.\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dengan memasukkan selepas perenggan (ba) perenggan yang berikut: \"(bb) aktiviti-aktiviti sosio ekonomi, program-program kebajikan dan apa- apa aktiviti dan faedah lain yang boleh meningkatkan keadaan sosio ekonomi mana-mana personel akan bersara atau personel bersara, termasuk pinjaman kepada personel- personel itu; TABUNG BEKAS PERAJURIT (PINDAAN) (be) membiayai perbelanjaan yang dilakukan oleh Lembaga atau mana- mana badan lain termasuk suatu perbadanan yang ditubuhkan di bawah seksyen 23, yang diper- tanggungkan dengan tanggungjawab untuk menjalankan aktiviti-aktiviti, program-program atau faedah-faedah yang disebutkan dalam perenggan (bb);\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) Bagi maksud seksyen ini— (a) faedah persaraan dan lain-lain faedah termasuk faedah di bawah skim yang ditubuhkan di bawah seksyen 15A hendaklah dibayar kepada— (i) askar-lasykar; dan (ii) lain-lain anggota angkatan tetap Malaysia yang mencarum kepada Tabung; (b) faedah-faedah sampingan hendaklah dibayar kepada— (i) personel akan bersara; dan (ii) personel bersara, angkatan tetap Malaysia. (4) Lembaga hanya boleh menggunakan apa- apa wang daripada Tabung bagi maksud- maksud yang disebutkan subseksyen (1)(b), (2)(bb) dan (bc) jika Lembaga telah menggunakan wang yang disebutkan dalam subseksyen (1A)(bb) dan jika terdapat jumlah wang yang mencukupi untuk menunaikan obligasinya di bawah seksyen 11.\". Pemotongan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3A Akta ibu adalah dipotong. seksyen 3A. Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 5(3) Akta ibu adalah dipinda dengan seksyen 5. menggantikan perkataan \"Angkatan Tentera atau Tabung Bekas Perajurit itu segala bayaran dan perbelanjaan yang dilakukan masing-masingnya di bawah seksyen 3 atau 3A\" dengan perkataan \"semua caj dan perbelanjaan yan g dilakukan sedemikian\". Pindaan"
+      }
+    }
+  ]
+}

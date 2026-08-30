@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-4-2016",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Agensi Antidadah Kebangsaan (Pindaan) 2016"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Agensi Antidadah Kebangsaan (Pindaan) 2016. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Agensi Antidadah Kebangsaan 2004 [Akta 638], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung takrif “pegawai Agensi” dengan koma bernoktah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pegawai Agensi” takrif yang berikut: ‘ “pegawai kanan Agensi” ertinya Ketua Pengarah dan mana-mana pegawai Agensi yang memegang jawatan Timbalan Ketua Pengarah, Pengarah, Ketua Penolong Pengarah dan Penolong Pengarah.’. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “sebagaimana yang diperuntukkan di bawah” perkataan “Akta Polis 1967 [Akta 344],”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perenggan (e) dengan perenggan yang berikut: “(e) seseorang pegawai Agensi yang berpangkat lebih rendah daripada pangkat seorang Penolong Pegawai, apabila membawa dan menjaga orang dalam tahanan Agensi, hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537].”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Bagi maksud Akta ini— (a) jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seorang pegawai kanan Agensi, Penyiasat atau Penolong Kanan Pegawai dan bagi maksud itu, tempat perintah, perakuan atau perbuatan yang diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; (b) seseorang pegawai Agensi hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai balai polis; dan (c) seseorang pegawai Agensi hendaklah mempunyai segala kuasa seorang pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593] dan Akta Pendaftaran Penjenayah dan Orang-Orang Yang Tidak Diingini 1969 [Akta 7], dan kuasa itu hendaklah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan bukan pengurangannya, tetapi sekiranya terdapat apa-apa ketidakselarasan atau percanggahan antara peruntukan Akta ini dengan peruntukan Kanun Tatacara Jenayah, peruntukan Akta ini hendaklah mengatasi peruntukan Kanun itu.”."
+      }
+    }
+  ]
+}

@@ -1,0 +1,2808 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-29-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Price Control and Anti-Profiteering Bill 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DETERMINATION OF PRICES AND CHARGES Power of the Controller to determine prices of goods"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OFFENCES Offence to sell price-controlled goods, provide charge-controlled services, etc., otherwise than in accordance with prices or charges determined"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who sells or offers to sell any price-controlled goods or provides or offers to provide any charge-controlled services or who collects deposit otherwise than in accordance with the prices or charges determined by the Controller under section 4, 5 or 7 commits an offence. Offence to purchase price-controlled goods or obtain charge- controlled services, etc., otherwise than in accordance with prices or charges determined"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who purchases or offers to purchase any price-controlled goods or obtains or offers to obtain any charge- controlled services otherwise than in accordance with the prices or charges determined by the Controller under section 4, 5 or 7 commits an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In any proceedings for an offence under subsection (1), it shall be a defence for the person charged to prove that he had no knowledge and acted in good faith in purchasing or offering to purchase any price-controlled goods or obtaining or offering to obtain any charge-controlled services at prices or charges otherwise than in accordance with the prices or charges determined by the Controller. Illegal conditions"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, in selling any price-controlled goods or in providing any charge-controlled services, imposes any condition of sale in relation to the prices of goods or the charges for services other than a condition— commits an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "requiring immediate payment therefor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the time within which payment is to be made or delivery is to be taken or service is to be provided; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "requiring a deposit in respect of any container for those goods,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where it appears to the Minister necessary or expedient that any goods or services which are to be supplied should be marked with or accompanied by any information concerning the prices of the goods or the charges for the services, the Minister may, by order published in the Gazette, impose requirements that the goods or services be so marked with or accompanied by such information and the requirements may extend to the form and manner in which the information is to be given."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may prescribe a penalty of a fine not exceeding one hundred thousand ringgit for the contravention of or failure to comply with the provision of the order."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Controller may, with the approval of the Minister, by order published in the Gazette, determine the maximum, minimum or fixed price for the manufacturing, producing, wholesaling or retailing of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any goods;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any particular class or classes of goods; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any unit or quantity of any goods, which may include charges for any service in relation to the supply, delivery, repair, maintenance, packing, carriage or storage of such goods. Power of the Controller to determine charges for services"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Controller may, with the approval of the Minister, by order published in the Gazette, determine the maximum, minimum or fixed charges for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any particular class or classes of services; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any unit or quantity of any services. Power of the Controller to determine prices or charges according to area"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Controller, in determining prices of goods or charges for services under section 4 or 5, may determine different prices or charges for different areas in respect of like or similar goods or services. Power of the Controller to determine the amount of deposit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Controller may determine the amount of the deposit which any person, selling any price-controlled goods subject to the condition that the container of those goods is to be returned, may require in respect of the container, and may prescribe the amount which that person shall, on the return of the container, refund to the person by whom the container is returned and the conditions subject to which the refund shall become payable. Prices determined to include tax"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where prices of any goods or charges for any services are determined under this Part, such prices or charges shall include all government taxes, duties and any other charges. Seller to display list of prices"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who offers to sell any price-controlled goods or offers to supply any charge-controlled services shall display a list of the prices of the price-controlled goods or the charges for the charge-controlled services in a conspicuous position easily read by any person intending to purchase such goods or services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), if it is not practicable to display the list of prices or charges as required under subsection (1), the list of prices or charges shall be displayed in the manner as determined by the Controller."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who fails to comply with subsection (1) or (2) commits an offence. Price marking orders"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_17"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "aNtI-PrOFItEErING Offence to profiteer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, in the course of trade or business, profiteers in selling or offering to sell or supplying or offering to supply any goods or services commits an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this Act, “profiteer” means making profit unreasonably high. Mechanism to determine unreasonably high profit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall prescribe the mechanism to determine that profit is unreasonably high and different types of mechanism may be prescribed to cater for different conditions and circumstances as the Minister deems fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In formulating the mechanism under subsection (1), the Minister may take into consideration the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any tax imposition;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the supplier’s cost;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "supply and demand conditions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the conditions and circumstances of geographical or product market; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other relevant matters in relation to the prices of goods or charges for services. Offer to sell"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purpose of this Act, an offer to sell shall be deemed to include the exposing of goods for sale, the publication of a price list, the furnishing of a quotation of any goods or services or any other act or notification whatsoever by which willingness to enter into any transaction of sale is expressed. Offer to supply"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "For the purpose of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to goods, a person exposing goods for supply or having goods in his possession for supply; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to services, a person advertising the services, shall be deemed to offer or supply them."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Price Control and Anti- Profiteering Act 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“this Act” includes any subsidiary legislation made under this Act; “goods” means property of every kind, whether tangible or intangible, whether moveable or immoveable, but excludes money and choses-in-action; “price-controlled goods” means the goods in respect of which maximum or minimum or fixed prices have been determined under section 4; “charge” means any amount of money or any form of consideration given in exchange for any services; “prescribed” means prescribed by regulations made under this Act; “electronic” means the technology of utilizing electrical, optical, magnetic, electromagnetic, biometric, photonic or other similar technology; “price” means any amount of money or any form of consideration given in exchange for any goods; “sale” includes a sale of goods by an agent on behalf of his principal or by a servant on behalf of his employer, a sale of goods on commission or on consignment for sale and an agreement to sell and offer to sell; “supply” by whatever means, including through electronic transactions—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to goods, means the supply, including re-supply, by way of sale, exchange, lease, hire or hire-purchase of the goods; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in relation to services, means the provision by way of sale, grant or conferment of the services; “Minister” means the Minister charged with the responsibility for domestic trade and consumer affairs; “authorized officer” means any public officer authorized under subsection 3(6); “Controller” means the Price Controller appointed under section 3; “Assistant Controller” means an Assistant Price Controller appointed under section 3; “service” means anything done or to be done including the granting, assignment or surrender of any right or the making available of any facility or advantage, but excludes supply of goods or money; “charge-controlled services” means the services in respect of which maximum or minimum or fixed charges have been determined under section 5; “premises” means any place, stationary or otherwise, established or set up by any person, whether such place is with or without enclosure, and includes vehicles, aircrafts, ships and any other vessel; “Deputy Controller” means a Deputy Price Controller appointed under section 3. Appointment of Price Controller, Deputy Price Controller, Assistant Price Controller, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may appoint, from among public officers, a Price Controller, such number of Deputy Price Controllers and such number of Assistant Price Controllers and other officers as may be necessary for the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Price Controller shall, subject to the general direction and control of the Minister, perform the duties imposed and exercise the powers conferred upon him under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Deputy Price Controllers, Assistant Price Controllers and other officers appointed under subsection (1) shall be under the direction and control of the Price Controller."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as provided in sections 4, 5, 6 and 7, a Deputy Price Controller may perform all the duties imposed and exercise all the powers conferred upon the Price Controller under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Price Controller and Deputy Price Controller may perform all the duties imposed and exercise all the powers conferred upon an Assistant Price Controller under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may authorize any public officer to exercise all or any of the powers under this Act or any regulations made under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All officers appointed under this section shall be deemed to be public servants within the meaning of the Penal Code [Act 574]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V__cl_18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PENaLtY Penalty"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "INVESTIGATION AND ENFORCEMENT"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_46",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_53"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRICE ADVISORY COUNCIL Price Advisory Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_54",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_55",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_56",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_57",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_61",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_62",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Jurisdiction to try offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_54",
+      "@type": "akn:clause",
+      "eli:number": "54",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding anything to the contrary written in any law, a Sessions Court shall have jurisdiction to try any offence under this Act and to impose the full punishment for any such offence. Reward for information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_55",
+      "@type": "akn:clause",
+      "eli:number": "55",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In the case of a conviction involving a fine, the court imposing the fine may, on the application of the prosecuting officer, direct the payment of any part of the fine, in such proportion as the court thinks fit but in any case not exceeding one half of such fine, to the person who gave the information leading to the conviction. Institution of prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_56",
+      "@type": "akn:clause",
+      "eli:number": "56",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution for or in relation to any offence under this Act shall be instituted without the consent of the Public Prosecutor. General penalty"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_57",
+      "@type": "akn:clause",
+      "eli:number": "57",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_57__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_57__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person guilty of an offence under this Act for which no penalty is expressly provided shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_57__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if such person is a body corporate, to a fine not exceeding one hundred thousand ringgit, and for a second or subsequent offence, to a fine not exceeding two hundred and fifty thousand ringgit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_57__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_57",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if such person is not a body corporate, to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding two years or to both, and for a second or subsequent offence, to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both. Compounding of offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58",
+      "@type": "akn:clause",
+      "eli:number": "58",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Controller may, with the consent in writing of the Public Prosecutor, compound any offence committed by any person under this Act by making a written offer to the person suspected to have committed the offence to compound the offence upon payment to the Controller of an amount not exceeding fifty per centum of the amount of maximum fine for that offence within such time as may be specified in the written offer."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offer under subsection (1) may be made at any time after the offence has been committed but before any prosecution for it has been instituted, and if the amount specified in the offer is not paid within the time specified in the offer or such extended time as the Controller may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence has been compounded under subsection (1), no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made, and any book, record, accounts, document, computerized data, goods and thing seized in connection with the offence may be released by the Controller, subject to such terms and conditions as the Controller thinks fit to impose in accordance with the conditions of the compound."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_58",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All sums of money received by the Controller under this section shall be paid into the Federal Consolidated Fund. Offences by body corporate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59",
+      "@type": "akn:clause",
+      "eli:number": "59",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a body corporate commits an offence under this Act, any person who at the time of the commission of the offence was a director, chief executive officer, chief operating officer, manager, secretary or other similar officer of the body corporate or was purporting to act in any such capacity or was in any manner or to any extent responsible for the management of any of the affairs of the body corporate or was assisting in such management—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be charged severally or jointly in the same proceedings with the body corporate; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the body corporate is found guilty of the offence, shall be deemed to be guilty of that offence unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his knowledge, consent or connivance; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any person would be liable under this Act to any punishment or penalty for his act, omission, neglect or default, he shall be liable to the same punishment or penalty for every such act, omission, neglect or default of any employee or agent of his, or of the employee of the agent, if the act, omission, neglect or default was committed—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by that person’s employee in the course of his employment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by the agent when acting on behalf of that person; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_59__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by the employee of the agent in the course of his employment by the agent or otherwise on behalf of the agent acting on behalf of that person. Power of Minister to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60",
+      "@type": "akn:clause",
+      "eli:number": "60",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make any regulations as may be expedient or necessary for the better carrying into effect of the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the regulations may be made for all or any of the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing any matter which is required under this Act to be prescribed; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_60__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing a penalty or a fine not exceeding two hundred and fifty thousand ringgit for the contravention of or failure to comply with any of the provisions of any regulations made under this Act. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_61",
+      "@type": "akn:clause",
+      "eli:number": "61",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Controller, Deputy Controller, Assistant Controller or against the Chairman, any member of the Council and employees or agents of the Controller or the Council in respect of any act, neglect or default done or committed by him in good faith or any omission omitted by him in good faith, in such capacity. Protection of officers and other persons"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_62",
+      "@type": "akn:clause",
+      "eli:number": "62",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_62__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_62__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action or prosecution shall be brought, instituted or maintained in any court against—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_62__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Controller, Deputy Controller, Assistant Controller or any other person in respect of any act ordered or done for the purpose of carrying into effect this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_62__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_62",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other person in respect of any act done or purported to be done by him under the order, direction or instruction of the Controller or an authorized officer if the act was done in good faith and in a reasonable belief that it was necessary for the purpose intended to be served by it. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63",
+      "@type": "akn:clause",
+      "eli:number": "63",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Price Control Act 1946 [Act 121] (the “repealed Act”) is repealed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The persons who were appointed under the repealed Act shall continue to be officers under this Act as if those persons had been appointed under section 3 of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All regulations, rules and orders made under the repealed Act, shall continue to be in operation and have effect as if they had been made under this Act until replaced or revoked by any regulations, rules and orders made under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VIII__cl_63",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any inquiry, trial and proceedings done, taken or commenced under the repealed Act immediately before the commencement of this Act shall be continued or concluded under and in accordance with the provisions of the repealed Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_41__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_41__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may establish a Price Advisory Council to advise him on the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_41__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "issues relating to profiteering; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_41__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matters relating to the prices of goods and charges for services. Membership of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman who shall be the Secretary General of the Ministry responsible for domestic trade and consumer affairs or his representative;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members representing the Government to be appointed by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than six other members, to be appointed by the Minister, who have experience and knowledge in matters relating to business, industry, commerce, law, economics, public administration, fair trade, competition, consumer protection or any other suitable qualification as the Minister may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members referred to in paragraphs (1)(b) and (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be appointed for a term not exceeding two years; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be eligible for reappointment upon expiry of his term of office."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint from among the members of the Council a Deputy Chairman. Temporary exercise of functions of Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Chairman is for any reason unable to perform his functions or during any period of vacancy in the office of the Chairman, the Deputy Chairman shall perform the functions of the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where both the Chairman and the Deputy Chairman are for any reason unable to perform the functions of the Chairman or during any period of vacancy in the offices of the Chairman and Deputy Chairman, the Minister may appoint any member of the Council to perform the functions of the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Deputy Chairman or the member appointed under subsection (2), as the case may be, shall, during the period in which he is performing the functions of the Chairman under this section, be deemed to be the Chairman. Vacation of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The office of a member of the Council shall become vacant—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "upon the death of the member;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "upon the member resigning from such office by letter addressed to the Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "upon the expiration of his term of office. Revocation of appointment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may revoke the appointment of a member of the Council referred to in paragraph 42(1)(b) and (c)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his conduct, whether in connection with his duties as a member of the Council or otherwise, has been such as to bring discredit to the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he has become incapable of properly carrying out his duties as a member of the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there has been proved against him, or he has been convicted on, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under a law relating to corruption;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment for more than two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he is adjudicated a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he has been found or declared to be of unsound mind or has otherwise become incapable of managing his affairs; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_45",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he absents himself from three consecutive meetings of the Council without obtaining leave in writing from the Chairman. Resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council appointed under paragraph 42(1)(b) and (c) may at any time resign his office by a letter addressed to the Minister. Filling of vacancy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a member appointed under paragraph 42(1)(b) and (c) ceases to be a member of the Council, the Minister may appoint another person to fill the vacancy for the remainder of the term for which the vacating member was appointed. Secretary to Council and other officers"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be appointed a Secretary to the Council and such other officers as may be necessary to assist the Council. Allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Council shall be paid such allowances as the Minister may determine. Meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall meet as and when necessary as determined by the Minister. Council may invite others to meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_51__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_51__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_51__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may invite any person to attend a meeting or deliberation of the Council for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or deliberation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_51__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_51",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person invited under subsection (1) shall be paid such allowances as the Minister may determine. Validity of acts and proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_52__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_52__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act done or proceedings taken under this Act shall be questioned on the ground of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_52__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a vacancy in the membership of, or a defect in the constitution of, the Council; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_52__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an omission, a defect or an irregularity not affecting the merit of the case. Regulations relating to the Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make such regulations as he thinks necessary or expedient in respect of this Part."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1",
+      "@type": "akn:chapter",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Investigation and complaints Investigation by Assistant Controller"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an Assistant Controller has reasonable grounds to suspect that any offence is or will be committed under this Act, the Assistant Controller may conduct such investigation as he thinks expedient for the due administration of this Act. Complaints to Assistant Controller"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_20__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An Assistant Controller may, upon a complaint by a person, conduct an investigation on any person who has committed or is committing any offence under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_1__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The complaint shall specify the person against whom the complaint is made and details of the alleged offence under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2",
+      "@type": "akn:chapter",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_27"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Information Gathering Powers Power of the Assistant Controller to require provision of information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This section applies to a person if the Assistant Controller in carrying out an investigation under this Part has reason to believe that the person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "has any information (including, but not limited to, records, accounts and computerized data) or any document that is relevant to the performance of the Assistant Controller’s powers and functions under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is capable of giving any evidence which the Assistant Controller has reason to believe is relevant to the performance of the Assistant Controller’s powers and functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of any other written law, the Assistant Controller, by written notice, may direct any person—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to provide the Assistant Controller, within the period and in the manner and form specified in the notice, any information or document referred to in subsection (1);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to produce to the Assistant Controller, within the period and in the manner specified in the notice, any information or document referred to in subsection (1), whether in physical form or in electronic media;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make copies of, or extracts from, any document referred to in subsection (1) and to produce copies or extracts of such documents, as the case may be, to the Assistant Controller within the period and in the manner specified in the notice;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the person is an individual, to appear before the Assistant Controller at a time and place specified in the notice to give any information, either orally or in writing, and produce any document referred to in subsection (1), whether in physical form or in electronic media;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the person is a body corporate, to cause a relevant and competent officer of the body to appear before the Assistant Controller at a time and place specified in the notice to give any information, either orally or in writing, and produce any document referred to in subsection (1), whether in physical form or in electronic media;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the person is a partnership, to cause an individual who is a partner in the partnership or an employee of the partnership to appear before the Assistant Controller at a time and place specified in the notice to give any information, either orally or in writing, and produce any document referred to in subsection (1), whether in physical form or in electronic media; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to make a statement to the Assistant Controller providing an explanation of any information or document referred to in subsection (1) within the period and in the manner and form specified in the notice."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Assistant Controller directs any person to produce any document under subsection (2) and the person is not in custody of the document, that person shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "state, to the best of his knowledge and belief, where the document may be found; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "identify, to the best of his knowledge and belief, the last person who had custody of the document and where that last-mentioned person may be found."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person directed to provide information under subsection (2) or (3) shall ensure that the information provided is true, accurate and complete and such person shall provide an express representation to that effect, including a declaration that he is not aware of any other information which would make the information provided untrue or misleading."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who refuses or fails to comply with the direction made by the Assistant Controller under this section commits an offence. Assistant Controller may retain documents"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Assistant Controller may take and retain for as long as is necessary, possession of any document obtained under this Part."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person who provided the document is entitled to be supplied, as soon as practicable, with a copy certified by the Assistant Controller to be a true copy of the document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding the provisions of any other written law, the certified copy of the document shall be admissible as evidence as if it were the original document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Assistant Controller is satisfied that the retaining of the document is no longer necessary, the Assistant Controller may return the document to the person who provided the document, as soon as practicable. Access to records"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person shall, if at any time directed by the Assistant Controller, allow the Assistant Controller to have access to his books, records, accounts, documents, computerized data, thing or matter for the purposes of carrying out any of the Assistant Controller’s functions or powers under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who fails to comply with the direction made by the Assistant Controller under subsection (1) commits an offence. Confidentiality"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who discloses or makes use of any confidential information with respect to a particular enterprise or the affairs of an individual obtained by virtue of any provision of this Act commits an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in subsection (1) shall operate to prevent the disclosure of information where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the disclosure is made with the consent of the person from whom the information or document was obtained;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the disclosure is made in circumstances where the information provided is framed in such a manner that the source of the information could not be ascertained;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the information is already in the public domain;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the disclosure is made to facilitate the performance of the functions of the Controller, Deputy Controller or Assistant Controller;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the disclosure is reasonably made during any proceedings under this Act provided that such disclosure is not made against any direction by the Controller, Deputy Controller or Assistant Controller before which those proceedings are taking place; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the disclosure is made in connection with the investigation of an offence under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, “confidential information” means trade, business or industrial information that belongs to any person, that has economic value and is not generally available to or known by others. Privileged communication"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall be required, under any provision of this Part, to produce or disclose any communication between a professional legal adviser and his client which would be protected from disclosure in accordance with section 126 of the Evidence Act 1950 [Act 56]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Controller makes a requirement under section 21 of an advocate and solicitor in respect of information or document; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_25__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the information or document contains a privileged communication made by or on behalf of or to the advocate and solicitor in his capacity as an advocate and solicitor, the advocate and solicitor is entitled to refuse to comply with the requirement unless the person to whom or by or on behalf of whom the communication was made or, if the person is a body corporate that is under receivership or is in the course of being wound up, the receiver or the liquidator, as the case may be, agrees to the advocate and solicitor complying with the requirement but, where the advocate and solicitor so refuses to comply with a requirement, the advocate and solicitor shall forthwith furnish in writing to the Controller the name and address of the person to whom or by or on behalf of whom the communication was made. Giving false or misleading information, evidence or document"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who fails to disclose or omits to give any relevant information, document or evidence, or provides any information, document or evidence that he knows or has reason to believe is false or misleading, in the course of investigation by the Assistant Controller, commits an offence under this Act. Destruction, concealment, mutilation and alteration of records"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_27__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "destroys, conceals, mutilates or alters; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_2__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "sends or attempts to send or conspires with any other person to remove from his premises or send out of Malaysia, any book, record, accounts, document, computerized data, thing or matter kept or maintained with intent to defraud the Assistant Controller or to prevent, delay or obstruct the carrying out of an investigation or the exercise of any power by the Assistant Controller under this Act commits an offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3",
+      "@type": "akn:chapter",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_40"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Powers of Search and Seizure Access to places or premises"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_28__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Assistant Controller shall have access at all times, to any places or premises where any business is carried out for the purpose of collecting or monitoring the prices of goods or charges for services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Assistant Controller in accessing the places or premises under subsection (1) may bring with him any authorized officer as he thinks necessary for the due administration of this Act. Power to enter into premises with search warrant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If it appears to a Magistrate, upon written information on oath and after such inquiry as he considers necessary, that there are reasonable grounds to believe that a person has committed or is committing an offence under this Act, that any evidence or thing which is necessary to the conduct of an investigation into any offence may be found in any premises, the Magistrate may issue a warrant authorizing any Assistant Controller named in the warrant to enter the premises at any time, with or without assistance, and if need be by force to search for and seize any such evidence or thing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without affecting the generality of subsection (1), the warrant issued by the Magistrate may authorize the search and seizure of any book, record, accounts, document, computerized data, goods or thing which contains or is reasonably suspected to contain information as to any offence suspected to have been committed or is otherwise necessary to conduct an investigation into any offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Assistant Controller conducting a search under subsection (1) may, for the purpose of investigating into the offence, search any person who is in or on the premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Assistant Controller making a search of a person under subsection (3) may seize, or take possession of, and place in safe custody all things other than the necessary clothing found upon the person, and any other things, for which there is reason to believe are the instruments or evidence of the offence, and such things may be detained until the order by the court for its disposal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If, by the reason of its nature, size or amount, it is not practicable to remove any book, record, accounts, document, computerized data, goods or thing seized under this section, the Assistant Controller who effected the seizure shall by any means seal the premises or container in which such book, record, accounts, document, computerized data, goods or thing is found."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who, without lawful authority, breaks, tampers with or damages the seal referred to in subsection (5) or removes any book, record, accounts, document, computerized data, goods or thing under seal or attempts to do so commits an offence under this Act. Power of entry and search and seizure without a warrant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If the Assistant Controller is satisfied upon information received that he has reasonable cause to believe that by reason of delay in obtaining a search warrant under section 29 the investigation would be adversely affected or evidence of the commission of an infringement or offence is likely to be tampered with, removed, damaged or destroyed, the Assistant Controller may enter the premises and exercise in, upon and in respect of the premises all the powers referred to in section 29 in as full and ample a manner as if he were authorized to do so by a warrant issued under that section. Access to recorded information, computerized data, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any Assistant Controller exercising his powers under section 29 or section 30 shall be given access to any recorded information or computerized or digitalized data, whether stored in a computer or otherwise."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In exercising his powers, the Assistant Controller—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may inspect and check the operation of any computer and any associated apparatus or material which he has reasonable cause to suspect is or has been used in connection with that information or data; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may require— to provide him with such reasonable assistance as he may require for the purposes of this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person, by whom or on whose behalf, the officer has reasonable cause to suspect, the computer is or has been so used; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_2__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the person having charge of, or is otherwise concerned with, the operation of the computer, apparatus or material,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Assistant Controller may make copies or take extracts of the recorded information, computerized or digitalized data if he deems it necessary."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, “access” includes being provided with the necessary password, encryption code, decryption code, software or hardware and any other means required to enable comprehension of recorded information, computerized or digitalized data. Tipping-off"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "knows or has reason to suspect that an Assistant Controller is acting, or is proposing to act, in connection with an investigation which is being, or is about to be, conducted under or for the purposes of this Act or any subsidiary legislation made under this Act and discloses to any other person information or any other matter which is likely to prejudice that investigation or proposed investigation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "knows or has reason to suspect that a disclosure has been made to an Assistant Controller under this Act and discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure, commits an offence under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in subsection (1) makes it an offence for an advocate and solicitor or his employee to disclose any information or other matter—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to his client or the client’s representative in connection with the giving of advice to the client in the course and for the purpose of the professional employment of the advocate and solicitor; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to any person in contemplation of, or in connection with and for the purpose of, any legal proceedings."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (2) does not apply in relation to any information or other matter which is disclosed with a view to furthering any illegal purpose."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In proceedings against a person for an offence under this section, it is a defence to prove that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he did not know or suspect that the disclosure made under paragraph (1)(b) was likely to prejudice the investigation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he had lawful authority or reasonable excuse for making the disclosure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An Assistant Controller or other person does not commit an offence under this section in respect of anything done by him in the course of acting in connection with the enforcement, or intended enforcement, of this Act. Warrant admissible notwithstanding defects"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A search warrant issued under this Act shall be valid and enforceable notwithstanding any defect, mistake or omission therein or in the application for such warrant and any book, record, accounts, document, computerized data, goods or thing seized under such warrant shall be admissible in evidence in any proceedings under this Act. List of things seized"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except as provided in subsection (2), where any book, record, accounts, document, computerized data, goods or thing is seized under this Part, the Assistant Controller who effected the seizure shall as soon as practicable prepare a list of the things seized and immediately deliver a copy of the list signed by him to the occupier of the premises which has been searched, or to his agent or servant, at the premises."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the premises are unoccupied, the Assistant Controller who effected the seizure shall wherever possible post a list of the things seized conspicuously on the premises. Forfeiture of goods"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All goods seized in exercise of any power conferred under this Act shall be liable to forfeiture."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An order for the forfeiture or for the release of any goods seized in exercise of any power conferred under this Act shall be made by the court before which the prosecution with regard thereto has been held and an order for the forfeiture of the goods shall be made if it is proved to the satisfaction of the court that an offence under this Act has been committed and that the goods were the subject matter of or were used in the commission of the offence notwithstanding that no person may have been convicted of such offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If there be no prosecution with regard to any goods seized in exercise of any power conferred under this Act, such goods shall be taken and deemed to be forfeited at the expiration of one calendar month from the date of seizure unless a claim thereto is made before the date in the manner hereinafter set forth."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person asserting that he is the owner of such goods and that they are not liable to forfeiture may personally or by his agent authorised in writing give written notice to an Assistant Controller that he claims the same."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "On receipt of such notice the Assistant Controller shall refer the claim to the Controller who may direct that such goods be released or may direct the Assistant Controller to refer the matter to a court for decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The court to which the matter is referred shall issue a summons requiring the person asserting that he is the owner of the goods and the person from whom they were seized to appear before it and upon his appearance or default to appear, due service of the summons being proved, the court shall proceed to the examination of the matter and on proof that an offence under this Act has been committed and that such goods were the subject matter or were used in the commission of such offence shall order the same to be forfeited or may in the absence of such proof order their release."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All things forfeited or deemed to be forfeited shall be delivered to the Assistant Controller and shall be disposed of in accordance with the directions of the Controller. Release of things seized"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_36__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any book, record, accounts, document, computerized data, goods or thing has been seized under this Act, the Assistant Controller who effected the seizure, may release the book, record, accounts, document, computerized data, goods or thing to the person he determines to be lawfully entitled to it, if the book, record, accounts, document, computerized data, goods or thing is not otherwise required for the purpose of any proceedings under this Act, or for the purpose of any prosecution under any other written law, and in such event neither the Assistant Controller effecting the seizure, nor the Federal Government, the Controller or any person acting on behalf of the Federal Government or the Controller shall be liable to any proceedings by any person if the seizure and the release of the book, record, accounts, document, computerized data, goods or thing had been effected in good faith."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A record in writing shall be made by the Assistant Controller effecting the release of anything under subsection (1) specifying in detail the circumstances of and the reason for the release. Seizure of perishable goods"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any goods seized in exercise of the power conferred by this Act are of perishable nature or where the custody of such goods involves unreasonable expense and inconvenience, such goods may be sold by the Assistant Controller at any time and the proceeds of the sale held to abide by the result of any prosecution or claim under this section. No cost or damages arising from seizure to be recoverable"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall, in any proceedings before any court in respect of any book, record, accounts, document, computerized data, goods or thing seized in the exercise or the purported exercise of any power conferred under this Act, be entitled to the costs of such proceedings or to any damages or other relief unless such seizure was made without reasonable cause. Obstruction"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Any person who—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuses any Assistant Controller access to any premises which the Assistant Controller is entitled to have under this Act or in the execution of any duty imposed or power conferred by this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "assaults, obstructs, hinders or delays any Assistant Controller in effecting any entry which the Assistant Controller is entitled to effect under this Act or in the execution of any duty imposed or power conferred by this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuses to give any Assistant Controller any information relating to an offence or a suspected offence under this Act or any other information which may reasonably by required of him and which he has in his knowledge or power to give, commits an offence. Power of investigation by police officer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_VI__chp_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any Assistant Controller investigating any commission of an offence under this Act, may exercise all or any of the powers in relation to police investigation in seizable cases given by the Criminal Procedure Code [Act 593]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V__cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who commits any offence under Part III or Part IV shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where such person is a body corporate, to a fine not exceeding five hundred thousand ringgit and, for a second or subsequent offence, to a fine not exceeding one million ringgit; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/29/eng@/~part_V__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "where such person is not a body corporate, to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both and, for a second or subsequent offence, to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    }
+  ]
+}

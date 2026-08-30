@@ -70,45 +70,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2__subsec_4"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Pentadbiran Undang-Undang Islam (Wilayah-Wilayah Persekutuan) 1993 [Akta 505], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 57 seksyen yang berikut: “Tindakan bersaling 57a. (1) Jika Mahkamah Syariah di dalam mana-mana Negeri di Malaysia mengeluarkan waran atau saman, mengikut mana-mana yang berkenaan, di bawah mana-mana undang-undang Negeri itu untuk dilaksanakan terhadap atau disampaikan kepada mana-mana orang yang berada atau dipercayai berada di dalam Wilayah-Wilayah Persekutuan, mana-mana Hakim Syarie boleh mengendors waran atau saman itu dengan menandatanganinya dan waran atau saman itu boleh dilaksanakan terhadap atau disampaikan kepada orang itu seolah-olah waran atau saman itu telah dikeluarkan oleh Mahkamah Syariah di dalam Wilayah-Wilayah Persekutuan mengikut peruntukan Akta ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika Mahkamah Syariah di dalam Wilayah-Wilayah Persekutuan mengeluarkan waran yang memberikan kuasa untuk menangkap mana-mana orang atau saman yang memanggil mana-mana orang supaya hadir di suatu Mahkamah Syariah, dan orang itu berada atau dipercayai berada di dalam Negeri lain di Malaysia dan waran atau saman itu dilaksanakan terhadap atau disampaikan kepada orang itu mengikut mana-mana undang-undang Negeri itu, waran atau saman itu hendaklah, bagi maksud Akta ini, disifatkan telah dilaksanakan atau disampaikan dengan sewajarnya seolah-olah pelaksanaan atau penyampaian itu telah dilaksanakan atau disempurnakan di dalam Wilayah-Wilayah Persekutuan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika Mahkamah Syariah di dalam mana-mana Negeri di Malaysia membuat suatu perintah atau penghakiman di bawah mana-mana undang-undang Negeri itu terhadap seseorang dan orang itu berada atau dipercayai berada di dalam Wilayah-Wilayah Persekutuan, Hakim Syarie, jika dia berpuas hati bahawa perintah atau penghakiman itu telah dikeluarkan dengan sewajarnya oleh suatu Mahkamah Syariah yang berwibawa di dalam mana-mana Negeri di Malaysia, boleh mengendors perintah atau penghakiman itu dan perintah atau penghakiman itu bolehlah dilaksanakan atau disampaikan, mengikut mana-mana yang berkenaan, seolah-olah perintah atau penghakiman itu telah dikeluarkan dengan sah oleh mana-mana Mahkamah Syariah di dalam Wilayah-Wilayah Persekutuan mengikut peruntukan Akta ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/16/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika Mahkamah Syariah di dalam Wilayah-Wilayah Persekutuan membuat suatu perintah atau penghakiman terhadap mana-mana orang atau suatu perintah yang memanggil mana-mana orang supaya hadir di suatu Mahkamah Syariah dan orang itu berada atau dipercayai berada di dalam Negeri lain di Malaysia dan perintah atau penghakiman itu dilaksanakan (Wilayah-Wilayah Persekutuan) (Pindaan) terhadap atau disampaikan kepada orang itu mengikut mana-mana undang-undang Negeri itu, perintah atau penghakiman itu hendaklah, bagi maksud Akta ini, disifatkan telah dilaksanakan atau disampaikan dengan sewajarnya seolah-olah pelaksanaan atau penyampaian itu telah dilaksanakan atau disempurnakan di dalam Wilayah-Wilayah Persekutuan.”. Pindaan Bahagian V"
+        "@value": "Akta Pentadbiran Undang-Undang Islam (Wilayah-Wilayah Persekutuan) 1993 [Akta 505], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 57 seksyen yang berikut: “Tindakan bersaling 57a. (1) Jika Mahkamah Syariah di dalam mana-mana Negeri di Malaysia mengeluarkan waran atau saman, mengikut mana-mana yang berkenaan, di bawah mana-mana undang-undang Negeri itu untuk dilaksanakan terhadap atau disampaikan kepada mana-mana orang yang berada atau dipercayai berada di dalam Wilayah-Wilayah Persekutuan, mana-mana Hakim Syarie boleh mengendors waran atau saman itu dengan menandatanganinya dan waran atau saman itu boleh dilaksanakan terhadap atau disampaikan kepada orang itu seolah-olah waran atau saman itu telah dikeluarkan oleh Mahkamah Syariah di dalam Wilayah-Wilayah Persekutuan mengikut peruntukan Akta ini. (2) Jika Mahkamah Syariah di dalam Wilayah-Wilayah Persekutuan mengeluarkan waran yang memberikan kuasa untuk menangkap mana-mana orang atau saman yang memanggil mana-mana orang supaya hadir di suatu Mahkamah Syariah, dan orang itu berada atau dipercayai berada di dalam Negeri lain di Malaysia dan waran atau saman itu dilaksanakan terhadap atau disampaikan kepada orang itu mengikut mana-mana undang-undang Negeri itu, waran atau saman itu hendaklah, bagi maksud Akta ini, disifatkan telah dilaksanakan atau disampaikan dengan sewajarnya seolah-olah pelaksanaan atau penyampaian itu telah dilaksanakan atau disempurnakan di dalam Wilayah-Wilayah Persekutuan. (3) Jika Mahkamah Syariah di dalam mana-mana Negeri di Malaysia membuat suatu perintah atau penghakiman di bawah mana-mana undang-undang Negeri itu terhadap seseorang dan orang itu berada atau dipercayai berada di dalam Wilayah-Wilayah Persekutuan, Hakim Syarie, jika dia berpuas hati bahawa perintah atau penghakiman itu telah dikeluarkan dengan sewajarnya oleh suatu Mahkamah Syariah yang berwibawa di dalam mana-mana Negeri di Malaysia, boleh mengendors perintah atau penghakiman itu dan perintah atau penghakiman itu bolehlah dilaksanakan atau disampaikan, mengikut mana-mana yang berkenaan, seolah-olah perintah atau penghakiman itu telah dikeluarkan dengan sah oleh mana-mana Mahkamah Syariah di dalam Wilayah-Wilayah Persekutuan mengikut peruntukan Akta ini. (4) Jika Mahkamah Syariah di dalam Wilayah-Wilayah Persekutuan membuat suatu perintah atau penghakiman terhadap mana-mana orang atau suatu perintah yang memanggil mana-mana orang supaya hadir di suatu Mahkamah Syariah dan orang itu berada atau dipercayai berada di dalam Negeri lain di Malaysia dan perintah atau penghakiman itu dilaksanakan (Wilayah-Wilayah Persekutuan) (Pindaan) terhadap atau disampaikan kepada orang itu mengikut mana-mana undang-undang Negeri itu, perintah atau penghakiman itu hendaklah, bagi maksud Akta ini, disifatkan telah dilaksanakan atau disampaikan dengan sewajarnya seolah-olah pelaksanaan atau penyampaian itu telah dilaksanakan atau disempurnakan di dalam Wilayah-Wilayah Persekutuan.”. Pindaan Bahagian V"
       }
     },
     {

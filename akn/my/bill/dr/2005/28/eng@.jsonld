@@ -63,21 +63,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/eng@/~cl_2__subsec_6",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Malaysian Examinations Council Act 1980 [Act 225], which is referred to in this Act as the \"principal Act\" in this Act, is amended in section 7 by inserting after subsection (4) the following subsections: \"(5) Without prejudice to subsections (1), (2), (3) and (4), the Council may, with the approval of the Minister, conduct any examination, other than the specified examinations, and all matters that may be necessary or incidental to such examination, for any person, body, organization, institution or authority in or outside Malaysia. Bill"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/eng@/~cl_2__subsec_6",
-      "@type": "akn:subsection",
-      "eli:number": "6",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/28/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding any other provision in this Act or paragraph 69{A)(b) of the Education Act 1996 [Act 550], any person, body, organization, institution or authority in or outside Malaysia shall not conduct any examination other than the specified examination, which relates to academic matters, without a written approval of the Director of Examinations as required under subsection 69(1) of the Education Act 1996.\". Amendment of section 12A"
+        "@value": "The Malaysian Examinations Council Act 1980 [Act 225], which is referred to in this Act as the \"principal Act\" in this Act, is amended in section 7 by inserting after subsection (4) the following subsections: \"(5) Without prejudice to subsections (1), (2), (3) and (4), the Council may, with the approval of the Minister, conduct any examination, other than the specified examinations, and all matters that may be necessary or incidental to such examination, for any person, body, organization, institution or authority in or outside Malaysia. Bill (6) Notwithstanding any other provision in this Act or paragraph 69{A)(b) of the Education Act 1996 [Act 550], any person, body, organization, institution or authority in or outside Malaysia shall not conduct any examination other than the specified examination, which relates to academic matters, without a written approval of the Director of Examinations as required under subsection 69(1) of the Education Act 1996.\". Amendment of section 12A"
       }
     },
     {

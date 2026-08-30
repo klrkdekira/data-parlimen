@@ -1,0 +1,72 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-10-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Native Courts (Criminal Jurisdiction) Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Native Courts (Criminal Jurisdiction) Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The native courts constituted in the States of Sabah"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "and Sarawak under or by virtue of any written law are hereby conferred jurisdiction to try any offence which, under or by virtue of any written law, is punishable with imprisonment for a term not exceeding two years or with a fine not exceeding two hundred ringgit or a combination thereof or to deal with the offender in any other manner in which, under or by virtue of any such law, they may from time to time be empowered to deal: Provided that such jurisdiction shall not be exercised in respect of such offence which is also an offence under the F.M.S. Penal Code. Cap. 45. Validation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All offences which before the commencement of this Act had been tried by any of the native courts aforesaid shall, except where it has been otherwise judicially declared, be deemed to have been validly tried as if jurisdiction in respect thereof had been conferred on those courts by federal law."
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-12-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Sistem Insurans Pekerjaan (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Sistem Insurans Pekerjaan (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Sistem Insurans Pekerjaan 2017 [Akta 800], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 16(2) dengan menggantikan perkataan “lima ribu ringgit” di mana-mana jua terdapat dengan perkataan “enam ribu ringgit”. Pindaan Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Kedua kepada Akta ibu dipinda dalam perenggan 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut: Gaji Bulanan Caruman Caruman Majikan Pekerja 55.Apabila gaji RM10.10 RM10.10 RM20.20 “ melebihi RM5,000 tetapi tidak melebihi RM5,100 (b) dengan memasukkan selepas butiran 55 butiran yang berikut: Gaji Bulanan Caruman Caruman Majikan Pekerja 56.Apabila gaji RM10.30 RM10.30 RM20.60 “ melebihi RM5,100 tetapi tidak melebihi RM5,200 57.Apabila gaji RM10.50 RM10.50 RM21.00 melebihi RM5,200 tetapi tidak melebihi RM5,300 58.Apabila gaji RM10.70 RM10.70 RM21.40 melebihi RM5,300 tetapi tidak melebihi RM5,400 59.Apabila gaji RM10.90 RM10.90 RM21.80 melebihi RM5,400 tetapi tidak melebihi RM5,500 60.Apabila gaji RM11.10 RM11.10 RM22.20 melebihi RM5,500 tetapi tidak melebihi RM5,600 61.Apabila gaji RM11.30 RM11.30 RM22.60 melebihi RM5,600 tetapi tidak melebihi RM5,700 Gaji Bulanan Caruman Caruman Majikan Pekerja 62.Apabila gaji RM11.50 RM11.50 RM23.00 melebihi RM5,700 tetapi tidak melebihi RM5,800 63.Apabila gaji RM11.70 RM11.70 RM23.40 melebihi RM5,800 tetapi tidak melebihi RM5,900 64.Apabila gaji RM11.90 RM11.90 RM23.80 melebihi RM5,900 tetapi tidak melebihi RM6,000 65.Apabila gaji RM11.90 RM11.90 RM23.80 ”. melebihi RM6,000 Pindaan Jadual Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Ketiga kepada Akta ibu dipinda dalam perenggan 8—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut: Gaji bulanan sebenar bagi bulan itu caruman 55. Apabila gaji melebihi RM5,000 RM20.20 “ tetapi tidak melebihi RM5,100 (b) dengan memasukkan selepas butiran 55 butiran yang berikut: Gaji bulanan sebenar bagi bulan itu caruman 56. Apabila gaji melebihi RM5,100 “ tetapi tidak melebihi RM5,200 Gaji bulanan sebenar Jumlah bagi bulan itu caruman 57. Apabila gaji melebihi RM5,200 RM21.00 tetapi tidak melebihi RM5,300 58. Apabila gaji melebihi RM5,300 RM21.40 tetapi tidak melebihi RM5,400 59. Apabila gaji melebihi RM5,400 RM21.80 tetapi tidak melebihi RM5,500 60. Apabila gaji melebihi RM5,500 RM22.20 tetapi tidak melebihi RM5,600 61. Apabila gaji melebihi RM5,600 RM22.60 tetapi tidak melebihi RM5,700 62. Apabila gaji melebihi RM5,700 RM23.00 tetapi tidak melebihi RM5,800 63. Apabila gaji melebihi RM5,800 RM23.40 tetapi tidak melebihi RM5,900 64. Apabila gaji melebihi RM5,900 RM23.80 tetapi tidak melebihi RM6,000 65. Apabila gaji melebihi RM6,000 RM23.80 ”."
+      }
+    }
+  ]
+}

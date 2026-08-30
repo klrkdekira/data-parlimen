@@ -201,21 +201,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/eng@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Commercial Vehicles licensing board act 1987 [Act 334], which is referred to as the “principal act” in this act, is amended by substituting for section 1a the following section: “ Application 1a. (1) This act shall apply only to Sabah, Sarawak and the Federal Territory of labuan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/eng@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/11/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "This act shall not apply to any commercial vehicles which are subject to any law relating to tourism or tourism industry in Sabah, Sarawak and the Federal Territory of labuan.”. Amendment of section 2"
+        "@value": "The Commercial Vehicles licensing board act 1987 [Act 334], which is referred to as the “principal act” in this act, is amended by substituting for section 1a the following section: “ Application 1a. (1) This act shall apply only to Sabah, Sarawak and the Federal Territory of labuan. (2) This act shall not apply to any commercial vehicles which are subject to any law relating to tourism or tourism industry in Sabah, Sarawak and the Federal Territory of labuan.”. Amendment of section 2"
       }
     },
     {

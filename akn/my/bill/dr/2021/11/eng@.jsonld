@@ -69,34 +69,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/11/eng@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/11/eng@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/11/eng@/~cl_2__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/11/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The Federal Constitution is amended in Article 1 by substituting for Clause (2) the following Clause: “(2) The States of the Federation shall be—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/11/eng@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/11/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the States of Malaya, namely, Johore, Kedah, Kelantan, Malacca, Negeri Sembilan, Pahang, Penang, Perak, Perlis, Selangor and Terengganu; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/11/eng@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2021/11/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the Borneo States, namely, Sabah and Sarawak.”. Amendment of Article 160"
+        "@value": "The Federal Constitution is amended in Article 1 by substituting for Clause (2) the following Clause: “(2) The States of the Federation shall be— (a) the States of Malaya, namely, Johore, Kedah, Kelantan, Malacca, Negeri Sembilan, Pahang, Penang, Perak, Perlis, Selangor and Terengganu; and (b) the Borneo States, namely, Sabah and Sarawak.”. Amendment of Article 160"
       }
     },
     {

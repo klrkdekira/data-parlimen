@@ -1,0 +1,2937 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-14-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Social Work Profession Bill 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MALAYSIAN SOCIAL WORK PROFESSION COUNCIL Establishment of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "SOCIAL WORK PRACTITIONER AND SOCIAL WORK TRAINEE Registrar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary of the Council shall be the Registrar under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall have the following duties:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the issuance of practising certificate, temporary practising certificate and interim certificate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the maintenance of the Register; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out any other directions as the Council may determine. Register"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall keep and maintain a register to be known as “Register of Social Work Practitioners and Social Work Trainees” in such form and manner as may be determined by the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person may, on payment of the prescribed fee, make a copy of or take extracts from the Register as may be determined by the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Register maintained under this Act shall be deemed to be a public document within the meaning of the Evidence Act 1950 [Act 56]. Practising certificate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person other than a public officer who intends to provide social work services or a public officer who provides social work services outside the course of his duties as a public officer shall apply to the Council for a practising certificate, in such form and manner as may be prescribed and such application shall be accompanied by the prescribed fee, if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is a Malaysian citizen; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "holds a bachelor’s degree in social work or any bachelor’s degree relating to social work; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "is a registered social worker of a foreign country recognized by the Council; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "holds any other qualification as may be prescribed including the requirement for accredited competency standards; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he has gained experience in social work services for a period as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After considering the application, the Council may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "approve the application for the practising certificate and the Registrar shall issue the practising certificate to the applicant in accordance with the procedures as may be prescribed; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse the application and the Registrar shall notify the applicant by giving at least thirty days’ notice in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A practising certificate shall be valid for a period of two years from the date of issuance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for renewal of practising certificate shall be made within a period of not less than ninety days prior to the expiry date of the practising certificate in such manner as may be prescribed and such application shall be accompanied by the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After considering the application, the Council may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "approve the application for renewal of practising certificate and the Registrar shall issue the practising certificate to the applicant in accordance with the procedures as may be prescribed; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse the application for renewal of practising certificate and the Registrar shall notify the applicant by giving at least thirty days’ notice in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application made later than the period required under subsection (4) shall not be allowed unless an additional prescribed fee has been paid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who holds a practising certificate may, by notice in writing, surrender his practising certificate to the Council and such surrender shall take effect on the date the Council receives the practising certificate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall be construed to prevent a public officer to provide social work services in the course of his duties as a public officer without holding a practising certificate. Temporary practising certificate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who is not a Malaysian citizen who intends to provide social work services, or an employer who intends to engage such person shall apply to the Council for a temporary practising certificate in such form and manner as may be prescribed and such application shall be accompanied by the prescribed fee, if he fulfils the prerequisite requirements as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After considering the application, the Council may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "approve the application for the temporary practising certificate and the Registrar shall issue the temporary practising certificate to the applicant in accordance with the procedures as may be prescribed; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse the application and the Registrar shall notify the applicant by giving at least thirty days’ notice in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A temporary practising certificate shall be valid for a period of one year from the date of issuance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for renewal of temporary practising certificate shall be made within a period of not less than sixty days prior to the expiry date of the temporary practising certificate in such manner as may be prescribed and such application shall be accompanied by the prescribed fee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After considering the application, the Council may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "approve the application for renewal of temporary practising certificate and the Registrar shall issue the temporary practising certificate to the applicant in accordance with the procedures as may be prescribed; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse the application for renewal of temporary practising certificate and the Registrar shall notify the applicant by giving at least thirty days’ notice in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any application made later than the period required under subsection (4) shall not be allowed unless an additional prescribed fee has been paid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A temporary practising certificate may be renewed by the Council only once for a period of one year upon its expiry."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person who holds a temporary practising certificate may, by notice in writing, surrender his temporary practising certificate to the Council and such surrender shall take effect on the date the Council receives the temporary practising certificate. Interim certificate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person shall apply to the Council for an interim certificate, solely for the purpose of obtaining the experience in social work services for a period of one year, in such form and manner as may be prescribed and such application shall be accompanied by the prescribed fee, if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is a Malaysian citizen; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he holds a bachelor ’s degree in social work or any bachelor’s degree relating to social work; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he holds any other qualification as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After considering the application, the Council may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "approve the application for the interim certificate and the Registrar shall issue the interim certificate to the applicant in accordance with the procedures as may be prescribed; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "refuse the application and the Registrar shall notify the applicant by giving at least thirty days’ notice in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), if a person who holds an interim certificate is unable to complete the required experience within the period specified, the person may apply to the Council, and the Council may, in special circumstances, extend the duration of the interim certificate in such form and manner as may be prescribed. Duty to provide information and document"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may, by notice in writing, direct an applicant, a social work practitioner or a social work trainee to provide any additional information or document to the Council within the period as specified in the notice or any extended period granted by the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person directed to give or produce any information or document under subsection (1) shall ensure that the information or document given or produced are true, accurate and complete."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A social work practitioner or a social work trainee shall notify the Registrar in writing of any change of information stated in the practising certificate, temporary practising certificate or interim certificate within thirty days from the date of change."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (2) or (3) commits an offence and shall, on conviction, be liable to a fine not exceeding two thousand ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may revoke the appointment of a member of the Council who is appointed under paragraphs 3(2)(c) to (g) without assigning any reason for the revocation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council who is appointed under paragraphs 3(2)(c) to (g) may resign from his office by giving at least thirty days’ notice in writing to the Minister. Vacation of office and filling of vacancy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The office of a member of the Council referred to in paragraphs 3(2)(c) to (g) shall be vacated—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if there has been proved against him, or he has been convicted of, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud or dishonesty;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under any law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment, whether in itself only or in addition to or in lieu of a fine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his conduct, whether in connection with his duties as a member of the Council or otherwise, has been such as to bring discredit to the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he becomes an undischarged bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he is of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his appointment is revoked by the Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if his resignation is accepted by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If a member who is appointed under paragraphs 3(2)(c) to (g) ceases to be a member of the Council, the Minister shall appoint any other person in his place and the member so appointed shall hold office for the remainder of the term for which his predecessor was appointed. Directions by Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall be responsible to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, in writing, give to the Council directions of a general character consistent with the provisions of this Act and under any written law in force in Malaysia, relating to the performance of the functions and powers of the Council and the Council shall give effect to such direction. Reports and information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall furnish the Minister such reports and information with respect to its activities as the Minister may require or direct from time to time."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The reports and information shall be in such form and shall contain such information relating to the proceedings and the policy of the Council and any other matter as the Minister may specify from time to time. Council may establish committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may establish any committee as it considers necessary or expedient to assist it in the performance of its functions or in the exercise of its powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A committee established under subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be chaired by any member of the Council appointed by the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be subject to and act in accordance with any direction given by the Council to the committee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall conform to any procedure determined by the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Members of a committee shall be appointed from among the members of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee shall hold office for such term as the Council may specify in his letter of appointment and shall be eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may revoke the appointment of any member of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of a committee may resign by giving at least thirty days’ notice in writing to the chairman of the committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may discontinue or alter the composition of a committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The committee may invite any person to attend any meeting of the committee for the purpose of advising it on any matter under discussion. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council or a committee or any person invited to attend the meetings of the Council or committee, having directly or indirectly, any interest in relation to any matter under discussion by the Council or committee shall disclose to the Council or committee, as the case may be, the fact and nature of his interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (1) shall be recorded in the minutes of the meeting of the Council or committee, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After the disclosure under subsection (1), the member of the Council or the committee or any person invited to attend the meetings of the Council or the committee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not take part or be present in any deliberation or during the making of any decision of the Council or the committee, as the case may be, about the matter; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be disregarded for the purpose of constituting a quorum of the Council or the committee, as the case may be, in the deliberation or during the making of any decision in relation to the matter."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council or committee who fails to disclose his interest as required under subsection (1) shall have his appointment revoked by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No act or proceedings of the Council or committee shall be invalidated on the ground that any member of the Council or committee has contravened this section. Funds of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government shall provide sufficient funds for the Council annually to enable the Council to perform its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A council to be known as the “Malaysian Social Work Profession Council” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry responsible for women, family and community development who shall be the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of Social Welfare who shall be the Deputy Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a social work practitioner from each state in Peninsular Malaysia and the Federal Territory of Labuan appointed by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a social work practitioner residing in Sabah appointed by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a social work practitioner residing in Sarawak appointed by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than ten persons with appropriate experience, knowledge and expertise on matters relating to social work from the public sector appointed by the Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than ten persons with appropriate experience, knowledge and expertise on matters relating to social work from the private sector appointed by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Council appointed under paragraphs (2)(c) to (g), unless he sooner resigns or vacates his office or his appointment is sooner revoked, shall hold the office—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a term not exceeding two years; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "eligible for reappointment upon expiry of his term of office not exceeding two consecutive terms."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsections (2) and (3), the first Council shall be appointed by the Minister for a period not exceeding two years and shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry responsible for women, family and community development who shall be the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of Social Welfare who shall be the Deputy Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than ten persons having appropriate experience, knowledge and expertise on matters relating to social work from the public sector appointed by the Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than ten persons having appropriate experience, knowledge and expertise on matters relating to social work from the private sector appointed by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may determine its own procedure. Functions of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have the following functions:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to approve the application of practising certificate, temporary practising certificate and interim certificate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop professional competency standards and ensure quality assurance of programmes in the field of social work services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to regulate ethics and professional conduct of social work practitioner and social work trainee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to hold or cause to be held continuing professional development programmes for social work practitioner for the inculcation of knowledge, skills and ethical values;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote any activity relating to the awareness of social work profession;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to negotiate and evaluate the extension of the application of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things as it considers fit to enable it to perform its functions effectively or that are incidental to the performance of its functions. Powers of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may do all things necessary or expedient for, or in connection with, the performance of its functions under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the powers of the Council shall include powers to—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "impose fees or any other charges as it deems fit for the execution of its functions or the exercise of its power;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "designate any bodies or persons to conduct training and development programmes or implement quality assurance activities for the Council; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into negotiations as it deems fit for the discharge of its functions. Meetings of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall convene its meetings at least twice a year at such time, place and in the manner as the Chairman may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Not less than twelve members, including the Chairman, shall form the quorum of a meeting of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may invite any person to attend any meeting of the Council for the purpose of advising it on any matter under discussion. Allowances"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Council attending any meeting of the Council and the committee may be paid such allowances as the Minister may determine after consultation with the Minister of Finance. Temporary exercise of functions of Chairman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Deputy Chairman shall act as the Chairman for the period when—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the office of the Chairman is vacant;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is absent from duty or from Malaysia; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chairman is, for any other reason, unable to carry out his functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where both the Chairman and the Deputy Chairman are for any reason unable to perform the functions of the Chairman or during any period of vacancy in the offices of the Chairman and Deputy Chairman, the Minister may appoint any member of the Council to perform the functions of the Chairman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Deputy Chairman or the member appointed under subsection (2), as the case may be, shall, during the period in which he is performing the functions of the Chairman under this section, be deemed to be the Chairman. Secretary of Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint a public officer from the Ministry responsible for women, family and community development to be the Secretary of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary of the Council shall be responsible for the following:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "day to day management of the affairs of the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the implementation of the decisions of the Council; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the carrying out of any other duties as directed by the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Secretary of the Council shall, in carrying out his responsibilities, act under the power and direction of the Council. Revocation of appointment and resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "DISCIPLINARY PROCEEDINGS Disciplinary authority"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council shall have disciplinary authority over all social work practitioners and social work trainees and shall exercise disciplinary control in respect of all social work practitioners and social work trainees pursuant to this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (1), the Council may exercise disciplinary authority over any social work practitioner and social work trainee—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has been alleged to have committed professional misconduct as prescribed under the regulations made under this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has contravened any provision of this Act or any regulations made under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes referred to in subsection (1), there shall be established—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an Investigation Committee comprising of a member of the Council who shall be the chairman and three members comprising of social work practitioners and public officers having appropriate and relevant experience, knowledge and expertise as appointed by the Council to investigate a complaint made against any social work practitioner or social work trainee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Disciplinary Committee comprising of a member of the Council who shall be the chairman and five other members among the members of the Council and public officers having appropriate and relevant experience, knowledge and expertise as appointed by the Council, who are not members of the Investigation Committee, to conduct and decide the disciplinary proceedings on behalf of the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of subsection (3), each of the Investigation Committee and the Disciplinary Committee shall comprise of at least one public officer from the Ministry responsible for women, family and community development. Duty of Investigation Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A complaint against any social work practitioner or social work trainee shall be addressed to the Registrar who shall refer such complaint to the Investigation Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Investigation Committee shall investigate such complaint and shall, not exceeding two months from the date of receipt of the complaint from the Registrar, submit its report on the complaint to the Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A report under subsection (2) shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "state whether sufficient grounds exist for disciplinary proceedings to be taken against a social work practitioner or social work trainee; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be accompanied by such evidence as the Investigation Committee may have obtained in support of such statement. Inquiry by Disciplinary Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Upon submission of the report by the Investigation Committee, the Disciplinary Committee shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "inquire into the case; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "make a decision within a period not exceeding three months from the date of receipt of the report from the Investigation Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A social work practitioner or social work trainee against whom disciplinary proceedings is taken shall be given an opportunity to make representations against the disciplinary charge laid against him before a decision is made by the Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The social work practitioner or social work trainee against whom disciplinary proceedings has been taken shall be notified by the Registrar by registered post of the decision of the Disciplinary Committee as soon as practicable after the making of such decision. Suspension pending investigation and disciplinary proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Council may, if it deems fit, suspend the practising certificate, temporary practising certificate or interim certificate for a period decided by the Council pending the completion of the investigation by the Investigation Committee, and the conduct and decision of the disciplinary proceedings by the Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No social work practitioner or social work trainee may provide social work services during the period of suspension under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any social work practitioner or social work trainee who contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding one year or to both. Disciplinary punishment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Disciplinary Committee may, in the exercise of its disciplinary authority under paragraph 23(3)(b), impose any one or any combination of the following disciplinary punishments:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order the name of such social work practitioner or social work trainee to be removed from the Register;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order the name of such social work practitioner or social work trainee to be suspended from the Register for such period as the Disciplinary Committee thinks fit; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "order the social work practitioner or social work trainee to be reprimanded."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the name of the social work practitioner or social work trainee is removed from the Register pursuant to paragraph (1)(a), the practising certificate, temporary practising certificate or interim certificate, as the case may be, shall cease to have effect immediately. Appeal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person may, within twenty-one days of being notified of such decision, appeal to the Minister in writing in such manner as may be prescibed, if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his application for a practising certificate, temporary practising certificate or interim certificate, as the case may be, has been refused;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is not satisfied with any order of the Council under section 26; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is aggrieved by an order of the Disciplinary Committee under section 27."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, after considering the appeal made under subsection (1), affirm, reverse or vary the decision appealed against."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Minister affirms the decision made by the Disciplinary Committee under section 27, the person who appeals shall be barred from social work practice for a period as may be determined by the Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Social Work Profession Act 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires— “Register” means the Register of Social Work Practitioners and Social Work Trainees kept and maintained under section 18; “committee” means a committee established by the Council under section 14; “Council” means the Malaysian Social Work Profession Council as established under section 3; “Minister” means the Minister charged with the responsibility for women, family and community development; “social work trainee” means a person who holds an interim certificate; “Registrar” means the Secretary of the Council referred to in section 17; “social work practitioner” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who holds a practising certificate issued under section 19; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person who holds a temporary practising certificate issued under section 20; “practising certificate” means a certificate issued under section 19; “temporary practising certificate” means a certificate issued under section 20; “interim certificate” means a certificate issued under section 21; “social work services” means services provided for the purpose of ensuring social functioning and wellbeing of individuals, groups and communities through the process of engagement, assessment, intervention planning, implementation of the intervention, re-evaluation and termination of the services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REMOVAL AND REINSTATEMENT Removal from Register"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "OFFENCES Offences"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_36"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for any purpose of this Act or for the purposes of any civil or criminal proceedings under any written law, any member of the Council, Secretary of the Council, any committee established under this Act or any social work practitioner or social work trainee, whether during or after his tenure of office or employment or period of obtaining experience shall not disclose any information obtained by him in the course of his duties."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both. Protection against suit and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or other proceedings shall be brought, instituted or maintained in any court against any member of the Council, Secretary of the Council or any committee established under this Act on account of or in respect of any act, neglect or default done or omitted by him in the course of carrying out his duties under this Act unless it can be proven that the act, neglect or default was done or omitted in bad faith and without reasonable cause. Regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations as may be necessary or expedient for the purpose of carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of the powers conferred by subsection (1), regulations may be made for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to practising certificate, temporary practising certificate or interim certificate, including the conditions and restrictions to be imposed;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to the code of conduct of social work practitioners and social work trainees;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the procedure for the receipt of complaints in relation to any disciplinary matter that may be inquired into by the Council;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to the disciplinary proceedings and for the exercise of the disciplinary power of the Council against social work practitioner or social work trainee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the procedure of any appeal to the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe fees and charges payable relating to services provided by the Council under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the forms which may be used for carrying out the provisions of this Act; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matters required by this Act to be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any regulations made under this Act may prescribe an act or omission in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding ten thousand ringgit or to imprisonment for a term not exceeding two years. Exemption"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, upon advice of the Council, by order published in the Gazette and subject to such conditions as he thinks fit to impose, exempt—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any person from payment of the prescribed fees or charges imposed by the Council relating to any services provided by the Council; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any international organization from any provisions relating to the requirement to hold a practising certificate or temporary practising certificate for the purposes of consultation, training and corporate social responsibility."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall, unless he is a social work practitioner or social work trainee under this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "obtain a practising certificate, temporary practising certificate or interim certificate under this Act by fraud or misrepresentation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide social work services;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "hold himself out as a “social work practitioner” or “social work trainee” or under any name, style or title—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "bearing the words “social work practitioner” or “social work trainee” or the equivalent to it in any other language; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "bearing any other words in any language that may reasonably be construed to imply that he is a “social work practitioner” or “social work trainee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be entitled to describe himself as a “social work practitioner” or “social work trainee” or in any way in association with his name;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "use or display any sign, board, card or other device representing or implying that he is a “social work practitioner” or “social work trainee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "have the right in any payment of any court, charge, wage or any other form of consideration for any social work services being provided."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding twenty thousand ringgit or to imprisonment for a term not exceeding two years or both and, in the case of a continuing offence, shall in addition, be liable to a daily fine not exceeding five hundred ringgit for each day the offence continues to be committed. Offence relating to employment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall employ a person who is not a social work practitioner unless he is a social work practitioner under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in this section shall preclude any employer to engage a social work trainee solely for the purpose of obtaining the experience in social work services."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "for a continuing offence, to a fine not exceeding one thousand ringgit for every day or part of a day during which the offence continues after conviction."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where an offence under subsection (1) has been committed by a body corporate, partnership or society—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a body corporate, any person who was a director, manager, secretary or other similar officer of the body corporate at the time of the commission of the offence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a partnership, every partner in the partnership at the time of the commission of the offence; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_VI__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case of a society, every office-bearer of the society at the time of the commission of the offence, may be charged severally or jointly in the same proceedings as the body corporate, partnership or society and shall be deemed to have committed the offence unless he proves that the offence was committed without his knowledge or connivance or that he had taken all reasonable precautions or that he had exercised due diligence to prevent the commission of the offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall remove from the Register the name and other particulars of a social work practitioner or social work trainee, as the case may be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has died;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who is of unsound mind or is otherwise permanently incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "whose name has been ordered to be removed under paragraph 27(1)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has not applied to the Registrar for a renewal of practising certificate or temporary practising certificate for a lapse of twelve months continuously;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has been convicted of an offence under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who has been convicted by a court in Malaysia or elsewhere of any offence involving corruption, fraud, dishonesty or moral turpitude, or any other offence punishable with imprisonment, whether in itself only or in addition to or in lieu of a fine;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who becomes an undischarged bankrupt; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "who notifies the Council in writing of his intention to cease providing social work services and surrenders his practising certificate or temporary practising certificate under subsections 19(7) or 20(8)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall notify the social work practitioner or social work trainee in writing of his removal from the Register except where the removal is made under paragraph (1)(a). Reinstatement in Register"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A social work practitioner whose name has been removed from the Register pursuant to paragraph 29(1)(d) or (g) may be reinstated in the Register and be issued with a practising certificate or temporary practising certificate after—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he notifies the Registrar in writing of his intention to be reinstated;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he provides reasons for the change in circumstances that had occurred since the date of the removal and the Council is satisfied with the reasons; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the prescribed fee has been paid."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A social work practitioner or social work trainee whose name has been removed from the Register pursuant to paragraph 27(1)(a) and if his appeal is allowed under subsection 28(2) shall be reinstated in the Register and be issued with a practising certificate, temporary practising certificate or interim certificate after he notifies the Registrar in writing of the decision of the reinstatement."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar shall issue the practising certificate, temporary practising certificate or interim certificate within the period of fourteen working days from the date of receipt of the notification."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/eng@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person who has been removed from the Register under paragraphs 29(1)(a), (b), (e), (f) and (h) shall be reinstated by the Registrar in the Register."
+      }
+    }
+  ]
+}

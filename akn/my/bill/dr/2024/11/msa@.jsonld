@@ -1,0 +1,182 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Keselamatan Sosial Pekerja (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Keselamatan Sosial Pekerja (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Keselamatan Sosial Pekerja 1969 [Akta 4], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 5(2) dengan menggantikan perkataan “lima ribu ringgit” di mana-mana jua terdapat dengan perkataan “enam ribu ringgit”. Pindaan Jadual Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Ketiga kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 2— Gaji Bulanan Caruman Caruman Majikan Pekerja “55. Apabila gaji RM88.35 RM25.25 RM113.60”; dan melebihi RM5,000 tetapi tidak melebihi RM5,100 Gaji Bulanan Caruman Caruman Majikan Pekerja “56. Apabila gaji RM90.15 RM25.75 RM115.90 melebihi RM5,100 tetapi tidak melebihi RM5,200 57. Apabila gaji RM91.85 RM26.25 RM118.10 melebihi RM5,200 tetapi tidak melebihi RM5,300 58. Apabila gaji RM93.65 RM26.75 RM120.40 melebihi RM5,300 tetapi tidak melebihi RM5,400 Gaji Bulanan Caruman Majikan 59. Apabila gaji RM95.35 RM27.25 RM122.60 melebihi RM5,400 tetapi tidak melebihi RM5,500 60. Apabila gaji RM97.15 RM27.75 RM124.90 melebihi RM5,500 tetapi tidak melebihi RM5,600 61. Apabila gaji RM98.85 RM28.25 RM127.10 melebihi RM5,600 tetapi tidak melebihi RM5,700 62. Apabila gaji RM100.65 RM28.75 RM129.40 melebihi RM5,700 tetapi tidak melebihi RM5,800 63. Apabila gaji RM102.35 RM29.25 RM131.60 melebihi RM5,800 tetapi tidak melebihi RM5,900 64. Apabila gaji RM104.15 RM29.75 RM133.90 melebihi RM5,900 tetapi tidak melebihi RM6,000 65. Apabila gaji RM104.15 RM29.75 RM133.90”; dan melebihi RM6,000"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas butiran 55 butiran yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_b__subpara_i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 4— Gaji Bulanan “55. Apabila gaji melebihi RM5,000 tetapi tidak melebihi RM5,100 (ii) dengan memasukkan selepas butiran 55 butiran yang berikut: Gaji Bulanan “56. Apabila gaji melebihi RM5,100 tetapi tidak melebihi RM5,200 57. Apabila gaji melebihi RM5,200 tetapi tidak melebihi RM5,300 58. Apabila gaji melebihi RM5,300 tetapi tidak melebihi RM5,400 59. Apabila gaji melebihi RM5,400 tetapi tidak melebihi RM5,500 60. Apabila gaji melebihi RM5,500 tetapi tidak melebihi RM5,600 61. Apabila gaji melebihi RM5,600 tetapi tidak melebihi RM5,700 62. Apabila gaji melebihi RM5,700 tetapi tidak melebihi RM5,800 63. Apabila gaji melebihi RM5,800 tetapi tidak melebihi RM5,900 64. Apabila gaji melebihi RM5,900 tetapi tidak melebihi RM6,000 65. Apabila gaji melebihi RM6,000 RM74.40”. Pindaan Jadual Keempat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Keempat kepada Akta ibu dipinda dalam perenggan 4—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan butiran 55 dengan butiran yang berikut: Gaji bulanan yang Jenis sebenar bagi bulan ini Pertama “55. Apabila gaji melebihi RM113.60 RM63.10 RM5,050”; dan RM5,000 tetapi tidak melebihi RM5,100"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/11/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas butiran 55 butiran yang berikut: Gaji bulanan yang Jenis sebenar bagi bulan ini Pertama “56. Apabila gaji melebihi RM115.90 RM64.40 RM5,100 tetapi tidak melebihi RM5,200 57. Apabila gaji melebihi RM118.10 RM65.60 RM5,200 tetapi tidak melebihi RM5,300 58. Apabila gaji melebihi RM120.40 RM66.90 RM5,300 tetapi tidak melebihi RM5,400 59. Apabila gaji melebihi RM122.60 RM68.10 RM5,400 tetapi tidak melebihi RM5,500 60. Apabila gaji melebihi RM124.90 RM69.40 RM5,500 tetapi tidak melebihi RM5,600 Gaji bulanan yang Jenis Jenis sebenar bagi bulan ini Pertama Kedua 61. Apabila gaji melebihi RM127.10 RM70.60 RM5,600 tetapi tidak melebihi RM5,700 62. Apabila gaji melebihi RM129.40 RM71.90 RM5,700 tetapi tidak melebihi RM5,800 63. Apabila gaji melebihi RM131.60 RM73.10 RM5,800 tetapi tidak melebihi RM5,900 64. Apabila gaji melebihi RM133.90 RM74.40 RM5,900 tetapi tidak melebihi RM6,000 65. Apabila gaji melebihi RM133.90 RM74.40 RM5,950”. RM6,000"
+      }
+    }
+  ]
+}

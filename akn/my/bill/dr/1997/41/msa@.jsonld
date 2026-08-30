@@ -1,0 +1,89 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-41-1997",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_2"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pertubuhan 1966"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pertubuhan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Pindaan) 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta Pertubuhan 1966, yang disebut \"Akta"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ibu\" dalam Akta ini, adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) dengan memotong perkataan \", Penolong Pendaftar, Pegawai Pendaftaran dan juga beberapa orang pegawai lain\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1997/41/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Menteri boleh melantik apa-apa bilangan Penolong Pendaftar dan pegawai lain yang difikirkannya perlu bagi pentadbiran yang sepatutnya Akta ini. Pertubuhan (Pindaan) 13. Fasal 29 bertujuan untuk memasukkan seksyen baru 54A ke dalam Akta untuk menjadikan suatu kesalahan jika sesiapa memberi maklumat atau dokumen palsu kepada Pendaftar. 14. Fasal 30 bertujuan untuk meminda seksyen 60 Akta untuk memasukkan kesalahan terhadap peruntukan seksyen 9A dan 13A sebagai kesalahan yang disifatkan sebagai kesalahan boleh ditangkap, tidak boleh dijamin dan kena didaftarkan. 15. Seksyen 61 Akta memperuntukkan bahawa kecuali dalam hal orang yang dipertuduh di bawah peruntukan tertentu Akta, pendakwaan tidak boleh dimulakan kecuali melalui atau dengan persetujuan Pendakwa Raya. Fasal 31 bertujuan memasukkan kes orang yang dipertuduh di bawah seksyen 13A sebagai satu daripada kes yang termasuk dalam kekecualian daripada subseksyen 61(1). 16. Fasal 32 bertujuan untuk meminda seksyen 64 Akta dengan memasukkan subseksyen baru (2) bagi membolehkan Pendaftar, atau seseorang Penolong Pendaftar, atau mana-mana pegawai lain, yang memasuki mana-mana tempat di bawah subseksyen (1) menyita dan menahan apa-apa buku, akaun atau barang lain yang dipunyai oleh pertubuhan itu yang dia ada sebab untuk percaya mungkin dikehendaki berkenaan dengan prosiding di bawah Akta. 17. Fasal 34 bertujuan untuk meminda perenggan (1)(a) Jadual Pertama kepada Akta bagi memperuntukkan bahawa tempat urusan berdaftar sesuatu pertubuhan adalah salah satu daripada butir yang baginya peruntukan hendaklah dibuat dalam perlembagaan atau aturan tiap-tiap pertubuhan tempatan atau cawangannya. 18. Pindaan-pindaan lain yang dicadangkan kepada Akta yang tidak disebut secara nyata adalah pindaan berbangkit atau kecil."
+      }
+    }
+  ]
+}

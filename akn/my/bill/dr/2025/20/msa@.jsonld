@@ -113,56 +113,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4__subsec_4",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4__subsec_5"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 32 seksyen yang berikut: “Pendidikan menengah wajib 32a. (1) Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan pendidikan menengah menjadi pendidikan wajib."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walau apa pun subseksyen 29a(2), tiap-tiap ibu bapa yang anaknya merupakan warganegara Malaysia dan anak itu tinggal di Malaysia, hendaklah memastikan bahawa anaknya didaftarkan sebagai murid di institusi pendidikan bagi pendidikan menengah dan terus menjadi murid di institusi pendidikan bagi pendidikan menengah sepanjang tempoh pendidikan menengah."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Menteri boleh, jika difikirkannya wajar dan demi kepentingan murid atau awam untuk berbuat demikian, melalui perintah yang disiarkan dalam Warta, mengecualikan mana-mana murid atau mana-mana golongan murid daripada kehendak supaya mengikuti pendidikan wajib, sama ada secara mutlak atau tertakluk kepada apa-apa syarat yang difikirkannya patut dikenakan, dan boleh pada bila-bila masa menurut budi bicaranya membatalkan pengecualian itu atau membatalkan atau mengubah atau menambah syarat itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Ibu bapa yang melanggar subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4__subsec_5",
-      "@type": "akn:subsection",
-      "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/20/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Menteri boleh membuat peraturan-peraturan untuk melaksanakan peruntukan seksyen ini.”."
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 32 seksyen yang berikut: “Pendidikan menengah wajib 32a. (1) Menteri boleh, melalui perintah yang disiarkan dalam Warta, menetapkan pendidikan menengah menjadi pendidikan wajib. (2) Walau apa pun subseksyen 29a(2), tiap-tiap ibu bapa yang anaknya merupakan warganegara Malaysia dan anak itu tinggal di Malaysia, hendaklah memastikan bahawa anaknya didaftarkan sebagai murid di institusi pendidikan bagi pendidikan menengah dan terus menjadi murid di institusi pendidikan bagi pendidikan menengah sepanjang tempoh pendidikan menengah. (3) Menteri boleh, jika difikirkannya wajar dan demi kepentingan murid atau awam untuk berbuat demikian, melalui perintah yang disiarkan dalam Warta, mengecualikan mana-mana murid atau mana-mana golongan murid daripada kehendak supaya mengikuti pendidikan wajib, sama ada secara mutlak atau tertakluk kepada apa-apa syarat yang difikirkannya patut dikenakan, dan boleh pada bila-bila masa menurut budi bicaranya membatalkan pengecualian itu atau membatalkan atau mengubah atau menambah syarat itu. (4) Ibu bapa yang melanggar subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan atau kedua-duanya. (5) Menteri boleh membuat peraturan-peraturan untuk melaksanakan peruntukan seksyen ini.”."
       }
     }
   ]

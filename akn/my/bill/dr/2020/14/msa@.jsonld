@@ -1,0 +1,220 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-14-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kilang dan Jentera (Pemansuhan) 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kilang dan Jentera (Pemansuhan) 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, “Akta yang dimansuhkan” ertinya Akta Kilang dan Jentera 1967 [Akta 139]. Pemansuhan Akta Kilang dan Jentera 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kilang dan Jentera 1967 dimansuhkan. Tindakan, dsb., yang dibuat di bawah Akta yang dimansuhkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa pendaftaran yang dibuat, atau perintah, notis, arahan, kuasa bertulis, kebenaran, perakuan kelayakan, skim pemeriksaan khas atau perakuan kekompetenan yang diberikan atau dikeluarkan, di bawah Akta yang dimansuhkan hendaklah, pada permulaan kuat kuasa Akta ini, diuruskan di bawah Akta Keselamatan dan Kesihatan Pekerjaan 1994 [Akta 514]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), apa-apa notis yang dikeluarkan di bawah subseksyen 19(2), 39(3) atau 40(4) Akta yang dimansuhkan hendaklah, pada permulaan kuat kuasa Akta ini, diuruskan di bawah Akta yang dimansuhkan seolah-olah Akta yang dimansuhkan tidak dimansuhkan. Permohonan yang belum selesai, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perkara yang berikut hendaklah, pada permulaan kuat kuasa Akta ini, diuruskan di bawah Akta yang dimansuhkan seolah-olah Akta yang dimansuhkan tidak dimansuhkan:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa permohonan yang belum selesai yang dibuat berhubung dengan suatu perakuan kekompetenan atau kuasa bertulis di bawah subseksyen 29(2) Akta yang dimansuhkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa permohonan bagi kebenaran bertulis yang belum selesai berhubung dengan penggunaan mana-mana premis sebagai kilang di bawah subseksyen 34(2) Akta yang dimansuhkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa permohonan bagi kebenaran bertulis yang belum selesai berhubung dengan pemasangan jentera di bawah subseksyen 36(1) Akta yang dimansuhkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pemeriksaan yang belum selesai di bawah subseksyen 36(3) Akta yang dimansuhkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa rayuan yang belum selesai di bawah subseksyen 36(6) Akta yang dimansuhkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pemeriksaan berkala yang belum selesai di bawah seksyen 40 Akta yang dimansuhkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa permohonan bagi kebenaran yang belum selesai berhubung dengan suatu skim pemeriksaan khas di bawah subseksyen 40(5) Akta yang dimansuhkan. Penerusan prosiding undang-undang, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding undang-undang, pendakwaan jenayah atau penyiasatan yang belum selesai, atau apa-apa hukuman yang dikenakan atau tindakan yang diambil, sebelum permulaan kuat kuasa Akta ini berkenaan dengan suatu kesalahan atau kemungkiran di bawah Akta yang dimansuhkan, boleh dimulakan, diteruskan atau dikuatkuasakan seolah-olah Akta yang dimansuhkan tidak dimansuhkan."
+      }
+    }
+  ]
+}

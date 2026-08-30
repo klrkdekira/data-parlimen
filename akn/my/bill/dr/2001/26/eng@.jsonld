@@ -1,0 +1,125 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-26-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Penal Code (Amendment)Bill 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Penal Code (Amendment) Act 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Substitution of section 372"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Penal Code [Act 574], which in this Act is referred to as the \"Code\", is amended by substituting for section 372 the following \"Exploiting any person for purposes of prostitution 372. (1) Whoever- (a) sells, lets for hire or otherwise disposes of, or procures, buys or hires or otherwise obtains possession of, any person with such intention that the person is to be employed or used for the purpose of prostitution or of having sexual intercourse with any other person, either within or outside Malaysia, or knowing or having reason to believe that the person will be so employed or used; (b) by or under any false pretence, false representation, or fraudulent or deceitful means made or used, either within or outside Malaysia, brings or assists in bringing into, or takes out or assists in taking out of, Malaysia, any person with such intention that the person is to be employed or used for the purpose of prostitution or of having sexual intercourse with any other person, either within or outside Malaysia, or knowing or having reason to believe that the person will be so employed or used; (c) receives or harbours any person— (i) who has been sold, let for hire or otherwise disposed of, or who has been procured, purchased, hired or otherwise obtained possession of in the circumstances as set out in paragraph (a); or (ii) who has been brought into or taken out of Malaysia in the circumstances as set out in paragraph (b), knowing or having reason to believe that the person is to be employed or used for the purpose of prostitution or of having sexual intercourse with any other person, either within or outside Malaysia, and with intent to aid such purpose; (d) wrongfully restrains any person in any place with such intention that the person will be used or employed for the purpose of prostitution or of having sexual intercourse with any other person; (e) by means of any advertisement or other notice published in any manner or displayed in any place for prostitution service or a service which a reasonable person would understand it to be a prostitution service, offers any person for the purpose of prostitution or seeks information for that purpose or accepts such advertisement or notice for publication or display; (f) acts as an intermediary on behalf of another or exercises control or influence over the movements of another in such a manner as to show that the person is aiding or abetting or controlling the prostitution of that other, shall be punished with imprisonment for a term which may extend to fifteen years and with whipping, and shall also be liable to fine. (2) For the purpose of paragraph (d) of subsection (1), it shall be presumed until the contrary is proved that a person wrongfully restrains a person if he — (a) withholds from that person wearing apparel or any other property belonging to that person or wearing apparel commonly or last used by that person; (b) threatens that person to whom wearing apparel or any other property has been let or hired out or supplied to with legal proceedings if he takes away such wearing apparel or property; (c) threatens that person with legal proceedings for the recovery of any debt or alleged debt or uses any other threat whatsoever; or (d) without any lawful authority, detains that person's identity card issued under the law relating to national registration or that person's passport. (3) In this section and in sections 372A and 372B, \"prostitution\" means the act of a person offering that person's body for sexual gratification for hire whether in money or in kind; and \"prostitute\" shall be construed accordingly.\". New sections 372A and 372B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 372 the following sections: \"Persons living on or trading in prostitution 372A. (1) Whoever knowingly lives wholly or in part on the earnings of the prostitution of another person shall be punished with imprisonment for a term which may extend to fifteen years and with whipping, and shall also be liable to a fine. (2) Where any person is proved to have exercised control, direction or influence over the movements of a prostitute in such a manner as to show that that person is aiding, abetting or compelling the prostitution of the prostitute with any other person or generally that person shall, in the absence of any proof to the contrary, be deemed to be knowingly living on the earnings of prostitution. Soliciting for purpose of prostitution 372B. Whoever solicits or importunes for the purpose of prostitution or any immoral purpose in any place shall be punished with imprisonment for a term not exceeding one year, or with fine, or with both.\". Substitution of section 373"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by substituting for section 373 the following"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"Suppression of brothels 373. (1) Whoever - (a) keeps, manages or assists in the management of a brothel; (b) being the owner of any place or the agent of such owner, or being the occupier of any place, lets the place or any part thereof with the knowledge that such place or part is to be used as a brothel or permits such place or part to be used as a brothel or is wilfully a party to the continued use of such place or part as a brothel, shall be punished with imprisonment which may extend to fifteen years, and shall also be liable to fine. (2) In this section, \"brothel\" means any place occupied or used by any two or more persons whether at the same time or at different times for purposes of prostitution.\". Deletion of section 373A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by deleting section 373A. New sections 376A dan 376B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/26/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 376 the following heading and sections: \"Incest Incest 376A. A person is said to commit incest if he or she has sexual intercourse with another person whose relationship to him or her is such that he or she is not permitted, under the law, religion, custom or usage applicable to him or her, to marry that other person. Punishment for incest 376B. (1) Whoever commits incest shall be punished with imprisonment for a term of not less than six years and not more than twenty years, and shall also be liable to whipping. (2) It shall be a defence to a charge against a person under this section if it is proved— (a) that he or she did not know that the person with whom he or she had sexual intercourse was a person whose relationship to him or her was such that he or she was not permitted under the law, religion, custom or usage applicable to him or her to marry that person; or (b) that the act of sexual intercourse was done without his or her consent. Explanation —A person who is under sixteen years of age, if female, or under thirteen years of age, if male shall be deemed to be incapable of giving consent.\"."
+      }
+    }
+  ]
+}

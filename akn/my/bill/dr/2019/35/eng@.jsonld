@@ -113,34 +113,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/eng@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/eng@/~cl_4__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/eng@/~cl_4__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 59b the following section: “Dispute relating to royalties 59c. (1) The Tribunal may hear any dispute relating to royalties arising between a licensing body and any of its members subject to the agreement of such licensing body and such member."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/eng@/~cl_4__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Tribunal shall determine the dispute under subsection (1) and make an order accordingly."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/eng@/~cl_4__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "An order under subsection (2) may be made so as to be in force indefinitely or for such period as the Tribunal may determine.”."
+        "@value": "The principal Act is amended by inserting after section 59b the following section: “Dispute relating to royalties 59c. (1) The Tribunal may hear any dispute relating to royalties arising between a licensing body and any of its members subject to the agreement of such licensing body and such member. (2) The Tribunal shall determine the dispute under subsection (1) and make an order accordingly. (3) An order under subsection (2) may be made so as to be in force indefinitely or for such period as the Tribunal may determine.”."
       }
     }
   ]

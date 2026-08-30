@@ -194,21 +194,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/msa@/~cl_14",
       "@type": "akn:clause",
       "eli:number": "14",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/msa@/~cl_14__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 580 seksyen yang berikut: “Jaminan untuk kos 580a. (1) Jika suatu syarikat ialah plaintif dalam apa-apa tindakan atau prosiding lain dan jika didapati melalui suatu keterangan yang boleh dipercayai bahawa ada sebab untuk mempercayai bahawa syarikat itu tidak dapat membayar kos bagi defendan jika defendan berjaya dalam pembelaannya, Mahkamah boleh memerintahkan plantif itu untuk memberi jaminan yang secukupnya bagi semua kos dan menggantung semua tindakan atau prosiding sehingga jaminan itu diberikan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/msa@/~cl_14__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/msa@/~cl_14",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Mahkamah boleh mengarahkan supaya kos bagi apa-apa tindakan atau prosiding ditanggung oleh pihak kepada tindakan atau prosiding itu.”. Kecualian"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 580 seksyen yang berikut: “Jaminan untuk kos 580a. (1) Jika suatu syarikat ialah plaintif dalam apa-apa tindakan atau prosiding lain dan jika didapati melalui suatu keterangan yang boleh dipercayai bahawa ada sebab untuk mempercayai bahawa syarikat itu tidak dapat membayar kos bagi defendan jika defendan berjaya dalam pembelaannya, Mahkamah boleh memerintahkan plantif itu untuk memberi jaminan yang secukupnya bagi semua kos dan menggantung semua tindakan atau prosiding sehingga jaminan itu diberikan. (2) Mahkamah boleh mengarahkan supaya kos bagi apa-apa tindakan atau prosiding ditanggung oleh pihak kepada tindakan atau prosiding itu.”. Kecualian"
       }
     },
     {

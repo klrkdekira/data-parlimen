@@ -1,0 +1,209 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-2010",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pelesenan Kenderaan Pelancongan (Pindaan) 2010"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pelesenan Kenderaan Pelancongan (Pindaan) 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, “tarikh yang ditetapkan” ertinya tarikh yang ditetapkan oleh Menteri di bawah subseksyen 1(2). Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pelesenan Kenderaan Pelancongan 1999 [Akta 594], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam subseksyen 1(2) dengan menggantikan perkataan “di seluruh Malaysia” dengan perkataan “di Sabah, Sarawak dan Wilayah Persekutuan Labuan”. Ketidakpakaian, peralihan dan kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh yang ditetapkan, Akta Pelesenan Kenderaan Pelancongan 1999, kemudian daripada ini disebut “Akta”, hendaklah terhenti pemakaiannya bagi Semenanjung Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun ketidakpakaian Akta bagi Semenanjung Malaysia, semua perundangan subsidiari yang dibuat atau disifatkan sebagai telah dibuat atau mempunyai kesan di bawah Akta dan berkuat kuasa atau mempunyai kesan pada tarikh yang ditetapkan hendaklah, setakat yang perundangan subsidiari itu tidak tak konsisten dengan Akta Pengangkutan Awam Darat 2010 [Akta ], terus berkuat kuasa dan mempunyai kesan di Semenanjung Malaysia seolah-olah perundangan subsidiari itu telah dibuat di bawah Akta Pengangkutan Awam Darat 2010 sehingga perundangan subsidiari itu dipinda, dibatalkan atau digantikan oleh mana-mana perundangan subsidiari yang dibuat di bawah Akta Pengangkutan Awam Darat 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa lesen, kelulusan, arahan atau pengecualian yang dibenarkan, dikeluarkan atau diberikan di bawah, atau mengikut, atau menurut Akta berkenaan dengan pemakaiannya bagi Semenanjung Malaysia, sebelum tarikh yang ditetapkan dan tamat pada bila-bila masa selepas itu, hendaklah disifatkan sebagai telah dibenarkan, dikeluarkan atau diberikan di bawah, atau mengikut, atau menurut Akta Pengangkutan Awam Darat 2010 dan hendaklah terus berkuat kuasa dan mempunyai kesan sepenuhnya berhubung dengan sesiapa yang tertakluk kepadanya sehingga dipinda, digantung, ditarik balik atau dibatalkan di bawah Akta Pengangkutan Awam Darat 2010 atau sehingga tarikh tamat lesen, kelulusan, arahan atau pengecualian berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua permohonan bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluaran atau pembaharuan lesen berkenaan dengan kenderaan pelancongan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengubahan syarat lesen yang diperihalkan di bawah perenggan (a); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengecualian di bawah mana-mana peruntukan Akta atau mana-mana perundangan subsidiari yang dibuat di bawahnya, yang dibuat oleh mana-mana orang di bawah Akta berkenaan dengan pemakaiannya bagi Semenanjung Malaysia sebelum tarikh yang ditetapkan dan masih belum selesai sebaik sebelum tarikh yang ditetapkan hendaklah, mulai tarikh yang ditetapkan, diuruskan di bawah Akta Pengangkutan Awam Darat 2010 oleh Suruhanjaya seolah-olah permohonan itu telah dibuat kepadanya di bawah peruntukan Akta Pengangkutan Awam Darat 2010."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika terdapat apa-apa rayuan berkenaan dengan sesuatu keputusan yang dibuat di bawah Akta yang masih belum selesai sebaik sebelum tarikh yang ditetapkan di hadapan Menteri yang bertanggungjawab bagi pelancongan atau jika apa-apa hak untuk merayu berkenaan dengan keputusan itu telah terakru, prosiding berkenaan rayuan tersebut atau berkenaan dengan apa-apa rayuan di bawah hak terakru untuk merayu itu, hendaklah diteruskan atau telah terakru, mengikut mana-mana yang berkenaan, mulai tarikh yang ditetapkan di hadapan Tribunal Rayuan di bawah Akta Pengangkutan Awam Darat 2010, seolah-olah prosiding itu adalah berkenaan dengan keputusan di bawah Akta Pengangkutan Awam Darat 2010, tertakluk kepada apa-apa arahan atau syarat yang difikirkan sesuai atau suai manfaat untuk diberikan atau dikenakan oleh Tribunal Rayuan dalam perkara itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada peruntukan Akta Pengangkutan Awam Darat 2010, tiada apa-apa yang terkandung dalam Akta atau Akta Pengangkutan Awam Darat 2010 boleh menjejaskan mana-mana orang yang bertanggungan untuk didakwa atau dihukum bagi kesalahan yang dilakukan di bawah Akta sebelum tarikh yang ditetapkan, atau apa-apa penyiasatan yang telah dibuat, permohonan yang telah dibawa atau hukuman yang telah dikenakan sebelum hari itu berkenaan dengan kesalahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2010/10/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu sebutan dalam mana-mana undang-undang bertulis atau dokumen yang berkaitan dengan kenderaan pelancongan yang berkuat kuasa sebaik sebelum tarikh yang ditetapkan mengenai Pesuruhjaya Pelancongan di bawah Akta, hendaklah, setakat pemakaiannya bagi Semenanjung Malaysia, disifatkan sebagai sebutan mengenai Suruhanjaya."
+      }
+    }
+  ]
+}

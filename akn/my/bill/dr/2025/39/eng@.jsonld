@@ -1,0 +1,1060 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-39-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Measures for the Collection, Administration and Enforcement of Tax Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE INCOME TAX ACT 1967 Commencement of amendments to the Income Tax Act 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976 Commencement of amendments to the Real Property Gains Tax Act 1976"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 36(1)(b) of the principal Act is amended by substituting for the words “section 27 or subsection 28(3)” the words “section 27, subsection 28(3), section 28a or 28b”. and Enforcement of Tax New section 43a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 43 the following section: “Power to issue guidelines 43a. (1) The Director General may issue guidelines as the Director General thinks expedient or necessary to clarify the provisions of this Act or to facilitate the compliance of the law or any other matter relating to this Act. (2) The Director General may revoke, revise or amend the whole or any part of any guidelines issued under this section.”. Amendment of section 51"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 51 of the principal Act is amended by inserting after subsection (1) the following subsection: “(1a) The Director General may, by notice in writing, withdraw at any time the declaration made under subsection (1).”. Amendment of section 57a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 57a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “in writing” the words “in a prescribed form”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(3a) The authorization referred to in subsection (3) shall be furnished to the Director General on an electronic medium or by way of electronic transmission in accordance with this section.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 7, 8, 9, 10, 11 and 12 come into operation on 1 January 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 13 comes into operation on 1 January 2027. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Real Property Gains Tax Act 1976, which is referred to as the “principal Act” in this Part, is amended in section 13 by inserting after subsection (7) the following subsections: “(8) A person who disposes of a chargeable asset and is required to make a return under this section may notify the acquirer the amount of tax payable on the chargeable gain for the disposal in the return made under subsection (1) for the purposes of section 21b. (9) The notification made under subsection (8) shall be deemed to have been served on the acquirer by the disposer on an electronic medium or by way of electronic transmission on the day which the return made under subsection (1) is furnished to the Director General.”. Amendment of section 13a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 13a of the principal Act is amended by inserting after subsection (1) the following subsection: “(1a) The person referred to in subsection (1) shall furnish to the Director General an amended return in the prescribed form on an electronic medium or by way of electronic transmission in accordance with section 57a.”. Amendment of section 19a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 19 a(5)(a) of the principal Act is amended by substituting for the words “in writing” the words “in the prescribed form”. Amendment of section 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 4 has effect for the year of assessment 2027 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraphs 5(a) and (c) and subparagraph 5(b)(ii) come into operation on 1 January 2027."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 5(b)(i) has effect for the year of assessment 2026 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 5(d) comes into operation on 1 January 2026. Amendment of section 82b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967, which is referred to as the “principal Act” in this Part, is amended in section 82b—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by substituting for the words “chargeable income and tax payable” the words “chargeable income, tax payable, etc.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) Where a person referred to in paragraphs 86(1)(a) and (b) has furnished to the Director General a return in accordance with section 86, that person shall provide information and furnish documents as may be determined by the Director General for the purpose of ascertaining the divisible income or the divisible loss from the business of a partnership on an electronic medium or by way of electronic transmission within thirty days after the due date for furnishing of the return.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “subsection (1)” the words “subsections (1) and (1a)”. and Enforcement of Tax Amendment of section 152a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 152a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “in writing” the words “in a prescribed form”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “subsection 75(1)” the words “or 86(1)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “in writing” the words “in a prescribed form”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3a) the following subsection: “(3b) The authorization referred to in subsections (3) and (3a) shall be furnished to the Director General on an electronic medium or by way of electronic transmission in accordance with this section.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by inserting after the words “subsection (3)” the words “or (3a)”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE STAMP ACT 1949 Commencement of amendments to the Stamp Act 1949"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Part comes into operation on 1 January 2026. Amendment of section 4a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Stamp Act 1949, which is referred to as the “principal Act” in this Part, is amended in subsection 4a(3) by substituting for the words “not exceeding two hundred and fifty ringgit” the words “of not less than one thousand ringgit and not exceeding ten thousand ringgit”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 9(3) of the principal Act is amended by substituting for the words “two hundred ringgit or ten per centum” the words “five hundred ringgit or twenty per centum”. Amendment of section 12a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17__para_aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 12a of the principal Act is amended by substituting for the words “Item 32(a) or (aa)” the words “Item 32(a),"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17__para_aa",
+      "@type": "akn:paragraph",
+      "eli:number": "aa",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "or (ab)”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended by substituting for the words “Item 32(a) or (aa)” wherever appearing the words “Item 32(a), (aa) or (ab)”. Amendment of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 20(4) of the principal Act is amended by substituting for the words “Item 32(a) or (aa)” the words “Item 32(a), (aa) or (ab)”. and Enforcement of Tax Amendment of section 20b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 20b(2) of the principal Act is amended by substituting for the words “Item 32(a) or (aa)” the words “Item 32(a), (aa) or (ab)”. Amendment of section 35a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 35a(2) of the principal Act is amended by deleting the words “for a year of assessment”. Amendment of section 36"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended by substituting for subsection (2) the following subsection: “(2) For the purposes of this Act, where— (a) the return is furnished together with an instrument within the period specified in section 43 or 47, and the Collector is deemed to have made an assessment under paragraph (1)(a)— (i) the return shall be deemed to be an assessment; and (ii) the duty payable on the instrument shall be due and payable and the instrument shall be stamped within thirty days from the date of the assessment by the Collector; or (b) the return is furnished together with an instrument not within the period specified in section 43 or 47, and the Collector is deemed to have made an assessment under paragraph (1)(a)— (i) the return shall be deemed to be an assessment; and (ii) the duty payable on the instrument shall be due and payable and the instrument shall be stamped within thirty days from the date of the assessment by the Collector together with the penalty payable under section 47a.”. Amendment of section 36d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 36d(2) of the principal Act is amended by inserting after the words “section 36b” the words “, 36ca”. Amendment of section 47a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 47 a(1) of the principal Act is amended by inserting after the words “in or under” the words “subsection 36(2),”. Amendment of section 61"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 61 of the principal Act is amended by substituting for the words “not exceeding two thousand five hundred ringgit” the words “of not less than two thousand five hundred ringgit and not exceeding fifty thousand ringgit”. Amendment of section 63"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 63(1) of the principal Act is amended by substituting for the words “not exceeding one thousand five hundred ringgit” the words “of not less than one thousand ringgit and not exceeding ten thousand ringgit”. Amendment of section 64"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 64 of the principal Act is amended by substituting for the words “not exceeding one thousand five hundred ringgit” the words “of not less than one thousand ringgit and not exceeding ten thousand ringgit”. and Enforcement of Tax Amendment of section 72a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 72a of the principal Act is amended by substituting for the words “not exceeding five thousand ringgit” the words “of not less than two thousand five hundred ringgit and not exceeding fifty thousand ringgit”. New section 76b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 76a the following section: “Power to issue guidelines 76b. (1) The Collector may issue guidelines as the Collector thinks expedient or necessary to clarify the provisions of this Act or to facilitate the compliance of the law or any other matter relating to this Act. (2) The Collector may revoke, revise or amend the whole or any part of any guidelines issued under this section.”. Amendment of section 77a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 77a(1)(f) of the principal Act is amended by inserting after the words “39(4)” the words “, 50b(2)”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Measures for the Collection, Administration and Enforcement of Tax Act 2025. Amendment of Acts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967 [Act 53], the Real Property Gains Tax Act 1976 [Act 169], the Stamp Act 1949 [Act 378], the Labuan Business Activity Tax Act 1990 [Act 445] and the Petroleum (Income Tax) Act 1967 [Act 543] are amended in the manner specified in Parts II, III, IV, V and VI respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_40"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE LABUAN BUSINESS ACTIVITY TAX ACT 1990 Commencement of amendments to the Labuan Business Activity Tax Act 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE PETROLEUM (INCOME TAX) ACT 1967 Commencement of amendments to the Petroleum (Income Tax) Act 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_41__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 42 and paragraph 43(d) come into operation on 1 January 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraphs 43 (a), (b) and (c) come into operation on 1 January 2027. New section 67a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Petroleum (Income Tax) Act 1967, which is referred to as the “principal Act” in this Part, is amended by inserting after section 67 the following section: “Power to issue guidelines 67 a. (1) The Director General may issue guidelines as the Director General thinks expedient or necessary to clarify the provisions of this Act or to facilitate the compliance of the law or any other matter relating to this Act. (2) The Director General may revoke, revise or amend the whole or any part of any guidelines issued under this section.”. Amendment of section 82a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 82a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “in writing” the words “in a prescribed form”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3a), by substituting for the words “in writing” the words “in a prescribed form”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3a) the following subsection: “(3b) The authorization referred to in subsections (3) and (3a) shall be furnished to the Director General on an electronic medium or by way of electronic transmission in accordance with this section.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_VI__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) A prescribed form furnished in accordance with subsection (3) or (3a) on behalf of any chargeable person or person referred to in subsection 27(2) shall be presumed to have been furnished on and Enforcement of Tax the authority of the chargeable person or person referred to in subsection 27(2), until the contrary is proved, and the chargeable person or person referred to in subsection 27(2) shall be deemed to be cognizant of its contents.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 32, 33, 34, 35, 36, 37, 38 and 40, paragraphs 39(a), (b), (f), (g) and (h) and subparagraph 39(c)(ii) come into operation on 1 January 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraph 39(c)(i) and paragraphs 39(d) and (e) come into operation on 1 January 2027. Amendment of section 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Labuan Business Activity Tax Act 1990, which is referred to as the “principal Act” in this Part, is amended in section 3a by substituting for the words “in the prescribed form” the words “in the form as determined by the Director General”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_33__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_33__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_33__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “in the prescribed form” the words “in the form as determined by the Director General”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_33__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the word “prescribed”. Amendment of section 6a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 6a(1)(a) of the principal Act is amended by substituting for the words “in the appropriate prescribed form” the words “in the form as determined by the Director General”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_35__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_35__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_35__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “in the prescribed form” the words “in the form as determined by the Director General”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_35__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the word “prescribed”. and Enforcement of Tax New section 18a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 18 the following section: “Authorized officer 18a. (1) The Director General may, in writing, authorize any officer or other official to exercise the powers conferred under this Act. (2) Any officer or official authorized under subsection (1) shall be deemed to be an authorized officer within the meaning of this Act. (3) The Director General shall issue to each authorized officer exercising any of the powers conferred under section 22d an authority card which shall be signed by the Director General. (4) Whenever the authorized officer exercises any of the powers conferred under section 22d, the authorized officer shall, on demand, produce to the person against whom the power is being exercised the authority card issued to him under subsection (3).”. Substitution of section 21a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 21a the following section: “Forms 21a. The Director General may, in such manner as he deems fit, determine such forms as are required by this Act in connection with the operation of this Act.”. Amendment of section 21b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(a), by substituting for the words “any prescribed form” the words “any form as determined by the Director General”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the word “prescribed” wherever appearing. Amendment of section 21c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 21c of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “any prescribed form” the words “any form as determined by the Director General”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (2) the following subsection: “(2) For the purposes of subsection (1), the Director General may determine any conditions and specifications under which the form is furnished.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “may authorize in writing” the words “may, by a form, authorize”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the word “prescribed”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(3a) The officer referred to in section 16 may, by a form, authorize an employee to furnish on his behalf any form in the manner provided for in subsection (1). (3b) The authorization referred to in subsections (3) and (3a) shall be furnished to the Director General on an electronic medium or by way of electronic transmission in accordance with this section.”; and Enforcement of Tax"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4), by substituting for the words “A prescribed form furnished in accordance with subsection (3)” the words “The form as determined by the Director General in accordance with subsection (3) or (3a)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5), by deleting the word “prescribed” wherever appearing;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6), by deleting the word “prescribed” wherever appearing; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_39",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (6) the following subsection: “(7) In this section, “tax agent” has the meaning assigned to it in section 153 of the Income Tax Act 1967.”. Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/39/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended by substituting for the words “no form is prescribed” the words “no means is determined”."
+      }
+    }
+  ]
+}

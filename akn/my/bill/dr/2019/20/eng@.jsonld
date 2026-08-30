@@ -1,0 +1,1054 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-20-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Workers' Minimum Standards of Housing and Amenities (Amendment) Bill 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), in the English language text, by substituting for the word “workers” the word “employees”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3)— Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “one” the word “fifty”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_10__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “fifty” the words “one thousand”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “Act” wherever appearing the word “Part”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “A worker engaged in such place of employment as may be prescribed by the Minister” the words “An employee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “worker” the word “employee”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended, in the English language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “worker’s” the word “employee’s”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “worker” the word “employee”. New Part IIIa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 24 the following Part: “Part IIIa ACCOMMODATION Application 24a. This Part shall apply to employees who are employed otherwise than to work in an estate. Interpretation 24b. In this Part— “person in charge of accommodation” means any person appointed by an employer or centralized accommodation provider to be responsible for the management of the accommodation, and safety and health of the employees and other amenities in the accommodation; “accommodation” means any permanent or temporary building or structure including any house, hut, shed or roofed enclosure used for the purpose of human habitation; “centralized accommodation” means any building used for the housing of employees employed by one or more employers; “centralized accommodation provider” means any person who provides and manages a centralized accommodation and supervises the services provided therein for one or more employers, but does not include an employer who provides accommodations for his own employees. Functions and powers of Director General in relation to accommodation 24c. (1) For the purposes of this Part, the Director General shall have the following functions: (a) to administer and regulate all matters relating to an accommodation; (b) to direct employer or centralized accommodation provider to submit any information and documents relating to an employee’s accommodation; (c) to issue any directions to an employer or a centralized accommodation provider to provide any other amenities relating to an accommodation; (d) to issue a Certificate for Accommodation; and (e) to do anything incidental to any of his functions under this Part. (2) The Director General shall have the powers to do all things necessary or expedient for or in connection with the performance of his functions under this Part. Accommodation to be certified with Certificate for Accommodation 24d. (1) No accommodation shall be provided to an employee unless certified with a Certificate for Accommodation. (2) An application for a Certificate for Accommodation shall be made by an employer or a centralized accommodation provider to the Director General in the form and manner as may be determined by the Director General and shall be accompanied by the prescribed processing fee. (3) An employer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit. (4) A centralized accommodation provider who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding one year or to both. Employer to give notice of occupation 24e. (1) An employer shall, within thirty days from the date an accommodation is occupied by his employee, inform the Director General of such occupation in the form and manner as may be determined by the Director General. (2) Any employer who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding ten thousand ringgit. Accommodation to comply with minimum standards 24f. An employer or a centralized accommodation provider shall ensure that every accommodation provided for employees complies with the minimum standards required under this Act or any regulations made thereunder. Deductions in respect of rent or charge for accommodation 24g. (1) Subject to any conditions as may be prescribed by the Minister, an employer may collect from an employee any sum for rent or charge in respect of any accommodation provided by the employer or any centralized accommodation provider under this Part. (2) The sum collected under subsection (1) shall be made by deductions from the wages of the employee. Accommodation to comply with the laws of local authorities 24h. (1) Notwithstanding section 24d, no employer or centralized accommodation provider shall use any building as accommodation if the building is unfit for human habitation in accordance with the relevant written laws. (2) Any employer or centralized accommodation provider who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit. Amenities 24i. An employer or a centralized accommodation provider shall provide decent and adequate amenities in accordance with this Act or any regulations made thereunder. Duties and responsibilities in respect of safety and health 24j. An employer or a centralized accommodation provider who provides accommodation for an employee under this Part shall have the following duties and responsibilities: (a) to provide separate accommodation to employees of the opposite gender; (b) to take necessary preventive measures to ensure employees’ safety and well-being; (c) to take fire safety measures in accordance with the relevant written laws; (d) to ensure that the electrical wiring systems comply with safety requirements in accordance with the relevant written laws; (e) to ensure that the employees receive the necessary medical assistance; and (f) to take preventive measures to contain the spread of infectious diseases as ordered by the Medical Officer of Health in accordance with the relevant written laws and the employer shall, at his own expense, make arrangements as ordered by the Medical Officer of Health so that all or any of the employees be given immunization against any infectious disease. Maintenance 24k. An employer and a centralized accommodation provider shall ensure that every accommodation provided for employees under this Part is maintained as directed by the Director General. Appointment of person in charge of accommodation 24l. (1) An employer or a centralized accommodation provider shall appoint at least one person in charge of accommodation provided under this Part, who will be responsible for the safety and well-being of the employees and the management of the accommodations and amenities, in accordance with the provisions of this Act or any regulations made thereunder. (2) It shall be the duty of the person in charge of accommodation— (a) to ensure that employees comply with the disciplinary rules as may be determined by the employer; (b) to visit and inspect the accommodation at least twice a month and keep a record of the inspection as may be determined by the Director General in the place of employment; and (c) to ensure an employee is taken to a clinic or hospital if the employee complains of his health, or appears to be unwell or suffering from any disease or medical condition, and keeps a record of complaints as may be determined by the Director General in the place of employment. Notice to vacate accommodation 24m. (1) Subject to subsection (2), if an employee resigns under a contract of service or his employment is otherwise terminated by not less than four weeks’ notice, the employee shall vacate the accommodation upon the effective date of his resignation or the date the contract of service is terminated. (2) Notwithstanding subsection (1), an employee whose contract of service is terminated by less than four weeks’ notice or is terminated with immediate effect shall vacate the accommodation within four weeks from the date of the notice or the date the contract of service is terminated. Employer not obligated to provide accommodation for employees’ dependants 24n. Nothing in this Part shall render an employer obligated to provide accommodation for the dependants of an employee who is provided with accommodation under this Part.”. Amendment of section 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 25(2) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “workers” the word “employees”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “water and electricity” the words “water supplies, potable water supplies and electricity”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraphs: “(aa) to prescribe the minimum requirements for various classes of buildings to be used for the accommodation and centralized accommodation of employees and the minimum sanitary requirements, water supplies, potable water supplies and electricity supplies and other matters pertaining to health in respect of such buildings; (ab) to prescribe any class, category or description of employees that is required to be provided with accommodation under Part IIIa; (ac) to prescribe the maximum rental or charges for accommodation that may be collected under Part IIIa;”. New section 26a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 26 the following section: “Power to issue directions 26a. The Minister may issue such directions as he considers necessary for the purposes of ensuring compliance with this Act.”. Substitution of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 28 the following section: “Institution of prosecution 28. A prosecution for any offence under this Act or any regulations made thereunder shall not be instituted except by or with the written consent of the Public Prosecutor.”. New sections 28a and 28b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 28 the following sections: “Compounding of offences 28a. (1) The Minister may, with the approval of the Public Prosecutor, make regulations prescribing— (a) any offence under this Act or any regulations made under this Act as an offence which may be compounded; (b) the criteria for compounding such offence; and (c) the method and procedure for compounding such offence. (2) The Director General or any officer authorized in writing by the Director General may, with the consent in writing of the Public Prosecutor, at any time before a charge is being instituted, compound any offence prescribed as an offence which may be compounded by making a written offer to the person reasonably suspected of having committed the offence to compound the offence upon payment to the Director General of a sum of money not exceeding fifty per centum of the amount of the maximum fine to which the person would have been liable to if he had been convicted of the offence, within such time as may be specified in the written offer. (3) An offer under subsection (2) may be made at any time after the offence has been committed but before any prosecution for it has been instituted. (4) If the amount specified in the offer is not paid within the time specified in the offer, or such extended time as the Director General may grant, prosecution for the offence may be instituted at any time after that against the person to whom the offer was made. (5) Where an offence has been compounded under this section— (a) no prosecution shall be instituted in respect of the offence against the person to whom the offer to compound was made; and (b) any document or thing seized in connection with the offence may be released by the Director General, subject to such terms as the Director General thinks fit. (6) All sums of moneys received by the Director General under this section shall be paid into and form part of the Federal Consolidated Fund. Protection against suits and legal proceedings 28b. No action, suit, prosecution or any other proceedings shall lie or be brought, instituted or maintained in any court against the Minister, the Director General or any officer vested in him with powers by the Minister under section 26 in respect of any act, neglect or default done or omitted by it or him in good faith, in such capacity.”. New section 29a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 29 the following section: “Offence by company, etc. 29a. Where any person who commits an offence under this Act is a company, limited liability partnership, firm, society or other body of persons, a person who at the time of the commission of the offence was a director, compliance officer, partner, manager, secretary or other similar officer of the company, limited liability partnership, firm, society or other body of persons or was purporting to act in the capacity or was in any manner or to any extent responsible for the management of any of the affairs of the company, limited liability partnership, firm, society or other body of persons or was assisting in its management— (a) may be charged severally or jointly in the same proceedings with the company, limited liability partnership, firm, society or the body of persons; and (b) if the company, limited liability partnership, firm, society or the body of persons is found guilty of the offence, shall be deemed to be guilty of that offence and shall be liable to the same punishment or penalty as an individual unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves— (i) that the offence was committed without his knowledge; or (ii) that the offence was committed without his consent or connivance and that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence.”. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “five” the word “fifty”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one hundred” the words “one thousand”. Amendment of section 32"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Workers’ Minimum Standards of Housing and Amenities (Amendment) Act 2019."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of long title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Workers’ Minimum Standards of Housing and Amenities Act 1990 [Act 446], which is referred to as the “principal Act” in this Act, is amended in the long title—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 32 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “two” the word “ten”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one hundred” the words “one thousand”. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any approval or permission granted under the principal Act before the date of coming into operation of this Act shall continue to be valid until the expiry of the approval or permission as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All applications for approval or permission of the Director General which are pending before the date of coming into operation of this Act shall, on the date of coming into operation of this Act, be dealt with by the Director General under the provisions of the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any order, notice, summons, form or directive made, issued or given under the principal Act shall, in so far as it is consistent with the principal Act as amended by this Act, continue to be valid and be deemed to have been made, issued or given under the provisions of the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any inquiry, trial or proceedings done, taken or commenced under the principal Act immediately before the commencement of this Act shall be continued and concluded under and in accordance with the provisions of the principal Act as if the principal Act had not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “workers” the word “employees”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “their dependants,” the words “accommodations for employees not accompanied by dependants and centralized accommodations,”. General amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “worker”, wherever appearing in sections 5, 8, 16, 17, 18, 20, 21, 23 and 27, the word “employee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “workers”, wherever appearing in sections 5, 6, 7, 9, 15, 17, 18, 19, 22, 23 and 27, the word “employees”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the words “a worker”, wherever appearing in sections 17, 18 and 21, the words “an employee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “workers’ ”, wherever appearing in section 23, the word “employees’ ”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “two thousand”, wherever appearing in sections 18, 20 and 33, the words “fifty thousand”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one hundred”, wherever appearing in sections 18, 20 and 33, the words “one thousand”. Amendment of section 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 1 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “Workers’ Minimum Standards of Housing” the words “Employees’ Minimum Standards of Housing, Accommodations”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “throughout Malaysia” the words “to Peninsular Malaysia and the Federal Territory of Labuan”. Reference to Workers’ Minimum Standards of Housing and Amenities Act 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All references to the Workers’ Minimum Standards of Housing and Amenities Act 1990 in any written law or document shall, when this Act comes into operation, be construed as references to the Employees’ Minimum Standards of Housing, Accommodations and Amenities Act 1990. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 2 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by inserting after the word “application” the words “of Part II”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the words “Nothing in this Act shall” the words “Part II of this Act shall not”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “building”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “means” the words “, in relation to Part II,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “workers” the word “employees”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “contract of service”, in the English language text, by substituting for the words “a worker” wherever appearing the words “an employee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “employer”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), in the English language text, by substituting for the words “a worker” the words “an employee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the words ‘and the term “employ” with its grammatical variations and cognate expressions, shall be construed accordingly;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the words ‘and the word “employ”, with its grammatical variations and cognate expressions, shall be construed accordingly;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Minister”, by substituting for the words “for the time being charged with the responsibility for labour” the words “charged with the responsibility for human resources”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition “Medical Officer of Health”, by substituting for the words “, any State Deputy Director of Medical and Health Services, the Sabah State Director of Medical Services and his Deputy and the Sarawak State Director of Medical Services and his Deputy” the words “and any State Deputy Director of Medical and Health Services”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “District Engineer” the following definition: ‘ “employee” has the meaning assigned to it in subsection 2(1) of the Employment Act 1955;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the definition of “worker”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “resident registered medical practitioner”, in the English language text, by substituting for the word “workers” the word “employees”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “resident manager”, in the English language text, by substituting for the word “workers” the word “employees”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_j__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_j__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “dependant”, in the English language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_j__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_j",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a worker” the words “an employee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_j__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_j",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “worker” wherever appearing the word “employee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “place of employment”, in the English language text, by substituting for the word “workers” the word “employees”. Amendment of section 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 10 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “workers” wherever appearing the word “employees”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “10” the word “five”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “workers’ ” the word “employees’ ”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)— Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “two” the word “fifty”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_8__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “one hundred” the words “one thousand”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the English language text, by substituting for the word “workers” wherever appearing the word “employees”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), in the English language text, by substituting for the words “A worker” the words “An employee”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), in the English language text—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a worker” the words “an employee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “another worker” the words “another employee”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (6)— Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “one” the word “fifty”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/20/eng@/~cl_9__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the word “fifty” the words “one thousand”."
+      }
+    }
+  ]
+}

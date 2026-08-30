@@ -194,21 +194,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/eng@/~cl_14",
       "@type": "akn:clause",
       "eli:number": "14",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/eng@/~cl_14__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 580 the following section: “Security for costs 580a. (1) Where a company is the plaintiff in any action or other proceedings and if it appears by a credible testimony that there is reason to believe that the company will be unable to pay the costs of the defendant if the defendant is successful in his defence, the Court may order the plaintiff to give sufficient security for all the costs and to stay all action or proceedings until the security is given."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/eng@/~cl_14__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/17/eng@/~cl_14",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Court may direct the costs of any action or proceedings to be borne by the party to the action or proceedings.”. Saving"
+        "@value": "The principal Act is amended by inserting after section 580 the following section: “Security for costs 580a. (1) Where a company is the plaintiff in any action or other proceedings and if it appears by a credible testimony that there is reason to believe that the company will be unable to pay the costs of the defendant if the defendant is successful in his defence, the Court may order the plaintiff to give sufficient security for all the costs and to stay all action or proceedings until the security is given. (2) The Court may direct the costs of any action or proceedings to be borne by the party to the action or proceedings.”. Saving"
       }
     },
     {

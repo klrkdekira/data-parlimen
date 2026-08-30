@@ -1,0 +1,2785 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-10-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Carbon Capture, Utilization and Storage Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MALAYSIA CARBON CAPTURE, UTILIZATION AND STORAGE AGENCY Establishment of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "CARBON CAPTURE Requirement for registration of carbon capture installation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who owns or operate any carbon capture installation shall be registered with the Agency under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Part, “carbon capture installation” means an installation which carries out carbon capture and includes any associated technical facilities of such installation. Application for registration of carbon capture installation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for the registration under section 15 shall be made to the Agency in such manner and accompanied by such information, particulars or documents as prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The office of a member appointed under paragraph 7(1)(d) shall be vacated if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he dies;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his conduct, whether in connection with his duties as a member of the Agency or otherwise, has been such as to bring discredit to the Agency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "there has been proved against him, or he has been convicted on, a charge in respect of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence involving fraud, dishonesty or moral turpitude;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an offence under a law relating to corruption; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_c",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other offence punishable with imprisonment for more than two years;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes a bankrupt;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he becomes of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he absents himself from three consecutive meetings of the Agency without leave of the Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his resignation is accepted by the Minister;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his appointment is revoked by the Minister; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "his term of appointment has expired. Meetings of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency shall convene a meeting at least once a year and the meeting shall be held at the time and place specified in a written notice by the Chairman, and the Chairman may authorize the use of a live video link, live television link or any other electronic means of communication for the purposes of any meeting of the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chairman shall preside at all meetings of the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the Chairman is absent from any meeting of the Agency, the members present shall elect one of themselves to preside at the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Five members, including the Chairman of the meeting, shall constitute the quorum of the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where there is an equality of votes, the Chairman who presides the meeting shall have the casting vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may determine its own procedure. Agency may invite others to attend meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may invite any other person to attend any meeting of the Agency to advise the Agency on any matter under discussion, but the person so attending is not entitled to vote at the meeting. Provision of facilities by Ministry"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Ministry responsible for the Agency shall provide it with such staff, funds and other facilities as are necessary to the Agency to enable it to carry out its functions. Appointment of competent technical entity"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, the Minister may appoint a separate competent technical entity for any of the following components:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "carbon capture;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "transportation of carbon dioxide;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "utilization of carbon dioxide;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "offshore storage of carbon dioxide; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "onshore storage of carbon dioxide."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The competent technical entity appointed under subsection (1) shall advise the Agency on any technical and operational matters relating to relevant component the entity was appointed for and perform any other functions as determined by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A person may only be appointed as a competent technical entity under subsection (1) if that person has the necessary knowledge, skill and experience with respect to the relevant components of the carbon capture, transportation, utilization, and storage."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any competent technical entity appointed under subsection (1) shall use reasonable diligence in the discharge of its duties."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Nothing in subsection (1) shall be construed as empowering the Minister to appoint a competent technical entity for any purpose other than the purposes specified in subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Malaysia Carbon Capture, Utilization and Storage Agency is established. Membership of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Chairman, who shall be appointed by the Minister from among the members of the Agency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of the Ministry charged with the responsibility for carbon capture, utilization and storage;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of Department of Environment; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not more than six other members who shall be appointed in writing by the Minister who, in the opinion of the Minister, have the appropriate experience, knowledge and expertise in matters relating to carbon capture, utilization or storage and any other relevant expertise."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Agency appointed under paragraph (1)(d)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be paid such allowance as determined by the Minister; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "unless he sooner resigns or vacates his office or his appointment is sooner revoked, shall hold office for a term not exceeding three years and is eligible for reappointment for a term not exceeding two consecutive terms. Functions and powers of Agency"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_n"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Agency shall be—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to advise the Government and the Minister on matters relating to the implementation of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to administer and ensure effective implementation of this Act and any regulations made under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to oversee any activity in relation to the carbon capture, transportation, utilization and storage;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to oversee the management of any storage resources for the purposes of permanent storage of carbon dioxide in Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to administer and control the Fund, and all matters relating to the benefits and investment of the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to recommend to the Government any policy, action and measure relating to carbon capture, transportation, utilization and storage;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to promote, develop or implement any policy and initiative relating to carbon capture, transportation, utilization and storage;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to collate, analyse and publish any information, statistic and factor influencing or relevant to the development of carbon capture, transportation, utilization and storage;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to control the activity of offshore geological assessment and onshore geological assessment by issuance of offshore assessment permit and onshore assessment permit;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to control permanent storage in offshore areas and onshore areas by issuance of offshore storage licence and onshore storage licence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to report to the Minister any matters concerning any leakage or significant irregularity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to control the activity of transportation of carbon dioxide captured within or outside of Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to control the activity of importation of carbon dioxide captured outside Malaysia; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do such other things arising out of or consequential to the functions of the Agency under this Act consistent with the purposes of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency shall have all such powers as may be necessary for, in connection with, or reasonably incidental to, the performance of its functions under this Act. Revocation of appointment and resignation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The appointment of any member appointed under paragraph 7(1)(d), may at any time be revoked by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member referred to in subsection (1) may at any time resign his office by giving a one month notice to the Minister. Vacation of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "TRANSPORTATION AND IMPORTATION OF CARBON DIOXIDE Transportation of carbon dioxide"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, by road, railway, water, pipeline or by any other means, transport any carbon dioxide obtained through carbon capture, shall prior to such conveyance, be registered with the Agency under this Act and shall comply with—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other written laws relating to transportation; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prudent carbon capture, utilization and storage practices specified in section 5. Application for registration to transport carbon dioxide"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for the registration under section 17 shall be made to the Agency in such manner and accompanied by such information, particulars or documents as prescribed. Importation of carbon dioxide captured outside of Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall import for permanent storage any carbon dioxide which is obtained through carbon capture outside of Malaysia unless the carbon dioxide complies with the carbon dioxide stream acceptance criteria specified in section 28."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both. Import permit of carbon dioxide captured outside of Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No carbon dioxide which is obtained through carbon capture outside of Malaysia shall be imported by road, railway, water, pipeline or by other means into Malaysia unless such importation complies with an import permit granted by the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The application for an import permit under subsection (1) shall be made to the Agency in such manner and accompanied by such information, particulars or documents and payment of fees as prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application under this section may be withdrawn at any time before the import permit is granted or refused."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IV__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX",
+      "@type": "akn:part",
+      "eli:number": "IX",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_45",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_46"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ENFORCEMENT Authorization of public officer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_45",
+      "@type": "akn:clause",
+      "eli:number": "45",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister, may, in writing, authorize any public officer to exercise the powers of enforcement under this Act. Power of enforcement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_46",
+      "@type": "akn:clause",
+      "eli:number": "46",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_46__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_46__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_46__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A police officer not below the rank of Inspector or a senior officer of customs may exercise all the powers of enforcement under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_46__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_IX__cl_46",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An officer authorized under section 45 shall have the powers of a police officer of whatever rank as provided for under the Criminal Procedure Code [Act 593] in relation to investigation into any offence under this Act, and such powers shall be in addition to and not in derogation of, the powers provided for under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Carbon Capture, Utilization and Storage Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different Parts or provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (2), Part VII of this Act comes into operation in a State on such date as the Minister may, after consultation with the State Government, as the case may be, appoint by notification in the Gazette. Application"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply to Peninsular Malaysia and the Federal Territory of Labuan. Act to be read together with relevant written laws"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall be read together with the relevant written laws and the provisions of this Act shall be in addition to, and not in derogation of, the provisions of the relevant written laws. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires— “Agency” means the Malaysia Carbon Capture, Utilization and Storage Agency established under section 6; “carbon capture” means the process of capturing carbon dioxide by using carbon capture technology for the purposes of utilization or permanent storage; “carbon dioxide stream” means a flow of substances resulting from the capture of carbon dioxide within or outside of Malaysia; “carbon dioxide stream acceptance criteria” means the criteria for the acceptance of a carbon dioxide stream specified in section 28; “competent technical entity” means any competent technical entity appointed under section 14; “corrective measures” means any measure taken to correct any significant irregularity, or to close or stop any leakage; “Fund” means the Post-Closure Stewardship Fund established under section 41; “geological formation” means a lithostratigraphical subdivision within which distinct rock layers can be found and mapped; “leakage” means the unintentional emission or release of carbon dioxide stream either into the water column, being all of the water in the ocean between the surface and the seabed, or the atmosphere—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "from any storage complex, storage site, or carbon capture installation; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "during transportation of any carbon dioxide obtained through carbon capture; “Minister” means the Minister charged with the responsibility for matters relating to carbon capture, utilization and storage; “offshore area” means the seabed and subsoil of the seas of Malaysia beyond three nautical miles from the baselines of each State, including the exclusive economic zone and the continental shelf; “offshore assessment permit” means a permit issued by the Agency under section 25; “offshore geological assessment” means any technical assessment such as site characterisation studies, seismic surveys, drilling, and injection tests of any potential storage complex in offshore areas for the purposes of offshore storage; “offshore operator” means a holder of an offshore storage licence who carries out the operation of a storage site, controls the storage site or controls the operation of the storage site, in offshore areas; “offshore storage” means any permanent storage of carbon dioxide in any offshore area; “offshore storage licence” means a licence issued by the Agency under section 27; “onshore area” means all land within each State of Malaysia and the Federal Territories of Kuala Lumpur, Putrajaya and Labuan, including the foreshores up to three nautical miles from the baselines of each State; “onshore assessment permit” means a permit issued by the Agency under section 34; “onshore geological assessment” means any technical assessment such as site characterisation studies, seismic surveys, drilling, and injection tests of any potential storage complex in onshore areas for the purposes of onshore storage; “onshore operator” means a holder of an onshore storage licence who carries out the operation of a storage site, controls the storage site or controls the operation of the storage site, in onshore areas; “onshore storage” means any permanent storage of carbon dioxide in any onshore area; “onshore storage licence” means a licence issued by the Agency under section 36; “operation of a storage site” means any activity, function, task or matter undertaken or necessary to be undertaken to develop infrastructure for injection and permanent storage of carbon dioxide including all ancillary activities, and to operate the storage site in accordance with the offshore storage licence or onshore storage licence, pursuant to prudent carbon capture, utilization and storage practices; “permanent storage” means the permanent containment of a carbon dioxide stream in a storage complex; “prescribed” means prescribed by the Minister by way of regulations made under the provisions of this Act; “remediation measures” means any measures taken to rectify any damage resulting from any leakage, unintended migration or other irregularity in a storage site; “significant irregularity” means any irregularity of the operation of a storage site or the condition of the storage complex, which indicates the risk of a leakage or risk to the environment or human health; “storage complex” means a defined volume area within a geological formation used for permanent storage and the surrounding geological domain which can have an effect on overall storage; “storage site” means a storage complex, the geological formation between the storage complex and the surface projection of the storage complex, and any associated facilities and structures."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, any reference in relation to Malaysia shall include the exclusive economic zone and continental shelf of Malaysia, as defined under the Exclusive Economic Zone Act 1984 [Act 311] and the Continental Shelf Act 1966 [Act 83], as the case may be. Prudent carbon capture, utilization and storage practices"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, any reference to “prudent carbon capture, utilization and storage practices” shall be construed as any practice, method, measure and standard generally followed by the global carbon capture, utilization and storage industry during the applicable period in relation to carbon capture, transportation, utilization and storage, and including—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any requirement as prescribed by the Minister after consultation with the relevant competent technical entity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any guideline issued by the relevant competent technical entity; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_I__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any standard issued by any recognised body at the national or international level."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "UTILIZATION OF CARBON DIOXIDE Requirement for registration to utilize carbon dioxide"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ASSESSMENT AND PERMANENT STORAGE IN OFFSHORE AREAS Requirement of an offshore assessment permit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_40"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ASSESSMENT AND PERMANENT STORAGE IN ONSHORE AREAS Requirement of an onshore assessment permit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII",
+      "@type": "akn:part",
+      "eli:number": "VIII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "POST-CLOSURE STEWARDSHIP FUND Post-Closure Stewardship Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A fund to be known as the “Post-Closure Stewardship Fund” is established and shall be administered and controlled by the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall consist of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any sums as provided by the Government for the purposes of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any injection levy made by offshore operators to the Agency for the purpose of providing financial support to the Government to cover any cost involved in long-term monitoring, corrective measures and remediation measures of the storage site after the transfer of obligations pursuant to section 32 or 40, as the case may be, has occurred; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_41__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all monies earned from investments financed from the Fund including interest income. Expenditure to be charged on Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall be expended only for the purpose of covering costs to be borne by the Government for long-term stewardship of offshore storage sites after the transfer of obligations pursuant to section 32 or 40, as the case may be, has occurred, including—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "fulfilling any obligations assumed by the Government pursuant to the transfer of obligations under section 32 or 40;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "long-term monitoring of the carbon dioxide stored within a storage site to ensure that the carbon dioxide is safely and permanently stored; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "carrying out any corrective measures or remediation measures."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), all monies earned from investments financed from the Fund referred to in paragraph 41(2)(c) may also be expended for the purpose of promoting the development of the carbon capture, utilization and storage industry in Malaysia generally. Power to invest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_43__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_43__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_43__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The monies in the Fund may, in so far as they are not required or immediately required to be expended by the Agency for the purposes of subsection 42(1), be invested subject to such terms and conditions as determined by the Minister after consultation with and approval of the Minister of Finance."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_43__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_43",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency shall open and maintain an account or accounts to hold monies in the Fund with such bank or banks in Malaysia as it thinks fit, after consulting the Minister and the Minister of Finance, and every such account shall be operated upon in any manner as may be authorized by the Agency for such purpose. Accounts and reports"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency shall cause proper accounts of the Fund and proper reports of its activities to be kept and shall, as soon as practicable after the end of the financial year, cause to be prepared for that financial year—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement of accounts which shall include a balance sheet and an account of the contributions and expenditure; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a statement of its activities in respect of the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VIII__cl_44",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency shall as soon as practicable, send a copy of the statement of accounts certified by the auditors and a copy of auditors’ report to the Minister, and the Minister shall cause the statement of account and the auditors’ report to be laid before each House of Parliament."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall carry out any onshore geological assessment of any potential storage complex or geological formation in onshore areas without an onshore assessment permit granted by the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an onshore assessment permit under subsection (1) shall be made to the Agency in such manner and accompanied by such fees as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an offshore assessment permit under this section may be withdrawn at any time before the onshore assessment permit is granted or refused."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may at any time after the receipt of an application under subsection (2) and before the application is determined, by a written notice, require the applicant to provide any additional documents or information within the period as specified."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding one million ringgit or to both. Grant of onshore assessment permit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_34__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_34__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_34__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may, after considering the application for an onshore assessment permit under section 33 and being satisfied that all requirements have been fulfilled, grant or refuse to issue the onshore assessment permit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_34__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_34",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may impose such conditions as the Agency thinks fit, in granting the onshore assessment permit. Requirement of an onshore storage licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall carry out the operation of a storage site in the onshore areas of Malaysia for the permanent storage of carbon dioxide captured within or outside of Malaysia without an onshore storage licence issued by the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an onshore storage licence under subsection (1) shall be made to the Agency in such manner and accompanied by such fees as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an onshore storage licence under this section may be withdrawn at any time before the onshore storage licence is granted or refused."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may at any time after the receipt of an application under subsection (2) and before the application is determined, by a written notice, require the applicant to provide any additional documents or information within the period specified."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding two million ringgit or to both. Grant of onshore storage licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_36__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_36__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_36__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may, after considering the application for an onshore storage licence under section 35 and being satisfied that all requirements have been fulfilled, grant or refuse to issue an onshore storage licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_36__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may impose such conditions as the Agency thinks fit, in granting the onshore storage licence. Carbon dioxide stream acceptance criteria for the purposes of onshore storage"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No onshore operator shall accept and inject carbon dioxide streams into a storage site in onshore areas unless such carbon dioxide streams comply with the carbon dioxide stream acceptance criteria specified in section 28."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An onshore operator shall keep a register of the quantities and properties of the carbon dioxide streams accepted and injected, including the composition of the stream."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) or (2) commits an offence and shall on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both. Operational obligations in relation to onshore storage"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The operational obligations in relation to offshore storage specified in section 29 shall apply mutatis mutandis to the operational obligations to be imposed on an onshore operator in the case of onshore storage. Closure and post-closure obligations in relation to onshore storage"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The closure and post-closure obligations in relation to offshore storage specified in section 31 shall apply mutatis mutandis to the closure and post-closure obligations to be imposed on an onshore operator in the case of onshore storage. Transfer of obligations in relation to onshore storage"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VII",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Prior to a closure of a storage site pursuant in an onshore area to section 39, any transfer of obligations relating to monitoring, corrective measures and remediation measures of the storage site in an onshore area shall be determined by the Minister, after consultation with the State Government, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall carry out any offshore geological assessment of any potential storage complex or geological formation in offshore areas without an offshore assessment permit granted by the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an offshore assessment permit under subsection (1) shall be made to the Agency in such manner and accompanied by such fees as may be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an offshore assessment permit under this section may be withdrawn at any time before the offshore assessment permit is granted or refused."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may at any time after the receipt of an application under subsection (2) and before the application is determined, by a written notice, require the applicant to provide any additional documents or information within the period as specified."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding three years or to a fine not exceeding one million ringgit or to both. Grant of offshore assessment permit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_25__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may, after considering the application for an offshore assessment permit under section 24 and being satisfied that all requirements have been fulfilled, grant or refuse to issue the offshore assessment permit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may impose such conditions as the Agency deems fit, in granting the offshore assessment permit. Requirement of an offshore storage licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall carry out the operation of a storage site in the offshore areas of Malaysia for the permanent storage of carbon dioxide captured within or outside of Malaysia without an offshore storage licence granted by the Agency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an offshore storage licence under subsection (1) shall be made to the Agency in such manner and accompanied by such fees as prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for an offshore storage licence under this section may be withdrawn at any time before the offshore storage licence is granted or refused."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may at any time after the receipt of an application under subsection (2) and before the application is determined, by a written notice, require the applicant to provide any additional documents or information within the period as specified."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to imprisonment for a term not exceeding five years or to a fine not exceeding two million ringgit or to both. Grant of offshore storage licence"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may, after considering the application for an offshore storage licence under section 26 and being satisfied that all requirements have been fulfilled, grant or refuse to issue the offshore storage licence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Agency may impose such conditions as the Agency thinks fit, in granting the offshore storage licence. Carbon dioxide stream acceptance criteria for the purposes of offshore storage"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No offshore operator shall accept and inject carbon dioxide streams into a storage site in offshore areas unless such carbon dioxide streams comply with the carbon dioxide stream acceptance criteria specified in subsections (2), (3) and (4)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A carbon dioxide stream shall comply with prudent carbon capture, utilization and storage practices specified in section 5, and the carbon dioxide stream shall consist of overwhelmingly of carbon dioxide, and no waste or other matter may be added into the carbon dioxide stream for the purpose of disposing the waste or other matter."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (2), a carbon dioxide stream may contain any incidental associated substances from the source, capture or injection process, and trace substances added to assist in monitoring and verifying the migration of carbon dioxide."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Concentrations of all incidental and added substances referred to in subsection (3) shall be below levels that—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "would adversely affect the integrity of the storage site or the relevant transport infrastructure;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "would pose any significant risk against human health or the environment in accordance with prudent carbon capture, utilization and storage practices specified in section 5; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "breach any written laws that is applicable in Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An offshore operator shall keep a register of the quantities and properties of the carbon dioxide streams accepted and injected, including the composition of the stream."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_28",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) or (5) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both. Operational obligations in relation to offshore storage"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "When carrying out the operation of a storage site, an offshore operator shall in accordance with prudent carbon capture, utilization and storage practices specified in section 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "provide information relevant for the purpose of assessing compliance with offshore storage licence conditions;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "monitor the storage complex and surrounding environment, and prepare a monitoring plan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "carry out any corrective measures and remediation measures with regards to any leakage or significant irregularity; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_29",
+      "schema:text": {
+        "@language": "en",
+        "@value": "submit the report in relation to the result of the monitoring undertaken under paragraph (b) and any measure undertaken under paragraph (c), to the Agency. Injection levy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall, by order published in the Gazette, pursuant to the recommendation made by the Agency, determine the rates of the injection levy to be paid by the offshore operator for the purpose of long-term monitoring of each storage site by the Government, after the Agency consults the relevant competent technical entity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The rates of injection levy—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be determined based on the risk and probability of risk of each storage site; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be increased due to withdrawals from the Fund or risks associated with other offshore storage projects."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Agency may review the rates of injection levy for every five years, after consultation with the relevant competent technical entity; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_30__subsec_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the offshore operator as it thinks necessary may request for the Agency to review the injection levy rates. Closure and post-closure obligations in relation to offshore storage"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No storage site shall be closed and no closure certificate shall be issued by the Agency unless the prescribed conditions for closure have been complied with."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "en",
+        "@value": "After a storage site has been closed pursuant to subsection (1), an offshore operator shall remain responsible for—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "monitoring the storage site and reporting monitoring results to the Agency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any corrective measures;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any remediation measures; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_31__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other prescribed activities, until obligations in relation to the storage site is transferred to the Government pursuant to section 32. Transfer of obligations in relation to offshore storage"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where a storage site has been closed pursuant to section 31, the obligations relating to monitoring, corrective measures and remediation measures shall be transferred to the Government and the Government shall issue a certificate to the offshore operator to document the transfer of obligations."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The transfer of all obligations to the Government under subsection (1) shall only occur if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a prescribed period has lapsed from the issuance of the closure certificate under subsection 31(1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "other prescribed conditions in the closure certificate have been fulfilled."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the avoidance of doubt, the transfer of obligations to the Government referred to in subsection (1) shall not include the transfer of any criminal, contractual or civil law liability connected to the storage site attributable to the fault, negligence or deceit of the offshore operator, or failure of the offshore operator to exercise any due diligence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who utilizes any carbon dioxide obtained through carbon capture in Malaysia shall be registered with the Agency. Application for registration to utilize carbon dioxide"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for the registration under section 21 shall be made to the Agency in such manner and accompanied by such information, particulars or documents as determined by the Agency. Prohibition of utilization of carbon dioxide captured outside of Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_23__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No person shall utilize any carbon dioxide obtained through carbon capture outside of Malaysia which has been imported into Malaysia for the purpose of permanent storage."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_V__cl_23",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one million ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X",
+      "@type": "akn:part",
+      "eli:number": "X",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_48",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_49",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_51",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_53"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL PROVISIONS Appeal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47",
+      "@type": "akn:clause",
+      "eli:number": "47",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any applicant who is aggrieved by—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a refusal to grant an offshore assessment permit under section 25 and offshore storage licence under section 27;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a refusal to grant an onshore assessment permit under section 34 and onshore storage licence under section 36;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the imposition of any condition, limitation or restriction on his permit or licence; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the revocation, suspension or variation of his permit or licence, may, within thirty days after being informed in writing of such refusal, imposition, revocation or suspension, appeal to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_47",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, after considering the appeal made under subsection (1), confirm or set aside the decision appealed against. Prosecution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_48",
+      "@type": "akn:clause",
+      "eli:number": "48",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No prosecution for or in relation to any offence under this Act or any regulations made under this Act shall be instituted except by or with the written consent of the Public Prosecutor. Protection against suits and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_49",
+      "@type": "akn:clause",
+      "eli:number": "49",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or other proceedings shall be brought, instituted or maintained in any court against the Minister, any member of the Agency, the Chairman or any authorized officer on account of or in respect of any act, neglect or default done or omitted by him in the course of carrying out his duties under this Act unless it can be proven that the act, neglect or default was done or omitted in bad faith and without reasonable cause. Liability of director, etc., of body corporate"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50",
+      "@type": "akn:clause",
+      "eli:number": "50",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where any person who commits an offence under this Act or any regulations made under this Act is a body corporate, a person who at the time of the commission of the offence was a director, compliance officer, partner, manager, secretary or other similar officer of the body corporate or was purporting to act in the capacity or was in any manner or to any extent responsible for the management of any of the affairs of the body corporate or was assisting in its management—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "may be charged severally or jointly in the same proceedings with the body corporate; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if the body corporate is found guilty of the offence, shall be deemed to be guilty of that offence and shall be liable to the same punishment or penalty as an individual unless, having regard to the nature of his functions in that capacity and to all circumstances, he proves—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his knowledge; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_1__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "that the offence was committed without his consent or connivance and that he had taken all reasonable precautions and exercised due diligence to prevent the commission of the offence."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_50",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this section, “body corporate” means a company, limited liability partnership, firm, society or other body of persons. Power to exempt"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_51",
+      "@type": "akn:clause",
+      "eli:number": "51",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, by order published in the Gazette, subject to such conditions or restrictions as he may thinks necessary or expedient to impose, exempt any geographical area, person or class of person, vehicle or class of vehicle, or premises or class of premises, from any or all of the provisions of this Act or any regulations made under this Act. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52",
+      "@type": "akn:clause",
+      "eli:number": "52",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may make regulations as may be necessary or expedient for the purpose of carrying into effect the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_p"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), the Minister may make regulations for or in respect of all or any of the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to carbon capture;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to the transportation of carbon dioxide obtained through carbon capture;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to the utilization of carbon dioxide obtained through carbon capture;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to the application for an offshore assessment permit and offshore storage licence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to the application for an onshore assessment permit and onshore storage licence;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any function of the competent technical entity;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe prudent carbon capture, utilization and storage practices after consultation with the Agency;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe obligations relating to the operation of a storage site;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the conditions for the closure of a storage site and issuance of a closure certificate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the conditions for the transfer of obligations to the Government after the storage site is closed and the issuance of a certificate documenting such transfer of obligations;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the conditions for the transfer of obligations to the State Government, after consultation with the State Government as the case may be, is held;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the fees and charges payable under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the manner of an appeal under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the procedure for the administration of the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe matters relating to the payment of injection levy into the Fund; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other matters required by this Act to be prescribed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_52",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any regulations made under this Act may prescribe an act or omission in contravention of the regulations to be an offence and may prescribe penalties of a fine not exceeding one million ringgit. Power to issue standards, guidelines, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X__cl_53",
+      "@type": "akn:clause",
+      "eli:number": "53",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/10/eng@/~part_X",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may issue any standard, guideline, specification, practice, measure, and reporting requirement and any other matters in respect of carbon capture, transportation, utilization and storage of carbon dioxide, and such standard, guideline, specification, practice, measure, reporting requirement and any other matters issued shall be in accordance with section 5."
+      }
+    }
+  ]
+}

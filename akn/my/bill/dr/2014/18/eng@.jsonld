@@ -1,0 +1,152 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-18-2014",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Limited Liability Partnerships (Amendment) Bill 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Limited Liability Partnerships (Amendment) Act 2014."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Limited Liability Partnerships Act 2012 [Act 743], which is referred to as the “principal Act” in this Act, is amended in section 2 by substituting for the definition of “Registrar” the following definition: ‘ “Registrar” means the Registrar designated under subsection 20a(1) of the Companies Commission of Malaysia Act 2001.’. Deletion of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 5. Substitution of section 48"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 48 the following section: “Liquidation or dissolution of foreign limited liability partnerships in place of incorporation, establishment or origin 48. (1) If a foreign limited liability partnership goes into liquidation or is dissolved in its place of incorporation, establishment or origin, each person who was a compliance officer immediately before the commencement of the liquidation proceedings shall, within one month after the commencement of the liquidation or the dissolution or within such further period as the Registrar in special circumstances allows, lodge or cause to be lodged with the Registrar— (a) a notice of such liquidation or dissolution; and (b) where a foreign liquidator is appointed to the foreign limited liability partnership in its place of incorporation, establishment or origin, a notice of such appointment. (2) A foreign liquidator appointed under paragraph (1)(b) shall have the powers and functions of an approved liquidator until an approved liquidator for the foreign limited liability partnership in Malaysia is duly appointed by the Court. (3) An approved liquidator of a foreign limited liability partnership in Malaysia appointed by the Court or a person exercising the powers and functions of such a liquidator— (a) shall, before any distribution of the assets of the foreign limited liability partnership is made, by advertisement in a newspaper widely circulated in each country where the foreign limited liability partnership had been carrying on business prior to the liquidation if no liquidator has been appointed for that place, invite all creditors to make their claims against the foreign limited liability partnership within a reasonable time before the distribution; (b) shall not pay out any creditor to the exclusion of any other creditor of the foreign limited liability partnership without obtaining an order of the Court except as otherwise provided in subsection (7); and (c) shall, unless otherwise ordered by the Court — (i) only recover and realize the assets of the foreign limited liability partnership in Malaysia; and (ii) subject to subsection (7), pay the net amount so recovered and realized to the liquidator of that foreign limited liability partnership for the place where it was formed or incorporated after paying any debts and satisfying any liabilities incurred in Malaysia by the foreign limited liability partnership. (4) Where a foreign limited liability partnership has been wound up, so far as its assets in Malaysia are concerned and there is no liquidator for the place of its incorporation or origin, the liquidator may apply to the Court for directions as to the disposal of the net amount recovered pursuant to subsection (3). (5) Upon receipt of a notice from a compliance officer that the foreign limited liability partnership has been dissolved, the Registrar shall remove the name of the foreign limited liability partnership from the register. (6) Where the Registrar has reasonable cause to believe that a foreign limited liability partnership has ceased to carry on business or to have a place of business in Malaysia, the provisions of this Act relating to striking off under section 51 shall apply accordingly with such modifications as are necessary. (7) Before paying or transferring any property available within Malaysia to the foreign liquidator referred to in subsection (1), the approved liquidator for the foreign limited liability partnership in Malaysia shall make payments in the following order: (a) firstly, the remuneration of the approved liquidator for the foreign limited liability partnership in Malaysia; (b) secondly, all penalties, costs, fees and charges due and owing to the Registrar; (c) thirdly, all wages and salary of any employee of the foreign limited liability partnership, at the time of the appointment of the approved liquidator, a sum not exceeding fifteen thousand ringgit; (d) fourthly, all amount in respect of workers’ compensation, employees’ superannuation or provident fund scheme, or social security contribution under any written law relating to workers’ compensation, employees’ superannuation or provident fund scheme, or social security contribution accrued before the appointment of the approved liquidator; (e) fifthly, all remuneration payable to any employee in respect of vacation leave or in the case of his death to any other person in his right, accrued in respect of any period before the appointment of the approved liquidator; and (f) sixthly, the amount due of all federal taxes assessed under any written law. (8) The penalties, costs, fees, charges, taxes and debts referred to in subsection (7) shall be a charge upon the properties of the foreign limited liability partnership in priority to all other charges and claims. (9) The foreign limited liability partnership shall be deemed to continue to exist in Malaysia until the winding up of its affairs in Malaysia is completed.”. Deletion of Part Viii, and sections 77, 78, 82, 83, 84, 85, 87, 88 and 89"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting Part VIII, and sections 77, 78, 82, 83, 84, 85, 87, 88 and 89. Amendment of section 91"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended in section 91 by deleting paragraph (1)(a). Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any act, thing or proceedings, whether civil or criminal, appeal, investigation or inspection pending or existing under the deleted sections immediately before the coming into operation of this Act, shall be continued under the principal Act as if the principal Act had not been amended."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/18/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any provision in the subsidiary legislation made under the deleted paragraph 91(1)(a) of the principal Act shall remain in operation until revoked or replaced by the subsidiary legislation made under the Companies Commission of Malaysia Act 2001 [Act 614]."
+      }
+    }
+  ]
+}

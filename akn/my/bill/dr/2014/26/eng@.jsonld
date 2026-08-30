@@ -79,56 +79,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3__para_d"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by substituting for section 23a the following section: “Qualification of President and Chairman of Industrial Court 23a. A person is qualified for appointment as President under paragraph 21(1)(a) and as Chairman under subsection 23(2) if, for the seven years preceding his appointment, he has been—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "an advocate and solicitor within the meaning of the Legal Profession Act 1976 [Act 166];"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "an advocate within the meaning of the Advocates Ordinance of Sabah [Sabah Cap. 2];"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "an advocate within the meaning of the Advocates Ordinance of Sarawak [Sarawak Cap. 110]; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2014/26/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "a member of the judicial and legal service of the Federation or of the legal service of a State, or sometimes one and sometimes another.”. Amendment of section 56"
+        "@value": "The principal Act is amended by substituting for section 23a the following section: “Qualification of President and Chairman of Industrial Court 23a. A person is qualified for appointment as President under paragraph 21(1)(a) and as Chairman under subsection 23(2) if, for the seven years preceding his appointment, he has been— (a) an advocate and solicitor within the meaning of the Legal Profession Act 1976 [Act 166]; (b) an advocate within the meaning of the Advocates Ordinance of Sabah [Sabah Cap. 2]; (c) an advocate within the meaning of the Advocates Ordinance of Sarawak [Sarawak Cap. 110]; or (d) a member of the judicial and legal service of the Federation or of the legal service of a State, or sometimes one and sometimes another.”. Amendment of section 56"
       }
     },
     {

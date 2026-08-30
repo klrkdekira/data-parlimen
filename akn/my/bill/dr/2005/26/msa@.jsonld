@@ -1,0 +1,127 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-26-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Akta Makanan (Pindaan) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Makanan (Pindaan) 2005. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Makanan 1983 [Akta 281], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"pegawai diberi kuasa\" dengan menggantikan perkataan \"inspektor kesihatan\" dengan perkataan \"penolong pegawai kesihatan persekitaran\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif \"keraian\" takrif yang berikut: ‘ \"kesalahan boleh kompaun\" ertinya kesalahan di bawah Akta ini atau mana-mana peraturan yang dibuat di bawah Akta ini dan yang ditetapkan melalui peraturan- peraturan yang dibuat di bawah Akta ini sebagai kesalahan boleh kompaun.’. Seksyen baru 32B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 32A seksyen yang berikut: \"Kuasa untuk memerintahkan kehadiran di mahkamah 32B. (1) Jika Pengarah atau mana-mana pegawai diberi kuasa mempunyai alasan yang munasabah bagi mempercavai bahawa mana-mana orang melakukan suatu kesalahan di bawah Akta ini, dia boleh, sebagai ganti membuat permohonan kepada mahkamah untuk mendapatkan saman, dengan serta-merta menyampaikan kepada orang itu suatu notis yang memenntahkan orang itu supaya hadir di hadapan mahkamah Majistret yang paling hampir yang mempunyai bidang kuasa untuk membicarakan kesalahan itu, pada masa dan tarikh yang dinyatakan dalam notis itu. (2) Jika mana-mana orang yang disampaikan suatu notis sebagaimana yang diperuntukkan oleh subseksyen (1) gagal hadir dengan sendiri atau melalui peguam, mahkamah boleh jika berpuas hati bahawa notis itu telah disampaikan, mengeluarkan suatu waran bagi penangkapan orang itu melainkan jika didapati adalah tidak semunasabahnya mungkin bagi orang itu untuk hadir sedemikian atau dalam hal suatu kesalahan boleh kompaun, orang itu telah dibenarkan mengkompaunkan kesalahan itu dalam tempoh yang dinyatakan dalam notis itu menurut seksyen 33. (3) Notis di bawah subseksyen (1) hendaklah sebagaimana yang ditetapkan melalui peraturan-peraturan.\". Pindaan seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 33 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dan (2) dengan subseksyen yang berikut: \"(1) Pengarah atau mana-mana pegawai diberi kuasa yang diberi kuasa oleh Pengarah boleh, dengan keizinan bertulis Pendakwa Raya, mengkompaunkan apa-apa kesalahan boleh kompaun yang dilakukan oleh mana-mana orang dengan membuat suatu tawaran bertulis kepada orang itu dan dengan mengutip daripada orang itu suatu amaun yang tidak melebihi lima puluh peratus amaun maksimum denda bagi kesalahan yang dilakukan itu. (2) Apa-apa pembayaran kompaun di bawah seksyen ini hendaklah dibuat di tempat yang dinyatakan dalam notis di bawah seksyen 32B dan dalam tempoh yang dinyatakan dalam notis itu atau, dalam hal jika pelanjutan tempoh diberikan, dalam tempoh itu.\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/26/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (5)."
+      }
+    }
+  ]
+}

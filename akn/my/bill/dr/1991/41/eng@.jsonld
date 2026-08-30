@@ -1,0 +1,285 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-41-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "International Fund for Agricultural Development Bill 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the International Fund for Agricultural Development Act 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall apply throughout Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"Agreement\" means the Agreement Establishing the International Fund for Agricultural Development as adopted by the United Nations Conference on the Establishment of an International Fund for Agricultural Development on the 13th June 1976 in Rome, and whereby a copy of the text was laid before the Dewan Rakyat as Statute Paper No. 147 of 1991; \"freely convertible currency\" means such currency as is deemed to be freely convertib1e in accordance with Article I(d) of the Agreement; \"Fund\" means the International Fund For Agricultural Development established by the Agreement. Authorization"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may, by instrument of Signature under his hand, empower such person as may be named of Agreement. in such instrument, on behalf of the Government of Malaysia—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to sign the Agreement; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to deposit with the Fund an instrument of acceptance of the Agreement setting forth that the Government of Malaysia has accepted the Agreement in accordance with its law and has taken all steps necessary to enable the Government of Malaysia to carry out all of its obligations under the Agreement. Contribution"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be charged on the Consolidated Fund to Fund. such part of the contribution of Malaysia to the Fund pursuant to section 3 of Article 4 of the Agreement as may, in accordance with section 5 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to section 5, there shall be charged on the Consolidated Fund such part of any increase in the contribution of Malaysia to the Fund as may, pursuant to section 4 of Article 4 of the Agreement, be payable in freely convertible currency or in Malaysian currency. Approval of"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Whenever any increase in the contribution of Dewan Rakyat Malaysia to the Fund is authorized pursuant to section for additional contribution to 4 of Article 4 of the Agreement, no amount shall Fund. be contributed in respect thereof except with the prior approval, signified by resolution, of the Dewan Rakyat. Issue of non-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister of Finance may, on behalf of the negotiable and Government, create and issue to the Fund, in such non-interest bearing notes. form as he thinks fit, any such non-negotiable and non-interest bearing notes or similar obligations as the Fund may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "accept from the Government in place of any Malaysian currency paid or payable by the DEVELOPMENT Government under section 5(b) of Article 4 of the Agreement or under section 5(c) of . Article 4 of the Agreement; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "pursuant to section 4 of Article 4 of the Agreement determine to accept in place of any Malaysian currency in relation to any increase in the contribution of Malaysia to the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "There shall be charged on the Consolidated Fund—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all sums payable to the Fund by Malaysia under section 2(b) of Article 5 of the Agreement (which relates to valuation of currencies);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all sums required for the redemption of any notes or obligations created and issued to the Fund under section 6;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any sum due to the Fund by Malaysia under section 3 of Article 9 of the Agreement (which relates to the rights and duties of States ceasing to be members of the Fund)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "All moneys received by or on behalf of"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Government of Malaysia from the Fund shall be paid into the Consolidated Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_9__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may by order make such provisions as he may consider reasonably necessary for carrying into effect any of the provisions of the Agreement relating to the status, immunities and privileges of the Fund and their respective governors, executive directors, alternates, officers and employees."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/41/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of provisions of subsection (1), any order made under the subsection may declare that any specified provisions of the Agreement shall have the force of law in Malaysia."
+      }
+    }
+  ]
+}

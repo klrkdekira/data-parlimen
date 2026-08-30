@@ -1,0 +1,1277 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-1-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pengantaraan 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN PENGANTARAAN Permulaan pengantaraan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENGANTARA Pelantikan pengantara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak-pihak hendaklah melantik seorang pengantara bagi membantu mereka dalam pengantaraan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara yang dilantik di bawah Bahagian ini hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memiliki kelayakan, pengetahuan khas atau pengalaman yang berkaitan dalam pengantaraan melalui latihan atau pendidikan tinggi formal; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memenuhi kehendak sesuatu institusi berhubung dengan seseorang pengantara."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pihak-pihak boleh meminta bantuan daripada institusi untuk melantik seorang pengantara atau beberapa orang pengantara bagi pihak mereka."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelantikan seseorang pengantara di bawah subseksyen (1) hendaklah dibuat melalui perjanjian pengantaraan di bawah seksyen 6 dan hendaklah ada seorang pengantara bagi sesuatu pengantaraan melainkan jika dipersetujui selainnya oleh pihak-pihak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika ada lebih daripada seorang pengantara, pengantara- pengantara itu hendaklah bertindak bersesama dalam pengantaraan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pelantikan mana-mana pengantara adalah sah kecuali dengan persetujuan bertulis pengantara terlebih dahulu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara yang dilantik di bawah Bahagian ini hendaklah menzahirkan, sebelum menerima pelantikannya, apa-apa fakta yang diketahui yang seseorang yang munasabah akan memikirkan berkemungkinan menjejaskan kesaksamaannya sebagai pengantara, termasuklah kepentingan kewangan atau peribadi dalam keputusan pengantaraan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara boleh dibayar suatu fi atau diberi apa-apa balasan lain sebagaimana yang dipersetujui antara pihak-pihak. Penamatan pelantikan pengantara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sekiranya pengantara yang dilantik di bawah Bahagian ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lagi memiliki kelayakan, pengetahuan khas atau pengalaman yang berkaitan dalam pengantaraan sebagaimana yang dikehendaki di bawah perenggan 7(2)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lagi memenuhi kehendak sesuatu institusi berhubung dengan seseorang pengantara sebagaimana yang dikehendaki di bawah perenggan 7(2)(b);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "didapati mempunyai kepentingan kewangan atau peribadi dalam pertikaian itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "didapati memperoleh pelantikannya secara fraud; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak dapat menjadi pengantara bagi pengantaraan itu, pihak-pihak boleh menamatkan pelantikan pengantara itu dan melantik pengantara lain bagi pengantaraan itu atau meminta institusi untuk melantik pengantara lain."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_III__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), pihak-pihak boleh menamatkan pelantikan pengantara atas apa-apa sebab dan hendaklah memaklumkan pengantara sebab bagi penamatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang boleh mencadangkan pengantaraan dengan menghantar kepada orang yang dengannya dia mempunyai pertikaian, suatu pelawaan bertulis berkenaan dengan pengantaraan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelawaan bertulis yang disebut dalam subseksyen (1) hendaklah menyatakan secara ringkas perkara yang dipertikaikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila diterima pelawaan bertulis yang dihantar oleh orang yang mencadangkan pengantaraan di bawah subseksyen (1), orang yang dengannya dia mempunyai pertikaian boleh, secara bertulis, menerima pelawaan bertulis itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu pengantaraan hendaklah disifatkan telah bermula apabila orang yang mencadangkan pengantaraan menerima penyetujuterimaan pelawaan bertulis daripada orang yang dengannya dia mempunyai pertikaian di bawah subseksyen (3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sesuatu pelawaan berkenaan dengan pengantaraan di bawah subseksyen (1) hendaklah disifatkan telah ditolak jika orang yang mencadangkan pengantaraan tidak menerima jawapan daripada orang yang dengannya dia mempunyai pertikaian, dalam tempoh empat belas hari dari tarikh dia menghantar kepada orang itu pelawaan bertulis itu atau dalam apa-apa tempoh lain yang dinyatakan dalam pelawaan bertulis itu. Perjanjian pengantaraan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila bermulanya pengantaraan sebagaimana yang dinyatakan dalam subseksyen 5(4), pihak-pihak hendaklah membuat suatu perjanjian pengantaraan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perjanjian pengantaraan hendaklah secara bertulis dan ditandatangani oleh pihak-pihak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perjanjian pengantaraan hendaklah mengandungi persetujuan pihak-pihak untuk mengemukakan kepada pengantaraan pertikaian yang telah timbul atau yang mungkin timbul antara mereka, pelantikan pengantara, kos yang akan ditanggung oleh pihak-pihak dan perkara lain yang difikirkan sesuai oleh pihak- pihak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PROSES PENGANTARAAN Peranan pengantara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara boleh meminta setiap pihak untuk mengemukakan pernyataan yang menghuraikan fakta ringkas pertikaian, disertai dengan apa-apa dokumen yang disifatkan sesuai oleh pihak itu untuk dikemukakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada mana-mana peringkat pengantaraan, pengantara boleh meminta mana-mana pihak supaya mengemukakan apa-apa maklumat atau dokumen tambahan sebagaimana yang disifatkan sesuai oleh pengantara. Penjalanan pengantaraan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara hendaklah memastikan bahawa pengantaraan dijalankan secara tertutup dan pengantara boleh berjumpa dengan pihak-pihak bersama-sama atau dengan setiap pihak secara berasingan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang bukan pihak yang dipilih oleh mana-mana pihak boleh menyertai pengantaraan bagi membantu pihak itu, tertakluk kepada persetujuan pengantara; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang bukan pihak yang dipilih oleh pengantara boleh menyertai pengantaraan bagi membantu pengantara semasa pengantaraan, tertakluk kepada persetujuan pihak- pihak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara boleh mengakhiri pengantaraan jika, pada pendapatnya, usaha selanjutnya melalui pengantaraan tidak akan menyumbang kepada penyelesaian yang memuaskan bagi pertikaian antara pihak-pihak itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara hendaklah memudahkan pengantaraan dan menentukan cara pengantaraan akan dijalankan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara boleh membantu pihak-pihak untuk mencapai penyelesaian yang memuaskan bagi pertikaian itu dan mencadangkan opsyen bagi penyelesaian pertikaian itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), pengantara hendaklah bertindak secara bebas dan saksama. Pengemukaan pernyataan kepada pengantara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pengantaraan 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Ketidakpakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini tidak terpakai bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pertikaian berkenaan dengan perkara yang dinyatakan dalam Jadual;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pengantaraan yang dijalankan oleh seseorang hakim, majistret atau pegawai mahkamah menurut apa- apa tindakan sivil yang telah difailkan di mahkamah; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa pengantaraan yang dijalankan oleh Jabatan Bantuan Guaman. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“bukan pihak” ertinya seseorang yang menyertai pengantaraan, selain seseorang pihak atau pengantara, dan termasuklah peguam setiap pihak, pakar dalam hal perkara sesuatu pertikaian dan saksi; “institusi” ertinya sesuatu badan atau organisasi yang mengadakan khidmat pengantaraan; “komunikasi pengantaraan” ertinya suatu pernyataan lisan atau bertulis yang dibuat—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semasa pengantaraan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan pengantaraan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi maksud mempertimbangkan, menjalankan, menyertai, memulakan, meneruskan, mengadakan semula atau mengakhiri pengantaraan atau mengambil khidmat pengantara; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal undang-undang; “pengantara” ertinya pengantara yang dilantik oleh pihak-pihak di bawah seksyen 7; “pengantaraan” ertinya suatu proses secara sukarela apabila seseorang pengantara memudahkan komunikasi dan perundingan antara pihak-pihak bagi membantu pihak-pihak itu untuk mencapai persetujuan berkenaan dengan sesuatu pertikaian; “perjanjian pengantaraan” ertinya perjanjian yang disebut dalam seksyen 6; “perjanjian penyelesaian” ertinya perjanjian yang disebut dalam seksyen 13; “pihak” ertinya suatu pihak kepada perjanjian pengantaraan dan termasuklah Kerajaan Persekutuan dan Kerajaan Negeri; “prosiding” ertinya apa-apa prosiding daripada jenis sivil dan termasuklah permohonan pada mana-mana peringkat prosiding. Pengantaraan tidak menghalang tindakan mahkamah, timbang tara, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 2, mana-mana orang boleh, sebelum memulakan apa-apa tindakan sivil di mahkamah atau timbang tara, mencadangkan pengantaraan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_I__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantaraan di bawah Akta ini tidak menghalang permulaan apa-apa tindakan sivil di mahkamah atau timbang tara dan tidak menjadi sebagai penggantungan, atau pelanjutan apa-apa prosiding, jika prodising itu telah dimulakan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "BERAKHIRNYA PENGANTARAAN Berakhirnya pengantaraan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KERAHSIAAN DAN PERLINDUNGAN Kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_20"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELBAGAI Kos"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kos pengantaraan hendaklah ditanggung secara sama rata oleh pihak-pihak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), pihak-pihak boleh bersetuju tentang amaun kos yang akan ditanggung oleh setiap pihak. Kuasa meminda Jadual"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, meminda Jadual. Tanggungan pengantara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pengantara tidaklah bertanggungan bagi apa-apa perbuatan atau peninggalan berkenaan dengan apa-apa yang dilakukan atau yang ditinggalkan daripada dilakukan dalam menunaikan fungsinya sebagai pengantara melainkan jika perbuatan atau peninggalan itu telah dibuktikan sebagai fraud atau melibatkan salah laku secara sengaja. Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat peraturan-peraturan bagi penjalanan yang lebih baik tujuan dan maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun boleh menzahirkan apa-apa komunikasi pengantaraan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), komunikasi pengantaraan boleh dizahirkan jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran itu dibuat dengan persetujuan pihak-pihak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran itu dibuat dengan persetujuan orang yang memberikan komunikasi pengantaraan itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran itu dikehendaki di bawah Akta ini atau bagi maksud apa-apa prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_15__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penzahiran itu dikehendaki di bawah mana-mana undang- undang bertulis yang lain bagi maksud pelaksanaan atau penguatkuasaan sesuatu perjanjian penyelesaian. Perlindungan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa komunikasi pengantaraan dilindungi dan tidak tertakluk kepada penzahiran atau tidak boleh diterima sebagai keterangan dalam mana-mana prosiding."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), komunikasi pengantaraan tidak dilindungi jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "perlindungan itu diketepikan dengan nyata secara bertulis oleh pihak-pihak, pengantara dan bukan pihak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ia dokumen awam menurut Akta Keterangan 1950 [Akta 56];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ia ugutan untuk menyebabkan kecederaan tubuh badan atau untuk melakukan jenayah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ia digunakan atau diniatkan untuk digunakan bagi merancang jenayah, cubaan melakukan atau melakukan jenayah, atau bagi menyembunyikan jenayah atau kegiatan jenayah atau jenayah atau kegiatan jenayah yang sedang dilakukan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ia diperoleh atau ditawarkan untuk membuktikan atau membuktikan sebaliknya sesuatu dakwaan atau aduan mengenai salah laku atau amalan salah berkaitan dengan profesion yang difailkan terhadap pengantara; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_VI__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ia diperoleh atau ditawarkan untuk membuktikan atau membuktikan sebaliknya sesuatu dakwaan atau aduan mengenai salah laku atau amalan salah berkaitan dengan profesion yang difailkan terhadap sesuatu pihak, bukan pihak, atau wakil pihak berdasarkan kelakuannya semasa mana-mana sesi pengantaraan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pengantaraan hendaklah berakhir—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila perjanjian penyelesaian ditandatangani oleh pihak- pihak di bawah seksyen 13;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila pengantara mengeluarkan suatu akuan bertulis kepada pihak-pihak yang menyatakan bahawa usaha selanjutnya melalui pengantaraan tidak akan menyumbang kepada penyelesaian yang memuaskan bagi pertikaian itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila pihak-pihak mengeluarkan suatu akuan bertulis kepada pengantara yang menyatakan bahawa pengantaraan itu ditamatkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melainkan jika diperuntukkan selainnya oleh perjanjian pengantaraan yang disebut dalam seksyen 6— Perjanjian penyelesaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila suatu pihak mengeluarkan suatu akuan bertulis kepada pihak yang satu lagi dan pengantara yang menyatakan bahawa pengantaraan itu ditamatkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila mana-mana pihak menarik diri daripada pengantaraan itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_12__para_d",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila mana-mana pihak mati atau tidak berkeupayaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila pengantaraan berakhir dan pihak-pihak mencapai persetujuan berkenaan dengan sesuatu pertikaian, pihak-pihak itu hendaklah membuat suatu perjanjian penyelesaian."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perjanjian penyelesaian di bawah subseksyen (1) hendaklah secara bertulis dan ditandatangani oleh pihak-pihak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengantara hendaklah mengesahkan perjanjian penyelesaian itu dan memberikan suatu salinan perjanjian itu kepada pihak- pihak. Kesan perjanjian penyelesaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perjanjian penyelesaian hendaklah mengikat pihak- pihak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika prosiding telah dimulakan di mahkamah, perjanjian penyelesaian itu boleh direkodkan di hadapan mahkamah itu sebagai penghakiman persetujuan atau penghakiman mahkamah itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Perenggan 2(a)] KETIDAKPAKAIAN"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_1",
+      "@type": "akn:paragraph",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Prosiding yang melibatkan persoalan yang berbangkit tentang kesan mana-mana peruntukan Perlembagaan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_10",
+      "@type": "akn:paragraph",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding di hadapan mahkamah anak negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_11",
+      "@type": "akn:paragraph",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa perkara jenayah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_2",
+      "@type": "akn:paragraph",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Guaman yang melibatkan writ prerogatif, sebagaimana yang dinyatakan dalam Jadual kepada Akta Mahkamah Kehakiman 1964 [Akta 91]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_3",
+      "@type": "akn:paragraph",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Prosiding yang melibatkan remedi injunksi sementara atau injunksi kekal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_4",
+      "@type": "akn:paragraph",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Petisyen pilihan raya di bawah Akta Kesalahan Pilihan Raya 1954 [Akta 5]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Prosiding di bawah Akta Pengambilan Tanah 1960 [Akta 486]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Prosiding yang melibatkan penjalanan bidang kuasa asal Mahkamah Persekutuan di bawah Perkara 128 Perlembagaan Persekutuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semakan kehakiman."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Rayuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1__para_9",
+      "@type": "akn:paragraph",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/1/msa@/~sched_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semakan."
+      }
+    }
+  ]
+}

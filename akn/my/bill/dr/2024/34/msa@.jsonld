@@ -1,0 +1,200 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-34-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_11"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Eksais (Pindaan) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 91u(2) Akta ibu dipinda dengan menggantikan perkataan “Subseksyen 6(2), (3), (4) dan (5)” dengan perkataan “Subseksyen 6(2)”. Bahagian baharu XVe"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 91z bahagian yang berikut: “bahagian XVe PERUNTUKAN KHAS BERKENAAN DENGAN PULAU 1 Tafsiran 91 a a. Dalam Bahagian ini, melainkan jika konteksnya menghendaki makna yang lain, “kawasan utama kastam” ertinya Malaysia tidak termasuk Labuan, Langkawi, Tioman, Pangkor dan Pulau 1. Perniagaan runcit di Pulau 1 91ab. (1) Tiada seorang pun boleh menjual secara runcit apa-apa barang yang diisytiharkan oleh Menteri di bawah perenggan 91af(1)(a) di Pulau 1 tanpa kelulusan Menteri. (2) Permohonan bagi kelulusan di bawah subseksyen (1) hendaklah dibuat mengikut cara yang ditetapkan oleh Menteri dalam peraturan-peraturan. (3) Mana-mana orang yang melanggar seksyen ini melakukan suatu kesalahan dan hendaklah, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Ketidakpakaian Bahagian IV dan Bahagian V 91ac. Peruntukan Bahagian IV dan V Akta ini tidak terpakai bagi barang-barang yang diisytiharkan oleh Menteri di bawah perenggan 91af(1)(a) yang dikilangkan di Pulau 1. Pemakaian Akta Kastam 1967 91ad. (1) Barang-barang yang diisytiharkan oleh Menteri di bawah perenggan 91af(1)(a) yang dikilangkan di Pulau 1 hendaklah disifatkan sebagai dikilangkan di luar Malaysia. (2) Peruntukan Akta Kastam 1967 hendaklah terpakai bagi barang-barang yang diisytiharkan oleh Menteri di bawah perenggan 91af(1)(a)— (a) apabila barang-barang itu diangkut ke kawasan utama kastam dari Pulau 1 seolah-olah pengangkutan ke kawasan utama kastam itu ialah pengimportan ke dalam Malaysia; dan (b) apabila barang-barang itu diangkut ke Pulau 1 dari kawasan utama kastam seolah-olah pengangkutan ke Pulau 1 itu ialah pengeksportan dari Malaysia. Barang-barang yang dikilangkan di kawasan utama kastam hendaklah disifatkan telah dieksport apabila diangkut ke Pulau 1 91ae. Barang-barang yang diisytiharkan oleh Menteri di bawah perenggan 91af(1)(a) yang dikilangkan di kawasan utama kastam apabila diangkut ke Pulau 1 hendaklah disifatkan telah dieksport dari kawasan utama kastam ke suatu tempat di luar Malaysia bagi maksud seksyen 19 dan perenggan 28(d). Duti eksais yang berhubungan dengan Pulau 1 91af. (1) Duti eksais hendaklah kena dibayar atas— (a) semua barang berduti yang dikilangkan atau diimport masuk ke dalam Pulau 1, selain barang-barang yang diisytiharkan oleh Menteri dari semasa ke semasa melalui perintah yang disiarkan dalam Warta; dan (b) semua barang yang diisytiharkan oleh Menteri di bawah perenggan (a) yang diangkut ke kawasan utama kastam dari Pulau 1 seolah-olah pengangkutan ke kawasan utama kastam itu ialah pengimportan ke dalam Malaysia. (2) Menteri boleh, melalui perintah, menetapkan erti perkataan “nilai” berhubung dengan barang-barang yang diangkut dari Pulau 1 ke kawasan utama kastam. (3) Subseksyen 6(2) hendaklah terpakai bagi apa-apa perintah yang dibuat oleh Menteri di bawah subsekyen (1). Barang-barang yang disifatkan sebagai tidak berduti semasa berada di Pulau 1 91ag. Apa-apa barang yang diisytiharkan oleh Menteri di bawah perenggan 91af(1)(a) hendaklah, semasa berada di Pulau 1, disifatkan sebagai barang-barang tidak berduti dan peruntukan Akta ini hendaklah ditafsirkan sewajarnya. Pemungutan duti di Pulau 1 91 a h. Dalam membuat peraturan-peraturan di bawah seksyen 85 Menteri boleh membuat peruntukan— (a) bagi pemungutan di Pulau 1 duti eksais yang kena dibayar berkenaan dengan barang-barang yang diimport ke dalam Pulau 1, atau diangkut atau hampir hendak diangkut dari atau ke Pulau 1 ke atau dari kawasan utama kastam; (b) bagi batasan atau sekatan kenderaan, vesel dan kapal udara yang boleh digunakan untuk mengangkut barang-barang itu; dan (c) bagi pelesenan atau pengawalan orang atau kenderaan, vesel atau kapal udara yang mengangkut barang-barang itu.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Eksais (Pindaan) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Eksais 1976 [Akta 176], yang disebut “Akta ibu” dalam Akta ini, dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen 2(1), dengan memasukkan selepas takrif “premis berlesen” takrif yang berikut: ‘ “Pulau 1” mempunyai erti yang diberikan kepadanya di bawah subseksyen 2(1) Akta Kastam 1967;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen 2(1b), dalam takrif “kawasan utama kastam”, dengan menggantikan perkataan “dan Pangkor” dengan perkataan “, Pangkor dan Pulau 1”. Pindaan seksyen 87"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 87 Akta ibu dipinda dalam takrif “kawasan utama kastam” dengan menggantikan perkataan “dan Pangkor” dengan perkataan “, Pangkor dan Pulau 1”. Pindaan seksyen 90a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 90a(2) Akta ibu dipinda dengan menggantikan perkataan “Subseksyen 6(2), (3), (4) dan (5)” dengan perkataan “Subseksyen 6(2)”. Pindaan seksyen 91a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 91a Akta ibu dipinda dalam takrif “kawasan utama kastam” dengan menggantikan perkataan “dan Pangkor” dengan perkataan “, Pangkor dan Pulau 1”. Pindaan seksyen 91da"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 91da(2) Akta ibu dipinda dengan menggantikan perkataan “Subseksyen 6(2), (3), (4) dan (5)” dengan perkataan “Subseksyen 6(2)”. Pindaan seksyen 91e"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 91e Akta ibu dipinda dalam takrif “kawasan utama kastam” dengan menggantikan perkataan “dan Pangkor” dengan perkataan “, Pangkor dan Pulau 1”. Pindaan seksyen 91i"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 91i(2) Akta ibu dipinda dengan menggantikan perkataan “Subseksyen 6(2), (3), (4) dan (5)” dengan perkataan “Subseksyen 6(2)”. Pindaan seksyen 91q"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/34/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 91q Akta ibu dipinda dalam takrif “kawasan utama kastam” dengan menggantikan perkataan “dan Pangkor” dengan perkataan “, Pangkor dan Pulau 1”. Pindaan seksyen 91u"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-2008",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perbekalan Tambahan (2008) 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perbekalan Tambahan (2008)"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "2008. Perbelanjaan tambahan bagi tahun 2008"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Maka dengan ini dibenarkan pengeluaran sejumlah wang yang"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak melebihi dua puluh bilion satu ratus lima puluh tiga juta enam ratus tujuh puluh sembilan ribu sembilan ratus sembilan puluh tujuh ringgit (RM20,153,679,997) daripada Kumpulan Wang Disatukan bagi perbelanjaan untuk perkhidmatan dan maksud yang dinyatakan dalam Jadual bagi tahun 2008, yang tidak diperuntukkan atau yang tidak diperuntukkan dengan sepenuhnya oleh Akta Perbekalan 2008 [Akta A1321]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2008/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maksud Tajuk Amaun (RM) B. 6 Jabatan Perdana Menteri 173,210,000 B. 7 Jabatan Perkhidmatan Awam 101,000,000 B. 11 Perkhidmatan Am Perbendaharaan 15,000,000,000 B. 12 Perantukan kepada Kumpulan Wang Terkanun 300,000,000 B. 20 Kementerian Perusahaan Perladangan dan 438,000,000 Komoditi B. 21 Kementerian Pertanian dan Industri Asas Tani 2,906,200,000 B. 22 Kementerian Kemajuan Luar Bandar dan 20,000,000 Wilayah B. 23 Kementerian Sumber Asli dan Alam Sekitar 151,500,000 B. 25 Kementerian Perdagangan Dalam Negeri 276,900,000 dan Hal Ehwal Pengguna B. 28 Kementerian Pengangkutan 18,000,000 B. 31 Kementerian Pelancongan 167,000,000 B. 32 Kementerian Wilayah Persekutuan 2,151,000 B. 42 Kementerian Kesihatan 100,000,000 B. 44 Kementerian Perpaduan, Kebudayaan, 23,500,000 Kesenian dan Warisan B. 45 Kementerian Bella dan Sukan 39,000,000 B. 46 Kementerian Sumber Manusia 100,000,000 B. 48 Kementerian Pembangunan Wanita, 45,000,000 Keluarga dan Masyarakat B, 49 Kementerian Pengajian Tinggi 178,300,000 B. 62 Kementerian Dalam Negeri 113,918,997 JUMLAH 20,153,679,997"
+      }
+    }
+  ]
+}

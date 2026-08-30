@@ -1,0 +1,292 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-40-1995",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_8"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Land Code (Amendment) Bill 1995"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the National Land Code (Amendment) Act 1995."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force in each State upon such date as the Minister may, with the approval of the National Land Council, appoint in relation to that State by notification in the Gazette of the Federation, and the Minister may, with the approval of the National Land Council, appoint different dates in respect of different provisions of this Act in relation to that State."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act shall come into force in the Federal Territory of Kuala Lumpur on such date as the Minister may, by notification in the Gazette, appoint and the Minister may appoint different dates in respect of different provisions of this Act. Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The National Land Code, which in this Act is referred of section 14. to as the \"Code\", is amended in paragraph 14(l)(g) by Act 56/65. inserting after the word \"fees\" the words \"or levy\", Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 301A of the Code is amended by substituting of section for the words \"has not\" the words \"and, where applicable, 301A. any levy payable under sub-section (2) of section 433B have not\". New section"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Code is amended by inserting after section 428A"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "428AA. the following section: \"Offences 428AA. (1) Where a person charged with an committed offence under this Act or any rules made by body corporate: thereunder is a body corporate, every person officers who at the time of the commission of the offence deemed to is a director or officer of the body corporate be guilty may be charged jointly in the same proceedings with the body corporate, and where the body corporate is convicted of the offence charged, every such director or officer shall be deemed to be guilty of that offence unless he proves that the offence was committed without his knowledge or that he took reasonable precautions to prevent its commission. (2) Any person who would be liable under this Act or any rules made thereunder to any penalty for anything done or omitted if the thing had been done or omitted by him personally shall be liable to the same penalty if the thing had been done or omitted by his agent, unless he proves that he took reasonable precautions to prevent the doing or omission of the thing.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 433A of the Code is amended by substituting of section for the definition of \"foreign company\" the following 433A. definition: ' \"foreign company\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a foreign company as defined in sub-section Act 125. (1) of section 4 of the Companies Act 1965; NATIONAL LAND CODE (AMENDMENT)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a company incorporated under Companies Act 1965 with thirty per cent or more of its voting shares being held by a non-citizen, or by a foreign company referred to in paragraph (a), or by both, at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a company incorporated under Companies Act 1965 with thirty per cent or more of its voting shares being held by a company referred to in paragraph (b), or by a company referred to in paragraph (b) together with a non-citizen or a foreign company referred to in paragraph (a), at the time of the proposed acquisition of any land or any interest in land or at the time of the execution of the instrument or deed in respect of any alienated land or any interest therein, as the case may be.'."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 433B of the Code is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)— \"And provided further that no such approval shall be required in respect of any dealing effected pursuant to a sale and purchase agreement for which an approval has been granted under section 433E and executed by the same parties in such agreement.\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words \"or an interest in land\" in paragraph (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"purposes\" in the proviso the words \", or in respect of State land to be alienated for industrial purposes\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the proviso the following proviso:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word \"Authority\" second appearing in subsection (2) the words \"and to the payment of such levy as may be prescribed\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subparagraphs (1)(a)(i) and (ii) shall be deemed to have come into force on 1 January 1993. New sections"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Code is amended by re-numbering section 433E 433E, 433F as section 433H and by inserting after section 433D the and 433G. following sections: \"Other 433E. (1) Subject to any written law, a person conve- or body desiring to convey or dispose of, in a yances or disposal manner other than those specified in sub-section to non- (1) of section 433B, any alienated land or any citizen or foreign interest therein to a non-citizen or a foreign company company may be allowed to do so, but only subject to approval after the prior approval of the State Authority and has been obtained upon an application in writing payment of levy, being made by such person or body: etc. Provided that no such approval shall be required in respect of any alienated land or any interest in land which is subject to the category \"industry\" or to any condition requiring its use for industrial purposes. (2) Where the State Authority grants any approval under sub-section (1), it may be made subject to such terms and conditions as may be specified by the State Authority and to the payment of such levy as may be prescribed. (3) Any person or body conveying or disposing of, or any non-citizen or foreign company accepting the conveyance or disposal of, any alienated land or any interest therein in contravention of sub-section (1) shall be guilty of an offence, and liable on conviction to a fine of not less than one hundred thousand ringgit. NATIONAL LAND CODE (AMENDMENT) (4) Nothing contained in this section shall render invalid anything done before the commencement of this section if— (a) in respect of an instrument or a deed executed before 27 October 1995, the instrument or deed has been stamped in accordance with the provisions of the Stamp Act 1949 either before or Act 378. within one month after commencement of this section; or (b) the instrument or deed effecting any conveyance or disposal of any alienated land or any interest therein in favour of a non-citizen or a foreign company was executed on or after 27 October 1995 but before the commencement of this section, and— (i) an application in writing is made within three months of the commencement of this section for an approval under this section; (ii) any levy imposed in respect thereof has been paid; and (iii) the instrument or deed has been stamped in accordance with the provisions of the Stamp Act 1949 either before or within one month after the commencement of this (5) After the commencement of this section, any conveyance or disposal, in a manner other than those specified in sub-section (1) of section 433B, of any alienated land or any interest therein in contravention of this section shall be null and void. BILL 6 Execution 433F. (1) Subject to sections 433B and 433E, by non- after the commencement of this section, any citizen or foreign deed or instrument executed by a non-citizen company or a foreign company under a power of attorney under power of in respect of any alienated land or any interest attorney therein in favour of any person or body shall void. be void, and, in the case of an instrument of dealing, be incapable of registration. (2) Nothing contained in this section shall render invalid any deed or instrument effected by a non-citizen or a foreign company under a power of attorney in respect of any alienated land or any interest therein in favour of any person or body before the commencement of this section and stamped in accordance with Act 378. the provisions of the Stamp Act 1949 either before or within one month after such commencement. Levy to be 433G. Any levy payable under this Part shall paid within be paid in full not later than thirty days from thirty days of service the date of the service of the notice of approval of notice by the State Authority and if the levy is not of approval. paid within such time, the approval shall thereupon lapse.\". Validation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any levy collected in respect of an approval and granted under sub-section (1) of section 433B and any indemnity. rejection of any instrument of dealing for non-payment of the levy by the Land Administrator or by the Registrar of Titles, as the case may be, after 27 October 1995 until the commencement of this Act, which would have been lawful if this Act had been enacted and in force when the collection or rejection was done is hereby declared to have been lawfully collected or done, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1995/40/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action or legal proceeding whatsoever shall be brought, instituted or maintained against any Land Administrator, the Registrar of Titles, the State Director of Lands and Mines, the State Government, the Land Executive Committee for the Federal Territory of Kuala Lumpur, the Government of the Federation, or any officer acting under any of them, for any levy which was collected by any of them prior to the commencement of this Act, and if any such action or legal proceeding has been brought, instituted and maintained, it shall be discharged and made void and no refund in respect of the levy collected as aforesaid shall be made."
+      }
+    }
+  ]
+}

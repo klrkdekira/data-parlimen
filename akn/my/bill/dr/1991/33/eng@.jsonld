@@ -26,8 +26,7 @@
       "eli:number": "DR-33-1991",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_1",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~part_II"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~cl_2"
       ],
       "schema:name": {
         "@language": "en",
@@ -75,21 +74,7 @@
       },
       "schema:text": {
         "@language": "en",
-        "@value": "is amended by inserting, immediately after section 10, the following new section IOA: \"Non- 10A. (1) Notwithstanding the provisions of chargeability"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@/~part_II",
-      "@type": "akn:part",
-      "eli:number": "II",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/33/eng@",
-      "schema:name": {
-        "@language": "en",
-        "@value": "an offshore company carrying on an"
-      },
-      "schema:text": {
-        "@language": "en",
-        "@value": "to tax of offshore offshore business activity which is an offshore trading trading activity shall not be charged to tax for activity. a year of assessment if in that year of assessment that offshore company has paid a fee specified under section 151 of the Offshore Ace 441. Companies Act 1990. (2) An offshore company not chargeable to tax under subsection (1) shall within a period of three months (or any extended period as may be allowed by the Director-General) from the commencement of a year of assessment, file a statutory declaration in the prescribed form with the Director-General.\"."
+        "@value": "is amended by inserting, immediately after section 10, the following new section IOA: \"Non- 10A. (1) Notwithstanding the provisions of chargeability Part II, an offshore company carrying on an to tax of offshore offshore business activity which is an offshore trading trading activity shall not be charged to tax for activity. a year of assessment if in that year of assessment that offshore company has paid a fee specified under section 151 of the Offshore Ace 441. Companies Act 1990. (2) An offshore company not chargeable to tax under subsection (1) shall within a period of three months (or any extended period as may be allowed by the Director-General) from the commencement of a year of assessment, file a statutory declaration in the prescribed form with the Director-General.\"."
       }
     }
   ]

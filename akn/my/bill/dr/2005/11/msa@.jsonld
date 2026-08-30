@@ -1,0 +1,1034 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-11-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_41"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pendaftaran Kapal Layar Antarabangsa Langkawi (Pindaan) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 13(2) Akta ibu dipinda dengan menggantikan perkataan \"boleh\" dengan perkataan \"hendaklah\". Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) Dalam hal keadaan sebagaimana yang disifatkan sesuai oleh Ketua Pengarah, dia boleh mengeluarkan suatu faksimile atau versi penghantaran elektronik yang lain perakuan pendaftaran pendua itu, yang tidak lagi sah sebaik sahaja perakuan pendaftaran pendua itu sendiri diterima oleh pemunya.\". Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 17(6)(b) Akta ibu dipinda dengan memasukkan sebelum perkataan \"tanda\" perkataan \"ukiran dan\". (Pindaan) Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 18(4) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"peraturan-peraturan tanan yang dibuat di bawah Akta ini\" dengan perkataan \"peraturan-peraturan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"tanan\" yang terdapat sebaik selepas perkataan \"semula mengikut peraturan-peraturan\". Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 19(5) Akta ibu dipinda dengan memasukkan sebelum perkataan \"ditandakan\" perkataan \"diukir dan\". Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan \"Penandaan\" dengan perkataan \"Pengukiran dan penandaan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum perkataan \"ditandai\" di mana- mana jua terdapat perkataan \"diukir dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3) — Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"kapal layar\" perkataan \"atau suatu kapal layar tertentu\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_15__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"seksyen ini\" perkataan \", tertakluk kepada apa-apa syarat yang dia boleh kenakan\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda dengan memasukkan selepas subseksyen (7) subseksyen yang berikut: \"(8) Sesuatu kapal layar yang dicarter sebagai kapal kosong yang didaftarkan di bawah seksyen ini hendaklah bagi maksud Akta ini dianggap sebagai suatu kapal layar Langkawi dan kehendak mengenai suatu kapal layar Langkawi di bawah Akta ini hendaklah terpakai kepada kapal layar sedemikian sehingga takat kehendak itu berkaitan. (9) Jika suatu kapal layar yang dicarter sebagai kapal kosong didaftarkan di bawah seksyen ini, hak ataupun kepentingan ketuanpunyaan pemunya berkenaan dengan kapal layar itu, atau hak dan obligasi mana-mana pihak kepada suatu kontrak, Ml jualan,gadai janji,caj atau suratcaralain yang mewujudkan atau melupuskan suatu kepentingan undang-undang atau ekuiti dalam kapal layar itu, sama ada wujud pada tarikh pendaftaran kapal layar itu di bawah seksyen ini atau yang diwujudkan selepas tarikh itu, tidak akan terjejas oleh pendaftaran sedemikian atau tertakluk kepada Akta ini.\". Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 26 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (l)(c), dengan memasukkan sebelum perkataan \"ditandai\" perkataan \"diukir dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"seksyen 9\" dengan perkataan \"seksyen 8 dan 9\". Pindaan seksyen 27"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 27 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"boleh\" dengan perkataan \"hendaklah, jika dia berpuas hati,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan \"seksyen 9\" dengan perkataan \"seksyen 8 dan 9\". Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 28 Akta ibu dipinda dengan memotong perkataan \"dan apa-apa perkara atau persoalan yang berhubungan dengan pindah hakmilik, perpindahan dan gadai janji hendaklah ditentukan dengan merujuk kepada undang-undang negara tempat pendaftaran utama\". (Pindaan) Pindaan seksyen 29"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pendaftaran Kapal Layar Antarabangsa Langkawi (Pindaan) 2005."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pendaftaran Kapal Layar Antarabangsa Langkawi 2003 [Akta 630], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 29(3) Akta ibu dipinda dengan menggantikan perkataan \"Pendaftaran\" dengan perkataan \"Kecuali bagi pendaftaran pemunyaan dan gadai janji, jika ada, yang akan tetap tidak terjejas dalam Pejabat Pendaftaran, pendaftaran\". Pindaan seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 33 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"harta mengenai\" di mana- mana jua terdapat; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan \"Mahkamah Tinggi\" di mana-mana jua terdapat dengan perkataan \"Mahkamah\". Seksyen baru 33A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 33 dan sebelum Bab 3 seksyen yang berikut: \"Kuasa Mahkamah 33A. Mahkamah boleh, jika difikirkannya patut tanpa menjejaskan penjalanan apa-apa kuasa lain Mahkamah, atas permohonan mana-mana orang yang berkepentingan, membuat suatu perintah yang melarang bagi suatu masa yang dinyatakan, apa-apa urusan dengan suatu kapal layar Langkawi atau apa- apa bahagian mengenai kapal layar itu, dan Mahkamah boleh membuat perintah itu atas apa-apa terma atau syarat yang difikirkannya adil, boleh enggan untuk membuat perintah itu atau boleh membatalkan perintah itu apabila dibuat, dengan atau tanpa kos, dan pada amnya boleh bertindak dalam kes itu sebagaimana yang dikehendaki mengikut keadilan kes itu, dan KetuaPengarah, tanpa menjadi suatu pihak kepada prosiding itu, hendaklah, apabila perintah itu atau suatu salinan rasmi perintah itu disampaikan kepadanya, mematuhi perintah itu.\". Pindaan seksyen 34"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 34 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan \"mengikut susunan gadai janji itu dikemukakan kepadanya bagi tujuan pendaftaran\" dengan perkataan \"mengikut cara yang ditetapkan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Bagi maksud subseksyen (1), \"kapal layar Langkawi\" termasuklah sesuatu kapal layar yang sedang dibina.\". Pindaan seksyen 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 35 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula peruntukan yang sedia ada sebagai subseksyen (1) seksyen itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen ( 1) , dengan memotong perkataan \", melainkan jika ditetapkan selainnya,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(2) Sesuatu gadai janji berkenaan dengan suatu kapal layar yang sedang dibina hendaklah, bagi maksud menentukan keutamaan di bawah Akta ini atau mana-mana undang-undang yang lain, dan dalam semua perkara yang lain, dianggap sebagai suatu gadai janji yang didaftarkan bagi suatu kapal layar Langkawi dan hendaklah terus dianggap sedemikian sehingga gadai janji itu dilepaskan, walaupun kapal layar yang sedang dibina itu terhenti didaftarkan di bawah Akta ini; dan suatu kapal layar yang sedang dibina hendaklah, bagi maksud suatu gadai janji berkenaan dengan kapal layar yang sedang dibina itu di bawah Akta ini atau mana-mana undang-undang yang lain, dianggap sebagai harta maritim.\". (Pindaan) Seksyen baru 36A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 36 seksyen yang berikut: \"Gadai janji tidak terjejas oleh kebankrapan 36A. Sesuatu gadai janji yang didaftarkan bagi suatu kapal layar Langkawi atau sesuatu bahagian mengenai kapal layar itu tidak terjejas oleh apa-apa tindakan kebankrapan yang dilakukan oleh penggadai janji selepas tarikh pendaftaran gadai janji itu, walaupun penggadai janji pada permulaan kebankrapannya mempunyai kapal layar itu atau bahagian mengenai kapal layar itu dalam pemilikan, perintah atau pelupusannya, atau penggadai janji itu ialah pemunya kapal layar itu atau bahagian mengenai kapa! layar itu yang diketahui, dan gadai janji itu hendaklah mendapat keutamaan berbanding dengan apa-apa hak, tuntutan atau kepentingan dalam kapal layar itu atau bahagian mengenai kapal layar itu mana-mana pemiutang lain bankrap itu atau mana-mana pemegang amanah atau pemegang serah hak bagi pihak pemiutang itu.\". Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu dipinda dalam nota bahu dengan menggantikan perkataan \"pemegang gadai janji\" dengan perkataan \"penggadai janji\". Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 45(2) Akta ibu dipinda dengan memasukkan selepas perkataan \"pelayaran\" perkataan \"dan tidak dalam tempat berlabuh yang selamat yang mana kapal layar itu boleh ditinggaikan tanpa jagaan\". Pindaan seksyen 46"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_28__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 46 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan \"anak kapal\" perkataan \"pengawasan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"anak kapal\" perkataan \"pengawasan\". Pindaan tajuk Penggal 2 Bahagian IV"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tajuk Penggal 2 Bahagian IV Akta ibu dipinda dengan memasukkan selepas perkataan \"PERKHIDMATAN\" perkataan \", PENGAMBILAN KERJA DAN PELEPASAN\". Seksyen baru 46A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"kapal layar persendirian\" — \"(c) pemajak atau pencarter;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memotong perkataan \"atau\" yang terdapat selepas koma bernoktah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas koma bernoktah perkataan \"atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"Mahkamah\", dengan memasukkan selepas perkataan \"Malaysia\" perkataan \", atau berhubung dengan prosiding berkenaan, mana-mana mahkamah yang mempunyai bidang kuasa dalam perkara yang dengannya prosiding itu berkaitan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif \"perakuan tanan\", dengan memotong perkataan \"dengan mematuhi peraturan-peraturan tanan\". Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 6(7) Akta ibu dipinda dengan menggantikan perkataan \"transkrip rasmi\" dengan perkataan \"cabutan yang diperakui\". Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dalam Penggal 2 Bahagian IV dengan memasukkan selepas tajuk dan sebelum seksyen 47 seksyen yang berikut: \"Pemakaian Akta ini bagi pengambilan kerja nakhoda atau anak kapal 46A. Peruntukan Akta ini hendaklah terpakai berkenaan dengan pengambilan kerja seorang nakhoda atau anak kapal suatu kapal layar Langkawi.\". Pindaan seksyen 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 47 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"dengan pemunya kapal layar itu\" dengan perkataan \"dengan orang yang mengambilnya bekerja\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"pihak pemunya kapal layar itu\" dengan perkataan \"pihak mereka\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: \"(5) Sesuatu kontrak perseorangan berkenaan dengan pengambilan kerja seorang anak kapal suatu kapal layar Langkawi hendaklah batal dan tidak sah sehingga takat kontrak perseorangan itu berlawanan atau tidak selaras dengan terma suatu perjanjian anak kapal yang dibuat menurut seksyen ini. Pendaftaran Kapal Layar Antarabangsa Langkawi 11 (Pindaan) (6) Ketua Pengarah boleh memberikan pengecualian berkenaan dengan kapal layar Langkawi dan anak kapal yang tertentu daripada kehendak seksyen ini jika dia menentukan bahawa anak kapal yang akan diambil kerja selainnya di bawah suatu perjanjian anak kapal akan diberikan perlindungan yang secukupnya. (7) Jika suatu pengecualian diberikan di bawah subseksyen (6), suatu salinan dokumen sebagai keterangan bagi pengecualian itu hendaklah dibawa di atas kapal layar Langkawi itu.\". Penggantian seksyen 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 49 dengan seksyen yang berikut: \"Pelepasan anak kapal 49. (1) Pelepasan seorang anak kapal daripada sesuatu kapal layar Langkawi hendaklah mematuhi tatacara yang ditetapkan, yang termasuk tatacara yang perlu diikuti berkenaan dengan anak kapal yang ditinggalkan di sesuatu pelabuhan atau tempat selainnya melalui pelepasan daripada kapal layar itu. (2) Jika sesuatu kapal layar Langkawi terhenti didaftarkan di Langkawi di bawah Akta ini, mana-mana anak kapal yang diambil kerja di atas kapal layar itu hendaklah disifatkan telah dilepaskan daripada kapal layar itu sama ada atau tidak dia sebenarnya telah dilepaskan, melainkan dia memberikan keizinan secara bertulis untuk terus bekerja di atas kapal layar itu, yang dalam hal itu, seksyen 49A dan 49B hendaklah terpakai berhubung dengan upahnya seolah-olah kapal layar itu tetap sebagai suatu kapal layar Langkawi.\". Seksyen baru 49A dan 49B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 49 seksyen yang berikut: \"Pembayaran upah anak kapal 49A. (1) Jika seorang anak kapal sesuatu kapal layar Langkawi yang diambil kerja di bawah suatu perjanjian anak kapal dilepaskan, upah yang genap masa untuk dibayar kepadanya di bawah perjanjian itu hendaklah dibayar kepadanya dengan penuh pada masa dia dilepaskan. (2) Jika apa-apa jumlah yang kena dibayar kepada seorang anak kapal tidak dibayar mengikut subseksyen (1), anak kapal itu berhak atas upah itu pada kadar yang terakhirnya kena dibayar di bawah perjanjian anak kapal bagi tiap-tiap hari yang upah itu tetap tidak dibayar bagi tempoh lima puluh enam hari berikutan masa pelepasan itu; dan jika apa-apa jumlah yang kena dibayar menurut kuasa subseksyen ini tetap tidak dibayar selepas tamat tempoh itu, jumlah itu akan membawa bunga pada kadar dua puluh peratus setahun. (3) Subseksyen (2) tidak terpakai jika kegagalan untuk membayar upah disebabkan oleh— (a) suatu pertikaian yang munasabah berkenaan dengan liabiliti; (b) perbuatan atau keingkaran anak kapal; atau (c) apa-apa sebab yang lain, yang bukan perbuatan salah atau keingkaran orang yang bertanggungjawab untuk membayar upah anak kapal itu atau pekhidmat atau ejennya. Akaun upah 49B. (1) Nakhoda tiap-tiap kapal layar Langkawi hendaklah menyerahkan kepada tiap-tiap anak kapal yang diambil kerja di atas kapal layar itu di bawah suatu perjanjian anak kapal suatu akaun upah yang genap masa untuk dibayar kepadanya di bawah perjanjian anak kapal itu dan potongan yang tertakluk kepadanya upah itu kena dibayar. (2) Akaun itu hendaklah diserahkan tidak lewat dari dua puluh empat jam sebelum masa pelepasan anak kapal itu atau, jika dia dilepaskan tanpa notis atau dengan notis yang kurang dari dua puluh empat jam, pada masa dia dilepaskan.\". Pendaftaran Kapal Layar Antarabangsa Langkawi 13 (Pindaan) Pindaan seksyen 50"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 50 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa kebangsaan, dengan menggantikan perkataan \"gaji\" dengan perkataan \"upah\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"kapal layar Langkawi itu\" perkataan \"yang di atasnya dia bekerja\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) — Seksyen baru 51A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"apa-apa terma dalam perjanjian anak kapal yang telah dibuat dengan\" dengan perkataan \"terma apa-apa perjanjian yang dibuat dengan nakhoda atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_34__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"dibayar kepada\" perkataan \"nakhoda atau\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 51 dan sebelum Penggal 3 seksyen yang berikut: \"Sekatan penyerahhakan dan gadaian ke atas upah 51A. Berkenaan dengan upah yang genap masa atau terakru kepada seorang nakhoda atau anak kapal yang diambil kerja di atas suatu kapal layar Langkawi— (a) upah itu tidak boleh tertakluk kepada penahanan; (b) suatu penyerahhakan upah sebelum ia terakru tidak terikat kepada nakhoda atau anak kapal itu, dan pembayaran upah kepada nakhoda atau anak kapal itu hendaklah sah walaupun apa-apa penyerahhakan atau gadaian yang terdahulu; dan (c) suatu surat kuasa wakil atau kuasa bagi penerimaan upah itu tidak boleh menjadi tidak batal.\". Pindaan seksyen 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 53 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: \"(1A) Sesuatu permohonan untuk dokumen pengenalan anak kapal hendaklah dibuat kepada Ketua Pengarah dalam borang yang ditetapkan, dan hendaklah disertakan dengan fi yang ditetapkan.\". Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 54 dengan seksyen yang berikut: \"54. (1) Ketua Pengarah boleh mengeluarkan kepada seorang anak kapal yang diambil kerja atau telah bekerja di atas suatu kapal layar Langkawi sesuatu buku pelepasan yang mengandungi butir yang ditetapkan, termasuk butir berkenaan dengan pemegang buku pelepasan itu. (2) Ketua Pengarah boleh menghendaki anak kapal untuk memohon bagi suatu buku pelepasan dalam borang yang ditetapkan dan hendaklah disertakan dengan fi yang ditetapkan. (3) Ketua Pengarah boleh mengeluarkan semula atau menarik balik sesuatu buku pelepasan.\". Pindaan seksyen 58"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_38__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_38__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 58(12) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_38__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"Jika\" perkataan \"tanpa sebab-sebab yang boleh diterima oleh Ketua Pengarah,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_38__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_38",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"peraturan- peraturan yang dibuat di bawah seksyen ini\" perkataan \"dan gagal untuk meremedi pelanggaran atau kegagalan sedemikian dalam tempoh masa yang dinyatakan\". Pendaftaran Kapal Layar Antarabangsa Langkawi 15 (Pindaan) Pindaan seksyen 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 60(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (k) dengan perenggan yang berikut: \"(k) menetapkan dan mengadakan peruntukan bagi fi yang kena dibayar berkaitan dengan penyediaan apa-apa perkhidmatan oleh Ketua Pengarah atau apa-apa perkara lain di bawah Akta ini, termasuk dius tanan tahunan, cara untuk memungut dan membayar fi sedemikian dan bagi perkara yang berhubungan dengan kegagalan untuk membayar fi sedemikian;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (n), dengan menggantikan perkataan \"memastikan keselamatan\" dengan perkataan \"keselamatan, kesihatan dan kebajikan\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (o) dengan perenggan yang berikut: \"(o) mengadakan peruntukan untuk memberikan kuat kuasa kepada peruntukan yang berkaitan dalam mana-mana konvensyen antarabangsa dan surat cara triti yang lain yang mana Malaysia adalah suatu pihak, setakat mana konvensyen atau surat cara triti itu berhubung dengan keselamatan maritim, sekuriti maritim dan perlindungan alam sekitar marin mengenai kapal layar;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (p) dengan perenggan yang berikut: \"(p) mengadakan peruntukan bagi pembangunan kod yang mengawal selia perkara berkenaan dengan keselamatan maritim, sekuriti maritim, perlindungan alam sekitar marin dan apa-apa perkara teknikal dan berhubung dengan anak kapal lain yang berkaitan dengan kapal Langkawi;\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (q), dengan memasukkan selepas perkataan \"mengadakan peruntukan mengenai\" perkataan \"tatacara berkenaan dengan pengambilan kerja dan pelepasan, dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_39",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (r), dengan menggantikan perkataan \"dan penyenggaraan\" dengan perkataan \", penyenggaraan dan penyerahan\". Seksyen baru 60A dan 60B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 8(1) Akta ibu dipinda dalam perenggan (a) dengan memasukkan selepas perkataan \"Malaysia\" perkataan \"atau orang perseorangan yang bukan rakyat Malaysia\". Seksyen baru 9A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 60"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen yang berikut: \"Perubahan fi 60A. Menteri boleh, apabila ternyata padanya perlu atau suai manfaat, membuat apa-apa perubahan kepada fi yang ditetapkan sebagaimana yang difikirkannya sesuai. Pengubahsuaian borang 60B. Ketua Pengarah boleh membuat apa-apa pengubahsuaian kepada borang yang ditetapkan sebagaimana yang difikirkannya perlu dan patut.\". Seksyen baru 61A dan 61B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 61"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seksyen yang berikut: \"Pemfailan elektronik dokumen 61A. (1) Ketua Pengarah boleh menyediakan suatu perkhidmatan bagi pemfailan atau penyerahsimpanan elektronik mana-mana dokumen yang dikehendaki oleh Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini untuk dikemukakan kepada Ketua Pengarah. (2) Seseorang yang bercadang untuk menggunakan perkhidmatan yang disediakan di bawah subseksyen (1) hendaklah menjadi seorang pelanggan kepada perkhidmatan itu dengan membayar fi yang ditetapkan dan mematuhi apa- apa terma dan syarat sebagaimana yang ditentukan oleh Ketua Pengarah. Pendaftaran Kapal Layar Antarabangsa Langkawi 17 (Pindaan) (3) Hanya seseorang pelanggan kepada perkhidmatan yang disediakan di bawah subseksyen (1) boleh memfail dan menyerah simpan dokumen secara elektronik dengan Ketua Pengarah. (4) Ketua Pengarah boleh menentukan dokumen yang boleh difailkan atau diserah simpan secara elektronik. (5) Suatu dokumen yang difailkan atau diserah simpan secara elektronik di bawah seksyen ini hendaklah disifatkan telah mematuhi kehendak bagi pengemukaan dokumen sedemikian jika dokumen itu disampaikan atau dihantar kepada Ketua Pengarah mengikut apa-apa cara sebagaimana yang ditentukan oleh Ketua Pengarah. (6) Suatu dokumen yang dikehendaki supaya disetem, ditandatangani atau dimeterai hendaklah, jika dokumen itu dikehendaki supaya difailkan atau diserah simpan secara elektronik, diperakui atau disahkan mengikut apa-apa cara sebagaimana yang ditentukan oleh Ketua Pengarah. (7) Suatu salinan atau cabutan daripada mana-mana dokumen yang difail atau diserah simpan secara elektronik dengan Ketua Pengarah di bawah subseksyen (1) yang dibekalkan atau dikeluarkan oleh Ketua Pengarah dan diperakui di bawah tandatangan Ketua Pengarah sebagai salinan yang benar atau cabutan daripada dokumen sedemikian hendaklah boleh diterima sebagai keterangan dalam apa-apa prosiding sebagai mempunyai kesahan yang sama dengan dokumen asal. (8) Jika sesuatu dokumen difailkan atau diserah simpan secara elektronik dengan Ketua Pengarah, Ketua Pengarah tidak bertanggungan bagi apa-apa kerugian atau kerosakan yang ditanggung oleh mana-mana orang oleh sebab apa-apa jua jenis kesilapan atau peninggalan atau yang bagaimana jua pun berbangkit yang terdapat dalam apa-apa dokumen yang diperoleh oleh mana-mana orang di bawah perkhidmatan yang dirujuk dalam subseksyen (1), jika kesilapan atau peninggalan itu dibuat dengan suci hati dan dalam penjalanan biasa penunaian kewajipan Ketua Pengarah atau yang berlaku atau berbangkit akibat daripada apa-apa kecacatan atau kerosakan dalam perkhidmatan atau pada kelengkapan yang digunakan bagi penyediaan perkhidmatan itu. Perbelanjaan untuk penghantaran dokumen 61B. Jika berkaitan dengan apa-apa perkhidmatan, transaksi atau perkara Ketua Pengarah berpendapat bahawa perbelanjaan telah ditanggung untuk menghantarkan maklumat atau dokumen lain ke terapat di dalam Malaysia atau di luar Malaysia melalui pos, telegram, faksimile atau cara seumpama yang lain, maka hendaklah kena dibayar sebagai tambahan kepada fi yang ditetapkan, perbelanjaan yang ditanggung berkenaan dengan perkhidmatan, transaksi atau perkara itu.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 9 seksyen yang berikut: \"Pendaftaran sementara semasa pemindahan hakmilik pemunyaan kapal layar atau bahagian 9A. (1) Sesuatu permohonan untuk pendaftaran sementara sesuatu kapal layar semasa pemindahan hakmilik pemunyaan kapal layar itu atau sesuatu bahagian mengenai kapal layar itu boleh, tertakluk kepada syarat yang ditetapkan, dibuat kepada Ketua Pengarah dalam borang yang ditetapkan dan hendaklah disertakan dengan fi yang ditetapkan. (2) Apabila sesuatu kapal layar didaftarkan sementara, Ketua Pengarah hendaklah mengeluarkan berkenaan dengan kapal layar itu suatu perakuan pendaftaran sementara dalam borang yang ditetapkan. (Pindaan) (3) Bagi mengelakkan keraguan— (a) sesuatu kapal layar yang didaftarkan di bawah seksyen ini hendaklah disifatkan sebagai suatu kapal layar Langkawi; dan (b) apa-apa rujukan tentang \"pemunya\" dalam Akta ini hendaklah, sepanjang tempoh pendaftaran sementara kapal layar itu, disifatkan sebagai suatu rujukan tentang orang yang kepadanya pemunyaan kapal layar itu atau bahagian mengenai kapal layar itu sedang dipindahkan hakmiliknya.\". Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda dengan memotong subseksyen (3). Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda dengan menggantikan perkataan \"pelayaran\" dengan perkataan \"pengendalian\". Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 12(1) Akta ibu dipinda dengan memasukkan sebelum perkataan \"mendaftarkan\" perkataan \", atas permintaan pemunya baru,\". Seksyen baru 12A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/11/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 12 seksyen yang berikut: \"Pendaftaran perubahan 12A. (1) Jika sesuatu kapal layar Langkawi diubah sebegitu rupa sehingga tidak bersamaan dengan butir yang berhubungan dengan tanan atau perihalan kapal layar itu sebagaimana yang terkandung dalam Daftar Kapal Layar, Ketua Pengarah hendaklah, apabila sesuatu permohonan dibuat kepadanya oleh pemunya kapal layar itu dan apabila menerima suatu perakuan daripada seorang juruukur yang menyatakan butir mengenai perubahan itu, sama ada menyebabkan perubahan itu didaftarkan atau mengarahkan supaya kapal layar itu didaftarkan semula. (2) Bagi maksud pendaftaran suatu perubahan dalam sesuatu kapal layar, perakuan pendaftaran hendaklah dikemukakan kepada Ketua Pengarah, dan sama ada perakuan itu boleh disimpan oleh Ketua Pengarah dan suatu perakuan baru dikeluarkan yang mengandungi perihalan mengenai kapal layar itu sebagaimana yang diubah, atau suatu pengendorsan boleh dibuat dan ditandatangani pada perakuan pendaftaran yang sedia ada yang mengandungi suatu notasi mengenai perubahan itu. (3) Butir mengenai perubahan sepertimana yang telah dibuat, dan hakikat bahawa suatu perakuan pendaftaran baru telah dikeluarkan, atau suatu pengendorsan telah dibuat pada perakuan pendaftaran yang sedia ada, hendaklah dicatatkan dalam Daftar Kapal Layar.\". Pindaan seksyen 13"
+      }
+    }
+  ]
+}

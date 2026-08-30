@@ -1,0 +1,2937 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-14-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Profesion Kerja Sosial 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "MAJLIS PROFESION KERJA SOSIAL MALAYSIA Penubuhan Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENGAMAL KERJA SOSIAL DAN PELATIH KERJA SOSIAL Pendaftar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Majlis hendaklah menjadi Pendaftar di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah mempunyai kewajipan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengeluaran perakuan amalan, perakuan amalan sementara dan perakuan interim;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penyenggaraan Daftar; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan apa-apa arahan lain sebagaimana yang ditentukan oleh Majlis. Daftar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah menyimpan dan menyenggara suatu daftar yang dikenali sebagai “Daftar Pengamal Kerja Sosial dan Pelatih Kerja Sosial” dalam bentuk dan mengikut cara sebagaimana yang ditentukan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang boleh, setelah membayar fi yang ditetapkan, membuat suatu salinan atau mengambil cabutan daripada Daftar sebagaimana yang ditentukan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Daftar yang disenggara di bawah Akta ini hendaklah disifatkan menjadi suatu dokumen awam dalam pengertian Akta Keterangan 1950 [Akta 56]. Perakuan amalan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang selain daripada pegawai awam yang berhasrat untuk memberikan perkhidmatan kerja sosial atau seseorang pegawai awam yang memberikan perkhidmatan kerja sosial di luar tugasnya sebagai pegawai awam hendaklah memohon kepada Majlis bagi suatu perakuan amalan, dalam bentuk dan mengikut cara sebagaimana yang ditetapkan dan permohonan itu hendaklah disertakan dengan fi yang ditetapkan, jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia seorang warganegara Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memegang suatu ijazah sarjana muda dalam kerja sosial atau apa-apa ijazah sarjana muda yang berhubungan dengan kerja sosial; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ialah seorang pekerja sosial berdaftar di suatu negara asing yang diiktiraf oleh Majlis; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memegang apa-apa kelayakan lain sebagaimana yang ditetapkan termasuk kehendak bagi piawaian kompetensi yang diakreditasi; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia telah memperoleh pengalaman dalam perkhidmatan kerja sosial bagi suatu tempoh sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas menimbangkan permohonan itu, Majlis boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meluluskan permohonan bagi perakuan amalan itu dan Pendaftar hendaklah mengeluarkan perakuan amalan kepada pemohon itu mengikut tatacara sebagaimana yang ditetapkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menolak permohonan itu dan Pendaftar hendaklah memberitahu pemohon itu dengan memberikan sekurang-kurangnya tiga puluh hari notis secara bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perakuan amalan hendaklah sah bagi tempoh dua tahun dari tarikh pengeluaran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu permohonan bagi pembaharuan perakuan amalan hendaklah dibuat dalam tempoh tidak kurang dari sembilan puluh hari sebelum tarikh tamat tempoh perakuan amalan itu mengikut cara sebagaimana yang ditetapkan dan permohonan itu hendaklah disertakan dengan fi yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas menimbangkan permohonan itu, Majlis boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meluluskan permohonan bagi pembaharuan perakuan amalan itu dan Pendaftar hendaklah mengeluarkan perakuan amalan kepada pemohon itu mengikut tatacara sebagaimana yang ditetapkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menolak permohonan bagi pembaharuan perakuan amalan itu dan Pendaftar hendaklah memberitahu pemohon itu dengan memberikan sekurang-kurangnya tiga puluh hari notis secara bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan yang dibuat lewat dari tempoh yang dikehendaki di bawah subseksyen (4) tidak boleh dibenarkan melainkan jika suatu fi tambahan yang ditetapkan telah dibayar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang memegang perakuan amalan boleh, melalui notis secara bertulis, menyerahkan perakuan amalannya kepada Majlis dan penyerahan itu hendaklah berkuat kuasa pada tarikh Majlis menerima perakuan amalan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa pun dalam seksyen ini boleh ditafsirkan sebagai menghalang seorang pegawai awam untuk memberikan perkhidmatan kerja sosial dalam menjalankan tugasnya sebagai pegawai awam tanpa memegang suatu perakuan amalan. Perakuan amalan sementara"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang bukan warganegara Malaysia yang berhasrat untuk memberikan perkhidmatan kerja sosial, atau seseorang majikan yang berhasrat untuk menggaji orang itu hendaklah memohon kepada Majlis bagi suatu perakuan amalan sementara dalam bentuk dan mengikut cara sebagaimana yang ditetapkan dan permohonan itu hendaklah disertakan dengan fi yang ditetapkan, jika dia memenuhi kehendak prasyarat sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas menimbangkan permohonan itu, Majlis boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meluluskan permohonan bagi perakuan amalan sementara itu dan Pendaftar hendaklah mengeluarkan perakuan amalan sementara kepada pemohon itu mengikut tatacara sebagaimana yang ditetapkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menolak permohonan itu dan Pendaftar hendaklah memberitahu pemohon itu dengan memberikan sekurang-kurangnya tiga puluh hari notis secara bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perakuan amalan sementara hendaklah sah bagi tempoh satu tahun dari tarikh pengeluaran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu permohonan bagi pembaharuan perakuan amalan sementara hendaklah dibuat dalam tempoh tidak kurang dari enam puluh hari sebelum tarikh tamat tempoh perakuan amalan sementara itu mengikut cara sebagaimana yang ditetapkan dan permohonan itu hendaklah disertakan dengan fi yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas menimbangkan permohonan itu, Majlis boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meluluskan permohonan bagi pembaharuan perakuan amalan sementara itu dan Pendaftar hendaklah mengeluarkan perakuan amalan sementara kepada pemohon itu mengikut tatacara sebagaimana yang ditetapkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menolak permohonan bagi pembaharuan perakuan amalan sementara dan Pendaftar hendaklah memberitahu pemohon itu dengan memberikan sekurang-kurangnya tiga puluh hari notis secara bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa permohonan yang dibuat lewat dari tempoh yang dikehendaki di bawah subseksyen (4) tidak boleh dibenarkan melainkan jika suatu fi tambahan yang ditetapkan telah dibayar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perakuan amalan sementara boleh diperbaharui oleh Majlis sekali sahaja bagi tempoh satu tahun apabila tamat tempohnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang yang memegang perakuan amalan sementara boleh, melalui notis secara bertulis, menyerahkan perakuan amalan sementaranya kepada Majlis dan penyerahan itu hendaklah berkuat kuasa pada tarikh Majlis menerima perakuan amalan sementara itu. Perakuan interim"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang hendaklah memohon kepada Majlis bagi suatu perakuan interim, semata-mata bagi maksud mendapatkan pengalaman dalam perkhidmatan kerja sosial bagi tempoh satu tahun, dalam bentuk dan mengikut cara sebagaimana yang ditetapkan dan permohonan itu hendaklah disertakan dengan fi yang ditetapkan, jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia ialah seorang warganegara Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia memegang suatu ijazah sarjana muda dalam kerja sosial atau apa-apa ijazah sarjana muda yang berhubungan dengan kerja sosial; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia memegang apa-apa kelayakan lain sebagaimana yang ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas menimbangkan permohonan itu, Majlis boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "meluluskan permohonan bagi perakuan interim itu dan Pendaftar hendaklah mengeluarkan perakuan interim kepada pemohon itu mengikut tatacara sebagaimana yang ditetapkan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menolak permohonan itu dan Pendaftar hendaklah memberitahu pemohon itu dengan memberikan sekurang-kurangnya tiga puluh hari notis secara bertulis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan subseksyen (1), jika seseorang yang memegang perakuan interim tidak dapat melengkapkan pengalaman yang dikehendaki dalam tempoh yang dinyatakan, orang itu boleh memohon kepada Majlis, dan Majlis boleh, dalam keadaan khusus, melanjutkan tempoh perakuan interim itu dalam bentuk dan mengikut cara sebagaimana yang ditetapkan. Kewajipan untuk memberikan maklumat dan dokumen"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh, melalui notis secara bertulis, mengarahkan seseorang pemohon, pengamal kerja sosial atau pelatih kerja sosial untuk memberikan apa-apa maklumat atau dokumen tambahan kepada Majlis dalam tempoh sebagaimana yang dinyatakan dalam notis itu atau apa-apa tempoh lanjutan yang dibenarkan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang diarahkan untuk memberikan atau mengemukakan apa-apa maklumat atau dokumen di bawah subseksyen (1) hendaklah memastikan bahawa maklumat atau dokumen yang diberikan atau dikemukakan itu adalah benar, tepat dan lengkap."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pengamal kerja sosial atau pelatih kerja sosial hendaklah memberitahu Pendaftar secara bertulis mengenai apa-apa perubahan maklumat yang dinyatakan dalam perakuan amalan, perakuan amalan sementara atau perakuan interim itu dalam tempoh tiga puluh hari dari tarikh perubahan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_III__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (2) atau (3) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua ribu ringgit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membatalkan pelantikan seseorang anggota Majlis yang dilantik di bawah perenggan 3(2)(c) hingga (g) tanpa memberikan apa-apa sebab bagi pembatalan tersebut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Majlis yang dilantik di bawah perenggan 3(2)(c) hingga (g) boleh meletakkan jawatannya dengan memberikan sekurang-kurangnya tiga puluh hari notis secara bertulis kepada Menteri. Pengosongan jawatan dan pengisian kekosongan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatan seseorang anggota Majlis yang disebut dalam perenggan 3(2)(c) hingga (g) hendaklah menjadi kosong—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia meninggal dunia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika telah dibuktikan terhadapnya, atau dia telah disabitkan atas, suatu pertuduhan berkenaan dengan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan yang melibatkan fraud atau kecurangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu kesalahan di bawah mana-mana undang-undang yang berhubungan dengan rasuah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan, sama ada pemenjaraan itu sahaja atau sebagai tambahan atau sebagai ganti suatu denda;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika kelakuannya, sama ada berkaitan dengan tugasnya sebagai anggota Majlis atau sebaliknya, telah mencemarkan nama baik Majlis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia menjadi bankrap yang belum dilepaskan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika dia tidak sempurna akal atau selainnya tidak berupaya menunaikan kewajipannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pelantikannya dibatalkan oleh Menteri; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika peletakan jawatannya diterima oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang anggota yang dilantik di bawah perenggan 3(2)(c) hingga (g) terhenti menjadi seorang anggota Majlis, Menteri hendaklah melantik mana-mana orang lain bagi menggantikannya dan anggota yang dilantik itu hendaklah memegang jawatan bagi baki tempoh pelantikan anggota yang digantinya itu. Arahan oleh Menteri"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah bertanggungjawab kepada Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, secara bertulis, memberi Majlis arahan bersifat am yang selaras dengan peruntukan Akta ini dan di bawah mana-mana undang-undang bertulis yang sedang berkuat kuasa di Malaysia, yang berhubungan dengan pelaksanaan fungsi dan kuasa Majlis dan Majlis hendaklah melaksanakan arahan tersebut. Laporan dan maklumat"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah memberi Menteri apa-apa laporan dan maklumat berkenaan dengan aktivitinya sebagaimana yang dikehendaki atau diarahkan oleh Menteri dari semasa ke semasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Laporan dan maklumat itu hendaklah dalam apa-apa bentuk dan hendaklah mengandungi apa-apa maklumat yang berhubungan dengan prosiding dan dasar Majlis dan apa-apa perkara lain sebagaimana yang dinyatakan oleh Menteri dari semasa ke semasa. Majlis boleh menubuhkan jawatankuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh menubuhkan apa-apa jawatankuasa yang difikirkannya perlu atau suai manfaat untuk membantunya dalam melaksanakan fungsinya atau menjalankan kuasanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu jawatankuasa yang ditubuhkan di bawah subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah dipengerusikan oleh mana-mana anggota Majlis yang dilantik oleh Majlis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah tertakluk kepada dan bertindak mengikut apa-apa arahan yang diberikan oleh Majlis kepada jawatankuasa; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "hendaklah mematuhi apa-apa tatacara yang ditentukan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota jawatankuasa hendaklah dilantik dalam kalangan anggota Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota jawatankuasa hendaklah memegang jawatan bagi apa-apa tempoh sebagaimana yang dinyatakan oleh Majlis dalam surat pelantikannya dan hendaklah layak untuk dilantik semula."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh membatalkan pelantikan mana-mana anggota jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota jawatankuasa boleh meletak jawatan dengan memberikan sekurang-kurangnya tiga puluh hari notis secara bertulis kepada pengerusi jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh menamatkan atau mengubah keanggotaan sesuatu jawatankuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa boleh mengundang mana-mana orang untuk menghadiri mana-mana mesyuarat jawatankuasa bagi maksud menasihatinya tentang apa-apa perkara yang sedang dibincangkan. Penzahiran kepentingan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Majlis atau suatu jawatankuasa atau mana-mana orang yang dijemput untuk menghadiri mesyuarat Majlis atau jawatankuasa, yang mempunyai secara langsung atau tidak langsung, apa-apa kepentingan berhubungan dengan apa-apa perkara yang sedang dibincangkan oleh Majlis atau jawatankuasa hendaklah menzahirkan kepada Majlis atau jawatankuasa, mengikut mana-mana yang berkenaan, hakikat dan jenis kepentingannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Penzahiran di bawah subseksyen (1) hendaklah direkodkan dalam minit mesyuarat Majlis atau jawatankuasa, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Selepas penzahiran di bawah subseksyen (1), anggota Majlis atau jawatankuasa atau mana-mana orang yang dijemput untuk menghadiri mesyuarat Majlis atau jawatankuasa itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak boleh mengambil bahagian atau hadir dalam apa-apa pertimbangtelitian atau semasa Majlis atau jawatankuasa membuat apa-apa keputusan, mengikut mana-mana yang berkenaan, mengenai perkara itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak boleh diambil kira bagi maksud membentuk korum Majlis atau jawatankuasa, mengikut mana-mana yang berkenaan, dalam pertimbangtelitian atau semasa membuat apa-apa keputusan berhubungan dengan perkara itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Majlis atau jawatankuasa yang tidak menzahirkan kepentingannya sebagaimana yang dikehendaki di bawah subseksyen (1) hendaklah dibatalkan pelantikannya oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan atau prosiding Majlis atau jawatankuasa boleh menjadi tidak sah atas alasan bahawa mana-mana anggota Majlis atau jawatankuasa telah melanggar seksyen ini. Dana Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kerajaan hendaklah memperuntukkan dana yang mencukupi bagi Majlis secara tahunan untuk membolehkan Majlis melaksanakan fungsinya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu majlis yang dikenali sebagai “Majlis Profesion Kerja Sosial Malaysia” ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Kementerian yang bertanggungjawab bagi pembangunan wanita, keluarga dan masyarakat yang hendaklah menjadi Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Kebajikan Masyarakat yang hendaklah menjadi Timbalan Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang pengamal kerja sosial daripada setiap negeri di Semenanjung Malaysia dan Wilayah Persekutuan Labuan yang dilantik oleh Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang pengamal kerja sosial yang bermastautin di Sabah yang dilantik oleh Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seorang pengamal kerja sosial yang bermastautin di Sarawak yang dilantik oleh Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada sepuluh orang yang mempunyai pengalaman, pengetahuan dan kepakaran yang bersesuaian bagi perkara yang berhubungan dengan kerja sosial daripada sektor awam yang dilantik oleh Menteri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada sepuluh orang yang mempunyai pengalaman, pengetahuan dan kepakaran yang bersesuaian bagi perkara yang berhubungan dengan kerja sosial daripada sektor swasta yang dilantik oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang anggota Majlis yang dilantik di bawah perenggan (2)(c) hingga (g), melainkan jika dia terlebih dahulu meletak jawatan atau mengosongkan jawatannya atau pelantikannya terlebih dahulu dibatalkan, hendaklah memegang jawatan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "selama tempoh yang tidak melebihi dua tahun; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "layak untuk dilantik semula apabila tamat tempoh jawatannya yang tidak melebihi dua penggal berturut-turut."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (2) dan (3), Majlis pertama hendaklah dilantik oleh Menteri bagi suatu tempoh yang tidak melebihi dua tahun dan hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Kementerian yang bertanggungjawab bagi pembangunan wanita, keluarga dan masyarakat yang hendaklah menjadi Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Kebajikan Masyarakat yang hendaklah menjadi Timbalan Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada sepuluh orang yang mempunyai pengalaman, pengetahuan dan kepakaran yang bersesuaian bagi perkara yang berhubungan dengan kerja sosial daripada sektor awam yang dilantik oleh Menteri; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tidak lebih daripada sepuluh orang yang mempunyai pengalaman, pengetahuan dan kepakaran yang bersesuaian bagi perkara yang berhubungan dengan kerja sosial daripada sektor swasta yang dilantik oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh menentukan tatacaranya sendiri. Fungsi Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_g"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah mempunyai fungsi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk meluluskan permohonan perakuan amalan, perakuan amalan sementara dan perakuan interim;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membangunkan piawaian kompetensi profesional dan memastikan jaminan kualiti program dalam bidang perkhidmatan kerja sosial;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengawal selia etika dan kelakuan profesional pengamal kerja sosial dan pelatih kerja sosial;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengadakan atau menyebabkan untuk diadakan secara berterusan program pembangunan profesional bagi pengamal kerja sosial bagi memupuk pengetahuan, kemahiran dan nilai etika;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mempromosikan apa-apa aktiviti yang berhubungan dengan kesedaran mengenai profesion kerja sosial;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk berunding dan menilai peluasan pemakaian Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk melakukan apa-apa perkara lain sebagaimana yang difikirkannya patut untuk membolehkannya untuk melaksanakan fungsinya dengan berkesan atau yang bersampingan dengan pelaksanaan fungsinya. Kuasa Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh melakukan semua perkara yang perlu atau suai manfaat bagi, atau berkaitan dengan, pelaksanaan fungsinya di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan subseksyen (1), kuasa Majlis hendaklah termasuk kuasa untuk—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengenakan fi atau apa-apa caj lain sebagaimana yang difikirkannya patut bagi pelaksanaan fungsinya atau penjalanan kuasanya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menamakan mana-mana badan atau orang untuk menjalankan program latihan dan pembangunan atau melaksanakan aktiviti jaminan kualiti bagi Majlis; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat rundingan sebagaimana yang difikirkannya patut bagi pelaksanaan fungsinya. Mesyuarat Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah mengadakan mesyuaratnya sekurang-kurangnya dua kali setahun pada masa, tempat dan mengikut cara sebagaimana yang ditentukan oleh Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tidak kurang daripada dua belas orang anggota, termasuk Pengerusi, hendaklah membentuk korum suatu mesyuarat Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh mengundang mana-mana orang untuk menghadiri mana-mana mesyuarat Majlis bagi maksud menasihatinya tentang apa-apa perkara yang sedang dibincangkan. Elaun"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Anggota Majlis yang menghadiri mana-mana mesyuarat Majlis dan jawatankuasa boleh dibayar apa-apa elaun sebagaimana yang ditentukan oleh Menteri selepas berunding dengan Menteri Kewangan. Penjalanan sementara fungsi Pengerusi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Pengerusi hendaklah bertindak sebagai Pengerusi bagi tempoh apabila—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jawatan Pengerusi kosong;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi tidak hadir bertugas atau berada di luar Malaysia; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi, atas apa-apa sebab lain, tidak dapat menjalankan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika kedua-dua Pengerusi dan Timbalan Pengerusi atas apa-apa sebab tidak dapat melaksanakan fungsi Pengerusi atau semasa apa-apa tempoh kekosongan jawatan Pengerusi dan Timbalan Pengerusi, Menteri boleh melantik mana-mana anggota Majlis untuk melaksanakan fungsi Pengerusi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Timbalan Pengerusi atau anggota yang dilantik di bawah subseksyen (2), mengikut mana-mana yang berkenaan, hendaklah, dalam tempoh dia melaksanakan fungsi Pengerusi di bawah seksyen ini, disifatkan sebagai Pengerusi. Setiausaha Majlis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik seorang pegawai awam daripada Kementerian yang bertanggungjawab bagi pembangunan wanita, keluarga dan masyarakat untuk menjadi Setiausaha Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Majlis hendaklah bertanggungjawab bagi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pengurusan harian hal ehwal Majlis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelaksanaan keputusan Majlis; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pelaksanaan apa-apa kewajipan lain sebagaimana yang diarahkan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setiausaha Majlis hendaklah, dalam menjalankan tanggungjawabnya, bertindak di bawah kuasa dan arahan Majlis. Pembatalan pelantikan dan peletakan jawatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PROSIDING TATATERTIB Pihak berkuasa tatatertib"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis hendaklah mempunyai kuasa tatatertib ke atas semua pengamal kerja sosial dan pelatih kerja sosial dan hendaklah menjalankan kawalan tatatertib terhadap semua pengamal kerja sosial dan pelatih kerja sosial menurut Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (1), Majlis boleh menjalankan kuasa tatatertib ke atas mana-mana pengamal kerja sosial atau pelatih kerja sosial—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang didakwa telah melakukan salah laku profesional sebagaimana yang ditetapkan di bawah peraturan-peraturan yang dibuat di bawah Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang melanggar mana-mana peruntukan Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud yang disebut dalam subseksyen (1), hendaklah ditubuhkan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu Jawatankuasa Penyiasatan yang terdiri daripada seorang anggota Majlis yang hendaklah menjadi pengerusi dan tiga orang anggota yang terdiri daripada pengamal kerja sosial dan pegawai awam yang mempunyai pengalaman, pengetahuan dan kepakaran yang sesuai dan berkaitan sebagaimana yang dilantik oleh Majlis untuk menyiasat suatu aduan yang dibuat terhadap mana-mana pengamal kerja sosial atau pelatih kerja sosial; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu Jawatankuasa Tatatertib yang terdiri daripada seorang anggota Majlis yang hendaklah menjadi pengerusi dan lima orang anggota lain dalam kalangan anggota Majlis dan pegawai awam yang mempunyai pengalaman, pengetahuan dan kepakaran yang sesuai dan berkaitan sebagaimana yang dilantik oleh Majlis, yang bukan anggota Jawatankuasa Penyiasatan, untuk menjalankan dan memutuskan prosiding tatatertib bagi pihak Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (3), setiap Jawatankuasa Penyiasatan dan Jawatankuasa Tatatertib hendaklah terdiri daripada sekurang-kurangnya seorang pegawai awam daripada Kementerian yang bertanggungjawab bagi pembangunan wanita, keluarga dan masyarakat. Tanggungjawab Jawatankuasa Penyiasatan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu aduan terhadap mana-mana pengamal kerja sosial atau pelatih kerja sosial hendaklah dialamatkan kepada Pendaftar yang hendaklah merujuk aduan itu kepada Jawatankuasa Penyiasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Penyiasatan hendaklah menyiasat aduan itu dan hendaklah, tidak melebihi dua bulan dari tarikh penerimaan aduan itu daripada Pendaftar, mengemukakan laporannya mengenai aduan tersebut kepada Jawatankuasa Tatatertib."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu laporan di bawah subseksyen (2) hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyatakan sama ada wujud alasan yang memadai bagi prosiding tatatertib diambil terhadap seseorang pengamal kerja sosial atau pelatih kerja sosial; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "disertakan dengan apa-apa bukti sebagaimana yang diperoleh oleh Jawatankuasa Penyiasatan bagi menyokong pernyataan itu. Siasatan oleh Jawatankuasa Tatatertib"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Setelah laporan dikemukakan oleh Jawatankuasa Penyiasatan, Jawatankuasa Tatatertib hendaklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyiasat kes itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "membuat suatu keputusan dalam tempoh tidak melebihi tiga bulan dari tarikh penerimaan laporan itu daripada Jawatankuasa Penyiasatan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pengamal kerja sosial atau pelatih kerja sosial yang telah diambil terhadapnya prosiding tatatertib hendaklah diberi peluang untuk membuat representasi terhadap pertuduhan tatatertib yang dikenakan terhadapnya sebelum suatu keputusan dibuat oleh Jawatankuasa Tatatertib."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_25",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengamal kerja sosial atau pelatih kerja sosial yang terhadapnya prosiding tatatertib telah diambil hendaklah diberitahu oleh Pendaftar melalui pos berdaftar tentang keputusan Jawatankuasa Tatatertib secepat yang dapat dilaksanakan selepas keputusan itu dibuat. Penggantungan sementara menunggu siasatan dan prosiding tatatertib"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Majlis boleh, jika difikirkannya patut, menggantung perakuan amalan, perakuan amalan sementara atau perakuan interim bagi suatu tempoh yang diputuskan oleh Majlis sementara menunggu siasatan oleh Jawatankuasa Penyiasatan selesai, dan pengendalian dan keputusan prosiding tatatertib oleh Jawatankuasa Tatatertib."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pengamal kerja sosial atau pelatih kerja sosial boleh memberikan perkhidmatan kerja sosial semasa tempoh penggantungan di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pengamal kerja sosial atau pelatih kerja sosial yang melanggar subseksyen (2) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun atau kedua-duanya. Hukuman tatatertib"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Tatatertib boleh, dalam menjalankan kuasa tatatertibnya di bawah perenggan 23(3)(b), mengenakan mana-mana satu atau apa-apa gabungan hukuman tatatertib yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memerintahkan supaya nama pengamal kerja sosial atau pelatih kerja sosial itu dikeluarkan daripada Daftar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memerintahkan supaya nama pengamal kerja sosial atau pelatih kerja sosial itu digantung daripada Daftar bagi apa-apa tempoh sebagaimana yang difikirkan patut oleh Jawatankuasa Tatatertib; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memerintahkan supaya pengamal kerja sosial atau pelatih kerja sosial itu diberi amaran."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika nama pengamal kerja sosial atau pelatih kerja sosial dikeluarkan daripada Daftar menurut perenggan (1)(a), perakuan amalan, perakuan amalan sementara atau perakuan interim itu, mengikut mana-mana yang berkenaan, hendaklah terhenti berkuat kuasa dengan serta-merta. Rayuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang boleh, dalam tempoh dua puluh satu hari selepas diberitahu tentang keputusan itu, merayu kepada Menteri secara bertulis mengikut cara sebagaimana yang ditetapkan, jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "permohonannya bagi suatu perakuan amalan, perakuan amalan sementara atau perakuan interim, mengikut mana-mana yang berkenaan, telah ditolak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia tidak berpuas hati dengan apa-apa perintah Majlis di bawah seksyen 26; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia terkilan dengan suatu perintah Jawatankuasa Tatatertib di bawah seksyen 27."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, selepas menimbangkan rayuan yang dibuat di bawah subseksyen (1), mengesahkan, membatalkan atau mengubah keputusan yang dirayukan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_IV__cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Menteri mengesahkan keputusan yang dibuat oleh Jawatankuasa Tatatertib di bawah seksyen 27, orang yang merayu itu hendaklah dihalang daripada mengamalkan kerja sosial bagi suatu tempoh sebagaimana yang ditentukan oleh Majlis."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Profesion Kerja Sosial 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta, dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain— “Daftar” ertinya Daftar Pengamal Kerja Sosial dan Pelatih Kerja Sosial yang disimpan dan disenggarakan di bawah seksyen 18; “jawatankuasa” ertinya suatu jawatankuasa yang ditubuhkan oleh Majlis di bawah seksyen 14; “Majlis” ertinya Majlis Profesion Kerja Sosial Malaysia yang ditubuhkan di bawah seksyen 3; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi pembangunan wanita, keluarga dan masyarakat; “pelatih kerja sosial” ertinya seseorang yang memegang suatu perakuan interim; “Pendaftar” ertinya Setiausaha Majlis yang disebut dalam seksyen 17; “pengamal kerja sosial” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang memegang suatu perakuan amalan yang dikeluarkan di bawah seksyen 19; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_I__cl_2__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang yang memegang suatu perakuan amalan sementara yang dikeluarkan di bawah seksyen 20; “perakuan amalan” ertinya suatu sijil yang dikeluarkan di bawah seksyen 19; “perakuan amalan sementara” ertinya suatu sijil yang dikeluarkan di bawah seksyen 20; “perakuan interim” ertinya suatu sijil yang dikeluarkan di bawah seksyen 21; “perkhidmatan kerja sosial” ertinya perkhidmatan yang disediakan bagi maksud untuk memastikan kefungsian sosial dan kesejahteraan individu, kumpulan dan masyarakat melalui proses penglibatan, penilaian, perancangan intervensi, pelaksanaan intervensi, penilaian semula dan penamatan perkhidmatan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENGELUARAN DAN PEMASUKAN SEMULA Pengeluaran daripada Daftar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KESALAHAN Kesalahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_36"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Kewajipan kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi mana-mana maksud Akta ini atau bagi maksud apa-apa prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis, mana-mana anggota Majlis, Setiausaha Majlis, mana-mana jawatankuasa yang ditubuhkan di bawah Akta ini atau mana-mana pengamal kerja sosial atau pelatih kerja sosial, sama ada semasa atau selepas tempoh jawatan atau pekerjaannya atau tempoh memperoleh pengalaman tidak boleh mendedahkan apa-apa maklumat yang diperoleh olehnya semasa menjalankan kewajipannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_33",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya. Perlindungan terhadap guaman dan prosiding undang-undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan, guaman, pendakwaan atau prosiding lain boleh diambil, dibawa, dimulakan atau dikekalkan di mana-mana mahkamah terhadap mana-mana anggota Majlis, Setiausaha Majlis atau mana-mana jawatankuasa yang ditubuhkan di bawah Akta ini atas sebab atau yang berkenaan dengan apa-apa perbuatan, kecuaian atau keingkaran yang dilakukan atau ditinggalkan olehnya dalam menjalankan kewajipannya di bawah Akta ini melainkan jika boleh dibuktikan bahawa perbuatan, kecuaian atau keingkaran itu telah dilakukan atau ditinggalkan dengan niat jahat dan tanpa sebab yang munasabah. Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat peraturan-peraturan sebagaimana yang perlu atau suai manfaat bagi maksud melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tanpa menjejaskan keluasan kuasa yang diberikan oleh subseksyen (1), peraturan-peraturan boleh dibuat bagi maksud yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa perkara yang berhubungan dengan perakuan amalan, perakuan amalan sementara atau perakuan interim, termasuk syarat-syarat dan sekatan-sekatan yang akan dikenakan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa perkara yang berhubungan dengan tatalaku pengamal kerja sosial dan pelatih kerja sosial;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan tatacara bagi penerimaan aduan yang berhubungan dengan apa-apa perkara disiplin yang boleh disiasat oleh Majlis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan apa-apa perkara yang berhubungan dengan prosiding tatatertib dan bagi pelaksanaan kuasa tatatertib Majlis terhadap pengamal kerja sosial atau pelatih kerja sosial;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan tatacara bagi mana-mana rayuan kepada Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan fi dan caj yang kena dibayar yang berhubungan dengan perkhidmatan yang disediakan oleh Majlis di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menetapkan borang yang boleh digunakan bagi melaksanakan peruntukan Akta ini; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perkara lain yang dikehendaki oleh Akta ini untuk ditetapkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_35",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana peraturan-peraturan yang dibuat di bawah Akta ini boleh menetapkan suatu perbuatan atau peninggalan yang melanggar peraturan-peraturan itu sebagai suatu kesalahan dan boleh menetapkan penalti denda yang tidak melebihi sepuluh ribu ringgit atau pemenjaraan selama tempoh yang tidak melebihi dua tahun. Pengecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, atas nasihat Majlis, melalui perintah yang disiarkan dalam Warta dan tertakluk kepada apa-apa syarat sebagaimana yang difikirkannya patut dikenakan, mengecualikan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang daripada pembayaran fi atau caj yang ditetapkan yang dikenakan oleh Majlis yang berhubungan dengan apa-apa perkhidmatan yang disediakan oleh Majlis; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VII__cl_36",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana organisasi antarabangsa daripada mana-mana peruntukan yang berhubungan dengan kehendak untuk memegang perakuan amalan atau perakuan amalan sementara bagi maksud konsultasi, latihan dan tanggungjawab sosial korporat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun boleh melainkan jika dia ialah seorang pengamal kerja sosial atau pelatih kerja sosial di bawah Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memperoleh suatu perakuan amalan, perakuan amalan sementara atau perakuan interim di bawah Akta ini melalui fraud atau salah nyataan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberikan perkhidmatan kerja sosial;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengemukakan dirinya sebagai seorang “pengamal kerja sosial” atau “pelatih kerja sosial” atau menggunakan apa-apa nama, gaya atau gelaran—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang mengandungi perkataan “pengamal kerja sosial” atau “pelatih kerja sosial” atau yang seumpamanya dalam apa-apa bahasa lain; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang mengandungi apa-apa perkataan lain dalam apa-apa bahasa yang semunasabahnya boleh ditafsirkan sebagai membayangkan bahawa dia ialah seorang “pengamal kerja sosial” atau “pelatih kerja sosial”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhak memperihalkan dirinya sebagai seorang “pengamal kerja sosial” atau “pelatih kerja sosial” atau dengan apa-apa cara yang dikaitkan dengan namanya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menggunakan atau mempamerkan apa-apa tanda, papan, kad atau peranti lain yang mewakili atau membayangkan bahawa dia ialah seorang “pengamal kerja sosial” atau “pelatih kerja sosial”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempunyai hak terhadap apa-apa bayaran oleh mana-mana mahkamah, fi, upah atau apa-apa bentuk balasan lain bagi apa-apa perkhidmatan kerja sosial yang telah diberikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_31",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan, dalam hal suatu kesalahan yang berterusan, boleh sebagai tambahan, didenda harian tidak melebihi lima ratus ringgit bagi setiap hari kesalahan itu terus dilakukan. Kesalahan yang berhubungan dengan penggajian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun boleh menggaji seseorang yang bukan pengamal kerja sosial melainkan jika dia ialah seorang pengamal kerja sosial di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa-apa jua dalam seksyen ini boleh menghalang mana-mana majikan daripada menggaji seorang pelatih kerja sosial semata-mata bagi maksud memperoleh pengalaman dalam perkhidmatan kerja sosial."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "denda tidak melebihi lima puluh ribu ringgit atau pemenjaraan selama tempoh tidak melebihi tiga tahun atau kedua-duanya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi suatu kesalahan yang berterusan, denda tidak melebihi satu ribu ringgit bagi tiap-tiap hari atau sebahagian daripada sehari selama kesalahan itu diteruskan selepas sabitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika suatu kesalahan di bawah subseksyen (1) dilakukan oleh suatu pertubuhan perbadanan, perkongsian atau pertubuhan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal suatu pertubuhan perbadanan, mana-mana orang yang menjadi pengarah, pengurus, setiausaha atau pegawai lain yang seumpamanya dalam pertubuhan perbadanan pada masa kesalahan itu berlaku;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal suatu perkongsian, tiap-tiap pekongsi dalam perkongsian itu pada masa kesalahan itu berlaku; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_VI__cl_32__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam hal suatu pertubuhan, tiap-tiap pemegang jawatannya bagi pertubuhan itu pada masa kesalahan itu berlaku, boleh dipertuduh secara berasingan atau bersesama dalam prosiding yang sama dengan pertubuhan perbadanan, perkongsian atau pertubuhan dan hendaklah disifatkan telah melakukan kesalahan itu melainkan jika dia membuktikan bahawa kesalahan itu telah dilakukan tanpa pengetahuannya atau pembiarannya atau bahawa dia telah mengambil segala langkah berhati-hati yang munasabah atau bahawa dia telah melakukan segala usaha yang wajar bagi mengelakkan kesalahan itu daripada berlaku."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah mengeluarkan nama dan butir-butir lain seseorang pengamal kerja sosial atau pelatih kerja sosial daripada Daftar, mengikut mana-mana yang berkenaan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang telah meninggal dunia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang tidak sempurna akal atau selainnya tidak berupaya secara kekal untuk melaksanakan kewajipannya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang namanya telah diperintahkan untuk dikeluarkan di bawah perenggan 27(1)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang tidak memohon kepada Pendaftar untuk pembaharuan perakuan amalan atau perakuan amalan sementara bagi tempoh dua belas bulan berturut-turut;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang telah disabitkan atas suatu kesalahan di bawah Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang telah disabitkan oleh suatu mahkamah di Malaysia atau di tempat lain atas apa-apa kesalahan yang melibatkan rasuah, fraud, kecurangan atau keburukan akhlak, atau apa-apa kesalahan lain yang boleh dihukum dengan pemenjaraan, sama ada pemenjaraan itu sahaja atau sebagai tambahan atau sebagai ganti suatu denda;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menjadi seorang bankrap yang belum dilepaskan; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang memberitahu Majlis secara bertulis tentang niatnya untuk berhenti memberikan perkhidmatan kerja sosial dan menyerahkan perakuan amalannya atau perakuan amalan sementaranya di bawah subseksyen 19(7) atau 20(8)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_29",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah memberitahu pengamal kerja sosial atau pelatih kerja sosial secara bertulis tentang pengeluarannya daripada Daftar kecuali jika pengeluaran dibuat di bawah perenggan (1)(a). Pemasukan semula dalam Daftar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pengamal kerja sosial yang namanya telah dikeluarkan daripada Daftar menurut perenggan 29(1)(d) atau (g) boleh dimasukkan semula dalam Daftar dan dikeluarkan suatu perakuan amalan atau perakuan amalan sementara selepas—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia memberitahu Pendaftar secara bertulis tentang hasratnya untuk dimasukkan semula;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dia memberi sebab bagi perubahan hal keadaan yang telah berlaku sejak tarikh pengeluaran dan Majlis berpuas hati dengan sebab tersebut; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "fi yang ditetapkan telah dibayar."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pengamal kerja sosial atau pelatih kerja sosial yang namanya telah dikeluarkan daripada Daftar menurut perenggan 27(1)(a) dan jika rayuannya dibenarkan di bawah subseksyen 28(2) hendaklah dimasukkan semula dalam Daftar dan dikeluarkan suatu perakuan amalan, perakuan amalan sementara atau perakuan interim selepas dia memberitahu Pendaftar secara bertulis tentang keputusan pemasukan semula itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pendaftar hendaklah mengeluarkan perakuan amalan, perakuan amalan sementara atau perakuan interim dalam tempoh empat belas hari bekerja dari tarikh penerimaan pemberitahuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/14/msa@/~part_V__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada seorang pun yang telah dikeluarkan daripada Daftar di bawah perenggan 29(1)(a), (b), (e), (f) dan (h) boleh dimasukkan semula oleh Pendaftar dalam Daftar."
+      }
+    }
+  ]
+}

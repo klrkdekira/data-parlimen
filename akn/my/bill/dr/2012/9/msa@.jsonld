@@ -1,0 +1,119 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-9-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Institusi Pendidikan Tinggi Swasta (Pindaan) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Institusi Pendidikan Tinggi Swasta (Pindaan) 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini hendaklah mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Institusi Pendidikan Tinggi Swasta 1996 [Akta 555], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif “institusi pendidikan tinggi swasta” takrif yang berikut: ‘ “Kampus”, berhubung dengan suatu institusi pendidikan tinggi swasta, ertinya premis berdaftar institusi pendidikan tinggi swasta itu;’. Penggantian seksyen 47"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 47 dengan seksyen yang berikut: “Aktiviti pelajar atau persatuan, pertubuhan, badan atau kumpulan pelajar 47. (1) Tertakluk kepada subseksyen (2), seseorang pelajar institusi pendidikan tinggi swasta boleh menjadi ahli mana- mana persatuan, pertubuhan, badan atau kumpulan orang, sama ada di dalam atau di luar Malaysia, termasuk mana- mana parti politik. (2) Seseorang pelajar institusi pendidikan tinggi swasta tidak boleh— (a) menjadi ahli mana-mana persatuan, pertubuhan, badan atau kumpulan orang yang menyalahi undang-undang, sama ada di dalam atau di luar Malaysia; (b) menjadi ahli mana-mana persatuan, pertubuhan, badan atau kumpulan orang, yang bukannya suatu parti politik, yang ditetapkan oleh Ketua Pendaftar dan dinyatakan secara bertulis kepada ketua eksekutif institusi pendidikan tinggi swasta itu oleh Ketua Pendaftar sebagai tidak sesuai demi kepentingan dan kesentosaan pelajar atau institusi pendidikan tinggi swasta itu; (c) bertanding dalam pilihan raya bagi atau memegang apa- apa jawatan dalam mana-mana persatuan, pertubuhan, badan atau kumpulan pelajar di dalam Kampus jika pelajar itu memegang apa-apa jawatan dalam suatu parti politik; atau (d) terlibat dalam aktiviti parti politik di dalam Kampus. (3) Seseorang pelajar institusi pendidikan tinggi swasta dan mana-mana persatuan, pertubuhan, badan atau kumpulan pelajar institusi pendidikan tinggi swasta yang ditubuhkan oleh, di bawah atau mengikut perlembagaan, tidak boleh menyatakan atau melakukan apa-apa jua yang boleh semunasabahnya ditafsirkan sebagai menyatakan sokongan kepada atau simpati dengan atau bangkangan terhadap— (a) mana-mana persatuan, pertubuhan, badan atau kumpulan orang yang menyalahi undang-undang, sama ada di dalam atau di luar Malaysia; atau (b) mana-mana persatuan, pertubuhan, badan atau kumpulan orang yang ditetapkan oleh Ketua Pendaftar dan dinyatakan secara bertulis kepada ketua eksekutif institusi pendidikan tinggi swasta itu oleh Ketua Pendaftar sebagai tidak sesuai demi kepentingan dan kesentosaan pelajar atau institusi pendidikan tinggi swasta itu. (4) Walau apa pun subseksyen (3), seseorang pelajar institusi pendidikan tinggi swasta tidak boleh dihalang daripada— (a) membuat pernyataan mengenai sesuatu perkara akademik yang berhubungan dengan perkara yang pelajar itu terlibat dalam pengajian atau penyelidikannya; atau (b) menyatakan pendirian mengenai perkara yang disebut dalam perenggan (a) dalam sesuatu seminar, simposium atau majlis seumpamanya yang tidak dianjurkan atau ditaja oleh mana-mana persatuan, pertubuhan, badan atau kumpulan orang yang menyalahi undang-undang, sama ada di dalam atau di luar Malaysia, atau mana- mana persatuan, pertubuhan, badan atau kumpulan orang yang ditetapkan oleh Ketua Pendaftar di bawah perenggan (3)(b) sebagai tidak sesuai demi kepentingan dan kesentosaan pelajar atau institusi pendidikan tinggi swasta itu. (5) Ketua eksekutif institusi pendidikan tinggi swasta hendaklah mematuhi arahan Ketua Pendaftar dalam mengawal selia aktiviti pelajar atau persatuan, pertubuhan, badan atau kumpulan pelajar institusi pendidikan tinggi swasta di dalam Kampus. (6) Mana-mana institusi pendidikan tinggi swasta yang tidak mematuhi arahan Ketua Pendaftar di bawah subseksyen (5) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit.”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua tindakan tatatertib yang belum selesai di bawah subseksyen 47(4) Akta ibu yang berhubungan dengan perkara yang disebut dalam subperenggan 47(1)(a)(i) dan perenggan 47(1c)(a) Akta ibu terhadap mana-mana pelajar institusi pendidikan tinggi swasta hendaklah, pada tarikh permulaan kuat kuasa Akta ini, dihentikan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/9/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua tindakan yang belum selesai di bawah seksyen 49 Akta ibu yang berhubungan dengan perkara yang disebut dalam perenggan 47(1c)(a) Akta ibu terhadap mana-mana pertubuhan, badan atau kumpulan pelajar institusi pendidikan tinggi swasta hendaklah, pada tarikh permulaan kuat kuasa Akta ini, dihentikan."
+      }
+    }
+  ]
+}

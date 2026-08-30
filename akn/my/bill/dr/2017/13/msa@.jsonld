@@ -1,0 +1,1711 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-13-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Agensi Kawalan Sempadan Malaysia 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AGENSI KAWALAN SEMPADAN MALAYSIA Penubuhan Agensi Kawalan Sempadan Malaysia"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "JAWATANKUASA PERINGKAT TERTINGGI Jawatankuasa Peringkat Tertinggi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu jawatankuasa yang dikenali sebagai Jawatankuasa Peringkat Tertinggi bagi Agensi ditubuhkan bagi maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_s"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Peringkat Tertinggi hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri sebagai Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri di Jabatan Perdana Menteri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi kewangan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi pengangkutan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi perkhidmatan perubatan dan kesihatan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi perusahaan perladangan dan komoditi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi pelancongan dan kebudayaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi pertahanan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi pertanian dan industri asas tani;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi hal ehwal luar negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri yang dipertanggungkan dengan tanggungjawab bagi sumber asli dan alam sekitar;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Kementerian yang dipertanggungkan dengan tanggungjawab bagi keselamatan dalam negeri;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Panglima Angkatan Tentera;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Polis Negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Keselamatan Negara, Majlis Keselamatan Negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Jabatan Kastam Diraja Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Jabatan Imigresen Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Agensi Antidadah Kebangsaan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Lembaga Kenaf dan Tembakau Negara. Mesyuarat Jawatankuasa Peringkat Tertinggi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Peringkat Tertinggi hendaklah bermesyuarat seberapa kerap yang perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tujuh orang anggota, termasuk Pengerusi, hendaklah membentuk kuorum suatu mesyuarat Jawatankuasa Peringkat Tertinggi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Peringkat Tertinggi boleh mengundang mana-mana orang yang bukan anggota Jawatankuasa Peringkat Tertinggi untuk menghadiri mesyuaratnya bagi menasihati Jawatankuasa Peringkat Tertinggi mengenai apa-apa perkara yang sedang dibincangkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Agensi boleh melantik dalam kalangan pegawai Agensi untuk menjadi urus setia bagi Jawatankuasa Peringkat Tertinggi. Fungsi Jawatankuasa Peringkat Tertinggi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Peringkat Tertinggi hendaklah menimbang teliti dan memutuskan syor yang dibuat oleh Jawatankuasa Penyelaras dan Agensi atau apa-apa perkara yang berhubungan dengan keselamatan sempadan darat Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu agensi dengan nama “Agensi Kawalan Sempadan Malaysia” ditubuhkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Agensi hendaklah, tertakluk kepada Akta ini, digunakan khidmatnya di sempadan darat Malaysia bagi mengawal apa-apa kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia. Fungsi Agensi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_h"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Agensi hendaklah mempunyai fungsi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menjalankan kawalan sempadan darat Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat syor mengenai perkara yang berhubungan dengan keselamatan sempadan darat Malaysia atau bagi perkara yang diperuntukkan di bawah Akta ini kepada Jawatankuasa Peringkat Tertinggi dan Jawatankuasa Penyelaras;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menerima apa-apa laporan bagi pelakuan suatu kesalahan berhubung dengan kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mencegah dan menyekat pelakuan suatu kesalahan berhubung dengan kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk menyelaras pelaksanaan penguatkuasaan oleh Agensi dengan agensi lain di sempadan darat Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk memantau apa-apa kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk merumus dasar dan program untuk mencegah apa-apa kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara amnya untuk melaksanakan apa-apa fungsi lain bagi memastikan kesejahteraan dan keselamatan sempadan darat Malaysia atau melakukan segala perkara yang bersampingan dengan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "JAWATANKUASA PENYELARAS Jawatankuasa Penyelaras"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_i"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Penyelaras hendaklah mempunyai fungsi yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "menyelaras pelaksanaan Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk membuat syor mengenai perkara yang berhubungan dengan keselamatan sempadan darat Malaysia atau bagi perkara yang diperuntukkan di bawah Akta ini kepada Jawatankuasa Peringkat Tertinggi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melaksanakan segala keputusan yang dibuat oleh Jawatankuasa Peringkat Tertinggi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "merumus dasar dan program untuk mencegah apa-apa kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memantau apa-apa kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia dan mendapatkan maklum balas daripada agensi Kerajaan dan organisasi yang berkaitan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memperakukan syor yang dibuat oleh Agensi kepada Jawatankuasa Peringkat Tertinggi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mempertimbangkan langkah-langkah bagi mengawal apa-apa kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bekerjasama dan menyelaras dengan agensi Kerajaan dan organisasi antarabangsa mengenai apa-apa kegiatan penyeludupan atau aktiviti lain yang menyalahi undang-undang di sempadan darat Malaysia; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "melaksanakan apa-apa fungsi lain bagi pelaksanaan sewajarnya Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Penyelaras boleh menubuhkan apa-apa jawatankuasa sebagaimana yang difikirkan perlu atau suai manfaat oleh Jawatankuasa Penyelaras untuk membantu Jawatankuasa Penyelaras dalam menjalankan fungsinya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu Jawatankuasa Penyelaras ditubuhkan bagi maksud Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_l",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_m",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_n",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_o",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_p",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_q",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_r",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_s",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_t",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_u",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_v"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Penyelaras hendaklah terdiri daripada anggota yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Setiausaha Kementerian yang dipertanggungkan dengan tanggungjawab bagi keselamatan dalam negeri sebagai Pengerusi;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Komisioner Jeneral;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Keselamatan Negara, Majlis Keselamatan Negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Jabatan Kastam Diraja Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Jabatan Imigresen Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Jabatan Perlindungan Hidupan Liar dan Taman Negara, Semenanjung Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Pertanian, Jabatan Pertanian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pesuruhjaya Angkatan Pertahanan Awam Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Keselamatan Kerajaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pesuruhjaya Pasukan Sukarelawan Malaysia (RELA);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Agensi Antidadah Kebangsaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pengarah Lembaga Kenaf dan Tembakau Negara;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_m",
+      "@type": "akn:paragraph",
+      "eli:number": "m",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Jabatan Keselamatan Dalam Negeri dan Ketenteraman Awam, Polis Diraja Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_n",
+      "@type": "akn:paragraph",
+      "eli:number": "n",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengarah Jabatan Pengurusan, Polis Diraja Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_o",
+      "@type": "akn:paragraph",
+      "eli:number": "o",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Polis bagi Negeri Kedah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_p",
+      "@type": "akn:paragraph",
+      "eli:number": "p",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Polis bagi Negeri Perak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_q",
+      "@type": "akn:paragraph",
+      "eli:number": "q",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Polis bagi Negeri Sabah;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_r",
+      "@type": "akn:paragraph",
+      "eli:number": "r",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Polis bagi Negeri Sarawak;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_s",
+      "@type": "akn:paragraph",
+      "eli:number": "s",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Polis bagi Negeri Kelantan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_t",
+      "@type": "akn:paragraph",
+      "eli:number": "t",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Ketua Pegawai Polis bagi Negeri Perlis;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_u",
+      "@type": "akn:paragraph",
+      "eli:number": "u",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wakil daripada Kementerian Kewangan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2__para_v",
+      "@type": "akn:paragraph",
+      "eli:number": "v",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wakil daripada Kementerian Pertahanan. Mesyuarat Jawatankuasa Penyelaras"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Penyelaras hendaklah bermesyuarat seberapa kerap yang perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tujuh orang anggota, termasuk Pengerusi, hendaklah membentuk kuorum suatu mesyuarat Jawatankuasa Penyelaras."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jawatankuasa Penyelaras boleh mengundang mana-mana orang yang bukan anggota Jawatankuasa Penyelaras untuk menghadiri mesyuaratnya bagi menasihati Jawatankuasa Penyelaras mengenai apa-apa perkara yang sedang dibincangkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Agensi boleh melantik mana-mana pegawai dalam kalangan pegawai Agensi untuk menjadi urus setia bagi Jawatankuasa Penyelaras. Fungsi Jawatankuasa Penyelaras"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Agensi Kawalan Sempadan Malaysia 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“Agensi” ertinya Agensi Kawalan Sempadan Malaysia yang ditubuhkan di bawah seksyen 3; “Entiti Kerajaan” termasuklah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana kementerian, jabatan, pejabat, agensi, pihak berkuasa, suruhanjaya, jawatankuasa, lembaga atau majlis bagi Kerajaan Persekutuan, atau bagi mana-mana Kerajaan Negeri, yang ditubuhkan di bawah mana-mana undang-undang bertulis atau selainnya;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pihak berkuasa tempatan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pasukan keselamatan; “Jawatankuasa Peringkat Tertinggi” ertinya Jawatankuasa Peringkat Tertinggi yang ditubuhkan di bawah subseksyen 5(1); “Jawatankuasa Penyelaras” ertinya Jawatankuasa Penyelaras Agensi yang ditubuhkan di bawah subseksyen 8(1); “Komisioner Jeneral” ertinya Komisioner Jeneral Agensi yang dilantik di bawah subseksyen 11(1); “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi keselamatan dalam negeri; “pegawai Agensi” termasuklah Komisioner Jeneral dan Timbalan-timbalan Komisioner Jeneral yang dilantik di bawah seksyen 11, dan mana-mana pegawai Agensi yang dilantik di bawah subseksyen 13(1); “sempadan darat Malaysia” ertinya sempadan darat antara Malaysia dengan Thailand, Malaysia dengan Indonesia, dan Malaysia dengan Brunei."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_15"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PEGAWAI AGENSI Pelantikan Komisioner Jeneral dan Timbalan Komisioner Jeneral Agensi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_28"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "AM Pakaian seragam dan kelengkapan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII",
+      "@type": "akn:part",
+      "eli:number": "VII",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_29",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_30"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "KECUALIAN DAN PERALIHAN Jawatankuasa yang sedia ada"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua jawatankuasa yang ditubuhkan di bawah Arahan No. 15 Majlis Keselamatan Negara dan berkuat kuasa sebaik sebelum permulaan kuat kuasa Akta ini hendaklah, apabila Akta ini mula berkuat kuasa, terus berkuat kuasa sehingga dibubarkan menurut seksyen 44 Akta Majlis Keselamatan Negara 2016 [Akta 776]. Unit Pencegahan Penyeludupan yang sedia ada"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_30__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_30__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_30__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa perbuatan yang dilakukan atau tindakan yang diambil sebelum permulaan kuat kuasa Akta ini oleh Unit Pencegahan Penyeludupan yang sedia ada yang ditubuhkan oleh Kerajaan Persekutuan hendaklah disifatkan telah dilakukan atau diambil oleh Agensi di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_30__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VII__cl_30",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa arahan, perintah atau keputusan yang dibuat oleh Unit Pencegahan Penyeludupan yang sedia ada dan berkuat kuasa sebaik sebelum permulaan kuat kuasa Akta ini hendaklah, apabila Akta ini mula berkuat kuasa, setakat yang ia selaras dengan Akta ini, terus berkuat kuasa sehingga ia dibatalkan oleh Agensi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seorang pegawai Agensi hendaklah dibekalkan dengan apa-apa pakaian seragam dan kelengkapan dan hendaklah memakai apa-apa lencana pangkat sebagaimana yang ditentukan oleh Menteri. Pakaian seragam dan kelengkapan hendaklah dikembalikan apabila berhenti menjadi pegawai Agensi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_17__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila seorang pegawai Agensi berhenti menjadi pegawai Agensi dia hendaklah, dalam masa empat belas hari, mengembalikan kepada orang yang dilantik oleh Komisioner Jeneral bagi maksud itu pakaian seragam dan kelengkapannya yang dibekalkan kepadanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seorang pegawai Agensi yang, setelah berhenti menjadi pegawai Agensi, tanpa sebab yang munasabah tidak mematuhi subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima ribu ringgit atau dipenjarakan bagi suatu tempoh tidak melebihi tiga bulan atau kedua-duanya, dan, sebagai tambahan, boleh dikehendaki membayar nilai harta yang tidak dikembalikan itu, dan nilai itu akan ditentukan oleh mahkamah secara penghakiman terus dan boleh didapatkan kembali sebagai suatu denda. Penyamaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang bukan seorang pegawai Agensi yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berpura-pura menjadi seorang pegawai Agensi dengan menyedari bahawa dia bukan sedemikian;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "secara salah menyamar sebagai seorang pegawai Agensi; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "atas sifat yang dibuat-buat itu melakukan atau cuba untuk melakukan apa-apa perbuatan atas alasan menjadi seorang pegawai Agensi, melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi tujuh tahun atau didenda tidak melebihi sepuluh ribu ringgit atau kedua-duanya. Pangkat pegawai Agensi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_19__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pangkat pegawai Agensi adalah sebagaimana yang dinyatakan dalam Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh, melalui perintah yang disiarkan dalam Warta, meminda Jadual. Pendakwaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada pendakwaan bagi suatu kesalahan di bawah Akta ini boleh dimulakan kecuali oleh, atau dengan keizinan bertulis, Pendakwa Raya. Obligasi kerahsiaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali bagi apa-apa maksud Akta ini atau bagi maksud mana-mana prosiding sivil atau jenayah di bawah mana-mana undang-undang bertulis atau jika selainnya dibenarkan oleh Agensi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada seorang pun pegawai Agensi atau jawatankuasa atau mana-mana orang yang menghadiri mana-mana mesyuarat Agensi, Jawatankuasa Peringkat Tertinggi atau Jawatankuasa Penyelaras, sama ada semasa atau selepas tempoh jawatan atau penggajiannya, boleh menzahirkan apa-apa maklumat yang diperoleh olehnya semasa menjalankan kewajipannya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "tiada seorang lain pun yang dengan apa-apa cara mempunyai akses kepada apa-apa maklumat atau dokumen yang berhubungan dengan hal ehwal Agensi boleh menzahirkan maklumat atau dokumen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi dua tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya. Perlindungan terhadap guaman dan prosiding undang-undang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada tindakan, guaman, pendakwaan atau apa-apa prosiding lain boleh diambil atau dibawa, dimulakan atau dikekalkan dalam mana-mana mahkamah terhadap Agensi, mana-mana jawatankuasa, mana-mana pegawai Agensi atau anggota jawatankuasa, atau kakitangan Entiti Kerajaan lain berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dilakukan atau ditinggalkan olehnya dengan suci hati, atas sifat yang sedemikian. Pekhidmat Awam"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap pegawai Agensi atau anggota jawatankuasa atau kakitangan Entiti Kerajaan lain semasa menunaikan kewajipannya atau melaksanakan fungsinya di bawah Akta ini atas sifat yang sedemikian hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574]. Akta Perlindungan Pihak Berkuasa Awam 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Agensi, mana-mana jawatankuasa, mana-mana pegawai Agensi atau anggota jawatankuasa, atau kakitangan Entiti Kerajaan lain berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dibuat atau dilakukan olehnya dengan suci hati atau apa-apa peninggalan olehnya dengan suci hati, atas sifat yang sedemikian. Perintah Tetap"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Komisioner Jeneral boleh mengeluarkan perintah pentadbiran yang disebut “Perintah Tetap”, yang selaras dengan peruntukan Akta ini, tentang kawalan am, latihan, tugas dan tanggungjawab pegawai Agensi, dan bagi apa-apa perkara lain yang perlu atau suai manfaat untuk pentadbiran baik Agensi atau bagi mencegah penyalahgunaan kuasa atau pengabaian tugas, dan pada amnya untuk memastikan Agensi berfungsi dengan cekap dan berkesan. Perlindungan bagi pemberi maklumat daripada diketahui"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kecuali sebagaimana yang diperuntukkan dalam seksyen ini, tiada saksi dalam mana-mana prosiding sivil atau jenayah boleh dikehendaki atau dibenarkan untuk menzahirkan nama atau alamat mana-mana pemberi maklumat atau menyatakan apa-apa perkara yang mungkin menyebabkan pemberi maklumat diketahui."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika apa-apa buku, dokumen atau kertas yang menjadi keterangan atau boleh diperiksa dalam mana-mana prosiding sivil atau jenayah mengandungi apa-apa catatan yang mana-mana pemberi maklumat dinamakan atau diperihalkan atau yang mungkin membawa kepada diketahuinya pemberi maklumat itu, mahkamah hendaklah menyebabkan semua petikan sedemikian ditutup daripada penglihatan atau dihapuskan setakat mana yang perlu sahaja untuk melindungi pemberi maklumat itu daripada diketahui."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_26",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika dalam perbicaraan bagi mana-mana kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta, mahkamah, selepas siasatan penuh atas kes itu, berpendapat bahawa pemberi maklumat itu dengan sengaja membuat dalam pengaduannya suatu pernyataan material yang diketahuinya atau dipercayainya sebagai palsu atau tidak percaya sebagai benar, atau jika dalam mana-mana prosiding lain mahkamah berpendapat bahawa keadilan tidak dapat dilakukan dengan sepenuhnya antara pihak-pihak terhadap prosiding itu tanpa diketahui pemberi maklumat itu, mahkamah boleh menghendaki supaya ditunjukkan pengaduan asal, jika secara bertulis, dan membenarkan siasatan dan menghendaki pendedahan sepenuhnya tentang pemberi maklumat itu. Keterangan ejen provokasi boleh diterima"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_27__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang atau rukun undang-undang yang berlawanan, dalam mana-mana prosiding terhadap mana-mana orang bagi suatu kesalahan di bawah Akta ini, tiada ejen provokasi boleh dianggap tidak boleh dipercayai semata-mata kerana dia telah cuba melakukan atau bersubahat, atau telah bersubahat atau terlibat dalam konspirasi jenayah untuk melakukan kesalahan itu jika tujuan utama percubaan, persubahatan atau penglibatan itu adalah untuk mendapatkan keterangan terhadap orang itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun mana-mana undang-undang atau rukun undang-undang yang berlawanan, suatu sabitan bagi apa-apa kesalahan di bawah Akta ini yang berasaskan semata-mata pada keterangan tanpa sokongan mana-mana ejen provokasi tidaklah menjadi tidak sah dan tiada sabitan sedemikian boleh diketepikan hanya kerana mahkamah yang membicarakan kes itu telah gagal untuk menyebut dalam alasan penghakimannya keperluan supaya mengingatkan dirinya tentang bahaya membuat sabitan berdasarkan keterangan sedemikian. Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat apa-apa peraturan-peraturan yang perlu atau suai manfaat bagi memberi kesan sepenuhnya kepada atau bagi melaksanakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Yang di-Pertuan Agong hendaklah melantik seseorang dalam kalangan pegawai awam untuk menjadi Komisioner Jeneral Agensi bagi suatu tempoh tidak melebihi tiga tahun dan orang itu layak untuk dilantik semula bagi apa-apa tempoh sebagaimana yang dianggap perlu oleh Yang di-Pertuan Agong."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik Timbalan-timbalan Komisioner Jeneral Agensi dalam kalangan pegawai awam bagi suatu tempoh yang difikirkan perlu atau suai manfaat oleh Menteri bagi maksud menjalankan dan menguatkuasakan peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Komisioner Jeneral hendaklah bertanggungjawab kepada Jawatankuasa Peringkat Tertinggi dan Jawatankuasa Penyelaras bagi arahan, perintah, kawalan dan pengawasan bagi segala perkara yang berhubungan dengan Agensi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Komisioner Jeneral boleh, bagi menguatkuasakan sepenuhnya mana-mana peruntukan Akta ini atau bagi pelaksanaan lebih mudah peruntukan Akta ini, mengeluarkan apa-apa arahan, perintah atau keputusan sebagaimana yang difikirkan perlu atau suai manfaat oleh Komisioner Jeneral. Pembatalan dan peletakan jawatan Komisioner Jeneral"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Yang di-Pertuan Agong boleh, pada bila-bila masa, membatalkan pelantikan Komisioner Jeneral yang dilantik di bawah subseksyen 11(1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Komisioner Jeneral boleh, pada bila-bila masa, meletakkan jawatannya dengan memberikan suatu notis bertulis kepada Yang di-Pertuan Agong. Pelantikan pegawai lain Agensi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri hendaklah melantik apa-apa bilangan pegawai Agensi dalam kalangan pegawai awam sebagaimana yang perlu bagi maksud melaksanakan peruntukan Akta ini seperti yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pegawai polis sebagaimana yang dinyatakan dalam Akta Polis 1967 [Akta 344];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pegawai kastam sebagaimana yang dinyatakan dalam Akta Kastam 1967 [Akta 235];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pegawai imigresen sebagaimana yang dinyatakan dalam Akta Imigresen 1959/63 [Akta 155];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pegawai Agensi Antidadah Kebangsaan sebagaimana yang dinyatakan dalam Akta Agensi Antidadah Kebangsaan 2004 [Akta 638];"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "pegawai Lembaga Kenaf dan Tembakau Negara sebagaimana yang dinyatakan dalam Akta Lembaga Kenaf dan Tembakau Negara 2009 [Akta 692]; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana pegawai awam lain sebagaimana yang difikirkan perlu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pelantikan pegawai lain Agensi di bawah subseksyen (1) hendaklah bagi suatu tempoh yang difikirkan suai manfaat oleh Menteri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seseorang pegawai yang dilantik di bawah subseksyen (1) adalah tertakluk kepada arahan, perintah, kawalan dan pengawasan Komisioner Jeneral atau mana-mana pegawai lain Agensi yang lebih tinggi pangkatnya daripada pegawai itu, dan hendaklah menjalankan kuasanya, melaksanakan fungsinya dan menunaikan kewajipannya dengan mematuhi apa-apa arahan, perintah atau kawalan yang dinyatakan secara lisan atau bertulis oleh Komisioner Jeneral atau mana-mana pegawai lain Agensi yang lebih tinggi pangkatnya daripada pegawai itu. Kuasa pegawai Agensi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Bagi maksud Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang pegawai Agensi hendaklah mempunyai segala kuasa seorang pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593], dan kuasa itu adalah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "seseorang pegawai Agensi hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis yang lain, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai balai polis. Perakuan pelantikan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu perakuan pelantikan dalam bentuk kad kuasa hendaklah dikeluarkan kepada tiap-tiap pegawai Agensi yang dilantik di bawah Akta ini dan kad itu hendaklah ditandatangani oleh Komisioner Jeneral dan hendaklah menjadi keterangan prima facie pelantikan itu di bawah Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "[Seksyen 19] PANGKAT PEGAWAI AGENSI Komisioner Jeneral Timbalan Komisioner Jeneral Komisioner Timbalan Komisioner Penguasa Timbalan Penguasa Penolong Penguasa Inspektor Sub-Inspektor Sarjan Mejar Sarjan Koperal Lans Koperal Konstabel"
+      }
+    }
+  ]
+}

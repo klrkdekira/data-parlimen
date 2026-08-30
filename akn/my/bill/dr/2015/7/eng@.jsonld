@@ -1,0 +1,165 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-7-2015",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Security Offences (Special Measures) (Amendment) Bill 2015"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The First Schedule to the principal Act is amended by inserting after the item “Anti-Trafficking in Persons and Anti-Smuggling of Migrants Act 2007 [Act 670]” and the particulars related to it the following item: “Special Measures Against Terrorism in Foreign Countries Act 2015 [Act …]”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Security Offences (Special Measures) (Amendment) Act 2015."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Security Offences (Special Measures) Act 2012 [Act 747], which is referred to as the “principal Act” in this Act, is amended in paragraph 5(1)(b) in the English language text by substituting for the word “persons” the word “person”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 6(1) of the principal Act is amended by inserting after the words “police officer” the words “or any other person”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 13(2) of the principal Act is amended by inserting after the words “[Act 574]” the words “and the Special Measures Against Terrorism in Foreign Countries Act 2015 [Act …]”. Amendment of section 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 14 of the principal Act is amended by inserting after subsection (2) the following subsections: “(2a) The court shall notify the prosecution of its decision to protect the identity of the witness within seven days of the inquiry. (2b) Within seven days of the decision, the prosecution may appeal against a refusal by the court to protect the identity of the witness.”. New sections 18a and 18b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 18 the following sections: “Statement by accused 18a. Any statement by an accused whether orally or in writing to any person at any time shall be admissible in evidence. Communications during marriage 18b. (1) A person who is or has been married shall be compelled to disclose any communication made to him during marriage by any person to whom he is or has been married. (2) Such person shall be permitted to disclose any such communication notwithstanding that the person who made it does not consent.”. Substitution of section 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 20 the following section: “Documents or things seized or howsoever obtained 20. All documents or things seized or howsoever obtained whether before or after a person has been charged for a security offence and the contents of the documents or things shall be admissible as evidence.”. Substitution of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 22 the following section: “Lists of documents and things 22. Any list of documents and things seized or howsoever obtained whether before or after a person has been charged for a security offence shall be admissible as evidence in court to prove the existence of the documents and things seized or obtained, as the case may be, that were not produced in court due to the nature of the documents and things.”. Substitution of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2015/7/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 24 the following section: “Admissibility of intercepted communication and monitoring, tracking or surveillance information 24. (1) Where a person is charged for a security offence, any information obtained through an interception of communication under section 6 whether before or after such person is charged shall, subject to subsection (2), be admissible at his trial in evidence. (2) The information obtained through an interception of communication under section 6 shall only be admissible where tendered under a certificate by the Public Prosecutor stating that the information so obtained had been authorized by the Public Prosecutor. (3) A certificate by the Public Prosecutor issued under subsection (2) together with any document or thing that may be exhibited or annexed to the certificate shall be conclusive evidence that the interception of communication had been so authorized, and such certificate shall be admissible in evidence without proof of signature of the Public Prosecutor. (4) No person or police officer shall be under any duty, obligation or liability or be in any manner compelled to disclose in any proceedings the procedure, method, manner or the means or devices used with regard to— (a) anything done under section 6; and (b) any matter relating to the monitoring, tracking or surveillance of any person. (5) The information obtained through an intercepted communication under section 6 may be in narrative or verbatim form whether in the original language or as a translation into the national language or the English language.”. Amendment of First Schedule"
+      }
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-2-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_21"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Fire Services (Amendment) Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended by substituting for the words “Director General” the word “Minister”. New Parts Va and Vb"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part V the following parts: “Part Va FIRE SAFETY CONSULTANT, FIRE SAFETY CONSULTANT FIRM, COMPETENT PERSON, FIRE SAFETY CONTRACTOR, TRAINING PROVIDER AND INSTRUCTOR Appointment of Controller 36a. The Director General may appoint a Controller from amongst Senior Fire Officers which shall have the following functions: (a) decides on any application made under this Part and Part Vb; (b) issues certificate of registration under this Part and certificate under Part Vb; and (c) keeps and maintains a register of— (i) fire safety consultant and fire safety consultant firm; (ii) competent person and fire safety contractor; (iii) training provider and instructor; and (iv) fire-fighting equipment or fire safety installation prescribed by the Minister to be registered. Register 36b. The Register under paragraph 36a(c) shall be kept in any form and shall contain any particulars as may be determined by the Director General. Requirement for registration of fire safety consultant and fire safety consultant firm 36c. No person shall prepare a fire risk analysis report unless the person is registered as a fire safety consultant or fire safety consultant firm, as the case may be, under this Part. Requirement for registration of competent person and fire safety contractor 36d. (1) No person shall install, test, service, recharge or repair any fire-fighting equipment or fire safety installation prescribed by the Minister to be registered, unless that person is registered as a competent person in accordance with the category as may be prescribed or as a fire safety contractor, as the case may be, under this Part. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding fifty thousand ringgit or to imprisonment for a term not exceeding three years or to both. Requirement for registration of training provider and instructor 36e. (1) No person shall carry out any training in relation to the matters specified in the Third Schedule unless that person is registered as a training provider or instructor, as the case may be, under this Part. (2) Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit. (3) The Minister may, by order published in the Gazette, amend the Third Schedule. Qualification for registration as fire safety consultant, fire safety consultant firm, etc. 36f. Any person may apply to be registered as fire safety consultant, fire safety consultant firm, competent person, fire safety contractor, training provider or instructor if that person fulfils the conditions as may be prescribed. Application for registration as fire safety consultant, fire safety consultant firm, etc. 36g. (1) An application for registration as a fire safety consultant, fire safety consultant firm, competent person, fire safety contractor, training provider or instructor, as the case may be, may be made to the Controller— (a) in the manner as may be determined by the Director General; (b) by producing any document or information as may be determined by the Director General; and (c) by paying the prescribed fee. (2) The Controller may, in writing, at any time after the receipt of an application under subsection (1) and before the application is determined, require the applicant to provide the Controller any additional document or information within the period specified by the Controller. (3) If the applicant fails to comply with the requirements under subsection (2), the application for registration shall be deemed to be withdrawn without affecting the right of the applicant to make a new application. (4) After considering the application under subsection (1), the Controller may— (a) approve the application and issue to the applicant, upon payment of the prescribed fee, a certificate of registration in the form as may be determined by the Director General; or (b) refuse the application by stating the grounds for the refusal. (5) A certificate of registration issued under this section is valid for a period as specified in the certificate of registration. Renewal of certificate of registration 36h. (1) Any person who holds a certificate of registration issued under paragraph 36g(4)(a) may, in the manner as may be determined by the Director General, apply to renew the certificate of registration at least thirty days before the date of expiry of the certificate of registration. (2) The application under subsection (1) may be made— (a) by producing any information, particulars or document as may be determined by the Director General; and (b) by paying the prescribed fee. (3) The Controller may, in writing, at any time after the receipt of an application under subsection (1) and before the application is determined, require the applicant to provide the Controller any additional document or information within the period specified by the Controller. (4) If the applicant fails to comply with the requirements under subsection (3), the application for renewal of certificate of registration shall be deemed to be withdrawn without affecting the right of the applicant to make a new application. (5) After considering the application under subsection (1), the Controller may— (a) approve the application and renew the certificate of registration upon payment of the prescribed fee; or (b) refuse the application by stating the grounds for the refusal. Revocation of certificate of registration 36i. (1) Subject to subsection (2), the Controller may revoke the certificate of registration issued under paragraph 36g(4)(a) if the Controller is satisfied that the fire safety consultant, fire safety consultant firm, competent person, fire safety contractor, training provider or instructor— (a) has contravened any provision of this Act; (b) has breached any condition of the certificate of registration; or (c) has been convicted of an offence under this Act. (2) The Controller shall, before revoking the certificate of registration under subsection (1), give an opportunity to the fire safety consultant, fire safety consultant firm, competent person, fire safety contractor, training provider or instructor, as the case may be, to make any representation in writing against the revocation. (3) Any fire safety consultant, fire safety consultant firm, competent person, fire safety contractor, training provider or instructor whose registration has been revoked under subsection (1) shall not be entitled to claim— (a) any compensation for any loss caused by the revocation; and (b) any refund of the fee paid under this Part. Appeal against decision of Controller 36j. Any person aggrieved by the decision of the Controller made under this Part may, within fourteen days after being informed in writing of the decision, appeal to the Director General against the decision in the manner as may be determined by the Director General and the decision of the Director General shall be final. Part Vb FIRE-FIGHTING EQUIPMENT OR FIRE SAFETY INSTALLATION Requirement for registration of fire-fighting equipment or fire safety installation 36k. (1) The Minister may prescribe any fire-fighting equipment or fire safety installation which shall be registered under this Part. (2) No fire-fighting equipment or fire safety installation which is prescribed under subsection (1) may be installed or sell for installation by any person, at any premises, unless the fire-fighting equipment or fire safety installation has been registered under this Part. (3) Any person who contravenes subsection (2) commits an offence and shall, on conviction, be liable to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding five years or to both. Application for registration of fire-fighting equipment or fire safety installation 36l. (1) An application for registration of a fire-fighting equipment or fire safety installation which is prescribed under section 36k may be made to the Controller— (a) in the manner as may be determined by the Director General; (b) by producing any document or information as may be determined by the Director General; and (c) by paying the prescribed fee. (2) The Controller may, in writing, at any time after the receipt of an application under subsection (1) and before the application is determined, require the applicant to provide the Controller any additional document or information, or the sample of the fire-fighting equipment or fire safety installation which is prescribed under section 36k within the period specified by the Controller. (3) If the applicant fails to comply with the requirements under subsection (2), the application for registration shall be deemed to be withdrawn without affecting the right of the applicant to make a new application. (4) Upon receiving the application under subsection (1), the Controller may inspect or test the fire-fighting equipment or fire safety installation if the Controller thinks fit and necessary to do so. (5) After considering the application under subsection (1), the Controller may— (a) approve the application and issue to the applicant, upon payment of the prescribed fee, a certificate in the form as may be determined by the Director General; or (b) refuse the application by stating the grounds for the refusal. Revocation and suspension of certificate 36m. (1) Subject to subsection (2), the Director General may revoke or suspend a certificate issued under paragraph 36l(5)(a) if the Controller is satisfied that the holder of the certificate fails to comply with any condition of the certificate. (2) If the certificate is suspended under subsection (1), the Controller may require the holder of the certificate to remedy the contravention or breach within the period as determined by the Controller. (3) If the Controller is satisfied that the holder of the certificate fails to remedy the contravention or breach as required under subsection (2), or the contravention or breach continues after the certificate is suspended under subsection (1), the Controller may revoke the certificate. Appeal against decision of Controller 36n. Any person aggrieved by the decision of the Controller made under this Part may, within fourteen days after being informed in writing of the decision, appeal to the Director General against the decision in the manner as may be determined by the Director General and the decision of the Director General shall be final. Testing laboratory for fire-fighting equipment or fire safety installation 36o. For the purposes of registration of a fire-fighting equipment or fire safety installation which is prescribed under section 36 k, the Director General may issue a list of laboratories for the testing of the fire-fighting equipment or fire safety installation.”. Substitution of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 44 the following section: “Prosecution 44. No prosecution for an offence under this Act shall be instituted except by or with the written consent of the Public Prosecutor.”. Amendment of section 49"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 49 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by inserting after the words “Fire Officers” the words “and Auxiliary Fire Officers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_13",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (b) the following paragraph: “(b) for the purpose of— (i) procuring comforts, convenience and other benefits, which are not chargeable to public revenue, for Fire Officer, former Fire Officer who have retired on pension, gratuity or other allowance or persons who are partially or wholly depended on the deceased Fire Officer or former Fire Officer at the time of their death; or (ii) granting loans to the Fire Officer.”. New section 50a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 50 the following section: “Personation as Fire Officer, Auxiliary Fire Officer and Voluntary Fire Officer 50a. Any person not being a Fire Officer, Auxiliary Fire Officer or Voluntary Fire Officer who— (a) pretends to be a Fire Officer, Auxiliary Fire Officer or Voluntary Fire Officer knowing that he is not; (b) falsely personates as a Fire Officer, Auxiliary Fire Officer or Voluntary Fire Officer; (c) in such assumed character does or attempts to do any act under colour of being a Fire Officer, Auxiliary Fire Officer or Voluntary Fire Officer; or (d) misuses the name, logo, special mark or any other mark of the Fire Officer, Auxiliary Fire Officer or Voluntary Fire Officer, commits an offence and shall, on conviction, be liable to a fine not exceeding five thousand ringgit or to imprisonment for a term not exceeding three years or to both.”. Amendment of section 53"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 53 of the principal Act is amended by substituting for the words “Fire Officer or Auxiliary Fire Officer,” the words “Fire Officer, Auxiliary Fire Officer or Voluntary Fire Officer,”. New section 58a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 58 the following section: “Jurisdiction to try offences 58a. Notwithstanding any written law to the contrary, a court of a First Class Magistrate shall have jurisdiction to try any offence under this Act and to impose punishment under this Act for any such offence.”. Amendment of section 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 59(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “authorized by him in writing may” the words “, with the written consent of the Public Prosecutor,”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “five hundred ringgit” the words “one thousand ringgit”. Amendment of section 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a), by deleting the word “and” at the end of the paragraph; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (a) the following paragraph: “(aa) vehicle; and”. Amendment of section 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_19__para_kb"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 62(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (b) the following paragraph: “(ba) prescribing any fire-fighting equipment or fire safety installation which shall be registered under this Act; (b) by substituting for paragraph (c) the following paragraph: “(c) regulating the private fire brigade;”; (c) by substituting for paragraph (ca) the following paragraph: “(ca) regulating the Voluntary Fire Brigade, prescribing the duties and powers of Voluntary Fire Brigade and prescribing the matters in relation to Voluntary Fire Brigade that may be regulated by standing orders of the Director General;”; and (d) by inserting after paragraph (k) the following paragraphs: “(ka) regulating the fire safety consultant, fire safety consultant firm, competent person, fire safety contractor, training provider and instructor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_19__para_kb",
+      "@type": "akn:paragraph",
+      "eli:number": "kb",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "prescribing the category for competent person;”. New Third Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Fire Services (Amendment) Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fire Services Act 1988 [Act 341], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after the Second Schedule the following schedule: “THIRD SCHEDULE [Subsection 36e(1)] TRAINING 1. Operation of extinguishing, fighting, preventing and controlling fires 2. Installation, use, maintenance and regulation of fire-fighting equipment or fire safety installation 3. Investigation into the cause, origin and circumstances of fires 4. Protection of life and property in fire or calamity”. Saving and transitional"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every Voluntary Fire Brigade which had been registered under the Societies Act 1966 [Act 832] shall, on the date of commencement of this Act, cease to be registered under the Societies Act 1966 and shall be deemed to have been registered under the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every fire safety consultant, fire safety consultant firm, competent person, fire safety contractor, training provider and instructor shall, within one year from the date of commencement of this Act, apply to the Controller to be registered under the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Fund” the following definition: ‘ “fire risk analysis report” means a qualitative and quantitative analysis report of potential hazard or special risk of fire which exists in a premises or building and a proposed solution to prevent the hazard or special risk of fire;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “Auxiliary Fire Officer” the following definitions: ‘ “Voluntary Fire Officer” means a Voluntary Fire Officer appointed under section 4a; “Controller” means a Senior Fire Officer appointed as a Controller under section 36a;’. Amendment of section 4b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4b of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Voluntary Fire Officer may, in the manner and subject to the conditions as may be prescribed by the Minister, apply to the Registrar to establish a Voluntary Fire Brigade.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (3) the following subsection: “(3) The Registrar shall, when approving the application under subsection (2)— (a) register the Voluntary Fire Brigade; (b) issue a certificate of registration and impose any condition as may be prescribed by the Minister; and (c) determine a fire cover to the Voluntary Fire Brigade.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(3a) The certificate of registration issued under paragraph (3)(b), unless proven to be revoked, shall be conclusive evidence for all purposes that the Voluntary Fire Brigade has been duly registered under this Act. (3b) The Voluntary Fire Brigade shall be subject to the control and immediate direction of the Director General.”. New sections 4ba, 4bb, 4bc, 4bd, 4be, 4bf, 4bg and 4bh"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 4b the following sections: “Administration of Voluntary Fire Brigade 4ba. (1) A Voluntary Fire Brigade shall have a constitution in the form as may be determined by the Director General. (2) A Voluntary Fire Brigade shall be administered by a committee elected in accordance with the constitution of the Voluntary Fire Brigade. Power of Registrar to request for information 4bb. The Registrar may request from any Voluntary Fire Brigade any information or document as the Registrar deems necessary in relation to the administration of the Voluntary Fire Brigade in order to satisfy himself that the administration of the Voluntary Fire Brigade is made in accordance with this Act and the standing orders issued under section 7b. Provisions applicable to Voluntary Fire Brigade 4bc. (1) The following provisions shall apply to a Voluntary Fire Brigade: (a) the movable property of a Voluntary Fire Brigade, if not vested in the trustees, shall be deemed to be vested in the committee of the Voluntary Fire Brigade, and may, in all civil and criminal proceedings, be described as the property of the committee of the Voluntary Fire Brigade; (b) the immovable property of a Voluntary Fire Brigade may, if not registered in the name of trustees, notwithstanding the provisions of any written law to the contrary, be registered in the name of the Voluntary Fire Brigade, and all instruments relating to the property shall be valid and effective as if the instruments had been executed by three committee office-bearers of the Voluntary Fire Brigade for the time being, and whose appointments are authenticated by a certificate of the Registrar, and sealed by the Voluntary Fire Brigade; (c) a Voluntary Fire Brigade may sue or be sued in the name of such one of any committee office-bearers as shall be declared to the Registrar; (d) no suit or proceeding by or against a Voluntary Fire Brigade in any civil court shall abate or discontinue by reason of the person by or against whom the suit or proceeding has been brought or continued, dying or ceasing to fill the character in the name whereof he has sued or been sued, but the same suit or proceeding shall be continued in the name of or against the successor of that person; (e) no judgment in any such suit against a Voluntary Fire Brigade shall be put into force against the person or property of the person sued but against the property of the Voluntary Fire Brigade; and (f) the application for execution of a judgment shall set forth the judgment, the fact of the party against whom it has been recovered having sued or having been sued, as the case may be, on behalf of the Voluntary Fire Brigade, and shall require to have the judgment enforced against the property of the Voluntary Fire Brigade. (2) Any member of a Voluntary Fire Brigade who— (a) fails to pay a subscription in accordance with the constitution of the Voluntary Fire Brigade; (b) owes money to the Voluntary Fire Brigade; (c) takes possession or detains, any property of the Voluntary Fire Brigade contrary to the constitution of the Voluntary Fire Brigade; or (d) injures or destroys any property of the Voluntary Fire Brigade, may be sued for the subscription or money or for the damage accruing from that wrongful possession, detention, injury or destruction of property. (3) For the purposes of subsection (2), if the member referred to in subsection (2) is successful in that suit and is awarded costs, the member may elect to recover the costs from the person in whose name the suit was brought or from the Voluntary Fire Brigade and, in the latter case, may have execution against the property of the Voluntary Fire Brigade. Financial resources of Voluntary Fire Brigade 4bd. (1) A Voluntary Fire Brigade may carry out any activity to obtain financial resources for the Voluntary Fire Brigade provided that the activity shall be consistent with the standing orders issued under section 7b. (2) The Director General may, with the approval of the Minister and with the concurrence of the Minister of Finance, provides financial assistance to any Voluntary Fire Brigade. Production of information to Registrar by Voluntary Fire Brigade 4 b e. Every Voluntary Fire Brigade shall produce to the Registrar within sixty days after the holding of its annual general meeting or if no annual general meeting is held, within sixty days after the end of each calendar year— (a) a true and complete copy of any amendments to the constitution of the Voluntary Fire Brigade made since the date of registration or the date of the last return; (b) a true and complete list of office-bearers and the number of members of the Voluntary Fire Brigade at the date of such return; (c) the particulars of the address or the place of business of the Voluntary Fire Brigade; (d) the accounts of the last financial year of the Voluntary Fire Brigade together with a balance sheet showing the financial position at the close of the last financial year of the Voluntary Fire Brigade; (e) the particulars of the name and address of any society, association or any other body of persons, incorporated or unincorporated, outside Malaysia to which the Voluntary Fire Brigade is in any way collaborated; (f) the description of any money or property, any benefit or financial gain received by the Voluntary Fire Brigade from any source outside Malaysia or within Malaysia and other relevant particulars; and (g) such other information as the Registrar may require. Dispute 4bf. (1) Every Voluntary Fire Brigade shall resolve any dispute arising among its members in accordance with the procedure as may be determined by the Director General. (2) If a dispute cannot be resolved in accordance with the procedure as determined under subsection (1), any aggrieved member or the Voluntary Fire Brigade itself may refer the dispute to the Registrar for his decision. (3) Any party to the dispute aggrieved by the decision made by the Registrar under subsection (2) may appeal to the Minister and the decision of the Minister shall be final. Cancellation of registration of Voluntary Fire Brigade 4bg. (1) Subject to subsection (2), the Registrar may cancel the registration of a Voluntary Fire Brigade which— (a) has contravened any provision of this Act or standing orders issued under section 7b; (b) has breached any condition of the registration as prescribed by the Minister; or (c) has been convicted of an offence under this Act. (2) Prior to the registration of a Voluntary Fire Brigade being cancelled under subsection (1), the Registrar shall, by notice in writing, give an opportunity to the Voluntary Fire Brigade to show cause against the cancellation, and pending the decision of the cancellation, the registration of the Voluntary Fire Brigade shall be suspended from the date of receipt of the notice. (3) A Voluntary Fire Brigade whose registration is cancelled shall be deemed to have been dissolved and the Voluntary Fire Brigade shall not be entitled to any compensation for any loss caused by the cancellation. (4) Any Voluntary Fire Brigade aggrieved by the decision made by the Registrar under subsection (1) may appeal to the Minister and the decision of the Minister shall be final. Consequences of cancellation of registration of Voluntary Fire Brigade 4bh. (1) Upon the cancellation of the registration of a Voluntary Fire Brigade by the Registrar, the following consequences shall occur: (a) the property of the Voluntary Fire Brigade shall be immediately vested in the Director General of Insolvency; (b) the Director General of Insolvency shall proceed to wind up the affairs of the Voluntary Fire Brigade, and after satisfying and providing for all debts and liabilities of the Voluntary Fire Brigade shall pay the surplus assets of the Voluntary Fire Brigade, if any, to the members of the Voluntary Fire Brigade in accordance with the constitution of the Voluntary Fire Brigade; (c) for the purpose of the winding up the affairs of the Voluntary Fire Brigade, the Director General of Insolvency shall have all the powers which are vested in the Director General of Insolvency by any written law relating to bankruptcy for the purpose of the discovery and realization of the property of a debtor, and also such powers as are by any written law relating to companies vested in an official liquidator and all the provisions of the said laws relating to bankruptcy and to the winding up of companies, so far as the provisions relate to the discovery and realization of the property of a debtor and to the winding up of a company, shall apply, mutatis mutandis, to the winding up of the affairs of the Voluntary Fire Brigade under this Act. (2) Without prejudice to subsection (1), the Director General of Insolvency may order any party to manage the property of the Voluntary Fire Brigade until the winding up process is completed.”. New sections 4da, 4db and 4dc"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 4d the following sections: “Establishment of Malaysian Fire Cadet Corps 4da. The Minister may establish a body to be known as the Malaysian Fire Cadet Corps. Enrolment into Malaysian Fire Cadet Corps 4 d b. (1) Any person may apply to be enrolled into the Malaysian Fire Cadet Corps if— (a) subject to the Education Act 1996 [Act 550], he is a pupil who is undergoing full-time education in any educational institution as may be determined by the Minister upon consultation with the Minister charged with the responsibility for education; or (b) he is a student— (i) who is registered and following a course of study or training whether full-time or part-time in any educational or training institution as may be determined by the Minister upon consultation with the Minister charged with the responsibility for such educational or training institution; (ii) who is a Malaysian citizen; and (iii) who is below the age of thirty years. (2) An application to be enrolled into the Malaysian Fire Cadet Corps shall be made in the form and manner as may be determined by the Director General. (3) The Director General may enrol or refuse to enrol any person into the Malaysian Fire Cadet Corps. (4) Any person who has been enrolled into the Malaysian Fire Cadet Corps shall not be entitled to any allowance or remuneration. Private fire brigade in premises 4dc. (1) The Director General may, on the application of the owner, occupier or person having the overall management of any premises, authorize the establishment of a private fire brigade at the premises. (2) Without prejudice to subsection (1), the Director General may order the owner, occupier or person having the overall management of any premises to establish a private fire brigade if the establishment is deemed necessary by the Director General due to the existence of potential hazard or special risk of fire to the premises based on a fire risk analysis report. (3) The Director General may impose any condition on the establishment of a private fire brigade and give any order in relation to the performance of duties of the private fire brigade. (4) Any person who fails to comply with the conditions imposed or order given by the Director General under subsection (3) commits an offence under this Act.”. Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 5(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (a)— “(iii) determining adequate provision, installation, maintenance and regulation of fire-fighting equipment or fire safety installation in premises;”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph (ii), by substituting for the semi-colon at the end of the subparagraph the words “; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (iii) the following subparagraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subparagraph (iv);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (b), by deleting the word “and” at the end of the paragraph;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the full stop at the end of the paragraph the words “; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph: “(d) providing training programmes in relation to matters pertaining to the duties of the Fire and Rescue Department as specified in paragraphs (a), (b) and (c) and any other matters under the responsibility of the Fire and Rescue Department.”. Amendment of section 7b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7b of the principal Act is amended by substituting for the words “and Voluntary Fire Officers” the words “, Voluntary Fire Officers and Voluntary Fire Brigades”. New section 7c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 7b the following section: “Power to issue guidelines 7c. The Director General may issue guidelines as he deems necessary and expedient for the purposes of implementation of the provisions of this Act.”. Amendment of section 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/2/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 21 of the principal Act is amended by substituting for the words “Fire Officer or Auxiliary Fire Officer” the words “Fire Officer, Auxiliary Fire Officer or Voluntary Fire Officer”. Amendment of section 31"
+      }
+    }
+  ]
+}

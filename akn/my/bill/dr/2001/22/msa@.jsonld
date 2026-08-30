@@ -109,9 +109,7 @@
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__para_b",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__para_d",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__subsec_8",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__subsec_9"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__para_d"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@",
       "schema:name": {
@@ -180,27 +178,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: \"(7) Umur persaraan paksa lima puluh enam tahun yang diperuntukkan dalam subseksyen (1) hendaklah terpakai bagi seseorang pekerja yang dilantik pada atau selepas 1 Oktober 2001."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__subsec_8",
-      "@type": "akn:subsection",
-      "eli:number": "8",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Umur persaraan paksa lima puluh enam tahun yang diperuntukkan dalam subseksyen (1) tidak terpakai bagi seseorang pekerja yang telah dilantik sebelum 1 Oktober 2001 dan telah diberikan opsyen sebelum tarikh itu dan tidak memilih umur persaraan paksa lima puluh enam tahun."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3__subsec_9",
-      "@type": "akn:subsection",
-      "eli:number": "9",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Opsyen bagi umur persaraan paksa lima puluh enam tahun yang dilaksanakan oleh seseorang pekerja yang disebut dalam subseksyen (8) tidak boleh dibatalkan.\". Pindaan seksyen 12"
+        "@value": "dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: \"(7) Umur persaraan paksa lima puluh enam tahun yang diperuntukkan dalam subseksyen (1) hendaklah terpakai bagi seseorang pekerja yang dilantik pada atau selepas 1 Oktober 2001. (8) Umur persaraan paksa lima puluh enam tahun yang diperuntukkan dalam subseksyen (1) tidak terpakai bagi seseorang pekerja yang telah dilantik sebelum 1 Oktober 2001 dan telah diberikan opsyen sebelum tarikh itu dan tidak memilih umur persaraan paksa lima puluh enam tahun. (9) Opsyen bagi umur persaraan paksa lima puluh enam tahun yang dilaksanakan oleh seseorang pekerja yang disebut dalam subseksyen (8) tidak boleh dibatalkan.\". Pindaan seksyen 12"
       }
     },
     {
@@ -209,8 +187,7 @@
       "eli:number": "4",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_4__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_4__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_4__para_c"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_4__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@",
       "schema:name": {
@@ -235,17 +212,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_4",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (3A) subseksyen yang berikut: \"(3B) Jika seseorang pekerja yang disebut dalam subseksyen (3) yang telah dilantik sebelum 1 Oktober 2001 yang telah diberikan opsyen sebelum tarikh itu dan tidak memilih umur persaraan paksa lima puluh enam tahun, subseksyen (3) hendaklah terpakai baginya dengan menggantikan perkataan 'lima puluh enam' dengan perkataan 'lima puluh HmaV; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_4__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/22/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam subseksyen (4), dengan memasukkan selepas perkataan \"lima puluh lima tahun\" perkataan \"atau lima puluh enam tahun\". Pindaan seksyen 13"
+        "@value": "dengan memasukkan selepas subseksyen (3A) subseksyen yang berikut: \"(3B) Jika seseorang pekerja yang disebut dalam subseksyen (3) yang telah dilantik sebelum 1 Oktober 2001 yang telah diberikan opsyen sebelum tarikh itu dan tidak memilih umur persaraan paksa lima puluh enam tahun, subseksyen (3) hendaklah terpakai baginya dengan menggantikan perkataan 'lima puluh enam' dengan perkataan 'lima puluh HmaV; dan (c) dalam subseksyen (4), dengan memasukkan selepas perkataan \"lima puluh lima tahun\" perkataan \"atau lima puluh enam tahun\". Pindaan seksyen 13"
       }
     },
     {

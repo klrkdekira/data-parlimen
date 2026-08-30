@@ -162,58 +162,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 20 seksyen yang berikut: “Perubahan pendaftaran 20a. (1) Jika orang berdaftar membuat suatu pemberitahuan di bawah seksyen 19, Ketua Pengarah boleh mengubah pendaftaran orang itu atau butir-butir pendaftaran orang itu dari tarikh orang berdaftar itu berhenti menjalankan perniagaan yang memberikan apa-apa perkhidmatan bercukai."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika tiada pemberitahuan dibuat di bawah seksyen 19 dan Ketua Pengarah berpuas hati bahawa orang berdaftar telah berhenti memberikan apa-apa perkhidmatan bercukai atau telah terhenti bertanggungan untuk berdaftar di bawah seksyen 18, Ketua Pengarah boleh mengubah pendaftaran orang itu atau butir-butir pendaftaran orang itu dari tarikh orang berdaftar itu berhenti memberikan apa-apa perkhidmatan bercukai."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_3__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika Ketua Pengarah berpuas hati bahawa pada hari orang itu didaftarkan—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam hal seorang yang telah didaftarkan di bawah seksyen 13, orang itu telah tidak bertanggungan untuk berdaftar di bawah seksyen 12, telah tidak memberikan apa-apa perkhidmatan bercukai atau telah berhenti untuk memberikan apa-apa perkhidmatan bercukai; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_5__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dalam hal seorang yang telah didaftarkan di bawah seksyen 14, orang itu telah tidak memberikan apa-apa perkhidmatan bercukai atau telah berhenti memberikan apa-apa perkhidmatan bercukai, Ketua Pengarah boleh mengubah pendaftaran orang itu atau butir-butir pendaftaran orang itu berkuat kuasa dari tarikh sebagaimana yang ditentukan oleh Ketua Pengarah dalam pemberitahuan secara bertulis kepada orang itu.”. Pindaan seksyen 27"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 20 seksyen yang berikut: “Perubahan pendaftaran 20a. (1) Jika orang berdaftar membuat suatu pemberitahuan di bawah seksyen 19, Ketua Pengarah boleh mengubah pendaftaran orang itu atau butir-butir pendaftaran orang itu dari tarikh orang berdaftar itu berhenti menjalankan perniagaan yang memberikan apa-apa perkhidmatan bercukai. (2) Jika tiada pemberitahuan dibuat di bawah seksyen 19 dan Ketua Pengarah berpuas hati bahawa orang berdaftar telah berhenti memberikan apa-apa perkhidmatan bercukai atau telah terhenti bertanggungan untuk berdaftar di bawah seksyen 18, Ketua Pengarah boleh mengubah pendaftaran orang itu atau butir-butir pendaftaran orang itu dari tarikh orang berdaftar itu berhenti memberikan apa-apa perkhidmatan bercukai. (3) Jika Ketua Pengarah berpuas hati bahawa pada hari orang itu didaftarkan— (a) dalam hal seorang yang telah didaftarkan di bawah seksyen 13, orang itu telah tidak bertanggungan untuk berdaftar di bawah seksyen 12, telah tidak memberikan apa-apa perkhidmatan bercukai atau telah berhenti untuk memberikan apa-apa perkhidmatan bercukai; atau (b) dalam hal seorang yang telah didaftarkan di bawah seksyen 14, orang itu telah tidak memberikan apa-apa perkhidmatan bercukai atau telah berhenti memberikan apa-apa perkhidmatan bercukai, Ketua Pengarah boleh mengubah pendaftaran orang itu atau butir-butir pendaftaran orang itu berkuat kuasa dari tarikh sebagaimana yang ditentukan oleh Ketua Pengarah dalam pemberitahuan secara bertulis kepada orang itu.”. Pindaan seksyen 27"
       }
     },
     {
@@ -250,34 +202,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_9",
       "@type": "akn:clause",
       "eli:number": "9",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_9__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_9__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 34 seksyen yang berikut: “Pembayaran balik melalui pemotongan cukai perkhidmatan 34a. (1) Ketua Pengarah boleh mengarahkan mana-mana orang berdaftar untuk memotong amaun pembayaran balik terhadap amaun cukai perkhidmatan yang perlu dibayar daripada penyatanya dalam seksyen 26 jika orang berdaftar itu telah diberikan pembayaran balik cukai perkhidmatan di bawah perenggan 34(3)(b) atau telah membuat potongan di bawah seksyen 23 atau 39."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_9__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika selepas pemotongan dibuat di bawah subseksyen (1), terdapat apa-apa baki dalam amaun pembayaran balik, baki itu hendaklah dibayar balik kepada orang berdaftar itu oleh Ketua Pengarah."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_9__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walau apa pun subseksyen (2), Ketua Pengarah boleh memegang keseluruhan atau mana-mana bahagian amaun yang kena dibayar balik di bawah subseksyen (2) untuk dikreditkan kepada apa-apa tempoh bercukai berikutnya atau seterusnya dan Ketua Pengarah hendaklah menganggap amaun yang dikreditkan itu sebagai pembayaran atau sebahagian pembayaran yang diterima daripada orang berdaftar itu.”. Pindaan seksyen 40"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 34 seksyen yang berikut: “Pembayaran balik melalui pemotongan cukai perkhidmatan 34a. (1) Ketua Pengarah boleh mengarahkan mana-mana orang berdaftar untuk memotong amaun pembayaran balik terhadap amaun cukai perkhidmatan yang perlu dibayar daripada penyatanya dalam seksyen 26 jika orang berdaftar itu telah diberikan pembayaran balik cukai perkhidmatan di bawah perenggan 34(3)(b) atau telah membuat potongan di bawah seksyen 23 atau 39. (2) Jika selepas pemotongan dibuat di bawah subseksyen (1), terdapat apa-apa baki dalam amaun pembayaran balik, baki itu hendaklah dibayar balik kepada orang berdaftar itu oleh Ketua Pengarah. (3) Walau apa pun subseksyen (2), Ketua Pengarah boleh memegang keseluruhan atau mana-mana bahagian amaun yang kena dibayar balik di bawah subseksyen (2) untuk dikreditkan kepada apa-apa tempoh bercukai berikutnya atau seterusnya dan Ketua Pengarah hendaklah menganggap amaun yang dikreditkan itu sebagai pembayaran atau sebahagian pembayaran yang diterima daripada orang berdaftar itu.”. Pindaan seksyen 40"
       }
     },
     {
@@ -405,121 +333,40 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_16",
       "@type": "akn:clause",
       "eli:number": "16",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_16__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 62 seksyen yang berikut: “Kuasa untuk mengelak 62a. (1) Jika oleh sebab jenis, saiz atau amaunnya tidak praktikal untuk memindahkan apa-apa barang, dokumen, artikel atau benda yang disita di bawah Akta ini, seseorang pegawai cukai perkhidmatan yang hak boleh, dengan apa-apa cara, mengelak barang, dokumen, artikel atau benda itu, atau tempat, premis, bekas muatan, bungkusan atau pengangkut yang di dalamnya barang, dokumen, artikel atau benda itu dijumpai."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_16__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_16",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang, tanpa kuasa yang sah, memecah, mengganggu atau merosakkan lak yang disebut dalam subseksyen (1) atau memindahkan barang, dokumen, artikel, benda, bekas muatan, bungkusan atau pengangkut yang dilak itu, atau cuba untuk berbuat demikian, melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya.”. Seksyen baharu 63a dan 63b"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 62 seksyen yang berikut: “Kuasa untuk mengelak 62a. (1) Jika oleh sebab jenis, saiz atau amaunnya tidak praktikal untuk memindahkan apa-apa barang, dokumen, artikel atau benda yang disita di bawah Akta ini, seseorang pegawai cukai perkhidmatan yang hak boleh, dengan apa-apa cara, mengelak barang, dokumen, artikel atau benda itu, atau tempat, premis, bekas muatan, bungkusan atau pengangkut yang di dalamnya barang, dokumen, artikel atau benda itu dijumpai. (2) Seseorang yang, tanpa kuasa yang sah, memecah, mengganggu atau merosakkan lak yang disebut dalam subseksyen (1) atau memindahkan barang, dokumen, artikel, benda, bekas muatan, bungkusan atau pengangkut yang dilak itu, atau cuba untuk berbuat demikian, melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya.”. Seksyen baharu 63a dan 63b"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17",
       "@type": "akn:clause",
       "eli:number": "17",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: “Kuasa tambahan 63a. (1) Sebagai tambahan kepada dan tanpa menjejaskan kuasa sedia ada yang diberikan di bawah Akta ini, apabila membawa dan menjaga mana-mana orang dalam tahanan, seseorang pegawai cukai perkhidmatan yang hak hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan kuasa seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537]."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud Akta ini—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seorang pegawai kanan cukai perkhidmatan, dan bagi maksud itu, tempat perintah, perakuan atau perbuatan itu diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_17__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "seseorang pegawai cukai perkhidmatan yang hak hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai suatu balai polis. Kuasa penguatkuasaan, pemeriksaan dan penyiasatan 63b. Bagi maksud Akta ini, seseorang pegawai kanan cukai perkhidmatan hendaklah mempunyai segala kuasa seorang pegawai polis yang apa jua pun pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593] berhubung dengan penguatkuasaan, pemeriksaan dan penyiasatan, dan kuasa yang sedemikian hendaklah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan tidak mengurangkan kuasanya.”. Seksyen baharu 65a"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: “Kuasa tambahan 63a. (1) Sebagai tambahan kepada dan tanpa menjejaskan kuasa sedia ada yang diberikan di bawah Akta ini, apabila membawa dan menjaga mana-mana orang dalam tahanan, seseorang pegawai cukai perkhidmatan yang hak hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan kuasa seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537]. (2) Bagi maksud Akta ini— (a) jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seorang pegawai kanan cukai perkhidmatan, dan bagi maksud itu, tempat perintah, perakuan atau perbuatan itu diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; dan (b) seseorang pegawai cukai perkhidmatan yang hak hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai suatu balai polis. Kuasa penguatkuasaan, pemeriksaan dan penyiasatan 63b. Bagi maksud Akta ini, seseorang pegawai kanan cukai perkhidmatan hendaklah mempunyai segala kuasa seorang pegawai polis yang apa jua pun pangkatnya sebagaimana yang diperuntukkan di bawah Kanun Tatacara Jenayah [Akta 593] berhubung dengan penguatkuasaan, pemeriksaan dan penyiasatan, dan kuasa yang sedemikian hendaklah sebagai tambahan kepada kuasa yang diperuntukkan di bawah Akta ini dan tidak mengurangkan kuasanya.”. Seksyen baharu 65a"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_18",
       "@type": "akn:clause",
       "eli:number": "18",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_18__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 65 seksyen yang berikut: “Keterangan ejen provokasi boleh diterima 65a. (1) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, tiada ejen provokasi boleh dianggap tidak boleh dipercayai hanya oleh sebab dia telah cuba bersubahat atau telah bersubahat dalam melakukan suatu kesalahan oleh mana-mana orang di bawah Akta ini jika cubaan untuk bersubahat atau persubahatan itu adalah semata-mata bagi maksud mendapatkan keterangan terhadap orang itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_18__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_18",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, dan ejen provokasi itu ialah seorang pegawai polis yang apa jua pun pangkatnya atau pegawai cukai perkhidmatan, apa-apa pernyataan, sama ada lisan atau bertulis, yang dibuat kepada ejen provokasi oleh mana-mana orang yang kemudiannya dipertuduh atas suatu kesalahan di bawah Akta ini boleh diterima sebagai keterangan semasa perbicaraannya.”. Seksyen baharu 73a"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 65 seksyen yang berikut: “Keterangan ejen provokasi boleh diterima 65a. (1) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, tiada ejen provokasi boleh dianggap tidak boleh dipercayai hanya oleh sebab dia telah cuba bersubahat atau telah bersubahat dalam melakukan suatu kesalahan oleh mana-mana orang di bawah Akta ini jika cubaan untuk bersubahat atau persubahatan itu adalah semata-mata bagi maksud mendapatkan keterangan terhadap orang itu. (2) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, dan ejen provokasi itu ialah seorang pegawai polis yang apa jua pun pangkatnya atau pegawai cukai perkhidmatan, apa-apa pernyataan, sama ada lisan atau bertulis, yang dibuat kepada ejen provokasi oleh mana-mana orang yang kemudiannya dipertuduh atas suatu kesalahan di bawah Akta ini boleh diterima sebagai keterangan semasa perbicaraannya.”. Seksyen baharu 73a"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_19",
       "@type": "akn:clause",
       "eli:number": "19",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_19__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_19__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 73 seksyen yang berikut: “Mendapatkan pemotongan cukai perkhidmatan secara tidak wajar 73a. Mana-mana orang yang menyebabkan atau cuba menyebabkan pemotongan cukai perkhidmatan di bawah subseksyen 23(1), 34a(1) atau 39(2) untuk dirinya atau mana-mana orang lain apa-apa amaun yang melebihi amaun yang sepatutnya dipotong untuk dirinya atau orang lain itu melakukan suatu kesalahan dan boleh, apabila disabitkan—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_19__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_19",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_19__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/23/msa@/~part_IX__cl_19",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "dikenakan penalti dua kali ganda amaun yang dipotong yang melebihi amaun yang sepatutnya boleh dipotong.”. Pindaan seksyen 82"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 73 seksyen yang berikut: “Mendapatkan pemotongan cukai perkhidmatan secara tidak wajar 73a. Mana-mana orang yang menyebabkan atau cuba menyebabkan pemotongan cukai perkhidmatan di bawah subseksyen 23(1), 34a(1) atau 39(2) untuk dirinya atau mana-mana orang lain apa-apa amaun yang melebihi amaun yang sepatutnya dipotong untuk dirinya atau orang lain itu melakukan suatu kesalahan dan boleh, apabila disabitkan— (a) didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun atau kedua-duanya; dan (b) dikenakan penalti dua kali ganda amaun yang dipotong yang melebihi amaun yang sepatutnya boleh dipotong.”. Pindaan seksyen 82"
       }
     },
     {

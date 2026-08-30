@@ -1,0 +1,780 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-40-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~sched_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_V"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Finance (No. 2) Bill 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_I",
+      "@type": "akn:chapter",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "@type": "akn:chapter",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_14"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE INCOME TAX ACT 1967 Commencement of amendments to the Income Tax Act 1967"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III",
+      "@type": "akn:chapter",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_18"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE REAL PROPERTY GAINS TAX ACT 1976 Commencement of amendments to the Real Property Gains Tax Act 1976"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 16, 17 and 18 come into operation on 1 January 2018. Amendment of section 21b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Real Property Gains Tax Act 1976, which is referred to as the “principal Act” in this Chapter, is amended in section 21b—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by substituting for the word “Where” the words “Subject to subsection (1A), where”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1A) For the purpose of subsection (1), where the disposer in a disposal referred to in that subsection is not a citizen and not a permanent resident, the acquirer shall retain the whole of that money or a sum not exceeding seven per cent of the total value of the consideration whichever is the less, and (whether or not that amount is so retained) he shall within sixty days after the date of such disposal pay that amount to the Director General.”. Amendment of Schedule 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Schedule 2 to the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph 3— “(2) Any transfer of assets between spouses or to a company referred to in subsubparagraph (1)(b) shall involve an asset owned by a citizen.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing paragraph as subparagraph (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subparagraph (1) as renumbered the following subparagraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraph 16(a), by deleting the words “or an authority or committee appointed by the Government or a State Government”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subparagraphs 19(5) and 34(1), by substituting for the words “subparagraph 3(b)”, wherever appearing, the words “subsubparagraph 3(1)(b)”. Amendment of Schedule 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Part III of Schedule 5 to the principal Act is amended by substituting for the words “In the case of an individual who is not a citizen and not a permanent resident” the words “In the case of a disposer who is not a citizen and not a permanent resident, or an executor of the estate of a deceased person who is not a citizen and not a permanent resident”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The proviso to subsection 127(5) of the principal Act is amended by substituting for the words “or 109b”, wherever appearing, the words “, 109b or 109d”. Amendment of section 140a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 140A of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the shoulder note, by deleting the words “and disallowance of interest”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “subsections (3) and (4)” the words “subsection (3)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsection (4); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_d__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_d__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (5)— subsection (2)”; and Amendment of Schedule 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_d__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “or the financial assistance referred to in subsection (2) or (4) respectively,” the words “referred"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_d__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_11__para_d",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting the words “or financial assistance”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 1 of Part 1 of Schedule 1 to the principal Act is amended in the column “Rates of Income Tax”—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “5 per cent” the words “3 per cent”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “10 per cent” the words “8 per cent”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “16 per cent” the words “14 per cent”. Amendment of Schedule 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule 3 to the principal Act is amended by substituting for subparagraph 61A(5) the following subparagraph: “(5) Where paragraph (4) applies, in determining the residual expenditure of such asset for that following basis period, the total qualifying expenditure incurred by that person shall be reduced by— (a) any initial allowance made to that person in relation to that asset for any year of assessment; (b) any annual allowance made to that person in relation to that asset for any year of assessment; and (c) an amount of annual allowance which would have been made to that person for the basis period in which the asset was classified as held for sale as if the asset had been in use in that basis period for the purpose of a business of his.”. Amendment of Schedule 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule 6 to the principal Act is amended in subparagraph 22(b), by deleting the words “(that is to say, any professional entertainer, artiste, athlete or other individual who entertains whether in public or private for profit on stage, radio or television, at a stadium or sports ground, or otherwise)”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 4, 7 and 8 have effect for the year of assessment 2019 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 5, 9, 10, 13 and 14 come into operation on the coming into operation of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 6 and 12 have effect for the year of assessment 2018 and subsequent years of assessment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 11 comes into operation on 1 January 2018. Amendment of section 21a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967, which is referred to as the “principal Act” in this Chapter, is amended in section 21A, by inserting after subsection (3) the following subsection: “(3A) Where a company, limited liability partnership, trust body or co-operative society has made up the accounts of its operations for a period of twelve months ending on a day in a basis year and has failed to make up its accounts ending on the corresponding day in the following basis year (“hereinafter referred to as “the new accounts”), the company, limited liability partnership, trust body or co-operative society shall notify the Director General of such failure in the prescribed form—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case where the new accounts are made up ending before the corresponding day, thirty days before the end of the new accounts; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the case where the new accounts are made up ending after the corresponding day, thirty days before the corresponding day.”. Amendment of section 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 44(12) of the principal Act is amended by inserting after the word “company”, wherever appearing, the words “, limited liability partnership”. Amendment of section 60aa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 60AA of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (9)(b)(iii) the following subparagraph: “(iii) the amount of management expenses incurred by him in that period in connection with— (A) wakalah fee receivable in relation to the general fund, inward retakaful fund, offshore fund or family retakaful fund; (B) any other fee receivable in relation to the general fund, inward retakaful fund, offshore fund or family retakaful fund; or (C) any other fee receivable in relation to an investment fund from the family fund; and”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subparagraph (10)(b)(iii) the following subparagraph: “(iii) the amount of management expenses incurred by him in that period in connection with— (A) wakalah fee receivable in relation to the general fund, inward retakaful fund, offshore fund or family retakaful; (B) any other fee receivable in relation to the general fund, inward retakaful fund, offshore fund or family retakaful fund; or (C) any other fee receivable in relation to an investment fund from the family fund; and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (10A) the following subsection: “(10b) The management expenses incurred for the basis period for a year of assessment under— (a) subsubparagraph (9)(b)(iii)(B) or (C) shall be determined in accordance with the following formula: AxC B where A is the total amount of gross income for that period referred to in subparagraph (9)(a)(iii) excluding the amount of gross income in respect of wakalah fee; B is the total amount of gross income for that period referred to in subparagraph (9)(a)(iii) excluding the amount of gross income in respect of wakalah fee for commission; and C is the total management expenses incurred under subparagraph (9)(b)(iii); or (b) subsubparagraph (10)(b)(iii)(B) or (C) shall be determined in accordance with the following formula: AxC B where A is the total amount of gross income for that period referred to in subparagraph (10)(a)(iii), excluding the amount of gross income in respect of wakalah fee; B is the total amount of gross income for that period referred to in subparagraph (10)(a)(iii), excluding the amount of gross income in respect of wakalah fee for commission; and C is the total management expenses incurred under subparagraph (10)(b)(iii).”. Amendment of section 107c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 107C of the principal Act is amended by inserting after subsection (11A) the following subsection: “(11b) Where there is a failure by a company, limited liability partnership, trust body or co-operative society to make up its accounts ending on the corresponding day in the following basis year pursuant to subsection 21A(3) and the company, limited liability partnership, trust body or co-operative society fails to give a notification in accordance with subsection 21A(3A), any amount of increase or sum that had been imposed under this section based on the accounting period prior to the new accounts as mentioned in subsection 21A(3A) shall continue to be recoverable as if it were tax due and payable from the company, limited liability partnership, trust body or co-operative society to the Government.”. Amendment of section 112"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 112 of the principal Act is amended by inserting after subsection (3) the following subsection: “(3A) Where there is a failure by a company, limited liability partnership, trust body or co-operative society to make up its accounts ending on the corresponding day in the following basis year pursuant to subsection 21A(3) and the company, limited liability partnership, trust body or co-operative society fails to give a notification in accordance with subsection 21A(3A), any penalty that had been imposed under subsection (3) based on the accounting period prior to the new accounts as mentioned in subsection 21A(3A) shall continue to be recoverable under this Act.”. Amendment of section 120"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 120(1) of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (f), by deleting the word “or”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (h), by substituting for the comma at the end of the paragraph the words “; or” ; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (h) the following paragraph: “(i) fails to notify the Director General as required by subsection 21A(3A),”. Amendment of section 127"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV",
+      "@type": "akn:chapter",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENTS TO THE GOODS AND SERVICES TAX ACT 2014 Commencement of amendment to the Goods and Services Tax Act 2014"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 20, 21, 22 and 23 come into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Goods and Services Tax Act 2014 [Act 762], which is referred to as the “principal Act” in this Chapter, is amended in paragraph 22(3)(a), by inserting after the words “to be supplied” the words “due to cessation of business,”. Amendment of section 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 43 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1A) Where any person other than a taxable person— (a) fails to furnish a declaration under section 42; or (b) furnishes a declaration which to the Director General appears incomplete or incorrect, the Director General may asses to the best of his judgment the amount of tax and penalty under subsection 42(4), if any, due and payable from such person and shall forthwith notify such person of the assessment in writing.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by inserting after the words “(1)” the words “, (1A)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (8), by inserting after the words “(1),” the words “(1A),”. Amendment of section 64"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 64 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(a), by substituting for the words “and State Governments” the words “, State Governments and local authorities”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (1)(b), by deleting the words “local authority and”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_22",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by deleting the words “local authority or” wherever appearing. Amendment of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_IV",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in paragraph 2 of the Second"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Finance (No. 2) Act 2017. Amendment of Acts"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_I",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Income Tax Act 1967 [Act 53], the Real Property Gains Tax Act 1976 [Act 169], the Goods and Services Tax Act 2014 [Act 762] and the Finance Act 2013 [Act 755] are amended in the manner specified in Chapters II, III, IV and V, respectively."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_V",
+      "@type": "akn:chapter",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_V__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_V__cl_25"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "AMENDMENT TO THE FINANCE ACT 2013 Commencement of amendment to the Finance Act 2013"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_V__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Chapter has effect from the year of assessment 2018. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~chp_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Finance Act 2013 is amended in subsection 3(7), by substituting for the words “and 2017” the words “, 2017, 2018, 2019 and 2020”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/40/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "(a) by substituting for the shoulder note the following shoulder note: “Pension fund, etc.”; and (b) by inserting after the words “written law” the words “or any levy under the Pembangunan Sumber Manusia Berhad Act 2001 [Act 612]”."
+      }
+    }
+  ]
+}

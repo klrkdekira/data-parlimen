@@ -1,0 +1,568 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-29-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_22"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pengangkutan Jalan (Pindaan) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 40(1) Akta ibu dipinda dengan menggantikan perkataan “tidak melebihi satu ribu” dengan perkataan “tidak kurang daripada tiga ratus ringgit dan tidak lebih daripada dua ribu”. Pindaan seksyen 53A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 53A Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “serta-merta” dengan perkataan “seberapa segera yang semunasabahnya praktik”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Notis yang dikeluarkan di bawah subseksyen (1) hendaklah— (a) mengandungi butir-butir yang berikut: (i) tarikh, masa dan tempat kesalahan dilakukan; (ii) kesalahan yang dilakukan; (iii) imej yang dirakamkan mengenai plat nombor pendaftaran kenderaan itu; (iv) imej yang dirakamkan mengenai kenderaan motor itu; dan (v) tawaran untuk mengkompaun ataupun permintaan supaya hadir di mahkamah; dan (b) ditandatangani secara digital oleh pihak yang mengeluarkan notis.”. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 54 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “sikal kayuh” perkataan “dan basikal elektrik”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “basikal” perkataan “, basikal elektrik”. Pindaan seksyen 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 56 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2A) Suatu lesen vokasional yang dikeluarkan di bawah Bahagian ini hendaklah berkuat kuasa bagi tempoh yang dinyatakan dalam lesen vokasional itu melainkan jika lesen vokasional itu terlebih dahulu dibatalkan di bawah subseksyen (4) atau (4A).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (4)(a), dengan memasukkan selepas perkataan “apa-apa penyakit” perkataan “, kelakuan yang ditetapkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4A) Tanpa menjejaskan subseksyen (4), suatu lesen vokasional yang dikeluarkan di bawah Bahagian ini hendaklah— (a) digantung jika lesen memandu yang dikeluarkan di bawah seksyen 27 digantung di bawah seksyen 32, 35 atau 36; (b) dibatalkan jika lesen memandu yang dikeluarkan di bawah seksyen 27 dibatalkan di bawah seksyen 35.”. Pindaan seksyen 59"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 59(9) Akta ibu dipinda dengan menggantikan perkataan “tidak melebihi dua ribu” dengan perkataan “tidak kurang daripada tiga ratus ringgit dan tidak lebih daripada dua ribu”. Pindaan seksyen 66A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 66A(2) Akta ibu dipinda dengan menggantikan perkataan “tidak melebihi lima ribu” dengan perkataan “tidak kurang daripada tiga ratus ringgit dan tidak lebih daripada lima ribu”. Seksyen baru 76A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 76 seksyen yang berikut: “Belok kiri dibenarkan 76A. (1) Walau apa pun isyarat merah atau isyarat lalu lintas lain yang menunjukkan tempat di mana lalu lintas mesti berhenti di mana-mana simpang lalu lintas, mana-mana orang yang memandu sesuatu kenderaan motor di jalan boleh membelok ke kiri di simpang lalu lintas itu mengikut mana- mana isyarat lalu lintas yang membenarkan belok kiri yang telah diletakkan dengan sah di sisi undang-undang di jalan itu setelah berhenti sebelum garisan berhenti yang ditandakan di atas jalan untuk memastikan bahawa adalah selamat untuk berbuat demikian. (2) Bagi maksud subseksyen (1), Menteri boleh, selepas berunding dengan Menteri yang dipertanggungkan dengan tanggungjawab bagi kerja raya, membuat kaedah-kaedah yang berhubungan dengan pergerakan kenderaan motor dan pejalan kaki dan pendirian isyarat lalu lintas di simpang lalu lintas yang belok kiri dibenarkan. (3) Suatu pihak berkuasa yang berkenaan boleh, dengan kelulusan Menteri yang dipertanggungkan dengan tanggungjawab bagi kerja raya berhubung dengan suatu jalan Persekutuan dan jalan Wilayah Persekutuan yang ditetapkan, dan dalam mana-mana hal selepas berunding dengan Ketua Pegawai Polis, mengadakan apa-apa isyarat lalu lintas yang didapatinya patut, dan hendaklah menjalankan apa-apa kerja (termasuk meletakkan, mendirikan dan menyenggarakan isyarat lalu lintas) yang dikehendaki berkaitan dengan simpang lalu lintas yang belok kiri dibenarkan. (4) Mana-mana orang yang melanggar seksyen ini atau mana-mana kaedah-kaedah yang dibuat di bawah seksyen ini berhubung dengan belok kiri dibenarkan melakukan suatu kesalahan dan apabila disabitkan boleh dikenakan denda tidak kurang daripada tiga ratus ringgit dan tidak lebih daripada dua ribu ringgit.”. Pindaan seksyen 79"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 79 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris dalam nota bahu, dengan menggantikan perkataan “neglet” dengan perkataan “neglect”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “pegawai polis berpakaian seragam” perkataan “, seseorang pegawai pengangkutan jalan berpakaian seragam”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “oleh pegawai polis” perkataan “, pegawai pengangkutan jalan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi lima ratus” dengan perkataan “tidak kurang daripada tiga ratus ringgit dan tidak lebih daripada dua ribu”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)— Pindaan seksyen 88"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “subseksyen (1)” perkataan “dan seksyen 76A”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_17__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “tidak melebihi lima ratus” dengan perkataan “tidak kurang daripada tiga ratus ringgit dan tidak lebih daripada dua ribu”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 88(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan memasukkan selepas perkataan “basikal,” perkataan “basikal elektrik,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (p), dengan memasukkan selepas perkataan “basikal berkayuh,” perkataan “basikal elektrik,”. Pindaan seksyen 112"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 112(3) Akta ibu dipinda dengan memasukkan selepas perkataan “basikal” perkataan “, basikal elektrik”. Pindaan seksyen 115A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pengangkutan Jalan (Pindaan) 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Jalan 1987 [Akta 333], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 115A(1) Akta ibu dipinda dengan menggantikan perkataan “serta-merta” dengan perkataan “seberapa segera yang semunasabahnya praktik”. Pindaan seksyen 118"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 118 Akta ibu dipinda dalam nota bahu dengan memotong perkataan “dan tandatangan”. Pindaan Jadual Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jadual Kedua kepada Akta ibu dipinda dengan menggantikan perenggan (iii) dengan perenggan yang berikut: “(iii) Tertakluk kepada seksyen 76A, tidak mematuhi isyarat merah pada isyarat lalu lintas”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “barangan” takrif yang berikut: ‘ “basikal elektrik” ertinya sikal dengan bantuan kayuh yang dilengkapi dengan motor elektrik sokongan yang mempunyai kuasa berkadar berterusan yang maksimum 0.25 kW, dengan outputnya berkurangan secara beransur-ansur dan akhirnya terhenti apabila kenderaan mencapai kelajuan 25 km/j atau sebelumnya jika penunggang sikal berhenti mengayuh;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris dalam takrif “electronic motor vehicle”, dengan menggantikan perkataan “electronic” dengan perkataan “electric”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “lalu lintas”, dengan memasukkan selepas perkataan “basikal,” perkataan “basikal elektrik,”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 5(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “tiga ribu” perkataan “lima ratus”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (e), dengan menggantikan perkataan “melebihi tiga ribu” dengan perkataan “tidak melebihi tiga ribu lima ratus”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (f), dengan memasukkan selepas perkataan “tiga ribu” perkataan “lima ratus”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 14(4) Akta ibu dipinda dengan memasukkan selepas perkataan “boleh didenda” perkataan “tidak kurang daripada tiga ratus ringgit dan”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(4) Akta ibu dipinda dengan menggantikan perkataan “tidak melebihi” dengan perkataan “tidak kurang daripada tiga ratus ringgit dan tidak lebih daripada”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(1) Akta ibu dipinda dengan memasukkan selepas perenggan (bb) perenggan yang berikut: “(bc) berhubung dengan suatu kelas atau kategori kenderaan motor yang dikehendaki menjalani pemeriksaan berkala di bawah Bahagian IIA, perakuan pemeriksaan yang dikeluarkan di bawah seksyen 66C dikemukakan;”. Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 26(2) Akta ibu dipinda dengan menggantikan perkataan “tidak melebihi satu ribu” dengan perkataan “tidak kurang daripada tiga ratus ringgit dan tidak lebih daripada dua ribu”. Pindaan seksyen 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 35(8) Akta ibu dipinda dengan menggantikan perkataan “seksyen 119” dengan perkataan “seksyen 53, 53A, 115A atau 119, mengikut mana-mana yang berkenaan, melainkan jika prosiding jenayah telah dimulakan bagi kesalahan itu”. Pindaan seksyen 35A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/29/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 35A(6) Akta ibu dipinda dengan menggantikan perkataan “seksyen 119” dengan perkataan “seksyen 53, 53A, 115A atau 119, mengikut mana-mana yang berkenaan, melainkan jika prosiding jenayah telah dimulakan bagi kesalahan itu”. Pindaan seksyen 40"
+      }
+    }
+  ]
+}

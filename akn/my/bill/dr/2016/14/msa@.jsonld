@@ -1,0 +1,134 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-14-2016",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perancangan Bandar dan Desa (Pindaan) 2016"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perancangan Bandar dan Desa (Pindaan) 2016."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini terpakai bagi Semenanjung Malaysia dan Wilayah Persekutuan Labuan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa di sesuatu Negeri pada tarikh yang ditetapkan oleh Pihak Berkuasa Negeri, dengan persetujuan Menteri, melalui pemberitahuan dalam Warta Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa di Wilayah Persekutuan Kuala Lumpur, Wilayah Persekutuan Putrajaya dan Wilayah Persekutuan Labuan pada tarikh yang ditetapkan oleh Menteri yang bertanggungjawab bagi Wilayah Persekutuan Kuala Lumpur, Wilayah Persekutuan Putrajaya dan Wilayah Persekutuan Labuan melalui pemberitahuan dalam Warta. Seksyen baharu 20b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Perancangan Bandar dan Desa 1976 [Akta 172], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 20a seksyen yang berikut: “Kewajipan untuk mendapatkan nasihat 20b. (1) Tanpa menjejaskan seksyen 20a, hendaklah menjadi kewajipan tiap-tiap jabatan atau agensi Kerajaan Persekutuan dan Kerajaan Negeri untuk mendapatkan nasihat Majlis mengenai cadangan pemajuan yang berhubungan dengan— (a) apa-apa penebusgunaan pinggir laut tidak termasuk penebusgunaan bagi pembinaan jeti atau pemulihan pantai; dan (b) apa-apa pembinaan infrastruktur utama negara termasuklah— (i) lapangan terbang, pelabuhan laut, pelabuhan darat, rangkaian pengangkutan kereta api, lebuh raya, stesen jana kuasa, empangan dan tapak pembuangan sisa toksik; dan (ii) infrastruktur lain yang berkepentingan negara sebagaimana yang ditentukan oleh Majlis. (2) Bagi maksud mendapatkan nasihat Majlis di bawah subseksyen (1), jabatan atau agensi Kerajaan Persekutuan dan Kerajaan Negeri hendaklah mengemukakan kepada Majlis cadangan pemajuan itu bersama dengan suatu laporan penilaian impak sosial dan laporan lain sebagaimana yang ditentukan oleh Majlis.”. Pindaan seksyen 21a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perenggan (e) perenggan yang berikut: “(ea) analisis dan langkah-langkah mitigasi bagi impak sosial dan impak lain sebagaimana yang ditentukan oleh pihak berkuasa perancang tempatan;”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2016/14/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (1a)."
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-10-1991",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~chp_45"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Mahkamah-Mahkamah Anak Negeri (Bidang Kuasa Jenayah) 1991"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~chp_45",
+      "@type": "akn:chapter",
+      "eli:number": "45",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~chp_45__cl_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keseksaan. Pengesahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~chp_45__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~chp_45",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua kesalahan yang sebelum mula berkuatkuasanya Akta ini telah dibicarakan oleh mana-mana mahkamah anak negeri yang disebut terdahulu hendaklah, kecuali jika ia telah diisytiharkan secara kehakiman selainnya, disifatkan telah dibicarakan dengan sah seolah-olah bidang kuasa berkenaan dengannya telah diberikan kepada mahkamah-mahkamah itu oleh undang-undang persekutuaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Mahkamah-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah Anak Negeri (Bidang Kuasa Jenayah) 1991."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1991/10/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Mahkamah-mahkamah anak negeri yang ditubuhkan di"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Negeri-Negeri Sabah dan Sarawak di bawah atau menurut kuasa mana-mana undang-undang bertulis adalah dengan ini diberi bidang kuasa untuk membicarakan apa-apa kesalahan yang, di bawah atau menurut kuasa mana-mana undang-undang bertulis, boleh dihukum dengan pemenjaraan selama suatu tempoh yang tidak melebihi dua tahun atau dengan denda yang tidak melebihi dua ratus ringgit atau dengan apa-apa kombinasinya, atau untuk selainnya memperlakukan pesalah mengikut apa-apa cara yang, di bawah atau menurut kuasa mana-mana undang- undang sedemikian, mereka boleh dari semasa ke semasa diberi. kuasa untuk memperlakukannya: Dengan syarat bahawa bidang kuasa sedemikian tidak boleh dijalankan berkenaan dengan kesalahan tersebut N.M.B. yang adalah juga suatu kesalahan di bawah Kanun"
+      }
+    }
+  ]
+}

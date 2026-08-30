@@ -1,0 +1,121 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-12-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_4"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Employment Insurance System (Amendment) Bill 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Employment Insurance System (Amendment) Act 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Employment Insurance System Act 2017 [Act 800], which is referred to as the “principal Act” in this Act, is amended in subsection 16(2) by substituting for the words “five thousand ringgit” wherever appearing the words “six thousand ringgit”. Amendment of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_3__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Second Schedule to the principal Act is amended in paragraph 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 55 the following item: Monthly Wages Employer’s Employee’s Contribution Contribution 55. When wages exceed RM10.10 RM10.10 “ RM5,000 but not exceed RM5,100 (b) by inserting after item 55 the following items: Monthly Wages Employer’s Employee’s Contribution Contribution 56. When wages exceed RM10.30 RM10.30 “ RM5,100 but not exceed RM5,200 57. When wages exceed RM10.50 RM10.50 RM5,200 but not exceed RM5,300 58. When wages exceed RM10.70 RM10.70 RM5,300 but not exceed RM5,400 59. When wages exceed RM10.90 RM10.90 RM5,400 but not exceed RM5,500 60. When wages exceed RM11.10 RM11.10 RM5,500 but not exceed RM5,600 61. When wages exceed RM11.30 RM11.30 RM5,600 but not exceed RM5,700 62. When wages exceed RM11.50 RM11.50 RM5,700 but not exceed RM5,800 63. When wages exceed RM11.70 RM11.70 RM5,800 but not exceed RM5,900 Monthly Wages Employer’s Contribution 64. When wages exceed RM11.90 RM5,900 but not exceed RM6,000 65. When wages exceed RM11.90 ”. RM6,000 Amendment of Third Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_4__para_a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Third Schedule to the principal Act is amended in paragraph 8—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/12/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for item 55 the following item: Actual monthly wages Total of the month contribution 55. When wages exceed RM20.20 “ RM5,000 but not exceed RM5,100 (b) by inserting after item 55 the following items: Actual monthly wages Total of the month contribution 56. When wages exceed RM20.60 “ RM5,100 but not exceed RM5,200 57. When wages exceed RM21.00 RM5,200 but not exceed RM5,300 58. When wages exceed RM21.40 RM5,300 but not exceed RM5,400 59. When wages exceed RM21.80 RM5,400 but not exceed RM5,500 Actual monthly wages Total Corresponding of the month contribution monthly wages for the month 60. When wages exceed RM22.20 RM5,500 but not exceed RM5,600 61. When wages exceed RM22.60 RM5,600 but not exceed RM5,700 62. When wages exceed RM23.00 RM5,700 but not exceed RM5,800 63. When wages exceed RM23.40 RM5,800 but not exceed RM5,900 64. When wages exceed RM23.80 RM5,900 but not exceed RM6,000 65. When wages exceed RM23.80 ”. RM6,000"
+      }
+    }
+  ]
+}

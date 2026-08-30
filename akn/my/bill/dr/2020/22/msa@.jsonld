@@ -58,21 +58,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_10",
       "@type": "akn:clause",
       "eli:number": "10",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_10__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 74 seksyen yang berikut: “Keterangan ejen provokasi boleh diterima 74a. (1) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, tiada ejen provokasi boleh dianggap tidak boleh dipercayai hanya oleh sebab dia cuba untuk bersubahat atau telah bersubahat dalam melakukan suatu kesalahan oleh mana-mana orang di bawah Akta ini jika cubaan untuk bersubahat atau persubahatan itu adalah semata-mata bagi maksud mendapatkan keterangan terhadap orang itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_10__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_10",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, dan ejen provokasi itu ialah seorang pegawai polis yang apa jua pun pangkatnya atau seorang pegawai cukai jualan, apa-apa pernyataan, sama ada lisan atau bertulis yang dibuat kepada ejen provokasi oleh mana-mana orang yang kemudiannya dipertuduh atas suatu kesalahan di bawah Akta ini boleh diterima sebagai keterangan semasa perbicaraannya.”. Pindaan seksyen 88a"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 74 seksyen yang berikut: “Keterangan ejen provokasi boleh diterima 74a. (1) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, tiada ejen provokasi boleh dianggap tidak boleh dipercayai hanya oleh sebab dia cuba untuk bersubahat atau telah bersubahat dalam melakukan suatu kesalahan oleh mana-mana orang di bawah Akta ini jika cubaan untuk bersubahat atau persubahatan itu adalah semata-mata bagi maksud mendapatkan keterangan terhadap orang itu. (2) Walau apa pun mana-mana rukun undang-undang atau peruntukan Akta ini atau mana-mana undang-undang bertulis lain yang berlawanan, dan ejen provokasi itu ialah seorang pegawai polis yang apa jua pun pangkatnya atau seorang pegawai cukai jualan, apa-apa pernyataan, sama ada lisan atau bertulis yang dibuat kepada ejen provokasi oleh mana-mana orang yang kemudiannya dipertuduh atas suatu kesalahan di bawah Akta ini boleh diterima sebagai keterangan semasa perbicaraannya.”. Pindaan seksyen 88a"
       }
     },
     {
@@ -204,34 +193,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_6__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_6__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 35 seksyen yang berikut: “Pembayaran balik melalui pemotongan cukai jualan 35a. (1) Ketua Pengarah boleh mengarahkan mana-mana pengilang berdaftar untuk memotong amaun pembayaran balik terhadap amaun cukai jualan yang akan dibayar daripada penyatanya di bawah seksyen 26 jika pengilang berdaftar itu telah diberikan pembayaran balik cukai jualan di bawah perenggan 35(3)(c) atau telah membuat potongan di bawah seksyen 23 atau 41a."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_6__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Jika selepas pemotongan dibuat di bawah subseksyen (1), terdapat apa-apa baki dalam amaun pembayaran balik, baki itu hendaklah dibayar balik kepada pengilang berdaftar oleh Ketua Pengarah."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_6__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walau apa pun subseksyen (2), Ketua Pengarah boleh memegang keseluruhan atau mana-mana bahagian amaun yang kena dibayar balik di bawah subseksyen (2) untuk dikreditkan kepada apa-apa tempoh bercukai berikutnya atau seterusnya dan Ketua Pengarah hendaklah menganggap amaun yang dikreditkan itu sebagai pembayaran atau sebahagian pembayaran yang diterima daripada pengilang berdaftar.”. Pindaan seksyen 69"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 35 seksyen yang berikut: “Pembayaran balik melalui pemotongan cukai jualan 35a. (1) Ketua Pengarah boleh mengarahkan mana-mana pengilang berdaftar untuk memotong amaun pembayaran balik terhadap amaun cukai jualan yang akan dibayar daripada penyatanya di bawah seksyen 26 jika pengilang berdaftar itu telah diberikan pembayaran balik cukai jualan di bawah perenggan 35(3)(c) atau telah membuat potongan di bawah seksyen 23 atau 41a. (2) Jika selepas pemotongan dibuat di bawah subseksyen (1), terdapat apa-apa baki dalam amaun pembayaran balik, baki itu hendaklah dibayar balik kepada pengilang berdaftar oleh Ketua Pengarah. (3) Walau apa pun subseksyen (2), Ketua Pengarah boleh memegang keseluruhan atau mana-mana bahagian amaun yang kena dibayar balik di bawah subseksyen (2) untuk dikreditkan kepada apa-apa tempoh bercukai berikutnya atau seterusnya dan Ketua Pengarah hendaklah menganggap amaun yang dikreditkan itu sebagai pembayaran atau sebahagian pembayaran yang diterima daripada pengilang berdaftar.”. Pindaan seksyen 69"
       }
     },
     {
@@ -248,66 +213,20 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_8",
       "@type": "akn:clause",
       "eli:number": "8",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_8__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 69 seksyen yang berikut: “Kuasa untuk mengelak 69a. (1) Jika oleh sebab jenis, saiz atau amaunnya tidak praktikal untuk memindahkan apa-apa barang, dokumen, artikel atau benda yang disita di bawah Akta ini, seseorang pegawai cukai jualan yang hak boleh, dengan apa-apa cara, mengelak barang, dokumen, artikel atau benda itu, atau tempat, premis, bekas muatan, bungkusan atau pengangkut yang di dalamnya barang, dokumen, artikel atau benda itu dijumpai."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_8__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_8",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Seseorang yang, tanpa kuasa yang sah, memecah, mengganggu atau merosakkan lak yang disebut dalam subseksyen (1) atau memindahkan barang, dokumen, artikel, benda, bekas muatan, bungkusan atau pengangkut yang dilak itu, atau cuba untuk berbuat demikian, melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya.”. Seksyen baharu 72b"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 69 seksyen yang berikut: “Kuasa untuk mengelak 69a. (1) Jika oleh sebab jenis, saiz atau amaunnya tidak praktikal untuk memindahkan apa-apa barang, dokumen, artikel atau benda yang disita di bawah Akta ini, seseorang pegawai cukai jualan yang hak boleh, dengan apa-apa cara, mengelak barang, dokumen, artikel atau benda itu, atau tempat, premis, bekas muatan, bungkusan atau pengangkut yang di dalamnya barang, dokumen, artikel atau benda itu dijumpai. (2) Seseorang yang, tanpa kuasa yang sah, memecah, mengganggu atau merosakkan lak yang disebut dalam subseksyen (1) atau memindahkan barang, dokumen, artikel, benda, bekas muatan, bungkusan atau pengangkut yang dilak itu, atau cuba untuk berbuat demikian, melakukan suatu kesalahan dan boleh, apabila disabitkan, dipenjarakan selama tempoh tidak melebihi lima tahun atau didenda tidak melebihi satu ratus ribu ringgit atau kedua-duanya.”. Seksyen baharu 72b"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9",
       "@type": "akn:clause",
       "eli:number": "9",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 72a seksyen yang berikut: “Kuasa tambahan 72b. (1) Sebagai tambahan kepada dan tanpa menjejaskan kuasa sedia ada yang diberikan di bawah Akta ini, apabila membawa dan menjaga mana-mana orang dalam tahanan, seseorang pegawai cukai jualan yang hak hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan kuasa seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537]."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud Akta ini—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seorang pegawai kanan cukai jualan, dan bagi maksud itu, tempat perintah, perakuan atau perbuatan itu diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/22/msa@/~cl_9__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "seseorang pegawai cukai jualan yang hak hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai suatu balai polis.”. Seksyen baharu 74a"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 72a seksyen yang berikut: “Kuasa tambahan 72b. (1) Sebagai tambahan kepada dan tanpa menjejaskan kuasa sedia ada yang diberikan di bawah Akta ini, apabila membawa dan menjaga mana-mana orang dalam tahanan, seseorang pegawai cukai jualan yang hak hendaklah mempunyai segala kuasa seorang pegawai polis yang berpangkat Koperal dan lebih rendah dan kuasa seorang pegawai penjara yang berpangkat Sarjan dan lebih rendah di bawah Akta Penjara 1995 [Akta 537]. (2) Bagi maksud Akta ini— (a) jika sesuatu perintah, perakuan atau apa-apa perbuatan lain dikehendaki supaya diberikan, dikeluarkan atau dilakukan oleh seseorang pegawai penjaga Daerah Polis di bawah mana-mana undang-undang bertulis, perintah, perakuan atau perbuatan itu boleh diberikan, dikeluarkan atau dilakukan oleh seorang pegawai kanan cukai jualan, dan bagi maksud itu, tempat perintah, perakuan atau perbuatan itu diberikan, dikeluarkan atau dilakukan hendaklah disifatkan sebagai Daerah Polis di bawah jagaannya; dan (b) seseorang pegawai cukai jualan yang hak hendaklah mempunyai segala kuasa yang diberikan kepada seseorang pegawai penjaga balai polis di bawah mana-mana undang-undang bertulis, dan bagi maksud itu pejabat pegawai itu hendaklah disifatkan sebagai suatu balai polis.”. Seksyen baharu 74a"
       }
     }
   ]

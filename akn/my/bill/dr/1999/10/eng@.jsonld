@@ -167,8 +167,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@/~cl_4__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@/~cl_4__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@/~cl_4__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@/~cl_4__para_xxb"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@/~cl_4__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@",
       "schema:name": {
@@ -203,17 +202,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@/~cl_4",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after paragraph (xx) the following paragraphs: \"(xxa) to update the terminology and spelling in the national language text of any law so that they are consistent with the terminology and spelling approved by the Dewan Bahasa dan Pustaka;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@/~cl_4__para_xxb",
-      "@type": "akn:paragraph",
-      "eli:number": "xxb",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1999/10/eng@/~cl_4",
-      "schema:text": {
-        "@language": "en",
-        "@value": "to delete any word, expression, nomenclature or other provision in any law which has become obsolete or has ceased to have effect, including references to repealed laws, and to substitute therefor, where necessary, the appropriate word, expression, nomenclature or provision or references to the appropriate laws;\". Revision of Laws (Amendment) Amendment of section 14"
+        "@value": "by inserting after paragraph (xx) the following paragraphs: \"(xxa) to update the terminology and spelling in the national language text of any law so that they are consistent with the terminology and spelling approved by the Dewan Bahasa dan Pustaka; (xxb) to delete any word, expression, nomenclature or other provision in any law which has become obsolete or has ceased to have effect, including references to repealed laws, and to substitute therefor, where necessary, the appropriate word, expression, nomenclature or provision or references to the appropriate laws;\". Revision of Laws (Amendment) Amendment of section 14"
       }
     },
     {

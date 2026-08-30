@@ -78,21 +78,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 40 seksyen yang berikut: “Pelindungan dua hala 40a. (1) Tiada apa-apa pun dalam Akta ini boleh menghalang Kerajaan daripada memulakan penyiasatan pelindungan dan mengenakan langkah perlindungan mengikut terma dan syarat yang dipersetujui dalam perjanjian perdagangan yang dibuat oleh Kerajaan."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/25/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Menteri hendaklah menetapkan terma dan syarat penyiasatan pelindungan dan langkah perlindungan bagi maksud subseksyen (1).”."
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 40 seksyen yang berikut: “Pelindungan dua hala 40a. (1) Tiada apa-apa pun dalam Akta ini boleh menghalang Kerajaan daripada memulakan penyiasatan pelindungan dan mengenakan langkah perlindungan mengikut terma dan syarat yang dipersetujui dalam perjanjian perdagangan yang dibuat oleh Kerajaan. (2) Menteri hendaklah menetapkan terma dan syarat penyiasatan pelindungan dan langkah perlindungan bagi maksud subseksyen (1).”."
       }
     }
   ]

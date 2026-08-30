@@ -1,0 +1,631 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-1-2023",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_22"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pencetakan Teks Al-Qur'an (Pindaan) 2023"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 9(2) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “imprisonment” perkataan “for a term”. Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dalam teks bahasa kebangsaan, dengan memotong perkataan “atau rakaman Al-Qur’an” dan “atau rakaman”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “dua ribu ringgit atau dipenjarakan selama tempoh tidak melebihi enam bulan” dengan perkataan “lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 11(3) Akta ibu dipinda dengan menggantikan perkataan “lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun” dengan perkataan “lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 13(2) Akta ibu dipinda dengan menggantikan perkataan “lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun” dengan perkataan “lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “Pencetakan” perkataan “, pengedaran dan pemilikan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Tiada seorang pun boleh mencetak, menerbitkan, mengimport, menjual, menawarkan untuk jualan, mengedarkan, atau ada dalam milikannya, jagaannya atau kawalannya bagi maksud penjualan atau pengedaran, sesuatu teks Al-Qur’an atau bahan Al-Qur’an yang mengandungi apa-apa kesilapan atau yang tidak mengikut kaedah penulisan yang ditentukan oleh Lembaga berkenaan dengan Ayat-Ayat Al-Qur’an yang terkandung di dalam teks Al-Qur’an atau bahan Al-Qur’an itu.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)— Seksyen baharu 14a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_14__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “imprisonment” perkataan “for a term”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 14 seksyen yang berikut: “Kuasa untuk menyiasat 14a. (1) Mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor atau mana-mana pegawai awam yang diberi kuasa secara bertulis oleh Majlis Agama Islam sesuatu Negeri atau Wilayah Persekutuan, boleh menyiasat apa-apa kesalahan di bawah Akta ini. (2) Bagi maksud Akta ini, mana-mana pegawai awam yang diberi kuasa secara bertulis oleh Majlis Agama Islam sesuatu Negeri atau Wilayah Persekutuan, hendaklah mempunyai segala kuasa seorang pegawai polis tidak kira apa jua pangkatnya sebagaimana yang diperuntukkan dalam Kanun Tatacara Jenayah [Akta 593] berhubung dengan penyiasatan polis dalam kes boleh tangkap, dan kuasa yang sedemikian hendaklah sebagai tambahan kepada kuasa yang diperuntukkan dalam Akta ini dan tidak mengurangkan kuasanya.”. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 15(1) Akta ibu dipinda dengan menggantikan perkataan “, bahawa terdapat sesuatu kesilapan dalam Ayat-Ayat Al-Qur’an yang terkandung di dalam teks Al-Qur’an atau bahan Al-Qur’an itu,” dengan perkataan “bahawa terdapat sesuatu kesilapan atau ia tidak mengikut kaedah penulisan yang ditentukan oleh Lembaga, berkenaan dengan Ayat-Ayat Al-Qur’an yang terkandung di dalam teks Al-Qur’an atau bahan Al-Qur’an itu,”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dan menahan” dengan perkataan “, menahan dan memeriksa”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “diterbitkan,” perkataan “diimport,” di mana-mana jua terdapat; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), (3) dan (4), dengan memasukkan selepas perkataan “penerbitan,” perkataan “pengimportan,”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (a), dengan memasukkan selepas perkataan “betul” perkataan “dan mengikut kaedah penulisan yang ditentukan oleh Lembaga”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan “apa-apa kesilapan” perkataan “atau bahawa ia tidak mengikut kaedah penulisan yang ditentukan oleh Lembaga”. Seksyen baharu 20a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 20 seksyen yang berikut: “Pengkompaunan kesalahan 20a. (1) Menteri boleh, dengan kelulusan Pendakwa Raya, membuat peraturan-peraturan bagi menetapkan— (a) apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawahnya, sebagai suatu kesalahan yang boleh dikompaun; dan (b) kaedah dan tatacara bagi mengkompaun kesalahan itu. (2) Pengerusi Lembaga atau mana-mana pegawai awam yang diberi kuasa secara bertulis oleh Pengerusi Lembaga boleh, dengan keizinan bertulis Pendakwa Raya, pada bila-bila masa sebelum suatu pertuduhan dimulakan, mengkompaun apa-apa kesalahan yang ditetapkan sebagai suatu kesalahan yang boleh dikompaun di bawah Akta ini dengan membuat suatu tawaran bertulis kepada orang yang disyaki telah melakukan kesalahan itu untuk mengkompaun kesalahan itu dengan membayar kepada Pengerusi Lembaga suatu amaun yang tidak melebihi lima puluh peratus amaun denda maksimum bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran bertulis itu. (3) Suatu tawaran di bawah subseksyen (2) boleh dibuat pada bila-bila masa selepas kesalahan dilakukan tetapi sebelum apa-apa pendakwaan baginya dimulakan. (4) Jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalam apa-apa masa lanjutan yang diberikan oleh Pengerusi Lembaga, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat. (5) Jika suatu kesalahan telah dikompaun di bawah subseksyen (2)— (a) tiada pendakwaan boleh dimulakan berkenaan dengan kesalahan itu terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat; dan (b) sesuatu teks Al-Qur’an atau bahan Al-Qur’an, dokumen, rekod atau apa-apa yang disita yang berkaitan dengan kesalahan itu boleh dilucuthakkan dan dilupuskan atau dilepaskan oleh Pengerusi Lembaga, tertakluk kepada apa-apa terma dan syarat yang difikirkan patut oleh Pengerusi Lembaga. (6) Semua wang yang diterima oleh Pengerusi Lembaga di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.”. Seksyen baharu 21a dan 21b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pencetakan Teks Al-Qur’an (Pindaan) 2023."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pencetakan Teks Al-Qur’an 1986 [Akta 326], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 21 seksyen yang berikut: “Pekhidmat Awam 21a. Seseorang anggota Lembaga semasa menunaikan kewajipannya atau melaksanakan fungsinya atau menjalankan kuasanya di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawah Akta ini hendaklah disifatkan sebagai pekhidmat awam mengikut pengertian Kanun Keseksaan [Akta 574]. Pemakaian Akta Perlindungan Pihak Berkuasa Awam 1948 21b. Akta Perlindungan Pihak Berkuasa Awam 1948 [Akta 198] hendaklah terpakai bagi apa-apa tindakan, guaman, pendakwaan atau prosiding terhadap Lembaga atau mana-mana anggota Lembaga berkenaan dengan apa-apa perbuatan, pengabaian atau keingkaran yang dibuat atau dilakukan olehnya dengan suci hati atau apa-apa peninggalan olehnya dengan suci hati, atas sifat yang sedemikian.”. Seksyen baharu 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 25 seksyen yang berikut: “Kuasa untuk mengeluarkan garis panduan atau arahan 26. (1) Bagi maksud Akta ini atau perundangan subsidiari yang dibuat di bawah Akta ini, Lembaga boleh mengeluarkan garis panduan atau arahan sebagaimana yang difikirkannya sesuai untuk mengawal selia pencetakan, pengimportan, penerbitan, penjualan, pengedaran, pelupusan, penterjemahan atau pentafsiran teks Al-Qur’an atau bahan Al-Qur’an dan boleh mengenakan apa-apa syarat atau sekatan yang difikirkan patut oleh Lembaga. (2) Tiap-tiap garis panduan atau arahan yang dikeluarkan di bawah Akta ini atau perundangan subsidiari yang dibuat di bawah Akta ini hendaklah disiarkan oleh Lembaga mengikut apa-apa cara bagi memastikan garis panduan atau arahan itu dibawa kepada perhatian orang yang perlu mematuhi garis panduan atau arahan itu. (3) Lembaga boleh mengenakan suatu penalti kewangan bagi apa-apa ketidakpatuhan terhadap mana-mana garis panduan atau arahan yang dikeluarkan di bawah seksyen ini— (a) jika orang itu merupakan seorang individu, setakat suatu amaun yang tidak melebihi dua puluh lima ribu ringgit; atau (b) jika orang itu merupakan suatu pertubuhan perbadanan, setakat suatu amaun yang tidak melebihi lima puluh ribu ringgit. (4) Lembaga boleh meminda atau membatalkan mana-mana garis panduan atau arahan yang dikeluarkan di bawah seksyen ini.”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ini, anggota Lembaga yang dilantik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah terus memegang jawatan selama tempoh enam bulan dari tarikh permulaan kuat kuasa Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “bahan Al-Qur’an”, dengan memasukkan selepas perkataan “mana-mana Ayat Al-Qur’an,” perkataan “sama ada dalam tulisan bahasa Arab atau Braille,”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “teks Al-Qur’an”, dengan memasukkan selepas perkataan “atau mana-mana bahagiannya” perkataan “, sama ada dalam tulisan bahasa Arab atau Braille,”. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2) dan (3), dengan menggantikan perkataan “dan Labuan” dengan perkataan “, Labuan dan Putrajaya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Setiap anggota yang dilantik hendaklah berkhidmat selama tempoh tidak melebihi tiga tahun dan hendaklah layak untuk dilantik semula.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4a) Anggota Lembaga boleh, pada bila-bila masa, meletakkan jawatannya dengan memberikan notis bertulis kepada Lembaga dan Lembaga hendaklah mendapatkan perkenan Yang di-Pertuan Agong atau Raja masing-masing, mengikut mana-mana yang berkenaan.”. Seksyen baharu 3a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 3 seksyen yang berikut: “Anggota silih ganti 3a. (1) Yang di-Pertuan Agong atau Raja masing-masing boleh, berkenaan dengan setiap anggota yang dilantik di bawah subseksyen (3), melantik seorang anggota silih ganti yang boleh menghadiri mana-mana mesyuarat Lembaga apabila anggota yang baginya dia merupakan anggota silih ganti atas apa-apa sebab tidak dapat hadir. (2) Apabila menghadiri mesyuarat Lembaga, seseorang anggota silih ganti hendaklah, bagi segala maksud, disifatkan sebagai seorang anggota Lembaga. (3) Seseorang anggota silih ganti boleh, pada bila-bila masa, meletakkan jawatannya dengan memberikan notis bertulis kepada Lembaga dan Lembaga hendaklah mendapatkan perkenan Yang di-Pertuan Agong atau Raja masing-masing, mengikut mana-mana yang berkenaan. (4) Seseorang anggota silih ganti hendaklah, melainkan jika dia terlebih dahulu meletakkan jawatannya di bawah subseksyen (3) atau pelantikannya dibatalkan terlebih dahulu, terhenti menjadi anggota silih ganti apabila anggota yang baginya dia merupakan anggota silih ganti terhenti menjadi anggota Lembaga.”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan menggantikan perkataan “sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun” dengan perkataan “lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7), dengan menggantikan perkataan “lima ribu ringgit atau dipenjarakan selama tempoh tidak melebihi satu tahun” dengan perkataan “lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun”. Pindaan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “betul” perkataan “dan mengikut kaedah penulisan yang ditentukan oleh Lembaga”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun” dengan perkataan “lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun”. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memasukkan selepas perkataan “betul” perkataan “dan mengikut kaedah penulisan yang ditentukan oleh Lembaga”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi tiga tahun” dengan perkataan “lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun”. Seksyen baharu 7a dan 7b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 7 seksyen yang berikut: “Menahan penghantarserahan teks Al-Qur’an yang diimport yang tidak diperakui 7a. (1) Mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor atau mana-mana pegawai awam yang diberi kuasa secara bertulis oleh Majlis Agama Islam sesuatu Negeri atau Wilayah Persekutuan, boleh menahan penghantarserahan sesuatu teks Al-Qur’an yang diimport yang tidak diperakui secara bertulis oleh Lembaga di bawah seksyen 7. (2) Sesuatu teks Al-Qur ’an yang ditahan di bawah subseksyen (1) hendaklah, dengan seberapa segera yang praktik, diserahkan kepada Lembaga dan diteliti oleh Lembaga. (3) Jika Lembaga memperakui bahawa teks Al-Qur’an itu— (a) betul dan mengikut kaedah penulisan yang ditentukan oleh Lembaga berkenaan dengan Ayat-Ayat Al-Qur’an yang terkandung di dalamnya, Lembaga hendaklah membenarkan pengimportan tertakluk kepada perakuan di bawah seksyen 7 dan memberikan notis secara bertulis kepada orang yang daripadanya teks Al-Qur’an itu ditahan menghendaki orang itu untuk menuntut atau mengambil teks Al-Qur’an itu tidak lewat daripada enam bulan dari tarikh notis itu; atau (b) mengandungi apa-apa kesilapan atau tidak mengikut kaedah penulisan yang ditentukan oleh Lembaga berkenaan dengan Ayat-Ayat Al-Qur ’an yang terkandung di dalamnya, Lembaga hendaklah melarang pengimportan dan memberikan notis secara bertulis kepada orang yang daripadanya teks Al-Qur’an itu ditahan menghendaki orang itu untuk mengembalikan teks Al-Qur’an itu kepada pengirimnya di luar Malaysia tidak lewat daripada tiga bulan dari tarikh notis itu. (4) Jika orang yang daripadanya teks Al-Qur’an itu ditahan gagal untuk menuntut atau mengambil teks Al-Qur’an itu dalam masa enam bulan dari tarikh notis di bawah perenggan (3)(a) atau gagal untuk mengembalikan teks Al-Qur’an itu kepada pengirimnya di luar Malaysia dalam masa tiga bulan dari tarikh notis di bawah perenggan (3)(b), mengikut mana-mana yang berkenaan, teks Al-Qur’an itu hendaklah dilupuskan mengikut apa-apa cara yang difikirkan patut oleh Lembaga. Menahan penghantarserahan bahan Al-Qur’an yang diimport 7b. (1) Mana-mana pegawai polis yang berpangkat tidak rendah daripada Inspektor atau mana-mana pegawai awam yang diberi kuasa secara bertulis oleh Majlis Agama Islam sesuatu Negeri atau Wilayah Persekutuan, boleh menahan penghantarserahan sesuatu bahan Al-Qur’an yang diimport jika dia mempunyai sebab yang munasabah untuk mempercayai bahawa ia mengandungi apa-apa kesilapan atau ia tidak mengikut kaedah penulisan yang ditentukan oleh Lembaga berkenaan dengan Ayat-Ayat Al-Qur’an yang terkandung di dalam bahan Al-Qur’an itu. (2) Sesuatu bahan Al-Qur’an yang ditahan di bawah subseksyen (1) hendaklah, dengan seberapa segera yang praktik, diserahkan kepada Lembaga dan diteliti oleh Lembaga. (3) Jika Lembaga memperakui bahawa bahan Al-Qur’an itu— (a) betul dan mengikut kaedah penulisan yang ditentukan oleh Lembaga berkenaan dengan Ayat-Ayat Al-Qur’an yang terkandung di dalamnya, Lembaga hendaklah membenarkan pengimportan dan memberikan notis secara bertulis kepada orang yang daripadanya bahan Al-Qur’an itu ditahan menghendaki orang itu untuk menuntut atau mengambil bahan Al-Qur’an itu tidak lewat daripada enam bulan dari tarikh notis itu; atau (b) mengandungi apa-apa kesilapan atau tidak mengikut kaedah penulisan yang ditentukan oleh Lembaga berkenaan dengan Ayat-Ayat Al-Qur ’an yang terkandung di dalamnya, Lembaga hendaklah melarang pengimportan dan memberikan notis secara bertulis kepada orang yang daripadanya bahan Al-Qur’an itu ditahan menghendaki orang itu untuk mengembalikan bahan Al-Qur’an itu kepada pengirimnya di luar Malaysia tidak lewat daripada tiga bulan dari tarikh notis itu. (4) Jika orang yang daripadanya bahan Al-Qur’an itu ditahan gagal untuk menuntut atau mengambil bahan Al-Qur’an itu dalam masa enam bulan dari tarikh notis di bawah perenggan (3)(a) atau gagal untuk mengembalikan bahan Al-Qur’an itu kepada pengirimnya di luar Malaysia dalam masa tiga bulan dari tarikh notis di bawah perenggan (3)(b), mengikut mana-mana yang berkenaan, bahan Al-Qur’an itu hendaklah dilupuskan mengikut apa-apa cara yang difikirkan patut oleh Lembaga.”. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 8(3) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua puluh ribu ringgit” dengan perkataan “lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2023/1/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dengan memasukkan selepas perkataan “imprisonment” perkataan “for a term”. Pindaan seksyen 9"
+      }
+    }
+  ]
+}

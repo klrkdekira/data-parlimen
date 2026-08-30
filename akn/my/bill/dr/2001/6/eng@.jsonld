@@ -49,8 +49,7 @@
       "eli:number": "2",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/eng@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/eng@/~cl_2__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/eng@/~cl_2__subsec_6B"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/eng@/~cl_2__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/eng@",
       "schema:name": {
@@ -75,17 +74,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (6) the following subsections: \"(6A) Where an award has been made by a tribunal, the Secretary of the tribunal shall on the application of the party seeking to enforce the award send within thirty days from the date of the application a certified copy of the award to the Registrar of the Sessions Court having jurisdiction over the place where the registered office of the society is situated or over the place where the award was made and such Registrar shall cause the award to be recorded and the award shall thereafter for all purposes be enforceable as a judgement of the Sessions Court in accordance with such rules of the court as may be applicable or, in the absence of such rules, in such manner as it may deem just or expedient."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/eng@/~cl_2__subsec_6B",
-      "@type": "akn:subsection",
-      "eli:number": "6B",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/6/eng@/~cl_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Notwithstanding the period specified in subparagraph (1)(a) of Order 31 rule 2 of the Subordinate Courts Rules 1980 [P. U. (A) 328/80], the period specified in that subparagraph shall, in relation to awards made before the coming into operation of subsection (6A), be deemed to run from the date of commencement of that subsection. (6c) Notwithstanding any written law or rule of law to the contrary, the Sessions Court shall have power to enforce any award made by the tribunal.\"."
+        "@value": "by inserting after subsection (6) the following subsections: \"(6A) Where an award has been made by a tribunal, the Secretary of the tribunal shall on the application of the party seeking to enforce the award send within thirty days from the date of the application a certified copy of the award to the Registrar of the Sessions Court having jurisdiction over the place where the registered office of the society is situated or over the place where the award was made and such Registrar shall cause the award to be recorded and the award shall thereafter for all purposes be enforceable as a judgement of the Sessions Court in accordance with such rules of the court as may be applicable or, in the absence of such rules, in such manner as it may deem just or expedient. (6B) Notwithstanding the period specified in subparagraph (1)(a) of Order 31 rule 2 of the Subordinate Courts Rules 1980 [P. U. (A) 328/80], the period specified in that subparagraph shall, in relation to awards made before the coming into operation of subsection (6A), be deemed to run from the date of commencement of that subsection. (6c) Notwithstanding any written law or rule of law to the contrary, the Sessions Court shall have power to enforce any award made by the tribunal.\"."
       }
     }
   ]

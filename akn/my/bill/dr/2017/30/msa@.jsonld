@@ -1,0 +1,327 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-30-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Suruhanjaya Sekuriti Malaysia (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ini, anggota bukan eksekutif Lembaga Pemantauan Audit yang dilantik di bawah Akta ibu sebaik sebelum permulaan kuat kuasa Akta ini hendaklah, apabila Akta ini mula berkuat kuasa, terus memegang jawatan dan kekal dilantik sehingga habis tempoh pelantikan mereka."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Suruhanjaya Sekuriti Malaysia (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 31a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Suruhanjaya Sekuriti Malaysia 1993 [Akta 498], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 31a—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memasukkan selepas perkataan “Bahagian IIIa” perkataan “, Jadual 1 dan Jadual 2”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “Dalam Bahagian ini” perkataan “, Jadual 1 dan Jadual 2”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “juruaudit yang diiktiraf” takrif yang berikut: ‘ “pegawai eksekutif” merujuk kepada pegawai eksekutif Lembaga Pemantauan Audit yang dilantik di bawah seksyen 31c;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “pengerusi eksekutif”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Pegawai Penyiasat” takrif yang berikut: ‘ “pengerusi bukan eksekutif” merujuk kepada pengerusi bukan eksekutif Lembaga Pemantauan Audit yang dilantik di bawah seksyen 31c;’. Pindaan seksyen 31b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31b Akta ibu dipinda dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) untuk menjalankan pemantauan ke atas mana-mana orang yang menyediakan laporan berhubung dengan maklumat kewangan, yang dikehendaki untuk dikemukakan di bawah undang-undang sekuriti, garis panduan yang dikeluarkan oleh Suruhanjaya atau kaedah-kaedah bursa saham, oleh suatu— (i) entiti berkepentingan awam atau kumpulan wang jadual; (ii) entiti bukan berkepentingan awam yang memohon kelulusan untuk menjadi suatu syarikat awam tersenarai atau suatu perbadanan disenaraikan di bursa saham; atau (iii) kumpulan wang tidak berjadual yang memohon kelulusan untuk menjadi suatu kumpulan wang jadual.”. Pindaan seksyen 31c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 31c Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Lembaga Pemantauan Audit hendaklah terdiri daripada anggota yang berikut yang hendaklah dilantik oleh Lembaga: (a) seorang pengerusi bukan eksekutif; (b) seorang pegawai eksekutif; dan (c) lima anggota bukan eksekutif.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4) dengan subseksyen yang berikut: “(4) Pengerusi bukan eksekutif dan pegawai eksekutif tidak boleh— (a) men jad i p ega wa i se pen uh ma sa a tau pemegang syer mengawal mana-mana entiti berkepentingan awam atau kumpulan wang jadual, perbadanan berkaitannya atau syarikat bersekutunya; (b) mempunyai apa-apa bahagian dalam apa-apa keuntungan sesuatu firma perakaunan atau pengauditan, atau mana-mana gabungannya; dan (c) menerima bayaran daripada mana-mana firma perakaunan atau pengauditan, atau daripada mana-mana orang lain sebagaimana yang ditetapkan oleh Suruhanjaya, selain bayaran tetap yang berterusan di bawah perkiraan lazim bagi persaraan daripada suatu firma perakaunan atau pengauditan tertakluk kepada apa-apa syarat sebagaimana yang dikenakan oleh Suruhanjaya.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_c__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “dua” dengan perkataan “tiga”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “akauntan bertauliah, akauntan berlesen atau anggota bersekutu” dengan perkataan “akauntan bertauliah atau akauntan berlesen”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (6) subseksyen yang berikut: “(6a) Walau apa pun subseksyen (6), tiada seorang pun anggota Lembaga Pemantauan Audit boleh— (a) menjadi seorang juruaudit syarikat yang diluluskan di bawah Akta Syarikat 2016; atau (b) diambil bekerja sepenuh masa atau secara kontraktual, dalam apa-apa kapasiti, oleh firma yang— (i) bertindak sebagai juruaudit kepada mana-mana entiti berkepentingan awam atau kumpulan wang jadual; atau (ii) menyediakan untuk atau bagi pihak mana-mana entiti berkepentingan awam atau kumpulan wang jadual, mana-mana laporan yang dikehendaki oleh Akta Syarikat 2016 untuk disediakan oleh juruaudit yang telah diluluskan, atau gabungan mana-mana firma.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (7), dengan menggantikan perkataan “Pengerusi eksekutif” dengan perkataan “Pegawai eksekutif”. Pindaan seksyen 31ea"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 31ea(9) Akta ibu dipinda dengan menggantikan perkataan “pengerusi eksekutif” dengan perkataan “pengerusi bukan eksekutif”. Pindaan seksyen 31h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 31h(3) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memotong perkataan “pendaftaran”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam teks bahasa Inggeris, dalam perenggan (e), dengan menggantikan perkataan “fees or other charges” dengan perkataan “other fees or charges”. Pindaan seksyen 31o"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 31o Akta ibu dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(4a) Seseorang juruaudit yang berdaftar atau yang diiktiraf di bawah Bahagian ini hendaklah membayar apa-apa fi yang ditetapkan secara tahunan dan pada apa-apa tarikh yang boleh ditentukan oleh Suruhanjaya. (4b) Jika seseorang juruaudit berdaftar atau yang diiktiraf tidak membayar fi yang ditetapkan pada tarikh fi itu kena dibayar, Suruhanjaya boleh mengenakan fi lewat bayar dengan jumlah yang ditetapkan untuk setiap hari pembayaran itu lewat, dan fi itu boleh didapatkan oleh Suruhanjaya sebagai suatu hutang yang kena dibayar kepada Suruhanjaya.”. Pindaan seksyen 31q"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 31q(1) Akta ibu dipinda dengan menggantikan subperenggan (C) dengan subperenggan yang berikut: “(C) juruaudit gagal untuk membayar apa-apa fi atau bayaran yang dikenakan di bawah Bahagian ini.”. Pindaan seksyen 159"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/30/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 159 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Tanpa menjejaskan keluasan subseksyen (1), peraturan-peraturan yang dibuat di bawah seksyen ini boleh mengadakan peruntukan bagi— (a) borang bagi maksud undang-undang sekuriti; (b) fi yang kena dibayar bagi maksud undang-undang sekuriti; atau (c) pengecualian daripada mana-mana peruntukan undang-undang sekuriti ke atas mana-mana orang yang ditentukan atau kepada mana-mana orang yang merupakan anggota suatu golongan orang yang ditentukan, tertakluk kepada terma dan syarat.”. Peruntukan peralihan"
+      }
+    }
+  ]
+}

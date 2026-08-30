@@ -1,0 +1,200 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-4-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Registration (Amendment) Bill 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the National Registration (Amendment) Act 2001."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Sections 2, 3 and 4 shall be deemed to have come into operation on 1 November 2000. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The National Registration Act 1959 [Act 78], which in this Act is referred to as the \"principal Act\", is amended in section 2 by substituting for the definition of \"registration officer\" the following definition: ' \"registration officer\" means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of National Registration and Deputy Director General of National Registration appointed under section 3;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director of the Identity Card Division appointed under section 3A;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director of National Registration of each State appointed under section 3A;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any registration officer appointed under paragraph 3B(1)(a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any registration agent appointed under paragraph 3B(1)(b).'. Substitution of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_3__subsec_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 3 the following section: Appoint- 3. (1) The Yang di-Pertuan Agong may appoint a ment of Director General and a Deputy Director General of Director General National Registration for the purposes of the Act. and Deputy (2) Subject to the general direction and control of Director General. the Minister, the Director General may exercise the powers conferred, and shall perform the duties imposed, upon him by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, and subject to the general direction and control of the Minister, the Deputy Director General of National Registration may exercise all the powers and shall perform all the duties of the Director General and, in the absence of the Director General, may act in his behalf.\". New sections 3A and 3B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 3 the following sections: \"Appoint- 3A. (1) The Minister may appoint a Director of the ment of Identity Card Division at the Headquarters of the National Directors. Registration Department and a Director of National Registration for each State for the purposes of this Act. (2) Subject to the direction and control of the Director General, the Director of the Identity Card Division at the Headquarters of the National Registration Department and the Director of National Registration for each State shall have and may exercise all the powers and perform all the duties of the Director General. Appoint- 3B. (1) The Director General may appoint— ment of registration (a) such number of registration officers; and officers and registration (b) such number of persons who are not public officers agents. as registration agents, as he deems necessary and expedient. (2) The Director General may, in relation to any matter or class of matters, appoint any road transport officer or, immigration officer or any officer of any Government department to be a registration officer for the purposes of this Act, and a person so appointed shall exercise his powers and perform his duties subject to the direction and control of the Director General. (3) A person who is in the employment of the State Government of Sabah or the State Government of Sarawak may not be appointed as a registration officer without the prior written consent of the State Government. Public 3c. All registration officers shall be deemed to be public servants. servants for the purposes of the Penal Code.\". Act 574. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 6(2)(u) of the principal Act is amended by substituting for the words \": provided that no such penalty shall exceed a fine of three thousand ringgit or imprisonment for a term of two years or both\" with the words \"and such penalty shall not exceed a fine of fifty thousand ringgit or imprisonment for a term of five years or both\". Deletion of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by deleting section 7. New section 7A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 7 the following section: Junsdiction 7A. Notwithstanding the provisions of any written law of a to the contrary, a First Class Magistrate shall have the court of the First jurisdiction to try any offence under this Act or any Class regulations made under this Act, and to impose the full Magistrate. punishment for any such offence.\"."
+      }
+    }
+  ]
+}

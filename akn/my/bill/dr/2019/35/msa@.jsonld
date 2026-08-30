@@ -113,34 +113,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/msa@/~cl_4",
       "@type": "akn:clause",
       "eli:number": "4",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/msa@/~cl_4__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/msa@/~cl_4__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 59b seksyen yang berikut: “Pertikaian yang berhubungan dengan royalti 59c. (1) Tribunal boleh mendengar apa-apa pertikaian yang berhubungan dengan royalti yang berbangkit antara suatu badan pelesenan dengan mana-mana anggotanya tertakluk kepada persetujuan badan pelesenan dan anggota itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/msa@/~cl_4__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Tribunal hendaklah memutuskan pertikaian di bawah subseksyen (1) dan membuat suatu perintah dengan sewajarnya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/msa@/~cl_4__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/35/msa@/~cl_4",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Suatu perintah di bawah subseksyen (2) bolehlah dibuat supaya berkuat kuasa tanpa ditetapkan tempohnya atau bagi apa-apa tempoh yang ditentukan oleh Tribunal.”."
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 59b seksyen yang berikut: “Pertikaian yang berhubungan dengan royalti 59c. (1) Tribunal boleh mendengar apa-apa pertikaian yang berhubungan dengan royalti yang berbangkit antara suatu badan pelesenan dengan mana-mana anggotanya tertakluk kepada persetujuan badan pelesenan dan anggota itu. (2) Tribunal hendaklah memutuskan pertikaian di bawah subseksyen (1) dan membuat suatu perintah dengan sewajarnya. (3) Suatu perintah di bawah subseksyen (2) bolehlah dibuat supaya berkuat kuasa tanpa ditetapkan tempohnya atau bagi apa-apa tempoh yang ditentukan oleh Tribunal.”."
       }
     }
   ]

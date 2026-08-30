@@ -86,56 +86,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a__subpara_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a__subpara_iii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a__subpara_iv"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2",
       "schema:text": {
         "@language": "ms",
-        "@value": "dalam subseksyen (1), dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) the accounts of— Provided that the Yang di-Pertuan Agong so specifies by order under Clause (2) of Article 106 of the Federal Constitution and notwithstanding any law relating to the audit of the accounts of any such body;”;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "any other body, including a company registered under the Companies Act 2016 [Act 777], in receipt of a grant or loan from the Federation or a State;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "a company registered under the Companies Act 2016, where more than half of paid-up share capital of the company is held by the Federation, a State or a public authority or is so held in the aggregate by two or more of them;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a__subpara_iii",
-      "@type": "akn:subparagraph",
-      "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "any other body, including a company registered under the Companies Act 2016, in receipt of financial guarantee given by the Federation or a State; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a__subpara_iv",
-      "@type": "akn:subparagraph",
-      "eli:number": "iv",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_2__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "any other body, including a company registered under the Companies Act 2016, in receipt of public moneys if the Minister of Finance is satisfied that the public interest urgently requires that the accounts of any such body shall be examined, inquired into and audited by the Auditor General:"
+        "@value": "dalam subseksyen (1), dengan menggantikan perenggan (d) dengan perenggan yang berikut: “(d) the accounts of— (i) any other body, including a company registered under the Companies Act 2016 [Act 777], in receipt of a grant or loan from the Federation or a State; (ii) a company registered under the Companies Act 2016, where more than half of paid-up share capital of the company is held by the Federation, a State or a public authority or is so held in the aggregate by two or more of them; (iii) any other body, including a company registered under the Companies Act 2016, in receipt of financial guarantee given by the Federation or a State; and (iv) any other body, including a company registered under the Companies Act 2016, in receipt of public moneys if the Minister of Finance is satisfied that the public interest urgently requires that the accounts of any such body shall be examined, inquired into and audited by the Auditor General: Provided that the Yang di-Pertuan Agong so specifies by order under Clause (2) of Article 106 of the Federal Constitution and notwithstanding any law relating to the audit of the accounts of any such body;”;"
       }
     },
     {
@@ -192,21 +146,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_5__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 9 seksyen yang berikut: “Follow-up audit 9a. (1) The Auditor General may conduct a follow-up audit to review the action taken by the Federation, a State, a public authority or specified body on any recommendation, comment or observation made by the Auditor General in the audit report under section 9."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_5__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/16/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "The Auditor General may at any time submit a report on the follow-up audit conducted under subsection (1) to the Yang di-Pertuan Agong, and may submit a copy of such report to the Ruler or Yang di-Pertua Negeri of a State or to a Minister.”."
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 9 seksyen yang berikut: “Follow-up audit 9a. (1) The Auditor General may conduct a follow-up audit to review the action taken by the Federation, a State, a public authority or specified body on any recommendation, comment or observation made by the Auditor General in the audit report under section 9. (2) The Auditor General may at any time submit a report on the follow-up audit conducted under subsection (1) to the Yang di-Pertuan Agong, and may submit a copy of such report to the Ruler or Yang di-Pertua Negeri of a State or to a Minister.”."
       }
     }
   ]

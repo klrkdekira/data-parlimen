@@ -1,0 +1,590 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-3-2020",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Pengangkutan Jalan (Pindaan) 2020"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 45c Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perenggan (a) dengan perenggan yang berikut: “(a) pegawai polis yang menghendakinya mempunyai sebab yang munasabah untuk mempercayai bahawa atas sebab perubatan suatu spesimen nafas tidak dapat diadakan atau tidak patut dikehendaki; atau”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan menggantikan perkataan “denda tidak kurang daripada satu ribu ringgit dan tidak lebih daripada enam ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua belas bulan dan, dalam hal sabitan kali kedua atau kali kemudian, denda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua tahun” dengan perkataan “penjara selama tempoh tidak melebihi dua tahun dan denda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada tiga puluh ribu ringgit dan, dalam hal sabitan kali kedua atau kali kemudian, penjara selama tempoh tidak melebihi lima tahun dan denda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (6a) dengan subseksyen yang berikut: “(6a) Seseorang yang disabitkan di bawah seksyen ini adalah hilang kelayakan daripada memegang atau mendapatkan suatu lesen memandu selama tempoh tidak kurang daripada dua tahun dari tarikh sabitan dan, dalam hal sabitan kali kedua atau kali kemudian, hilang kelayakan selama tempoh tidak kurang daripada lima tahun dari tarikh sabitan.”. Pindaan seksyen 45g"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 45g(1) Akta ibu dipinda dengan menggantikan takrif “had yang ditetapkan” dengan takrif yang berikut: ‘ “had yang ditetapkan” ertinya—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "22 mikrogram alkohol dalam 100 mililiter nafas;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "50 miligram alkohol dalam 100 mililiter darah; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "67 miligram alkohol dalam 100 mililiter air kencing;’. Pindaan seksyen 54"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 54 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “penunggang sikal kayuh dan basikal elektrik” dengan perkataan “pengguna kenderaan mikromobiliti”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “Subseksyen 42(1), 43(1), 44(1), 45a(1), 45b(4), 45b(5) dan 45c(6) dengan meninggalkan rujukan mengenai cuba memandu hendaklah, tertakluk kepada seksyen ini, terpakai kepada orang yang menunggang basikal, basikal elektrik dan trisikal” dengan perkataan “Subseksyen 41(1), 42(1), 43(1), 44(1), 44(1a), 45a(1), 45b(4), 45b(5) dan 45c(6) dengan meninggalkan rujukan mengenai cuba memandu hendaklah, tertakluk kepada seksyen ini, terpakai kepada orang yang menggunakan kenderaan mikromobiliti”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perenggan (a) dan (b) dengan perenggan yang berikut: “(a) dalam hal sesuatu sabitan di bawah seksyen 41, 42, 44, 45a, 45b atau 45c, denda tidak kurang daripada satu ribu ringgit dan tidak lebih daripada lima ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua belas bulan; (b) dalam hal sesuatu sabitan di bawah seksyen 43, denda sebanyak satu ribu ringgit.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (3). Pindaan seksyen 88"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_13__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 88(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan perkataan “basikal, basikal elektrik, trisikal atau beca” dengan perkataan “kenderaan mikromobiliti”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (p), dengan menggantikan perkataan “basikal berkayuh, basikal elektrik, trisikal berkayuh atau beca” dengan perkataan “kenderaan mikromobiliti”. Pindaan seksyen 112"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 112(3) Akta ibu dipinda dengan menggantikan perkataan “basikal, basikal elektrik atau trisikal” dengan perkataan “kenderaan mikromobiliti”. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa tindakan, penyiasatan atau prosiding yang dimulakan atau yang belum selesai sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa obligasi, liabiliti, hilang kelayakan, penalti atau hukuman yang terakru atau dikenakan di bawah Akta ibu, boleh diteruskan, dikuatkuasakan, dikenakan dan diuruskan, mengikut mana-mana yang berkenaan, seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa kaedah-kaedah, perintah, pekeliling, garis panduan atau arahan yang dibuat atau yang diberikan di bawah, atau mengikut, atau menurut kuasa Akta ibu, sebelum tarikh permulaan kuat kuasa Akta ini hendaklah disifatkan sebagai telah dibuat atau diberikan di bawah, atau mengikut, atau menurut kuasa, Akta ini, dan hendaklah terus berkuat kuasa berhubung dengan orang yang perkara itu terpakai baginya sehingga dibatalkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Pengangkutan Jalan (Pindaan) 2020."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Jalan 1987 [Akta 333], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif “basikal elektrik”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “kenderaan barangan” takrif yang berikut: ‘ “kenderaan mikromobiliti” ertinya mana-mana kenderaan yang dipacu oleh sumber elektrik, enjin pembakaran dalam atau kuasa manusia atau gabungan sumber elektrik, enjin pembakaran dalam atau kuasa manusia, dan mempunyai kelajuan maksimum 50 km/j;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “kenderaan motor elektrik”, dengan menggantikan perkataan “basikal elektrik” dengan perkataan “kenderaan mikromobiliti”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “lalu lintas”, dengan menggantikan perkataan “basikal, basikal elektrik, trisikal” dengan perkataan “kenderaan mikromobiliti”. Pindaan seksyen 41"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 41 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “selama tempoh tidak kurang daripada dua tahun dan tidak lebih daripada sepuluh tahun dan denda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada dua puluh ribu ringgit” dengan perkataan “selama tempoh tidak kurang daripada lima tahun dan tidak lebih daripada sepuluh tahun dan denda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit dan, dalam hal sabitan kali kedua atau kali kemudian, penjara selama tempoh tidak kurang daripada sepuluh tahun dan tidak lebih daripada lima belas tahun dan denda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “tiga tahun” dengan perkataan “lima tahun”. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 42(3) Akta ibu dipinda dengan menggantikan perkataan “dua tahun” dengan perkataan “lima tahun”. Pindaan seksyen 43"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 43(1) Akta ibu dipinda dengan menggantikan perkataan “empat ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua belas bulan” dengan perkataan “lima ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua belas bulan dan, dalam hal sabitan kali kedua atau kali kemudian, denda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima belas ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua belas bulan”. Pindaan seksyen 44"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 44 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Mana-mana orang yang, semasa memandu sesuatu kenderaan motor di jalan atau tempat awam lain— (a) berada di bawah pengaruh minuman yang memabukkan atau dadah, setakat yang menyebabkan tidak berdaya mengawal kenderaan itu dengan sepatutnya; atau (b) mempunyai sebegitu banyak alkohol dalam badannya sehingga kadar alkohol di dalam nafas, darah atau air kencingnya melebihi had yang ditetapkan, dan menyebabkan kematian mana-mana orang melakukan suatu kesalahan dan, apabila disabitkan, hendaklah dihukum penjara selama tempoh tidak kurang daripada sepuluh tahun dan tidak lebih daripada lima belas tahun dan denda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit dan, dalam hal sabitan kali kedua atau kali kemudian, penjara selama tempoh tidak kurang daripada lima belas tahun dan tidak lebih daripada dua puluh tahun dan denda tidak kurang daripada satu ratus ribu ringgit dan tidak lebih daripada satu ratus dan lima puluh ribu ringgit.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Mana-mana orang yang, semasa memandu sesuatu kenderaan motor di jalan atau tempat awam lain— (a) berada di bawah pengaruh minuman yang memabukkan atau dadah, setakat yang menyebabkan tidak berdaya mengawal kenderaan itu dengan sepatutnya; atau (b) mempunyai sebegitu banyak alkohol dalam badannya sehingga kadar alkohol di dalam nafas, darah atau air kencingnya melebihi had yang ditetapkan, dan menyebabkan kecederaan kepada mana-mana orang melakukan suatu kesalahan dan, apabila disabitkan, hendaklah dihukum penjara selama tempoh tidak kurang daripada tujuh tahun dan tidak lebih daripada sepuluh tahun dan denda tidak kurang daripada tiga puluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit dan, dalam hal sabitan kali kedua atau kali kemudian, penjara selama tempoh tidak kurang daripada sepuluh tahun dan tidak lebih daripada lima belas tahun dan denda tidak kurang daripada lima puluh ribu ringgit dan tidak lebih daripada satu ratus ribu ringgit.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Seseorang yang disabitkan di bawah subseksyen (1) adalah hilang kelayakan daripada memegang atau mendapatkan suatu lesen memandu selama tempoh tidak kurang daripada sepuluh tahun dari tarikh sabitan dan, dalam hal sabitan kali kedua atau kali kemudian, hilang kelayakan selama tempoh dua puluh tahun dari tarikh sabitan.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3 a) Seseorang yang disabitkan di bawah subseksyen (1a) adalah hilang kelayakan daripada memegang atau mendapatkan suatu lesen memandu selama tempoh tidak kurang daripada tujuh tahun dari tarikh sabitan dan, dalam hal sabitan kali kedua atau kali kemudian, hilang kelayakan selama tempoh sepuluh tahun dari tarikh sabitan.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “subseksyen (1)” dengan perkataan “subseksyen (1) dan (1a)”. Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 45 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “hendaklah apabila disabitkan dihukum denda tidak melebihi satu ribu ringgit dan boleh juga dipenjarakan selama tempoh dipenjarakan tidak melebihi tiga bulan dan, dalam hal sabitan kali kedua atau kali kemudian, denda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada enam ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua belas bulan” dengan perkataan “apabila disabitkan hendaklah dihukum denda tidak kurang daripada satu ribu ringgit dan tidak lebih daripada lima ribu ringgit, dan boleh juga dipenjarakan selama tempoh tidak melebihi dua tahun dan, dalam hal sabitan kali kedua atau kali kemudian, denda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi lima tahun”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Seseorang yang disabitkan di bawah seksyen ini adalah hilang kelayakan daripada memegang atau mendapatkan suatu lesen memandu selama tempoh tidak kurang daripada dua tahun dari tarikh sabitan dan, dalam hal sabitan kali kedua atau kali kemudian, hilang kelayakan selama tempoh tidak kurang daripada lima tahun dari tarikh sabitan.”. Pindaan seksyen 45a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 45a Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan menggantikan perkataan “denda tidak kurang daripada satu ribu ringgit dan tidak lebih daripada enam ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua belas bulan dan, dalam hal sabitan kali kedua atau kali kemudian, denda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua tahun” dengan perkataan “penjara selama tempoh tidak melebihi dua tahun dan denda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada tiga puluh ribu ringgit dan, dalam hal sabitan kali kedua atau kali kemudian, penjara selama tempoh tidak melebihi lima tahun dan denda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Seseorang yang disabitkan di bawah seksyen ini adalah hilang kelayakan daripada memegang atau mendapatkan suatu lesen memandu selama tempoh tidak kurang daripada dua tahun dari tarikh sabitan dan, dalam hal sabitan kali kedua atau kali kemudian, hilang kelayakan selama tempoh tidak kurang daripada lima tahun dari tarikh sabitan.”. Pindaan seksyen 45b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 45b Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “denda tidak kurang daripada satu ribu ringgit dan tidak lebih daripada enam ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua belas bulan dan, dalam hal sabitan kali kedua atau kali kemudian, denda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit dan boleh juga dipenjarakan selama tempoh tidak melebihi dua tahun” dengan perkataan “penjara selama tempoh tidak melebihi dua tahun dan denda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada tiga puluh ribu ringgit dan, dalam hal sabitan kali kedua atau kali kemudian, penjara selama tempoh tidak melebihi lima tahun dan denda tidak kurang daripada dua puluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2020/3/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (4a) dengan subseksyen yang berikut: “(4a) Seseorang yang disabitkan di bawah seksyen ini adalah hilang kelayakan daripada memegang atau mendapatkan suatu lesen memandu selama tempoh tidak kurang daripada dua tahun dari tarikh sabitan dan, dalam hal sabitan kali kedua atau kali kemudian, hilang kelayakan selama tempoh tidak kurang daripada lima tahun dari tarikh sabitan.”. Pindaan seksyen 45c"
+      }
+    }
+  ]
+}

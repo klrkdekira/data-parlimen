@@ -1,0 +1,1182 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-49-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_29"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kanun Tanah Negara (Pindaan) 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 124(4)(c) Kanun dipinda dengan memasukkan selepas perkataan “new condition” perkataan “or restriction in interest”. Pindaan seksyen 136"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 136(1) Kanun dipinda dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(ca) that the proprietor has agreed in his application that as a consequence of the subdivision, the land described therein which has been approved by any planning authority or body or authority specified in paragraph (c) to be used for public purpose be surrendered for such purpose in accordance with section 197;”. Pindaan seksyen 140"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 140 Kanun dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “or Land Administrator” dengan perkataan “, Land Administrator or State Authority”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) If the alienated land referred to in subsection (1) is subject to the category of “agriculture” or to any condition requiring its use for an agricultural purpose and is— (i) two-fifths of a hectare; or (ii) less than two-fifths of a hectare; the co-proprietors referred to in that subsection may, by agreement between them and with the approval of the State Authority as provided by section 143A, partition the land.”. Pindaan seksyen 141"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 141 Kanun dipinda dalam perenggan (1)(c) dengan memasukkan selepas perkataan “mutatis mutandis,” perkataan “with the omission of paragraph (ca) and subparagraph (f)(i) of that subsection,”. Penggantian seksyen 141A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kanun dipinda dengan menggantikan seksyen 141A dengan seksyen yang berikut: “Application for partition by any co-proprietor 141A. Notwithstanding the provisions of sections 140 and 141, any co-proprietor where other co-proprietors neither join in nor consent to the making of the application may apply for approval to partition the land.”. Pindaan seksyen 142"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 142 Kanun dipinda dengan memasukkan selepas subseksyen (4) subseksyen yang berikut: “(5) When the Land Administrator is satisfied that any application for partition of land is subject to— (a) the category “agriculture” or to any condition requiring its use for an agricultural purpose; and (b) the said land is two-fifths of a hectare or less than two-fifths of a hectare, he shall refer the application to be approved by the State Authority.”. Seksyen baru 143A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kanun dipinda dengan memasukkan selepas seksyen 143 seksyen yang berikut: “Power of State Authority in relation to application for partition of land subject to the category “agriculture”” 143A. (1) The State Authority may, upon giving due consideration to the application referred to it pursuant to subsection 142(5) and in the case of an application made under section 141A, on being satisfied that subsections 142(3) and (4) have been complied with, approve the application subject to such conditions and modifications or reject the application if it thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Upon approval by the State Authority, the Land Administrator shall notify each of the co-proprietors of such approval subject to any condition and modification subject to which the approval is given."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "The Land Administrator shall call upon the co-proprietor who applies to partition the said land to pay to him within a specified time—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "in a case where the individual portions are to be surveyed by a Survey Officer, the amount, or estimated amount, of the fees chargeable for the survey of each portion; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the fees chargeable in connection with the preparation and registration of final documents of title to each portion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Where the State Authority rejects an application, the Land Administrator shall notify the co-proprietors and shall cancel, or cause to be cancelled, the note endorsed on the register document of title pursuant to subsection 142(2).”. Pindaan seksyen 147"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_17__para_ca",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 147(1) Kanun dipinda dengan memasukkan selepas perkataan “subparagraph (c)(iii),” perkataan “and paragraph"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_17__para_ca",
+      "@type": "akn:paragraph",
+      "eli:number": "ca",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "”. Pindaan seksyen 204GA"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 204GA Kanun dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) Where the proprietor withdraws his application, or the State Authority rejects the application or where the approval of the State Authority is not accepted by the proprietor, the Land Administrator shall cancel or cause to be cancelled the note endorsed on the register document of title pursuant to subsection (1).”. Pindaan seksyen 254"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 254(1) Kanun dipinda dengan memasukkan selepas perkataan “in the charge” perkataan “which shall not be less than one month”. Pindaan seksyen 264A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kanun Tanah Negara (Pindaan) 2007."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (4), Akta ini mula berkuat kuasa di setiap Negeri pada tarikh yang ditetapkan oleh Menteri, dengan kelulusan Majlis Tanah Negara, melalui pemberitahuan dalam Warta Persekutuan, dan Menteri boleh, dengan kelulusan Majlis Tanah Negara, menetapkan tarikh yang berlainan berkenaan dengan peruntukan yang berlainan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada subseksyen (4), Akta ini mula berkuat kuasa di Wilayah-Wilayah Persekutuan Kuala Lumpur dan Putrajaya pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta Persekutuan, dan Menteri boleh menetapkan tarikh- tarikh yang berlainan berkenaan dengan peruntukan-peruntukan yang berlainan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 10 dan 21 disifatkan telah mula berkuat kuasa masing-masing pada 25 Mac 1985 dan 1 Disember 2001. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kanun Tanah Negara [ Akta No. 56 tahun 1965], yang disebut sebagai “Kanun” dalam Akta ini, dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 264A(1) Kanun dipinda dengan menggantikan perkataan “Form 16P” dengan perkataan “Form 16O”. Pindaan seksyen 375"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 375 Kanun dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 1(c), dengan memasukkan selepas perkataan “other records” perkataan “including digital data and information on any matters virtually stored in the land database of land Registry and the Disaster Recovery Centre”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan memasukkan selepas perkataan “other record” perkataan “including digital data and information on any matters virtually stored in the land database of land Registry and the Disaster Recovery Centre”. Pindaan seksyen 399"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 399(1)(d) Kanun dipinda dengan memasukkan selepas perkataan “all survey records” perkataan “including the digital cadastral database”. Pindaan seksyen 412"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 412(1)(a) Kanun dipinda dengan memasukkan selepas perkataan “other process” perkataan “or extracted from the digital cadastral database”. Pindaan seksyen 426"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 426 Kanun dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ten” dengan perkataan “fifty”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “one year” dengan perkataan “five years”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1B)— Penggantian seksyen 429A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ten” dengan perkataan “fifty”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_24__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “one year” dengan perkataan “five years”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kanun dipinda dengan menggantikan seksyen 429A dengan seksyen yang berikut: “Institution of prosecution 429A. No prosecution for or in relation to any offence under this Code shall be instituted except by or with the consent in writing of the Public Prosecutor.”. Penggantian seksyen 429B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kanun dipinda dengan menggantikan seksyen 429B dengan seksyen yang berikut: “Compounding of offences 429B. (1) The State Director or Land Administrator may, with the consent of the Public Prosecutor, make a written offer to the person reasonably suspected of having committed an offence to compound the offence upon payment to the State Director or Land Administrator such amount not exceeding fifty per centum of the amount of maximum fine for that offence within such time as may be specified in the offer. (2) An offer under subsection (1) may be made at any time after the offence has been committed but before any prosecution for it has been instituted and where the amount specified in the offer is not paid within the time specified in the offer or within such extended time as the State Director or Land Administrator may grant, prosecution for the offence may be instituted at any time thereafter against the person to whom the offer was made. (3) Where an offence has been compounded under subsection (1)— (a) no prosecution shall thereafter be instituted in respect of such offence against the person whom the offer to compound was made; and (b) any book, record, apparatus, equipment, instrument, material, article or any other thing seized in connection with the offence, may be forfeited, destroyed or returned to that person, as the State Director or Land Administrator deems fit after taking into consideration the nature of the offence and subject to such terms and conditions as may be imposed.”. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Pertama kepada Kanun dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 5A, dengan menggantikan perkataan “Preparation and registration of documents of qualified title and final documents of title…RM” dengan perkataan yang berikut: “Preparation and registration of— *(i) documents of qualified title and final document of title…RM *(ii) final document of title …RM ”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 7C—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “and the imposition” dengan perkataan “and the reservation”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “quit”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 7F, dengan menggantikan perkataan “Form 5” dengan perkataan “Form 7E”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_27",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 16 H, dengan memasukkan di akhir Borang itu perkataan yang berikut: “SCHEDULE OF LAND * AND INTEREST [as in Form 13A] Delete as appropriate”. Pindaan Jadual Keempat Belas"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_k",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_l"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Keempat Belas kepada Kanun dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 5—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (1), dengan menggantikan perkataan “to be attached to” dengan perkataan “in”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (2), dengan menggantikan perkataan “attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 7—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (1), dengan menggantikan perkataan “to be attached to” dengan perkataan “in”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (2), dengan menggantikan perkataan “attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 8— “The title to be issued under subparagraph (7) shall be deemed to be a title in continuation.”; dan “(a) make two copies of the plan from the existing register document of title, where in the case of final title, from the copy as approved by the Director of Survey and Mapping under paragraph 396(1)(e), in Form B1 or B2, as the case may be, and shall be duly authenticated under his hand and seal;”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (6), dengan menggantikan perkataan “to be attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan (7), dengan menggantikan perkataan “to be attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (8) dengan subperenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_c",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subperenggan (9)(a) dengan subperenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan 10, dengan menggantikan perkataan “attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang B1—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “attached”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_e",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Attach plan here” dengan perkataan “Plan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang B2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “attached”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Lot No.” dengan perkataan “L.O. No.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_f",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “Attach *sketch plan/plan here” dengan perkataan “*Sketch plan/ plan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 5BK, dengan menggantikan perkataan “attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 5CK, dengan menggantikan perkataan “attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 5DK, dengan menggantikan perkataan “attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 5EK, dengan menggantikan perkataan “attached to” dengan perkataan “in”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 11AK, dengan menggantikan perkataan “attached to” di mana-mana jua terdapat dengan perkataan “in”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28__para_l",
+      "@type": "akn:paragraph",
+      "eli:number": "l",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_28",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Borang 11BK, dengan menggantikan perkataan “attached to” di mana-mana jua terdapat dengan perkataan “in”. Jadual Keenam Belas baru"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kanun dipinda dengan memasukkan selepas Jadual Kelima Belas Jadual yang berikut: “SIXTEENTH SCHEDULE [Section 5D] ELECTRONIC LAND ADMINISTRATION SYSTEM Interpretation 1. In this Schedule, unless the context otherwise requires— “computer” means any device for storing or processing information and includes the necessary input and output and database of a computer; “computer document of licence or permit” means any computer printed document of licence or computer printed document of permit prepared by use of a computer; “computer document of title” means any computer register document of title or computer issue document of title stored virtually in the land database, and includes print out thereof; “digital data” means all land related information recorded into land database by electronic technology that generates, stores, preserves, and processes data in terms of a computer file containing land titles, images, documents or spatial and textual data, in which the outputs are available in computerized formats upon the coming into force of the Electronic Land Administration System; “digital signature” means a transformation of a message using an asymmetric cryptosystem such that a person having the initial message and the signer’s public key can accurately determine— (a) whether the transformation was created using the private key that corresponds to the signer’s public key; and (b) whether the message has been altered since the transformation was made; “disaster”, in the context of the Electronic Land Administration System, means any natural or man-made disaster or hardware failure that causes an extended service interruption to the data processing services which cannot be corrected within an acceptable time which necessitates the use of an alternate site or equipment for recovery; “Electronic Land Administration System” means an integrated electronic processing of applications on land matters, registration of titles, documents required to be prepared thereby and any entry in any document of title through the use of a computer which includes both manual and computerized procedures; “entry”, in relation to any document of title, includes any endorsement, memorial, note, correction, cancellation or deletion or any other entry thereon by use of a computer; “existing document of title” means any register document of title or issue document of title issued manually or by use of a computer registered before or after the commencement of the Electronic Land Administration System; “land database” means a resource of information that contains all kinds of digital data or computer registers of titles or any other land related information, electronically stored in computerized formats upon the coming into force of the Electronic Land Administration System in a land Registry; “matter” means any instrument presented for registration or any order, notification, application or other document presented for entry into the register. Mode of making an entry on a document of title under the Electronic Land Administration System 2. For the purposes of this Act, whenever an entry is required to be made on the computer document of title the Registrar shall— (a) make the entry; and (b) prepare a new computer document of title and shall cancel and destroy the previous version of the computer document of title. Forms for Registry title 3. For the purpose of section 86, in the case of land to be alienated under Registry title— (a) the computer register document of title shall consist of a grant in Form 5Be or a State lease in Form 5Ce, according as the land is to be alienated in perpetuity or for a term of years; and (b) the computer issue document of title shall be in the same form as Form 5Be or Form 5Ce, as the case may be. Forms of documents for Land Office Title 4. For the purpose of section 87, in the case of land to be alienated under Land Office title— (a) the computer register document of title shall consist of a Mukim grant in Form 5De or a Mukim lease in Form 5Ee, according as the land is to be alienated in perpetuity or for a term of years; and (b) the computer issue document of title shall be in the same form as Form 5De or Form 5Ee, as the case may be. Forms of documents for qualified titles 5. For the purpose of subsection 177(2), documents of qualified titles shall consist of— (a) the computer register document of title in Form 11Ae or 11Be, according as the land in question is to be held under the form of qualified title corresponding to Registry title or that corresponding to Land Office title; and (b) the computer issue document of title in the same form as Form 11Ae or 11Be, as the case may be. Plan for computer document of title 6. (1) The plan of the land to be alienated under final title shall— (a) in the case of land held under Registry title, be issued by the Registrar in Form B1e separately to the proprietor and he shall duly authenticate it under his digital signature; or (b) in the case of land held under Land Office title, be issued by the Land Administrator in Form B1e separately to the proprietor and shall duly authenticate it under his digital signature; and (c) be virtually stored in the land database by the Registrar or the Land Administrator, as the case may be. (2) The plan of the land to be alienated under qualified title shall– (a) in the case of land held under Registry title, be issued by the Registrar in Form B2e separately to the proprietor and he shall duly authenticate it under his digital signature; or (b) in the case of land held under Land Office title, be issued by the Land Administrator in Form B2e separately to the proprietor and he shall duly authenticate it under his digital signature; and (c) be virtually stored in the land database. Conversion to computer register document of title 7. (1) Upon the coming into force of the Electronic Land Administration System in a land Registry, the Registrar shall convert the existing register documents of title, to the computer documents of title and shall authenticate the same under his digital signature. (2) An existing register documents of title shall continue to be in force and valid for all purposes of the Code until a computer documents of title is prepared and duly authenticated by the Registrar. (3) After the conversion of an existing register document of title to the computer document of title, the existing issue documents of title in respect thereof shall continue to be in force and valid for all purposes of this Code until the relevant computer issue document of title is prepared and issued to the proprietor. (4) The computer documents of title to be prepared in respect of an existing printed document of title prepared under this Code shall be in Forms 5Be, 5Ce, 5De, 5Ee, 11Ae or 11Be of this Schedule, as the case may be. (5) In respect of an existing printed document of title registered under the previous land law, the computer document of title shall be deemed to be a process for the preparation of titles in continuation. (6) Upon the conversion of an existing document of title to a computer document of title under the preceding subparagraphs, the Registrar shall— (a) enter the plan into Form B1e or B2e as the case may be, and duly authenticate it under his digital signature; (b) make a note of cancellation on the existing register document of title to the effect that the title in question has been converted to the computer document of title; and (c) destroy the existing document of title when submitted to him. Mode of preparing documents of title 8. (1) Every document of title to be prepared upon alienation of land or title in continuation or replacement of a computer issue document of title, under the Electronic Land Administration System, shall be prepared by the use of a computer. (2) A computer document of title prepared shall be viewed via a computer for verification purposes. (3) Upon request by the Registrar or as required for any purpose of the Code or any other written law, a copy of the computer register document of title or computer issue document of title shall be printed out in the respective form. Delivery to proprietor of a copy of the plan 9. Where a document of title is prepared upon alienation of land or title in continuation or replacement of a computer printed register document of title, the Land Administrator shall deliver to the proprietor the computer issue document of title together with a copy of the plan of the land in Form B1e or Form B2e, and shall be duly authenticated under his digital signature. Conclusiveness of every computer register document of title 10. For the purposes of section 89 and subsection 178(3), every computer register document of title virtually stored in the land database is conclusive evidence of the particulars recorded therein. Computer document of title to be kept in database 11. For the purposes of sections 158, 159 and 177, every computer document of title registered under this Code whether upon alienation of land or title in continuation or replacement of a computer printed register document of title, shall be stored in the land database. Presentation Record and Correction Note-Book 12. (1) The Registrar shall maintain records, to be called the “Presentation Record” and “Correction Note-Book”, in which there shall be entered a short description of every matter presented or corrected for registration or entry, as the case may be. (2) The Presentation Record and Correction Note-Book shall consist of— (a) the presentation number given by the computer in respect of each matter presented; (b) the date and time of presentation; (c) a description of the matter; (d) in the case of dealing, the name of the person presenting the matter; (e) the title description of the land affected by the presentation; and (f) a note whether the matter has been registered, endorsed or entered, as the case may be, or rejected or withdrawn. Contents of computer document of title to be verified 13. (1) After the Registrar has determined that an instrument is fit for registration in accordance with the provisions of Chapter 3 of Part Eighteen or that any other matter shall be entered into the computer document of title, he shall verify the contents of the verification document and if he finds the verification document to be in order, he shall authenticate the document under his digital signature. (2) After the Registrar has registered any instrument of dealing or enter any other matter into a computer document of title, the verification document shall be virtually stored in the land database upon his authentication. Mode of registering instrument 14. For the purpose of paragraph 304(2)(a), the memorial in the terms set out in subsection 304(3) thereof shall be entered into the computer in respect of the register document of title to which the land relates. New printed issue document of title 15. Upon making the memorial in the manner provided in paragraph 14 where it relates to a dealing or upon determining that any other matter shall be entered into any document of title, the Registrar shall— (a) cause to be updated the register document of title kept in the land database; and (b) cause to be printed a new computer issue document of title. Conclusiveness of registration of title 16. (1) Every register document of title prepared pursuant to paragraph 15 and authenticated under the digital signature of the Registrar shall be conclusive evidence of the registration to which it refers and the effective time and date thereof. (2) Notwithstanding the requirement of authentication under subparagraph (1), the requirement of seal under Registrar’s authentication shall be dispensed with. Disaster Recovery Centre 17. The Disaster Recovery Centre shall act as a land database of Registry in times of disaster for such a period, as may be specified by the State Authority, when the Registry fails to continue its normal business operation. Forms for a computer document of licence or permit 18. (1) For the purposes of section 67 and section 69, a temporary occupation licence or a combination of a temporary occupation licence and permit for removal of rock material, the computer document of licence shall be prepared in Form 4Ae or Form 4Be respectively. (2) For the purposes of sections 72 and 75C, in the case of land to be issued a permit for removal of rock material or a permit for the use of air space above State land or reserved land, the computer document of permit shall be prepared in Form 4Ce or Form 4De respectively. Plan for a computer document of licence or permit 19. (1) For the purpose of paragraph 17, the plan of the affected land shall be issued separately to the licensee or permit holder in Form L1e or Form L2e or Form P1e or Form P2e, as the case may be. (2) The Land Administrator shall cause to be stored in the land database, a copy of the plan of the land to which it relates as approved by the Director or by the State Authority, as the case may be. (3) A copy of the plan in Form L1e or Form L2e or Form P1e or Form P2e shall be duly authenticated under the digital signature of the Land Administrator. (4) The Land Administrator shall deliver the printed computer document of licence or permit to the respective licensee or permit holder together with the respective copy of the plan as described in subparagraph (1). Renewal of a temporary occupation licence 20. For the purpose of section 67, where it relates to a note of renewal to be entered into a computer document of licence, the Land Administrator shall— (a) authenticate the computer document of licence virtually stored in the land database; and (b) cause to be updated the existing printed computer document of licence submitted to him. Conclusiveness of licence or permit 21. Every computer document of licence or permit prepared pursuant to paragraphs 18 and 19 and authenticated under the digital signature of the Land Administrator shall be conclusive evidence of its issuance. Electronic searches 22. (1) Upon the coming into force of the Electronic Land Administration System, any electronic searches shall be applicable to private titles searches pursuant to section 384. (2) Subject to the payment of the prescribed fee, any person may inspect and take notes of or extract any information from any computer document of title which is accessible through the Electronic Land Administration System maintained by the Registrar. (3) Any Registry or Land Office shall be accessible to public for private search services at any time during normal office hours. (4) Notwithstanding paragraph (3), private searches may be conducted at places other than the Registry or Land Office, at such times as may be fixed by the State Director, with the approval of the State Authority and the State Director may fix different operating hours for different purposes. (5) An electronic search shall be applicable to any information stored, subject to the direction of the State Authority as may be so prescribed. Bar Code................ National Land Code Form B1e (Sixteenth Schedule) PLAN OF THE LAND (Final Title) I certify that the plan below is a true copy of the certified plan of the land. The particulars of the title are as follows: Title type and No: ............................................................................................ State:................................................................................................................. District:............................................................................................................. *Town/Village/Mukim: ..................................................................................... Sheet No: .......................................................................................................... Certified Plan No: ............................................................................................ Lot No: ................................ Area of Lot: ..................................................... Plan Dated this ........ day of ................, 20..... [Digital Signature] Enter as appropriate National Land Code Form B2e (Sixteenth Schedule) PLAN OF THE LAND (Qualified Title) I certify that the plan below is a true copy of the plan of the land. The particulars of the title are as follows: *Q.T.(R)/Q.T.(M): ........................................................................................... State: ............................................................................................................... *Town/Village/Mukim: ..................................................................................... Sheet No.: ......................................................................................................... L.O. No.: .......................................................................................................... Provisional Area: .............................................................................................. 2. In the plan below, the boundaries shown in red not having been established by survey, are provisional only. Plan Dated this................day of................., 20..... Enter as appropriate *CRDT/CIDT Bar Code................ National Land Code Form 5Be (Sixteenth Schedule) GRANT Version No:……………………………. Title No. Annual Rent: RM State : District : *Town/Village/Mukim : L.O. No. : Area of Lot : Category of Land Use : Standard Sheet No. : Certified Plan No. : File No. : *Within Malay Reservation/Aboriginal Area/Aboriginal Reserve/Group Settlement Area, etc, ...................................................................................................... Gazette Notification No. ………………………… dated ....................... The land described above is held in perpetuity by the proprietor for the time being named in the record of proprietorship below, subject to the provisions of the National Land Code, to the category specified above and to the express conditions and restrictions in interest specified below, in consideration of the due payment of the annual rent. By command of the State Authority registered this ......... day of .............., 20…... [Digital Signature] The plan of the land, for the purposes of identification, is in Form B1e . ** EXPRESS CONDITIONS ** RESTRICTIONS IN INTEREST ** (To be completed when the title is issued in continuation) Date of first alienation: .................................................................................... No. of original title (final or qualified): .......................................................... No. of immediately preceding title (if different from above):......................... RECORD OF PROPRIETORSHIP ** RECORD OF DEALINGS ** OTHER MATTERS AFFECTING TITLE Enter as appropriate ** Enter when appropriate Title ID : Date : Version No. : Page : *CRDT/CIDT Bar Code................ National Land Code Form 5Ce (Sixteenth Schedule) STATE LEASE Version No.:………………… Title No. Annual Rent: RM Term of ........... years expiring on .................... State : District : *Town/Village/Mukim : L.O. No. : Area of Lot : Category of Land Use : Standard Sheet No. : Certified Plan No. : File No. : *Within Malay Reservation/Aboriginal Area/Aboriginal Reserve/ Group Settlement Area, etc, ..................................................... ..................Gazette Notification No. ………………………… dated ..................... The land described above is held for the above term of years by the proprietor for the time being named in the record of proprietorship below, subject to the provisions of the National Land Code, to the category specified above and to the express conditions and restrictions in interest specified below, in consideration of the due payment of the annual rent. By command of the State Authority registered this ......... day of .............., 20..... [Digital Signature] The plan of the land, for the purposes of identification, is in Form B1e. ** EXPRESS CONDITIONS ** RESTRICTIONS IN INTEREST ** (To be completed when the title is issued in continuation) Date of first alienation: .................................................................................... No. of original title (final or qualified): .......................................................... No. of immediately preceding title (if different from above):......................... RECORD OF PROPRIETORSHIP ** RECORD OF DEALINGS ** OTHER MATTERS AFFECTING TITLE Enter as appropriate ** Enter when appropriate Title ID : Date : Version No. : Page : *CRDT/CIDT Bar Code……………… National Land Code Form 5De (Sixteenth Schedule) MUKIM GRANT Version No:……………………………. Title No. Annual Rent: RM State : District : Locality/Mukim : L.O. No. : Area of Lot : Category of Land Use : Standard Sheet No. : Certified Plan No. : File No. : *Within Malay Reservation/Aboriginal Area/Aboriginal Reserve/ Group Settlement Area, etc ............................................................................. Gazette Notification No. …………………..... dated ..................... The land described above is held in perpetuity by the proprietor for the time being named in the record of proprietorship below, subject to the provisions of the National Land Code, to the category specified above and to the express conditions and restrictions in interest specified below, in consideration of the due payment of the annual rent. By command of the State Authority registered this ......... day of ................., 20...... [Digital Signature] The plan of the land, for the purposes of identification, is in Form B1e . ** EXPRESS CONDITIONS ** RESTRICTIONS IN INTEREST ** (To be completed when the title is issued in continuation) Date of first alienation:…………………......…………………………………... No. of original title (final or qualified):……………………….....……………. No. of immediately preceding title (if different from above): …….......…….. RECORD OF PROPRIETORSHIP ** RECORD OF DEALINGS ** OTHER MATTERS AFFECTING TITLE Enter as appropriate ** Enter when appropriate Title ID : Date : Version No. : Page : *CRDT/CIDT Bar Code……………… National Land Code Form 5Ee (Sixteenth Schedule) MUKIM LEASE Version No:……………………………. Title No. Annual Rent: RM Term of .................... years expiring on ......................... State : District : *Mukim : Locality L.O. No. : Area of Lot : Category of Land Use : Standard Sheet No. : Certified Plan No. : File No. *Within Malay Reservation/Aboriginal Area/Aboriginal Reserve/ Group Settlement Area, etc ............................................................................. Gazette Notification No. …………………..... dated ..................... The land described above is held for the above term of years by the proprietor for the time being named in the record of proprietorship below, subject to the provisions of the National Land Code, to the category specified above and to the express conditions and restrictions in interest specified below, in consideration of the due payment of annual rent. By command of the State Authority registered this ......... day of ............., ............... [Digital Signature] The plan of the land, for the purposes of identification, is in Form B1e. ** EXPRESS CONDITIONS ** RESTRICTIONS IN INTEREST ** (To be completed when the title is issued in continuation) Date of first alienation:…………………............……………………………….. No. of original title (final or qualified):…………………………….......…….. No. of immediately preceding title (if different from above):…….......…….. RECORD OF PROPRIETORSHIP ** RECORD OF DEALINGS ** OTHER MATTERS AFFECTING TITLE Enter as appropriate ** Enter when appropriate Title ID : Date : Version No. : Page : *CRDT/CIDT Bar Code……………… National Land Code Form 11Ae (Sixteenth Schedule) (Qualified Title Corresponding to Registry Title) Version No:……………………………. Q.T. (R) No. Annual Rent: RM State : District : *Town/Village/Mukim : L.O. No. : Provisional Area : Category of Land Use : Standard Sheet No. : Requisition for Survey No. : File No. : *Within Malay Reservation/Aboriginal Area/Aboriginal Reserve/Group Settlement Area, etc, ............................ Gazette Notification No:………........ dated ....................... *Grant in perpetuity/ Lease for a term of ........... expiring on ............................ Registered this ......... day of ............., ............... [Digital Signature] Issue document of title issued this ....... day of ............. 20……… [Digital Signature] The plan of the land, for the purpose of identification, is in Form B2e. SPECIAL CONDITIONS OF QUALIFIED TITLE 1. This title is subject to the provisions of the National Land Code and to the following express conditions and restrictions: ** EXPRESS CONDITIONS ** RESTRICTIONS IN INTEREST 2. In the plan of the land in Form B2e, the boundaries shown in red, not having been established by survey, are provisional only. (To be completed when the title is issued in continuation) Date of first alienation:………………………….......…………………………... No. of original title (final or qualified):……………………….....…………….. No. of immediately preceding title (if different from above): …….........…… RECORD OF PROPRIETORSHIP ** RECORD OF DEALINGS ** OTHER MATTERS AFFECTING TITLE Enter as appropriate ** Enter when appropriate Title ID : Date : Version No. : Page : *CRDT/CIDT Bar Code……………… National Land Code Form 11Be (Sixteenth Schedule) (Qualified Title Corresponding to Land Office Title) Q.T. (M) No. Annual Rent: RM State : ............................ District : ............................. Mukim : ............................ Locality :……………………. L.O. No. : ............................ Provisional Area : ............................ Category of Land Use : ............................. Standard Sheet No. : ........................... Requisition for Survey No. : ............................. File No. : ............................. *Within Malay Reservation/Aboriginal Area/Aboriginal Reserve/ Group Settlement Area, etc, ............................................................................ Gazette Notification No. ………………......dated ....................... *Grant in perpetuity/ Lease for a term of ........... expiring on .................... Registered this ......... day of ............., 20...... [Digital Signature] Issue document of title issued this ....... day of ........ 20....... [Digital Signature] The plan of the land, for the purpose of identification, is in Form B2e. SPECIAL CONDITIONS OF QUALIFIED TITLE 1. This title is subject to the provisions of the National Land Code and to the following express conditions and restrictions: ** EXPRESS CONDITIONS ** RESTRICTIONS IN INTEREST 2. In the plan of the land in Form B2e, the boundaries shown in red, not having been established by survey, are provisional only. ** (To be completed when the title is issued in continuation) Date of first alienation: …………………………………………………….. No. of original title (final or qualified):…………………………………….. No. of immediately preceding title (if different from above)……………: RECORD OF PROPRIETORSHIP ** RECORD OF DEALINGS ** OTHER MATTERS AFFECTING TITLE Enter as appropriate ** Enter when appropriate Title ID : Date : Version No. : Page : Bar Code……………… National Land Code Form 4Ae (Sixteenth Schedule) TEMPORARY OCCUPATION LICENCE (General Form) T.O.L No. A District Purpose of Occupation* CULTIVATION PRIVATE RESIDENCE PUBLIC PERFORMANCE, ETC… Fee RM Paid vide Receipt No. …………………for period expiring on 31 December……… File Reference No……………………….. Name of Licensee:………………………….........……………………………… Address:………………………………………….........………………………….. N.R.I.C. No:………………………………………………........………………… is hereby licensed to occupy the land described below, for the purpose, and the fee, specified above. Occupation will be subject to the provisions scheduled below and to any other provisions prescribed by Rule. Issued this ……….day of …………….., ………………… [Digital Signature] DESCRIPTION OF LAND *Town / Village / Mukim : ………………………………. *State Land / Reserve / Mining Land ………………………………. (Lease or M.C. No.): Locality (*Lot / L.O. No. if any) ………………………………. Area of Land to be occupied ………………………………. (The plan of the land, for the purpose of identification, is issued separately in Form L1e) Licence ID : Date : Version No. : Page : RECORD OF RENEWALS FIRST RENEWAL: Fee RM Paid vide Receipt No. …………………for period expiring on 31 December……… SECOND RENEWAL: Fee RM Paid vide Receipt No. …………………for period expiring on 31 December……… THIRD RENEWAL: Fee RM Paid vide Receipt No. …………………for period expiring on 31 December……… SCHEDULE (1) This licence shall commence on …………….. and expire on *31 December / …………………………………………….. (2) This licence *is not capable / is capable under Rule ………………….. of assignment. (3) This licence shall terminate in the event of the death of the person, or dissolution of the body, for the time being entitled to its benefit. (4) The land under licence may not be used— (a) for any purpose other than that stated above; (b) for the planting of permanent crops; (c) for the erection of any permanent building or other permanent structure. (5) This licence may be cancelled— (a) immediately, and without payment of compensation, upon the breach of any provision to which it is subject; (b) upon payment of compensation (to be agreed or determined in accordance with the provisions of section 434 of the National Land Code) at any time before the date of expiry. ........................................................................................................... ........................................................................................................... (Insert any additional provisions) Enter as appropriate Licence ID : Date : Version No. : Page : National Land Code Form 4Be (Sixteenth Schedule) TEMPORARY OCCUPATION LICENCE (Special Form) T.O.L No. B District Purpose of Occupation EXTRACTION, PROCESSING AND REMOVAL OF ROCK MATERIAL, VIZ, .................................. Occupation Fee RM File Reference No……………………… Name of Licensee:…………………………………………………………. Address :…………………………………………………………………….. N.R.I.C. No:…………………………………………………………………. is hereby licensed to occupy the land described below, for the purpose, and the fee, specified above. Occupation will be subject to the provisions scheduled below and to any other provisions prescribed by Rule. Issued this ……….day of …………….., ………………… DESCRIPTION OF LAND *Town / Village / Mukim : ………………………………. *State Land / Reserve / Mining ………………………………. Land (Lease or M.C. No.): Locality (*Lot / L.O. No. if any) ………………………………. Area of Land to be occupied ………………………………. (The plan of the land, for the purpose of identification, is issued separately in Form L2e) SCHEDULE (1) This licence is for a term of …………… expiring……………. (2) The maximum quantity of rock material which may be extracted shall be— (i) …………………. per annum; or (ii) …………………..in all, over the whole period. (3) In addition to the occupation fee (if any) stated above a fee shall be payable at the rate of RM …………per ……………….….(unit quantity of the rock material). (4) This licence *is not capable/is capable under Rule ……………….. of assignment. (5) This licence shall terminate in the event of the death of the person, or dissolution of the body, for the time being entitled to its benefit. (6) The land may not be used for any other purpose other than the extraction, processing or removal of the type of rock material specified above. (7) The licensee may erect and use on the land such kilns, workshops, storerooms as are specified below— ………………………………………………………………………… ……………………………………………………………………………………… …………………………………………………………………… (8) This licence may be cancelled— (a) immediately, and without payment of compensation, upon the breach of any provision to which it is subject; (b) upon payment of compensation (to be agreed or determined in accordance with the provision of section 434 of the National Land Code) at any time before the date of expiry. ........................................................................................................... ........................................................................................................... (Here insert any additional provisions). Enter as appropriate National Land Code Form 4Ce (Sixteenth Schedule) PERMIT TO REMOVE ROCK MATERIAL Permit No. C District Fee RM Receipt No. File Reference No…………………….. Name of Permit holder:…………………………………………………… Address:…………………………………………………………………….. N.R.I.C. No.:………………………………………………………………… is hereby permitted to enter on, and extract and remove rock material from, the land described below, subject the provisions as scheduled and to any other provisions prescribed by Rule. Issued this ……….day of …………….. 20.…… DESCRIPTION OF LAND *Town / Village / Mukim : ………………………………. *State Land / Reserve / Mining Land ………………………………. (Lease or M.C. No.) /Alienated Land (Title No): Locality (*Lot / L.O. No. if any) ………………………………. Area of Land to be occupied ………………………………. (The plan of the land, for the purpose of identification, is issued separately in Form P1e) SCHEDULE (1) This permit shall commence on …………… and expire on *31 December/………………………………………………………………… (2) No rock material may be extracted or removed other than …………………………… (3) The maximum quantity of such material which may be extracted shall be ……………………………………………………………………… (4) A fee shall be payable at the rate of RM …………………………. per ………………. (unit quantity of the rock material). (5) This permit *is not capable/is capable under Rule …………….. of assignment. (6) This permit shall terminate in the event of the death of the person, or dissolution of the body, for the time being entitled to its benefit. (7) The land may not be used for any other purpose other than the extraction and removal of rockmaterial specified above. (8) This permit may be cancelled— (a) immediately, and without payment of compensation, upon the breach of any provision to which it is subject; (b) upon payment of compensation (to be agreed or determined in accordance with the provisions of section 434 of the National Land Code) at any time before the date of expiry. ........................................................................................................... ........................................................................................................... (Here insert any additional provisions). Enter as appropriate National Land Code Form 4De (Sixteenth Schedule) PERMIT FOR THE USE OF AIR SPACE ABOVE *STATE LAND/RESERVED LAND Permit No. D District Fee RM Receipt No. File Reference No…………………….. Name of Permit holder :………………........………………………………….. Address:……………………………………………………………........………. N.R.I.C. No:………………………………………………………….....………. is hereby permitted to use the air space above the land described below for the purpose of erecting, maintaining and occupying such *structures/as may be approved by the State Authority, subject to the conditions specified below and to provisions prescribed by Rules. Issued this ……….day of …………….. 20…… [Digital Signature] DESCRIPTION OF LAND *Town / Village / Mukim : ………………………………. *State Land / Reserve Land: ………………………………. Locality ………………………………. Area of Land ………………………………. (The *Sketch Plan/ plan of the land, for the purpose of identification, is issued separately in Form P2e) SCHEDULE (1) This permit shall commence on ……………………………and expire on ………………………………………………………….. (2) The air space over the *State land/ reserved land shall not be used for any purpose other than for the erection, maintenance and occupation of the *structure/s described below for which the permit is issued– *Type of structure ………………………………. Location ………………………………. Area of air space affected (volume) ………………………………. (attach a certified true copy of the approved building plan) (3) This permit may be cancelled under section 75G. (4) This permit shall not be capable of assignment, except with the prior consent of the State Authority. ........................................................................................................... ........................................................................................................... (Here insert any additional provisions). Enter as appropriate National Land Code Form L1e (Sixteenth Schedule) PLAN OF TEMPORARY OCCUPATION LICENCE I certify that the plan shown below is a true copy of the plan of the affected land for a temporary occupation licence. The particulars of this licence are as follows: Licence No: ………………………………………………………………… State:………………………………………………………………………… *Town / Village / Mukim : ………………………………. *State Land / Reserve / Mining Land ………………………………. (Lease or M.C. No.): Locality (*Lot / L.O. No. if any) ………………………………. Area of Land to be occupied ………………………………. Plan Enter as appropriate Issued this ……………… day of ………….., ………… [Digital Signature] National Land Code Form L2e (Sixteenth Schedule) PLAN OF A COMBINED TEMPORARY OCCUPATION LICENCE AND PERMIT FOR REMOVAL OF ROCK MATERIAL I certify that the plan shown below is a true copy of the plan of the affected land for a temporary occupation licence. The particulars of this licence are as follows: Licence No: …………………………………….........………………………….. State:………………………………………………………........………………… *Town / Village / Mukim : ………………………………. *State Land / Reserve / Mining Land ………………………………. (Lease or M.C. No.): Locality (*Lot / L.O. No. if any): ………………………………. Area of Land to be occupied: ………………………………. Plan Enter as appropriate Issued this ……………… day of ……………………., …………. National Land Code Form P1e (Sixteenth Schedule) PLAN OF PERMIT TO REMOVE ROCK MATERIAL I certify that the plan shown below is a true copy of the plan of the affected land for a permit to remove rock material. The particulars of this permit are as follows: Permit No: ………………………………………….......……………………….. State:……………………………………………………….........………………… *Town / Village / Mukim : ………………………………. *State Land / Reserve / Mining Land ………………………………. (Lease or M.C. No.): Locality (*Lot / L.O. No. if any): ………………………………. Area of Land to be occupied: ………………………………. Plan Enter as appropriate Issued this ……………… day of …………….., ……………. [Digital Signature] National Land Code FORM P2e (Sixteenth Schedule) PLAN OF PERMIT FOR THE USE OF AIR SPACE ABOVE *STATE LAND/RESERVED LAND I certify that the plan shown below is a true copy of the plan of a permit for the use of air space above *State land / Reserved land. The particulars of this permit are as follows: Permit No: ………………………………………………………………….. State:………………………………………………………………………… *Town / Village / Mukim : ………………………………. *State Land / Reserve Land : ………………………………. Locality (*Lot / L.O. No. if any) : ………………………………. Area of Land to be occupied : ………………………………. Area of Air space to be occupied : ............................................. Purpose of use : ............................................. Plan Enter as appropriate Issued this ………… day of ……………., ……………. [Digital Signature]”.”"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “to deliver” takrif yang berikut: ‘ “digital cadastral database” means any computerized cadastral database based on the cadastral coordinate system adopted and maintained by the Survey and Mapping Department;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Director of Survey and Mapping” takrif yang berikut: ‘ “Disaster Recovery Centre” means a centre of backup and recovery system set up by the State Authority for the continuity of business operation of the Electronic Land Administration System;’;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “pre-computation plan”, dengan memasukkan selepas perkataan “layouts of lots” perkataan “prepared by Director of Survey and Mapping or licensed land surveyor”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan takrif “rock material” dengan takrif yang berikut: ‘ “rock material” means any rock, stone, gravel, common sand, common earth, common laterite, loam, common clay, soil, mud, turf, peat, coral, shell, and any other rock materials within or upon any land, and includes processed materials therefrom, other than minerals defined under any written law relating to mining which is for the time being in force;’. Pindaan seksyen 5B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5B Kanun dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “any Form in”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “any of the Forms in”. Bahagian baru Satu (C)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_4__para_B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Kanun dipinda dengan memasukkan selepas BAHAGIAN SATU"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_4__para_B",
+      "@type": "akn:paragraph",
+      "eli:number": "B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian yang berikut: “PART ONE (C) — MODIFICATIONS TO FACILITATE THE IMPLEMENTATION OF THE ELECTRONIC LAND ADMINISTRATION SYSTEM Coming into operation of the Electronic Land Administration System in land Registry"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 14(1)(i) Kanun dipinda dengan memasukkan selepas perkataan “officers” perkataan “or any collecting agent as approved by the State Authority.”. Pindaan seksyen 62"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D",
+      "@type": "akn:clause",
+      "eli:number": "5D",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "The Minister may, with the approval of the National Land Council, by notification in the Gazette of the Federation, appoint a date for the coming into operation of the Electronic Land Administration System in any land Registry."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "For the purpose of this section, “land Registry” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "in the case of land held or to be held under Registry title, or under the form of qualified title corresponding to Registry title, the office of the Registrar of Titles;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "in the case of land held or to be held under Land Office title, or under the form of qualified title corresponding to Land Office title, the office of the Land Administrator; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Disaster Recovery Centre in times of disaster as specified by the State Authority."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Upon the coming into force of the Electronic Land Administration System in any land Registry—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the provisions of the Sixteenth Schedule shall apply;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the provisions of this Code shall be read with modifications, amendments, additions, deletions, substitutions or adaptations as provided in the Sixteenth Schedule—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "in so far as they relate to the forms of document of title, the procedure for the preparation and registration of any document of title, any dealing in respect of land and any entry or endorsement of any note, memorial or memorandum or any correction or cancellation thereof on any document of title;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "in so far as they relate to the forms of document of temporary occupation licence or permit, the procedure for the preparation and authentication of any document of temporary occupation licence or permit, and entry of any note thereof on any document of aforesaid licence or permit; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "in so far as they relate to the procedure for the payments of any item of land revenue, or the procedure for searches, or the procedure for the safe keeping of registers or other records, or the procedure for the maintenance of Presentation Book and Correction Note-Book thereof; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the provisions of the Fourteen Schedule shall cease to be operative."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_5D",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "The Minister may, with the approval of the National Land Council, by order published in the Gazette of the Federation, make any amendment to the Sixteenth Schedule that he may consider necessary, desirable or expedient.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 62(2)(c) Kanun dipinda dengan memasukkan selepas perkataan “designate the” dengan perkataan “public”. Pindaan seksyen 80"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 80 Kanun dipinda dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(3A) Notwithstanding subsection (3), the Registrar may, where it appears just and expedient, prepare, register and issue final title in respect of the land.”. Pindaan seksyen 81"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 81 Kanun dipinda dengan menggantikan perenggan (1)(d) dengan perenggan yang berikut: “(d) the fees chargeable in connection with the preparation and registration of— (i) documents of qualified title and final document of title; or (ii) final document of title.”. Pindaan seksyen 92D"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/49/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 92D(1) Kanun dipinda dengan menggantikan proviso dengan proviso berikut: “Provided that the State Authority shall not entertain any such application unless rent payable in respect of the land has been paid and it is satisfied with respect to every person or body having a registered interest in the land, or in occupation of any part thereof under any tenancy exempt from registration, either that they have consented thereto or that their consent ought in the circumstances of the case be dispensed with.”. Pindaan seksyen 124"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-39-2007",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4B",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Revenue Growth Grants (Amendment) Bill 2007"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Revenue Growth Grants (Amendment) Act 2007. Substitution of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Revenue Growth Grants Act 1977 [Act 181], which is referred to as the \"principal Act\" in this Act, is amended by substituting for section 2 the following section: \"Grants to States 2. (1) Whenever there is a growth in the revenue of the Federation in any financial year as compared to the preceding financial year, the Minister shall for the following financial year allocate for the purposes of making grants under sections 4, 4A and 4B an amount not exceeding two hundred and fifty million ringgit to be apportioned as follows: (a) a portion of the amount not exceeding fifty million ringgit for the purposes of section 4; (b) a portion of the amount not exceeding one hundred million ringgit for the purposes of section 4A; and (c) the remainder portion not exceeding one hundred million ringgit for the purposes of section 4B. (2) Nowithstanding subsection ( 1 ) , the limit of two hundred and fifty million ringgit, fifty million ringgit in paragraph (a), one hundred million ringgit in paragraph (b) and one hundred million ringgit in paragraph (c) may be reviewed and varied by the Minister.\". New section 4B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 4A the following section: \"Apportionment amongst States in accordance with the percentage of gross domestic product"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4__para_b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 5 of the principal Act is amended by substituting for the words \"paragraphs 2(a) and (b)” the words \"paragraphs 2(a),"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4B",
+      "@type": "akn:clause",
+      "eli:number": "4B",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The sum of money allocated under paragraph 2(c) shall be apportioned as grants amongst States in accordance with the percentage of gross domestic product of each State. The gross domestic product of the Federation and all States of the Federation shall be determined by the Federation.\". Amendment of section 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "and (c). Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended by substituting for the words \"section 4\" the words \"sections 4 and 4B\". Amendment of section 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2007/39/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 7 of the principal Act is amended by substituting for the words \"sections 4 and 4A\" the words \"sections 4, 4A and 4B\". Revenue Growth Grants (Amendment)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-5-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Perlembagaan (Pindaan) (No.2) 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perlembagaan (Pindaan) (No. 2) 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Yang di-Pertuan Agong melalui pemberitahuan dalam Warta dan Yang di-Pertuan Agong boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan Perkara 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan dipinda dalam Perkara 42—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (5), dengan menggantikan perkataan “Peguam Negara” di mana-mana jua terdapat dengan perkataan “Pendakwa Raya”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (9), dengan menggantikan perkataan “Peguam Negara” dengan perkataan “Pendakwa Raya”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (12), dalam subperenggan (b)(ii), dengan menggantikan perkataan “Peguam Negara” dengan perkataan “Pendakwa Raya”. Pindaan Perkara 132"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 132 Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (3), dengan memasukkan selepas perenggan (c) perenggan yang berikut: “(ca) jawatan Peguam Negara; atau (cb) jawatan Pendakwa Raya; atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (4), dalam perenggan (b), dengan memotong perkataan “Peguam Negara atau,”. Pindaan Perkara 138"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 138 Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Fasal (1) Fasal yang berikut: “(1a) Suruhanjaya Perkhidmatan Kehakiman dan Perundangan hendaklah juga menjalankan apa-apa fungsi lain sebagaimana yang diperuntukkan di bawah mana-mana Perkara lain dalam Perlembagaan ini termasuk mengesyorkan seseorang untuk dilantik sebagai Pendakwa Raya bagi Persekutuan di bawah Fasal (1) Perkara 145a.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b__subpara_iii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b__subpara_iv"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (2)— “(aa) Hakim Besar Mahkamah Tinggi di Malaya; (ab) Hakim Besar Mahkamah Tinggi di Sabah dan Sarawak;”; “(b) Peguam Negara, dengan syarat bahawa Peguam Negara bukanlah seorang ahli Parlimen;”; “(ba) Pendakwa Raya; (bb) Peguam Cara Negara; dan”; dan “(c) seorang anggota yang hendaklah dilantik oleh Yang di-Pertuan Agong menurut budi bicaranya, selepas berunding dengan Ketua Hakim Negara Mahkamah Persekutuan, daripada kalangan orang yang menjadi atau pernah menjadi, atau yang layak menjadi, hakim Mahkamah Persekutuan, Mahkamah Rayuan atau Mahkamah Tinggi.”. Pindaan Perkara 145"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (a) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b__subpara_iv",
+      "@type": "akn:subparagraph",
+      "eli:number": "iv",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_4__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perenggan (c) dengan perenggan yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 145 Perlembagaan Persekutuan dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Fasal (1) Fasal yang berikut: “(1a) Yang di-Pertuan Agong boleh menghendaki seorang anggota perkhidmatan kehakiman dan perundangan Persekutuan yang dipilih untuk dilantik sebagai Peguam Negara supaya bersara pada mana-mana peringkat umur atas alasan kepentingan negara.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam Fasal (2), dengan memasukkan selepas perkataan “apa-apa tugas lain yang bersifat undang-undang” perkataan “kecuali memberikan nasihat mengenai segala perkara dan melaksanakan apa-apa tugas lain yang bersifat undang-undang yang berhubungan dengan undang-undang jenayah dan tatacara jenayah”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong Fasal (3) dan (3a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan Fasal (5) dengan Fasal yang berikut: “(5) Peguam Negara hendaklah memegang jawatan selama diperkenankan oleh Yang di-Pertuan Agong dan boleh pada bila-bila masa meletakkan jawatannya.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas Fasal (5) Fasal yang berikut: “(5a) Parlimen hendaklah melalui undang-undang membuat peruntukan bagi saraan Peguam Negara, dan saraan yang diperuntukkan sedemikian hendaklah dipertanggungkan pada Kumpulan Wang Disatukan. (5b) Jika Peguam Negara merupakan anggota Jemaah Menteri, dia tidaklah berhak untuk saraan yang diperuntukkan sedemikian di bawah undang-undang persekutuan yang disebut dalam Fasal (5a). (5 c) Saraan dan terma-terma lain jawatan (termasuk hak pencen) bagi Peguam Negara tidaklah boleh, selepas pelantikannya, diubah menjadi kurang baik baginya.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong Fasal (6). Perkara baharu 145a dan 145b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perlembagaan Persekutuan dipinda dengan memasukkan selepas Perkara 145 Perkara yang berikut: “Pendakwa Raya 145 a. (1) Yang di-Pertuan Agong hendaklah menurut budi bicaranya, atas syor Suruhanjaya Perkhidmatan Kehakiman dan Perundangan dan selepas berunding dengan Majlis Raja-Raja, melantik seorang yang berkelayakan di bawah Fasal (2) sebagai Pendakwa Raya bagi Persekutuan. (2) Seseorang layak dilantik di bawah Fasal (1) jika dia merupakan seorang warganegara dan mempunyai pengalaman sekurang-kurangnya sepuluh tahun dalam litigasi. (3) Seseorang ahli Parlimen tidaklah layak dilantik sebagai Pendakwa Raya. (4) Yang di-Pertuan Agong boleh menghendaki seseorang anggota perkhidmatan kehakiman dan perundangan Persekutuan yang dipilih untuk dilantik sebagai Pendakwa Raya supaya bersara pada mana-mana peringkat umur atas alasan kepentingan negara. (5) Tertakluk kepada Fasal (8), tempoh jawatan Pendakwa Raya ialah tujuh tahun. (6) Parlimen hendaklah melalui undang-undang membuat peruntukan bagi saraan Pendakwa Raya, dan saraan yang diperuntukkan sedemikian hendaklah dipertanggungkan pada Kumpulan Wang Disatukan. (7) Saraan dan terma-terma lain jawatan (termasuk hak pencen) bagi Pendakwa Raya tidak boleh, selepas pelantikannya, diubah menjadi kurang baik baginya. (8) Pendakwa Raya boleh pada bila-bila masa meletakkan jawatannya melalui surat yang ditandatangani sendiri olehnya yang ditujukan kepada Yang di-Pertuan Agong tetapi tidak boleh dipecat daripada jawatan kecuali mengikut Fasal (9), (10), (11), (12) dan (13) Perkara ini. (9) Jika Suruhanjaya Perkhidmatan Kehakiman dan Perundangan membuat representasi kepada Yang di-Pertuan Agong dengan menyatakan bahawa Pendakwa Raya patut dipecat atas alasan tidak berdaya, oleh sebab kelemahan tubuh atau akal, untuk menunaikan fungsi jawatannya dengan sepatutnya, atau salah laku atau berperangai buruk, Yang di-Pertuan Agong hendaklah melantik suatu tribunal mengikut Fasal (10) dan merujukkan representasi itu kepadanya; dan boleh atas syor tribunal itu memecat Pendakwa Raya itu daripada jawatan. (10) Tribunal yang dilantik di bawah Fasal (9) hendaklah terdiri daripada— (a) seseorang yang pernah memegang jawatan Peguam Negara, yang hendaklah mempengerusikan tribunal itu; (b) seseorang yang pernah memegang jawatan Pendakwa Raya; (c) seseorang yang pernah memegang jawatan Ketua Setiausaha bagi Persekutuan; dan (d) tidak kurang daripada tiga orang anggota lain yang pernah memegang jawatan sebagai hakim Mahkamah Persekutuan. (11) Jika tribunal tidak dapat ditubuhkan mengikut Fasal (10), Yang di-Pertuan Agong boleh melantik mana-mana orang yang pernah memegang jawatan sebagai hakim Mahkamah Persekutuan untuk menubuhkan tribunal itu. (12) Jika seseorang yang pernah memegang jawatan Peguam Negara atau orang yang dilantik di bawah Fasal (11) sebagai anggota tribunal di bawah perenggan (a) Fasal (10) tidak dapat kerana apa-apa sebab untuk mempengerusikan tribunal itu, tribunal itu hendaklah dipengerusikan oleh seorang anggota yang dipilih daripada anggota yang hadir semasa tribunal. (13) Tribunal itu tidak boleh terdiri daripada anggota Suruhanjaya Perkhidmatan Kehakiman dan Perundangan dan perkhidmatan kehakiman dan perundangan bagi Persekutuan. (14) Tribunal hendaklah mengawal selia tatacaranya sendiri. (15) Sementara menanti apa-apa rujukan dan laporan di bawah Fasal (9) Yang di-Pertuan Agong boleh, atas syor Suruhanjaya Perkhidmatan Kehakiman dan Perundangan, menggantung Pendakwa Raya daripada menjalankan fungsinya. (16) Bagi maksud Fasal (9) dan (15), Suruhanjaya Perkhidmatan Kehakiman dan Perundangan hendaklah terdiri daripada Pengerusi, Hakim Besar Mahkamah Tinggi di Malaya, Hakim Besar Mahkamah Tinggi di Sabah dan Sarawak dan anggota yang dilantik oleh Yang di-Pertuan Agong di bawah perenggan (c) Fasal (2) Perkara 138. (17) Bagi maksud pelantikan— (a) Pendakwa Raya yang pertama di bawah Fasal (1), Suruhanjaya Perkhidmatan Kehakiman dan Perundangan hendaklah terdiri daripada Pengerusi, Peguam Cara Negara dan anggota yang dilantik oleh Yang di-Pertuan Agong di bawah perenggan (c) Fasal (2) Perkara 138; dan (b) Pendakwa Raya yang kemudiannya di bawah Fasal (1), Suruhanjaya Perkhidmatan Kehakiman dan Perundangan hendaklah terdiri daripada Pengerusi, Pendakwa Raya, Peguam Cara Negara dan anggota yang dilantik oleh Yang di-Pertuan Agong di bawah perenggan (c) Fasal (2) Perkara 138. (18) Yang di-Pertuan Agong boleh melalui peraturan-peraturan membuat peruntukan bagi perkara yang berhubungan dengan pelantikan dan tatacara yang hendaklah diikuti di bawah Perkara ini. Kuasa dan tugas Pendakwa Raya 145b. (1) Pendakwa Raya hendaklah mempunyai kuasa yang boleh dijalankan menurut budi bicaranya, untuk memulakan, menjalankan atau memberhentikan apa-apa prosiding bagi sesuatu kesalahan, selain prosiding di hadapan mahkamah Syariah, mahkamah anak negeri atau mahkamah tentera. (2) Jika keizinan Peguam Negara sendiri dikehendaki bagi memulakan tindakan jenayah di bawah Perlembagaan ini, keizinan itu tidak boleh diberikan kecuali dengan keizinan Pendakwa Raya sendiri. (3) Undang-undang persekutuan boleh memberi Pendakwa Raya kuasa untuk menentukan mahkamah yang di dalamnya atau tempat apa-apa prosiding yang dia mempunyai kuasa untuk memulakannya di bawah Fasal (1) itu hendaklah dimulakan atau mahkamah yang kepadanya prosiding itu hendaklah dipindahkan. (4) Pada melaksanakan tugasnya, Pendakwa Raya berhak untuk didengar di dalam mana-mana mahkamah di Persekutuan dan hendaklah diberi keutamaan daripada mana-mana orang lain yang hadir di hadapan mahkamah itu, walau bagaimanapun jika Pendakwa Raya dan Peguam Negara berada dalam mahkamah yang sama, Peguam Negara boleh diberi keutamaan daripada Pendakwa Raya. (5) Pendakwa Raya hendaklah— (a) dirundingi mengenai apa-apa perkara yang berhubungan dengan undang-undang jenayah dan tatacara jenayah dan boleh memberikan nasihatnya kepada Yang di-Pertuan Agong atau Jemaah Menteri atau mana-mana Menteri mengenai apa-apa perkara sedemikian; dan (b) melaksanakan fungsi yang diberikan kepadanya oleh atau di bawah Perlembagaan ini atau mana-mana undang-undang bertulis yang lain. (6) Melainkan jika diperuntukkan dengan nyata selainnya dalam mana-mana undang-undang bertulis, Timbalan Pendakwa Raya Kanan boleh melaksanakan mana-mana kewajipan dan menjalankan mana-mana kuasa Pendakwa Raya.”. Pindaan Perkara 160"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perkara 160 Perlembagaan Persekutuan dipinda dalam Fasal (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “jawatan berpendapatan”, dengan memasukkan selepas perenggan (a) perenggan yang berikut: “(aa) jawatan Pendakwa Raya; dan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pemilih” takrif yang berikut: ‘ “Pendakwa Raya” ertinya Pendakwa Raya bagi Persekutuan;’. Peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila Akta ini mula berkuat kuasa, fungsi Pendakwa Raya hendaklah dijalankan oleh Peguam Negara sehingga seorang Pendakwa Raya dilantik di bawah Perlembagaan Persekutuan sebagaimana yang dipinda oleh Akta ini. Kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apabila Akta ini mula berkuat kuasa, orang yang memegang jawatan Peguam Negara sebaik sebelum Akta ini mula berkuat kuasa hendaklah terus memegang jawatan itu atas terma-terma dan syarat-syarat yang tidak kurang baiknya daripada yang terpakai baginya sebaik sebelum Akta ini mula berkuat kuasa."
+      }
+    }
+  ]
+}

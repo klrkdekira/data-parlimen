@@ -79,21 +79,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/21/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/21/msa@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/21/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut: “Enforcement at entry points, quarantine stations and quarantine premises 17a. (1) Notwithstanding section 17, the enforcement in relation to agricultural produce at the entry points, quarantine stations and quarantine premises shall be carried out by an enforcement officer appointed under the Malaysian Quarantine and Inspection Services Act 2011 in accordance with the powers under that Act."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/21/msa@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2011/21/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "For the purposes of subsection (1), “entry point”, “quarantine station” and “quarantine premises” have the same meanings as assigned to these expressions in the Malaysian Quarantine and Inspection Services Act 2011.”. Kecualian"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut: “Enforcement at entry points, quarantine stations and quarantine premises 17a. (1) Notwithstanding section 17, the enforcement in relation to agricultural produce at the entry points, quarantine stations and quarantine premises shall be carried out by an enforcement officer appointed under the Malaysian Quarantine and Inspection Services Act 2011 in accordance with the powers under that Act. (2) For the purposes of subsection (1), “entry point”, “quarantine station” and “quarantine premises” have the same meanings as assigned to these expressions in the Malaysian Quarantine and Inspection Services Act 2011.”. Kecualian"
       }
     },
     {

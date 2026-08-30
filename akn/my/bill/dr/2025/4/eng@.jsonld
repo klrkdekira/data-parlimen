@@ -1,0 +1,1430 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-4-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Parliamentary Service Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I__cl_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PARLIAMENTARY SERVICE AND PARLIAMENTARY SERVICE COUNCIL Parliamentary Service"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "CLERK OF SENATE AND CLERK OF HOUSE OF REPRESENTATIVES Clerk of Senate and Clerk of House of Representatives"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Clerk to the Senate shall be under the directions and control of the President of the Senate."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Clerk to the House of Representatives shall be under the directions and control of the Speaker of the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_III__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may, after consultation with the Parliamentary Service Council, prescribe the qualifications for appointment and conditions of service of the Clerk to the Senate and the Clerk to the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A service by the name of the “Parliamentary Service” is established and shall constitute a separate service from the public service under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service shall consist of the Clerk to the Senate, the Clerk to the House of Representatives and the members of the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Parliamentary Service appointed by the Parliamentary Service Council shall be subject to such terms and conditions of appointment as may be prescribed by the Yang di-Pertuan Agong after consultation with the Parliamentary Service Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Parliamentary Service shall be disqualified from being a member of either House of Parliament or the Legislative Assembly of any State. Parliamentary Service Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be a Parliamentary Service Council which shall have the responsibility for matters relating to the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the President of the Senate as a Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Speaker of the House of Representatives as a Co-Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Deputy President of the Senate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two Deputy Speakers of the House of Representatives;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "two members of the Senate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "four members of the House of Representatives;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Clerk to the Senate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Clerk to the House of Representatives;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Secretary General of Treasury or his representative as an ex-officio member;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Director General of Public Service or his representative as an ex-officio member; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_3__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Administrator of Parliament as an ex-officio member. Functions and powers of Parliamentary Service Council"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the Parliamentary Service Council are as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to appoint and to determine the terms and conditions of appointment of a member of the Parliamentary Service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to oversee all financial matters relating to the Parliamentary Service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to develop and to conduct programmes and trainings relating to the Parliamentary Service; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to do all things expedient or reasonably necessary for the management of the affairs of the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council shall have all such powers as may be necessary for the performance of its functions under this Act. Meetings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_11"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council shall meet as often as may be necessary for the performance of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_10",
+      "@type": "akn:subsection",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council may invite any person to attend meetings of the Parliamentary Service Council for the purpose of advising it on any matter under discussion but that person shall not be entitled to vote at the meeting or be present during the making of a decision."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_11",
+      "@type": "akn:subsection",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person invited to attend any meeting of the Parliamentary Service Council may be paid such allowances and other expenses as the Parliamentary Service Council may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Meetings of the Parliamentary Service Council shall be co-chaired by the President of the Senate and the Speaker of the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The quorum of the Parliamentary Service Council shall be seven."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Parliamentary Service Council, other than the ex-officio members, present at the meeting shall be entitled to one vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All questions raised in the meetings of the Parliamentary Service Council shall be decided by the votes of the majority of members present and voting, and if the number of votes are equal, then the Chairman shall have the casting vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council may determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council shall cause minutes of all its meetings to be maintained and kept in a proper form."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any member of the Parliamentary Service Council has a direct or indirect interest in any matter being considered by the Parliamentary Service Council, the member of the Parliamentary Service Council shall disclose to the Parliamentary Service Council the fact of his interest and the nature of that interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (8) shall be recorded in the minutes of the meeting in which the disclosure was made and, after the disclosure, the member of the Parliamentary Service Council shall not be present and take part in the deliberation or decision of the Parliamentary Service Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "COMMITTEES Parliamentary Service Promotion Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council may establish any committee as the Parliamentary Service Council considers necessary or expedient to assist the Parliamentary Service Council in the performance of its functions."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council may appoint any member of the Parliamentary Service to be a member of any committee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Council may appoint any of its members to be the chairman of the committee established under subsection (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The committee shall be subject to and act in accordance with any directions given by the Parliamentary Service Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The committee shall meet as often as may be necessary at the time and place as the chairman of the committee may determine."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The committee may invite any person to attend meetings of the committee to advise the committee on any matter under discussion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The committee may determine its own procedure."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be a Parliamentary Service Promotion Committee which shall be responsible for the promotion of the members of the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Promotion Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Deputy President of the Senate as a Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Deputy Speaker of the House of Representatives as a Co-Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Clerk to the Senate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Clerk to the House of Representatives; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Chief Administrator of Parliament."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any member of the Parliamentary Service Promotion Committee has a direct or indirect interest in any matter being considered by the Parliamentary Service Promotion Committee, the member of the Parliamentary Service Promotion Committee shall disclose to the Parliamentary Service Promotion Committee the fact of his interest and the nature of that interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (3) shall be recorded in the minutes of the meeting in which the disclosure was made and, after the disclosure, the member of the Parliamentary Service Promotion Committee shall not be present and take part in the deliberation or decision of the Parliamentary Service Promotion Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Meetings of the Parliamentary Service Promotion Committee shall be co-chaired by the Deputy President of the Senate and the Deputy Speaker of the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Parliamentary Service Promotion Committee present at the meeting shall be entitled to one vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All questions raised in the meetings of the Parliamentary Service Promotion Committee shall be decided by the votes of the majority of members present and voting, and if the number of votes are equal, then the Chairman shall have the casting vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may, after consultation with the Parliamentary Service Council, prescribe any matter relating to the acting and promotion of members of the Parliamentary Service. Parliamentary Service Disciplinary Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_9"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be a Parliamentary Service Disciplinary Committee to exercise disciplinary control over the members of the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Disciplinary Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Deputy President of the Senate as a Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Deputy Speaker of the House of Representatives as a Co-Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Clerk to the Senate;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Clerk to the House of Representatives; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Legal Advisor of the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any member of the Parliamentary Service Disciplinary Committee has a direct or indirect interest in any matter being considered by the Parliamentary Service Disciplinary Committee, the member of the Parliamentary Service Disciplinary Committee shall disclose to the Parliamentary Service Disciplinary Committee the fact of his interest and the nature of that interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (3) shall be recorded in the minutes of the meeting in which the disclosure was made and, after the disclosure, the member of the Parliamentary Service Disciplinary Committee shall not be present and take part in the deliberation or decision of the Parliamentary Service Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Meetings of the Parliamentary Service Disciplinary Committee shall be co-chaired by the Deputy President of the Senate and the Deputy Speaker of the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Parliamentary Service Disciplinary Committee present at the meeting shall be entitled to one vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All questions raised in the meetings of the Parliamentary Service Disciplinary Committee shall be decided by the votes of the majority of members present and voting, and if the number of votes are equal, then the Chairman shall have the casting vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may, after consultation with the Parliamentary Service Council, prescribe any matter relating to the disciplinary control of the members of the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8__subsec_9",
+      "@type": "akn:subsection",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The disciplinary control referred to in subsection (8) shall include interdiction, suspension, punishment and dismissal of the members of the Parliamentary Service. Parliamentary Service Appeal Committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be a Parliamentary Service Appeal Committee to receive, consider and determine any appeal submitted by a member of the Parliamentary Service against the decision of the Parliamentary Service Promotion Committee and the Parliamentary Service Disciplinary Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Parliamentary Service Appeal Committee shall consist of the following members:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the President of the Senate as a Chairman;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the Speaker of the House of Representatives as a Co-Chairman; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "three members of the Parliamentary Service Council appointed by the Chairman and the Co-Chairman of the Parliamentary Service Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If any member of the Parliamentary Service Appeal Committee has a direct or indirect interest in any matter being considered by the Parliamentary Service Appeal Committee, the member of the Parliamentary Service Appeal Committee shall disclose to the Parliamentary Service Appeal Committee the fact of his interest and the nature of that interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (3) shall be recorded in the minutes of the meeting in which the disclosure was made and, after the disclosure, the member of the Parliamentary Service Appeal Committee shall not be present and take part in the deliberation or decision of the Parliamentary Service Appeal Committee."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Meetings of the Parliamentary Service Appeal Committee shall be co-chaired by the President of the Senate and the Speaker of the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Parliamentary Service Appeal Committee present at the meeting shall be entitled to one vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_IV__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All questions raised in the meetings of the Parliamentary Service Appeal Committee shall be decided by the votes of the majority of members present and voting, and if the number of votes are equal, then the Chairman shall have the casting vote. Parliamentary Service Council may establish committee"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Parliamentary Service Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Yang di-Pertuan Agong by notification in the Gazette."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_13"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "ADMINISTRATION AND FINANCE Chief Administrator of Parliament"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_19"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "GENERAL Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for any of the purposes of this Act or for the purposes of any civil or criminal proceedings under any written law or where otherwise authorized by the Parliamentary Service Council—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no member of the Parliamentary Service Council or member of the Parliamentary Service, whether during or after his tenure of office or employment, shall disclose any information obtained by him in the course of his duties; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "no person attending any meeting of the Parliamentary Service Council or who has by any means access to any information or document relating to the affairs of the Parliamentary Service shall disclose such information or document."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes this section commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding two years or to both. Protection against suits and legal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No action, suit, prosecution or other proceedings shall lie or be brought, instituted or maintained in any court against any member of the Parliamentary Service Council, Parliamentary Service Promotion Committee, Parliamentary Service Disciplinary Committee, Parliamentary Service Appeal Committee, committee established under this Act, or any member of the Parliamentary Service, in respect of any act, neglect or default done or omitted by him in good faith, in such capacity. Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against any member of the Parliamentary Service Council, Parliamentary Service Promotion Committee, Parliamentary Service Disciplinary Committee, Parliamentary Service Appeal Committee, committee established under this Act, or any member of the Parliamentary Service, in respect of any act or thing done or committed by him in such capacity. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Parliamentary Service Council, Parliamentary Service Promotion Committee, Parliamentary Service Disciplinary Committee, Parliamentary Service Appeal Committee, committee established under this Act, or every member of the Parliamentary Service, while discharging his duties as the member of the Parliamentary Service Council, Parliamentary Service Promotion Committee, Parliamentary Service Disciplinary Committee, Parliamentary Service Appeal Committee, committee established under this Act, or the member of the Parliamentary Service, shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Yang di-Pertuan Agong may, after consultation with the Parliamentary Service Council, make such regulations as may be expedient or necessary for giving full effect or the better carrying out of the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), regulations may be made for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the qualifications for appointment and conditions of service of the Clerk to the Senate and the Clerk to the House of Representatives;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the terms and conditions of appointment of the members of the Parliamentary Service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe the discipline of members of the Parliamentary Service and for disciplinary proceedings against the members of the Parliamentary Service, including the interdiction, suspension, punishment and dismissal of the members of the Parliamentary Service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter relating to the administration of the Parliamentary Service;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_18__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to prescribe any matter which may be required to be prescribed for the purposes of this Act. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_19__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_19__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the public service who has been appointed on permanent basis and emplaced on permanent establishment immediately before the date of coming into operation of this Act and has opted to become a member of the Parliamentary Service shall, on the date of coming into operation of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_19__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be employed on terms and conditions of service to which he was entitled to immediately before the date of coming into operation of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_19__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_VI__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "be deemed to be a member of the public service for the purposes of the Pensions Act 1980 [Act 227]."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "There shall be a Chief Administrator of Parliament from among the members of the general public service of the Federation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Administrator of Parliament shall be responsible for the overall administration and management of the functions and the day-to-day affairs of the Parliament including the financial matters of the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Administrator of Parliament shall have general control of the members of the Parliamentary Service."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Administrator of Parliament shall perform such other duties as the Parliamentary Service Council may direct."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In discharging his duties, the Chief Administrator of Parliament shall act under the general authority and directions of the Parliamentary Service Council."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Administrator of Parliament shall be the secretary to the Parliamentary Service Council. Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Government shall provide sufficient funds for the Parliamentary Service annually to enable the Parliamentary Service Council to perform its functions under this Act. Remuneration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/4/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Parliamentary Service shall be paid such remuneration and other benefits as may be determined by the Parliamentary Service Council and approved by the Yang di-Pertuan Agong."
+      }
+    }
+  ]
+}

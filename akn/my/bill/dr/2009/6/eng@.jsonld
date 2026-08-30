@@ -1,0 +1,184 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-6-2009",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_7"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Continental Shelf (Amendment) Bill 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Continental Shelf (Amendment) Act 2009. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Continental Shelf Act 1966 [Act 83], which is referred to as the “principal Act” in this Act, is amended in section 2 by substituting for the definition of “continental shelf” the following definition: ‘ “continental shelf” means the sea-bed and subsoil of the submarine areas that extend beyond the territorial sea—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "throughout the natural prolongation of the land territory of Malaysia to the outer edge of the continental margin as determined in accordance with section 2b; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to a distance of two hundred nautical miles from the baselines from which the breadth of the territorial sea is measured in accordance with the Baselines of Maritime Zones Act 2006 [Act 660] where the outer edge of the continental margin does not extend up to that distance, but shall not affect the territory of the States or the limits of the territorial waters of the States and the rights and powers of the State Authorities therein.”. New sections 2a and 2b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 2 the following sections: “The delimitation of the continental shelf between Malaysia and a country with opposite or adjacent coasts 2 a. Where there is an agreement in force relating to the delimitation of the continental shelf between Malaysia and a country with an opposite or adjacent coast, any question relating to the delimitation of the continental shelf shall be determined in accordance with the provisions of that agreement. Continental shelf limit and continental margin 2b. (1) The continental shelf of Malaysia shall not extend beyond the limits provided for in subsections (3), (4), (5) and (6). (2) The continental margin comprises the submerged prolongation of the land mass of Malaysia and consists of the sea-bed and subsoil of the shelf, the slope and the rise but does not include the deep ocean floor with its oceanic ridges or the subsoil thereof. (3) Wherever the continental margin extends beyond two hundred nautical miles from the baselines from which the breadth of the territorial sea is measured, the outer edge of the continental margin shall be established by either— (a) a line delineated in accordance with subsection (7) by reference to the outermost fixed points at each of which the thickness of sedimentary rocks is at least one percent of the shortest distance from such point to the foot of the continental slope; or (b) a line delineated in accordance with subsection (7) by reference to fixed points not more than sixty nautical miles from the foot of the continental slope. (4) For the purpose of subsection (3), in the absence of evidence to the contrary, the foot of the continental slope shall be determined as the point of maximum change in the gradient at its base. (5) The fixed points comprising the line of the outer limits of the continental shelf on the sea-bed, drawn in accordance with subsection (3), either shall not exceed three hundred and fifty nautical miles from the baselines from which the breadth of the territorial sea is measured or shall not exceed one hundred nautical miles from the two thousand and five hundred metre isobath, which is a line connecting the depth of two thousand and five hundred metres. (6) Notwithstanding subsection (5), on submarine ridges, the outer limit of the continental shelf shall not exceed three hundred and fifty nautical miles from the baselines from which the breadth of the territorial sea is measured but does not include submarine elevations that are natural components of the continental margin such as its plateaux, rises, caps, banks and spurs. (7) The outer limits of the continental shelf shall be delineated, where that shelf extends beyond two hundred nautical miles from the baselines from which the breadth of the territorial sea is measured, by straight lines not exceeding sixty nautical miles in length, connecting fixed points, defined by coordinates of latitude and longitude. (8) This section shall be without prejudice to the question of delimitation of the continental shelf between Malaysia and its neighbouring countries with opposite or adjacent coasts.”. Amendment of section 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 3 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1) of that section; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(2) If Malaysia does not undertake to exercise the rights with respect to the exploration of the continental shelf or the exploitation of its natural resources, no one or no other country may exercise such rights except with the express consent of Malaysia.”. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (5) the following subsection: “(5a) The Minister may terminate any licence if the licensee— (a) has failed to comply with any provisions of this Act or any regulations made under this Act; (b) has failed to comply with any conditions of the licence; or (c) has been convicted of an offence under this Act or any regulations made under this Act.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (7), by substituting for the words “twenty thousand ringgit or to imprisonment for a term not exceeding two years” the words “five hundred thousand ringgit or to imprisonment for a term not exceeding ten years”. New section 4a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 4 the following section: “Financial obligation 4a. Any financial obligation for purposes of the exploitation of the non-living resources of the continental shelf beyond two hundred nautical miles will be in accordance with Part VI of the 1982 United Nations Convention on the Law of the Sea.”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/6/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Paragraph 6(1)(l) of the principal Act is amended by substituting for the words “five thousand ringgit” the words “ten thousand ringgit”."
+      }
+    }
+  ]
+}

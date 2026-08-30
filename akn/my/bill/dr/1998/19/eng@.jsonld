@@ -1,0 +1,217 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-19-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Labuan Offshore Financial Services Authority (Amendment) Bill 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Labuan Offshore Financial Services Authority (Amendment) Act 1998."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act conies into operation on a date to be appointed by the Minister by notification in the Gazette, and the Minister may appoint different dates for the coming into force of different provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The Labuan Offshore Financial Services Authority"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Act 1996, which in this Act is referred to as the \"principal Act\", is amended in subsection 2(1) in the definition of \"offshore financial services\" by inserting paragraph (c) the following paragraphs: \"(d) an offshore limited partnership established under the Labuan Offshore Limited Act 565. Partnerships Act 1997; (e) a fund established or a fund manager licensed or a fund administrator registered under the Labuan Offshore Securities Act 579. Industry Act 1998; (f) any person under any law as may be prescribed by the Minister in the Gazette, on the recommendation of the Authority.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended by inserting of after subsection (3) the following subsections: section 4 \"(4) The Authority may, with the written approval of the Minister, establish or participate in any body corporate— (a) for the purpose of promoting research and training in relation to offshore financial services; (b) for the purpose of enhancing the development of offshore financial services; or (c) if such establishment or participation is expedient or reasonably necessary for, or incidental to, the performance of the Authority's functions provided under this Act. (5) Notwithstanding any provision to the contrary in any other law relating to offshore financial services, when the Authority is satisfied that it is necessary to do so for the purpose of giving effect to the objectives of the Authority, the Authority may issue directions to an offshore financial institution in respect of all or any of the following matters: (a) the policy to be followed by the offshore financial institution relating to the conduct of the institution's business in Labuan; (b) the supervision and regulation of the offshore financial institution pursuant to the law relating to offshore financial services; (c) the monetary policy to be given effect to by the offshore financial institution. (6) Any offshore financial institution who fails to comply with any direction issued under subsection (5) shall be guilty of an offence and shall be liable, on conviction— (a) in the case of an individual person— (i) to a fine not exceeding two hundred and fifty thousand ringgit; and Authority (Amendment) (ii) for a continuing offence, to a fine not exceeding two thousand and five hundred ringgit for every day during which the offence continues after conviction; and (b) in the case of a body corporate or partnership— (i) to a fine not exceeding five hundred thousand ringgit; and (ii) for a continuing offence, to a fine not exceeding five thousand ringgit for every day during which the offence continues after conviction.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_4__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "18 the following section: Establish- 18A. (1) The Authority may, with the written ment of approval of the Minister, out of the funds of staff welfare the Authority, create and maintain a trust account fund. to be known as the \"Labuan Offshore Financial Services Authority Staff Welfare Fund\" for the benefits of its officers and employees including their dependants."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Labuan Offshore Financial Services Authority Staff Welfare Fund shall be utilized for such purposes conducive to the welfare of the officers and employees of the Authority, including their dependants, as may from time to time be provided in trust directions to be issued by the Authority with the approval of the Minister, and such directions may provide for the manner and the procedure for the making of the grant, loans or other payments from such Fund.\". New Part"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after Part"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "11A. II the following Part: \"PART 11A SUBMISSION AND PRESERVATION OF INFORMATION Interpretation 28A. In this Part, unless the context otherwise in relation requires— to Part 11A. \"authority\" means any authority situated within or outside Malaysia; \"credit facility\" has the meaning assigned to Act 443. it in the Offshore Banking Act 1990; \"criminal offence\" means any offence under— (a) any law in Malaysia relating to offshore financial services, if such offence is punishable with imprisonment; Act 574. (b) the Penal Code; Act 234. (c) the Dangerous Drugs Act 1952; Act 340 (d) the Dangerous Drugs (Forfeiture of Property) Act 1988; or (e) the Kidnapping Act 1961; Act 365. \"depositor\" means any person who has placed a deposit or deposited a sum of money in a licensed offshore bank; \"domestic law enforcement agency\" means Act 344. the Royal Malaysia Police as defined in the Police Act 1967; \"financial institution\" means a licensed offshore bank, licensee, trust company or fund manager; Authority (Amendment) \"fund manager\" means a manager as defined Act 579. in the Labuan Offshore Securities Industry Act 1998; \"home monetary authority\" has the meaning assigned to it in the Offshore Banking Act 1990, Act 443. and includes the Bank; \"home supervisory authority\" means any body or authority which is responsible for the supervision of a licensee in any country; \"licensed offshore bank\" has the meaning assigned to it in the Offshore Banking Act 1990; \"licensee\" has the meaning assigned to it in Act 444. the Offshore Insurance Act 1990; \"trust company\" has the meaning assigned Act 442. to it in the Labuan Trust Companies Act 1990. Submission 28B. (1) The Authority may, in exercise of of its supervisory functions under this Act or under information. any other law relating to offshore financial services, require any financial institution or any corporation related to any financial institution to submit to the Authority any information which the Authority deems necessary or expedient for the performance of such supervisory functions, but the Authority shall not require any information which dicloses the affairs, identify or account of a customer of such institution or corporation. (2) The Authority may disclose any information submitted under subsection (1)— (a) to any person in a consolidated or aggregated manner if it deems fit so to do, but the disclosure shall be confined to such information which does not relate to an individual institution; or (b) to the home monetary authority of the institution, and the disclosure may include any information which relates to an individual institution under supervision of the home monetary authority. (3) Nothing in subsections (1) and (2) shall be construed so as to prevent the exercise by the Authority of its power to require the submission of any information relating to the identity or particulars of any person who has obtained any credit facility from a licensed offshore bank, if the Authority is satisfied that such information is necessary for or incidental to its supervisory functions, and the Authority may disclose all or any part of such information— (a) to the home monetary authority of the bank if the Authority is satisfied that such information is necessary for and incidental to the supervisory functions of the home monetary authority and it has secrecy provisions in the home monetary authority constituent documents to safeguard whatever information supplied to it from any unlawful disclosure; or (b) to the domestic law enforcement agency if the Authority is satisfied, based on the evidence made available to the Authority, that fraud or criminal offence has been or is likely to be committed. (4) Without prejudice to subsections (1) and (3), if the Authority is satisfied, based on the evidence made available to the Authority, that fraud or criminal offence has been or is likely to be committed, the Authority may require the submission of any information relating to— (a) the affairs, identity or account of any particular depositor of any licensed offshore bank; Authority (Amendment) (b) the affairs, identity or account of any policy owner of a licensee; (c) the affairs, account, dealing or particular of a customer of or any person involved in the ownership or management of or deal with a trust company; or (d) the affairs, identity or account of any particular customer of a fund manager or the subscriber of the fund administered or managed by the fund manager. (5) Notwithstanding subsections (2) and (3), if the Authority is satisfied, based on the evidence made available to the Authority, that fraud or criminal offence has been or is likely to be committed, the Authority may give information of such commission or convey any or all information in relation to such commission— (a) in the case of information provided under paragraph (4)(a), to the home monetary authority or domestic law enforcement agency; (b) in the case of information provided under paragraph (4)(b), to the home supervisory authority or domestic law enforcement agency; or (c) in the case of information provided under paragraph (4)(c) or (4)(d), to the domestic law enforcement agency. (6) Subject to subsections (3), (4) and (5), any information obtained by the Authority under subsections (1), (3) and (4) or any other provision of this Act shall be a secret between the Authority and the person supplying it, and no person who has any information or document which to his knowledge has been disclosed in contravention of this subsection shall in any manner disclose the information or document to any other person. (7) Without prejudice to any other provision in this Act, the Authority may receive any information from any person or authority in the course of carrying out any power or duty under this Act or any other law relating to offshore financial services. (8) For the purpose of this Part, no action, suit or prosecution or other proceeding shall lie or be brought or maintained in any court or before any other authority against any person for complying with any provision of this Part. (9) This Part shall have full force and effect, notwithstanding anything inconsistent therewith or contrary thereto in this Act or in any provision under any other law relating to offshore financial services. (10) Any offshore financial institution who fails to comply with this section shall be guilty of an offence and shall be liable, on conviction— (a) in the case of an individual person to a fine not exceeding one million and five hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both; and (b) in the case of a body corporate or partnership to a fine not exceeding three million ringgit. (11) Any person who fails to keep information secret as required under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding six months or to both. Authority (Amendment) Examina- 28c. (1) The Director-General or any person tion. authorised by the Authority may examine and inspect, under condition of secrecy, any financial institution or any corporation related to any financial institution for the purpose of verifying information submitted under subsections 28B(l), (3) and (4). (2) Where there is a conflict between the provision of this section and the provision of any other law relating to offshore financial services, the provision of this section shall prevail. Appointment 28D. (1) For the purposes of carrying out of investigation of any offence under this Act or investigating officer, under any other law relating to offshore financial powers, services, the Authority may appoint, by an functions and duties. instrument in writing, any officer or employee of the Authority or any other suitable person to be an investigating officer. (2) Subject to subsection (3), an investigating officer appointed under subsection (1) shall have all the powers, functions, and duties conferred on an investigating officer under this Act, and where such investigating officer is not an officer or employee of the Authority, he shall, in relation to such powers, functions and duties— (a) be subject to; and (b) enjoy such rights, privileges, protections, immunities and indemnities as may be specified in, the provisions of this Act or other written law applicable to an officer or employee of the Authority. (3) An investigating officer shall be subject to the direction and control of the Authority and the Director-General, or of such other officer of the Authority as may be authorised by the Authority to act on behalf of the Authority, and of any other investigating officer or officers superior to him in rank, and shall exercise his powers, perform his functions, and discharge his duties referred to in subsection (2) in compliance with such directions, instructions, conditions, restrictions or limitations as the Authority or Director-General, or an officer of the Authority authorised to act on behalf of the Authority or an investigating officer superior to him in rank, may specify orally or in writing, either generally, or in any particular case or circumstance. (4) The Director-General shall have all the powers, functions and duties of an investigating officer. (5) An investigating officer carrying out any investigation under this Part shall have the power to administer an oath or affirmation to the person who is being investigated. (6) Any person who obstructs any investigating officer from exercising his duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding five hundred thousand ringgit or to imprisonment for a term not exceeding six months or to both.\". Amendment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_6__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 29(2) of the principal Act is amended— of section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "29."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d) by inserting after the word \"under\" the words \"this Act or other\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (e) by inserting after the word \"under\" the words \"this Act or other\". Labuan Offshore Financial Services \\ \\ Authority (Amendment)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "32 the following section: Power to 32A. Notwithstanding any provision under any impose other law relating to offshore financial services, and collect the Authority may, with the approval of the fee. Minister, by order published in the Gazette, impose and collect any fee for any service provided by or on behalf of the Authority under this Act or any other law relating to offshore financial services and for the grant or issuance of any licence, permit, registration, approval or exemption which the Authority may grant or issue under any law.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 36 of the principal Act is amended by inserting"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "after the words \"by the Authority,\" the words \"any person appointed by the Authority under this Act\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/19/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "36 the following sections: \"The 36A. (1) Notwithstanding the provisions of any Authority other written law— to appoint (a) in any civil proceedings by or against officer or the Authority; or employee to appear (b) in any other civil proceedings in which in court on the Authority is required or permitted behalf of by the court to be represented or to be the Authority. heard, or is otherwise entitled to be represented or to be heard, any member, officer or employee of the Authority who has been admitted as an advocate Act 166. and solicitor under the Legal Profession Act 1976 and authorised by the Authority for the purpose, may, on behalf of the Authority, institute such proceedings or appear as an advocate therein and may make and do all acts in respect of such proceedings on behalf of the Authority. (2) Notwithstanding any provision to the contrary in this Act, the Authority may appoint an advocate and solicitor for the purpose provided in subsection (1). Com- 36B. (1) The Director-General may, with the pounding written consent of the Public Prosecutor, in a of case where he deems it fit and proper so to do, offences. compound any offence committed by any person which is punishable under this Act by making a written offer to such person to compound the offence on payment to the Director-General, within such time as may be specified in the offer, of an amount which shall not exceed fifty per centum of the amount of the maximum fine to which that person would have been liable if he had been convicted of the offence. (2) An offer under subsection (1) may be made at any time after the offence has been committed, but before any prosecution for it has been instituted. (3) Where the amount specified in the offer under subsection (1) is not paid within the time specified in the offer, or within such extended period as the Director-General may grant, prosecution of the offence may be instituted at any time after that against the person to whom the offer was made. (4) Where an offence has been compounded under subsection (1), no prosecution shall be instituted after that in respect of such offence against the person to whom the offer to compound was made. Liability 36c. Where any offence against any provision of of this Act has been committed by any offshore director, officer, financial institution, any person who at the time controller, of the commission of the offence was a director, etc. officer, or controller, of the offshore financial Authority (Amendment) institution or was purporting to act in any such capacity, or was in any manner or to any extent responsible for the management of any of the affairs of such offshore financial institution, or was assisting in such management, shall be guilty of that offence unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.\"."
+      }
+    }
+  ]
+}

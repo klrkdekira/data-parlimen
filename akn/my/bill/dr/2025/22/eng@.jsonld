@@ -1,0 +1,778 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-22-2025",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_21"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Countervailing and Anti-Dumping Duties (Amendment) Bill 2025"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 27 of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) An investigation may be suspended at any time if price undertakings from any exporter to revise its prices or to cease exports to Malaysia at dumped prices are accepted by the Government and the Government is satisfied that the injurious effect of dumping is eliminated.”. Amendment of section 27a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_11__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 27a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) Notwithstanding subsection (1), an anti-dumping duty imposed under this Act shall be terminated— (a) on a date not later than five years from its imposition; or (b) five years from the date of the conclusion of the most recent expiry review.”. Amendment of section 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 28 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “provides information to the Government” the words “submits a petition for an administrative review to the Government”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (d), by substituting for the semi colon at the end of the paragraph the words “; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (e);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (2), (3), (4), (5), (6), (7) and (8); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (8) as deleted the following subsections: “(9) The petition submitted under subsection (1) shall contain such information and shall include sufficient evidence in relation to paragraph 1(a), (c), (d) or (f). (10) The Government shall, within the prescribed period, examine the petition or information to determine whether the initiation of an administrative review is justified. (11) The petition under subsection (1) shall be rejected if the Government is satisfied that there is no sufficient evidence in relation to paragraph 1(a), (c), (d) or (f). (12) Where the Government rejects the petition under subsection (11), the Government shall, as soon as practicable, notify in writing the interested party who submits the petition under subsection (1) of the Government’s decision not to initiate an administrative review. (13) The anti-dumping duty imposed under subsection 15(1) and undertakings referred to under subsection 27(1) may remain in force pending the decision of the Government under this section.”. New sections 28c and 28d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 28b the following sections: “Expiry review 28c. (1) Whenever an interested party submits a petition to the Government or the Government otherwise obtains any information, substantiating for the need of an expiry review, the Government shall examine the petition or information. (2) The petition submitted under subsection (1) shall contain such information and shall include sufficient evidence to show that the continued imposition of the anti-dumping duty is necessary to offset dumping and the injury would be likely to continue or recur if the duty were removed or varied. (3) The Government shall, within the prescribed period, examine the petition or information to determine whether— (a) the initiation of an expiry review is justified; and (b) an expiry review is in the public interest. (4) The petition under subsection (1) shall be rejected if the Government is satisfied that— (a) the continued imposition of the anti-dumping duty is no longer necessary to offset dumping; (b) the injury would be unlikely to continue or recur if the duty were removed or varied; or (c) the expiry review is not in the public interest. (5) Where the Government rejects the petition under subsection (4), the Government shall, as soon as practicable, notify in writing the interested party who submits the petition under subsection (1) of the Government’s decision not to initiate the expiry review. (6) The Government may initiate an expiry review if the Government is satisfied that there is sufficient evidence to show that the continued imposition of the anti-dumping duty is necessary to offset dumping and the injury would be likely to continue or recur if the duty were removed or varied and the expiry review shall be initiated before the termination of the anti-dumping duty referred to in section 27a. (7) The anti-dumping duty imposed under subsection 15(1) and undertakings referred to in subsection 27(1) may remain in force pending decision of the Government under this section. Review determination 28d. (1) Where the Government decides to conduct a review under section 28, 28a, 28b or 28c, the Government shall— (a) publish a notice of the initiation of the review; and (b) conduct the review by allowing the interested party to provide any comment relating to the review. (2) A review conducted pursuant to section 28, 28a, 28b or 28c shall be completed within the prescribed period. Countervailing and Anti-Dumping Duties (Amendment) 11 (3) Before completion of the review conducted pursuant to section 28, 28a, 28b or 28c, the Government shall inform all the interested parties of the essential facts under consideration that form the basis for the findings and the interested parties may defend their interests. (4) Upon the completion of the review conducted pursuant to section 28, 28a, 28b or 28c, the Government shall publish a notice of determination stating the reasons for its decision. (5) Where the Government makes a determination in relation to section 28 or 28c and where the dumping margin of an exporter or a producer whose export of the subject merchandise has changed substantially to de minimis, the anti-dumping duty on specific exporter or producer may be subject to subsequent review by the Government. (6) A determination made pursuant to subsection (4) or (5) shall apply to the subject merchandise imported on or after the date of publication of the notice of determination. (7) Notwithstanding any other provisions of this Act, a review conducted pursuant to section 28, 28a, 28b or 28c may be terminated at any time if— (a) the petitioner withdraws the petition; (b) there are changed circumstances; or (c) the Government determines that termination of the review is in the public interest. (8) If a termination of the review pursuant to subsection (7) occurs, the Government shall publish a notice of termination stating the reasons for the termination.”. Amendment of section 30"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 30 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “any person or officer authorized in writing in that behalf by the Minister” the words “an investigating authority”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) The Minister may appoint and authorize in writing to any public officer or person to be the investigating authority.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (4) the following subsection: “(4) The Minister shall then make a recommendation to the Minister of Finance who shall make a decision with respect to the imposition of countervailing or anti-dumping duty under this Act.”. Amendment of section 31"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 31 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Protection of investigating authority and persons acting under direction of investigating authority”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “any person or officer authorized under this Act” the words “the investigating authority”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “any such person or officer” the words “the investigating authority”. Amendment of section 34a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 34a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)— Countervailing and Anti-Dumping Duties (Amendment) 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “a final determination or a final administrative review determination under this Act” the words “a final determination pursuant to subsection 10(4) or 25(4) or a review determination pursuant to subsection 13d(4) or 28d(4)”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “Rules of the High Court 1980 [P.U. (A) 50/1980]” the words “Rules of Court 2012 [P.U. (A) 205/2012]”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2), by substituting for the words “of the final determination or the final administrative review determination in question” the words “of the final determination pursuant to subsection 10(4) or 25(4) or of the review determination pursuant to subsection 13d(4) or 28d(4)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “the final determination or final administrative review determination in question” the words “the final determination pursuant to subsection 10(4) or 25(4) or the review determination pursuant to subsection 13d(4) or 28d(4)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsection: “(3a) The interested party who files a judicial review under subsection (1) and the judicial review is still pending, shall not request for a review under section 13, 13a, 13b, 13c, 28, 28a, 28b or 28c of this Act.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (4)— Amendment of section 37"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subrule 1(5) of Order 53 of the Rules of the High Court 1980” the words “subrule 3(5) of Order 53 of the Rules of Court 2012”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_16__para_e",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “any final determination or final administrative review determination” the words “this Act”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 37 of the principal Act is amended by inserting after the word “action” the words “or measures”. New sections 37a and 37b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 37 the following sections: “Anti-circumvention investigation 37a. (1) Whenever an interested party submits a petition for an anti-circumvention investigation to the Government, or the Government otherwise obtains any information in relation to circumvention, the Government shall examine the petition or information. (2) The petition submitted under subsection (1) shall contain such information and shall include sufficient evidence of the existence of such circumvention. (3) The Government shall, within the prescribed period, examine the petition or information to determine whether to initiate an anti-circumvention investigation. (4) The petition under subsection (1) shall be rejected if the Government is satisfied that— (a) there is no sufficient evidence of circumvention; or (b) the anti-circumvention investigation is not in the public interest. (5) Where the Government rejects a petition under subsection (4), the Government shall, as soon as practicable, notify in writing the interested party who submits the petition under subsection (1) of the Government’s decision not to initiate an anti-circumvention investigation. (6) Where the evidence or information is sufficient to justify the initiation of an anti-circumvention investigation or an anti-circumvention investigation is in the public interest, the Government may initiate an anti-circumvention investigation. Countervailing and Anti-Dumping Duties (Amendment) 15 Anti-circumvention determination 37 b. (1) If the Government decides to initiate an anti-circumvention investigation under section 37a, the Government shall— (a) publish a notice of the initiation of the investigation; and (b) conduct the investigation by allowing the interested party to provide any comment relating to such investigation. (2) An investigation conducted pursuant to section 37a shall be completed within the prescribed period. (3) Before completion of the investigation conducted pursuant to section 37a, the Government shall inform all the interested parties of the essential facts under consideration that form the basis for the findings of the Government and the interested parties may defend their interests. (4) On the completion of the investigation conducted pursuant to section 37a, the Government shall publish a notice of determination stating the reasons for its decision. (5) Where the Government finds that the circumvention exists, the Minister shall have the power to extend the existing countervailing or anti-dumping duty or impose countervailing or anti-dumping duty on imports from the exporters or producers who are found to be circumventing. (6) Where the Government is satisfied that there is no evidence of the circumvention action by the exporters or producers, the Government shall terminate the anti-circumvention investigation on the specific country or the exporters or producers. (7) A determination made pursuant to subsection (4) shall apply to the like product and subject merchandise imported on or after the date of publication of the notice of determination.”. Amendment of section 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 38(1) of the principal Act is amended in the English language text by substituting the word “form” the word “from”. Amendment of section 40"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Countervailing and Anti-Dumping Duties (Amendment) Act 2025."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette and the Minister may appoint different dates for the coming into operation of different provisions of this Act. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Countervailing and Anti-Dumping Duties Act 1993 [Act 504], which is referred to as the “principal Act” in this Act, is amended in section 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 40 of the principal Act is amended by substituting for the words “an investigation or administrative review” the words “an investigation or review”. Saving"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An investigation or a review under the principal Act which is pending immediately before the coming into operation of this Act shall, on the coming into operation of this Act, be dealt with in accordance with the provisions of the principal Act as amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), a judicial review in relation to a final administrative review determination under section 34a of the principal Act and an administrative review under section 13 or 28 of the principal Act, which is pending immediately before the coming into operation of this Act shall, on the coming into operation of this Act, be dealt with in accordance with the provisions of the principal Act as if the principal Act has not been amended by this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “subject merchandise”, by substituting for the words “imported or sold for importation into” the words “exported or sold for exportation from the exporting country to”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “dumping”, by substituting for the words “the importation of merchandise into Malaysia at” the words “the exportation of merchandise from the exporting country to Malaysia at a price”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in the definition of “Minister”, by substituting for the words “international trade” the words “investment, trade”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting before the definition of “country” the following definition: ‘ “circumvention” means an action of an exporter or a producer of the subject merchandise to avoid or undermine the countervailing or anti-dumping duties imposed by the Government;’; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the definition of “interested party” the following definition: ‘ “investigating authority” means any public officer or person, who is appointed and authorized in writing by the Minister under subsection 30(2a);’. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection 9(1) of the principal Act is amended by substituting for the words “during the period of investigation” the words “during the investigation”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended by substituting for subsection (1) the following subsection: “(1) An investigation may be suspended at any time— (a) if undertakings from the exporting Member who agrees to eliminate or limit the subsidy are accepted by the Government; or (b) if undertakings from any exporter who agrees to revise its prices are accepted by the Government.”. Amendment of section 12a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by renumbering the existing section as subsection (1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) as renumbered the following subsection: “(2) Notwithstanding subsection (1), a countervailing duty imposed under this Act shall be terminated— (a) on a date not later than five years from its imposition; or (b) five years from the date of the conclusion of the most recent expiry review.”. Amendment of section 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 13 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “provides information to the Government” the words “submits a petition for an administrative review to the Government”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (c), by substituting for the semi colon at the end of the paragraph the words “; or”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting paragraph (d);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subsections (2), (3), (4), (5), (6), (7) and (8); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (8) as deleted the following subsections: “(9) The petition submitted under subsection (1) shall contain such information and shall include sufficient evidence in relation to paragraph 1(a), (b), (c) or (e). (10) The Government shall, within the prescribed period, examine the petition or information to determine whether the initiation of an administrative review is justified. (11) The petition under subsection (1) shall be rejected if the Government is satisfied that there is no sufficient evidence in relation to paragraph 1(a), (b), (c) or (e). (12) Where the Government rejects the petition under subsection (11), the Government shall, as soon as practicable, notify in writing the interested party who submits the petition under subsection (1) of the Government’s decision not to initiate an administrative review. (13) The countervailing duty imposed under subsection 3(1) and undertakings referred to under subsection 12(1) may remain in force pending the decision of the Government under this section.”. New sections 13c and 13d"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 13b the following sections: “Expiry review 13c. (1) Whenever an interested party submits a petition to the Government or the Government otherwise obtains any information, substantiating for the need of an expiry review, the Government shall examine the petition or information. (2) The petition submitted under subsection (1) shall contain such information and shall include sufficient evidence to show that the continued imposition of the countervailing duty is necessary to offset subsidization and the injury would be likely to continue or recur if the duty were removed or varied. (3) The Government shall, within the prescribed period, examine the petition or information to determine whether— (a) the initiation of an expiry review is justified; and (b) an expiry review is in the public interest. (4) The petition under subsection (1) shall be rejected if the Government is satisfied that— (a) the continued imposition of the countervailing duty is no longer necessary to offset subsidization; (b) the injury would be unlikely to continue or recur if the duty were removed or varied; or (c) the expiry review is not in the public interest. (5) Where the Government rejects the petition under subsection (4), the Government shall, as soon as practicable, notify in writing the interested party who submits the petition under subsection (1) of the Government’s decision not to initiate the expiry review. (6) The Government may initiate an expiry review if the Government is satisfied that there is sufficient evidence to show that the continued imposition of the countervailing duty is necessary to offset subsidization and the injury would be likely to continue or recur if the duty were removed or varied and the expiry review shall be initiated before the expiration of the countervailing duty referred to in section 12a. (7) The countervailing duty imposed under subsection 3(1) and undertakings referred to in subsection 12(1) may remain in force pending the decision of the Government under this Review determination 13d. (1) Where the Government decides to conduct a review under section 13, 13a, 13b or 13c, the Government shall— (a) publish a notice of the initiation of the review; and (b) conduct the review by allowing the interested party to provide any comment relating to the review. (2) A review conducted pursuant to section 13, 13a, 13b or 13c shall be completed within the prescribed period. (3) Before completion of the review conducted pursuant to section 13, 13a, 13b or 13c, the Government shall inform all the interested parties of the essential facts under consideration that form the basis for the findings and the interested parties may defend their interests. (4) Upon the completion of the review conducted pursuant to section 13, 13a, 13b or 13c, the Government shall publish a notice of determination stating the reasons for its decision. (5) Where the Government makes a determination in relation to section 13 or 13c and where the subsidy amount of an exporter or a producer whose export of the subject merchandise has changed substantially to de minimis, the countervailing duty on specific exporter or producer may be subject to subsequent review by the Government. (6) A determination made pursuant to subsection (4) or (5) shall apply to the subject merchandise imported on or after the date of publication of the notice of determination. (7) Notwithstanding any other provisions of this Act, a review conducted pursuant to section 13, 13a, 13b or 13c may be terminated at any time if— (a) the petitioner withdraws the petition; (b) there are changed circumstances; or (c) the Government determines that termination of the review is in the public interest. (8) If a termination of the review pursuant to subsection (7) occurs, the Government shall publish a notice of termination stating the reasons for the termination.”. Amendment of section 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 17 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1), by inserting after the words “subject merchandise” the words “which is exported or sold for exportation from the exporting country to Malaysia”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)— Amendment of section 24"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the word “appears” the words “to the Government”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after the words “on any reasonable basis” the words “as the Government may determine”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2025/22/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Subsection 24(1) of the principal Act"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "substituting for the words “during the period of investigation” the words “during the investigation”. Amendment of section 27"
+      }
+    }
+  ]
+}

@@ -82,21 +82,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_3__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 38 the following section: “Refund of service tax, etc., to a foreign registered person 38a. (1) Where the Director General is satisfied that the refund under section 38 is to be made to a foreign registered person, the Director General may withhold the whole or any part of such refundable amount to be credited to any following or subsequent taxable period."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Director General shall treat the amount credited as payment or part payment received from the foreign registered person.”. Amendment of section 56a"
+        "@value": "The principal Act is amended by inserting after section 38 the following section: “Refund of service tax, etc., to a foreign registered person 38a. (1) Where the Director General is satisfied that the refund under section 38 is to be made to a foreign registered person, the Director General may withhold the whole or any part of such refundable amount to be credited to any following or subsequent taxable period. (2) The Director General shall treat the amount credited as payment or part payment received from the foreign registered person.”. Amendment of section 56a"
       }
     },
     {
@@ -192,69 +181,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7",
       "@type": "akn:clause",
       "eli:number": "7",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_4"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 90 the following sections: “Power to extend period 90a. Where, by this Act, a period is specified within which an act or thing is to be done by a person, and the Minister is satisfied that the act or thing could not be completed in that period due to the occurrence of public emergency or public health crisis, the Minister may, upon such terms and conditions as the Minister thinks fit, extend the period for the completion of the act or thing before the expiration of the period. Power to modify terms and conditions 90 b. (1) Where terms and conditions are imposed pursuant to this Act, the Minister may, on the advice of the Director General, from time to time modify the terms and conditions for the purpose of carrying out the objects of this Act."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Before modifying the terms and conditions, notice must be given to the person bound by the terms and conditions stating—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the terms and conditions as modified; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_2",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the date the terms and conditions as modified take effect."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The modified terms and conditions shall not take effect in less than fourteen days from the date the notice is issued under subsection (2)."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/32/eng@/~cl_7",
-      "schema:text": {
-        "@language": "en",
-        "@value": "For the purposes of this section, “modify” means add to, delete or vary.”."
+        "@value": "The principal Act is amended by inserting after section 90 the following sections: “Power to extend period 90a. Where, by this Act, a period is specified within which an act or thing is to be done by a person, and the Minister is satisfied that the act or thing could not be completed in that period due to the occurrence of public emergency or public health crisis, the Minister may, upon such terms and conditions as the Minister thinks fit, extend the period for the completion of the act or thing before the expiration of the period. Power to modify terms and conditions 90 b. (1) Where terms and conditions are imposed pursuant to this Act, the Minister may, on the advice of the Director General, from time to time modify the terms and conditions for the purpose of carrying out the objects of this Act. (2) Before modifying the terms and conditions, notice must be given to the person bound by the terms and conditions stating— (a) the terms and conditions as modified; and (b) the date the terms and conditions as modified take effect. (3) The modified terms and conditions shall not take effect in less than fourteen days from the date the notice is issued under subsection (2). (4) For the purposes of this section, “modify” means add to, delete or vary.”."
       }
     }
   ]

@@ -61,34 +61,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/36/eng@/~cl_2__subsec_1",
       "@type": "akn:subsection",
       "eli:number": "1",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/36/eng@/~cl_2__subsec_1__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/36/eng@/~cl_2__subsec_1__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/36/eng@/~cl_2",
       "schema:text": {
         "@language": "en",
-        "@value": "The Entertainments Duty Act 1953, which in this Act is referred to as the \"principal Act\", is amended by substitu- ting for subsection (1) of section 12 the following: \"(1) The Minister of Finance may by order published in the Gazette exempt, subject to such conditions as he may deem fit to impose,—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/36/eng@/~cl_2__subsec_1__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/36/eng@/~cl_2__subsec_1",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any class of entertainments; and"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/36/eng@/~cl_2__subsec_1__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/36/eng@/~cl_2__subsec_1",
-      "schema:text": {
-        "@language": "en",
-        "@value": "in respect of the Federal Territories of Kuala Lumpur and Labuan, any entertainment, from the payment of entertainments duty.\"."
+        "@value": "The Entertainments Duty Act 1953, which in this Act is referred to as the \"principal Act\", is amended by substitu- ting for subsection (1) of section 12 the following: \"(1) The Minister of Finance may by order published in the Gazette exempt, subject to such conditions as he may deem fit to impose,— (a) any class of entertainments; and (b) in respect of the Federal Territories of Kuala Lumpur and Labuan, any entertainment, from the payment of entertainments duty.\"."
       }
     },
     {

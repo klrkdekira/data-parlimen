@@ -1,0 +1,310 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-37-2012",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Penyelarasan Pencen (Pindaan) 2012"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 10 dengan seksyen yang berikut: “Penyelarasan pencen orang tanggungan 10. (1) Jika pencen orang tanggungan diberikan di bawah mana-mana undang-undang bertulis, maka pencen orang tanggungan itu hendaklah diselaraskan mengikut subseksyen 3(1) tetapi faktor yang terpakai hendaklah faktor yang terpakai di bawah undang-undang bertulis itu. (2) Jika faktor yang disebut dalam subseksyen (1) berubah mengikut kelayakan orang tanggungan itu sebagaimana yang ditetapkan di bawah undang-undang bertulis itu, pencen orang tanggungan hendaklah diselaraskan berdasarkan gaji isyarat sebagaimana yang ditentukan di bawah subseksyen (3) dengan menggunakan faktor baru yang terpakai di bawah undang-undang bertulis itu. (3) Gaji isyarat— (a) dalam hal orang tanggungan yang menerima pencen orang tanggungan sebelum atau pada 1 Januari 2012, ialah amaun gaji bersamaan yang akhir diterima yang diterima oleh pegawai pada 1 Januari 2012 yang telah dihitung dengan kenaikan sebanyak dua peratus setiap tahun sehingga tahun apabila faktor itu berubah; (b) dalam hal orang tanggungan yang menerima pencen orang tanggungan pada atau selepas 2 Januari 2012, ialah amaun gaji yang akhir diterima yang diterima oleh pegawai pada tarikh kematiannya yang telah dihitung dengan kenaikan sebanyak dua peratus setiap tahun sehingga tahun apabila faktor itu berubah. (4) Jika peratusan kenaikan yang lebih tinggi telah ditetapkan di bawah subseksyen 3(2), kenaikan yang ditetapkan di bawah subseksyen (3) hendaklah dihitung dengan menggunakan peratusan lebih tinggi yang ditetapkan itu. (5) Amaun pencen orang tanggungan yang diselaraskan di bawah subseksyen (2) hendaklah digunakan sebagai asas bagi penyelarasan di bawah subseksyen (1) dalam tahun- tahun berikutnya. (6) Penyelarasan yang disebut dalam subseksyen (1) adalah tertakluk kepada apa-apa peratusan kenaikan yang lebih tinggi yang dibuat di bawah subseksyen 3(2). (7) Bagi maksud seksyen ini, “gaji bersamaan yang akhir diterima” ertinya gaji bersamaan yang akhir diterima yang telah diselaraskan pada 1 Januari 2012 menurut Akta ini sebelum mula berkuatkuasanya seksyen ini.”. Seksyen baru 10A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut: “Pindaan tempoh maksimum perkhidmatan yang boleh dimasuk kira 10A. (1) Jika tempoh maksimum perkhidmatan yang boleh dimasuk kira di bawah mana-mana undang-undang bertulis dipinda, penyelarasan mengikut subseksyen 3(1) kepada pencen atau faedah lain hendaklah diubah suai dengan sewajarnya dan hendaklah berasaskan amaun pencen atau faedah lain itu yang dihitung berdasarkan gaji isyarat yang ditentukan oleh Ketua Pengarah melalui formula yang ditetapkan di bawah undang-undang bertulis itu. (2) Dalam menentukan penghitungan gaji isyarat bagi maksud subseksyen (1), Ketua Pengarah boleh menggunakan penghitungan gaji isyarat sebagaimana yang ditetapkan dalam subseksyen 10(3) dengan ubahsuaian yang perlu.”. Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda dengan menggantikan perkataan “seksyen 9” dengan perkataan “seksyen 3A”. Pemotongan Jadual Pertama dan Kedua"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong Jadual Pertama dan Kedua. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana pegawai atau orang tanggungannya layak bagi penyelarasan pencen atau faedah lain di bawah Akta ibu sebelum 1 Januari 2013 tetapi penyelarasan itu tidak dibuat sebelum tarikh itu, pencen atau faedah lain itu hendaklah terlebih dahulu diselaraskan mengikut peruntukan Akta ibu sehingga 31 Disember 2012 seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pencen dan faedah lain pegawai dan orang tanggungannya hendaklah, dari 1 Januari 2013, dihitung berdasarkan subseksyen 3(1) sebagaimana yang dipinda oleh Akta ini dan hendaklah kena dibayar mulai tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi mana-mana pegawai atau orang tanggungannya yang pencen atau faedah lainnya telah diselaraskan mengikut Akta ibu sebaik sebelum 1 Januari 2013, pencen atau faedah lain itu hendaklah, dari 1 Januari 2013, dihitung berdasarkan subseksyen 3(1) sebagaimana yang dipinda oleh Akta ini dan hendaklah kena dibayar mulai tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penyelarasan Pencen (Pindaan) 2012."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada 1 Januari 2013. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Penyelarasan Pencen 1980 [Akta 238], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan memotong takrif “gaji bersamaan yang akhir diterima”. Penggantian seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 3 dengan seksyen yang berikut: “Penyelarasan pencen dan faedah lain bagi pegawai dan orang tanggungan 3. (1) Pencen dan faedah lain yang diberikan kepada pegawai dan orang tanggungannya di bawah mana-mana undang- undang bertulis hendaklah diselaraskan setiap tahun dengan kenaikan sebanyak dua peratus mengikut peruntukan Akta ini dan hendaklah dibayar atau adalah kena dibayar mulai Januari setiap tahun. (2) Walau apa pun subseksyen (1), jika pemakaian kadar kenaikan yang ditetapkan akan mengakibatkan suatu keadaan yang kurang baik bagi seseorang pegawai yang dilantik sebelum mula berkuatkuasanya seksyen ini, Yang di-Pertuan Agong boleh melalui perintah dalam Warta menetapkan peratusan kenaikan yang lebih tinggi yang sesuai untuk dipakai dalam hal sedemikian. (3) Bagi maksud suatu perintah di bawah subseksyen (2), Yang di-Pertuan Agong boleh menetapkan— (a) peratusan kenaikan yang berlainan bagi kategori penerima yang berlainan; (b) bahawa peratusan kenaikan yang lebih tinggi itu hendaklah hanya terpakai bagi sesuatu tahun yang ditetapkan atau mana-mana bahagian daripadanya, dan dalam hal sedemikian, tarikh yang padanya penyelarasan itu hendaklah kena dibayar.”. Seksyen baru 3A dan 3B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 3 seksyen yang berikut: “Penyelarasan pencen, pencen hilang upaya, elaun persaraan atau elaun bencana 3A. (1) Pencen, pencen hilang upaya, elaun persaraan atau elaun bencana yang diterima oleh seseorang pegawai di bawah mana-mana undang-undang bertulis hendaklah diselaraskan mengikut subseksyen 3(1). (2) Amaun pencen, pencen hilang upaya, elaun persaraan atau elaun bencana yang hendaklah digunakan sebagai asas bagi penyelarasan yang pertama sekali di bawah subseksyen 3(1)— (a) dalam hal pegawai yang bersara sebelum atau pada 1 Januari 2012, ialah amaun pencen, pencen hilang upaya, elaun persaraan atau elaun bencana yang telah diselaraskan pada tarikh itu; (b) dalam hal pegawai yang bersara pada atau selepas 2 Januari 2012, ialah amaun pencen, pencen hilang upaya, elaun persaraan atau elaun bencana yang diberikan kepada pegawai itu. (3) Penyelarasan yang disebut dalam subseksyen (1) adalah tertakluk kepada apa-apa peratusan kenaikan yang lebih tinggi yang dibuat di bawah subseksyen 3(2). Penyelarasan pencen dan faedah lain terendah sekali 3B. Jika seseorang pegawai menerima amaun pencen atau faedah lain terendah sekali yang kena dibayar menurut seksyen 8, amaun terendah sekali tersebut hendaklah digunakan sebagai asas bagi penyelarasan yang pertama sekali di bawah subseksyen 3(1).”. Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Apa-apa pencen terbitan atau elaun persaraan terbitan yang diterima di bawah mana-mana undang- undang bertulis yang lain hendaklah diselaraskan mengikut subseksyen 3(1).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1A) Amaun pencen terbitan atau elaun persaraan terbitan yang hendaklah digunakan sebagai asas bagi penyelarasan yang pertama sekali di bawah subseksyen 3(1)— (a) dalam hal penerima yang menerima pencen terbitan atau elaun persaraan terbitan sebelum atau pada 1 Januari 2012, ialah amaun pencen terbitan atau elaun persaraan terbitan yang telah diselaraskan pada tarikh itu; (b) dalam hal penerima yang menerima pencen terbitan atau elaun persaraan terbitan pada atau selepas 2 Januari 2012, ialah amaun pencen terbitan atau elaun persaraan terbitan yang diberikan kepada penerima. (1B) Penyelarasan yang disebut dalam subseksyen (1) adalah tertakluk kepada apa-apa peratusan kenaikan yang lebih tinggi yang dibuat di bawah subseksyen 3(2).”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), (3) dan (5), dengan menggantikan perkataan “Jadual Kedua” di mana-mana jua terdapat dengan perkataan “subseksyen 3(1)”. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Pencen terbitan atau elaun persaraan terbitan yang diberikan di bawah subseksyen (1) hendaklah diselaraskan mengikut subseksyen 3(1).”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2A) Amaun pencen terbitan atau elaun persaraan terbitan yang hendaklah digunakan sebagai asas bagi penyelarasan yang pertama sekali di bawah subseksyen 3(1) ialah amaun pencen terbitan atau elaun persaraan terbitan yang telah diselaraskan sehingga 31 Disember 2012. (2B) Walau apa pun subseksyen (2A), jika seseorang orang tanggungan layak untuk diberi pencen terbitan atau elaun persaraan terbitan di bawah subseksyen (1) tetapi tidak dibayar pencen terbitan atau elaun persaraan terbitan itu pada 1 Januari 2013, penyelarasan pencen terbitan atau faedah lain itu hendaklah terlebih dahulu dibuat sehingga 31 Disember 2012 mengikut seksyen ini dan peruntukan berkaitan yang lain yang berkuat kuasa sebelum 1 Januari 2013 sebelum pencen terbitan atau faedah lain itu diselaraskan mengikut subseksyen 3(1). (2C) Penyelarasan yang disebut dalam subseksyen (2) adalah tertakluk kepada apa-apa peratusan kenaikan yang lebih tinggi yang dibuat di bawah subseksyen 3(2).”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4) dan (6), dengan menggantikan perkataan “Jadual Kedua” di mana-mana jua terdapat dengan perkataan “subseksyen 3(1)”. Pemotongan seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 6. Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 8(1) Akta ibu dipinda dengan menggantikan perkataan “Jadual-Jadual” dengan perkataan “subseksyen 3(1)”. Pemotongan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2012/37/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 9. Penggantian seksyen 10"
+      }
+    }
+  ]
+}

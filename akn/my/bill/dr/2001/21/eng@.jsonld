@@ -108,9 +108,7 @@
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3__para_a",
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3__subsec_8",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3__subsec_9"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3__para_c"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@",
       "schema:name": {
@@ -180,27 +178,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3",
       "schema:text": {
         "@language": "en",
-        "@value": "by inserting after subsection (6) the following subsections: \"(7) The compulsory age of retirement of fifty-six years provided for in subsection (1) shall apply to an officer who is appointed on or after 1 October 2001."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3__subsec_8",
-      "@type": "akn:subsection",
-      "eli:number": "8",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The compulsory age of retirement of fifty-six years provided for in subsection (1) shall not apply to an officer who was appointed before 1 October 2001 and who had been given an option before such date and had not opted for the compulsory age of retirement of fifty-six years."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3__subsec_9",
-      "@type": "akn:subsection",
-      "eli:number": "9",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/21/eng@/~cl_3",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The option for the compulsory age of retirement of fifty-six years exercised by an officer referred to in subsection (8) shall be irrevocable.\". Amendment of section 12"
+        "@value": "by inserting after subsection (6) the following subsections: \"(7) The compulsory age of retirement of fifty-six years provided for in subsection (1) shall apply to an officer who is appointed on or after 1 October 2001. (8) The compulsory age of retirement of fifty-six years provided for in subsection (1) shall not apply to an officer who was appointed before 1 October 2001 and who had been given an option before such date and had not opted for the compulsory age of retirement of fifty-six years. (9) The option for the compulsory age of retirement of fifty-six years exercised by an officer referred to in subsection (8) shall be irrevocable.\". Amendment of section 12"
       }
     },
     {

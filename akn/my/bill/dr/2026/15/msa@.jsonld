@@ -81,104 +81,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3",
       "@type": "akn:clause",
       "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_4"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut: “Perjanjian 10a. (1) Seseorang saksi yang telah dimasukkan sebagai peserta ke dalam Program oleh Peguam Negara hendaklah menandatangani suatu perjanjian menurut seksyen ini."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_2__para_b"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud subseksyen (1)—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "jika peserta itu adalah di bawah umur lapan belas tahun, ibu atau bapa atau penjaga peserta itu hendaklah menandatangani perjanjian itu; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "jika peserta tersebut tiada keupayaan di sisi undang-undang untuk menandatangani perjanjian, ibu atau bapa atau penjaga peserta itu hendaklah menandatangani perjanjian itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3__para_c"
-      ],
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bentuk perjanjian berhubung dengan peserta hendaklah sebagaimana yang ditentukan oleh Ketua Pengarah dan boleh mengandungi—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "terma dan syarat berkenaan perlindungan dan bantuan yang akan diberikan kepada peserta;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "suatu persetujuan oleh atau bagi pihak peserta untuk tidak menjejaskan secara langsung atau tidak langsung keselamatan atau mana-mana aspek perlindungan atau bantuan yang diberikan kepada peserta; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "suatu persetujuan oleh atau bagi pihak peserta bahawa peserta hendaklah mematuhi segala arahan munasabah yang diberikan oleh Ketua Pengarah berhubung dengan perlindungan dan bantuan yang diberikan kepada peserta."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_3",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Suatu perjanjian hendaklah ditandatangani oleh, atau bagi pihak peserta di hadapan seseorang yang memegang atau menyandang suatu jawatan yang ditentukan oleh Ketua Pengarah. Kecualian bagi perjanjian sedia ada 10b. Tiap-tiap perjanjian yang dibuat secara sah antara peserta dengan Kerajaan sebelum Akta ini mula berkuat kuasa, hendaklah jika masih mengikat pihak-pihak secara sah, terus berkuat kuasa bagi tempoh sebagaimana yang dinyatakan dalam perjanjian itu dan pihak-pihak hendaklah tertakluk dan berhak kepada faedah di bawah Akta ini.”. Pindaan subseksyen 13(2)"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut: “Perjanjian 10a. (1) Seseorang saksi yang telah dimasukkan sebagai peserta ke dalam Program oleh Peguam Negara hendaklah menandatangani suatu perjanjian menurut seksyen ini. (2) Bagi maksud subseksyen (1)— (a) jika peserta itu adalah di bawah umur lapan belas tahun, ibu atau bapa atau penjaga peserta itu hendaklah menandatangani perjanjian itu; atau (b) jika peserta tersebut tiada keupayaan di sisi undang-undang untuk menandatangani perjanjian, ibu atau bapa atau penjaga peserta itu hendaklah menandatangani perjanjian itu. (3) Bentuk perjanjian berhubung dengan peserta hendaklah sebagaimana yang ditentukan oleh Ketua Pengarah dan boleh mengandungi— (a) terma dan syarat berkenaan perlindungan dan bantuan yang akan diberikan kepada peserta; (b) suatu persetujuan oleh atau bagi pihak peserta untuk tidak menjejaskan secara langsung atau tidak langsung keselamatan atau mana-mana aspek perlindungan atau bantuan yang diberikan kepada peserta; dan (c) suatu persetujuan oleh atau bagi pihak peserta bahawa peserta hendaklah mematuhi segala arahan munasabah yang diberikan oleh Ketua Pengarah berhubung dengan perlindungan dan bantuan yang diberikan kepada peserta. (4) Suatu perjanjian hendaklah ditandatangani oleh, atau bagi pihak peserta di hadapan seseorang yang memegang atau menyandang suatu jawatan yang ditentukan oleh Ketua Pengarah. Kecualian bagi perjanjian sedia ada 10b. Tiap-tiap perjanjian yang dibuat secara sah antara peserta dengan Kerajaan sebelum Akta ini mula berkuat kuasa, hendaklah jika masih mengikat pihak-pihak secara sah, terus berkuat kuasa bagi tempoh sebagaimana yang dinyatakan dalam perjanjian itu dan pihak-pihak hendaklah tertakluk dan berhak kepada faedah di bawah Akta ini.”. Pindaan subseksyen 13(2)"
       }
     },
     {
@@ -221,8 +127,7 @@
       "eli:number": "5",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5__subsec_13"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@",
       "schema:name": {
@@ -271,38 +176,17 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen 16(11) subseksyen yang berikut: “(12) Selepas pemberitahuan penamatan Program kepada peserta di bawah perenggan 11(a), Ketua Pengarah boleh terus memberikan perlindungan dan bantuan itu kepada peserta itu sebagaimana yang difikirkannya perlu dan munasabah bagi tujuan memudahkan peralihan selamat peserta itu ke suatu kehidupan baharu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5__subsec_13",
-      "@type": "akn:subsection",
-      "eli:number": "13",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Perlindungan dan bantuan itu yang diberikan kepada peserta boleh termasuk, tetapi tidak terhad kepada, penempatan semula ke tempat yang selamat, bantuan kewangan, bantuan psikologi dan bantuan penempatan pekerjaan.”. Seksyen baharu 29a"
+        "@value": "dengan memasukkan selepas subseksyen 16(11) subseksyen yang berikut: “(12) Selepas pemberitahuan penamatan Program kepada peserta di bawah perenggan 11(a), Ketua Pengarah boleh terus memberikan perlindungan dan bantuan itu kepada peserta itu sebagaimana yang difikirkannya perlu dan munasabah bagi tujuan memudahkan peralihan selamat peserta itu ke suatu kehidupan baharu. (13) Perlindungan dan bantuan itu yang diberikan kepada peserta boleh termasuk, tetapi tidak terhad kepada, penempatan semula ke tempat yang selamat, bantuan kewangan, bantuan psikologi dan bantuan penempatan pekerjaan.”. Seksyen baharu 29a"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_6",
       "@type": "akn:clause",
       "eli:number": "6",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_6__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 29 seksyen yang berikut: “Perintah Tetap 29a. (1) Ketua Pengarah boleh mengeluarkan Perintah Tetap, yang tidak bercanggah dengan peruntukan Akta ini, berkenaan pentadbiran, pengurusan, kawalan, latihan, tugas dan tanggungjawab pegawai dan bagi apa-apa perkara lain yang perlu atau suai manfaat bagi pentadbiran dan pelaksanaan Program."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_6__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/15/msa@/~cl_6",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Apa-apa arahan atau perintah pentadbiran yang dibuat oleh Ketua Pengarah dan yang berkuat kuasa sebaik sebelum tarikh permulaan kuat kuasa seksyen 29a hendaklah, setakat yang tidak bercanggah dengan Akta ini, terus berkuat kuasa sehingga dibatalkan oleh Ketua Pengarah.”."
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 29 seksyen yang berikut: “Perintah Tetap 29a. (1) Ketua Pengarah boleh mengeluarkan Perintah Tetap, yang tidak bercanggah dengan peruntukan Akta ini, berkenaan pentadbiran, pengurusan, kawalan, latihan, tugas dan tanggungjawab pegawai dan bagi apa-apa perkara lain yang perlu atau suai manfaat bagi pentadbiran dan pelaksanaan Program. (2) Apa-apa arahan atau perintah pentadbiran yang dibuat oleh Ketua Pengarah dan yang berkuat kuasa sebaik sebelum tarikh permulaan kuat kuasa seksyen 29a hendaklah, setakat yang tidak bercanggah dengan Akta ini, terus berkuat kuasa sehingga dibatalkan oleh Ketua Pengarah.”."
       }
     }
   ]

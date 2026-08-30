@@ -1,0 +1,461 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-19-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Suruhanjaya Komunikasi dan Multimedia Malaysia (Pindaan) 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 18 seksyen yang berikut: “Daftar arahan oleh Menteri 18a. (1) Suruhanjaya hendaklah menyenggara suatu daftar, dalam kedua-dua bentuk fizikal dan media elektronik, semua perkara yang dikehendaki untuk didaftarkan di bawah seksyen 18. (2) Mana-mana orang boleh, dengan membayar fi, jika ada, yang dikenakan oleh Suruhanjaya— (a) memeriksa daftar itu; dan (b) membuat salinan, atau mengambil cabutan daripada, daftar itu. (3) Jika seseorang meminta supaya suatu salinan diberikan dalam media elektronik, Suruhanjaya boleh memberikan maklumat yang berkaitan itu— (a) dengan menggunakan suatu peranti pemproses data; atau (b) melalui penghantaran elektronik.”. Malaysia (Pindaan) Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_f"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “ketua eksekutif” dengan perkataan “ketua pegawai eksekutif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “ketua eksekutif” dengan perkataan “ketua pegawai eksekutif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “Ketua eksekutif” dengan perkataan “Ketua pegawai eksekutif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (4), dengan menggantikan perkataan “Ketua eksekutif” dengan perkataan “Ketua pegawai eksekutif”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “Ketua eksekutif” dengan perkataan “Ketua pegawai eksekutif”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (6), dengan menggantikan perkataan “ketua eksekutif” dengan perkataan “ketua pegawai eksekutif”. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan menggantikan perkataan “ketua eksekutif” dengan perkataan “ketua pegawai eksekutif”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ketua eksekutif” di mana-mana jua terdapat dengan perkataan “ketua pegawai eksekutif”. Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu dipinda dengan menggantikan perkataan “, dengan kelulusan Menteri, membuat peraturan-peraturan mengenai” dengan perkataan “menentukan”. Pindaan seksyen 38"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Perenggan 38(2)(c) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “lesen”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan “levi” perkataan “, penalti kewangan,”. Pindaan seksyen 45"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 45 Akta ibu dipinda dengan menggantikan perkataan “lima juta” dengan perkataan “lima puluh juta”. Seksyen baharu 53a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 53 seksyen yang berikut: “Kuasa Suruhanjaya untuk menyiarkan maklumat 53a. Suruhanjaya boleh, jika difikirkannya perlu atau suai manfaat demi kepentingan awam dalam apa-apa bentuk atau cara yang difikirkannya patut, menyiarkan apa-apa maklumat berhubung dengan— (a) pemberian, peluputan, pembatalan atau penggantungan suatu kelulusan, lesen atau pengecualian yang diberikan di bawah mana-mana undang-undang komunikasi dan multimedia kepada mana-mana orang; Malaysia (Pindaan) (b) pengeluaran apa-apa arahan, garis panduan, penentuan, keputusan atau apa-apa instrumen perundangan lain di bawah mana-mana undang-undang komunikasi dan multimedia; (c) apa-apa tindakan sivil yang diambil di bawah mana-mana undang-undang komunikasi dan multimedia; (d) pengkompaunan apa-apa kesalahan di bawah mana-mana undang-undang komunikasi dan multimedia; atau (e) apa-apa prosiding sivil atau jenayah yang dibawa— (i) di bawah mana-mana undang-undang komunikasi dan multimedia terhadap mana-mana orang dan keputusan prosiding itu, termasuk apa-apa penyelesaian, sama ada di dalam atau di luar mahkamah; atau (ii) di bawah mana-mana undang-undang lain, sama ada undang-undang Malaysia atau undang-undang mana-mana wilayah atau negara di luar Malaysia, terhadap mana-mana orang dan keputusan prosiding itu, termasuk apa-apa penyelesaian, sama ada di dalam atau di luar mahkamah.”. Peruntukan kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana arahan oleh Menteri yang diberikan kepada Suruhanjaya di bawah seksyen 18 sebelum mula berkuat kuasanya Akta ini hendaklah, pada tarikh permulaan kuat kuasa Akta ini, terus berkuat kuasa sehingga diubah suai, diubah atau dibatalkan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pengerusi yang memegang jawatan ketua eksekutif sebaik sebelum mula berkuat kuasanya Akta ini hendaklah terus memegang jawatan itu dan hendaklah disifatkan dilantik sebagai ketua pegawai eksekutif di bawah Akta ibu sebagaimana dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ini, anggota Suruhanjaya yang memegang jawatan sebelum mula berkuatkuasanya seksyen 3 Akta ini hendaklah terus memegang jawatan itu sehingga tamat tempoh jawatan mereka."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Suruhanjaya Komunikasi dan Multimedia Malaysia (Pindaan) 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta dan Menteri boleh menetapkan tarikh yang berlainan bagi permulaan kuat kuasa peruntukan yang berlainan Akta ini. Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Suruhanjaya Komunikasi dan Multimedia Malaysia 1998 [Akta 589], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 3—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “Pengerusi”, dengan menggantikan perkataan “perenggan 6(a)” dengan perkataan “perenggan 6(1)(a)”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “Pengerusi” takrif yang berikut: ‘ “sistem komunikasi” mempunyai erti yang diberikan kepadanya dalam Akta Komunikasi dan Multimedia 1998 [Akta 588];’. Penggantian seksyen 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 6 dengan seksyen yang berikut: “Keanggotaan Suruhanjaya 6. (1) Suruhanjaya hendaklah terdiri daripada anggota yang berikut yang hendaklah dilantik oleh Menteri: (a) seorang Pengerusi, yang hendaklah bukan ahli Parlimen atau mana-mana Dewan Undangan; (b) tiga orang anggota yang mewakili Kerajaan Persekutuan, yang salah seorang anggota hendaklah menjadi Ketua Setiausaha bagi Kementerian yang dipertanggungkan dengan tanggungjawab bagi komunikasi dan multimedia yang hendaklah menjadi seorang anggota ex-officio; dan (c) tidak kurang daripada dua orang tetapi tidak lebih daripada tujuh orang anggota lain yang mempunyai pengalaman dan pengetahuan dalam perkara yang berhubungan dengan komunikasi dan multimedia, kewangan, kejuruteraan, perdagangan, perundangan, ekonomi, pentadbiran awam, persaingan, perlindungan pengguna, sains sosial atau apa-apa kelayakan lain yang bersesuaian yang ditentukan oleh Menteri. (2) Anggota Suruhanjaya tidak boleh menjadi pekerja Suruhanjaya, kecuali bagi Pengerusi yang juga merupakan ketua pegawai eksekutif di bawah seksyen 20.”. Malaysia (Pindaan) Penggantian seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 10 dengan seksyen yang berikut: “Tempoh jawatan 10. (1) Tempoh jawatan— (a) seorang Pengerusi yang dilantik di bawah perenggan 6(1)(a) hendaklah bagi tempoh dua tahun dan Pengerusi itu adalah layak dilantik semula bagi tempoh yang sama, tetapi tidak boleh memegang jawatan lebih daripada lima tempoh sama ada terus menerus atau selainnya; dan (b) anggota yang dilantik di bawah perenggan 6(1)(b) atau (c), selain anggota ex-officio, hendaklah bagi tempoh dua tahun dan anggota itu adalah layak dilantik semula bagi tempoh yang sama, tetapi tidak boleh memegang jawatan lebih daripada lima tempoh sama ada terus menerus atau selainnya. (2) Walau apa pun subseksyen (1), seseorang yang telah dilantik sebagai Pengerusi di bawah perenggan 6(1)(a) atau sebagai mana-mana anggota di bawah perenggan 6(1)(b) atau (c), kecuali anggota ex-officio, yang telah melengkapkan tempoh jawatannya selama lima tempoh yang dinyatakan dalam perenggan (1)(a) atau (b) sama ada terus menerus atau selainnya pada suatu masa menjadi Pengerusi dan pada suatu masa lain menjadi anggota, adalah layak dilantik bagi jawatan yang lain di bawah perenggan 6(1)(a), (b) atau (c) dan hendaklah memegang jawatan itu bagi tempoh yang sama yang dinyatakan dalam perenggan (1)(a) atau (b), mengikut mana-mana yang berkenaan.”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda dengan menggantikan perenggan (f) dengan perenggan yang berikut: “(f) dalam hal Pengerusi— (i) jika dia tidak menghadiri mesyuarat Suruhanjaya tanpa kebenaran Menteri; atau (ii) jika dia dipilih atau dilantik sebagai ahli Parlimen atau mana-mana Dewan Undangan;”. Seksyen baharu 14a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 14 seksyen yang berikut: “Pemberhentian pelantikan Pengerusi 14a. Dalam keadaan Pengerusi, kerana apa-apa sebab, tidak hadir bertugas atau tidak ada di Malaysia atau tidak dapat melaksanakan tugas jawatannya selama enam bulan berturut-turut tanpa kebenaran Menteri, Menteri hendaklah melantik orang lain untuk menjadi Pengerusi mengikut Akta ini dan setelah pelantikan itu, Pengerusi sebelumnya adalah terhenti daripada menjadi anggota Suruhanjaya.”. Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_7__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 16(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan “dan” di hujung perenggan (i); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (i) perenggan yang berikut: “(ia) membangun dan mengawal selia piawaian atas infrastruktur dan platform yang akan menggalakkan saling kendali, kepercayaan dan Malaysia (Pindaan) memacu pembangunan industri komunikasi dan multimedia dan ekonomi Malaysia yang lebih luas; (ib) membangun dan mengawal selia piawaian berkenaan dengan keselamatan, perlindungan keselamatan, integriti dan keutuhan aset maklumat, rangkaian komunikasi dan perkhidmatan yang disediakan melalui rangkaian komunikasi; (ic) mengkaji semula atau mengaudit apa-apa maklumat yang dikehendaki untuk diberikan oleh pemegang lesen atau mana-mana orang lain yang memberikan perkhidmatan berkaitan dengan sistem komunikasi kepada Suruhanjaya; (id) mengaudit atau menyebabkan supaya diaudit aktiviti mana-mana pemegang lesen atau mana-mana orang lain yang memberikan perkhidmatan berkaitan dengan sistem komunikasi yang ditentukan oleh Suruhanjaya; dan”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 17(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan “dan” dengan perkataan “atau”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (d), dengan menggantikan perkataan “ketua eksekutif” dengan perkataan “ketua pegawai eksekutif”. Pindaan seksyen 18"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/19/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Tiap-tiap arahan yang diberikan oleh Menteri hendaklah didaftarkan oleh Suruhanjaya secepat yang dapat dilaksanakan. (4) Sesuatu arahan hendaklah mula berkuat kuasa pada tarikh pendaftaran arahan itu dalam suatu daftar atau pada suatu tarikh selepas itu yang boleh dinyatakan oleh Menteri dalam arahan itu. (5) Sesuatu arahan hendaklah habis tempoh pada tarikh yang boleh dinyatakan oleh Menteri dalam arahan itu atau, jika tiada tarikh dinyatakan, arahan itu hendaklah terus berkuat kuasa sehingga arahan itu dibatalkan. (6) Menteri boleh pada bila-bila masa mengubah suai, mengubah atau membatalkan suatu arahan dan tatacara yang dinyatakan dalam subseksyen (3), (4) dan (5) hendaklah terpakai mutatis mutandis berkenaan dengan apa-apa ubah suaian, perubahan atau pembatalan suatu arahan.”. Seksyen baharu 18a"
+      }
+    }
+  ]
+}

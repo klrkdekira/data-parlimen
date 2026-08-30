@@ -1,0 +1,502 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-23-1990",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_20"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kastam (Pindaan) 1990"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta inibolehlahdinamakan Akta Kastam (Pindaan) 1990. ringkas. Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 78 Akta ibu adalah dipinda dengan memasukkan seksyen 78. selepas sahajaperkataan-perkataan \"charges leviable thereon\" dalam subseksyen (2) perkataan-perkataan \"within fourteen days of such declaration\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 90 Akta ibu adalah dipinda— seksyen 90 ."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan- perkataan \"senior officer of customs\" dalam subseksyen (1), perkataan-perkataan \"and subject to such terms and conditions as he may impose\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan-perkataan \"in default of the production of such authority such officer may refuse such permission\" dalam subseksyen (2) dengan perkataan-perkataan \"may at his absolute discretion grant or refuse such permission\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan- perkataan \"to comply with\" dalam subseksyen (4), perkataan-perkataan \"the terms and conditions imposed pursuant to subsection (1) or\". Penggantian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 91. 91 dengan yang berikut: 91. Notwithstanding anything contained in section 90 the person in charge of any goods imported or exported by road shall be deemed to be the agent of the importer or exporter, as the case may be.\". Penggantian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 99. 99 dengan yang berikut: 99. (1) Where any imported goods are re-exported \"Drawback on by the manufacturer as part or ingredient of any imported goods used goods manufactured in Malaysia or as the packing, in manu- or part or ingredient of the packing, of such facture or in packing. manufactured goods, then, if customs duty has been paid on such imported goods, the Director General may, on such re-export, allow to the manufacturer a full drawback of the duty so paid, if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "the finished goods exported have been manufactured on premises approved by the Director General;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "such books and account are kept as the Director General may require for the purpose of ascertaining the quantity of the goods used in such manufacture or for or in the packing of such manufactured goods;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "such goods are re-exported within twelve months of the date upon which the import duty was paid or such further period as the Director General may approve; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "written notice has been given on the export declaration form that a claim for drawback will be made, and such claim is made in the prescribed form and established to the satisfaction of a senior officer of customs within six months of the date of such re- export or such further period as the Director General may approve."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "In this section the expression \"manufacturer\" includes any person to whom the manufactured goods have been sold or otherwise disposed of.\". Pmdaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_14__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_14__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 115 Akta ibu adalah dipinda— seksyen 115."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_14__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan- perkataan \"section 127 (1A)\" dalam perenggan (b) subseksyen (1), perkataan-perkataan \"or 128 (4)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_14__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_14",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perkataan \"perishable\" dalam perenggan (c) subseksyen itu, perkataan-perkataan \"or dangerous\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 127 Akta ibu adalah dipinda dengan memasukkan seksyen 127. selepas sahaja perkataan \"paragraph\" dalam barisan pertama subseksyen (1A) perkataan-perkataan \"(a) or\". Penggantian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 128. 128 dengan yang berikut: \"Goods 128. (1) If there be no prosecution with regard to seized any goods seized under this Act, such goods or the or in respect of proceeds of sale of such goods which are held which there pursuant to paragraph (c) of subsection (1) of section is no prosecution, 115 shall be taken and deemed to be forfeited at the or the expiration of one calendar month from the date of proceeds of sale seizure of the goods unless before such expiration— thereof, are forfeited (a) a claim to such goods or the proceeds of sale if not of such goods is made under subsection (2); claimed within one month. (b) a written application is made for the return of such goods under paragraph (a) or (b) of subsection (1) of section 115; or (c) such goods are returned under the said paragraph (a) or (b). (2) Any person asserting that he is the owner of such goods or the proceeds of sale of such goods, as the case may be, and that they are not liable to forfeiture may give written notice to a senior officer of customs that he claims the same. (3) On the expiration of the period mentioned in subsection (1), or, if a decision is made earlier that there be no prosecution with regard to the goods, on the making of the decision the senior officer of customs shall, if such goods or the proceeds of sale of such goods are not taken and deemed to be forfeited under that subsection, refer the claim to the Director General who may direct that such goods or the proceeds of sale of such goods or the security furnished under paragraph (a) or (b) of subsection (1) of section 115, as the case may be, be released, or may direct such senior officer of customs, by information in the prescribed form, to refer the matter to a Magistrate of the First Class for his decision. (4) The Magistrate of the First Class shall issue a summons requiring the person asserting that he is the owner of the goods or the proceeds of sale of such goods, and the person from whom the goods were seized, to appear before him, and upon their appearance or default to appear, due service of such summons being proved, the Magistrate of the First Class shall proceed to the examination of the matter, and upon proof that an offence against this Act or any regulations made thereunder has been com- mitted and that such goods were the subject matter, or were used in the commission, of such offence, shall order such goods or the proceeds of sale of such goods or the amount secured under paragraph (a) or (b) of subsection (1) of section 115, as the case may be, to be forfeited, or in the absence of such proof, may order the release of such goods or the proceeds of sale of such goods or the security furnished under paragraph (a) or (b) of subsection (1) of section 115, as the case may be. (5) In any proceedings under subsection (4), section 119 shall apply to the person asserting that he is the owner of the goods and to the person from whom they were seized as if such owner or person had been the defendant in a prosecution under this Act.\". 8 RANG UNDANG-UNDANG Penggantian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan menggantikan seksyen seksyen 129. 129 dengan yang berikut: \"Goods or, 129. The Minister may, upon application made to amount him in writing through the Director General, order— secured maybe delivered or (a) any goods seized under this Act; or refunded to the owner or other (b) any amount secured under paragraph (a) or person. (b) of subsection (1) of section 115 or the amount realized by sale under paragraph (c) of the said subsection (1); whether forfeited, or taken and deemed to be forfeited pursuant to section 127 or 128, to be delivered or refunded, as the case may be, to the owner or other person entitled thereto upon such terms and conditions as he may deem fit: Provided that any such application shall be made before the expiration of one calendar month from the date on which such goods or amount are forfeited or are taken and deemed to be forfeited, as the case may be.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_18__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_18__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 131 Akta ibu adalah dipinda— seksyen 131."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_18__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"two\" dalam subseksyen (1) dengan perkataan \"five\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_18__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di hujung subseksyen (3) dengan noktah bertindih dan memasukkan selepas itu proviso yang berikut: \"Provided that where the prohibition is conditional upon a licence being issued in respect of the import of such goods, a senior officer of customs may release such goods if a licence is subsequently issued by any relevant authority.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 138 Akta ibu adalah dipinda dengan mengganti- seksyen 138. kan perkataan \"four\" dengan perkataan \"five\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta Kastam 1967, yang disebut \"Akta ibu\" seksyen 2. dalam Akta ini, adalah dipinda— Akta 235."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_20__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_20__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 142 Akta ibu adalah dipinda— seksyen 142."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_20__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja perenggan (34), perenggan baru (35) yang berikut: \"(35) to regulate the conduct of all matters relating to duty free shops;\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_20__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_20",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula perenggan (35) yang sedia ada sebagai perenggan (36)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahajatakrif'dutiable goods\", takrif baru yang berikut: ' \"duty free shop\" means any place licensed for the warehousing and sale of dutiable goods free of duty under section 65D;'; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan, selepas sahaja takrif \"importer\", takrif baru yang berikut: \"inland clearance depot\" means a common- user inland facility equipped with fixed installations and offering services for handling and temporary storage of any kind of goods carried in transit by land and placed under customs control;'; Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu adalah dipinda dengan menggantikan seksyen 3. perkataan-perkataan \"section 22\" dalam subseksyen (3) dengan perkataan-perkataan \"sections 22 and 145\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu adalah dipinda— seksyen 17."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen itu sebagai \"17. (1)\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas sahaja itu subseksyen baru (2) yang berikut: \"(2) Where any amount is payable in accordance with subsection (1) the Director General may allow the amount to be paid by instalments in such amounts and on such dates as he may determine.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu adalah dipinda dengan menggantikan seksyen 18. perkataan-perkataan \"by unavoidable accident, lost, damaged or destroyed\" dalam subseksyen (1) dengan perkataan- perkataan \"damaged, destroyed, or by unavoidable accident, lost\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 44 Akta ibu adalah dipinda dengan memotong Pindaan seksyen 44. perkataan-perkataan \"the President of a Sessions Court in West Malaysia or\" dan perkataan-perkataan \"in the States of Sabah and Sarawak\" dalam subseksyen (3). Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 55 Akta ibu adalah dipinda— seksyen 55."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"one\" di baris keenam subseksyen (2) dengan perkataan \"five\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"one\" di baris akhir subseksyen (2) dengan perkataan \"two\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan-perkataan \"a Sessions Court in West Malaysia or\" dan perkataan-perkataan \"in Sabah and Sarawak\" dalam subseksyen (3). Seksyen baru"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan, selepas 65o dan 65E. sahaja seksyen 65c, seksyen baru 65o dan 65E yang berikut: \"Licensing 65D (1) The Director General may at his absolute of duly free discretion on payment of such fee as may be shop. prescribed, grant a licence to operate a duty free shop to any person, hereinafter in this section referred to as \"the licensee\", and when granted, may suspend or withdraw such licence. (2) Any such licence shall be for such period and subject to such conditions as the Director General in each case may specify in the licence. (3) The licensee shall, for the proper conduct of his business, furnish such security as may be required by the Director General. (4) If it appears at any time that any goods have been sold or removed from such duty free shop otherwise than in accordance with all the conditions of a licence granted under this section, the licensee of such duty free shop shall, in the absence of proof to the contrary, be presumed to have illegally removed such goods and shall, without prejudice to any proceedings under this Act, be liable to pay to the proper officer of customs the customs duty leviable on the goods sold or removed. Licensing 65E. (1) The Director General may at his absolute of inland discretion on payment of such fee as may be clearance depot. prescribed, grant a licence to operate an inland clearance depot to any person, hereinafter in this section referred to as \"the licensee\", and when granted,-may suspend or withdraw such licence. (2) Any such licence shall be for such period and subject to such conditions as the Director General in each case may specify in the licence. (3) The licensee shall, for the proper conduct of his business, furnish such security as may be required by the Director General. (4) If it appears at any time that in any inland clearance depot there is a deficiency in the quantity of dutiable goods which ought to be found therein, the licensee of such inland clearance depot shall, in the absence of proof to the contrary, be presumed to have illegally removed such goods and shall, without prejudice to any proceedings under this Act, be liable to pay to the proper officer of customs the customs duty leviable on the goods found deficient: Provided that if it is shown to the satisfaction of the Director General that such deficiency has been caused by any leakage, breakage or other unavoidable accident, the Director General may remit the whole or any part of the customs duty leviable on the goods found deficient.\". Pindaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1990/23/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 66 Akta ibu adalah dipinda dengan memasukkan, seksyen 86. selepas sahaja subseksyen (4), subseksyen baru (5) yang berikut: \"(5) Notwithstanding anything contained in sub- section (1), if the Director General is of the opinion that having regard to any particular goods imported into Malaysia it would be in the public interest not to require such goods to be deposited by the importer or his agent in accordance with the said subsection, he may direct such goods to be released subject to such conditions as he may impose.\". Pindaan"
+      }
+    }
+  ]
+}

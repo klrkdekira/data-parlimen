@@ -1,0 +1,180 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-5-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Kesalahan-Kesalahan Penerbangan (Pindaan) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kesalahan-Kesalahan Penerbangan (Pindaan) 2005."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan tajuk panjang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kesalahan-Kesalahan Penerbangan 1984 [Akta 307], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam tajuk panjang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong perkataan \"dan\" yang terdapat selepas perkataan \"16 Disember 1970,\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perkataan \"23 September 1971,\" perkataan \"dan Protokol bagi Pembanterasan Tindakan-Tindakan Keganasan dengan Menyalahi Undang- Undang di Lapangan Terbang Yang Menyediakan Penerbangan Awam Antarabangsa, yang dibuat di Montreal pada 24 Februari 1988\". Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Perenggan 2(3)(b) Akta ibu dipinda dengan menggantikan perkataan \"juga pada bila-bila masa yang tidak terjatuh dalam tempoh itu tatkala, mengikut perenggan (a), pesawat udara itu berada dalam penerbangan\" dengan perkataan \"tempoh itu hendaklah dalam apa-apa hal termasuk keseluruhan tempoh semasa pesawat udara itu berada dalam penerbangan sebagaimana yang dinyatakan dalam perenggan (a)\". Pindaan tajuk Bahagian IV"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tajuk Bahagian IV Akta ibu dipinda dengan memasukkan selepas perkataan \"23 SEPTEMBER 1971\" perkataan \"DAN PROTOKOL BAGI PEMBANTERASAN TINDAKAN-TINDAKAN KEGANASAN DENGAN MENYALAHI UNDANG-UNDANG DI LAPANGAN TERBANG YANG MENYEDIAKAN PENERBANGAN AW AM ANTARABANGSA, YANG DIBUAT DI MONTREAL PADA 24 FEBRUARI 1988\". Seksyen baru 10A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian IV Akta ibu dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut: \"Tindakan keganasan berhubung dengan lapangan terbang yang menyediakan penerbangan awam antarabangsa 10A.(1) Tertakluk kepada subseksyen(3),seseorang melakukan suatu kesalahan di bawah Akta ini jika dia dengan menyalahi undang-undang dan dengan sengaja, menggunakan apa-apa peranti, bahan atau senjata— (a) melakukan suatu tindakan keganasan terhadap seseorang di lapangan terbang yang menyediakan penerbangan awam antarabangsa yang menyebabkan atau yang berkemungkinan menyebabkan kecederaan serius atau kematian; atau (b) memusnahkan atau merosakkan dengan serius apa-apa kemudahan sesuatu lapangan terbang yang menyediakan penerbangan awam antarabangsa atau pesawat udara yang tidak dalam perkhidmatan yang terletak di lapangan terbang itu atau mengganggu perkhidmatan lapangan terbang itu, dan tindakan itu membahayakan atau berkemungkinan membahayakan keselamatan di lapangan terbang itu. (2) Kecuali sebagaimana yang diperuntukkan oleh subseksyen (3), subseksyen (1) terpakai sama ada apa-apa tindakan yang disebut dalam subseksyen (1) dilakukan di Malaysia atau di tempat lain, tidak kira apa jua pun Negara pendaftaran pesawat udara itu atau tidak kira apa jua kerakyatan atau kewarganegaraan orang yang melakukan tindakan itu. (3) Subseksyen (1) tidak terpakai bagi apa-apa tindakan yang dilakukan berhubung dengan pesawat udara yang digunakan dalam perkhidmatan tentera, kastam atau polis melainkan jika— (a) tindakan itu dilakukan di Malaysia; atau (b) di mana tindakan itu dilakukan di luar Malaysia, orang yang melakukan tindakan itu ialah warganegara Malaysia.\". Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan menggantikan perkataan \"seksyen itu\" dengan perkataan \"seksyen 9\";"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan menggantikan perkataan \"seksyen itu,\" dengan perkataan \"seksyen 10; atau\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/5/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (c) perenggan yang berikut: \"(d) jika tidak kerana subseksyen 10A(3),akan menjadi suatu kesalahan di bawah seksyen 10A,\"."
+      }
+    }
+  ]
+}

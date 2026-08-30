@@ -1,0 +1,497 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-25-2009",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Cukai Aktiviti Perniagaan Luar Pesisir Labuan (Pindaan) 2009"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan (Pindaan) 2009."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan tajuk panjang"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990 [Akta 4 4 5 ] , yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam tajuk panjang dengan menggantikan perkataan \"aktiviti perniagaan luar pesisir yang dijalankan oleh suatu syarikat luar pesisir\" dengan perkataan \"aktiviti perniagaan Labuan yang dijalankan oleh suatu entiti Labuan\". Pindaan seksyen 1"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 1(1) Akta ibu dipinda dengan memotong perkataan \"Luar Pesisir\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika, pada dan selepas tarikh permulaan kuat kuasa Akta ini, sebutan dibuat dalam mana-mana undang-undang bertulis mengenai Akta Cukai Aktiviti Perniagaan Luar Pesisir Labuan 1990, sebutan itu hendaklah ditafsirkan sebagai sebutan mengenai Akta Cukai Aktiviti Perniagaan Labuan 1990. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1__para_a"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 2 Akta ibu dipinda- ( a ) dalam subseksyen (1)- \"aktiviti perniagaan luar luar pesisir\" dan \"bank luar pesisir Malaysia berlesen\"; ' \"aktiviti bukan perdagangan Labuan\" ertinya suatu aktiviti berhubungan dengan pemegangan pelaburan dalam sekuriti, saham, syer, pinjaman, deposit atau apa-apa harta yang lain oleh suatu entiti Labuan bagi pihaknya sendiri; \"aktiviti perdagangan Labuan\" perbankan, insurans, perdagangan, pengurusan, pelesenan, operasi perkapalan atau apa-apa aktiviti lain yang bukan suatu aktiviti bukan perdagangan Labuan; \"aktiviti perniagaan Labuan\" ertinya suatu aktiviti perdagangan Labuan atau aktiviti bukan perdagangan Labuan yang dijalankan di, dari atau melalui, Labuan menggunakan suatu mata wang selain mata wang Malaysia, oleh suatu entiti Labuan dengan bukan pemastautin atau dengan entiti Labuan yang lain: Dengan syarat-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berhubung dengan suatu entiti Labuan yang menjalankan apa-apa perniagaan di bawah Bahagian VI dan VII Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2009 [Akta ] dan di bawah"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong takrif \"aktiviti bukan perdagangan luar pesisir\", \"aktiviti perdagangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan sebelum takrif \"Ketua Pengarah\" takrif yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_26",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "dan VII Akta Perkhidmatan"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Kewangan dan Sekuriti Islam Labuan 2009 [Akta ] , aktiviti itu bolehlah dijalankan dengan pemastautin, dan jika dibenarkan, bolehlah dijalankan dengan menggunakan mata wang Malaysia; ( b ) berhubung dengan pelaburan oleh suatu entiti Labuan dalam syarikat domestik, pemegangan itu bolehlah dengan pemastautin dan dalam mata wang Malaysia; ( c ) tertakluk kepada berhubung dengan pemegangan obligasi hutang oleh suatu entiti Labuan dalam suatu syarikat domestik, pemegangan itu bolehlah dalam mata wang Malaysia; ( d ) berhubung dengan operasi perkapalan, operasi itu bolehlah dijalankan di Labuan atau di luar Malaysia; ( e ) tertakluk kepada berhubung dengan penjalanan apa-apa aktiviti dengan pemastautin di bawah subseksyen 7(4) Akta Syarikat Labuan 1990 [Akta 4 4 1 ] , aktiviti itu bolehlah dijalankan menggunakan mata wang Malaysia; dan (f) berhubung dengan penjalanan apa-apa transaksi lain, urusan dijalankan dengan pemastautin atau dengan menggunakan mata wang Malaysia sebagaimana yang diluluskan oleh Menteri di bawah seksyen 2A Akta ini; \"entiti Labuan\" ertinya entiti yang dinyatakan dalam Jadual;'; (iii) dalam takrif \"orang\", dengan menggantikan perkataan \"syarikat\" dengan perkataan \"perbadanan\"; takrif \"perkongsian (iv) dengan memotong luar pesisir\", \"perniagaan bank luar pesisir\" dan \"perniagaan insurans luar pesisir\"; (v) dalam takrif \"syarikat domestik\", dengan menggantikan perkataan \"Luar Pesisir\" dengan \"Labuan\"; (vi) dengan memasukkan selepas takrif \"syarikat domestik\" takrif yang berikut ' \"syarikat Labuan\" ertinya suatu syarikat Labuan yang diperbadankan di bawah Akta Syarikat Labuan 1990, dan termasuk suatu syarikat Labuan asing yang berdaftar di bawah Akta itu;'; dan (vii) dengan memotong takrif \"syarikat luar pesisir\"; ( b ) dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) Jika suatu entiti Labuan menjalankan kedua-dua aktiviti perdagangan Labuan dan perdagangan Labuan, entiti itu hendaklah disifatkan sebagai menjalankan suatu aktiviti perdagangan Labuan.\"; dan ( c ) dalam subseksyen (3)- (i) dalam perenggan ( a ) dan ( d ) , dengan menggantikan perkataan \"aktiviti perniagaan luar pesisir\" dan \"suatu syarikat luar pesisir\" masing-masing dengan perkataan \"aktiviti perniagaan Labuan\" dan \"suatu entiti Labuan\"; selepas koma bernoktah di (ii) dengan memasukkan hujung perenggan ( a ) perkataan \"dan\"; dan (iii) dengan memotong perenggan ( c ) . (Pindaan) Seksyen baru 2A dan 2B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 6 Akta ibu dipinda dengan menggantikan perkataan \"syarikat luar pesisir\"di mana-mana jua terdapat dengan perkataan \"entiti Labuan\". Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam subseksyen (1), dengan menggantikan perkataan \"suatu syarikat luar pesisir\", \"suatu aktiviti perniagaan luar pesisir\" dan \"aktiviti perdagangan luar pesisir\" masing-masing dengan perkataan \"suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\" dan \"aktiviti perdagangan Labuan\"; ( b ) dalam subseksyen (2), dengan menggantikan perkataan \"Suatu syarikat luar pesisir\" dengan perkataan \"Suatu entiti Labuan\"; dan ( c ) dalam subseksyen (3), dengan menggantikan perkataan \"suatu syarikat luar pesisir\" dengan perkataan \"suatu entiti Labuan\". Pindaan seksyen 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 8 Akta ibu dipinda-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam subseksyen (1), dengan menggantikan perkataan \"suatu syarikat luar pesisir\", \"suatu aktiviti perniagaan luar pesisir\", \"aktiviti perdagangan luar pesisir\" dan \"syarikat luar pesisir itu\" masing-masing dengan perkataan \"suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\", \"aktiviti perdagangan Labuan\" dan \"entiti Labuan itu\"; dan ( b ) dalam subseksyen (2), dengan menggantikan perkataan \"Suatu syarikat luar pesisir\" dengan perkataan \"Suatu entiti Labuan\". Pindaan seksyen 8A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 8A Akta ibu dipinda-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam subseksyen (1), dengan menggantikan perkataan \"syarikat luar pesisir\" dengan perkataan \"entiti Labuan\"; dan ( b ) dalam subseksyen (2), dengan menggantikan perkataan \"syarikat luar pesisir itu\" dengan perkataan \"entiti Labuan itu\". Pindaan seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 9 Akta ibu dipinda-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam nota bahu, dengan menggantikan perkataan \"luar pesisir\" dengan perkataan \"Labuan\"; dan ( b ) dengan menggantikan perkataan \"suatu syarikat luar pesisir\", \"suatu aktiviti perniagaan luar pesisir\" dan \"aktiviti bukan perdagangan luar pesisir\" masing-masing dengan perkataan \"suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\" dan \"aktiviti bukan perdagangan Labuan\". Pindaan seksyen 10"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 10 Akta ibu dipinda-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam nota bahu, dengan menggantikan perkataan \"luar pesisir\" dengan perkataan \"Labuan\"; dan ( b ) dengan menggantikan perkataan \"Suatu syarikat luar pesisir\", \"suatu aktiviti perniagaan luar pesisir\" dan \"aktiviti bukan perdagangan luar pesisir\" masing-masing dengan perkataan \"Suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\" dan \"aktiviti bukan perdagangan Labuan\". Pindaan seksyen 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 11 Akta ibu dipinda dengan menggantikan perkataan \"Suatu syarikat luar pesisir\" dengan perkataan \"Suatu entiti Labuan\". Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda dengan menggantikan perkataan \"syarikat luar pesisir\" dengan perkataan \"entiti Labuan\". Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 13(1) Akta ibu dipinda dengan menggantikan perkataan \"suatu syarikat luar pesisir\" dan \"syarikat luar pesisir itu\" masing-masing dengan perkataan \"suatu entiti Labuan\" dan \"entiti Labuan itu\". Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda dengan menggantikan perkataan \"Syarikat luar pesisir\" dengan perkataan \"Suatu entiti Labuan\". Pindaan seksyen 16"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 16 Akta ibu dipinda-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dengan menggantikan perkataan \"suatu syarikat luar pesisir\" dengan perkataan \"suatu entiti Labuan\"; ( b ) dalam perenggan ( b ) , dengan menggantikan perkataan \"Luar Pesisir\" dengan perkataan \"Labuan\"; ( c ) dengan memotong perkataan \"dan\" di hujung perenggan ( f ) ; dan ( d ) dengan memasukkan selepas perenggan ( g ) perenggan yang berikut: \"(h) dalam hal suatu perkongsian terhad Labuan yang ditubuhkan di bawah Akta Perkongsian Terhad Labuan dan Perkongsian Liabiliti Terhad Labuan 2009 [Akta ] atau suatu perkongsian terhad Islam Labuan yang ditubuhkan di bawah Bahagian X Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009, pekongsi atau pekongsi-pekongsi umum; ( i ) dalam hal suatu perkongsian liabiliti terhad yang ditubuhkan di bawah Akta Perkongsian Terhad dan Perkongsian Liabiliti Terhad Labuan atau perkongsian liabiliti terhad Islam yang ditubuhkan di bawah Bahagian X Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009, pekongsi atau pekongsi- pekongsi yang ditentukan; dan ( j ) dalam hal suatu yayasan Labuan, pegawai atau pegawai- pegawainya.\". Seksyen baru 17A dan 17B"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 17 seksyen yang berikut: \"Kuasa Ketua Pengarah untuk mengeluarkan garis panduan 17A. (1) Ketua Pengarah boleh, secara amnya berkenaan Akta ini atau berkenaan mana-mana peruntukan tertentu Akta ini, mengeluarkan garis panduan yang difikirkan suai manfaat atau perlu oleh Ketua Pengarah untuk menjelaskan peruntukan Akta ini atau untuk memudahkan pematuhan undang-undang atau apa-apa perkara lain yang berhubungan dengan Akta ini. (2) Ketua Pengarah boleh membatalkan, mengkaji semula atau meminda keseluruhan atau mana-mana bahagian mana-mana garis panduan yang dikeluarkan di bawah seksyen ini. Arahan pendahuluan 17B. (1) Tertakluk kepada seksyen ini atau apa-apa peraturan-peraturan yang dibuat di bawah Akta ini, atas permohonan yang dibuat oleh mana-mana orang, Ketua Pengarah hendaklah membuat suatu arahan pendahuluan tentang pemakaian mana-mana peruntukan Akta ini bagi orang itu dan bagi perkiraan yang baginya arahan itu diminta. (2) Sesuatu permohonan di bawah subseksyen (1) hendaklah dibuat dalam borang yang akan disediakan oleh Ketua Pengarah dan hendaklah mengandungi butir-butir sebagaimana yang dikehendaki oleh Ketua Pengarah. (3) Ketua Pengarah boleh pada bila-bila masa menarik balik mana- mana arahan pendahuluan yang dibuat di bawah subseksyen (1) dengan memberikan suatu notis bertulis tentang penarikan balik itu kepada orang yang baginya arahan itu terpakai. (4) Walau apa pun apa-apa peruntukan lain Akta ini, jika suatu arahan pendahuluan itu terpakai bagi mana-mana orang berhubung dengan suatu perkiraan dan orang itu memakai peruntukan itu mengikut cara yang dinyatakan dalam arahan itu, Ketua Pengarah hendaklah memakai peruntukan berhubung dengan orang dan perkiraan itu mengikut arahan itu. (5) Sesuatu arahan pendahuluan tentang mana-mana peruntukan Akta ini hendaklah terpakai bagi seseorang berhubung dengan suatu perkiraan jika peruntukan itu disebut dengan nyata dalam arahan itu dan bagi tempoh asas bagi tahun taksiran yang baginya arahan itu terpakai. (6) Sesuatu arahan yang dibuat di bawah subseksyen (1) tidak terpakai bagi seseorang berhubung dengan sesuatu perkiraan jika- ( a ) perkiraan itu berbeza secara material daripada perkiraan yang dinyatakan dalam arahan itu; ( b ) terdapat peninggalan atau salah nyata material dalam atau berkaitan dengan pemakaian arahan itu; ( c ) Ketua Pengarah membuat suatu andaian tentang suatu peristiwa akan datang atau perkara lain yang material kepada arahan itu, dan andaian itu kemudiannya terbukti silap; atau ( d ) orang itu tidak memenuhi mana-mana syarat yang dinyatakan oleh Ketua Pengarah.\". Pindaan seksyen 20"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 20 Akta ibu dipinda dengan menggantikan perkataan \"lima ribu ringgit\" dengan perkataan \"satu juta ringgit\". Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda -"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: \"(1) Bagi maksud Akta ini, Ketua Pengarah boleh melalui notis bertulis menghendaki mana-mana orang memberi apa-apa maklumat atau butir sebagaimana yang dikehendaki olehnya atau untuk pematuhan bagi apa-apa perkiraan cukai dua kali yang dibuat oleh Kerajaan Malaysia.\"; dan ( b ) dalam subseksyen (2), dengan menggantikan perkataan \"tiga ribu ringgit\" dengan perkataan \"satu juta ringgit\". Seksyen baru 22A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 22 seksyen yang berikut: \"Penzahiran maklumat dalam keadaan tertentu 22A. (1) Seksyen 20 tidak boleh menghalang— ( a ) penzahiran maklumat berkenaan dengan perkiraan pencukaian dua kali kepada seorang pekhidmat atau ejen Kerajaan yang diberi kuasa yang dengannya perkiraan itu telah dibuat jika maklumat itu dikehendaki untuk dizahirkan dalam perkiraan itu; dan ( b ) penzahiran maklumat yang diminta oleh mana-mana pihak berkuasa cukai mana-mana Kerajaan mana-mana wilayah di luar Malaysia. (2) Bagi maksud subseksyen (1), suatu \"perkiraan pencukaian dua kali\" ertinya suatu perkiraan antara Kerajaan Malaysia dengan mana- mana Kerajaan mana-mana wilayah di luar Malaysia di bawah seksyen 132 Akta Cukai Pendapatan 1967.\". Cukai Aktiviti Perniagaan Luar Pesisir Labuan 13(Pindaan) Pindaan seksyen 23"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 23 Akta ibu dipinda-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam teks bahasa kebangsaan, dengan menggantikan perkataan \"selama tempoh\" dengan perkataan \"tidak melebihi\"; dan ( b ) dengan menggantikan perkataan \"lima ribu ringgit\" dengan perkataan \"satu juta ringgit\". Pindaan seksyen 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 25 Akta ibu dipinda dengan menggantikan perkataan \"sepuluh ribu ringgit\" dengan perkataan \"satu juta ringgit\". Pindaan seksyen 26"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 26(1) Akta ibu dipinda dengan menggantikan perkataan \"syarikat luar pesisir\" dan \"syarikat itu\" masing-masing dengan perkataan \"entiti Labuan\" dan \"entiti itu\". Seksyen baru 27 dan 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 26 seksyen yang berikut: \"Penyampaian dokumen 27. Apa-apa dokumen, selain notis tuntutan yang dikeluarkan di bawah seksyen 13, yang dikehendaki untuk disampaikan kepada suatu entiti Labuan bagi maksud Akta ini, hendaklah disifatkan telah disampaikan dengan sepatutnya kepada entiti Labuan itu dengan meninggalkannya di, atau menghantarnya dengan pos kepada, pejabat berdaftar entiti Labuan itu. Tatacara apabila tiada yang dinyatakan 28. Sekiranya apa-apa perbuatan atau tatacara dikehendaki atau dibenarkan untuk dilakukan atau dibuat di bawah Akta ini dan tiada cara ditetapkan atau tatacara dinyatakan sama ada dalam Akta ini atau peraturan-peraturan yang dibuat di bawah Akta ini, permohonan boleh dibuat kepada Ketua Pengarah untuk mendapatkan arahan tentang cara yang mengikutnya perbuatan atau tatacara itu boleh dilakukan atau dibuat, dan apa-apa perbuatan atau tatacara yang dilakukan atau dibuat mengikut arahannya hendaklah menjadi pelaksanaan yang sah bagi perbuatan atau tatacara itu.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 28 yang dimasukkan melalui seksyen 28 Akta ini Jadual yang berikut: \"JADUAL [Seksyen 2B] ENTITI LABUAN 1. Suatu syarikat Labuan 2. Suatu yayasan Labuan yang ditubuhkan dan didaftarkan di bawah Akta Yayasan Labuan 2009 [Akta ] 3. Suatu yayasan Islam Labuan yang ditubuhkan dan didaftarkan di bawah Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009 4. Suatu perkongsian Islam Labuan sebagaimana yang ditakrifkan dalam Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009 5. Suatu perkongsian terhad Labuan yang ditubuhkan dan didaftarkan di bawah Akta Perkongsian Terhad dan Perkongsian Liabiliti Terhad Labuan 2009 6. Suatu perkongsian liabiliti terhad yang ditubuhkan dan didaftarkan di bawah Akta Perkongsian Terhad dan Perkongsian Liabiliti Terhad Labuan 2009 7. Suatu amanah Islam sebagaimana yang ditakrifkan dalam Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009 8. Suatu amanah Labuan sebagaimana yang ditakrifkan dalam Akta Amanah Labuan 1996 [Akta 554] 9. Pemegang lesen suatu bank Islam Malaysia sebagaimana yang ditakrifkan dalam Akta Perkhidmatan Kewangan dan Sekuriti Islam Labuan 2009 10. Pemegang lesen suatu bank Malaysia sebagaimana yang ditakrifkan dalam Akta Perkhidmatan Kewangan dan Sekuriti Labuan 2009 11. Mana-mana institusi kewangan Labuan yang ditakrifkan dalam Akta Lembaga Perkhidmatan Kewangan Labuan 1996 [Akta 545] 12. Mana-mana orang yang diisytiharkan oleh Menteri sebagai suatu entiti Labuan di bawah subseksyen 2B(2)\". Cukai Aktiviti Perniagaan Luar Pesisir Labuan 15 (Pindaan)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bahagian I Akta ibu dipinda dengan memasukkan selepas seksyen 2 seksyen yang berikut: \"Penetapan aktiviti perniagaan Labuan 2A. (1) Menteri boleh, dengan syor Ketua Pengarah, secara bertulis, menetapkan apa-apa aktiviti yang dijalankan oleh mana-mana entiti Labuan sebagai suatu aktiviti perniagaan Labuan. (2) Dalam menetapkan suatu aktiviti perniagaan Labuan di bawah subseksyen (1), Menteri boleh meluluskan penjalanan aktiviti itu dengan pemastautin atau dengan menggunakan mata wang Malaysia. Entiti Labuan 2B. (1) Entiti Labuan adalah seperti yang dinyatakan dalam Jadual. (2) Menteri boleh, dengan syor Ketua Pengarah, melalui perintah yang disiarkan dalam Warta, meminda Jadual termasuk bagi maksud mengisytiharkan mana-mana orang lain sebagai suatu entiti Labuan.\". Pindaan seksyen 3"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3 Akta ibu dipinda-"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam nota bahu, dengan menggantikan perkataan \"luar pesisir\" dengan perkataan \"Labuan\"; dan ( b ) dengan menggantikan perkataan \"suatu syarikat pesisir\", \"suatu aktiviti perniagaan luar pesisir\" dan \"aktiviti perniagaan luar pesisir itu\" masing-masing dengan perkataan \"suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\" dan \"aktiviti perniagaan Labuan itu\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 3A Akta ibu dipinda—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam nota bahu, dengan menggantikan perkataan \"luar pesisir\" dengan perkataan \"Labuan\"; dan ( b ) dalam subseksyen (1), dengan menggantikan perkataan \"sesuatu syarikat luar pesisir\", \"suatu aktiviti perniagaan luar pesisir\", \"syarikat luar pesisir itu\" dan \"aktiviti perniagaan luar pesisir itu\" masing-masing dengan perkataan \"suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\", \"entiti Labuan itu\" dan \"aktiviti perniagaan Labuan itu\". Pindaan seksyen 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 4 Akta ibu dipinda—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( a ) dalam nota bahu, dengan menggantikan perkataan \"luar pesisir\" dengan perkataan \"Labuan\"; ( b ) dalam subseksyen (1), dengan menggantikan perkataan \"suatu syarikat luar pesisir\", \"suatu aktiviti perniagaan luar pesisir\" dan \"aktiviti perdagangan luar pesisir\" masing-masing dengan perkataan \"suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\" dan \"aktiviti perdagangan Labuan\"; dan ( c ) dalam subseksyen (2), dengan menggantikan perkataan \"suatu syarikat luar pesisir\", \"suatu aktiviti perniagaan luar pesisir\", \"aktiviti perdagangan luar pesisir\", \"aktiviti perdagangan luar pesisir sedemikian\" dan \"syarikat luar pesisir itu\" masing-masing dengan perkataan \"suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\", \"aktiviti perdagangan Labuan\", \"aktiviti perdagangan Labuan sedemikian\" dan \"entiti Labuan itu\". Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2009/25/msa@/~part_VI",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda dengan menggantikan perkataan \"Suatu syarikat luar pesisir\", \"suatu aktiviti perniagaan luar pesisir\", \"aktiviti perdagangan luar pesisir\", \"syarikat luar pesisir itu\" masing-masing dengan perkataan \"Suatu entiti Labuan\", \"suatu aktiviti perniagaan Labuan\", \"aktiviti perdagangan Labuan\" dan \"entiti Labuan itu\". Pindaan seksyen 6"
+      }
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-13-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_10"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Eksais (Pindaan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Eksais (Pindaan) 2001. Pindaan seksyen 42"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 82(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"firma, pertubuhan atau lain-lain kumpulan orang\" yang pertama terdapat dengan perkataan \"sesuatu firma, sesuatu pertubuhan, sesuatu persatuan atau kumpulan orang yang lain\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"atau lain-lain kumpulan orang\" yang kedua terdapat dengan perkataan \", persatuan atau kumpulan orang yang lain\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Eksais 1976 [Akta 176], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam perenggan 42(2)(a) dengan menggantikan perkataan \"firma atau persatuan orang\" dengan perkataan \"suatu firma, suatu pertubuhan, suatu persatuan atau kumpulan orang yang lain\". Seksyen baru 53A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 53 seksyen yang berikut: \" Akses 53A. (1) Mana-mana pegawai eksais yang menjalankan kepada kuasanya di bawah seksyen 51, 52 dan 53 hendaklah maklumat berekod diberi akses kepada apa-apa maklumat berekod atau data atau data berkomputer, sama ada disimpan dalam komputer atau berkomputer. selainnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Sebagai tambahan, seseorang pegawai eksais yang menjalankan kuasanya di bawah seksyen 51,52 dan 53—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh memeriksa dan meneliti pengendalian mana- mana komputer dan apa-apa perkakas atau bahan yang berkaitan yang dia mempunyai sebab yang munasabah untuk mengesyaki digunakan atau telah digunakan berkaitan dengan maklumat atau data itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_b__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh menghendaki— supaya memberinya bantuan yang munasabah sebagaimana yang dikehendaki olehnya bagi maksud seksyen ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang pegawai eksais itu mempunyai sebab yang munasabah untuk mengesyaki menggunakan atau telah menggunakan komputer itu atau yang bagi pihaknya komputer itu digunakan atau telah digunakan sedemikian; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_2__para_b",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang menjaga, atau selainnya terlibat dalam, pengendalian komputer, perkakas atau bahan itu,"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (1), \"akses\" termasuklah diberi kata laluan, kod penyulitan, kod penyahsulitan, perisian atau perkakasan yang perlu dan apa-apa cara lain yang diperlukan untuk membolehkan maklumat berekod atau data berkomputer itu difahami.\". Pindaan seksyen 55"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 55(1) Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (b), dengan memasukkan selepas perkataan \"67(4)\" perkataan \", atau sekiranya amaun itu dilucuthakkan di bawah seksyen 69, mengikut mana-mana yang berkenaan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam perenggan (c), dengan memasukkan selepas perkataan \"tuntutan\" perkataan \", atau suatu pelucuthakan di bawah seksyen 69, mengikut mana-mana yang berkenaan\". Pindaan seksyen 56"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 56 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam proviso kepada subseksyen (1), dengan menggantikan perkataan \"seorang perempuan\" dengan perkataan \"seseorang perempuan lain dengan betul-betul mengambil kira kehendak kesopanan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: \"(4) Tiap-tiap orang yang ditangkap sedemikian boleh dilepaskan daripada jagaan— (a) apabila dia mendepositkan apa-apa jumlah wang yang munasabah sebagaimana yang dikehendaki oleh seorang pegawai eksais yang hak; (b) apabila dia menyempurnakan suatu bon, dengan suatu penjamin atau penjamin-penjamin, sebagaimana yang dikehendaki oleh seorang pegawai eksais yang hak; atau (c) apabila dia mendepositkan apa-apa jumlah wang yang munasabah sebagaimana yang dikehendaki oleh seorang pegawai eksais yang hak dan dia menyempurnakan suatu bon, dengan suatu penjamin atau penjamin-penjamin, sebagaimana yang dikehendaki oleh seorang pegawai eksais yang hak. (5) Mana-mana orang yang telah dilepaskan daripada jagaan di bawah subseksyen (4) boleh ditangkap tanpa waran oleh mana-mana pegawai eksais— (a) jika pegawai itu mempunyai alasan yang munasabah untuk mempercayai bahawa mana- mana syarat yang berdasarkannya atau yang tertakluk kepadanya orang itu telah dilepaskan atau selainnya dibenarkan dijamin telah atau mungkin dilanggar; atau (b) apabila diberitahu secara bertulis oleh penjamin orang itu bahawa orang itu mungkin melanggar mana-mana syarat yang berdasarkannya atau yang tertakluk kepadanya orang itu telah dilepaskan dan bahawa penjamin itu hendak dibebaskan daripada obligasinya sebagai penjamin.\". Pemotongan seksyen 57"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 57. Penggantian seksyen 60"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_7__subsec_3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 60 dengan seksyen yang berikut: \" Pemeriksaan 60. (1) Apabila apa-apa barang yang disyaki sebagai sebahagian berduti atau selainnya boleh kena disita telah disita, maka barang- barang memadailah dibuka dan diperiksa lima peratus sahaja yang daripada setiap jenis bungkusan atau bekas yang disita hendaklah mengandungi barang-barang itu. diterima oleh mahkamah. (2) Jika didapati perlu untuk menguji mana-mana barang yang disita di bawah Akta ini, maka memadailah diuji hanya suatu contoh yang tidak melebihi lima peratus isipadu atau berat barang-barang yang diperiksa di bawah subseksyen (1)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_7__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mahkamah hendaklah menganggap bahawa barang- barang yang terkandung dalam bungkusan-bungkusan atau bekas-bekas yang tidak dibuka itu adalah sama jenis, kuantiti dan kualitinya dengan barang-barang yang didapati dalam bungkusan-bungkusan atau bekas-bekas seumpamanya yang telah dibuka itu.\". Seksyen baru 63A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_8__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 63 seksyen yang berikut: \" Kewajipan 63A. (1) Kecuali sebagaimana yang diperuntukkan di kerahsiaan. bawah seksyen 64, nama dan alamat seseorang pemberi maklumat dan isi maklumat yang diterima daripada seseorang pemberi maklumat hendaklah dirahsiakan dan tidak boleh dizahirkan oleh mana-mana pegawai yang hak atau mana-mana orang yang dalam perjalanan biasa tugasnya memperoleh atau mengawal atau mendapat akses kepada maklumat itu kepada mana-mana orang kecuali pegawai eksais ditetapkan yang diberi kuasa oleh Ketua Pengarah."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana orang yang tidak mematuhi subseksyen (1) adalah bersalah atas suatu kesalahan terhadap Akta ini dan boleh, apabila disabitkan, dikenakan denda tidak lebih daripada sepuluh ribu ringgit atau penjara selama tempoh tidak lebih daripada lima tahun atau denda dan penjara itu kedua-duanya.\". Pindaan seksyen 69"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/13/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 69 Akta ibu dipinda dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: \"(2) Apabila jumlah wang yang sedemikian dibayar— (a) orang yang dengan semunasabahnya disyaki telah melakukan suatu kesalahan, jika dia berada dalam jagaan, hendaklah dilepaskan dan tiada prosiding selanjutnya boleh diambil terhadap orang itu; dan (b) apa-apa barang yang disita atau amaun yang dijamin di bawah perenggan (a) atau (b) subseksyen (1) seksyen 55 atau amaun yang dihasilkan melalui jualan di bawah perenggan (c) subseksyen (1) tersebut, mengikut mana- mana yang berkenaan, hendaklah dilucuthakkan dan tiada prosiding selanjutnya boleh diambil terhadap barang- barang itu: Dengan syarat bahawa Ketua Pengarah boleh atas permohonan orang yang berkenaan itu melepaskan barang-barang itu atau memulangkan balik amaun yang dijamin atau amaun yang dihasilkan melalui jualan, mengikut mana-mana yang berkenaan, apabila amaun itu dibayar dan di bawah apa-apa terma dan syarat yang didapati patut olehnya.\". Pindaan seksyen 82"
+      }
+    }
+  ]
+}

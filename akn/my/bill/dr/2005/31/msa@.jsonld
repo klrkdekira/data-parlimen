@@ -1,0 +1,79 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-31-2005",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Pengangkutan Jalan (Pindaan) 2005"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_1__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(l)Akta ini bolehlah dinamakan Akta Pengangkutan Jalan (Pindaan) 2005."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Pengangkutan Jalan 1987 [Akta 333], yang disebut \"Akta ibu\" dalam Akta ini, dipinda dalam seksyen 2 dengan memasukkan selepas takrif \"lalulintas\" takrif yang berikut: ' \"lapangan terbang\"' mempunyai erti yang samayang diberikan kepadanya oleh Akta Penerbangan Awam 1969 [Akta 3;’ Seksyen baru 110A"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2005/31/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 110 seksyen yang berikut: \"Memujuk atau mendesak 110A. ( 1 ) Mana-mana orang yang. tanpa kuasa yang sah, memujuk atau mendesak bagi maksud menawarkan perkhidmatan yang berkaitan dengan menerima sevva atau ganjaran untuk mengangkut penumpang atau berulang-alik untuk sewa atau ganjaran, sama ada atau tidak dilakukan oleh orang itu, di mana-mana tempat a warn atau kawasan sampingannya atau di sekitar tempat itu, metakukan suatu kesalahan dan boieh apabifa disabitkan didenda tidak melebihi iima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun, atau kedua-duanya. (2) Walau apa pun mana-mana peruntukan lain dalam Akta ini, seorang pegawai polis atau pegawai pengangkutan jalan boleh menangkap tanpa waran mana-mana orang yang telah melakukan atau disyaki telah melakukan suatu kesalahan di bawah seksyen ini. (3) Bagi maksud seksyen ini, \"tempat awam\" termasuk semua bahagian dalam suatu lapangan terbang yang boleh dimasuki secara bebas oleh orang awam, mana-mana jalan, atau mana-mana tempat yang telah diwartakan sebagai suatu perhentian bagi kenderaan perkhidmatan awam.'\"."
+      }
+    }
+  ]
+}

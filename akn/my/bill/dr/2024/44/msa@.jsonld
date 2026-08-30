@@ -49,34 +49,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/44/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/44/msa@/~cl_2__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/44/msa@/~cl_2__subsec_3"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/44/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 [Akta 334], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 41 seksyen yang berikut: “Memujuk atau mendesak 41a. (1) Mana-mana orang yang, tanpa kuasa yang sah, memujuk atau mendesak bagi maksud menawarkan perkhidmatan yang berkaitan dengan menerima untuk sewa atau upah untuk membawa penumpang atau berulang-alik untuk sewa atau upah, sama ada dilakukan oleh orang itu atau tidak, di mana-mana tempat awam atau kawasan sampingannya atau di sekitar tempat itu, melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/44/msa@/~cl_2__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/44/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Walau apa pun mana-mana peruntukan lain dalam Akta ini, seorang pegawai polis atau pegawai pengangkutan jalan boleh menangkap tanpa waran mana-mana orang yang telah melakukan atau disyaki telah melakukan suatu kesalahan di bawah seksyen ini dan hendaklah tanpa kelengahan yang tidak perlu, membawa orang yang ditangkap itu ke balai polis yang paling hampir, dan selepas itu orang itu akan diperlakukan mengikut undang-undang yang berhubungan dengan tatacara jenayah yang sedang berkuat kuasa."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/44/msa@/~cl_2__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/44/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Bagi maksud seksyen ini, “tempat awam” termasuk semua bahagian dalam suatu lapangan terbang yang boleh dimasuki secara bebas oleh orang awam, mana-mana jalan, mana-mana terminal, atau mana-mana tempat yang telah diwartakan sebagai suatu perhentian bagi kenderaan perkhidmatan awam.”. Seksyen baharu 49a"
+        "@value": "Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 [Akta 334], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 41 seksyen yang berikut: “Memujuk atau mendesak 41a. (1) Mana-mana orang yang, tanpa kuasa yang sah, memujuk atau mendesak bagi maksud menawarkan perkhidmatan yang berkaitan dengan menerima untuk sewa atau upah untuk membawa penumpang atau berulang-alik untuk sewa atau upah, sama ada dilakukan oleh orang itu atau tidak, di mana-mana tempat awam atau kawasan sampingannya atau di sekitar tempat itu, melakukan suatu kesalahan dan boleh, apabila disabitkan, didenda tidak melebihi lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. (2) Walau apa pun mana-mana peruntukan lain dalam Akta ini, seorang pegawai polis atau pegawai pengangkutan jalan boleh menangkap tanpa waran mana-mana orang yang telah melakukan atau disyaki telah melakukan suatu kesalahan di bawah seksyen ini dan hendaklah tanpa kelengahan yang tidak perlu, membawa orang yang ditangkap itu ke balai polis yang paling hampir, dan selepas itu orang itu akan diperlakukan mengikut undang-undang yang berhubungan dengan tatacara jenayah yang sedang berkuat kuasa. (3) Bagi maksud seksyen ini, “tempat awam” termasuk semua bahagian dalam suatu lapangan terbang yang boleh dimasuki secara bebas oleh orang awam, mana-mana jalan, mana-mana terminal, atau mana-mana tempat yang telah diwartakan sebagai suatu perhentian bagi kenderaan perkhidmatan awam.”. Seksyen baharu 49a"
       }
     },
     {

@@ -1,0 +1,491 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-28-2022",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "Tabung Angkatan Tentera (Amendment) Bill 2022"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 15 the following section: “Investment by Lembaga 15. (1) The Lembaga may, on the advice given by the Investment Panel, invest moneys which are in the Tabung and in the Reserve Fund based on the strategic asset allocation as approved by the Minister and Minister of Finance, to the extent and in the following manner: (a) by way of deposit in any currency in— (i) the Central Bank of Malaysia; (ii) any financial institution licensed under the Financial Services Act 2013 [Act 758]; (iii) any development financial institution as defined under the Development Financial Institutions Act 2002 [Act 618]; (iv) any Islamic bank licensed under the Islamic Financial Services Act 2013 [Act 759]; or (v) any bank or financial institution established by or under any written law in or outside Malaysia; (b) in money market instruments, including treasury bills, bankers’ acceptances, certificates of deposit and any financial instruments recognized by the relevant regulatory body in any currency; (c) in bonds, commercial notes, private debt securities, promissory notes and bills of exchange within the meaning of the Bills of Exchange Act 1949 [Act 204] and other negotiable instruments of similar nature on terms remunerative to the Lembaga, in respect of any company or corporation or in respect of any public authority or corporation in which the Federal Government has an interest; (d) in securities issued or fully guaranteed by any sovereign government, supranational or multilateral organization and includes securities where any sovereign government, supranational or multilateral organization is the obligor; (e) in securities issued or fully guaranteed by the Government of Malaysia, secured by any sovereign government, supranational or multilateral organization and includes securities where any sovereign government, supranational or multilateral organization is the obligor and any instrument issued by the Central Bank of Malaysia; (f) in the acquisition or subscription for shares or debentures in any public company whose securities are listed or have been approved for listing on a stock exchange in Malaysia, the issue or sale of which has been approved under the Capital Market and Services Act 2007 [Act 671] or securities in a company which has been approved to be listed in any recognized stock exchange outside Malaysia subject to the listing of such security being approved by law in that foreign jurisdiction; (g) in the securities of which shall include bonds, notes, mortgage papers, commercial notes and other debt instrument of companies or corporations which are not listed and quoted on any stock exchange established in Malaysia and in the securities of companies or corporations which are incorporated in foreign jurisdiction; (h) in the acquisition of moveable or immoveable property and interests therein located in Malaysia or in any foreign jurisdiction; (i) in the development of buildings and infrastructure located in Malaysia or in any foreign jurisdiction; (j) in purchasing securities or subscribing to any product for the purpose of hedging or carrying out dealings in any derivatives instruments for the investment of the Tabung; (k) in funds domiciled in Malaysia or in any foreign jurisdiction which include segregated mandate which invest in the assets under this section; (l) in products as approved by the Securities Commission Malaysia or any other relevant regulators in any foreign jurisdiction; (m) in sale, purchase, repurchase, borrowing or lending, of or other dealings in, currencies or other financial instruments traded in the money market or foreign exchange market for the purpose of exercising investment which has been approved under this section; and (n) in any other investment with the approval of the Minister and Minister of Finance.”. New sections 24 and 25"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by inserting after section 23 the following sections: “Lembaga may incorporate company 24. The Lembaga may, with the approval of the Minister and Minister of Finance, incorporate a company to carry on or engage in any activity approved or undertaken by the Lembaga for the purpose of this Act. Provision for advancement from Federal Consolidated Fund 25. If the Lembaga is at any time unable to pay any sum of money standing to the credit of the contributor’s account to the contributor, the heir or the next of kin of the contributor, as required under this Act, the sum required to be so paid shall be charged on and advanced to the Lembaga from the Federal Consolidated Fund and the Lembaga shall, as soon as practicable, repay to the Government of Malaysia the sum so advanced.”. Amendment of Second Schedule"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_12__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_12__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The principal Act is amended in the Second Schedule—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_12__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting subparagraph 1(1); and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_12__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph 2 the following paragraph: “2a. The Chairman or, in his absence, the member elected by the members of the Investment Panel present, shall preside over the meetings of the Investment Panel.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the Tabung Angkatan Tentera (Amendment) Act 2022."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Amendment of section 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Tabung Angkatan Tentera Act 1973 [Act 101], which is referred to as the “principal Act” in this Act, is amended in section 2 by inserting after the definition of “ancillary benefits” the following definition: ‘ “company” means a company incorporated under the Companies Act 2016 [Act 777], a trust company registered under the Trust Companies Act 1949 [Act 100] or any company incorporated under any written law of a foreign jurisdiction;’. Amendment of section 4"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 4 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (3)(e), by inserting after the words “appointed by the Minister” the words “on the advice of the Lembaga”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (3) the following subsections: “(3a) In determining whether a person is a fit and proper for the purposes of subsection (3), the Minister shall have regard to— (a) the probity, competence and soundness of judgment of the person in fulfilling his responsibilities as a member of the Lembaga; and (b) the diligence with which the person is likely to fulfil his responsibilities as a member of the Lembaga. (3 b) Without prejudice to the generality of subsection (3), a person shall be disqualified from being appointed or being a member of the Lembaga, if he— (a) is an undischarged bankrupt; (b) has been convicted of an offence relating to the promotion, formation or management of a company or corporation; (c) has been convicted of an offence involving bribery, fraud or dishonesty; (d) has been convicted of an offence under any written law which is designed for protecting members of the public; (e) has been disqualified by an order of the court from acting as a director under any written law; or (f) has engaged in or has been associated with, any business practice, or otherwise conducted himself in such a way as to cast doubt on his competence and soundness of judgment. (3c) The circumstances referred to in subsection (3b) shall be applicable to circumstances in or outside Malaysia.”. Amendment of section 6"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 6 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)— “(ca) a representative from the Ministry of Defence;”; “(d) a representative from the Ministry of Finance;”; and “(e) four other members with experience and expertise in business, investment, investment risks management, actuary, banking, legal or finance who shall be appointed by the Minister on the advice of the Lembaga.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after paragraph (c) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (d) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_a",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (e) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “( 2 a) For the purpose of paragraph (2)(a), the Chairman shall not be the Chairman of the Lembaga. (2b) In determining whether a person is a fit and proper for the purposes of subsection (2), the Minister shall have regard to— (a) the probity, competence and soundness of judgment of the person in fulfilling his responsibilities as a member of the Investment Panel; and (b) the diligence with which the person is likely to fulfil his responsibilities as a member of the Investment Panel. (2 c) Without prejudice to the generality of subsection (2), a person shall be disqualified from being appointed or being a member of the Investment Panel, if he— (a) is an undischarged bankrupt; (b) has been convicted of an offence relating to the promotion, formation or management of a company or corporation; (c) has been convicted of an offence involving bribery, fraud or dishonesty; (d) has been convicted of an offence under any written law which is designed for protecting members of the public; (e) has been disqualified by an order of the court to act as a director under any written law; or (f) has engaged in or has been associated with, any business practice, or otherwise conducted himself in such a way as to cast doubt on his competence and soundness of judgment. (2d) The circumstances referred in subsection (2c) shall be applicable to circumstances in or outside Malaysia.”. Substitution of section 8"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The principal Act is amended by substituting for section 8 the following section: “Duties and responsibilities of members, etc. 8. (1) A member of the Lembaga, a member of the Investment Panel, a member of the committee of the Lembaga, officers and servants of the Lembaga shall— (a) at all times, exercise his powers in accordance with this Act for a proper purpose and in good faith in the best interest of the Tabung; and (b) exercise his duties and responsibilities with reasonable care, skill and diligence based on the knowledge, skills and experience which may reasonably be expected of a person having the same duties and responsibilities. (2) A member of the Lembaga, a member of the Investment Panel, a member of the committee of the Lembaga, officers and servants of the Lembaga who has breached or failed to comply, has contributed to the breach or non-compliance or has contravenes any provision of this Act may, for any loss or damage caused by his act or omission, be held personally liable.”. Amendment of section 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Contribution of servicemen”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) A serviceman may also request a further deduction exceeding ten per centum of his monthly salary as may be determined by the serviceman as his contribution to the Tabung and the amount of the contribution shall be credited to the account of the serviceman.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subsection (1)” wherever appearing the words “subsections (1) and (1a)”. Amendment of section 9a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 9a of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the shoulder note the following shoulder note: “Contribution of officers”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1) the following subsection: “(1a) An officer may also request a further deduction exceeding ten per centum of his monthly salary as may be determined by the officer as his contribution to the Tabung and the amount of the contribution shall be credited to the account of the officer.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_7",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for the words “subsection (1)” wherever appearing the words “subsections (1) and (1a)”. Amendment of section 11"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 11 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Subject to the provisions of this section, the Lembaga may, with the approval of the Minister, at or after the end of the financial year of each year, declare a rate of profit on the contributions to the Tabung based on the actual financial performance of the Lembaga for that year.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (2)— “(c) the Lembaga is satisfied with the ability of the Tabung to meet all payments required to be paid under this Act is not endangered by the declaration of the rate.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by deleting for paragraph (a);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in paragraph (ba), by substituting for the words “as the actuary considers sufficient” the word “sufficient”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_b",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for paragraph (c) the following paragraph:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsections: “( 2a) For the purpose of declaration of profit under subsection (1), the Lembaga shall be regarded as solvent if the Lembaga is able to pay its debts as and when the debts become due within twelve months immediately after the declaration is made. (2b) The Lembaga may, from time to time as it considers necessary, appoint a qualified and independent actuary to assist the Lembaga in assessing its financial performance pursuant to this section and such assessment may be served as a guide to the Lembaga.”. Amendment of section 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "Section 12 of the principal Act is amended—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by substituting for subsection (1) the following subsection: “(1) Subject to this Act, any amount standing to the credit of a contributor’s account under this Act may only be withdrawn— (a) on the death of the contributor; (b) when the contributor has been certified as physically or mentally incapacitated from engaging in the service; (c) on the contributor attaining the age of fifty years and, where the contributor is an officer, on the officer attaining the age of compulsory retirement; (d) thirty days after the contributor has retired from service; or (e) thirty days after the contributor has been discharged from service.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (1a), by substituting for the words “paragraph (1)(b) or (c)” the words “paragraph (1)(c), (d) or (e)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (1a) the following subsection: “( 1 b) For the purpose of withdrawal under paragraph 12(1)(a) or (b), the Lembaga shall authorize the withdrawal of all sum of money standing to the credit of the contributor’s account under this Act, if— (a) applied by the heir of the contributor on the death of the contributor; or (b) applied by the next of kin of the contributor who has been certified to be physically or mentally incapacitated from engaging in the service.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "by inserting after subsection (2) the following subsection: “(2a) The contributor who has been discharged or has retired from service may opt to withdraw or retain any amount standing to the credit of his account in the Tabung and the amount standing shall be entitled to receive a rate of profit on the contributions retained in the Tabung under this Act.”; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2022/28/eng@/~cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in subsection (3), by substituting for the words “paragraph (1)(b)” the words “paragraphs (1)(d) and (e)”. Substitution of section 15"
+      }
+    }
+  ]
+}

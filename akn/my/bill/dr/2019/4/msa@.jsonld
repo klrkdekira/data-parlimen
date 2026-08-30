@@ -1,0 +1,568 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-4-2019",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Zon Bebas (Pindaan) 2019"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_10__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_10__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 18 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_10__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_10__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Apabila apa-apa maklumat atau dokumen yang diberikan atau dikemukakan di bawah subseksyen (1) dibuktikan sebagai tidak benar atau tidak betul pada keseluruhannya atau sebahagiannya tidaklah menjadi suatu pembelaan untuk mengatakan bahawa maklumat atau dokumen itu atau mana-mana bahagian maklumat atau dokumen itu telah dikemukakan dengan tidak sengaja atau tanpa niat jenayah atau fraud, atau telah disalahtafsirkan atau tidak ditafsirkan sepenuhnya oleh seorang jurubahasa yang disediakan oleh orang yang memberikan maklumat atau mengemukakan dokumen itu.”. Pindaan seksyen 19"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 19 Akta ibu dipinda dengan menggantikan perkataan “tidak melebihi lima ribu ringgit” dengan perkataan “tidak melebihi lima puluh ribu ringgit atau hukuman pemenjaraan bagi suatu tempoh tidak melebihi tiga tahun atau kedua-duanya”. Seksyen baharu 20a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 20 seksyen yang berikut: “Akses ke kedai atau gudang, atau bangunan, tempat atau premis lain 20a. (1) Mana-mana pegawai kanan kastam hendaklah bagi maksud Akta ini pada setiap masa mempunyai akses sepenuhnya dan secara bebas ke mana-mana kedai atau gudang, atau bangunan, tempat atau premis lain dalam zon bebas yang mana-mana orang menjalankan aktivitinya. (2) Jika mana-mana pegawai kanan kastam memasuki mana-mana kedai atau gudang, atau bangunan, tempat atau premis lain mengikut seksyen ini, dia boleh— (a) menghendaki mana-mana orang untuk mengemukakan apa-apa barang, dokumen atau benda yang berhubungan dengan aktiviti orang itu dan apa-apa dokumen dan rekod yang dikehendaki untuk disimpan di bawah seksyen 10a; (b) memeriksa apa-apa barang, dokumen atau benda; (c) menyita dan menahan apa-apa barang, dokumen atau benda jika pada pendapatnya ia boleh menjadi keterangan mengenai pelakuan apa-apa kesalahan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawahnya; (d) menghendaki mana-mana orang untuk menjawab apa-apa soalan yang berhubungan dengan apa-apa barang, dokumen atau benda; (e) menghendaki apa-apa bekas, sampul atau bekas yang lain di dalam kedai atau gudang, atau bangunan, tempat atau premis lain itu supaya dibuka; (f) atas risiko dan perbelanjaan orang yang menjalankan aktiviti di kedai atau gudang, atau bangunan, tempat atau premis lain itu, membuka dan memeriksa apa-apa bungkusan, atau apa-apa barang atau bahan di dalam kedai atau gudang, atau bangunan, tempat atau premis lain itu; atau (g) mengambil sampel mana-mana barang atau bahan dan membuat salinan atau cabutan apa-apa dokumen, jika disifatkannya perlu. (3) Jika mana-mana pegawai kanan kastam tidak dapat memperoleh akses sepenuhnya dan secara bebas ke kedai atau gudang, atau bangunan, tempat atau premis lain itu di bawah subseksyen (1) atau ke atas mana-mana bekas, sampul atau bekas lain yang berada di situ, dia boleh, pada bila-bila masa, memasuki kedai atau gudang, atau bangunan, tempat atau premis lain itu dan membuka bekas, sampul atau bekas lain itu dan dengan menggunakan kekerasan, jika perlu. (4) Mana-mana orang yang enggan untuk membenarkan mana-mana pegawai kanan kastam untuk memasuki mana-mana kedai atau gudang, atau bangunan, tempat atau premis lain mengikut seksyen ini melakukan suatu kesalahan dan, apabila disabitkan, boleh dikenakan denda tidak melebihi satu ratus ribu ringgit atau hukuman penjara bagi suatu tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 21"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 21 Akta ibu dipinda dengan menggantikan perkataan “kedai, gudang atau bangunan atau tempat lain”, “kedai, gudang atau bangunan atau tempat” dan “tempat” di mana-mana jua terdapat dengan perkataan “kedai atau gudang, atau bangunan, tempat atau premis lain”. Pindaan seksyen 22"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 22 Akta ibu dipinda dengan menggantikan perkataan “kedai, gudang atau bangunan atau tempat lain” di mana-mana jua terdapat dengan perkataan “kedai atau gudang, atau bangunan, tempat atau premis lain”. Pindaan seksyen 23a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 23a(1) dan (2) Akta ibu dipinda dengan memasukkan selepas perkataan “kuasanya di bawah seksyen” perkataan “20a,”. Penggantian seksyen 33"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 33 dengan seksyen yang berikut: “Pengkompaunan kesalahan 33. (1) Mana-mana pegawai kanan kastam boleh, dengan keizinan bertulis Pendakwa Raya, mengkompaun apa-apa kesalahan yang dilakukan oleh mana-mana orang di bawah Akta ini dan ditetapkan oleh Menteri sebagai suatu kesalahan yang boleh kompaun dengan membuat suatu tawaran bertulis kepada orang yang disyaki melakukan kesalahan itu untuk mengkompaun kesalahan itu dengan membayar kepada Ketua Pengarah suatu amaun wang yang tidak melebihi lima puluh peratus daripada amaun denda maksimum bagi kesalahan itu dalam masa yang dinyatakan dalam tawaran itu. (2) Suatu tawaran di bawah subseksyen (1) boleh dibuat pada bila-bila masa selepas kesalahan itu dilakukan, tetapi sebelum apa-apa pendakwaan ke atasnya dimulakan, dan jika amaun yang dinyatakan dalam tawaran itu tidak dibayar dalam masa yang dinyatakan dalam tawaran itu atau dalam apa-apa tempoh yang dilanjutkan sebagaimana yang diberikan oleh Ketua Pengarah, pendakwaan bagi kesalahan itu boleh dimulakan pada bila-bila masa selepas itu terhadap orang yang kepadanya tawaran itu dibuat. (3) Jika sesuatu kesalahan telah dikompaun di bawah subseksyen (1), tiada pendakwaan boleh dimulakan selepas itu berkenaan dengan kesalahan terhadap orang yang kepadanya tawaran untuk mengkompaun itu dibuat. (4) Apabila pembayaran kompaun di bawah subseksyen (1) telah diterima, apa-apa harta yang telah disita hendaklah dilepaskan dan tiada prosiding selanjutnya boleh diambil terhadap harta itu kecuali jika harta yang disita itu terdiri daripada barang yang pengimportannya ke dalam Malaysia dilarang secara mutlak atau bersyarat di bawah mana-mana undang-undang bertulis dan tiada lesen import dikeluarkan, maka barang itu atau amaun yang dicagarkan di bawah perenggan 27(1)(a) atau (b) atau amaun yang dihasilkan daripada jualan itu di bawah perenggan 27(1)(c), mengikut mana-mana yang berkenaan, hendaklah dilucuthakkan. (5) Semua jumlah wang yang diterima oleh Ketua Pengarah di bawah seksyen ini hendaklah dibayar ke dalam dan menjadi sebahagian daripada Kumpulan Wang Disatukan Persekutuan.”. Seksyen baharu 41a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 41 seksyen yang berikut: “Mendapatkan duti atau cukai sebagai suatu hutang sivil 41a. (1) Tanpa menjejaskan apa-apa remedi lain, apa-apa cukai, duti atau pembayaran yang kena dibayar di bawah Akta ini boleh didapatkan sebagai suatu hutang sivil yang terhutang kepada Kerajaan Malaysia, atau jika duti kastam itu duti daripada suatu kategori yang ditetapkan kepada Negeri oleh Perkara 112c Perlembagaan Persekutuan, kepada Kerajaan Negeri.”."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam apa-apa prosiding untuk mendapatkan apa-apa remedi lain, apa-apa cukai, duti atau pembayaran di bawah subseksyen (1), pengemukaan suatu perakuan yang ditandatangani oleh Ketua Pengarah—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menyatakan bahawa apa-apa remedi lain, apa-apa cukai, duti atau pembayaran yang ditunjukkan dalam perakuan itu sebagai kena dibayar, dalam apa-apa taksiran atau notis yang dibuat di bawah Akta ini daripada orang yang dinamakan dalam perakuan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "yang menyatakan alamat orang itu dan berupa sebagai suatu salinan atau cabutan daripada apa-apa notis taksiran, hendaklah menjadi keterangan muktamad bagi apa-apa remedi lain, apa-apa cukai, duti atau pembayaran sebagai kena dibayar dalam apa-apa taksiran atau notis dan hendaklah menjadi autoriti yang mencukupi untuk mahkamah memberikan penghakiman bagi amaun itu.”. Peruntukan kecualian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pindaan kepada seksyen 14 dan 15 Akta ibu dalam seksyen 7 dan 8 Akta ini tidak menyentuh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa bangunan atau binaan lain di dalam zon perdagangan bebas yang dibina sebelum permulaan kuat kuasa Akta ini yang dengan permulaan kuat kuasa Akta ini masih dalam pembinaan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang telah mengambil, memegang atau menikmati semua jenis harta alih dan harta tak alih di dalam suatu zon perdagangan bebas sebelum permulaaan kuat kuasa Akta ini; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana orang yang telah bermastautin di dalam suatu zon perdagangan bebas sebelum permulaan kuat kuasa Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pada tarikh permulaan kuat kuasa Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bangunan dan binaan lain yang disebut dalam perenggan (1)(a) itu boleh diteruskan dan disiapkan seolah-olah seksyen 14 Akta ibu tidak dipinda oleh Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang disebut dalam perenggan (1)(b) itu boleh terus mengambil, memegang atau menikmati semua jenis harta alih dan harta tak alih, seolah-olah seksyen 14 Akta ibu tidak dipinda oleh Akta ini, tertakluk kepada apa-apa syarat yang dikenakan oleh Pihak Berkuasa; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang disebut dalam perenggan (1)(c) itu boleh terus bermastautin di dalam kawasan zon perdagangan bebas itu, seolah-olah seksyen 15 Akta ibu tidak dipinda oleh Akta ini, tertakluk kepada apa-apa syarat yang dikenakan oleh Pihak Berkuasa."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_18",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana pengkompaunan kesalahan di bawah seksyen 33 Akta ibu yang sedia ada yang masih belum selesai sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan dan diselesaikan seolah-olah Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Zon Bebas (Pindaan) 2019."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Zon Bebas 1990 [Akta 438], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a__subpara_ii",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a__subpara_iii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1)— ‘ “pemunya” berhubung dengan barang, termasuklah mana-mana orang yang merupakan atau yang mengemukakan dirinya sebagai pemunya, pengimport, pengeksport, konsaini, ejen atau orang yang memiliki, atau yang berkepentingan secara benefisial dalam, atau mempunyai apa-apa kawalan ke atas, atau kuasa untuk melupuskan, barang itu; “Pangkor” mempunyai erti yang sama yang diberikan kepadanya di bawah seksyen 163q Akta Kastam 1967;’; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “aktiviti perdagangan”, dengan menggantikan perkataan “, melabel semula dan transit” dengan perkataan “dan melabel semula”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas takrif “pengendalian” takrif yang berikut:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a__subpara_iii",
+      "@type": "akn:subparagraph",
+      "eli:number": "iii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam takrif “kawasan utama kastam”, dengan menggantikan perkataan “dan Tioman” dengan perkataan “, Tioman dan Pangkor”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(2a) Bagi maksud takrif “pemunya”, “pengeksport” dan “pengimport” masing-masing hendaklah mempunyai erti yang sama yang diberikan kepadanya di bawah seksyen 2 Akta Kastam 1967.”. Pindaan seksyen 7"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 7 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menomborkan semula seksyen 7 yang sedia ada sebagai subseksyen (1); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (1) sebagaimana yang dinomborkan semula subseksyen yang berikut: “(2) Duti kastam, jika ada, ke atas barang yang disifatkan sebagai dieksport dari atau diimport ke dalam Malaysia hendaklah dibayar.”. Seksyen baharu 8a dan 8b"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 8 seksyen yang berikut: “Perisytiharan untuk memberikan pembutiran yang penuh dan benar 8a. Mana-mana orang yang membuat apa-apa perisytiharan di bawah Akta ini atau mana-mana peraturan-peraturan yang dibuat di bawahnya bagi maksud untuk mendapatkan kelulusan pegawai kastam yang hak atau pegawai Pihak Berkuasa yang hak hendaklah memberikan pembutiran yang penuh dan benar berhubungan dengan— (a) bilangan dan perihalan bungkusan; (b) perihalan barang; (c) berat, ukuran atau kuantiti barang; (d) nilai semua barang; dan (e) negara asal barang. Barang-barang yang tidak diakaunkan 8b. (1) Jika di dalam mana-mana kedai atau gudang, atau bangunan, tempat atau premis lain di dalam suatu zon bebas kuantiti apa-apa barang yang sepatutnya disimpan di situ didapati dalam jumlah yang kurang oleh pegawai kastam yang hak dan kekurangan itu tidak diakaunkan dengan memuaskan hati pegawai itu, pemunya barang itu atau pengendali kedai atau gudang, atau bangunan, tempat atau premis lain itu hendaklah, sehingga dibuktikan sebaliknya, disifatkan sebagai telah memindahkan barang itu dari zon bebas itu ke dalam kawasan utama kastam secara tidak sah, dan hendaklah, sehingga dibuktikan sebaliknya, disifatkan sebagai mempunyai pengetahuan berkenaan dengan pengalihan itu. (2) Jika barang yang disifatkan sebagai telah dialihkan secara tidak sah dari zon bebas ke dalam kawasan utama kastam di bawah subseksyen (1) tertakluk kepada cukai, duti atau pembayaran di bawah mana-mana undang-undang bertulis, pemunya barang atau pengendali kedai atau gudang, atau bangunan, tempat atau premis lain itu hendaklah bertanggungan untuk membayar kepada pegawai kastam yang hak cukai, duti atau pembayaran itu atas tuntutan yang dibuat dalam tempoh enam tahun dari tarikh cukai, duti atau pembayaran itu hendaklah dibayar atau bayaran yang tidak mencukupi bagi cukai, duti atau pembayaran itu dibuat melainkan jika pemunya barang atau pengendali kedai atau gudang, atau bangunan, tempat atau premis lain itu boleh menunjukkan dengan memuaskan hati Ketua Pengarah bahawa kekurangan itu disebabkan oleh kebocoran, barang pecah atau kemalangan lain yang tidak dapat dielakkan. (3) Tiada apa-apa jua dalam subseksyen (2) boleh menghalang Ketua Pengarah daripada membuat tuntutan pada bila-bila masa selepas enam tahun dari masa bila cukai, duti atau pembayaran itu tidak dibayar atau dibayar kurang akibat apa-apa bentuk fraud atau kemungkiran yang dilakukan oleh atau bagi pihak mana-mana orang. (4) Bagi maksud seksyen ini, “pengendali” ertinya mana-mana orang yang telah diberikan kebenaran di bawah peraturan-peraturan yang dibuat di bawah Akta ini untuk menjalankan apa-apa aktviti di dalam sesuatu zon bebas.”. Penggantian seksyen 9"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 9 dengan seksyen yang berikut: “Penalti 9. (1) Mana-mana orang yang melanggar seksyen 5, 6a atau 8 melakukan suatu kesalahan dan apabila disabitkan, boleh— (a) bagi kesalahan pertama, dikenakan denda tidak kurang daripada sepuluh kali ganda nilai barang itu atau lima puluh ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada dua puluh kali ganda nilai barang itu atau lima ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, atau hukuman pemenjaraan bagi suatu tempoh tidak melebihi lima tahun atau kedua-duanya; dan (b) bagi kesalahan kedua atau kesalahan berikutnya, dikenakan denda tidak kurang daripada dua puluh kali ganda nilai barang itu atau satu ratus ribu ringgit, mengikut mana-mana amaun yang lebih besar, dan tidak lebih daripada empat puluh kali ganda nilai barang itu atau satu juta ringgit, mengikut mana-mana amaun yang lebih besar, atau hukuman pemenjaraan bagi suatu tempoh tidak melebihi tujuh tahun atau kedua-duanya. (2) Jika nilai barang di bawah subseksyen (1) tidak dapat ditentukan, penaltinya bolehlah bersamaan dengan suatu jumlah tidak melebihi lima ratus ribu ringgit atau pemenjaraan bagi suatu tempoh tidak melebihi lima tahun atau kedua-duanya.”. Seksyen baharu 10a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 10 seksyen yang berikut: “Rekod aktiviti 10a. (1) Tiap-tiap orang yang menjalankan apa-apa aktiviti di dalam zon bebas yang mempunyai dalam milikannya dokumen dan rekod mengenai aktiviti pengimportan, pengeksportan atau pengilangan barang, hendaklah menyimpan bagi tempoh tujuh tahun semua dokumen dan rekod yang berkaitan dengan aktiviti itu. (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan dan boleh, apabila disabitkan, dikenakan denda tidak melebihi lima puluh ribu ringgit atau hukuman pemenjaraan bagi suatu tempoh tidak melebihi tiga tahun atau kedua-duanya.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 14 Akta ibu dipinda dengan memotong perkataan “perindustrian” di mana-mana jua terdapat. Pindaan seksyen 15"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 15 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam nota bahu, dengan memotong perkataan “perindustrian”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (1), dengan memotong perkataan “perindustrian”. Pindaan seksyen 17"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 17 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_a__subpara_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_a__subpara_ii"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2)—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_a__subpara_i",
+      "@type": "akn:subparagraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “jika diarahkan sedemikian oleh Menteri hendaklah mengemukakan kepadanya” dengan perkataan “hendaklah mengemukakan kepada Menteri pada”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_a__subpara_ii",
+      "@type": "akn:subparagraph",
+      "eli:number": "ii",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_a",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan “ditetapkan” dengan perkataan “diarahkan”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2019/4/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: “(3) Laporan dan maklumat yang disebut dalam subseksyen (2) hendaklah dalam apa-apa bentuk yang ditentukan oleh Menteri.”. Pindaan seksyen 18"
+      }
+    }
+  ]
+}

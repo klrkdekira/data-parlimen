@@ -59,89 +59,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10",
       "@type": "akn:clause",
       "eli:number": "10",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__para_d",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__subsec_2",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__subsec_3",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__subsec_4"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@",
       "schema:text": {
         "@language": "en",
-        "@value": "The principal Act is amended by inserting after section 17 the following section: “Delegation of functions and powers of the Commission 17a. (1) The Commission may, in writing, delegate any of its functions or powers under the competition laws to—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10",
-      "schema:text": {
-        "@language": "en",
-        "@value": "the Chairman;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any committee;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any Commission officer; or"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__para_d",
-      "@type": "akn:paragraph",
-      "eli:number": "d",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10",
-      "schema:text": {
-        "@language": "en",
-        "@value": "any employee of the Commission."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The Chairman or any committee or person delegated with such function or power under subsection (1) shall be bound to observe and have regard to all conditions or restrictions imposed by the Commission and all requirements, procedures and matters specified by the Commission."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__subsec_3",
-      "@type": "akn:subsection",
-      "eli:number": "3",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10",
-      "schema:text": {
-        "@language": "en",
-        "@value": "Any function or power delegated under this section shall be performed and exercised in the name and on behalf of the Commission."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10__subsec_4",
-      "@type": "akn:subsection",
-      "eli:number": "4",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/11/eng@/~cl_10",
-      "schema:text": {
-        "@language": "en",
-        "@value": "The delegation under this section shall not preclude the Commission itself from performing or exercising at any time any of the delegated functions or powers.”. Amendment of section 27"
+        "@value": "The principal Act is amended by inserting after section 17 the following section: “Delegation of functions and powers of the Commission 17a. (1) The Commission may, in writing, delegate any of its functions or powers under the competition laws to— (a) the Chairman; (b) any committee; (c) any Commission officer; or (d) any employee of the Commission. (2) The Chairman or any committee or person delegated with such function or power under subsection (1) shall be bound to observe and have regard to all conditions or restrictions imposed by the Commission and all requirements, procedures and matters specified by the Commission. (3) Any function or power delegated under this section shall be performed and exercised in the name and on behalf of the Commission. (4) The delegation under this section shall not preclude the Commission itself from performing or exercising at any time any of the delegated functions or powers.”. Amendment of section 27"
       }
     },
     {

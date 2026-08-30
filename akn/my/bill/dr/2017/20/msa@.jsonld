@@ -1,0 +1,420 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-20-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_16"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Lembaga Kemajuan Wilayah Kedah (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 28 seksyen yang berikut: “Kuasa untuk menubuhkan Jawatankuasa 28 a. (1) Lembaga boleh menubuhkan jawatankuasa sebagaimana yang Lembaga fikirkan perlu atau suai manfaat untuk membantu Lembaga dalam melaksanakan fungsinya di bawah Akta ini. (2) Jadual Ketiga hendaklah terpakai bagi tiap-tiap jawatankuasa yang ditubuhkan oleh Lembaga di bawah subseksyen (1).”. Seksyen baharu 32a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 32 seksyen yang berikut: “Kuasa untuk meminda Jadual 32a. Lembaga boleh, dengan kelulusan Menteri, meminda mana-mana Jadual melalui perintah yang disiarkan dalam Warta.”. Pemotongan seksyen 34 dan 35"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 34 dan 35. Pindaan Jadual Pertama"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Jadual Pertama kepada Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 4(1), dengan menggantikan perkataan “sekali sebulan” dengan perkataan “sekali dalam tiap-tiap tiga bulan”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subperenggan 4(2) subperenggan yang berikut: “(2a) Tiap-tiap anggota Lembaga yang hadir berhak kepada satu undi.”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subperenggan 6(3), dengan menggantikan perkataan “Pengerusi” di mana-mana jua terdapat dengan perkataan “Pengurus Besar”. Jadual baharu Ketiga"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas Jadual Kedua Jadual yang berikut: “Jadual Ketiga [Subseksyen 28a(2)] Terma dan syarat pelantikan, pembatalan dan peletakan jawatan 1. (1) Pada menjalankan kuasanya di bawah Akta ini, jawatankuasa hendaklah tertakluk kepada, dan bertindak mengikut, apa-apa arahan yang dikeluarkan kepada jawatankuasa itu oleh Lembaga. (2) Lembaga boleh melantik mana-mana orang untuk menjadi anggota mana-mana jawatankuasa dan memilih mana-mana anggotanya untuk menjadi pengerusi suatu jawatankuasa. (3) Seseorang anggota jawatankuasa hendaklah memegang jawatan selama apa-apa tempoh yang dinyatakan dalam surat pelantikannya dan layak untuk dilantik semula. (4) Pelantikan mana-mana anggota jawatankuasa boleh, pada bila-bila masa, dibatalkan oleh Lembaga. (5) Anggota sesuatu jawatankuasa boleh, pada bila-bila masa, meletakkan jawatannya dengan memberikan notis secara bertulis yang ditujukan kepada Pengerusi Lembaga. Mesyuarat 2. (1) Mesyuarat sesuatu jawatankuasa hendaklah diadakan pada bila-bila masa dan di mana-mana tempat sebagaimana yang ditentukan oleh pengerusi jawatankuasa itu. (2) Sesuatu jawatankuasa boleh mengundang mana-mana orang yang bukan anggota jawatankuasa itu untuk menghadiri mana-mana mesyuarat jawatankuasa bagi maksud menasihati jawatankuasa itu tentang apa-apa perkara yang sedang dibincangkan tetapi orang itu tidak berhak untuk mengundi dalam mesyuarat itu. (3) Anggota jawatankuasa atau mana-mana orang yang diundang di bawah subperenggan (2) boleh dibayar apa-apa elaun dan perbelanjaan lain sebagaimana yang ditentukan oleh Lembaga. Tatacara 3. Tertakluk kepada Akta ini, jawatankuasa boleh mengawal selia tatacaranya sendiri.”. Persetujuan dan Akta Lembaga Kemajuan Wilayah Kedah 1981 hendaklah terus berkuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun pemotongan seksyen 34 dan 35 Akta ibu dalam seksyen 12 Akta ini, persetujuan antara Kerajaan Negeri dengan Kerajaan Persekutuan di bawah seksyen 34 Akta ibu hendaklah terus berkuat kuasa sehingga tamat tempoh persetujuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun tarikh tamat tempoh persetujuan yang disebut dalam subseksyen (1), Akta ibu hendaklah terus kekal berkuat kuasa dan mempunyai kesan sepenuhnya sebagaimana yang dipinda dalam Akta ini. Kecualian dan peralihan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun peruntukan Akta ini, anggota Lembaga dan anggota mana-mana jawatankuasa yang dilantik atau dipilih sebelum tarikh permulaan kuat kuasa Akta ini hendaklah terus memegang jawatan sehingga pelantikannya dibatalkan atau sehingga tempoh pelantikannya tamat."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana prosiding tatatertib yang dimulakan di bawah seksyen 16a hingga 16h Akta ibu yang belum selesai sebaik sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, selepas tarikh permulaan kuat kuasa Akta ini, diteruskan dan diuruskan seolah-olah seksyen 16a hingga 16h Akta ibu tidak dipinda oleh Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Kemajuan Wilayah Kedah (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pindaan seksyen 2"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Kemajuan Wilayah Kedah 1981 [Akta 249], yang disebut “Akta ibu” dalam Akta ini, dipinda dalam seksyen 2 dengan menggantikan takrif “Menteri” dengan takrif yang berikut: ‘ “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi kemajuan luar bandar dan wilayah;’. Pindaan seksyen 5"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 5 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Lembaga hendaklah terdiri daripada anggota yang berikut yang hendaklah dilantik oleh Menteri: (a) seorang Pengerusi; (b) seorang Timbalan Pengerusi; (c) seorang wakil Kementerian yang dipertanggungkan dengan tanggungjawab bagi kemajuan luar bandar dan wilayah; (d) seorang wakil Perbendaharaan dari Kementerian Kewangan; (e) seorang wakil Unit Perancang Ekonomi, Jabatan Perdana Menteri; (f) tiga orang wakil Kerajaan Negeri; (g) empat orang yang, pada pendapat Menteri, sesuai dan dapat menyumbang dalam menjalankan fungsi dan peranan Lembaga; dan (h) Pengurus Besar.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (2), dengan menggantikan perkataan “subseksyen (3) dan (4)” dengan perkataan “subseksyen (3)”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “, 3 dan 7” dengan perkataan “dan 3”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memotong subseksyen (4); dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “(f)” dengan perkataan “(h)”. Seksyen baharu 5a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 5 seksyen yang berikut: “Anggota silih ganti 5a. (1) Menteri boleh, berhubung dengan setiap anggota yang dilantik di bawah perenggan 5(1)(c), (d) atau (e), melantik seseorang untuk menjadi anggota silih ganti untuk menghadiri, sebagai ganti anggota itu, mesyuarat Lembaga apabila anggota itu tidak dapat hadir kerana apa-apa sebab. (2) Bagi maksud subseksyen (1), anggota silih ganti hendaklah dinamakan oleh anggota yang dilantik di bawah perenggan 5 (1)(c), (d) atau (e), dengan kelulusan Menteri. (3) Seseorang anggota silih ganti yang menghadiri mesyuarat Lembaga hendaklah, bagi segala maksud, disifatkan sebagai seorang anggota Lembaga. (4) Seseorang anggota silih ganti hendaklah, melainkan jika dia meletakkan jawatannya terlebih dahulu atau pelantikannya dibatalkan terlebih dahulu, terhenti menjadi anggota silih ganti apabila anggota yang baginya dia merupakan anggota silih ganti terhenti menjadi anggota Lembaga.”. Pindaan seksyen 12"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 12 Akta ibu dipinda dengan memasukkan selepas subseksyen (1) subseksyen yang berikut: “(1a) Pengerusi hendaklah bertanggungjawab untuk menyelia dan mengawal pelaksanaan dasar dan keputusan yang dibuat oleh Lembaga. (1b) Pengerusi boleh, tertakluk kepada apa-apa syarat, had atau sekatan yang difikirkannya patut, mewakilkan kepada mana-mana anggota Lembaga yang lain atau mana-mana pegawai atau pekhidmat Lembaga untuk menjalankan kuasa, kewajipan atau fungsi yang terletak hak atau dipertanggungjawabkan kepada Pengerusi di bawah Akta ini sebagaimana yang ditentukannya.”. Pindaan seksyen 13"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 13 Akta ibu dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (1) dengan subseksyen yang berikut: “(1) Menteri hendaklah melantik seorang Pengurus Besar mengikut apa-apa syarat dan bagi apa-apa tempoh sebagaimana yang ditentukan oleh Menteri.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (2) dengan subseksyen yang berikut: “(2) Pengurus Besar hendaklah bertanggungjawab bagi— (a) pentadbiran dan pengurusan Lembaga; (b) perancangan dan pelaksanaan apa-apa program, skim atau projek; dan (c) pelaksanaan apa-apa keputusan Lembaga.”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (3), dengan menggantikan perkataan “Pengerusi” dengan perkataan “Menteri dan Lembaga”;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dalam subseksyen (5), dengan menggantikan perkataan “Lembaga atau Pengerusi” dengan perkataan “Menteri atau Lembaga”; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (7) subseksyen yang berikut: “(7a) Pengurus Besar boleh, tertakluk kepada apa-apa syarat, had atau sekatan yang difikirkannya patut, mewakilkan kuasa, kewajipan atau fungsinya kepada mana-mana pegawai atau pekhidmat Lembaga untuk menjalankan kuasa, kewajipan atau fungsi itu yang terletak hak atau dipertanggungkan kepada Pengurus Besar di bawah Akta ini sebagaimana yang ditentukan oleh Pengurus Besar dan pewakilan kuasa itu— (a) tidak menghalang Pengurus Besar daripada melaksanakan atau menjalankan, pada bila-bila masa, mana-mana kuasa, kewajipan atau fungsi yang diwakilkan sedemikian; dan (b) hendaklah dilakukan atas nama Lembaga.”. Pindaan seksyen 14"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 14(2) Akta ibu dipinda dengan menggantikan perkataan “Pengerusi” dengan perkataan “Lembaga”. Penggantian seksyen 16a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan menggantikan seksyen 16a dengan seksyen yang berikut: “Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000 16a. Akta Badan-Badan Berkanun (Tatatertib dan Surcaj) 2000 [Akta 605] hendaklah terpakai bagi Lembaga.”. Pemotongan seksyen 16b, 16c, 16d, 16e, 16f, 16g dan 16h"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/20/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu dipinda dengan memotong seksyen 16b, 16c, 16d, 16e, 16f, 16g dan 16h. Seksyen baharu 28a"
+      }
+    }
+  ]
+}

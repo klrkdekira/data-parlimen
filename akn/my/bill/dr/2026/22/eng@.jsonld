@@ -1,0 +1,2124 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-22-2026",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Trust Fund Bill 2026"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "PRELIMINARY Short title and commencement"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_16",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_23"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "NATIONAL TRUST FUND AND ITS GOVERNANCE Division 1 National Trust Fund National Trust Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "UTILISATION OF FUND Appropriation of Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund may only be appropriated for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "education;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "healthcare;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_24",
+      "schema:text": {
+        "@language": "en",
+        "@value": "climate change mitigation and adaptation. Withdrawal limit"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subsection (2), the maximum amount which may be withdrawn from the Fund in any financial year is fifty per centum of the total amount of the long-term expected real rate of return for that financial year on the assets of the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If in any financial year the Minister thinks that it is necessary to authorize a withdrawal exceeding the maximum amount set in accordance with subsection (1), the Minister shall, by motion, obtain the approval of the House of Representatives."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The House of Representatives may, by resolution, approve the motion referred to in subsection (2)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any amount available to be withdrawn in a financial year which has not been withdrawn shall not be carried forward to the following financial year."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_25",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, “long-term expected real rate of return” means the rate of return per annum, adjusted for inflation or deflation, that can be expected to be earned from investments of the Fund over a period of twenty years. Application for withdrawals from Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26",
+      "@type": "akn:clause",
+      "eli:number": "26",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "An application for a withdrawal from the Fund shall be submitted to the Minister for approval."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall not approve any withdrawal from the Fund in a financial year if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the withdrawal being applied for is not for any of the purposes specified in section 24; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the withdrawal being applied for would exceed the maximum amount available to be withdrawn for that financial year set in accordance with subsection 25(1) or as approved by resolution of the House of Representatives in accordance with subsection 25(3)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The person whose application for a withdrawal has been approved under this section shall submit a report to the Minister on the utilisation of funds and the extent to which the intended results or deliverables have been achieved."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The report referred to in subsection (3) shall be submitted by the end of the financial year of the Fund and the subsequent financial years until the funds have been fully utilised for the approved purpose."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_III__cl_26",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The annual report prepared by the National Trust Fund (Incorporated) shall disclose the approved withdrawals from the Fund for that financial year and the actual amount utilised."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the National Trust Fund (Incorporated) shall bear a device as the Board may approve and the common seal may from time to time be broken, changed, altered and made anew as the Board thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the National Trust Fund (Incorporated) shall be kept in the custody of the Chairperson and shall be authenticated by either the Chairperson or by such other person authorized by the Board in writing."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All deeds, documents and other instruments purporting to be sealed with the common seal of the National Trust Fund (Incorporated) and authenticated in accordance with subsection (2) shall, until the contrary is proved, be deemed to have been validly executed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any deed, document or other instrument which is not required to be executed under seal may be executed by a member of the Board or any officer or servant of the National Trust Fund (Incorporated) authorized on that behalf."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_10",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The common seal of the National Trust Fund (Incorporated) shall be officially and judicially noticed. Board of National Trust Fund (Incorporated)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister shall appoint members of the Board of the National Trust Fund (Incorporated) as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Chairperson;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a Deputy Chairperson who shall be an officer of the Ministry of Finance;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "an officer from the Prime Minister’s Department; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_11",
+      "schema:text": {
+        "@language": "en",
+        "@value": "not less than two but not more than four members who have knowledge, experience and expertise in business, investment, banking or finance. Duties and powers of Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall have the following duties and powers:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to be responsible for the administration and management of the National Trust Fund (Incorporated) and investment of the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to invest moneys in the Fund to maximise long-term risk-adjusted returns on a prudent and commercial basis and in a manner not adverse to the global reputation of Malaysia;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate and submit a Strategic Asset Allocation to the Minister for approval;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to formulate investment policies including the benchmarks and standards to assess performance and risk management of investments, and to monitor compliance of such policies; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "to carry out all such activities and do all such things as are necessary or advantageous and proper for the administration of this Act, or for such other purpose consistent with this Act as may be directed by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, in writing, delegate its powers which relate to the administration and management of the National Trust Fund (Incorporated) to any person approved by the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A delegation of powers under subsection (2) shall not preclude the Board itself from exercising at any time any of the powers so delegated."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "appoint attorneys or agents and technical advisers including actuaries, advocates and solicitors, bankers, stockbrokers or such other experts or professionals to transact any business or to do any act required to be transacted or done in the performance of its duties and exercise of its powers or for the better carrying into effect the provisions of this Act; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "pay from the Fund all charges and expenses so incurred."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may establish such committees as it considers necessary or expedient to assist it in the performance of its duties and exercise of its powers under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall, at all times, perform its duties and exercise its powers in good faith in the best interests of the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_12",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may issue any guidelines which are not inconsistent with the provisions of this Act for carrying out its duties and powers or for giving full effect to any provision of this Act. Remuneration"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The members of the Board shall be paid such remuneration as the Minister may determine. Tenure of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_14__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_14__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_14__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board shall, unless he sooner resigns or vacates his office or his appointment is sooner revoked, hold office for a term not exceeding three years and shall be eligible for reappointment."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_14__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_14",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), no person shall hold office for more than nine years in total. Resignation and revocation of appointment"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_15__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_15__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_15__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board may at any time resign his office by giving a written notice to the Minister."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_15__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_15",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may at any time revoke the appointment of any member of the Board. Vacation of office"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_16__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_16__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The office of a member of the Board is vacated—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_16__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "if he dies; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_16__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_16",
+      "schema:text": {
+        "@language": "en",
+        "@value": "upon his failure to attend three meetings of the Board consecutively without the permission of the Chairperson. Disqualification from membership of Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "A person shall be disqualified from being a member of the Board if—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is of unsound mind or is otherwise incapable of discharging his duties;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he has been convicted of an offence and sentenced to imprisonment for a term of not less than one year;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he has been convicted of an offence involving bribery, fraud or dishonesty; or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_17",
+      "schema:text": {
+        "@language": "en",
+        "@value": "he is a bankrupt. Meetings of Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "At any meeting of the Board, three members shall form a quorum and the Chairperson shall preside at all meetings of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding subsection (1), in the absence of the Chairperson at any meeting of the Board, a member elected by the members present shall preside over the meeting, and may exercise the powers of the Chairperson."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A decision of the Board shall be made by a simple majority of votes of the members present and voting in the meeting."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If on any question to be determined by the Board there is an equality of votes, the Chairperson shall have a casting vote in addition to his deliberative vote."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_18",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, the Board may regulate its own procedure at meetings. Disclosure of interest"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A member of the Board or a committee who directly or indirectly has by himself, his spouse or children any interest in any matter under discussion by the Board or committee shall, as soon as practicable after the fact has come to that member’s knowledge, disclose to the Board or committee the fact and nature of his interest."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A disclosure under subsection (1) shall be recorded in the minutes of the meeting of the Board or committee, as the case may be, in which the matter is discussed and, after the disclosure, the member—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall not be present or take part in any discussion or decision of the Board or committee relating to the matter; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be disregarded for the purpose of constituting a quorum of the Board or committee when the matter is discussed or decided upon."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any member of the Board or committee who fails to disclose his interest as required under subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding two hundred and fifty thousand ringgit or to imprisonment for a term not exceeding five years or to both."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_19",
+      "schema:text": {
+        "@language": "en",
+        "@value": "No decision, act or proceedings of the Board or committee shall be invalidated on the ground that any member of the Board or committee has contravened this section. Chief Executive Officer"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to the approval of the Minister, the Board may appoint a Chief Executive Officer on such terms and conditions as the Board thinks fit."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be an officer of the National Trust Fund (Incorporated);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall have such duties and powers as may be imposed or conferred upon him by this Act or as may be imposed or conferred by the Board from time to time in addition to such duties and powers as may be specified in his contract of appointment; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "shall be responsible for the day-to-day administration and management of the affairs of the National Trust Fund (Incorporated), including the implementation of the decisions made by the Board under this Act and the administrative control of the officers and servants of the National Trust Fund (Incorporated)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be accountable to the Board for the performance of his duties and the exercise of his powers."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_20",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Chief Executive Officer shall be paid such remuneration as the Board may determine, with the approval of the Minister. Appointment of officers and servants"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_21__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_21__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_21__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may appoint such number of officers and servants as may be necessary for the efficient conduct of the business of the National Trust Fund (Incorporated)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_21__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_21",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The officers and servants of the National Trust Fund (Incorporated) shall hold office for such period, receive such remuneration and shall be subject to such regulations on conduct and discipline and other terms and conditions of service as may be determined by the Board. Public servant"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every member of the Board, member of a committee, officer and servant of the National Trust Fund (Incorporated), who is not a member of the public service, while discharging his duties under this Act shall be deemed to be a public servant within the meaning of the Penal Code [Act 574]. Application of Public Authorities Protection Act 1948"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Public Authorities Protection Act 1948 [Act 198] shall apply to any action, suit, prosecution or proceedings against the Board, member of the Board, a committee, member of a committee, any officer, any servant or any other person acting under the direction of the Board in respect of any act, neglect or default done or committed by him in good faith or any omission by him in good faith in such capacity."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A fund to be known as the “National Trust Fund” is established. Contributions to Fund by Federal Government"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Government shall pay into the Fund for each financial year—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a minimum of zero point one per centum of the projected annual revenue of the Federal Government as set out in the annual financial statement for that financial year laid before the House of Representatives pursuant to Article 99 of the Federal Constitution;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a minimum of two per centum of dividend received from Petroliam Nasional Berhad (PETRONAS) for that financial year; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a minimum of two per centum from export duty received by the Federal Government for that financial year on depleting resources under any written law, after deducting any assignment to any State in Malaysia in relation to the export duty."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The amounts to be contributed under subsection (1) for a financial year shall be included in the annual financial statement laid before the House of Representatives pursuant to Article 99 of the Federal Constitution."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Federal Government shall transfer the amounts to be contributed into the Fund by the end of the relevant financial year. Contributions to Fund by other sources"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:name": {
+        "@language": "en",
+        "@value": "There shall be paid from time to time into the Fund—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such contributions as may be made by any State Government in Malaysia which derives any form of royalty from the exploitation of petroleum or other depleting resources;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all moneys from any investments of the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "all grants, donations, endowments, gifts, contributions and bequests that may be made to or in favour of the Fund; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "such contributions as may be made by any person or authority whose business includes the research or development of a depleting resource. Expenditure to be charged on Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Fund shall be expended for the following purposes:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "investments under Part IV of this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying the remuneration, reimbursement and other expenses of the members of the Board, officers and servants of the National Trust Fund (Incorporated);"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying the charges and expenses lawfully incurred or accepted by the National Trust Fund (Incorporated) in the performance of its duties or the exercise of its powers under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "en",
+        "@value": "paying or expending any costs, expenses or other payments directly attributable to the administration, management and investment of the Fund. Returns, reports, accounts and other information"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall furnish to the Minister such returns, reports, accounts and other information with respect to the assets and activities of the Fund as the Minister may from time to time require. Division 2 National Trust Fund (Incorporated) Establishment of National Trust Fund (Incorporated)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A body corporate by the name of “National Trust Fund (Incorporated)” is established."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The National Trust Fund (Incorporated) shall have perpetual succession and a common seal."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The National Trust Fund (Incorporated) may sue and be sued in its corporate name."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to and for the purposes of this Act, the National Trust Fund (Incorporated) may, upon such terms as it thinks fit—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "enter into contracts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "acquire, purchase, take, hold and enjoy movable and immovable property of every description; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_8__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "convey, assign, surrender, yield up, charge, mortgage, demise, reassign, transfer, or otherwise dispose of, or deal with, any movable or immovable property or any interest therein vested in the National Trust Fund (Incorporated). Functions and powers of National Trust Fund (Incorporated)"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The functions of the National Trust Fund (Incorporated) are to administer, manage and invest the Fund in accordance with and for the purposes specified in this Act and to do such other things as it may be required or permitted to do under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The National Trust Fund (Incorporated) shall have the power to perform any or all of its functions, wholly or partly, in or outside Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_II__cl_9",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The National Trust Fund (Incorporated) may, with the approval of the Minister, establish a company for investment purposes as the Board thinks fit. Common seal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_28",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_29"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "INVESTMENTS OF FUND Investments of Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27",
+      "@type": "akn:clause",
+      "eli:number": "27",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_e",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_f",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_g",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_h",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_i",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_j",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_k"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Moneys in the Fund may be invested—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in deposit of money or gold in any bank or, central bank or other monetary authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in money market instruments, including treasury bills, bankers’ acceptances and certificates of deposit, with maturity periods not exceeding one year;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in securities issued or guaranteed by any sovereign government, agencies of such government, central bank or other monetary authority, or supranational or multilateral organisation, including securities where the sovereign government, agencies of such government, central bank or other monetary authority, or supranational or multilateral organisation is the obligor;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in securities issued by any company or corporation;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in shares in any public company which are listed on any stock exchange;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_f",
+      "@type": "akn:paragraph",
+      "eli:number": "f",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in real estate investment trusts;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_g",
+      "@type": "akn:paragraph",
+      "eli:number": "g",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in funds, including unit trusts and exchange traded funds;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_h",
+      "@type": "akn:paragraph",
+      "eli:number": "h",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in precious metals, including gold, silver, platinum and palladium;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_i",
+      "@type": "akn:paragraph",
+      "eli:number": "i",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in private equity, real estate and infrastructure, through funds managed by any fund management company;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_j",
+      "@type": "akn:paragraph",
+      "eli:number": "j",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in derivatives; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1__para_k",
+      "@type": "akn:paragraph",
+      "eli:number": "k",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "in any other investments with the approval of the Minister, denominated in any currency, whether in or outside Malaysia."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of investments under this section, the Board shall formulate a Strategic Asset Allocation specifying the long-term investment strategy, which includes the expected return, the asset classes permitted for investment and the risk tolerance of the asset classes."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board shall submit the Strategic Asset Allocation prepared under subsection (2) to the Minister for approval."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Strategic Asset Allocation approved by the Minister shall serve as a guidance for the making of an investment under this section."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, “securities” means—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "debentures, stocks, shares or bonds;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "unit trusts or exchange traded funds;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other instruments creating or evidencing a charge or lien on assets, including asset-backed securities; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_27__subsec_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any Islamic securities, and includes any right, option or interest in respect thereof. Appointment of principal fund manager"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_28",
+      "@type": "akn:clause",
+      "eli:number": "28",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, on the recommendation of the Board, by order published in the Gazette, appoint a principal fund manager to invest the Fund in accordance with this Act or regulations made under this Act or any guidelines issued under this Act. Appointment of external fund manager"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV__cl_29",
+      "@type": "akn:clause",
+      "eli:number": "29",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_IV",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Board may, on the recommendation of the principal fund manager, appoint an external fund manager to invest the Fund in accordance with this Act or regulations made under this Act or any guidelines issued under this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act may be cited as the National Trust Fund Act 2026."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation on a date to be appointed by the Minister by notification in the Gazette. Interpretation"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_I",
+      "schema:name": {
+        "@language": "en",
+        "@value": "In this Act, unless the context otherwise requires—"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "“Fund” means the National Trust Fund established under section 3; “National Trust Fund (Incorporated)” means the National Trust Fund (Incorporated) established under section 8; “Board” means the Board of the National Trust Fund (Incorporated) established under section 11; “Minister” means the Minister charged with the responsibility for finance; “remuneration” includes salary or wages, allowances, medical benefits and other privileges capable of being valued in money; “depleting resources” means crude oil, mineral ores, iron ore or any other natural resources which may be susceptible to depletion."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_30",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_31",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_32",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_34",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "MISCELLANEOUS Financial procedure"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI",
+      "@type": "akn:part",
+      "eli:number": "VI",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_36",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_37",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_38",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_39",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_41",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_42",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_43",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_44"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "REPEAL, SAVING AND TRANSITIONAL Repeal of National Trust Fund Act 1988"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_36",
+      "@type": "akn:clause",
+      "eli:number": "36",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_36__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_36__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI",
+      "schema:name": {
+        "@language": "en",
+        "@value": "On the date of the coming into operation of this Act—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_36__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the National Trust Fund Act 1988 [Act 339], which is referred to as the “repealed Act” in this Act, is repealed; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_36__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_36",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the National Trust Fund and the National Trust Fund Panel established under the repealed Act shall cease to exist. Continuance of laws, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_37",
+      "@type": "akn:clause",
+      "eli:number": "37",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_37__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_37__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_37__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, all written laws including subsidiary legislation affecting or for the protection of the National Trust Fund and in force immediately before the date of the coming into operation of this Act shall, until amended or revoked by the authority having power to do so, continue in force on and after the date of the coming into operation of this Act and be construed as if this Act had not been passed."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_37__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_37",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any reference to the National Trust Fund Panel in any written law including subsidiary legislation or administrative document shall be construed as a reference to the National Trust Fund (Incorporated). Members of National Trust Fund Panel deemed appointed as members of Board"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_38",
+      "@type": "akn:clause",
+      "eli:number": "38",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_38__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_38__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_38__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who, immediately before the date of the coming into operation of this Act, was the Chairman or other member of the National Trust Fund Panel appointed under the repealed Act shall, on the date of the coming into operation of this Act, be deemed to have been appointed as the Chairperson or member of the Board, as the case may be."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_38__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_38",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any period during which a person served as a member of the National Trust Fund Panel shall be taken into account in determining his period of service as a member of the Board under this Act. Transfer of powers, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_39",
+      "@type": "akn:clause",
+      "eli:number": "39",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, all powers, rights, privileges, duties, liabilities and obligations which immediately before the date of the coming into operation of this Act were the powers, rights, privileges, duties, liabilities and obligations of the National Trust Fund Panel shall, on the date of the coming into operation of this Act, devolve on the National Trust Fund (Incorporated). Transfer of assets and properties"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40",
+      "@type": "akn:clause",
+      "eli:number": "40",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act and any direction of the Minister, all assets and other properties whatsoever, rights and liabilities to which the National Trust Fund Panel was entitled or subject to, which, immediately before the date of the coming into operation of this Act, were vested in the National Trust Fund Panel or in any person on behalf of the National Trust Fund Panel shall, on the date of the coming into operation of this Act, vest in the National Trust Fund (Incorporated)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every chose in action vested in the National Trust Fund (Incorporated) by virtue of subsection (1) may, on and after the date of the coming into operation of this Act, be sued on, recovered or enforced by the National Trust Fund (Incorporated) in its own name and it shall not be necessary for the National Trust Fund (Incorporated) to give notice to the person bound by the chose in action of the vesting effected by that subsection."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_40",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Every right and liability vested in the National Trust Fund (Incorporated) by virtue of subsection (1) may, on and after the date of the coming into operation of this Act, be sued on, recovered or enforced by or against the National Trust Fund (Incorporated) in its own name and it shall not be necessary for the National Trust Fund (Incorporated) to give notice to the person whose right or liability is affected by the vesting effected by that subsection. Existing contracts, etc."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_41",
+      "@type": "akn:clause",
+      "eli:number": "41",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All agreements, deeds, bonds, documents and other instruments and working arrangements subsisting immediately before the date of the coming into operation of this Act and affecting any of the property or money transferred under this Act shall continue to remain in full force and effect, against or in favour of the National Trust Fund (Incorporated), and enforceable as fully and effectually as if, instead of the National Trust Fund Panel, the National Trust Fund (Incorporated) had been named in the agreements, deeds, bonds, documents and other instruments and working arrangements and had been a party to the agreements, deeds, bonds, documents and other instruments and working arrangements. Continuance of Bank Negara Malaysia’s duties and responsibilities"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_42",
+      "@type": "akn:clause",
+      "eli:number": "42",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_42__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_42__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_42__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to this Act, Bank Negara Malaysia shall, on the date of the coming into operation of this Act, continue to discharge its duties and responsibilities under the repealed Act for such period as may be determined by the Minister, on the recommendation of the Board."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_42__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_42",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any delegation of powers or duties to Bank Negara Malaysia under the repealed Act shall, on the date of the coming into operation of this Act, continue to be valid until revoked by the Minister, on the recommendation of the Board. Continuance of civil and criminal proceedings"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_43",
+      "@type": "akn:clause",
+      "eli:number": "43",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any proceedings whether civil or criminal, or cause of action pending or existing immediately before the date of the coming into operation of this Act by or against the National Trust Fund Panel or any person acting on its behalf may be continued or instituted by or against the National Trust Fund (Incorporated). Transfer of Fund"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI__cl_44",
+      "@type": "akn:clause",
+      "eli:number": "44",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_VI",
+      "schema:text": {
+        "@language": "en",
+        "@value": "All moneys standing in, or due to be paid to, the National Trust Fund established under the repealed Act shall, on the date of the coming into operation of this Act, be transferred to the Fund."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_30",
+      "@type": "akn:clause",
+      "eli:number": "30",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The National Trust Fund (Incorporated) shall determine its own financial procedure and may adopt with such modifications as it thinks fit any regulations, rules, policies, circulars and directives made or issued by the Federal Government on financial procedure. Financial year"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_31",
+      "@type": "akn:clause",
+      "eli:number": "31",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of this Act, the financial year of the Fund shall commence on 1 January and end on 31 December of each year. Statutory Bodies (Accounts and Annual Reports) Act 1980"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_32",
+      "@type": "akn:clause",
+      "eli:number": "32",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Statutory Bodies (Accounts and Annual Reports) Act 1980 [Act 240] shall apply to the National Trust Fund (Incorporated). Power to make regulations"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33",
+      "@type": "akn:clause",
+      "eli:number": "33",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, on the recommendation of the Board, make regulations as may be necessary or expedient for giving full effect to the provisions of this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_d",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_e"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Without prejudice to the generality of subsection (1), regulations may be made in relation to all or any of the following matters:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the utilisation of the Fund, and the manner and procedure for withdrawals from the Fund;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the duties and powers of the Board under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the disclosure of interest by members of the Board and members of a committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the criteria of fit and proper person and other eligibility criteria for appointment as the principal fund manager;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2__para_e",
+      "@type": "akn:paragraph",
+      "eli:number": "e",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_33__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the conduct and discipline of the officers and servants of the National Trust Fund (Incorporated) and the establishment of the appropriate disciplinary authorities for the different categories of officers and servants. Directions by Minister"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_34",
+      "@type": "akn:clause",
+      "eli:number": "34",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may give the Board such directions of a general nature which are not inconsistent with the provisions of this Act with respect to the performance of its duties and exercise of its powers and the Board shall give effect to all such directions. Obligation of secrecy"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35",
+      "@type": "akn:clause",
+      "eli:number": "35",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Except for any of the purposes of this Act or for the purposes of any civil or criminal proceedings under any written law or where otherwise authorized by the Board, the persons specified in subsection (2) shall not disclose any information which has been obtained by him in the course of performing his duties and which is not published pursuant to this Act."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2__para_c",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2__para_d"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subsection (1) shall apply to the following persons:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a member of the Board or member of a committee, an officer or a servant of the National Trust Fund (Incorporated), whether during or after his tenure of office or employment;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a person attending any meeting of the Board or any committee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "a principal fund manager or external fund manager appointed under this Act;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2__para_d",
+      "@type": "akn:paragraph",
+      "eli:number": "d",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "any other person who has by any means access to any information or documents relating to the affairs of the National Trust Fund (Incorporated)."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/22/eng@/~part_V__cl_35",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any person who contravenes subsection (1) commits an offence and shall, on conviction, be liable to a fine not exceeding one hundred thousand ringgit or to imprisonment for a term not exceeding three years or to both."
+      }
+    }
+  ]
+}

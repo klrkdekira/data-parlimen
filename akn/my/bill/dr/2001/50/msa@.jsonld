@@ -1,0 +1,382 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-50-2001",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_9"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Panglima Gagah Berani (Elaun Kewangan) 2001"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Panglima Gagah Berani (Elaun Kenangan) 2001. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"anak\" termasuklah anak tiri dan anak yang diambil sebagai anak angkat oleh penerima di bawah mana-mana undang-undang bertulis berhubung dengan pengangkatan, atau mengikut adat atau kelaziman; \"Darjah Kebesaran\" ertinya Darjah Kebesaran Panglima Gagah Berani yang dianugerahkan di bawah Statut Panglima Gagah Berani (P.G.B.) [P.W. 3151/60]; \"elaun kenangan\" ertinya elaun kenangan yang diberikan di bawah subseksyen 3(1); \"isteri\" atau \"suami\" ertinya balu atau duda penerima yang mati, yang perkahwinan mereka diiktiraf di Malaysia sebagai suatu perkahwinan yang sah di bawah mana-mana undang-undang bertulis, agama, adat atau kelaziman; \"penerima\" ertinya seseorang yang telah dianugerahi Darjah Kebesaran. Pemberian elaun kenangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Maka bolehlah diberikan suatu elaun kenangan sebanyak tiga ratus ringgit sebulan kepada seseorang penerima Darjah Kebesaran, dan jika Darjah Kebesaran itu dianugerahkan kepada penerima itu lebih daripada sekali, maka bolehlah diberikan suatu elaun kenangan yang berasingan sebanyak tiga ratus ringgit sebulan kepadanya berkenaan dengan setiap Darjah Kebesaran yang dianugerahkan kepadanya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Elaun kenangan hendaklah dibayar secara tunggakan tidak lebih awal daripada penghujung setiap bulan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Darjah Kebesaran dianugerahkan sebelum permulaan kuat kuasa Akta ini dan penerima masih hidup pada tarikh permulaan kuat kuasa itu, elaun kenangan hendaklah dibayar kepada penerima secara ke belakang, mulai dari bulan Darjah Kebesaran itu dianugerahkan kepadanya, tetapi tidak boleh lebih awal, dalam apa-apa keadaan, daripada bulan Jun 1983."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Darjah Kebesaran itu dianugerahkan pada atau selepas permulaan kuat kuasa Akta ini, elaun kenangan hendaklah dibayar kepada penerima mulai dari bulan Darjah Kebesaran itu dianugerahkan kepadanya. Pemberhentian pemberian elaun kenangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemberian elaun kenangan hendaklah terhenti—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila penerima itu mati;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila penerima itu disabitkan atas suatu kesalahan oleh suatu mahkamah di dalam Persekutuan dan dikenakan hukuman mati, atau pemenjaraan selama apa-apa tempoh selain pemenjaraan sebagai ganti denda; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apabila penganugerahan Darjah Kebesaran itu dibatalkan atau diungkaikan mengikut seksyen VIII Statut Panglima Gagah Berani."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada elaun kenangan boleh dibayar mulai dari bulan kematian penerima itu berlaku, atau yang hukuman itu dikenakan ke atas penerima, atau penganugerahan Darjah Kebesaran itu dibatalkan atau diungkaikan, mengikut mana-mana yang berkenaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud subseksyen (2), bulan yang hukuman itu dikenakan ertinya bulan yang hukuman itu dijatuhkan oleh mahkamah yang membicarakan atau jika ada rayuan terhadap hukuman itu bulan yang hukuman itu disahkan atas rayuan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika penerima itu menerima pengampunan bebas berkenaan dengan sabitan itu atau jika Darjah Kebesaran yang dibatalkan atau yang diungkaikan itu diberikan semula kepadanya, elaun kenangan hendaklah diberikan semula kepadanya mulai dari bulan pengampunan bebas itu diterima atau Darjah Kebesaran itu diberikan semula. Pemberian kepada waris kadim penerima jika Darjah Kebesaran dianugerahkan selepas kematian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Darjah Kebesaran telah dianugerahkan sebelum permulaan kuat kuasa Akta ini kepada seseorang yang telah mati, bolehlah diberikan suatu jumlah wang sebanyak lima belas ribu ringgit hanya sekali—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepada isteri atau isteri-isteri atau suami dan anak-anak penerima yang mati itu yang masih hidup pada tarikh permulaan kuat kuasa Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pada tarikh permulaan kuat kuasa Akta ini tiada isteri, suami atau anak penerima yang mati itu yang masih hidup, kepada ibu bapa atau ibu atau bapa penerima yang mati itu yang masih hidup pada tarikh itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pada tarikh permulaan kuat kuasa Akta ini tiada isteri, suami, anak, ibu atau bapa penerima yang mati itu yang masih hidup, kepada datuk nenek atau datuk atau nenek penerima yang mati itu yang masih hidup pada tarikh itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Darjah Kebesaran dianugerahkan selepas permulaan kuat kuasa Akta ini kepada seseorang yang telah mati, bolehlah diberikan suatu jumlah wang sebanyak lima belas ribu ringgit hanya sekali—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepada isteri atau isteri-isteri atau suami dan anak-anak penerima yang mati itu yang masih hidup pada tarikh penganugerahan Darjah Kebesaran itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pada tarikh penganugerahan Darjah Kebesaran itu tiada isteri, suami atau anak penerima yang mati itu yang masih hidup, kepada ibu bapa atau ibu atau bapa penerima yang mati itu yang masih hidup pada tarikh itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_5__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pada tarikh penganugerahan Darjah Kebesaran itu tiada isteri, suami, anak, ibu atau bapa penerima yang mati itu yang masih hidup, kepada datuk nenek atau datuk atau nenek penerima yang mati itu yang masih hidup pada tarikh itu. Pemberian kepada waris kadim penerima yang mati sebelum permulaan kuat kuasa Akta"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika Darjah Kebesaran telah dianugerahkan sebelum permulaan kuat kuasa Akta ini dan penerima telah mati sebelum tarikh permulaan kuat kuasa itu, bolehlah diberikan suatu jumlah wang sebanyak lima belas ribu ringgit hanya sekali—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kepada isteri atau isteri-isteri atau suami dan anak-anak penerima yang mati itu yang masih hidup pada tarikh permulaan kuat kuasa Akta ini;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pada tarikh permulaan kuat kuasa Akta ini tiada isteri, suami atau anak penerima yang mati itu yang masih hidup, kepada ibu bapa atau ibu atau bapa penerima yang mati itu yang masih hidup pada tarikh itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pada tarikh permulaan kuat kuasa Akta ini tiada isteri, suami, anak, ibu atau bapa penerima yang mati itu yang masih hidup, kepada datuk nenek atau datuk atau nenek penerima yang mati itu yang masih hidup pada tarikh itu. Panglima Gagah Berani (Elaun Kenangan) 7 Perdana Menteri mengagihkan urn aim yang akan dibayar"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Amaun yang akan dibayar kepada isteri, isteri-isteri, suami, anak-anak, ibu bapa atau datuk nenek, mengikut mana-mana yang berkenaan, di bawah seksyen 5 atau 6 hendaklah mengikut apa- apa perkadaran yang ditentukan oleh Perdana Menteri. Elaun kenangan dan jumlah wang hendaklah dipertanggungkan pada Kumpulan Wang Disatukan Persekutuan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Elaun kenangan dan jumlah wang yang diberikan di bawah Akta ini hendaklah dipertanggungkan pada Kumpulan Wang Disatukan Persekutuan. Elaun kenangan dan jumlah wang tidak boleh diserahhakkan, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2001/50/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa elaun kenangan atau jumlah wang yang diberikan di bawah Akta ini tidaklah boleh diserahhakkan, dipindahkan hakmilik, ditahan, diasingkan atau dilevi berkenaan dengan apa-apa tuntutan."
+      }
+    }
+  ]
+}

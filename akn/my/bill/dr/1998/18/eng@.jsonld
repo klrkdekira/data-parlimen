@@ -1,0 +1,396 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "en",
+      "eli:number": "DR-18-1998",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "en",
+        "@value": "National Land Code (Amendment) Bill 1998"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "This Act may be cited as the National Land Code"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "(Amendment) Act 1998."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_2__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation in each State on such date as the Minister may, with the approval of the National Land Council, appoint in relation to that State by notification in the Gazette of the Federation."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "This Act comes into operation in the Federal Territory of Kuala Lumpur on such date as the Minister may, by notification in the Gazette of the Federation, appoint."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_3__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_3__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": "The National Land Code, which in this Act is referred"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "to as the \"Code\", is amended by inserting after PART ONE (A) the following Part: PART ONE (B) MODIFICATIONS TO FACILITATE THE IMPLEMENTATION OF THE PENGURUSAN DANAHARTA NASIONAL BERHAD ACT 1998 Modifications 5c. (1) Upon the coming into force of the to facilitate Pengurusan Danaharta Nasional Berhad Act 1998, the imple- the Fifteenth Schedule which provides for the mentation of Pengurusan modifications to the National Land Code to Danaharta facilitate the implementation of the Pengurusan Nasional Berhad Act Danaharta Nasional Berhad Act 1998 shall apply 1998. and the Act shall be read subject to the provisions Act Act 56/65. of the Schedule."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Minister may, with the approval of the National Land Council, by order notified in the Gazette of the Federation, make such amendments to the Fifteenth Schedule as he considers necessary, or expedient."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_3__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_3",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this section, \"modifications\" includes amendments, additions, deletions, substitutions, adaptations, and non-application of any provisions.\". New"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@",
+      "schema:name": {
+        "@language": "en",
+        "@value": ". The Code is amended by inserting after the Fourteenth Fifteenth"
+      },
+      "schema:text": {
+        "@language": "en",
+        "@value": "Schedule the following Schedule:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@",
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"FIFTEENTH SCHEDULE (Section 5c) MODIFICATIONS TO FACILITATE THE IMPLEMENTATION OF THE PENGURUSAN DANAHARTA NASIONAL BERHAD ACT 1998 Interpretation. 1. For the purposes of this Schedule— \"acquiree\" has the meaning assigned to it in the Pengurusan Danaharta Nasional Berhad Act 1998; \"Danaharta\" means Pengurusan Danaharta Nasional Berhad, the corporation established pursuant to the Act Pengurusan Danaharta Nasional Berhad Act 1998 (which expression shall include any of its subsidiaries defined under the Act); \"seller\" has the meaning assigned to it in the Pengurusan Danaharta Nasional Berhad Act 1998; \"statutory vesting\" in relation to section 414 includes the vesting of any lienholder's caveat or private caveat or prohibitory order; \"transfer certificate\" has the meaning assigned to it in the Pengurusan Danaharta Nasional Berhad Act 1998; \"vesting certificate\" has the meaning assigned to it in the Pengurusan Danaharta Nasional Berhad Act 1998. Lienholder's 2. For the purposes of subsection (1) of section 214, a caveat or private lienholder's caveat or private caveat vested in Danaharta caveat capable of transfer. or the acquiree, as the case may be, pursuant to a statutory vesting effected under the Pengurusan Danaharta Nasional Berhad Act 1998 shall be capable of transfer. Statutory 3. (1) For the purposes of section 415, in the case of a vesting to statutory vesting pursuant to the Pengurusan Danaharta Danaharta. Nasional Berhad Act 1998, the vesting certificate and the transfer certificate shall be conclusive evidence of the vesting of any registered or registrable interest. (2) The Registrar shall, upon receiving the vesting certificate or the transfer certificate from Danaharta register such vesting and shall dispense with all other requirements pertaining to the application of a statutory vesting under subsection (1) of section 415. (3) The effective date of the vesting under subparagraph (2) shall be the date specified in the vesting certificate or the transfer certificate, as the case may be. (4) Where any land or lease has been vested in the acquiree pursuant to this paragraph, any further dealings thereof shall be subject to the provisions of the Code. Transfer of 4. (1) Where any land or lease vested in Danaharta is lienholder's subject to any lienholder's caveat, private caveat or caveat, private caveat and prohibitory order, the transfer of such lienholder's caveat, prohibitory order in respect of private caveat or prohibitory order shall be effected by land or lease vested in an instrument in Form 1(B)A. Danaharta. (2) Upon the registration of the transfer specified under subparagraph (1), the lienholder's caveat, private caveat or prohibitory order shall pass to and vest in Danaharta and shall be enforceable by or against Danaharta. (3) For the purposes of this paragraph, \"transfer\" means— (a) where the land or lease has been vested in Danaharta and is subject to a lienholder' s caveat, such caveat shall be deemed to have been withdrawn; (b) where the charge has been vested in Danaharta and the land is subject to a private caveat, Danaharta will have the benefit of such claim under the caveat; or (c) where the land or lease has been vested in Danaharta and is subject to a prohibitory order, Danaharta shall have the benefit of such order. (4) Where any lienholder's caveat, private caveat or prohibitory order in respect of any land or lease has been transferred to Danaharta pursuant to this paragraph, no further transfer of such lienholder's caveat, private caveat or prohibitory order shall be registered. (5) The registration of such transfer shall be effected under this paragraph notwithstanding anything inconsistent therewith or contrary thereto contained in Chapter 6 of Part Sixteen and Part Nineteen. Sale by"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "@type": "akn:paragraph",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_8"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For the purposes of Chapter 3 of Part Sixteen, private Danaharta shall have, in addition to the remedies of a treaty. chargee, the option of exercising a sale by private treaty."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In this paragraph—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "the chargee means \"Danaharta\"; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_2",
+      "schema:text": {
+        "@language": "en",
+        "@value": "\"private treaty\" means negotiations between the chargee and the purchaser leading up to a contract of sale and purchase."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Subject to subparagraph (1), where Danaharta chooses to exercise the sale by private treaty, the provisions in subparagraphs (4), (5), (6), (7) and (8) shall apply."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The chargee shall—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "notify the chargor in writing of the breach in question including the sum due to the chargee;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "require it to be remedied within one month of the date of the notice; and"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_4",
+      "schema:text": {
+        "@language": "en",
+        "@value": "warn the chargor that if the notice is not complied with, he shall proceed to exercise the sale by private treaty."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "If at the expiry of the period specified in the notice under subparagraph (4)(a) has not been complied with, the land or lease may be sold by private treaty: Provided that the chargor may, at any time before the conclusion of the private treaty, remedy the breach specified in subparagraph (4) including tendering the amount due to the chargee and the sale shall be deemed to be terminated: And provided further that the price to be paid by the purchaser is the market value of the land or lease prevailing at the time of the sale."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Where the sale by the private treaty under subparagraph (5) has been completed, the land or lease in question shall be transferred to the purchaser by an instrument in Form 1(B)B."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_7",
+      "@type": "akn:subsection",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The Registrar, shall upon receiving Form 1(B)s specified in subparagraph (6) treat it as an instrument of dealing and the provisions of section 267 shall apply mutatis mutandis, as they apply to a certificate of sale."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_8",
+      "@type": "akn:subsection",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_8__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5",
+      "schema:text": {
+        "@language": "en",
+        "@value": "The purchase money arising on any sale under this paragraph shall be applied as follows:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "firstly, in the payment of any rent due to the State Authority;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_5__subsec_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "secondly, as provided in the order specified in paragraphs (c), (d) and (e) of subsection (1) and subsections (2) and (3) of section 268. Power of"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_6",
+      "@type": "akn:paragraph",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "A power of attorney in favour of a seller which attorney. before the vesting date was duly registered under Chapter 5 of Part Eighteen shall be read and construed as a reference to and proof of a power of attorney given to Danaharta, upon production of a vesting certificate to the Registrar or as a reference to a power of attorney given to the acquiree upon production of a transfer certificate to the Registrar. Rights as a"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_7",
+      "@type": "akn:paragraph",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Notwithstanding section 281, where Danaharta as chargee. holder of a lien has obtained judgment for the amount due to him, paragraph 5 of this Schedule shall apply as if Danaharta was a chargee of the land or the lease. Caveat or"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8",
+      "@type": "akn:paragraph",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1",
+      "schema:text": {
+        "@language": "en",
+        "@value": "Any caveat or prohibitory order which was registered, prohibitory endorsed or entered prior to a vesting shall not prevent order shall not prevent a a transfer of any registered interest or the registrable transfer. interest or other right or entitlement whatsoever stipulated in the vesting certificate or transfer certificate, as the case may be. NATIONAL LAND CODE Form 1(B)A (Paragraph 4, Fifteenth Schedule) TRANSFER OF LIENHOLDER'S CAVEAT, PRIVATE CAVEAT OR PROHIBITORY ORDER To the * Registrar/Land Administrator ............................................ I, ..................................................................................................... of..................................................................................................... being a person having a claim to the * land/lease/sublease or *interest in the *land/lease/sublease described in the schedule below:"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In consideration of the sum of RM........... the receipt of which sum I hereby acknowledge;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "In consideration of—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/18/eng@/~sched_1__para_8",
+      "schema:text": {
+        "@language": "en",
+        "@value": "For no consideration, hereby transfer to the transferee named below the *lienholder's caveat/private caveat/prohibitory order that is being claimed by me. Dated this......................day of ............... 19..... Signature (or other form of execution) by or on behalf of the transferor *I/We, *Danaharta/acquiree of............................................................. accept this transfer. Signature (or other form of execution) by or on behalf of *Danaharta/acquiree [Schedule as in Form 13A in the First Schedule to the Code] National Land Code (Amendment) 7 NATIONAL LAND CODE Form 1(B)B (Paragraph 5, Fifteenth Schedule) CERTIFICATE OF SALE BY PRIVATE TREATY To the * Registrar/Land Administrator ........................................... *I/We, *Danaharta/acquiree of............................................................ as chargee hereby certify that the * land/lease/sublease or *interest in the *land/lease/sublease described in the schedule below has been soldby private treaty to....................................................................... in consideration of the sum of RM ................................................ Dated this............................day of ............... 19.... Signature (or other form of execution) by or on behalf of *Danaharta/acquiree [Schedule as in Form 13A in the First Schedule to the Code]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1119 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-17-2006",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_V",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Perdagangan Elektronik 2006"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I",
+      "@type": "akn:part",
+      "eli:number": "I",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PERMULAAN Tajuk ringkas dan permulaan kuat kuasa"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II",
+      "@type": "akn:part",
+      "eli:number": "II",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_7"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PENGIKTIRAFAN UNDANG-UNDANG MESEJ ELEKTRONIK Pengiktirafan undang-undang mesej elektronik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III",
+      "@type": "akn:part",
+      "eli:number": "III",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_14",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "MEMENUHI KEHENDAK UNDANG-UNDANG MELALUI CARA ELEKTRONIK Tulisan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_10__subsec_2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "( 1 ) Jika mana-mana undang-undang menghendaki meterai dicapkan pada suatu dokumen, kehendak undang-undang itu dipenuhi, jika dokumen itu adalah dalam bentuk suatu mesej elektronik, oleh suatu tandatangan digital sebagaimana yang diperuntukkan di bawah Akta Tandatangan Digital 1997."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apapun subseksyen (1), Menteri boleh, melalui perintah dalam Warta, menetapkan apa-apa tandatangan elektronik lain yang memenuhi kehendak mengecapkan suatu meterai dalam suatu mesej elektronik. Saksi"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jikamana-manaundang-undangmenghendakitandatanganseorang saksi pada suatu dokumen, kehendak undang-undang itu dipenuhi, jika dokumen itu adalah dalam bentuk suatu mesej elektronik, oleh suatu tandatangan elektronik saksi itu yang mematuhi kehendak seksyen 9. Asal"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana undang-undang menghendaki mana-mana dokumen dalam bentuk asalnya, kehendak undang-undang itu dipenuhi oleh suatu dokumen dalam bentuk suatu mesej elektronik jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "wujud suatu jaminan yang boleh dipercayai mengenai integriti maklumat yang terkandung dalam mesej elektronik itu dari masa mesej elektronik itu mula-mula dihasilkan dalam bentuknya yang muktamad; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mesej elektronik itu boleh dicapai dan boleh difahami bagi membolehkannya digunakan untuk rujukan yang berikutnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan (\\){a) —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "kriteria bagi menilai integriti maklumat itu hendaklah sama ada maklumat itu kekal lengkap dan tidak diubah, selain penambahan apa-apa pengendorsan atau apa-apa perubahan yang timbul dalam perjalanan biasa komunikasi, penyimpanan dan paparan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_12__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "standard kebolehpercayaan yang dikehendaki hendaklah dinilai berpandukan kepada maksud dokumen itu dihasilkan dan berpandukan kepada semua hal keadaan lain yang berkaitan. Penyimpanan dokumen"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13",
+      "@type": "akn:clause",
+      "eli:number": "13",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana undang-undang menghendaki mana-mana dokumen disimpan, kehendak undang-undang itu dipenuhi dengan penyimpanan dokumen itu dalam bentuk suatu mesej elektronik jika mesej elektronik itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "disimpan dalam format yang mesej elektronik ini dihasilkan, dihantar atau diterima, atau dalam suatu format yang tidak mengubah secara material maklumat yang terkandung dalam mesej elektronik yang asalnya telah dihasilkan, dihantar atau diterima;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh dicapai dan boleh difahami bagi membolehkannya digunakan untuk rujukan yang berikutnya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_13",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengenal pasti asal usul dan destinasi mesej elektronik itu dan tarikh dan masa ia dihantar atau diterima. Salman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_14",
+      "@type": "akn:clause",
+      "eli:number": "14",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana undang-undang menghendaki apa-apa dokumen disimpan, disampaikan, dihantar atau diserahkan dalam lebih daripada satu salinan, kehendak undang-undang itu dipenuhi, jika dokumen itu adalah dalam bentuk suatu mesej elektronik, dengan penyimpanan, penyampaian, penghantaran atau penyerahan dokumen itu dalam satu salinan. Bentuk yang ditetapkan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15",
+      "@type": "akn:clause",
+      "eli:number": "15",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana undang-undang menghendaki apa-apa dokumen dalam suatu bentuk yang ditetapkan, kehendak undang-undang itu dipenuhi oleh suatu dokumen dalam bentuk suatu mesej elektronik jika mesej elektronik itu—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "diformat mengikut cara yang sama atau sebahagian besarnya sama dengan bentuk yang ditetapkan;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "boleh dicapai dan boleh difahami bagi membolehkannya digunakan bagi rujukan yang berikutnya; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_15",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "berupaya disimpan oleh orang yang satu lagi. Penyampaian dan penyerahan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16",
+      "@type": "akn:clause",
+      "eli:number": "16",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_1__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana undang-undang menghendaki apa-apa dokumen untuk disampaikan, dihantar atau diserahkan, kehendak undang-undang itu dipenuhi dengan penyampaian, penghantaran atau penyerahan dokumen itu melalui suatu cara elektronik jika terdapatnya suatu sistem memproses maklumat—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "untuk mengenal pasti asal usul, destinasi, masa dan tarikh penyampaian, penghantaran atau penyerahan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "bagi pengakuterimaan, dokumen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen ini tidak terpakai bagi—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa notis ingkar, notis tuntutan, notis tunjuk sebab, notis pemilikan semula atau apa-apa notis yang seumpama yang dikehendaki untuk disampaikan sebelum memulakan suatu prosiding undang-undang; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_16__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mana-mana proses pemulaan, pliding, afidavit atau dokumen lain yang dikehendaki disampaikan menurut suatu prosiding undang-undang."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana undang-undang menghendaki maklumat secara bertulis, kehendak undang-undang itu dipenuhi jika maklumat itu terkandung dalam suatu mesej elektronik yang boleh dicapai dan boleh difahami bagi membolehkannya digunakan untuk rujukan yang berikutnya. Tandatangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika mana-mana undang-undang menghendaki tandatangan seseorang atas suatu dokumen, kehendak undang-undang itu dipenuhi, jika dokumen itu adalah dalam bentuk suatu mesej elektronik, oleh suatu tandatangan elektronik yang —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dilampirkan kepada atau dikaitkan secara logik dengan mesej elektronik itu;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mengenal pasti secukupnya orang itu dan menunjukkan secukupnya kelulusan orang itu terhadap maklumat yang berhubungan dengan tandatangan itu; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "adalah boleh dipercayai sewajarnya memberikan maksud bagi, dan hal keadaan yang tandatangan itu dikehendaki."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bagi maksud perenggan (l)(c), suatu tandatangan elektronik adalah sewajarnya boleh dipercayai jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "cara menghasilkan tandatangan elektronik itu dikaitkan dengan dan di bawah kawalan orang itu sahaja;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apaperubahanyangdibuatkepada tandatangan elektronik itu selepas masa penandatanganan itu boleh dikesan; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa perubahan yang dibuat kepada dokumen itu selepas masa penandatanganan itu boleh dikesan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_III__cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Tandatangan Digital 1997 [Akta 562] hendaklah terus terpakai bagi apa-apa tandatangan digital yang digunakan sebagai suatu tandatangan elektronik dalam apa-apa urus niaga perdagangan. 1 Meterai"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_6__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_6__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_6__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa maklumat tidak bolehdinafikankesan undang-undang, kesahan atau kebolehlaksanaan atas alasan bahawa ia adalah secara keseluruhan atau sebahagian dalam suatu bentuk elektronik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_6__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa maklumat tidak boleh dinafikan kesan undang-undang, kesahan atau kebolehlaksanaan atas alasan bahawa maklumat itu tidak terkandung dalam mesej elektronik yang memberi kesan undang-undang itu, tetapi hanya dirujuk dalam mesej elektronik itu, dengan syarat bahawa maklumat yang dirujukkan itu boleh dicapai oleh orang yang terhadapnya maklumat yang dirujuk itu mungkin digunakan. Perabentukan dan kesahan kontrak"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_7__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_7__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_7__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam pembentukan suatu kontrak, komunikasi tawaran, penerimaan tawaran, dan pembatalan tawaran dan penerimaan atau apa-apa komunikasi yang berkaitan boleh dinyatakan melalui suatu mesej elektronik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_7__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_II__cl_7",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu kontrak tidak boleh dinafikan kesan undang-undang, kesahan atau kebolehlaksanaan atas alasan bahawa suatu mesej elektronik digunakan dalam pembentukannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV",
+      "@type": "akn:part",
+      "eli:number": "IV",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_18",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_19",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_20",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_21",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_22",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_23",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "KOMUNIKASI MESEJ"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "ELEKTRONIK Anggapan mesej elektronik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17",
+      "@type": "akn:clause",
+      "eli:number": "17",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Suatu mesej elektronik adalahkepunyaanpemula jika mesej elektronik itu dihantar oleh pemula sendiri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Di antara pemula dengan penerima, suatu mesej elektronik disifatkan sebagai kepunyaan pemula jika mesej elektronik itu dihantar oleh —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "orang yang mempunyai kebenaran untukbertindak bagi pihak pemula berkenaan dengan mesej elektronik itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "suatu sistem memproses maklumat yang diprogramkan oleh, atau bagi pihak, pemula untuk beroperasi secara automatik."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Di antara pemula dengan penerima, penerima itu berhak untuk menganggap suatu mesej elektronik itu adalah kepunyaan pemula, dan untuk bertindak atas anggapan itu jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penerima memakai sewajarnya suatu kaedah pengesahan yang dipersetujui antara pemula dengan penerima untuk menentukan sama ada mesej elektronik itu adalah kepunyaan pemula; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "mesej elektronik sebagaimana yang diterima oleh penerima adalah hasil tindakan seseorang yang hubungannya dengan pemula atau mana-mana agen pemula membolehkan orang itu mendapatkan capaian kepada suatu kaedah pengesahan yang digunakan oleh pemula untuk mengenal pasti mesej elektronik itu sebagai kepunyaannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen (3) tidak terpakai jika—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penerima telah menerima suatu notis daripada pemula bahawa mesej elektronik itu bukanlah kepunyaan pemula dan mempunyai masa yang munasabah untuk bertindak sewajarnya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_17__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penerima tahu atau sepatutnya tahu bahawa mesej elektronik itu bukanlah kepunyaan pemula jika dia telah menjalankan jagaan yang munasabah atau menggunakan apa-apakaedah pengesahan yang dipersetujui antara pemula dengan penerima. Kandungan mesej elektronik"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_18",
+      "@type": "akn:clause",
+      "eli:number": "18",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang penerima menerima suatu mesej elektronik, penerima itu berhak untuk menganggap bahawa mesej elektronik itu sebagai mesej yang pemula berhasrat untuk menghantar, dan bertindak atas anggapan itu, melainkan jika penerima tahu atau sepatutnya tahu, jika dia telah menjalankan jagaan yang munasabah atau menggunakan apa-apa tatacara yang dipersetujui, bahawa penghantaran mesej elektronik itu telah mengakibatkan apa-apa kesilapan dalam mesej elektronik yang diterima. Setiap mesej elektronik dianggap berasingan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_19",
+      "@type": "akn:clause",
+      "eli:number": "19",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika seseorang penerima menerima suatu mesej elektronik, penerima berhak untuk menganggap bahawa setiap mesej elektronik yang diterima sebagai suatu mesej elektronik yang berasingan dan untuk bertindak atas anggapan itu, melainkan jika penerima tahu atau sepatutnya tahu, dia menjalankan jagaan yang munasabah atau menggunakan apa-apa tatacara yang dipersetujui, bahawa mesej elektronik itu merupakan suatu pendua. Masa pengiriman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_20",
+      "@type": "akn:clause",
+      "eli:number": "20",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Melainkan jika dipersetujui selainnya antara pemula dengan penerima, suatu mesej elektronik disifatkan dihantar bila mesej elektronik itu memasuki suatu sistem memproses maklumat di luar kawalan pemula. Masa penerimaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_21",
+      "@type": "akn:clause",
+      "eli:number": "21",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_21__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_21__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Melainkan jika dipersetujui selainnya antara pemula dengan penerima, suatu mesej elektronik disifatkan diterima-"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_21__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika penerima telah menetapkan suatu sistem memproses maklumat bagi maksud menerima mesej elektronik, bila mesej elektronik itu memasuki sistem memproses maklumat yang ditetapkan itu; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_21__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_21",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika penerima tidak menetapkan suatu sistem memproses maklumatbagi maksud menerimamesej elektronik, bilamesej elektronik itu sampai kepada pengetahuan penerima. Tempat pengiriman"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_22",
+      "@type": "akn:clause",
+      "eli:number": "22",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_22__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_22__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Melainkan jika dipersetujui selainnya antara pemula dengan penerima, suatu mesej elektronik disifatkan dihantar dari tempat perniagaan pemula, dan—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_22__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jikapemulamempunyailebihdaripadasatutempatperniagaan, dari tempat perniagaan yang mempunyai hubungan yang terdekat dengan urus niaga itu atau jika tiada tempat perniagaan yang mempunyai hubungan terdekat dengan urus niaga itu, dari tempat utama perniagaan pemula; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_22__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_22",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pemula tidak mempunyai suatu tempat perniagaan, dari tempat tinggal biasa pemula. Tempat penerimaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_23",
+      "@type": "akn:clause",
+      "eli:number": "23",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_23__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_23__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Melainkan jika dipersetujui selainnya antara pemula dengan penerima, suatu mesej elektronik disifatkan diterima di tempat perniagaan penerima, dan —"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_23__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika penerima mempunyai lebih daripada satu tempat perniagaan, di tempat perniagaan yang mempunyai hubungan yang terdekat dengan urus niaga itu dan jika tiada tempat perniagaan yang mempunyai hubungan terdekat dengan urus niaga itu, dari tempat utama perniagaan penerima; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_23__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_23",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika penerima tidak mempunyai suatu tempat perniagaan, dari tempat tinggal biasa penerima. Pengakuterimaan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24",
+      "@type": "akn:clause",
+      "eli:number": "24",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_6"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen initerpakai jika, semasa atau sebelum menghantar suatu mesej elektronik, atau dalam mesej elektronik itu, pemula telah meminta atau bersetuju dengan penerima bahawa penerimaan mesej elektronik itu hendaklah diaku terima."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pemula telah meminta atau bersetuju dengan penerima bahawa penerimaan mesej elektronik itu hendaklah diaku terima, mesej elektronik itu dianggap seolah-olah tidak pernah dihantar sehinggalah pengakuterimaan itu diterima."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pemula tidak bersetuju dengan penerima bahawa pengakuterimaan itu hendaklah diberi dalam suatu bentuk tertentu atau melalui suatu cara yang tertentu, suatu pengakuterimaan boleh diberi melalui—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa komunikasi oleh penerima, automatik atau selainnya; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "apa-apa kelakuan penerima yang mencukupi untuk menunjukkan kepada pemula bahawa mesej elektronik itu telah diterima."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pengakuterimaan tidak diterima oleh pemula dalam masa yang ditentukan atau dipersetujui atau, jika tiada masa ditentukan atau dipersetujui, dalam suatu masa yang munasabah, pemula itu boleh—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "memberinotis kepada penerima menyatakan bahawa tiada pengakuterimaan telah diterima dan menentukan suatu masa yang munasabah yang pengakuterimaan itu mesti diterima; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "jika pengakuterimaan itu tidak diterima dalam masa yang ditentukan dalam perenggan (a), memberi notis kepada penerima untuk menganggap mesej elektronik itu seolah- olah tidak pernah dihantar dan menjalankan apa-apa hak lain yang dia ada."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pemula menerima pengakuterimaan penerima, adalah dianggap bahawa mesej elektronik yang berkaitan telah diterima oleh penerima."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24__subsec_6",
+      "@type": "akn:subsection",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_IV__cl_24",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Jika pengakuterimaan yang diterima itu menyatakan bahawa mesej elektronik yang berkaitan memenuhi kehendak teknikal, sama ada yang dipersetujui atau dikemukakan dalam standard yang terpakai, adalah dianggap bahawa kehendak itu telah dipenuhi."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Perdagangan Elektronik 2006."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Pemakaian"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 3, Akta ini hendaklah terpakai bagi apa-apa urus niaga perdagangan yang dijalankan melalui cara elektronik termasuk urus niaga perdagangan oleh Kerajaan Persekutuan dan Kerajaan Negeri."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini tidak terpakai bagi urus niaga atau dokumen yang dinyatakan dalam Jadual."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh melalui perintah meminda, mengubah, memotong daripada atau menambah kepada Jadual. Penggunaan tidak mandatori"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_3__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_3__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_3__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "TiadaapapundalamAktainibolehmenjadikannyamandatori bagi seseorang untuk menggunakan, member! atau menerima apa- apa mesej elektronik dalam mana-mana urus niaga perdagangan melainkan jika orang itu mengizinkan penggunaan, pemberian atau penerimaan mesej elektronik itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_3__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Keizinan seseorang untuk mengguna, memberi atau menerima apa-apa mesej elektronik dalam mana-mana urus niaga perdagangan boleh disimpulkan daripada perlakuan orang itu. Rujukan kepada undang-undang bertulis lain"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Pemakaian Akta ini hendaklah sebagai tambahan sifatnya dan tanpa menjejaskan mana-mana undang-undang lain yang mengawal selia urus niaga perdagangan. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I__cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_I",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksny a menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"elektronik\" ertinya teknologi yang menggunakan elektrik, optik, magnetik, elektromagnetik, biometrik, photonik atau teknologi lain yang seumpama; \"Menteri\" ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi perdagangan dalam negeri dan hal ehwal pengguna; \"mesej elektronik\" ertinya suatu maklumat yang dihasilkan, dihantar, diterima atau disimpan melalui cara elektronik; \"pemula\" ertinya seseorang yang melaluinya atau yang bagi pihaknya, suatu mesej elektronik dihasilkan atau dihantar; \"penerima\" ertinya seseorai;- yang dimaksudkan oleh pemula untuk menerima suatu mesej elektronik; \"sistem memproses maklumat\" ertinya suatu sistem elektronik untuk menghasilkan, menghantar, menerima, menyimpan atau memproses mesej elektronik; 5 \"tandatangan elektronik\" ertinya apa-apa huruf, aksara, nombor, bunyi atau apa-apa simbol lain atau apa-apa gabungannya yang dicipta dalam suatu bentuk elektronik yang diterima pakai oleh seseorang sebagai suatu tandatangan; \"urus niaga perdagangan\" ertinya suatu komunikasi sehala atau komunikasi pelbagai yang bersifat perdagangan, sama ada berbentuk kontraktual atau tidak, termasuklah apa-apa perkara yang berhubungan dengan pembekalan atau pertukaran barang-barang atau perkhidmatan, agensi, pelaburan, kewangan, perbankan dan insurans."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_V",
+      "@type": "akn:part",
+      "eli:number": "V",
+      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_V__cl_25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "PELBAGAI Peraturan-peraturan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_V__cl_25",
+      "@type": "akn:clause",
+      "eli:number": "25",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~part_V",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Menteri boleh membuat apa-apa peraturan yang perlu atau suai manfaat bagi memberikan kuat kuasa penuh kepada peruntukan Akta ini."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@/~sched_1",
+      "@type": "akn:schedule",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2006/17/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "(Seksyen 2) Akta ini tidak terpakai bagi transaksi atau dokumen yang berikut: 1. Surat kuasa wakil 2. Pembentukan wasiat dan kodisil 3. Pembentukan amanah 4. Surat cara boleh niaga"
+      }
+    }
+  ]
+}

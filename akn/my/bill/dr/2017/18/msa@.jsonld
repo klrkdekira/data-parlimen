@@ -1,0 +1,88 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-18-2017",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_3"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Kawalan Harga dan Antipencatutan (Pindaan) 2017"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Kawalan Harga dan Antipencatutan (Pindaan) 2017."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Seksyen baharu 10b dan 10c"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Kawalan Harga dan Antipencatutan 2011 [Akta 723], yang disebut “Akta ibu” dalam Akta ini, dipinda dengan memasukkan selepas seksyen 10a seksyen yang berikut: “Pempameranan harga atau caj termasuk cukai kerajaan, dsb. 10b. (1) Jika dalam penjalanan perdagangan atau perniagaan yang ditetapkan oleh Menteri, mana-mana orang mempamerkan, mengiklankan, menyiarkan atau menyebut atau menyebabkan untuk dipamerkan, diiklankan, disiarkan atau disebut harga apa-apa barangan atau caj bagi apa-apa perkhidmatan, mengikut apa-apa cara, orang itu hendaklah memasukkan dalam harga atau caj itu— (a) kecuali jika suatu kelulusan di bawah subseksyen 9(7) Akta Cukai Barang dan Perkhidmatan 2014 [Akta 762] telah diperoleh, semua cukai, duti dan caj kerajaan; dan (b) semua caj lain yang hendak dikenakan oleh orang itu ke atas barangan atau perkhidmatan itu. (2) Mana-mana orang yang melanggar subseksyen (1) melakukan suatu kesalahan. Kuasa Pengawal untuk mendapatkan maklumat 10c. (1) Pengawal boleh, melalui notis secara bertulis, mengarahkan mana-mana orang yang membekalkan atau menawarkan untuk membekalkan apa-apa barangan atau perkhidmatan untuk memberi Pengawal, dalam tempoh dan mengikut cara dan bentuk yang dinyatakan dalam notis itu, apa-apa penyata, dokumen atau maklumat yang mengandungi harga apa-apa barangan atau caj bagi apa-apa perkhidmatan yang dikenakan oleh orang itu dan apa-apa maklumat lain yang difikirkan perlu oleh Pengawal. (2) Mana-mana orang yang diarahkan untuk memberikan apa-apa penyata, dokumen atau maklumat di bawah subseksyen (1) hendaklah memberikan penyata, dokumen atau maklumat yang benar, tepat dan lengkap. (3) Mana-mana orang yang melanggar subseksyen (1) atau (2) melakukan suatu kesalahan.”. Pindaan seksyen 28"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2017/18/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Subseksyen 28(1) Akta ibu dipinda dengan memasukkan selepas perkataan “bagi maksud” perkataan “memeriksa,”."
+      }
+    }
+  ]
+}

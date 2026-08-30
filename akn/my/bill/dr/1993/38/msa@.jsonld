@@ -1,0 +1,197 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-38-1993",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_6"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Rang Undang-Undang Penggalakan Pelaburan (Pindaan) (No. 2) 1993"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Penggalakan Pelaburan (Pindaan) (No. 2) 1993 dan hendaklah disifatkan telah mula berkuatkuasa pada 1hb Januari 1993 dan hendaklah berkuatkuasa bagi tahun taksiran 1994 dan tahun-tahun taksiran yang kemudiannya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun subseksyen (1), seksyen 2 hendaklah disifatkan telah mula berkuatkuasa pada 10hb Disember 1992."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_2__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_2__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Akta Penggalakan Pelaburan 1986, yang disebut"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "\"Akta ibu\" dalam Akta ini, adalah dipinda dalam seksyen 29A—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_2__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan subseksyen (8) dengan subseksyen yang berikut: \"(8) Bagi maksud-maksud seksyen ini dan tertakluk kepada subseksyen (9), istilah \"perbelanjaan modal\" mempunyai erti yang diberikan kepadanya di bawah subseksyen (7) seksyen 29 dan hendaklah termasuk perbelanjaan modal yang dilakukan berkenaan dengan aset-aset yang ditentukan oleh Menteri dengan persetujuan bertulis Menteri Kewangan melalui perintah statutori yang disiarkan dalam Warta\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_2__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_2",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas subseksyen (8) subseksyen yang berikut: \"(9) Walau apa pun subseksyen (8), \"perbelanjaan modal\" tidaklah termasuk perbelanjaan modal yang dilakukan ke atas bangunan-bangunan (yang digunakan sebagai tempat tinggal bagi orang), loji dan jentera jika bangunan, loji atau jentera itu diperuntukkan keseluruhannya sebahagiannya bagi kegunaan seseorang pengarah atau orang individu yang menjadi ahli kakitangan pengurusan, pentadbiran atau perkeranian.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Seksyen 36 Akta ibu adalah dipinda dengan Pindaan seksyen 36. menggantikan subseksyen (2) dengan yang berikut: \"(2) Amaun pendapatan statutori yang hendak dikurangkan di bawah subseksyen (1) hendaklah amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport atas jumlah jualan: Dengan syarat selanjutnya bahawa jika tempoh asas suatu syarikat bagi tahun taksiran 1994 termasuklah suatu tempoh sebelum 1hb Januari 1993, amaun yang hendak dikurangkan hendaklah jumlah— (a) suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan lima puluh PENGGALAKAN PELABURAN (PINDAAN) (No. 2) peratus daripada jualan eksport daJam tempoh sebelum 1hb Januari 1993 atas jumlah jualan bagi seluruh tempoh asas; dan (b) suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport dalam tempoh selepas 31hb Disember 1992 atas jumlah jualan bagi seluruh tempoh asas: Dengan syarat selanjutnya bahawa jika suatu syarikat itu mengeksport pada atau selepas 1hb Januari 1994 dan tempoh asasnya bagi tahun taksiran 1995 termasuklah suatu tempoh sebelum 1hb Januari 1994, syarikat itu hendaklah diberi pengurangan pendapatan statutorinya di bawah subseksyen (1) dan amaun yang hendak dikurangkan di bawah subseksyen (2) hendaklah suatu amaun yang ditentukan dengan mengenakan kepada pendapatan statutori suatu kadar yang sama banyak dengan dua puluh lima peratus daripada jualan eksport dalam tempoh sebelum 1hb Januari 1994 atas jumlah jualan bagi seluruh tempoh asas.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_4__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_4__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Seksyen 38 Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_4__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah di akhir perenggan (b) dengan koma bernoktah dan perkataan \"dan\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_4__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_4",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan memasukkan selepas perenggan (b) perenggan yang berikut: \"(c) suatu syarikat berkenaan dengan eksport yang dibuat pada atau selepas 1hb Januari 1994.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Subseksyen 39(2) Akta ibu adalah dipinda—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan perkataan \"lima\" dalam perenggan (b) dengan perkataan \"tiga\"; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "dengan menggantikan noktah subperenggan (b)(ii) dengan noktah bertindih dan memasukkan selepas subperenggan (ii) proviso yang berikut: \"Dengan syarat bahawa jika tempoh asas suatu syarikat bagi tahun taksiran 1994 termasuklah suatu tempoh sebelum 1hb Januari 1993, amaun potongan yang hendak dibuat di bawah subseksyen (1) hendaklah jumlah— (A) amaun yang sama banyak dengan lima peratus daripada pendapatan kasar yang ditentukan di bawah perenggan (2)(a) yang diperolehi daripada pengeksportan pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh sebelum 1hb Januari 1993; dan (B) amaun yang sama banyak dengan tiga peratus daripada pendapatan kasar yang ditentukan di bawah perenggan (2)(a) yang diperolehi daripada pengeksportan hasil pertanian atau pengeksportan oleh suatu syarikat perdagangan akan keluaran-keluaran yang dikilang di Malaysia dalam tempoh selepas 31hb Disember 1992.\"."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1993/38/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ibu adalah dipinda dengan memasukkan selepas baru 40A. seksyen 40 seksyen yang berikut: \"Elaun eks- 40A. Bab ini tidaklah terpakai bagi suatu port tidak syarikat berkenaan dengan eksport yang dibuat boleh didapati. pada atau selepas 1hb Januari 1994.\". PENGGALAKAN PELABURAN (PINDAAN) (No. 2)"
+      }
+    }
+  ]
+}

@@ -243,21 +243,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15",
       "@type": "akn:clause",
       "eli:number": "15",
-      "hasPart": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15__subsec_2",
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 42 seksyen yang berikut: “Berlumba atau dugaan kelajuan 42a. (1) Mana-mana orang yang berlumba di jalan yang melibatkan dua atau lebih kenderaan motor melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_15",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Mana-mana orang yang mengambil bahagian dalam menduga kelajuan di jalan yang melibatkan satu atau lebih kenderaan motor melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 52"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 42 seksyen yang berikut: “Berlumba atau dugaan kelajuan 42a. (1) Mana-mana orang yang berlumba di jalan yang melibatkan dua atau lebih kenderaan motor melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya. (2) Mana-mana orang yang mengambil bahagian dalam menduga kelajuan di jalan yang melibatkan satu atau lebih kenderaan motor melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada dua ribu ringgit dan tidak lebih daripada sepuluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi dua tahun atau kedua-duanya dan, dalam hal sabitan kali kedua atau kali kemudian, didenda tidak kurang daripada lima ribu ringgit dan tidak lebih daripada dua puluh ribu ringgit atau dipenjarakan selama tempoh tidak melebihi lima tahun atau kedua-duanya.”. Pindaan seksyen 52"
       }
     },
     {
@@ -430,56 +419,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
       "@type": "akn:paragraph",
       "eli:number": "c",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_ii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_iii",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_iv"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (oo) dengan perenggan yang berikut: “(oo) bagi mengawal selia dan menetapkan—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "pendaftaran mana-mana orang yang memberikan penentusahan teknikal pembinaan, pengubahan, pengubahsuaian dan pembaikan suatu kenderaan motor;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "pendaftaran mana-mana orang yang melaksanakan pembinaan, pengubahan, pengubahsuaian dan pembaikan suatu kenderaan motor dan komponennya;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_iii",
-      "@type": "akn:subparagraph",
-      "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "tatacara apa-apa pembinaan, pengubahan, pengubahsuaian, pembaikan, penilaian kerosakan dan keaslian suatu kenderaan motor dan komponennya; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c__subpara_iv",
-      "@type": "akn:subparagraph",
-      "eli:number": "iv",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_20__para_c",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "fi yang dikenakan yang berhubungan dengannya;”;"
+        "@value": "dengan menggantikan perenggan (oo) dengan perenggan yang berikut: “(oo) bagi mengawal selia dan menetapkan— (i) pendaftaran mana-mana orang yang memberikan penentusahan teknikal pembinaan, pengubahan, pengubahsuaian dan pembaikan suatu kenderaan motor; (ii) pendaftaran mana-mana orang yang melaksanakan pembinaan, pengubahan, pengubahsuaian dan pembaikan suatu kenderaan motor dan komponennya; (iii) tatacara apa-apa pembinaan, pengubahan, pengubahsuaian, pembaikan, penilaian kerosakan dan keaslian suatu kenderaan motor dan komponennya; dan (iv) fi yang dikenakan yang berhubungan dengannya;”;"
       }
     },
     {
@@ -768,56 +711,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
       "@type": "akn:clause",
       "eli:number": "30",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_c",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__subsec_2"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 110a yang dipotong seksyen yang berikut: “Halangan, serangan dsb. 110b. (1) Mana-mana orang yang—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "menghalang, mengganggu, menyerang, mengancam, memprovokasi, mengeluarkan kata-kata kesat, mencederakan, memudaratkan atau mencabul mana-mana pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "mengekori suatu kenderaan motor pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "menyebarkan maklumat mengenai apa-apa aktiviti pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini, melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak kurang daripada satu tahun dan tidak lebih daripada lima tahun atau kedua-duanya."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30__subsec_2",
-      "@type": "akn:subsection",
-      "eli:number": "2",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_30",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Suatu kesalahan yang boleh dihukum di bawah seksyen ini adalah suatu kesalahan boleh tangkap dan mana-mana pegawai polis atau pegawai pengangkutan jalan boleh menyita dan menahan apa-apa kenderaan motor atau apa-apa benda bagi maksud prosiding di bawah Akta ini.”. Pindaan seksyen 112"
+        "@value": "Akta ibu dipinda dengan memasukkan selepas seksyen 110a yang dipotong seksyen yang berikut: “Halangan, serangan dsb. 110b. (1) Mana-mana orang yang— (a) menghalang, mengganggu, menyerang, mengancam, memprovokasi, mengeluarkan kata-kata kesat, mencederakan, memudaratkan atau mencabul mana-mana pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini; (b) mengekori suatu kenderaan motor pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini; atau (c) menyebarkan maklumat mengenai apa-apa aktiviti pegawai polis atau pegawai pengangkutan jalan dalam melaksanakan apa-apa kewajipan yang dikenakan atau kuasa yang diberikan oleh Akta ini, melakukan suatu kesalahan dan apabila disabitkan boleh didenda tidak kurang daripada sepuluh ribu ringgit dan tidak lebih daripada lima puluh ribu ringgit atau dipenjarakan selama tempoh tidak kurang daripada satu tahun dan tidak lebih daripada lima tahun atau kedua-duanya. (2) Suatu kesalahan yang boleh dihukum di bawah seksyen ini adalah suatu kesalahan boleh tangkap dan mana-mana pegawai polis atau pegawai pengangkutan jalan boleh menyita dan menahan apa-apa kenderaan motor atau apa-apa benda bagi maksud prosiding di bawah Akta ini.”. Pindaan seksyen 112"
       }
     },
     {
@@ -826,8 +723,7 @@
       "eli:number": "31",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__subsec_5"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
       "schema:name": {
@@ -852,17 +748,7 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Jika mana-mana kenderaan mikromobiliti ditahan di bawah subseksyen (3), pegawai polis, pegawai pengangkutan jalan atau warden lalu lintas hendaklah memberikan notis secara bertulis bagi penahanan itu kepada pemunya atau pengguna kenderaan mikromobiliti itu dan jika kenderaan mikromobiliti itu tidak dituntut oleh pemunya atau penggunanya dalam masa satu bulan dari tarikh penahanan itu, pegawai polis, pegawai pengangkutan jalan atau warden lalu lintas hendaklah, melalui permohonan bertulis Pendakwa Raya, dengan serta-merta merujuk kepada Majistret yang hendaklah membuat suatu perintah bagi pelupusan kenderaan mikromobiliti itu."
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31__subsec_5",
-      "@type": "akn:subsection",
-      "eli:number": "5",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_31",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Tertakluk kepada subseksyen (4), Majistret hendaklah membuat suatu perintah bagi pelupusan kenderaan mikromobiliti itu dan apa-apa hasil daripada pelupusan itu hendaklah dilucuthakkan ke dalam hasil Kerajaan Persekutuan.”. Pindaan seksyen 117"
+        "@value": "dengan memasukkan selepas subseksyen (3) subseksyen yang berikut: “(4) Jika mana-mana kenderaan mikromobiliti ditahan di bawah subseksyen (3), pegawai polis, pegawai pengangkutan jalan atau warden lalu lintas hendaklah memberikan notis secara bertulis bagi penahanan itu kepada pemunya atau pengguna kenderaan mikromobiliti itu dan jika kenderaan mikromobiliti itu tidak dituntut oleh pemunya atau penggunanya dalam masa satu bulan dari tarikh penahanan itu, pegawai polis, pegawai pengangkutan jalan atau warden lalu lintas hendaklah, melalui permohonan bertulis Pendakwa Raya, dengan serta-merta merujuk kepada Majistret yang hendaklah membuat suatu perintah bagi pelupusan kenderaan mikromobiliti itu. (5) Tertakluk kepada subseksyen (4), Majistret hendaklah membuat suatu perintah bagi pelupusan kenderaan mikromobiliti itu dan apa-apa hasil daripada pelupusan itu hendaklah dilucuthakkan ke dalam hasil Kerajaan Persekutuan.”. Pindaan seksyen 117"
       }
     },
     {
@@ -1262,8 +1148,7 @@
       "eli:number": "41",
       "hasPart": [
         "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_iii"
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_b"
       ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
       "schema:name": {
@@ -1288,62 +1173,17 @@
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan memasukkan selepas butiran (i) butiran yang berikut: “(ii) Akta Lembaga Pelesenan Kenderaan Perdagangan 1987"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41__para_iii",
-      "@type": "akn:paragraph",
-      "eli:number": "iii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_41",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "Akta Pengangkutan Awam Darat 2010”. ________"
+        "@value": "dengan memasukkan selepas butiran (i) butiran yang berikut: “(ii) Akta Lembaga Pelesenan Kenderaan Perdagangan 1987 (iii) Akta Pengangkutan Awam Darat 2010”. ________"
       }
     },
     {
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
       "@type": "akn:clause",
       "eli:number": "5",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_b",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_c"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@",
       "schema:text": {
         "@language": "ms",
-        "@value": "Seksyen 10 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Tiada suatu pun kenderaan motor boleh didaftarkan kecuali—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "berhubung dengan suatu kenderaan motor, kenderaan motor itu mempunyai nombor enjin dan nombor casis yang terang, jelas dan tidak terusik;"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "berhubung dengan suatu kenderaan motor elektrik, kenderaan motor elektrik itu mempunyai nombor siri kenderaan motor elektrik dan nombor casis yang terang, jelas dan tidak terusik; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5__para_c",
-      "@type": "akn:paragraph",
-      "eli:number": "c",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_5",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "fi yang ditetapkan telah dibayar.”. Pindaan seksyen 14"
+        "@value": "Seksyen 10 Akta ibu dipinda dengan menggantikan subseksyen (3) dengan subseksyen yang berikut: “(3) Tiada suatu pun kenderaan motor boleh didaftarkan kecuali— (a) berhubung dengan suatu kenderaan motor, kenderaan motor itu mempunyai nombor enjin dan nombor casis yang terang, jelas dan tidak terusik; (b) berhubung dengan suatu kenderaan motor elektrik, kenderaan motor elektrik itu mempunyai nombor siri kenderaan motor elektrik dan nombor casis yang terang, jelas dan tidak terusik; dan (c) fi yang ditetapkan telah dibayar.”. Pindaan seksyen 14"
       }
     },
     {
@@ -1419,34 +1259,10 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a",
       "@type": "akn:paragraph",
       "eli:number": "a",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a__subpara_i",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a__subpara_ii"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9",
       "schema:text": {
         "@language": "ms",
-        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) butir-butir pengenalan—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a__subpara_i",
-      "@type": "akn:subparagraph",
-      "eli:number": "i",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "kenderaan motor itu, termasuk nombor enjin dan nombor casis, kekal terang, jelas dan tidak terusik dan adalah serupa dengan butir-butir bersamaan yang terkandung dalam perakuan pendaftaran itu; dan"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a__subpara_ii",
-      "@type": "akn:subparagraph",
-      "eli:number": "ii",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2026/7/msa@/~cl_9__para_a",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "kenderaan motor elektrik itu, termasuk nombor siri kenderaan motor elektrik dan nombor casis, kekal terang, jelas dan tidak terusik dan adalah serupa dengan butir-butir bersamaan yang terkandung dalam perakuan pendaftaran itu;”;"
+        "@value": "dengan menggantikan perenggan (b) dengan perenggan yang berikut: “(b) butir-butir pengenalan— (i) kenderaan motor itu, termasuk nombor enjin dan nombor casis, kekal terang, jelas dan tidak terusik dan adalah serupa dengan butir-butir bersamaan yang terkandung dalam perakuan pendaftaran itu; dan (ii) kenderaan motor elektrik itu, termasuk nombor siri kenderaan motor elektrik dan nombor casis, kekal terang, jelas dan tidak terusik dan adalah serupa dengan butir-butir bersamaan yang terkandung dalam perakuan pendaftaran itu;”;"
       }
     },
     {

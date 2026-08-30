@@ -1,0 +1,416 @@
+{
+  "@context": {
+    "akn": "http://docs.oasis-open.org/legaldocml/ns/akn/3.0#",
+    "eli": "http://data.europa.eu/eli/ontology#",
+    "hasPart": {
+      "@id": "eli:has_part",
+      "@type": "@id"
+    },
+    "isPartOf": {
+      "@id": "eli:is_part_of",
+      "@type": "@id"
+    },
+    "schema": "https://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@",
+      "@type": "akn:bill",
+      "eli:is_realized_by": {
+        "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41"
+      },
+      "eli:jurisdiction": {
+        "@id": "http://publications.europa.eu/resource/authority/country/MYS"
+      },
+      "eli:language": "ms",
+      "eli:number": "DR-41-2024",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_5",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_7",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_10",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_12"
+      ],
+      "schema:name": {
+        "@language": "ms",
+        "@value": "RUU Lembaga Pelabuhan Bintulu (Pembubaran) 2024"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_1",
+      "@type": "akn:clause",
+      "eli:number": "1",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_1__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_1__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_10",
+      "@type": "akn:clause",
+      "eli:number": "10",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_10__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_10__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_10__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Akta ini, semua undang-undang bertulis termasuk perundangan subsidiari yang berkuat kuasa sebelum tarikh permulaan kuat kuasa Akta ini hendaklah, sehingga dipinda atau dibatalkan, terus berkuat kuasa dan ditafsirkan seolah-olah Akta ini tidak pernah diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_10__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_10",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa sebutan mengenai Lembaga dalam mana-mana undang-undang bertulis termasuk perundangan subsidiari atau dokumen hendaklah ditafsirkan sebagai sebutan mengenai Bintulu Port Authority (Sarawak). Peletakhakan harta, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11",
+      "@type": "akn:clause",
+      "eli:number": "11",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_4",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_5"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada Akta ini, Menteri boleh, dari semasa ke semasa, melalui perintah yang disiarkan dalam Warta, menetapkan suatu tarikh peletakhakan dan pada tarikh itu semua harta, hak, kepentingan, obligasi dan liabiliti Lembaga yang dinyatakan oleh Menteri dalam perintah itu hendaklah, menurut kuasa Akta ini, dipindahkan kepada dan terletak hak pada Kerajaan atau Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan, mengikut persetujuan bertulis Kerajaan dan Kerajaan Negeri Sarawak tanpa apa-apa pemindahhakan, penyerahhakan atau pemindahan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap harta, hak, kepentingan, obligasi dan liabiliti yang dipindahkan kepada dan terletak hak pada Lembaga hendaklah dipindahkan kepada dan terletak hak pada Kerajaan atau Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan, mengikut persetujuan bertulis Kerajaan dan Kerajaan Negeri Sarawak, dengan hakmilik, estet atau kepentingan yang serupa dan dengan tempoh pemegangan yang serupa sebagaimana harta, hak, kepentingan, obligasi dan liabiliti itu terletak hak atau dipegang sebelum tarikh peletakhakan itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Mana-mana tanah yang sebelum tarikh permulaan kuat kuasa Akta ini terletak hak pada Lembaga hendaklah, pada tarikh peletakhakan, terletak hak pada Kerajaan Negeri Sarawak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tertakluk kepada seksyen 5, mana-mana harta dan aset selain tanah yang sebelum tarikh permulaan kuat kuasa Akta ini terletak hak pada Lembaga hendaklah, pada tarikh peletakhakan, terletak hak pada Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11__subsec_5",
+      "@type": "akn:subsection",
+      "eli:number": "5",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_11",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam hal harta, hak, kepentingan, obligasi dan liabiliti yang berbangkit di bawah apa-apa pinjaman yang terletak hak pada Kerajaan atau Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan pada tarikh peletakhakan, Kerajaan atau Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan boleh membuat perjanjian atau perkiraan mengenai hak, kepentingan, obligasi dan liabiliti itu dengan mana-mana orang lain. Persetujuan bertulis"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_12",
+      "@type": "akn:clause",
+      "eli:number": "12",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, “persetujuan bertulis” ertinya persetujuan kedua-dua Kerajaan dan Kerajaan Negeri Sarawak sebagaimana yang dinyatakan dalam apa-apa dokumen atau instrumen yang diperakui dan disahkan oleh Kerajaan dan Kerajaan Negeri Sarawak."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_1__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini bolehlah dinamakan Akta Lembaga Pelabuhan Bintulu (Pembubaran) 2024."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_1__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_1",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta ini mula berkuat kuasa pada tarikh yang ditetapkan oleh Menteri melalui pemberitahuan dalam Warta. Tafsiran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_2",
+      "@type": "akn:clause",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Dalam Akta ini, melainkan jika konteksnya menghendaki makna yang lain—"
+      },
+      "schema:text": {
+        "@language": "ms",
+        "@value": "“Bintulu Port Authority (Sarawak)” ertinya Bintulu Port Authority (Sarawak) yang ditubuhkan di bawah seksyen 3 Port Authorities Ordinance 1961 [Ord No. 1/61]; “Lembaga” ertinya Lembaga Pelabuhan Bintulu yang ditubuhkan di bawah seksyen 3 Akta Lembaga Pelabuhan Bintulu 1981; “Menteri” ertinya Menteri yang dipertanggungkan dengan tanggungjawab bagi pengangkutan. Pemansuhan dan pembubaran"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_3",
+      "@type": "akn:clause",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Akta Lembaga Pelabuhan Bintulu 1981 [Akta 243] dimansuhkan dan Lembaga yang ditubuhkan di bawah Akta itu dibubarkan. Pemindahan kuasa, hak, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_4",
+      "@type": "akn:clause",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua kuasa, hak, kewajipan, liabiliti dan obligasi yang sebelum tarikh permulaan kuat kuasa Akta ini adalah kuasa, hak, kewajipan, liabiliti dan obligasi Lembaga hendaklah, pada tarikh permulaan kuat kuasa Akta ini, diturunkan kepada Kerajaan atau Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan, mengikut persetujuan bertulis Kerajaan dan Kerajaan Negeri Sarawak. Pemindahan aset kewangan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_5",
+      "@type": "akn:clause",
+      "eli:number": "5",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_5__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_5__subsec_2"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_5__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua aset kewangan yang ada pada, atau yang kena dibayar kepada, Lembaga hendaklah, pada tarikh permulaan kuat kuasa Akta ini, dipindahkan kepada Kerajaan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_5__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_5",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Dalam seksyen ini, “aset kewangan” ertinya apa-apa aset yang dimiliki oleh Lembaga termasuk pinjaman yang diberikan, urus niaga belum terima dan pelaburan, yang boleh dicairkan kepada nilai wang tunai. Deposit, terimaan pendahuluan dan sewa pajakan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6",
+      "@type": "akn:clause",
+      "eli:number": "6",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6__para_b",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6__para_c"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@",
+      "schema:name": {
+        "@language": "ms",
+        "@value": "Pada tarikh permulaan kuat kuasa Akta ini—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua deposit sewa dan deposit pajakan yang ada pada Lembaga;"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "semua terimaan pendahuluan pajakan yang ada pada Lembaga; dan"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6__para_c",
+      "@type": "akn:paragraph",
+      "eli:number": "c",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_6",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "sewa pajakan yang kena dibayar kepada Lembaga, hendaklah dipindahkan kepada Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan. Kontrak sedia ada, dsb."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_7",
+      "@type": "akn:clause",
+      "eli:number": "7",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Semua perjanjian, surat ikatan, dokumen dan surat cara lain yang wujud sebelum tarikh permulaan kuat kuasa Akta ini dan menyentuh mana-mana harta atau wang yang dipindahkan di bawah Akta ini hendaklah terus berkuat kuasa dan berkesan sepenuhnya, terhadap atau memihak kepada Kerajaan atau Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan, mengikut persetujuan bertulis Kerajaan dan Kerajaan Negeri Sarawak, dan boleh dikuatkuasakan sepenuhnya dan dengan berkesannya seolah-olah, bukannya Lembaga, tetapi Kerajaan atau Kerajaan Negeri Sarawak atau mana-mana entiti yang diberi kuasa atau dilantik oleh Kerajaan Negeri Sarawak di bawah undang-undang bertulis yang berkaitan yang telah dinamakan dalam perjanjian, surat ikatan, dokumen dan surat cara lain itu dan telah menjadi suatu pihak kepada perjanjian, surat ikatan, dokumen dan surat cara lain itu. Kecualian bagi lesen"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8",
+      "@type": "akn:clause",
+      "eli:number": "8",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8__subsec_3",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8__subsec_4"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiap-tiap orang yang, sebelum tarikh permulaan kuat kuasa Akta ini, memegang lesen yang sah yang dikeluarkan kepadanya di bawah Akta Lembaga Pelabuhan Bintulu 1981 hendaklah, pada tarikh permulaan kuat kuasa Akta ini, disifatkan sebagai pemegang lesen di bawah Port Authorities Ordinance 1961 sehingga tarikh habis tempoh lesen itu dan tertakluk kepada terma dan syarat yang dikaitkan dengan lesen itu."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Tiada apa pun dalam seksyen ini boleh ditafsirkan sebagai melanjutkan tempoh atau jangka masa lesen yang dinyatakan dalam subseksyen (1) melampaui tarikh habis tempohnya."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Bintulu Port Authority (Sarawak) boleh mengubah terma dan syarat yang dikaitkan dengan lesen di bawah subseksyen (1) bagi maksud menyelaraskan lesen itu dengan Port Authorities Ordinance 1961."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8__subsec_4",
+      "@type": "akn:subsection",
+      "eli:number": "4",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_8",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Peruntukan yang berhubungan dengan pembatalan lesen di bawah Port Authorities Ordinance 1961 hendaklah terpakai bagi orang yang disebut dalam subseksyen (1). Penerusan prosiding"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9",
+      "@type": "akn:clause",
+      "eli:number": "9",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_1",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_2",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_3"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@"
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_1",
+      "@type": "akn:subsection",
+      "eli:number": "1",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa prosiding atau kausa tindakan oleh atau terhadap Lembaga yang belum selesai atau yang wujud sebelum tarikh permulaan kuat kuasa Akta ini boleh diteruskan atau dimulakan oleh atau terhadap Bintulu Port Authority (Sarawak) sebagaimana prosiding atau kausa tindakan itu boleh diteruskan atau dimulakan oleh atau terhadap Lembaga jika Akta ini tidak diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_2",
+      "@type": "akn:subsection",
+      "eli:number": "2",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Apa-apa rayuan yang dibawa, atau apa-apa kebenaran untuk merayu yang dipohon, pada atau selepas tarikh permulaan kuat kuasa Akta ini, terhadap sesuatu keputusan yang diberikan sebelum tarikh permulaan kuat kuasa Akta ini dalam mana-mana prosiding undang-undang yang Lembaga menjadi suatu pihak boleh dibawa oleh atau terhadap Bintulu Port Authority (Sarawak) sebagaimana rayuan atau kebenaran untuk merayu itu boleh dibawa atau dimohon oleh atau terhadap Lembaga jika Akta ini tidak diluluskan."
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_3",
+      "@type": "akn:subsection",
+      "eli:number": "3",
+      "hasPart": [
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_3__para_a",
+        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_3__para_b"
+      ],
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "Walau apa pun dalam seksyen ini, Kerajaan hendaklah menanggung kos dan perbelanjaan apa-apa prosiding atau kausa tindakan yang—"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_3__para_a",
+      "@type": "akn:paragraph",
+      "eli:number": "a",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "penghakiman atau award telah dibuat terhadap Lembaga; atau"
+      }
+    },
+    {
+      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_3__para_b",
+      "@type": "akn:paragraph",
+      "eli:number": "b",
+      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/2024/41/msa@/~cl_9__subsec_3",
+      "schema:text": {
+        "@language": "ms",
+        "@value": "terakru terhadap Lembaga, sebelum tarikh permulaan kuat kuasa Akta ini. Penerusan undang-undang, dsb."
+      }
+    }
+  ]
+}

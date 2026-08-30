@@ -70,10 +70,6 @@
       "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/msa@/~cl_2",
       "@type": "akn:clause",
       "eli:number": "2",
-      "hasPart": [
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/msa@/~cl_2__para_a",
-        "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/msa@/~cl_2__para_b"
-      ],
       "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/msa@",
       "schema:name": {
         "@language": "ms",
@@ -81,27 +77,7 @@
       },
       "schema:text": {
         "@language": "ms",
-        "@value": "ibu\" dalam Akta ini, adalah dipinda dalam seksyen 16 dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) Bagi semua pakej pelancongan ke luar negeri, pengendali pelancongan berlesen hendaklah—"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/msa@/~cl_2__para_a",
-      "@type": "akn:paragraph",
-      "eli:number": "a",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "membeli polisi insurans; atau"
-      }
-    },
-    {
-      "@id": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/msa@/~cl_2__para_b",
-      "@type": "akn:paragraph",
-      "eli:number": "b",
-      "isPartOf": "https://cheeleong.dev/data-parlimen/akn/my/bill/dr/1998/13/msa@/~cl_2",
-      "schema:text": {
-        "@language": "ms",
-        "@value": "menyebabkan bayaran deposit dalam bentuk wang tunai atau jaminan bank dibuat kepada Pesuruhjaya, mengikut mana-mana yang berkenaan, sebagaimana yang diarahkan oleh Pesuruhjaya.\". Pindaan"
+        "@value": "ibu\" dalam Akta ini, adalah dipinda dalam seksyen 16 dengan memasukkan selepas subseksyen (2) subseksyen yang berikut: \"(3) Bagi semua pakej pelancongan ke luar negeri, pengendali pelancongan berlesen hendaklah— (a) membeli polisi insurans; atau (b) menyebabkan bayaran deposit dalam bentuk wang tunai atau jaminan bank dibuat kepada Pesuruhjaya, mengikut mana-mana yang berkenaan, sebagaimana yang diarahkan oleh Pesuruhjaya.\". Pindaan"
       }
     },
     {
